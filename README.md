@@ -24,3 +24,7 @@ This repo maintain's in-scope and out-of-scope
 - #### Yeswehack:
   - [yeswehack_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/yeswehack_inscope.txt)
   - [yeswehack_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/yeswehack_outofscope.txt)
+
+## 📌 References
+- https://github.com/arkadiyt/bounty-targets-data
+- https://github.com/Osb0rn3/bugbounty-targets
