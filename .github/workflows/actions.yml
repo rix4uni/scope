@@ -21,7 +21,6 @@ jobs:
 
     - name: Installing tar and unew via binary
       run: |
-        sudo apt install unzip
         sudo apt install tar
         wget https://github.com/rix4uni/unew/releases/download/v0.0.4/unew-linux-amd64-0.0.5.tgz
         tar -xvzf unew-linux-amd64-0.0.5.tgz
