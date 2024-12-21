@@ -1,5 +1,3 @@
-app.aikido.dev
-github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -92,6 +90,7 @@ delen.be
 *.digitalocean.com
 api.digitalocean.com
 cloud.digitalocean.com
+github.com
 marketplace.digitalocean.com
 snapshooter.com
 digitalocean.com
