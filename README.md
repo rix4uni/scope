@@ -3,38 +3,38 @@ This repo maintain's in-scope and out-of-scope
 
 #### NewData:
 - #### Wildcards
-  - [newdata_inscope_wildcards.txt](https://github.com/rix4uni/scope/blob/main/data/newdata_inscope_wildcards.txt)
+  - [newdata_inscope_wildcards.txt](https://github.com/rix4uni/scope/blob/main/data/NewData/newdata_inscope_wildcards.txt)
 
 - #### Domains
-  - [newdata_inscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/newdata_inscope_domains.txt)
+  - [newdata_inscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/NewData/newdata_inscope_domains.txt)
 
 
 #### Main files:
 - #### Wildcards:
-  - [inscope_wildcards.txt](https://github.com/rix4uni/scope/blob/main/data/inscope_wildcards.txt)
-  - [outofscope_wildcards.txt](https://github.com/rix4uni/scope/blob/main/data/outofscope_wildcards.txt)
+  - [inscope_wildcards.txt](https://github.com/rix4uni/scope/blob/main/data/Wildcards/inscope_wildcards.txt)
+  - [outofscope_wildcards.txt](https://github.com/rix4uni/scope/blob/main/data/Wildcards/outofscope_wildcards.txt)
 
 - #### Domains:
-  - [inscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/inscope_domains.txt)
-  - [outofscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/outofscope_domains.txt)
+  - [inscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/Domains/inscope_domains.txt)
+  - [outofscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/Domains/outofscope_domains.txt)
 
 
 #### Platform Based files:
 - #### Bugcrowd:
-  - [bugcrowd_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/bugcrowd_inscope.txt)
-  - [bugcrowd_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/bugcrowd_outofscope.txt)
+  - [bugcrowd_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Bugcrowd/bugcrowd_inscope.txt)
+  - [bugcrowd_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Bugcrowd/bugcrowd_outofscope.txt)
 
 - #### Hackerone:
-  - [hackerone_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/hackerone_inscope.txt)
-  - [hackerone_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/hackerone_outofscope.txt)
+  - [hackerone_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Hackerone/hackerone_inscope.txt)
+  - [hackerone_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Hackerone/hackerone_outofscope.txt)
 
 - #### Intigriti:
-  - [intigriti_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/intigriti_inscope.txt)
-  - [intigriti_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/intigriti_outofscope.txt)
+  - [intigriti_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Intigriti/intigriti_inscope.txt)
+  - [intigriti_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Intigriti/intigriti_outofscope.txt)
 
 - #### Yeswehack:
-  - [yeswehack_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/yeswehack_inscope.txt)
-  - [yeswehack_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/yeswehack_outofscope.txt)
+  - [yeswehack_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Yeswehack/yeswehack_inscope.txt)
+  - [yeswehack_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Yeswehack/yeswehack_outofscope.txt)
 
 ## 📌 References
 - https://github.com/arkadiyt/bounty-targets-data
