@@ -3404,6 +3404,7 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -3490,6 +3491,18 @@ kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
+be.gamma.app.android
+kassa.gamma.be
+kassa.gamma.nl
+kassa.karwei.nl
+mijn.gamma.be
+mijn.gamma.nl
+mijn.karwei.nl
+nl.gamma.app.android
+nl.karwei.app.android
+gamma.be
+gamma.nl
+karwei.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com

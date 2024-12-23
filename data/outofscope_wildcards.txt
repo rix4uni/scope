@@ -154,6 +154,7 @@
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
+*.aikido.dev
 *.allegro.sk
 *.allegro.cz
 *.allegro.pl
@@ -179,6 +180,7 @@
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
 *.oisl.gg
 *.vectus.in
