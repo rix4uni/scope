@@ -2,9 +2,6 @@
 wget -P arkadiyt -q https://github.com/arkadiyt/bounty-targets-data/archive/refs/heads/main.zip
 unzip -q arkadiyt/main.zip -d arkadiyt
 
-wget -P Osb0rn3 -q https://github.com/Osb0rn3/bugbounty-targets/archive/refs/heads/main.zip
-unzip -q Osb0rn3/main.zip -d Osb0rn3
-
 # Delete old files
 mv data old_data
 
@@ -23,9 +20,6 @@ mkdir -p data/NewData
 cat arkadiyt/bounty-targets-data-main/data/bugcrowd_data.json | jq -r '.[].targets.in_scope[] | .target, .uri, .name' | grep -oP '(\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,})' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -v ".js$" | grep "\." | unew -el -t -i -q data/Bugcrowd/bugcrowd_inscope.txt
 cat arkadiyt/bounty-targets-data-main/data/bugcrowd_data.json | jq -r '.[].targets.out_of_scope[] | .target, .uri, .name' | grep -oP '(\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,})' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -v ".js$" | grep "\." | unew -el -t -i -q data/Bugcrowd/bugcrowd_outofscope.txt
 
-cat Osb0rn3/bugbounty-targets-main/programs/bugcrowd.json | jq -r '.[] | select(.category=="rdp") | select(.target_groups != null) | .target_groups[] | select(.in_scope==true) | .targets[] | .name, .uri' | grep -oP '(\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,})' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -v ".js$" | grep "\." | unew -el -t -i -q data/Bugcrowd/bugcrowd_inscope.txt
-cat Osb0rn3/bugbounty-targets-main/programs/bugcrowd.json | jq -r '.[] | select(.category=="rdp") | select(.target_groups != null) | .target_groups[] | select(.in_scope==false) | .targets[] | .name, .uri' | grep -oP '(\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,})' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -v ".js$" | grep "\." | unew -el -t -i -q data/Bugcrowd/bugcrowd_outofscope.txt
-
 
 # Hackerone
 cat arkadiyt/bounty-targets-data-main/data/hackerone_data.json | jq -r '.[] | .targets.in_scope[] | select(.eligible_for_bounty==true) | .asset_identifier, .instruction' | grep -oP '(\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,})' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -v ".js$" | grep "\." | unew -el -t -i -q data/Hackerone/hackerone_inscope.txt
@@ -40,9 +34,6 @@ cat arkadiyt/bounty-targets-data-main/data/intigriti_data.json | jq -r '.[] | .t
 # Yeswehack
 cat arkadiyt/bounty-targets-data-main/data/yeswehack_data.json | jq -r '.[].targets.in_scope[].target' | grep -oP '(\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,})' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -v ".js$" | grep "\." | unew -el -t -i -q data/Yeswehack/yeswehack_inscope.txt
 cat arkadiyt/bounty-targets-data-main/data/yeswehack_data.json | jq -r '.[].targets.out_of_scope[].target' | grep -oP '(\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,})' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -v ".js$" | grep "\." | unew -el -t -i -q data/Yeswehack/yeswehack_outofscope.txt
-
-cat Osb0rn3/bugbounty-targets-main/programs/yeswehack.json | jq -r '.[] | select(.bounty==true) | .scopes[].scope' | grep -oP '(\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,})' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -v ".js$" | grep "\." | unew -el -t -i -q data/Yeswehack/yeswehack_inscope.txt
-cat Osb0rn3/bugbounty-targets-main/programs/yeswehack.json | jq -r '.[] | select(.bounty==true) | .scopes[].scope' | grep "|" | while IFS= read -r line;do prefix=$(echo "$line" | cut -d"(" -f1); echo "$line" | sed 's/.*(\(.*\)).*/\1/' | sed 's/|/\n/g' | awk -v prefix="$prefix" '{print prefix $1}';done | tr ")" " " | grep -oP '(\*\.?[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,}|[a-zA-Z0-9]+([.-][a-zA-Z0-9]+)*\.[a-zA-Z]{2,})' | tr "," "\n" | sed 's/http[s]*:\/\/\|www.//g' | cut -d'/' -f1 | tr " " "\n" | sed 's/\s//g' | egrep -v "@" | egrep -v "^com\." | egrep -v ".js$" | grep "\." | unew -el -t -i -q data/Yeswehack/yeswehack_inscope.txt
 
 
 # Wildcards
@@ -60,4 +51,4 @@ cat data/Domains/inscope_domains.txt | unew -el -t -i old_data/Domains/inscope_d
 
 
 # Deleting downloaded data
-rm -rf arkadiyt Osb0rn3 old_data
+rm -rf arkadiyt old_data
