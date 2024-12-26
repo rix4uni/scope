@@ -147,9 +147,6 @@
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
-*kohls.com
-*kohlsecommerce.com
-*.kohls.com
 *.birds.bi
 *.birds.com
 *.dynamics.com
