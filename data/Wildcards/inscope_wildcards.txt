@@ -1044,11 +1044,11 @@
 *.vimla.io
 *.vfsevisa.com
 *.vfsglobal.by
+*.vfsglobal.com
+*.vfsglobal.co.uk
+*.vfsglobal.ca
 *.doctolib.fr
 *.doctolib.de
 *.doctolib.it
 *.doctolib.com
 *.doctolib.net
-*.vfsglobal.com
-*.vfsglobal.co.uk
-*.vfsglobal.ca
