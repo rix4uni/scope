@@ -292,8 +292,6 @@ wsloja.ifood.com.br
 wslatam.ifood.com.br
 static-images.ifood.com.br
 gestordepedidos.ifood.com.br
-sitemercado.com.br
-service.sitemercado.com.br
 developer.ifood.com.br
 api.fstr.rocks
 rc.fstr.rocks
@@ -990,6 +988,8 @@ carrefouruae.com
 api-prod.retailsso.com
 lego.yellowblocks.me
 portal.ifood.com.br
+sitemercado.com.br
+service.sitemercado.com.br
 bugbounty-ctf.1password.com
 1password.com
 events.1password.com
