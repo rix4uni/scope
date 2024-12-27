@@ -1000,6 +1000,7 @@ starbucks.com.jo
 starbucks.com.kw
 starbucks.com.kz
 starbucks.com.lb
+starbucks.com.om
 starbucks.com.tr
 starbucks.cz
 starbucks.de
@@ -1014,7 +1015,10 @@ starbucks.nl
 starbucks.no
 starbucks.pl
 starbucks.pt
+starbucks.qa
 starbucks.ro
+starbucks.rs
+starbucks.sa
 starbucksslovakia.sk
 starbucks.com.cn
 2kleague.nba.com

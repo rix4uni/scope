@@ -1,7 +1,4 @@
-starbucks.ae
-starbucks.co.ma
-starbucks.com.bh
-starbucks.com.jo
-starbucks.com.kw
-starbucks.com.kz
-starbucks.com.lb
+starbucks.com.om
+starbucks.qa
+starbucks.rs
+starbucks.sa
