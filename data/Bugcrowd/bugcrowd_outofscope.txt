@@ -175,6 +175,7 @@ advocacy.code.org
 *business.comcast.com
 *.sys.comcast.net
 admin.selectwifi.xfinity.com
+comcastbiz.net
 *.contrast.ninja
 runner.contrastsecurity.com
 status.contrastsecurity.com

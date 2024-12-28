@@ -166,6 +166,8 @@ mediaflows.cloudinary.com
 dimensions.cloudinary.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
+business.comcast.com
+xfinity.com
 contrastsecurity.com
 contrastsecurity.dev
 de.mobileconcepts.cyberghost

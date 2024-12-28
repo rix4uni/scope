@@ -1,5 +1,2 @@
-api.openai.com
-chat.openai.com
-openai.org
-openai.com
-platform.openai.com
+business.comcast.com
+xfinity.com
