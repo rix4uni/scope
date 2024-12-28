@@ -206,9 +206,6 @@ adhoc-bugcrowd-studio.cdn-code.org
 *.xfinity.com
 *.comcast.com
 *.xcal.tv
-*.sys.comcast.net
-business.comcast.com
-xfinity.com
 contrastsecurity.com
 contrastsecurity.dev
 de.mobileconcepts.cyberghost
@@ -1254,6 +1251,7 @@ my.wyze.com
 api.wyzecam.com
 home.xfinity.com
 internet.xfinity.com
+*.sys.comcast.net
 *signalservice.comcast.net
 *.dh-commerce.com
 *.ssr.ccp.xcal.tv
