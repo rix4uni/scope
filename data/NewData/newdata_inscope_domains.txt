@@ -1,4 +1,1 @@
-starbucks.com.om
-starbucks.qa
-starbucks.rs
-starbucks.sa
+docs.eazybi.com

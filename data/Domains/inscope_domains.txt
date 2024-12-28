@@ -182,6 +182,7 @@ sandbox.directly.com
 api.dropboxapi.com
 dash.ai
 dropbox.com
+docs.eazybi.com
 my.electroneum.com
 electroneum.com
 api.electroneum.com
