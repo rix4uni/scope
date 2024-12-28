@@ -437,17 +437,6 @@ staging.luno.com
 ajax.staging.luno.com
 api.staging.luno.com
 app.staging.luno.com
-crateandbarrel.me
-api-prod.thatconceptstore.com
-thatconceptstore.com
-cb2.ae
-allsaints.me
-lululemon.me
-lapi.yellowblocks.me
-shiseido.me
-lego.me
-psychobunny.me
-fashion4less.me
 sharerewards.com
 vtcprodapi.maf.ae
 svchifi.svc
@@ -644,6 +633,8 @@ hub.myconnect.com.au
 dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
+api.pinterest.com
+microsoftedge.microsoft.com
 pixabay.com
 my.planethoster.com
 api.planethoster.net
@@ -1303,7 +1294,6 @@ testapp.redoxengine.com
 webhooks.gamma.redoxstage.com
 redoxengine.com
 okx.com
-microsoftedge.microsoft.com
 api.wisdomtreeprimeapp.com
 analvids.com
 ddfcontent.com
