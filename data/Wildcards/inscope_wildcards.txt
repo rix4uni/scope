@@ -242,6 +242,10 @@
 *.skyscanner.net
 *.smartmockups.com
 *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
 *.square.com
 *.squareup.com
 *.statuspage.io

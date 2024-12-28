@@ -719,6 +719,10 @@ namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
+soundcloud.com
+connect.soundcloud.com
+artists.soundcloud.com
+soundcloud.org
 square.online
 weebly.com
 manage.statuspage.io
