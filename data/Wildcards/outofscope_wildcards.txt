@@ -63,6 +63,9 @@
 *.sg.latitudepay.com
 *.limeinternal.com
 *.lime.bike
+*.filestack.com
+*.blstr.xyz
+*.blstr.co
 *.lululemon.cn
 *.lululemon.me
 *nuinternational.com
@@ -96,6 +99,7 @@
 *.cash.me
 *.tidal.com
 *.atlassian.com
+*.sprint.net
 *.engage.tesla.com
 *.tripadviser.at
 *.tripadvisor.cn
