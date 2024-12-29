@@ -296,6 +296,17 @@ developer.ifood.com.br
 api.fstr.rocks
 rc.fstr.rocks
 br.com.brainweb.ifood
+guildofguardians.com
+passport.immutable.com
+auth.immutable.com
+hub.immutable.com
+api.immutable.com
+api.x.immutable.com
+testnet.immutable.com
+link.x.immutable.com
+market.immutable.com
+docs.immutable.com
+imx.community
 cloudvector.com
 apis.indeed.com
 resume.com

@@ -251,6 +251,16 @@ blog-parceiros.ifood.com.br
 *.ecomanda.app
 *.allin.movilepay.com
 *.starsoft.movilepay.com
+*.godsunchained.com
+*.gogbackend.com
+gogbackend.com
+godsunchained.com
+*.dev.x.immutable.com
+*.sandbox.x.immutable.com
+*.sandbox.imtbl.com
+*.dev.imtbl.com
+*.ropsten.x.immutable.com
+ropsten.imx.community
 docs.imperva.com
 docs-be.imperva.com
 irobot.com
