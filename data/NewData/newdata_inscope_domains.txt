@@ -1,3 +1,11 @@
-gateway.skyscanner.net
-skyscanner.net
-partnerportal.skyscanner.net
+guildofguardians.com
+passport.immutable.com
+auth.immutable.com
+hub.immutable.com
+api.immutable.com
+api.x.immutable.com
+testnet.immutable.com
+link.x.immutable.com
+market.immutable.com
+docs.immutable.com
+imx.community
