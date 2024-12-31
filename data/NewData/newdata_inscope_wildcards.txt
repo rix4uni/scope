@@ -1,2 +1,2 @@
-*.quizlet.com
-*.slader.com
+*.openai.org
+*.openai.com
