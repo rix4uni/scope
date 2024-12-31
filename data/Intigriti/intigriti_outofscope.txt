@@ -172,6 +172,7 @@ workplace.randstad.in
 apps.randstad.in
 cz.randstad.com
 *.newyorkredbulls.com
+shop.robinhood.com
 saytechnologies.com
 simscale.com
 siemens.smc.sixt.com
