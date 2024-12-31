@@ -1,5 +1,9 @@
-api.openai.com
-chat.openai.com
-openai.org
-openai.com
-platform.openai.com
+account.t-mobile.com
+metrobyt-mobile.com
+sprint.com
+t-mobile.com
+api.t-mobile.com
+tfb.t-mobile.com
+devedge.t-mobile.com
+tess.service-now.com
+digits.t-mobile.com
