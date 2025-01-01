@@ -1,9 +1,7 @@
-account.t-mobile.com
-metrobyt-mobile.com
-sprint.com
-t-mobile.com
-api.t-mobile.com
-tfb.t-mobile.com
-devedge.t-mobile.com
-tess.service-now.com
-digits.t-mobile.com
+lastpass.com
+download2.php
+support.lastpass.com
+blog.lastpass.com
+admin.lastpass.com
+auth.lastpass.com
+accounts.lastpass.com
