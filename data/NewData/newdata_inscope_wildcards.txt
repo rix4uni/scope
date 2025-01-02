@@ -1,4 +1,2 @@
-*.api.t-mobile.com
-*.t-mobile.com
-*.metrobyt-mobile.com
-*.sprint.com
+*.openai.org
+*.openai.com
