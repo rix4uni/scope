@@ -2478,10 +2478,6 @@ creators.basicattentiontoken.org
 laptop-updates.brave.com
 search.brave.com
 talk.brave.com
-portswigger.net
-collaborator.html
-forum.portswigger.net
-enterprise-demo.portswigger.net
 files.com
 developers.files.com
 *.files.com
