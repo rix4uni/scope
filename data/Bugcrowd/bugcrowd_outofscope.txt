@@ -306,9 +306,6 @@ cert.kucoin.com
 sandbox.kucoin.com
 passport.kucoin.com
 sdb.kucoin.com
-identity.lastpass.com
-info.lastpass.com
-forums.lastpass.com
 investors.latitudefinancial.com.au
 auth.latitudefinancial.com
 *.latitudefinancial.com
