@@ -1,1 +1,2 @@
-*.datacamp.com
+*.movilepay.com
+*.movilepay.com.br
