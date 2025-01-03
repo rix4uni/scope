@@ -702,11 +702,6 @@ seekcdn.com
 au.com.seek
 graphql.seek.com
 auth.seek.com
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 skroutz.gr
@@ -3410,13 +3405,6 @@ configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
 imove.bpost.cloud
-login.cm.com
-api.cm.com
-api.cmtelecom.com
-cm.com
-appmiral.com
-building-blocks.com
-cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
