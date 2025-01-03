@@ -1,5 +1,4 @@
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
+portswigger.net
+collaborator.html
+forum.portswigger.net
+enterprise-demo.portswigger.net
