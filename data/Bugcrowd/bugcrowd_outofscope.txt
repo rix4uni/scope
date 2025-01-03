@@ -245,12 +245,6 @@ ir.ibotta.com
 trust.ibotta.com
 legal.ibotta.com
 *dev.ibotta.com
-blog-empresas.ifood.com.br
-blog-parceiros.ifood.com.br
-*.ecomanda.com.br
-*.ecomanda.app
-*.allin.movilepay.com
-*.starsoft.movilepay.com
 *.godsunchained.com
 *.gogbackend.com
 gogbackend.com
@@ -352,7 +346,6 @@ info.lululemon.com
 pnimage.lululemon.com
 pnimages.lululemon.com
 mirror.co
-americangirlmena.com
 moneytree.jp
 getmoneytree.com
 tripactions.com

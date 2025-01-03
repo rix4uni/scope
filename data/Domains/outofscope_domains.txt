@@ -199,8 +199,6 @@ backend.ibotta.com
 ir.ibotta.com
 trust.ibotta.com
 legal.ibotta.com
-blog-empresas.ifood.com.br
-blog-parceiros.ifood.com.br
 gogbackend.com
 godsunchained.com
 ropsten.imx.community
@@ -282,7 +280,6 @@ info.lululemon.com
 pnimage.lululemon.com
 pnimages.lululemon.com
 mirror.co
-americangirlmena.com
 moneytree.jp
 getmoneytree.com
 tripactions.com
