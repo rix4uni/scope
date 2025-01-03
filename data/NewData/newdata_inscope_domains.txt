@@ -1,7 +1,8 @@
-lastpass.com
-download2.php
-support.lastpass.com
-blog.lastpass.com
-admin.lastpass.com
-auth.lastpass.com
-accounts.lastpass.com
+assessment-api.datacamp.com
+app.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
