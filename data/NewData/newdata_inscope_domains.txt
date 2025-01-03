@@ -1,8 +1,5 @@
-assessment-api.datacamp.com
-app.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
+dashboard.sendbird.com
+gate.sendbird.com
+sendbird.com
+calls.sendbird.com
+notifications.sendbird.com
