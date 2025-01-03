@@ -177,7 +177,6 @@
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
 *.oisl.gg
 *.vectus.in

@@ -3428,7 +3428,6 @@ unified.cloudways.com
 cloudways.com
 uacademy.ugurus.com
 ugurus.com
-justonweb.be
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -3483,18 +3482,6 @@ kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
-be.gamma.app.android
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-mijn.gamma.be
-mijn.gamma.nl
-mijn.karwei.nl
-nl.gamma.app.android
-nl.karwei.app.android
-gamma.be
-gamma.nl
-karwei.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
