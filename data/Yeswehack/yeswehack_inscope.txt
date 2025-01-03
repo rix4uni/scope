@@ -100,7 +100,6 @@ api.ezvizlife.com
 usauth.ezvizlife.com
 ius.ezvizlife.com
 *.ys7.com
-eziot.com
 *.gov.sg
 *.jbl.com
 *.harmanaudio.com
