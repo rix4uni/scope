@@ -93,8 +93,6 @@
 *.powerman.co.uk
 *.skinstore.com
 *.thehut.com
-*.movilepay.com
-*.movilepay.com.br
 *.guildofguardians.com
 *.immutable.com
 *.imtbl.com
@@ -904,13 +902,13 @@
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.bmc.nl
+*.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.vlaanderen.be

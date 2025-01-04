@@ -1,16 +1,1 @@
-*.movilepay.com
-*.movilepay.com.br
-*.linktr.ee
-*.linktree.com
-*.tr.ee
-*.linktree-extensions.com
-*.odesli.co
-*.odesli.com
-*.song.link
-*.songlink.io
-*.album.link
-*.artist.link
-*.pods.link
-*.playlist.link
-*.mylink.page
-*.plannthat.com
+*.ticketing.cm.com

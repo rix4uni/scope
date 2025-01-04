@@ -199,8 +199,6 @@ backend.ibotta.com
 ir.ibotta.com
 trust.ibotta.com
 legal.ibotta.com
-blog-empresas.ifood.com.br
-blog-parceiros.ifood.com.br
 gogbackend.com
 godsunchained.com
 ropsten.imx.community
@@ -505,17 +503,6 @@ channel.buhlergroup.com
 bestbuy.buhlergroup.com
 cgiip.exe
 help.capital.com
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 abonnement.demorgen.be
 demorgen.be
 vlaanderen.be
