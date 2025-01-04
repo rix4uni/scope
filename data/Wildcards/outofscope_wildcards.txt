@@ -44,6 +44,10 @@
 *.delltechnologies.com
 *.sandbox.directly.com
 *dev.ibotta.com
+*.ecomanda.com.br
+*.ecomanda.app
+*.allin.movilepay.com
+*.starsoft.movilepay.com
 *.godsunchained.com
 *.gogbackend.com
 *.dev.x.immutable.com
@@ -59,6 +63,9 @@
 *.sg.latitudepay.com
 *.limeinternal.com
 *.lime.bike
+*.filestack.com
+*.blstr.xyz
+*.blstr.co
 *.lululemon.cn
 *.lululemon.me
 *nuinternational.com
