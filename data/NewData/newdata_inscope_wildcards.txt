@@ -1,1 +1,2 @@
-*.ticketing.cm.com
+*.movilepay.com
+*.movilepay.com.br
