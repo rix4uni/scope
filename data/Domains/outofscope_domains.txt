@@ -199,8 +199,6 @@ backend.ibotta.com
 ir.ibotta.com
 trust.ibotta.com
 legal.ibotta.com
-blog-empresas.ifood.com.br
-blog-parceiros.ifood.com.br
 gogbackend.com
 godsunchained.com
 ropsten.imx.community
@@ -270,11 +268,6 @@ ecwid.com
 community.li.me
 help.li.me
 li.me
-filestack.com
-freshdesk.com
-blstr.xyz
-blstr.co
-community.linktr.ee
 fr.shop.lululemon.com
 lululemon.me
 careers.lululemon.com
