@@ -93,6 +93,8 @@
 *.powerman.co.uk
 *.skinstore.com
 *.thehut.com
+*.movilepay.com
+*.movilepay.com.br
 *.guildofguardians.com
 *.immutable.com
 *.imtbl.com
