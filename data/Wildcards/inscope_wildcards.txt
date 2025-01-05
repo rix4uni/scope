@@ -93,8 +93,6 @@
 *.powerman.co.uk
 *.skinstore.com
 *.thehut.com
-*.movilepay.com
-*.movilepay.com.br
 *.guildofguardians.com
 *.immutable.com
 *.imtbl.com
@@ -189,6 +187,8 @@
 *nu.com.co
 *.nuinvest.com.br
 *.octopus.com
+*.openai.org
+*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -240,6 +240,10 @@
 *.skyscanner.net
 *.smartmockups.com
 *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
 *.square.com
 *.squareup.com
 *.statuspage.io
