@@ -315,6 +315,7 @@ indonesiavoa.vfsevisa.id
 vfsglobalservices-germany.com
 vc.tasheer.com
 *.vfsglobal.by
+vfsevisa.id
 vinci.com
 leonard.vinci.com
 castor.vinci.com
