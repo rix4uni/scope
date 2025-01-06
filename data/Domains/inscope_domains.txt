@@ -360,6 +360,8 @@ microsoft.com
 docs.keeper.io
 apps.keeper
 kw-bugcrowd-pub.bounty.kiteworks.dev
+kohls.com
+app.jsp
 kucoin.com
 lastpass.com
 download2.php
