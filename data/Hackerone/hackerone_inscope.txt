@@ -12,6 +12,10 @@ thebrowser.company
 *.verily.com
 apps.apple.com
 play.google.com
+cart.starbucks.co.jp
+gift.starbucks.co.jp
+login.starbucks.co.jp
+starbucks.co.jp
 card.starbucks.com.cy
 card.starbucks.com.gr
 starbucks.at
