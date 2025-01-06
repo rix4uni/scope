@@ -2579,8 +2579,13 @@ gist.github.com
 npmjs.org
 *.simpletax.ca
 *.wealthsimple.com
+*.district.in
+*.edition.in
 *.hyperpure.com
+*.insider.in
 *.runnr.in
+*.ticketnew.com
+*.tktnew.com
 *.zdev.net
 *.zomans.com
 *.zomato.com
