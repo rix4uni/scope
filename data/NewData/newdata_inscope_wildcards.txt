@@ -1,6 +1,11 @@
-*.openai.org
-*.openai.com
-*.soundcloud.org
-*.s-cloud.net
-*.soundcloud.com
-*.services.repostnetwork.com
+*.datacamp.com
+*.gamma.be
+*.gamma.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.karwei.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl

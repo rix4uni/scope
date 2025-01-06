@@ -151,6 +151,7 @@
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
+*.aikido.dev
 *.allegro.sk
 *.allegro.cz
 *.allegro.pl
@@ -166,6 +167,7 @@
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
 *.db.ondigitalocean.com
@@ -176,6 +178,7 @@
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
 *.oisl.gg
 *.vectus.in
