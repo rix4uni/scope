@@ -51,6 +51,7 @@
 *.dropboxforum.com
 *.docsend.com
 *.dropboxer.net
+*.dropboxpartners.com
 *.betmgm.com
 *.epam.com
 *.projects.epam.com

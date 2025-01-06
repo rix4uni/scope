@@ -1,4 +1,1 @@
-cart.starbucks.co.jp
-gift.starbucks.co.jp
-login.starbucks.co.jp
-starbucks.co.jp
+dropboxpartners.com

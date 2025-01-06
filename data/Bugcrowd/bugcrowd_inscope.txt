@@ -234,6 +234,8 @@ api.dropboxapi.com
 *.docsend.com
 *.dropboxer.net
 dash.ai
+dropboxpartners.com
+*.dropboxpartners.com
 dropbox.com
 docs.eazybi.com
 my.electroneum.com
