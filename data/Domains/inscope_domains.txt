@@ -3349,11 +3349,6 @@ simperium.com
 simplenote.com
 t.umblr.com
 tumblr.com
-irccloud.com
-api.irccloud.com
-blog.irccloud.com
-irc.irccloud.com
-team-irc.irccloud.com
 coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
