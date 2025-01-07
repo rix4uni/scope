@@ -1502,10 +1502,7 @@ dashboard.magic.link
 auth.magic.link
 docs.magic.link
 go.magic.link
-careers.fortmatic.com
 dashboard.fortmatic.com
-docs.fortmatic.com
-fortmatic.repl.co
 *.carrentals.com
 dbmanalytics.carrentals.com
 *.cheaptickets.com

@@ -2213,10 +2213,7 @@ dashboard.magic.link
 auth.magic.link
 docs.magic.link
 go.magic.link
-careers.fortmatic.com
 dashboard.fortmatic.com
-docs.fortmatic.com
-fortmatic.repl.co
 dbmanalytics.carrentals.com
 faq-lab.cheaptickets.com
 faq.cheaptickets.com
