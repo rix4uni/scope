@@ -292,13 +292,13 @@ thueringer-foerderportal.eu
 ecohesion.aufbaubank.de
 login.aufbaubank.de
 *.vfsevisa.com
-onevasco.com
-vascoworldwide.net
+*.onevasco.com
+*.vascoworldwide.net
 vfsvisaonline.com
 dvpc.net
 vfsvisaservicesrussia.com
-directverify.in
-docswallet.com
+*.directverify.in
+*.docswallet.com
 biometservices.com
 agents.tasheer.com
 gaadmin.vfsglobal.com

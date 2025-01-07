@@ -1,1 +1,4 @@
-*.dropboxpartners.com
+*.onevasco.com
+*.vascoworldwide.net
+*.directverify.in
+*.docswallet.com
