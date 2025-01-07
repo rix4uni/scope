@@ -1950,8 +1950,12 @@ figma.slack.com
 appsource.microsoft.com
 api.figma.com
 figma.com
+amazon.speech.sim
 amazonpayinsurance.in
+developer.android.com
 amazonpay.in
+in.amazon.mshop.android.business.shopping
+in.amazon.mshop.android.shopping
 primevideo.com
 amazon.com.br
 amazon.ca

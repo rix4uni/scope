@@ -1194,8 +1194,12 @@ figma.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
+amazon.speech.sim
 amazonpayinsurance.in
+developer.android.com
 amazonpay.in
+in.amazon.mshop.android.business.shopping
+in.amazon.mshop.android.shopping
 primevideo.com
 amazon.com.br
 amazon.ca
