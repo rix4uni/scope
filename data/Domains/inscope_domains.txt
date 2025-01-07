@@ -112,7 +112,7 @@ portal-api.coinmarketcap.com
 coinmarketcap.com
 3rdparty-apis.coinmarketcap.com
 binance.us
-trbinance.com
+binance.tr
 bitdefender.com
 business-security.html
 bitgo.com

@@ -134,7 +134,7 @@ coinmarketcap.com
 3rdparty-apis.coinmarketcap.com
 binance.us
 *.binance.us
-trbinance.com
+binance.tr
 *.bitdefender.net
 *.bitdefender.com
 bitdefender.com
