@@ -1,4 +1,1 @@
-amazon.speech.sim
-developer.android.com
-in.amazon.mshop.android.business.shopping
-in.amazon.mshop.android.shopping
+fetlife.com

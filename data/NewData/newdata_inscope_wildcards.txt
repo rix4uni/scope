@@ -1,4 +1,1 @@
-*.onevasco.com
-*.vascoworldwide.net
-*.directverify.in
-*.docswallet.com
+*.fetlife.com
