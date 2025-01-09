@@ -3422,6 +3422,7 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
+challenge-0125.intigriti.io
 css-tricks.com
 api.cloudways.com
 developers.cloudways.com
