@@ -1,1 +1,1 @@
-*.reclaim.ai
+*.datacamp.com
