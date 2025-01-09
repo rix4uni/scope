@@ -99,6 +99,7 @@ pornhub.mainhub.com
 tube8.com
 thumbzilla.com
 backblaze.com
+balsamiq.com
 barracuda.com
 mybigcommerce.com
 bigcommerce.com
@@ -140,6 +141,8 @@ simnext.bullish-test.com
 api.simnext.bullish-test.com
 canva.com
 itunes.apple.com
+carrefouruae.com
+api-prod.retailsso.com
 cash.app
 foreignaffairs.com
 cfr.org
@@ -166,6 +169,8 @@ mediaflows.cloudinary.com
 dimensions.cloudinary.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
+staging.coindesk.com
+staging.auth.coindesk.com
 business.comcast.com
 xfinity.com
 contrastsecurity.com
@@ -182,7 +187,10 @@ sandbox.directly.com
 api.dropboxapi.com
 dash.ai
 dropboxpartners.com
+lifeworkcalendar.com
+reclaim.ai
 dropbox.com
+app.reclaim.ai
 docs.eazybi.com
 my.electroneum.com
 electroneum.com
@@ -514,6 +522,8 @@ formative.eassessment.monas.edu
 monashprofessional.edu.au
 account-registration.monash.edu
 pay.monashcollege.edu.au
+evigilation.monash.edu
+student.monash
 mix-qat.monash.edu
 mix-dev.monash.edu
 -staging.moneytree.jp
@@ -673,20 +683,6 @@ dashboard.rapyd.net
 verify.rapyd.net
 checkout.rapyd.net
 jointhemoment.net
-data.rarible.com
-api.rarible.com
-admin.rarible.com
-test.rarible.com
-temp.rarible.com
-static.rarible.com
-logging.rarible.com
-log.rarible.com
-links.rarible.com
-fs.rarible.com
-beta.rarible.com
-rarible.com
-rari.foundation
-mintle.x.rarible.com
 rec.net
 store.steampowered.com
 oculus.com
@@ -731,6 +727,7 @@ weebly.com
 manage.statuspage.io
 driveuconnect.com
 driveuconnect.eu
+portal.lrs.t-mobile.com
 account.t-mobile.com
 metrobyt-mobile.com
 sprint.com
@@ -1198,9 +1195,7 @@ id.worldcoin.org
 toolsforhumanity.com
 worldcoin.org
 api-test.nicehash.com
-api-test.nicex.com
 test.nicehash.com
-test.nicex.com
 amazon.com
 admin.ring.com
 api.ring.com

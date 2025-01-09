@@ -1,1 +1,1 @@
-*.fetlife.com
+*.reclaim.ai

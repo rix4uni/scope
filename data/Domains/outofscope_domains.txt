@@ -118,6 +118,7 @@ assetinventory.bugcrowd.com
 community.bugcrowd.com
 trust.bugcrowd.com
 simnext.bullish-test.com
+cwingsfe.mafrservices.com
 subs.foreignaffairs.com
 subscribe.foreignaffairs.com
 world101.cfr.org
@@ -134,6 +135,14 @@ support.cloudinary.com
 wiki.cloudinary.com
 hourofcode.com
 advocacy.code.org
+coindesk.com
+uat.coindesk.com
+events.coindesk.com
+consensus2023.coindesk.com
+consensus2024.coindesk.com
+consensus2025.coindesk.com
+consensus-hongkong2025.coindesk.com
+uat.accounts.coindesk.com
 admin.selectwifi.xfinity.com
 comcastbiz.net
 runner.contrastsecurity.com
@@ -387,11 +396,6 @@ support.rapyd.net
 docs.rapyd.net
 sandbox.rapyd.net
 ghost.rapyd.net
-docs.rarible.com
-feedback.rarible.com
-guide.rarible.com
-img.rarible.com
-vote.rarible.com
 skyscanner.net
 community.sophos.com
 sophos.atlassian.net
@@ -875,4 +879,5 @@ portal.vfsevisa.com
 egonline.vfsevisa.com
 wishes.vinci.com
 voeux.vinci.com
+castor.vinci.com
 systemd.io

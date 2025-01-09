@@ -154,6 +154,7 @@ trust.bugcrowd.com
 simnext.bullish-test.com
 *.0.canva.cn
 *.0.canva-apps.cn
+cwingsfe.mafrservices.com
 subs.foreignaffairs.com
 subscribe.foreignaffairs.com
 world101.cfr.org
@@ -171,6 +172,14 @@ support.cloudinary.com
 wiki.cloudinary.com
 hourofcode.com
 advocacy.code.org
+coindesk.com
+uat.coindesk.com
+events.coindesk.com
+consensus2023.coindesk.com
+consensus2024.coindesk.com
+consensus2025.coindesk.com
+consensus-hongkong2025.coindesk.com
+uat.accounts.coindesk.com
 *.hfc.comcastbusiness.net
 *.comcast.net
 *business.comcast.com
@@ -486,11 +495,6 @@ support.rapyd.net
 docs.rapyd.net
 sandbox.rapyd.net
 ghost.rapyd.net
-docs.rarible.com
-feedback.rarible.com
-guide.rarible.com
-img.rarible.com
-vote.rarible.com
 *.1shoppingcart.com
 skyscanner.net
 community.sophos.com

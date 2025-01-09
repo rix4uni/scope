@@ -1,1 +1,11 @@
-fetlife.com
+balsamiq.com
+carrefouruae.com
+api-prod.retailsso.com
+staging.coindesk.com
+staging.auth.coindesk.com
+lifeworkcalendar.com
+reclaim.ai
+app.reclaim.ai
+evigilation.monash.edu
+student.monash
+portal.lrs.t-mobile.com

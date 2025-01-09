@@ -250,9 +250,7 @@ id.worldcoin.org
 toolsforhumanity.com
 worldcoin.org
 api-test.nicehash.com
-api-test.nicex.com
 test.nicehash.com
-test.nicex.com
 amazon.com
 *.blinkforhome.com
 *.immedia-semi.com
