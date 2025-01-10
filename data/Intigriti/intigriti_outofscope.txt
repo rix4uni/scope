@@ -221,6 +221,7 @@ careers.sqills.com
 *.tempo-team.de
 abonnement.trouw.nl
 trouw.nl
+ok.truelayer.com
 banks.truelayer.com
 careers.truelayer.com
 docs.truelayer.com
