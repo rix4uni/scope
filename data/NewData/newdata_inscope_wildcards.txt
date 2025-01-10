@@ -1,2 +1,2 @@
-*.algolia.net
-*.algolianet.com
+*.openai.org
+*.openai.com
