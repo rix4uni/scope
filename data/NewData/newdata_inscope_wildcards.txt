@@ -1,1 +1,2 @@
-*.datacamp.com
+*.irccloud-cdn.com
+*.irccloud.com

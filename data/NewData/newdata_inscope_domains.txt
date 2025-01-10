@@ -1,1 +1,5 @@
-challenge-0125.intigriti.io
+irccloud.com
+api.irccloud.com
+blog.irccloud.com
+irc.irccloud.com
+team-irc.irccloud.com
