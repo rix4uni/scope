@@ -1,5 +1,2 @@
-irccloud.com
-api.irccloud.com
-blog.irccloud.com
-irc.irccloud.com
-team-irc.irccloud.com
+dashboard.algolia.com
+algolia.com

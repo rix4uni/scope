@@ -1,2 +1,2 @@
-*.irccloud-cdn.com
-*.irccloud.com
+*.algolia.net
+*.algolianet.com
