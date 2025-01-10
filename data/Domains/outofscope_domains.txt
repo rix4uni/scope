@@ -496,14 +496,6 @@ partnerresources.viator.com
 partner.viator.com
 theplaymania.com
 app.gator.com
-payments.westernunion.com
-wuprepaid.de
-rewardcircle.westernunion.com
-wuprepaid.at
-onlinefx.westernunion.com
-online.westernunion.com
-mp.en
-loginform.aspx
 transferwise.com
 wise.com
 brand.wise.com

@@ -630,14 +630,6 @@ theplaymania.com
 app.gator.com
 *.bluehost.com
 *.hostgator.com
-payments.westernunion.com
-wuprepaid.de
-rewardcircle.westernunion.com
-wuprepaid.at
-onlinefx.westernunion.com
-online.westernunion.com
-mp.en
-loginform.aspx
 transferwise.com
 wise.com
 *.tw.com
