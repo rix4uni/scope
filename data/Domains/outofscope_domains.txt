@@ -382,14 +382,6 @@ catch.opera.com
 wallpaper.opera.com
 tabfulness.opera.com
 optimizely.com
-originenergy.com.au
-auth.api.originenergy.com.au
-origin-energy.formstack.com
-compareandconnect.com.au
-agent.compareandconnect.com.au
-fastconnect.co.nz
-yourporter.com.au
-raywhitehomenow.com
 help.quizlet.com
 community.rapyd.net
 support.rapyd.net
