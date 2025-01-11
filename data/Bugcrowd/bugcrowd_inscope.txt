@@ -869,7 +869,6 @@ myconnect.com.au
 ssu.myconnect.com.au
 hub.myconnect.com.au
 dashboard.pantheon.io
-devstaging.pcapcloud.com
 pexels.com
 *.pexels.com
 api.pinterest.com
