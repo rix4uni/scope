@@ -294,6 +294,17 @@ api.int.ibops.net
 app.ibotta.com
 ibotta.com
 backend.ibotta.com
+ifood.com.br
+shop.ifood.com.br
+marketplace.ifood.com.br
+wsloja.ifood.com.br
+wslatam.ifood.com.br
+static-images.ifood.com.br
+gestordepedidos.ifood.com.br
+developer.ifood.com.br
+api.fstr.rocks
+rc.fstr.rocks
+br.com.brainweb.ifood
 guildofguardians.com
 passport.immutable.com
 auth.immutable.com
