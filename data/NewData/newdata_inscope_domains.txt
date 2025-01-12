@@ -1,8 +1,1 @@
-ampol.com.au
-au.com.ampol.flagship
-ampcharge.ampol.com.au
-ampolenergy.com.au
-au.com.ampol.teamapp
-my.ampol.com.au
-carbonneutral.ampol.com.au
-cards.ampol.com.au
+api.pinterest.com
