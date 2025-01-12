@@ -276,7 +276,6 @@
 *.bokundemo.com
 *.bokuntest.com
 *.twilio.com
-*.api.ua.com
 *.gtld-servers.net
 *.youcouldbe.com
 *.namestudioforsocial.com
