@@ -1,1 +1,2 @@
-*.api.ua.com
+*.backblazeb2.com
+*.backblaze.com
