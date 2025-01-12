@@ -14,6 +14,8 @@
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
+*.backblazeb2.com
+*.backblaze.com
 *.bigcommerce.com
 *.bigcommerce.net
 *.binance.com
@@ -211,6 +213,7 @@
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pexels.com
+*.pinterest.com
 *.pixabay.com
 *.points.com
 *.privateinternetaccess.com
@@ -273,7 +276,6 @@
 *.bokundemo.com
 *.bokuntest.com
 *.twilio.com
-*.api.ua.com
 *.gtld-servers.net
 *.youcouldbe.com
 *.namestudioforsocial.com

@@ -114,6 +114,9 @@ tube8.com
 thumbzilla.com
 *.trafficjunky.com
 *.adultforce.com
+*.backblazeb2.com
+backblaze.com
+*.backblaze.com
 balsamiq.com
 barracuda.com
 mybigcommerce.com
@@ -869,6 +872,9 @@ dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
 *.pexels.com
+api.pinterest.com
+*.pinterest.com
+microsoftedge.microsoft.com
 pixabay.com
 *.pixabay.com
 my.planethoster.com
@@ -1076,14 +1082,6 @@ opendata.test-socrata.com
 mintmobile.com
 ultramobile.com
 web-retailer-portal.ultramobile.com
-underarmour.com
-underarmour.co.uk
-api.shop.ua.com
-underarmournext.co.uk
-underarmournext.com
-mapmyfitness.api.ua.com
-*.api.ua.com
-consumer-sustainability.underarmour.com
 apphouse.underarmour.com
 ourhouse.underarmour.com
 snc.underarmour.com
@@ -1096,6 +1094,7 @@ vtxapp9p.underarmour.com
 vtxapp9q.underarmour.com
 vtxapp9d.underarmour.com
 vtxappd.underarmour.com
+underarmournext.com
 id.unity.com
 api.unity.com
 cloud.unity.com
