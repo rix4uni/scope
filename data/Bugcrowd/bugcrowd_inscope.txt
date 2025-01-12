@@ -72,7 +72,6 @@ atlassian.net
 marketplace.atlassian.com
 *.atlastunnel.com
 confluence.atlassian.com
-install-atlassian-companion-992678880.html
 sourcetreeapp.com
 npmjs.com
 trello.com
@@ -139,7 +138,6 @@ binance.tr
 *.bitdefender.net
 *.bitdefender.com
 bitdefender.com
-business-security.html
 bitgo.com
 *.bitgo.com
 app.bitgo.com
@@ -197,7 +195,6 @@ ws.multiplayer.classdojo.com
 ticket.multiplayer.classdojo.com
 clients.multiplayer.classdojo.com
 monster-customizer.classdojo.com
-index.html
 clickhou.se
 cloudinary.com
 api.cloudinary.com
@@ -510,16 +507,13 @@ kaleido.ai
 unscreen.com
 *.unscreen.com
 keepersecurity.com
-download.html
 microsoft.com
 docs.keeper.io
 apps.keeper
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
-app.jsp
 kucoin.com
 lastpass.com
-download2.php
 support.lastpass.com
 blog.lastpass.com
 admin.lastpass.com
@@ -649,14 +643,9 @@ premogiftcards.com
 identity.majidalfuttaim.com
 simplify.com
 mastercard.us
-en-us.html
 mastercard.ch
-de-ch.html
-fr-ch.html
 mastercard.com.au
-en-au.html
 mastercard.nl
-nl-nl.html
 developer.mastercard.com
 donate.mastercard.com
 demo.priceless.com
@@ -928,7 +917,6 @@ api.thesecurityteam.rocks
 api.anytask.thesecurityteam.rocks
 legacy-blockexplorer.electroneum.com
 public.thesecurityteam.rocks
-etnapp-5.2.2-staging.apk
 *.seek.com.au
 seekcdn.com
 au.com.seek

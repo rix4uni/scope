@@ -215,7 +215,6 @@ sandbox.open-xchange.com
 *.okto.tech
 ooredoo.qa
 mobile.ooredoo.qa
-qa.ooredoo.android
 billingserver.pinelabs.com
 dashboard.pluralonline.com
 lounge.pinelabs.com
@@ -287,7 +286,6 @@ login.teamviewer.com
 *.vimla.work
 *.vimla.io
 en.security.tencent.com
-index.php
 thueringer-foerderportal.eu
 ecohesion.aufbaubank.de
 login.aufbaubank.de

@@ -82,7 +82,6 @@ cms.redtube.com
 *.pornmd.com
 blog.tube8.com
 tube8.com
-contact.html
 *.thumbzilla.com
 *.pornhubapparel.com
 *.pornhub.org
@@ -325,8 +324,6 @@ stage65-corporate.kohls.com
 stage65-mykohls.kohls.com
 author-qa65-mykohls.kohls.com
 mykohls.kohls.com
-archaius.json
-inquiry.jsp
 *.kohls.com
 kconnect.kohls.com
 connection.kohls.com

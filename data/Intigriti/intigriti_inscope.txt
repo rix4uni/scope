@@ -149,15 +149,12 @@ humo.be
 myaccount.humo.be
 shop.humo.be
 *.humo.be
-be.gamma.app.android
 kassa.gamma.be
 kassa.gamma.nl
 kassa.karwei.nl
 mijn.gamma.be
 mijn.gamma.nl
 mijn.karwei.nl
-nl.gamma.app.android
-nl.karwei.app.android
 gamma.be
 gamma.nl
 karwei.nl

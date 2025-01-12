@@ -19,7 +19,6 @@ channel.buhlergroup.com
 bestbuy.buhlergroup.com
 *.webinars.buhlergroup.com
 *.learnhub.buhlergroup.com
-cgiip.exe
 help.capital.com
 *affiliates.backend-capital.com
 *eduapp.backend-capital.com
@@ -42,7 +41,6 @@ talent-jobs-api.datacamp.com
 abonnement.demorgen.be
 demorgen.be
 vlaanderen.be
-mail.html
 *.vlaanderen.be
 cdn.vlaanderen.be
 codex.opendata.api.vlaanderen.be
