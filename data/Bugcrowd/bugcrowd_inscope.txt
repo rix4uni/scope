@@ -114,6 +114,9 @@ tube8.com
 thumbzilla.com
 *.trafficjunky.com
 *.adultforce.com
+*.backblazeb2.com
+backblaze.com
+*.backblaze.com
 balsamiq.com
 barracuda.com
 mybigcommerce.com

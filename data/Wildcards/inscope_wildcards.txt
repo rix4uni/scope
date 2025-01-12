@@ -14,6 +14,8 @@
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
+*.backblazeb2.com
+*.backblaze.com
 *.bigcommerce.com
 *.bigcommerce.net
 *.binance.com
