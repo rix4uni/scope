@@ -52,6 +52,17 @@ starbucks.ro
 starbucks.rs
 starbucks.sa
 starbucksslovakia.sk
+starbucks.cl
+starbucks.co.cr
+starbucks.com.ar
+starbucks.com.mx
+starbucks.com.py
+starbucks.com.sv
+starbucks.com.uy
+starbucks.pa
+starbucks.pe
+starbucks.tt
+starbuckspr.com
 starbucks.com.cn
 2kleague.nba.com
 bal.nba.com
@@ -105,6 +116,9 @@ debian-amd64-netinst-3cx.iso
 apps.microsoft.com
 portal.3cx.com
 etherscan.io
+auth.privy.io
+dashboard.privy.io
+npmjs.com
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -759,7 +773,6 @@ staking.consensys.io
 consensys.io
 metamask-sdk-socket.metafi.codefi.network
 on-ramp.metaswap-dev.codefi.network
-npmjs.com
 google.com
 kevin.le
 consensys.net

@@ -961,6 +961,17 @@ starbucks.ro
 starbucks.rs
 starbucks.sa
 starbucksslovakia.sk
+starbucks.cl
+starbucks.co.cr
+starbucks.com.ar
+starbucks.com.mx
+starbucks.com.py
+starbucks.com.sv
+starbucks.com.uy
+starbucks.pa
+starbucks.pe
+starbucks.tt
+starbuckspr.com
 starbucks.com.cn
 2kleague.nba.com
 bal.nba.com
@@ -1009,6 +1020,8 @@ downloads-global.3cx.com
 debian-amd64-netinst-3cx.iso
 apps.microsoft.com
 portal.3cx.com
+auth.privy.io
+dashboard.privy.io
 netflix.com
 beacon.netflix.com
 customerevents.netflix.com
