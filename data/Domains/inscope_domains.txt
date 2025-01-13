@@ -21,14 +21,6 @@ console.aiven.io
 api.aiven.io
 github.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
-ampol.com.au
-au.com.ampol.flagship
-ampcharge.ampol.com.au
-ampolenergy.com.au
-au.com.ampol.teamapp
-my.ampol.com.au
-carbonneutral.ampol.com.au
-cards.ampol.com.au
 prod.arlo.com
 arlo-device.messaging.netgear.com
 beta.arlo.com
@@ -681,10 +673,6 @@ xbox.com
 recroom.com
 api.rec.net
 devportal.rec.net
-api.thesecurityteam.rocks
-api.anytask.thesecurityteam.rocks
-legacy-blockexplorer.electroneum.com
-public.thesecurityteam.rocks
 seekcdn.com
 au.com.seek
 graphql.seek.com
