@@ -1,13 +1,1 @@
-starbucks.cl
-starbucks.co.cr
-starbucks.com.ar
-starbucks.com.mx
-starbucks.com.py
-starbucks.com.sv
-starbucks.com.uy
-starbucks.pa
-starbucks.pe
-starbucks.tt
-starbuckspr.com
-auth.privy.io
-dashboard.privy.io
+pdq.com

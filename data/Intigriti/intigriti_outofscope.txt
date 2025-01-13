@@ -142,6 +142,7 @@ testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
 *.vectus.in
+*.pdq.com
 *.simplemdm.com
 *.smartdeploy.com
 detect.pdq.tools
