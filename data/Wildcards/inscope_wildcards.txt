@@ -407,6 +407,7 @@
 *.justfall.lol
 *.justplay.lol
 *.1v1.lol
+*.monopoly-poker.com
 *.playtika.com
 *.playwsop.com
 *.redecor.com

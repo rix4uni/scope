@@ -1,1 +1,1 @@
-*.api.ua.com
+*.monopoly-poker.com
