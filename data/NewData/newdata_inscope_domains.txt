@@ -1,8 +1,6 @@
-20min.ch
-coral.20min.ch
-cm.20min.ch
-api.20min.ch
-videoplayer.20min.ch
-partner-feeds.20min.ch
-screenplayer.20min.ch
-audio.20min.ch
+belgium.tomorrowland.com
+brasil.tomorrowland.com
+tlbe.prod.tomorrowland.com
+tlbr.prod.tomorrowland.com
+tlfr.prod.tomorrowland.com
+winter.tomorrowland.com

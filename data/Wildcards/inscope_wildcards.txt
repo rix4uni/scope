@@ -991,6 +991,9 @@
 *.saytechnologies.com
 *.sqills.com
 *.sqills.team
+*.weareone.world
+*.stag.weareone.world
+*.stag.tomorrowland.com
 *.tomorrowland.com
 *.trouw.nl
 *.truelayer.cloud
