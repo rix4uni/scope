@@ -279,6 +279,7 @@ auth2.pdq.tools
 library-staging.pdq.tools
 houston-staging.pdq.tools
 portal-staging.pdq.tools
+*.pdq.com
 *.personiowhistleblowing.com
 *.personio-internal.de
 *.personio.tools

@@ -1,3 +1,1 @@
-*.weareone.world
-*.stag.weareone.world
-*.stag.tomorrowland.com
+*.pdq.com

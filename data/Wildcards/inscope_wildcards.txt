@@ -976,6 +976,7 @@
 *.nkstatic.com
 *.oda.com
 *.prod.nube.tech
+*.pdq.com
 *.personiowhistleblowing.com
 *.personio-internal.de
 *.personio.tools

@@ -185,7 +185,6 @@
 *.cineramabios.nl
 *.oisl.gg
 *.vectus.in
-*.pdq.com
 *.simplemdm.com
 *.smartdeploy.com
 *.brightplus.be
