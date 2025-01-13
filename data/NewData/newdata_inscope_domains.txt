@@ -1,6 +1,5 @@
-underarmour.com
-underarmour.co.uk
-api.shop.ua.com
-underarmournext.co.uk
-mapmyfitness.api.ua.com
-consumer-sustainability.underarmour.com
+dashboard.sendbird.com
+gate.sendbird.com
+sendbird.com
+calls.sendbird.com
+notifications.sendbird.com

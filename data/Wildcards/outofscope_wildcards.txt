@@ -116,14 +116,6 @@
 *.bokun.website
 *.bokunmobile.website
 *.experiences.zone
-*.connect.ringier.ch
-*.onelog.ch
-*.20min-tv.ch
-*.newsnetz.tv
-*.appuser.ch
-*.iagentur.ch
-*.streamboat.ch
-*.streamboatserver.ch
 *.rc.viator.com
 *.sandbox.viator.com
 *.partner.viator.com

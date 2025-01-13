@@ -931,6 +931,11 @@ au.com.seek
 *.certsynonprod.com
 graphql.seek.com
 auth.seek.com
+dashboard.sendbird.com
+gate.sendbird.com
+sendbird.com
+calls.sendbird.com
+notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 *.mcssl.com
@@ -1035,14 +1040,6 @@ rentals.tripadvisor.com
 marlo.ext.tripadvisor.com
 *.bokundemo.com
 *.bokuntest.com
-20min.ch
-coral.20min.ch
-cm.20min.ch
-api.20min.ch
-videoplayer.20min.ch
-partner-feeds.20min.ch
-screenplayer.20min.ch
-audio.20min.ch
 api.twilio.com
 tsock.us1.twilio.com
 *.twilio.com
