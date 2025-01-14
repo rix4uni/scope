@@ -1,3 +1,1 @@
-*.hubspotemail.net
-*.hubspotpagebuilder.com
-*.hubspotpagebuilder.eu
+*.skyscanner.net
