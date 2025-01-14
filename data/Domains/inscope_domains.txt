@@ -97,7 +97,6 @@ youpornpremium.com
 pornhub.mainhub.com
 tube8.com
 thumbzilla.com
-backblaze.com
 balsamiq.com
 barracuda.com
 mybigcommerce.com
@@ -720,6 +719,16 @@ weebly.com
 manage.statuspage.io
 driveuconnect.com
 driveuconnect.eu
+portal.lrs.t-mobile.com
+account.t-mobile.com
+metrobyt-mobile.com
+sprint.com
+t-mobile.com
+api.t-mobile.com
+tfb.t-mobile.com
+devedge.t-mobile.com
+tess.service-now.com
+digits.t-mobile.com
 biocorellc.com
 tempus-ex.com
 infiniteathlete.ai

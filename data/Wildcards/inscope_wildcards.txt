@@ -14,8 +14,6 @@
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
-*.backblazeb2.com
-*.backblaze.com
 *.bigcommerce.com
 *.bigcommerce.net
 *.binance.com
@@ -255,6 +253,10 @@
 *.square.com
 *.squareup.com
 *.statuspage.io
+*.api.t-mobile.com
+*.t-mobile.com
+*.metrobyt-mobile.com
+*.sprint.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
