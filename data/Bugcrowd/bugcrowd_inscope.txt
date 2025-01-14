@@ -207,6 +207,8 @@ mediaflows.cloudinary.com
 dimensions.cloudinary.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
+staging.coindesk.com
+staging.auth.coindesk.com
 *.xfinity.com
 *.comcast.com
 *.xcal.tv
