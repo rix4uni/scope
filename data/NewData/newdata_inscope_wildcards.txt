@@ -1,2 +1,3 @@
-*.backblazeb2.com
-*.backblaze.com
+*.openai.org
+*.openai.com
+*.pinterest.com
