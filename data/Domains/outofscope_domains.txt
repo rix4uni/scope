@@ -134,14 +134,6 @@ support.cloudinary.com
 wiki.cloudinary.com
 hourofcode.com
 advocacy.code.org
-coindesk.com
-uat.coindesk.com
-events.coindesk.com
-consensus2023.coindesk.com
-consensus2024.coindesk.com
-consensus2025.coindesk.com
-consensus-hongkong2025.coindesk.com
-uat.accounts.coindesk.com
 admin.selectwifi.xfinity.com
 comcastbiz.net
 runner.contrastsecurity.com
