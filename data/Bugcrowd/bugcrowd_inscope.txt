@@ -778,6 +778,13 @@ client.htm
 sftd-windows.htm
 download-browser-plugin.htm
 pentest-app.onetrust.com
+api.openai.com
+chat.openai.com
+*.openai.org
+openai.org
+openai.com
+*.openai.com
+platform.openai.com
 opensea.io
 pro.opensea.io
 wallets.opensea.io
@@ -863,6 +870,9 @@ dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
 *.pexels.com
+api.pinterest.com
+*.pinterest.com
+microsoftedge.microsoft.com
 pixabay.com
 *.pixabay.com
 my.planethoster.com
