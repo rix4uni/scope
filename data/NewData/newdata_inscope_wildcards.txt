@@ -1,4 +1,4 @@
-*.classdojo.com
-*.classdojo.co.uk
-*.doj.io
-*.dojo.me
+*.guildofguardians.com
+*.immutable.com
+*.imtbl.com
+*.testnet.immutable.com
