@@ -1,3 +1,4 @@
-*.hubspotemail.net
-*.hubspotpagebuilder.com
-*.hubspotpagebuilder.eu
+*.classdojo.com
+*.classdojo.co.uk
+*.doj.io
+*.dojo.me
