@@ -1,1 +1,3 @@
-*.etsy.com
+*.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu

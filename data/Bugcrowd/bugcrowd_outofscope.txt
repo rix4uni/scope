@@ -234,6 +234,10 @@ eu.app.gearset.com
 ap.app.gearest.com
 gearset.com
 try.hotdoc.com.au
+shop.hubspot.com
+trust.hubspot.com
+thespot.hubspot.com
+ir.hubspot.com
 cultbeauty.co.uk
 matchme.cultbeauty.co.uk
 sampling.ibotta.com
