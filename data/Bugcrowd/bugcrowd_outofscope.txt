@@ -153,6 +153,7 @@ trust.bugcrowd.com
 simnext.bullish-test.com
 *.0.canva.cn
 *.0.canva-apps.cn
+cwingsfe.mafrservices.com
 subs.foreignaffairs.com
 subscribe.foreignaffairs.com
 world101.cfr.org

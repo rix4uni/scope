@@ -1,3 +1,12 @@
-gateway.skyscanner.net
-skyscanner.net
-partnerportal.skyscanner.net
+carrefouruae.com
+api-prod.retailsso.com
+api.classdojo.com
+teach.classdojo.com
+student.classdojo.com
+classdojo.com
+home.classdojo.com
+dev.tutoring.classdojo.com
+ws.multiplayer.classdojo.com
+ticket.multiplayer.classdojo.com
+clients.multiplayer.classdojo.com
+monster-customizer.classdojo.com
