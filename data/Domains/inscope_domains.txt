@@ -166,8 +166,6 @@ mediaflows.cloudinary.com
 dimensions.cloudinary.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
-staging.coindesk.com
-staging.auth.coindesk.com
 business.comcast.com
 xfinity.com
 contrastsecurity.com
@@ -254,6 +252,14 @@ bug-bounty-be.glean.com
 hostgator.com.br
 financeiro.hostgator.com.br
 bugcrowd.hotdoc.com.au
+app.hubspot.com
+app-eu1.hubspot.com
+api.hubspot.com
+developers.hubspot.com
+api.hubapi.com
+chatspot.ai
+connect.com
+knowledge.hubspot.com
 ameliorate.com
 beautyexpert.com
 cultbeauty.co.uk
