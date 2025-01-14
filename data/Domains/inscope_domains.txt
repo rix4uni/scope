@@ -166,6 +166,8 @@ mediaflows.cloudinary.com
 dimensions.cloudinary.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
+staging.coindesk.com
+staging.auth.coindesk.com
 business.comcast.com
 xfinity.com
 contrastsecurity.com
@@ -700,9 +702,6 @@ notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 skroutz.gr
-gateway.skyscanner.net
-skyscanner.net
-partnerportal.skyscanner.net
 smartmockups.com
 snapnames.com
 namejet.com
