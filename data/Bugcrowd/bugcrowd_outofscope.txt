@@ -124,6 +124,7 @@ ssems.gravityzone.bitdefender.com
 crp.bitdefender.com
 telcosuccess.bitdefender.com
 demo.bitdefender.com
+central.bitdefender.com
 support.bitpanda.com
 maintenance.bitpanda.com
 beta.bitpanda.com
@@ -245,6 +246,8 @@ shop.hubspot.com
 trust.hubspot.com
 thespot.hubspot.com
 ir.hubspot.com
+cultbeauty.co.uk
+matchme.cultbeauty.co.uk
 sampling.ibotta.com
 backend.ibotta.com
 ir.ibotta.com
