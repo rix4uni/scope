@@ -1,14 +1,4 @@
-guildofguardians.com
-passport.immutable.com
-auth.immutable.com
-hub.immutable.com
-api.immutable.com
-api.x.immutable.com
-testnet.immutable.com
-link.x.immutable.com
-market.immutable.com
-docs.immutable.com
-imx.community
+backblaze.com
 restaurant-api.takeaway.com
 takeawaypay.azurefd.net
 justeattakeaway.com

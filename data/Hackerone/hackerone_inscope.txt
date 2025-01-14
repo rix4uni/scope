@@ -1633,8 +1633,10 @@ creditkarma.com
 support.creditkarma.ca
 vivi.langga
 creditkarma.ca
-mercadopago.com.ar
+mercadopago.com.mx
+mercadopago.cl
 mercadopago.com.br
+mercadopago.com.ar
 api.mercadolibre.com
 developers.mercadolibre.com.ar
 api.mercadopago.com
@@ -1645,9 +1647,7 @@ mercadolibre.com.mx
 mercadolibre.com.pe
 mercadolibre.com.uy
 mercadolivre.com.br
-mercadopago.cl
 mercadopago.com.co
-mercadopago.com.mx
 mercadopago.com.pe
 mercadopago.com.uy
 urbanclap.com

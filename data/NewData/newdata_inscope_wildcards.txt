@@ -1,7 +1,5 @@
-*.guildofguardians.com
-*.immutable.com
-*.imtbl.com
-*.testnet.immutable.com
+*.backblazeb2.com
+*.backblaze.com
 *.lieferando.at
 *.yourdelivery.de
 *.takeaway.com
