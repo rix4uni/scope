@@ -35,10 +35,6 @@
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
-*.classdojo.com
-*.classdojo.co.uk
-*.doj.io
-*.dojo.me
 *.xfinity.com
 *.comcast.com
 *.xcal.tv
