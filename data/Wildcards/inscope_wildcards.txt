@@ -69,6 +69,7 @@
 *.emakina.fr
 *.emakina.us
 *.emakina.at
+*.etsy.com
 *.internal.exoscale.ch
 *.expressvpn.com
 *.xvservice.net
