@@ -48,8 +48,14 @@
 *.ecomanda.app
 *.allin.movilepay.com
 *.starsoft.movilepay.com
+*.godsunchained.com
+*.gogbackend.com
+*.dev.x.immutable.com
+*.sandbox.x.immutable.com
+*.sandbox.imtbl.com
+*.dev.imtbl.com
+*.ropsten.x.immutable.com
 *.joralocal.com.au
-*.takeawayriders.com
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
