@@ -258,6 +258,7 @@ eshop.salt.ch
 login.salt.ch
 my.sogexia.com
 io.gonative.android.xjndrq
+spacelift.dev
 *.app.spacelift.dev
 api.swapcard.com
 chat-api.swapcard.com
