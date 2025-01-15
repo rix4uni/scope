@@ -1,1 +1,3 @@
-spacelift.dev
+api.lightspark.com
+app.lightspark.com
+link.uma.me

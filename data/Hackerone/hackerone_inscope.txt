@@ -147,6 +147,9 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 temu.com
+api.lightspark.com
+app.lightspark.com
+link.uma.me
 *.bybit.com
 *.cheaptickets.nl
 *.trainpal.com
