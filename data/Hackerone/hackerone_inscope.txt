@@ -1107,16 +1107,6 @@ gasstation.polygon.technology
 portal.polygon.technology
 staking-api.polygon.technology
 staking.polygon.technology
-accounts.insightly.com
-crm.na1.insightly.com
-api.insightly.com
-api.na1.insightly.com
-login.insightly.com
-marketing.na1.insightly.com
-insightly.com
-mobileapi.insightly.com
-mobileapi.na1.insightly.com
-outlook.insightly.com
 figma.slack.com
 appsource.microsoft.com
 api.figma.com

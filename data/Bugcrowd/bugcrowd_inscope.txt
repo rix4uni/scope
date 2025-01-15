@@ -242,7 +242,6 @@ api.dropboxapi.com
 dash.ai
 dropboxpartners.com
 *.dropboxpartners.com
-lifeworkcalendar.com
 reclaim.ai
 *.reclaim.ai
 dropbox.com
