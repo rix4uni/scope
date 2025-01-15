@@ -1,6 +1,3 @@
-api.openai.com
-chat.openai.com
-openai.org
-openai.com
-platform.openai.com
-api.pinterest.com
+tidal.com
+api.tidal.com
+offer.tidal.com

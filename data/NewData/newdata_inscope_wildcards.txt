@@ -1,3 +1,5 @@
-*.openai.org
-*.openai.com
-*.pinterest.com
+*.tidal.com
+*.wimpmusic.com
+*.tidalhifi.com
+*tidalhi.fi
+*.tdl.sh
