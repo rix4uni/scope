@@ -896,7 +896,6 @@ cfc.naspers.com
 peopleview.naspers.com
 nav.naspers.com
 *.quizlet.com
-*.slader.com
 api.rapyd.net
 dashboard.rapyd.net
 verify.rapyd.net
