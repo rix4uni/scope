@@ -629,6 +629,7 @@ theplaymania.com
 app.gator.com
 *.bluehost.com
 *.hostgator.com
+app.web.com
 transferwise.com
 wise.com
 *.tw.com
