@@ -589,8 +589,6 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
-store.ninjakiwi.com
-support.ninjakiwi.com
 ovo.itgcanopy.com
 appsfwd.ovoenergy.com
 askovo.net
@@ -717,6 +715,10 @@ gis2.water-link.be
 jobs.water-link.be
 acc.water-link.be
 dev.water-link.be
+blog.wolt.com
+gettest.wolt.com
+press.wolt.com
+wolt.atlassian.net
 vznkul.be
 api.intercom.io
 autodiscover.intigriti.com

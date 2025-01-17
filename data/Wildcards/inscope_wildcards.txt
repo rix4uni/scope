@@ -974,8 +974,6 @@
 *.monzo.com
 *.monzo.me
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.personiowhistleblowing.com
@@ -1012,6 +1010,7 @@
 *.vtmgo.be
 *.voiscooters.com
 *.water-link.be
+*.wolt.com
 *.yacht.nl
 *.yahoo.com
 *pwn.intigriti.rocks
