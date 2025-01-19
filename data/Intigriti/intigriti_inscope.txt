@@ -259,7 +259,6 @@ webwsp.aps.kuleuven.be
 a.simplemdm.com
 auth2.pdq.tools
 library-staging.pdq.tools
-pdq.com
 houston-staging.pdq.tools
 portal-staging.pdq.tools
 *.personiowhistleblowing.com
