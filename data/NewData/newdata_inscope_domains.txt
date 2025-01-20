@@ -1,13 +1,1 @@
-logistica.redelcom.cl
-mercadolibre.co.cr
-mercadolibre.com.bo
-mercadolibre.com.do
-mercadolibre.com.ec
-mercadolibre.com.gt
-mercadolibre.com.hn
-mercadolibre.com.ni
-mercadolibre.com.pa
-mercadolibre.com.py
-mercadolibre.com.sv
-mercadolivre.com
-mercadopago.com.ec
+bumba.global
