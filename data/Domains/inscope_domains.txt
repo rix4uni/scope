@@ -685,7 +685,6 @@ xbox.com
 recroom.com
 api.rec.net
 devportal.rec.net
-penetrationtest.enable-now.cloud.sap
 api.thesecurityteam.rocks
 api.anytask.thesecurityteam.rocks
 legacy-blockexplorer.electroneum.com
