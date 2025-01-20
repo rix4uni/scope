@@ -12,7 +12,6 @@ thebrowser.company
 *.verily.com
 apps.apple.com
 play.google.com
-bumba.global
 cart.starbucks.co.jp
 gift.starbucks.co.jp
 login.starbucks.co.jp

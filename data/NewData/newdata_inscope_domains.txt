@@ -1,1 +1,1 @@
-bumba.global
+penetrationtest.enable-now.cloud.sap
