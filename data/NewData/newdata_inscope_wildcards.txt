@@ -1,1 +1,4 @@
-*.wolt.com
+*.personiowhistleblowing.com
+*.personio-internal.de
+*.personio.tools
+*.personio.de

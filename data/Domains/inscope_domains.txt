@@ -3423,6 +3423,9 @@ auth2.pdq.tools
 library-staging.pdq.tools
 houston-staging.pdq.tools
 portal-staging.pdq.tools
+hug.personio.com
+personio.de
+personio.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api.portofantwerp.com

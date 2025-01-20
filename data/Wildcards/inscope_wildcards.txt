@@ -976,6 +976,10 @@
 *.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
+*.personiowhistleblowing.com
+*.personio-internal.de
+*.personio.tools
+*.personio.de
 *.c-point.be
 *.ripe.net
 *.rhinternal.net

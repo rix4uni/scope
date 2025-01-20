@@ -261,6 +261,13 @@ auth2.pdq.tools
 library-staging.pdq.tools
 houston-staging.pdq.tools
 portal-staging.pdq.tools
+*.personiowhistleblowing.com
+*.personio-internal.de
+*.personio.tools
+*.personio.de
+hug.personio.com
+personio.de
+personio.com
 *.c-point.be
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com

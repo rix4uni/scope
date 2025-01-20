@@ -1,7 +1,3 @@
-authentication.wolt.com
-wolt.com
-corporate.wolt.com
-drive.wolt.com
-merchant.wolt.com
-ops.wolt.com
-restaurant-api.wolt.com
+hug.personio.com
+personio.de
+personio.com
