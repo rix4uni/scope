@@ -1,4 +1,2 @@
-*.personiowhistleblowing.com
-*.personio-internal.de
-*.personio.tools
-*.personio.de
+*.ninjakiwi.me
+*.nkstatic.com
