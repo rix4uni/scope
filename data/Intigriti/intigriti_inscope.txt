@@ -58,16 +58,6 @@ css-tricks.com
 justonweb.be
 *.dpgmedia.be
 *.dpgmedia.nl
-assessment-api.datacamp.com
-app.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-apps.apple.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
-*.datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -110,6 +100,7 @@ digitaloceantest.com
 do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
+apps.apple.com
 donorbox.org
 play.google.com
 org.donorbox.cardreader
