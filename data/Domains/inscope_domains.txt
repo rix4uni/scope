@@ -790,7 +790,6 @@ underarmour.co.uk
 api.shop.ua.com
 underarmournext.co.uk
 underarmournext.com
-mapmyfitness.api.ua.com
 consumer-sustainability.underarmour.com
 apphouse.underarmour.com
 ourhouse.underarmour.com
