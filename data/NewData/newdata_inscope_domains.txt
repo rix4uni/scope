@@ -1,2 +1,1 @@
-staging.coindesk.com
-staging.auth.coindesk.com
+api.pinterest.com
