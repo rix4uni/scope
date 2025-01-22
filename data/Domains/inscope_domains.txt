@@ -158,8 +158,6 @@ mediaflows.cloudinary.com
 dimensions.cloudinary.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
-staging.coindesk.com
-staging.auth.coindesk.com
 business.comcast.com
 xfinity.com
 contrastsecurity.com
@@ -3223,6 +3221,8 @@ app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
+dealer.prod.ps.axelspringer.de
+secure.mypass.de
 bmw-motorrad.de
 bmw.de
 mini.de

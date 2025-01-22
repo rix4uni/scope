@@ -7,6 +7,8 @@
 *.allegro.cz
 *.allegro.pl
 *.allegrogroup.com
+technik.autobild.de
+technik.beta.autobild.de
 *.info.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com

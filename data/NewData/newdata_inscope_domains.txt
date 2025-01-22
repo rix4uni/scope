@@ -1,1 +1,2 @@
-api.pinterest.com
+dealer.prod.ps.axelspringer.de
+secure.mypass.de
