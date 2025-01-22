@@ -1,1 +1,12 @@
-*.datacamp.com
+portalapi.*.afterpay.com
+*-prod.arlo.com
+casino.*.betmgm.com
+*-bugcrowd.foxycart.com
+test.*.lfscnp.com
+dev.*.lfscnp.com
+sandbox.*.lfscnp.com
+np.*.lfscnp.com
+sip.*.twilio.com
+*-eu.truecaller.com
+*-noneu.truecaller.com
+*-s.a.exodus.io

@@ -1,7 +1,5 @@
 acorns.com
-apps.apple.com
 graphql.acorns.com
-play.google.com
 gohenry.com
 pixpay.fr
 portal.afterpay.com
@@ -22,14 +20,11 @@ api.aiven.io
 github.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 ampol.com.au
-au.com.ampol.flagship
 ampcharge.ampol.com.au
 ampolenergy.com.au
-au.com.ampol.teamapp
 my.ampol.com.au
 carbonneutral.ampol.com.au
 cards.ampol.com.au
-prod.arlo.com
 arlo-device.messaging.netgear.com
 beta.arlo.com
 community.arlo.com
@@ -65,7 +60,6 @@ npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
-io.aurory.seekersoftokane
 testflight.apple.com
 australiansuper.com
 portal.australiansuper.com
@@ -124,8 +118,6 @@ socket.bitpanda.com
 account.bitpanda.com
 blog.bitpanda.com
 bitstamp.net
-net.bitstamp.app
-net.bitstamp.appgo
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
 docs.bugcrowd.com
@@ -172,7 +164,6 @@ business.comcast.com
 xfinity.com
 contrastsecurity.com
 contrastsecurity.dev
-de.mobileconcepts.cyberghost
 cyberghostvpn.com
 addons.mozilla.org
 chrome.google.com
@@ -239,7 +230,6 @@ flourish.studio
 xyzbmojn.net
 flourish-user-templates.com
 flourish-user-preview.com
-bugcrowd.foxycart.com
 admin.foxycart.com
 admin.foxy.io
 auth.foxy.io
@@ -300,7 +290,6 @@ gestordepedidos.ifood.com.br
 developer.ifood.com.br
 api.fstr.rocks
 rc.fstr.rocks
-br.com.brainweb.ifood
 guildofguardians.com
 passport.immutable.com
 auth.immutable.com
@@ -362,7 +351,6 @@ unscreen.com
 keepersecurity.com
 microsoft.com
 docs.keeper.io
-apps.keeper
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
 kucoin.com
@@ -424,7 +412,6 @@ playlist.link
 mylink.page
 plannthat.com
 linktree.app.link
-co.bitx.android.wallet
 mobileapi.staging.luno.com
 staging.luno.com
 ajax.staging.luno.com
@@ -481,7 +468,6 @@ mobile.monash
 status.mobile.monash
 monashcollege.edu.au
 online.monash.edu
-edu.monash.monashmobile
 myapp.monash.edu
 alumni-friends.monash.edu
 agent.apps.monash.edu
@@ -515,7 +501,6 @@ app-staging.getmoneytree.com
 myaccount-staging.getmoneytree.com
 jp-api-staging.getmoneytree.com
 business-staging.getmoneytree.com
-jp.moneytree.moneytree
 staging-prime.navan.com
 secure.neogov.com
 login.neogov.com
@@ -679,7 +664,6 @@ api.anytask.thesecurityteam.rocks
 legacy-blockexplorer.electroneum.com
 public.thesecurityteam.rocks
 seekcdn.com
-au.com.seek
 graphql.seek.com
 auth.seek.com
 dashboard.sendbird.com
@@ -890,7 +874,6 @@ transferwise.com
 wise.com
 api.woox.io
 woox.io
-network.woo.mobile
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com
@@ -1165,7 +1148,6 @@ nw.ring.com
 oauth.ring.com
 ring.com
 prd-ring-web-us.prd.rings.solutions
-es.grupobme.bmeconecta
 web3.sdx.com
 sdx.com
 bolsasymercados.es
@@ -1662,20 +1644,9 @@ voapi-au.8x8.com
 voapi-uk.8x8.com
 work-staging.8x8.com
 work.8x8.com
-tw.com.watsons.app
-lv.drogas.consumer
-lt.drogas.consumer
-fortress.fortressapp
 wearehackerone.com
-be.kruidvat.voordeelkaart
-nl.kruidvat.voordeelkaart
-at.marionnaud.customer
-it.marionnaud.customer
-ro.marionnaud.customer
-ch.marionnaud.customer
 appt.healthclinics.superdrug.com
 healthclinics.superdrug.com
-superdrug.com.beautycard
 api.drogas.lt
 api.drogas.lv
 api.fortress.com.hk
@@ -1837,7 +1808,6 @@ api.figma.com
 figma.com
 amazon.speech.sim
 amazonpayinsurance.in
-developer.android.com
 amazonpay.in
 in.amazon.mshop.android.business.shopping
 in.amazon.mshop.android.shopping
@@ -1883,8 +1853,6 @@ social.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 asia-south1.truecaller.com
-eu.truecaller.com
-noneu.truecaller.com
 business-resources.truecaller.com
 business.truecaller.com
 web.truecaller.com
@@ -1914,7 +1882,6 @@ updater.clario.co
 updatetracker.clario.co
 webapi.clario.co
 yapi.clario.co
-s.a.exodus.io
 bitcoin-s.a.exodus.io
 exodus.io
 exodus.com
@@ -2472,7 +2439,6 @@ accounts.pixiv.net
 booth.pm
 coban.pixiv.net
 comic.pixiv.net
-jp.pxv.android.manga
 dic.pixiv.net
 vroid.com
 hub.vroid.com
@@ -2483,7 +2449,6 @@ pastela.app
 payment.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
-jp.pxv.android.sketch
 pixiv.net
 docs.cometbft.com
 cosmwasm.com
@@ -2521,7 +2486,6 @@ ort-admin.pingone.com
 ort-authenticator.pingone.com
 pingidentity.com
 ort-desktop.pingone.com
-assets.cdnbf.net
 itv7.itv.com
 super6.skysports.com
 bounty-node.rsk.co
@@ -2529,8 +2493,10 @@ dev.rootstock.io
 discord.com
 testnet.bitmex.com
 bitmex.com
+apps.apple.com
 falcon-sandbox.com
 hybrid-analysis.com
+play.google.com
 crowdstrike.com
 crowdstrike.de
 crowdstrike.com.au
@@ -2789,8 +2755,8 @@ staging-app.shipt.com
 staging-shop.shipt.com
 staging-shoppingcart.shipt.com
 shipt.com
-nordvpn.com
 nordpass.com
+nordvpn.com
 app.nordpass.com
 cdna.lystit.com
 mobileapi.lystit.com
@@ -3257,8 +3223,6 @@ app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
-dealer.prod.ps.axelspringer.de
-secure.mypass.de
 bmw-motorrad.de
 bmw.de
 mini.de
@@ -3330,7 +3294,6 @@ do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
 donorbox.org
-org.donorbox.cardreader
 my.eurid.eu
 service.fing.com
 app.fing.com
@@ -3668,7 +3631,6 @@ directlink.eu-west-2.outscale.com
 atg.se
 api.atg.se
 iam.atg.se
-se.atg.live
 app.alasco.de
 api.alasco.de
 mysrc.group
@@ -3690,7 +3652,6 @@ m.csqtrk.net
 s.contentsquare.net
 bounty.cryptobox.com
 pprd.cybermalveillance.gouv.fr
-id.dana
 mgs-gw.m.dana.id
 api-saas.dana.id
 sec.m.dana.id
@@ -3700,7 +3661,6 @@ static.demarches-simplifiees.fr
 tchap.gouv.fr
 matrix.agent.tchap.gouv.fr
 matrix.agent
-fr.gouv.tchap
 beta.tchap.gouv.fr
 matrix.i.tchap.gouv.fr
 matrix.e.tchap.gouv.fr
@@ -3725,7 +3685,6 @@ deezer.com
 connect.deezer.com
 api.deezer.com
 payment.deezer.com
-deezer.android.app
 zen.deezer.com
 wellbeing.deezer.com
 wellbeing.dzcdn.net
@@ -3825,7 +3784,6 @@ admin.moneyboxapp.org
 admin-roundups.moneyboxapp.org
 sycamore.moneyboxapp.org
 otto.de
-de.cellular.ottohybrid
 lascana.de
 teleoptiprd.otto.de
 mmp.otto.de
@@ -3880,7 +3838,6 @@ my.salt.ch
 eshop.salt.ch
 login.salt.ch
 my.sogexia.com
-io.gonative.android.xjndrq
 spacelift.dev
 api.swapcard.com
 chat-api.swapcard.com

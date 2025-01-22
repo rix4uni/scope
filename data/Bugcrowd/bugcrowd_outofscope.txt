@@ -181,7 +181,7 @@ consensus2025.coindesk.com
 consensus-hongkong2025.coindesk.com
 uat.accounts.coindesk.com
 *.hfc.comcastbusiness.net
-*.comcast.net
+hsd1.*.comcast.net
 *business.comcast.com
 *.sys.comcast.net
 admin.selectwifi.xfinity.com
@@ -336,13 +336,14 @@ intro.kucoin.com
 cert.kucoin.com
 sandbox.kucoin.com
 passport.kucoin.com
-sdb.kucoin.com
+*-sdb.kucoin.com
+*-sandbox.kucoin.com
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
 investors.latitudefinancial.com.au
 auth.latitudefinancial.com
-*.latitudefinancial.com
+auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
 *.sg.latitudepay.com
@@ -512,7 +513,6 @@ cash.me
 designers.weebly.com
 tidal.com
 *.tidal.com
-play.google.com
 itunes.apple.com
 *.atlassian.com
 sprint.net

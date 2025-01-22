@@ -9,9 +9,6 @@ directlink.eu-west-2.outscale.com
 atg.se
 api.atg.se
 iam.atg.se
-apps.apple.com
-play.google.com
-se.atg.live
 app.alasco.de
 api.alasco.de
 *.alasco.de
@@ -39,7 +36,6 @@ m.csqtrk.net
 s.contentsquare.net
 bounty.cryptobox.com
 pprd.cybermalveillance.gouv.fr
-id.dana
 appgallery.huawei.com
 mgs-gw.m.dana.id
 api-saas.dana.id
@@ -52,7 +48,6 @@ tchap.gouv.fr
 matrix.agent.tchap.gouv.fr
 matrix.agent
 *.tchap.gouv.fr
-fr.gouv.tchap
 beta.tchap.gouv.fr
 matrix.i.tchap.gouv.fr
 matrix.e.tchap.gouv.fr
@@ -82,13 +77,13 @@ deezer.com
 connect.deezer.com
 api.deezer.com
 payment.deezer.com
-deezer.android.app
 zen.deezer.com
 wellbeing.deezer.com
 wellbeing.dzcdn.net
 account.deezer.com
 pipe.deezer.com
 pro.doctolib
+play.google.com
 fr.doctolib.www
 *.siilo.com
 ezviz.com
@@ -195,13 +190,13 @@ am.editeur.preprod.monespacesante.fr
 am.preprod.monespacesante.fr
 preprod.am.monespacesante.fr
 preprod.editeur.am.monespacesante.fr
+apps.apple.com
 fr.assurancemaladie.monespacesante
 api.moneyboxapp.com
 admin.moneyboxapp.org
 admin-roundups.moneyboxapp.org
 sycamore.moneyboxapp.org
 otto.de
-de.cellular.ottohybrid
 lascana.de
 teleoptiprd.otto.de
 mmp.otto.de
@@ -257,7 +252,6 @@ my.salt.ch
 eshop.salt.ch
 login.salt.ch
 my.sogexia.com
-io.gonative.android.xjndrq
 spacelift.dev
 *.app.spacelift.dev
 api.swapcard.com

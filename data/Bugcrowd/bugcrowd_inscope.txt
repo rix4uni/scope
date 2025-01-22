@@ -1,8 +1,6 @@
 acorns.com
 *.acorns.com
-apps.apple.com
 graphql.acorns.com
-play.google.com
 gohenry.com
 pixpay.fr
 portal.afterpay.com
@@ -10,6 +8,7 @@ afterpay.com
 *.afterpay.com
 mobileapi.afterpay.com
 portalapi.us.afterpay.com
+portalapi.*.afterpay.com
 developers.afterpay.com
 clearpay.co.uk
 clearpay.com
@@ -24,16 +23,14 @@ api.aiven.io
 github.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 ampol.com.au
-au.com.ampol.flagship
 ampcharge.ampol.com.au
 ampolenergy.com.au
-au.com.ampol.teamapp
 my.ampol.com.au
 carbonneutral.ampol.com.au
 cards.ampol.com.au
 *.arlo.com
 *.arloxcld.com
-prod.arlo.com
+*-prod.arlo.com
 arlo-device.messaging.netgear.com
 beta.arlo.com
 community.arlo.com
@@ -77,7 +74,6 @@ npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
-io.aurory.seekersoftokane
 testflight.apple.com
 australiansuper.com
 portal.australiansuper.com
@@ -150,8 +146,6 @@ account.bitpanda.com
 blog.bitpanda.com
 bitstamp.net
 *.bitstamp.net
-net.bitstamp.app
-net.bitstamp.appgo
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
 docs.bugcrowd.com
@@ -217,7 +211,6 @@ business.comcast.com
 xfinity.com
 contrastsecurity.com
 contrastsecurity.dev
-de.mobileconcepts.cyberghost
 cyberghostvpn.com
 addons.mozilla.org
 chrome.google.com
@@ -269,7 +262,7 @@ casino.bwin.com
 casino.sportingbet.com
 ladbrokes.com
 coral.co.uk
-*.betmgm.com
+casino.*.betmgm.com
 partypoker.com
 galabingo.com
 partycasino.com
@@ -320,7 +313,7 @@ xyzbmojn.net
 flourish-user-templates.com
 flourish-user-preview.com
 *.kiln.it
-bugcrowd.foxycart.com
+*-bugcrowd.foxycart.com
 admin.foxycart.com
 admin.foxy.io
 auth.foxy.io
@@ -403,7 +396,6 @@ gestordepedidos.ifood.com.br
 developer.ifood.com.br
 api.fstr.rocks
 rc.fstr.rocks
-br.com.brainweb.ifood
 guildofguardians.com
 *.guildofguardians.com
 passport.immutable.com
@@ -512,7 +504,6 @@ unscreen.com
 keepersecurity.com
 microsoft.com
 docs.keeper.io
-apps.keeper
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
 kucoin.com
@@ -554,7 +545,10 @@ umiloans.com.au
 *.umiloans.com.au
 images.latitudepayapps.com
 app.latitudepayapps.com
-*.lfscnp.com
+test.*.lfscnp.com
+dev.*.lfscnp.com
+sandbox.*.lfscnp.com
+np.*.lfscnp.com
 manager.trial.lsk.lightspeed.app
 hq.breadcrumb.com
 secure.vendhq.com
@@ -606,7 +600,6 @@ mylink.page
 *.plannthat.com
 plannthat.com
 linktree.app.link
-co.bitx.android.wallet
 mobileapi.staging.luno.com
 staging.luno.com
 ajax.staging.luno.com
@@ -664,7 +657,6 @@ mobile.monash
 status.mobile.monash
 monashcollege.edu.au
 online.monash.edu
-edu.monash.monashmobile
 myapp.monash.edu
 alumni-friends.monash.edu
 agent.apps.monash.edu
@@ -698,7 +690,6 @@ app-staging.getmoneytree.com
 myaccount-staging.getmoneytree.com
 jp-api-staging.getmoneytree.com
 business-staging.getmoneytree.com
-jp.moneytree.moneytree
 staging-prime.navan.com
 secure.neogov.com
 login.neogov.com
@@ -914,7 +905,6 @@ legacy-blockexplorer.electroneum.com
 public.thesecurityteam.rocks
 *.seek.com.au
 seekcdn.com
-au.com.seek
 *.skinfra.xyz
 *.outfra.xyz
 *.sol-data.com
@@ -1045,8 +1035,9 @@ screenplayer.20min.ch
 audio.20min.ch
 api.twilio.com
 tsock.us1.twilio.com
-*.twilio.com
+sip.*.twilio.com
 twilio.com
+*.twilio.com
 build.twilio.com
 sendgrid.com
 app.sendgrid.com
@@ -1181,7 +1172,6 @@ wise.com
 *.wise.com
 api.woox.io
 woox.io
-network.woo.mobile
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com

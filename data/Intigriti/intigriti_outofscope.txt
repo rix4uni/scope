@@ -7,8 +7,6 @@
 *.allegro.cz
 *.allegro.pl
 *.allegrogroup.com
-technik.autobild.de
-technik.beta.autobild.de
 *.info.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -210,8 +208,8 @@ rproxy-firenze2.sixt.de
 sixtbook.sixt.com
 webservices.sixt.com
 drying-little-tears.org
-*.sqills.com
-*.cloud.sqills.com
+booking.*.sqills.com
+booking.*.cloud.sqills
 careers.sqills.com
 *.red.sqills.team
 *.tempo-team.de
