@@ -190,7 +190,6 @@ zammad.internal.exoscale.ch
 exoscalestatus.com
 gslink.financialforce.com
 apuat-aaa.fisglobal.com
-training.flourish.studio
 api.gearset.com
 app.gearset.com
 us.app.gearset.com
@@ -326,6 +325,7 @@ mynmcu.com
 nmcreative.space
 nmis-stage.netxinvestor.com
 nmresearchlibrary.nml.com
+northwesternmutual.starssmp.com
 pugetsound.nmfn.com
 sparks-financial.com
 theandersonfinancialgroupnm.com
