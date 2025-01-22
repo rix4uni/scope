@@ -39,3 +39,9 @@ This repo maintain's in-scope and out-of-scope
 ## 📌 References
 - https://github.com/arkadiyt/bounty-targets-data
 - https://github.com/Osb0rn3/bugbounty-targets
+
+## regex tested on `regex101.com`
+You can improve these regex for more accurate data.
+- https://regex101.com/r/1z8v70/1
+- https://regex101.com/r/1z8v70/2
+- https://regex101.com/r/1z8v70/3
