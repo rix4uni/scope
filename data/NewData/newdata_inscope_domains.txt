@@ -1,2 +1,2 @@
-dealer.prod.ps.axelspringer.de
-secure.mypass.de
+staging.coindesk.com
+staging.auth.coindesk.com
