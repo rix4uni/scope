@@ -78,6 +78,9 @@ casino.*.betmgm.com
 *.xvtest.net
 *.financialforce.com
 *.certinia.com
+*.flourish.studio
+*.xyzbmojn.net
+*.kiln.it
 *-bugcrowd.foxycart.com
 *.hubspotemail.net
 *.hubspotpagebuilder.com

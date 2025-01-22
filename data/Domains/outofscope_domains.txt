@@ -190,6 +190,7 @@ zammad.internal.exoscale.ch
 exoscalestatus.com
 gslink.financialforce.com
 apuat-aaa.fisglobal.com
+training.flourish.studio
 api.gearset.com
 app.gearset.com
 us.app.gearset.com
@@ -301,7 +302,6 @@ freshdesk.com
 blstr.xyz
 blstr.co
 community.linktr.ee
-americangirlmena.com
 moneytree.jp
 getmoneytree.com
 tripactions.com
