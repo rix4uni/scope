@@ -506,6 +506,9 @@ develop-app.ynab.com
 support.ynab.com
 support.1password.com
 1password.com
+investor.pepsico.com
+investors.pepsico.com
+pepsico.com
 blog.ishosting.com
 help.ishosting.com
 api.supabase.com
