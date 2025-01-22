@@ -1,15 +1,2 @@
-starbucks.co.id
-starbucks.co.kr
-starbucks.co.nz
-starbucks.co.th
-starbucks.com.au
-starbucks.com.bn
-starbucks.com.hk
-starbucks.com.kh
-starbucks.com.my
-starbucks.com.sg
-starbucks.com.tw
-starbucks.in
-starbucks.la
-starbucks.ph
-starbucks.vn
+staging.coindesk.com
+staging.auth.coindesk.com
