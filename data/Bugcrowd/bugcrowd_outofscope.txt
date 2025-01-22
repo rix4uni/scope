@@ -375,7 +375,6 @@ blstr.xyz
 blstr.co
 *.blstr.co
 community.linktr.ee
-americangirlmena.com
 moneytree.jp
 getmoneytree.com
 tripactions.com
@@ -481,6 +480,7 @@ agent.compareandconnect.com.au
 fastconnect.co.nz
 yourporter.com.au
 raywhitehomenow.com
+help.quizlet.com
 community.rapyd.net
 support.rapyd.net
 docs.rapyd.net
