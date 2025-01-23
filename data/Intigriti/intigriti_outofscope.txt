@@ -257,6 +257,7 @@ gis2.water-link.be
 jobs.water-link.be
 acc.water-link.be
 dev.water-link.be
+links.wolt.com
 blog.wolt.com
 gettest.wolt.com
 press.wolt.com

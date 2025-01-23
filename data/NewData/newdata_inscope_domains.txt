@@ -1,2 +1,1 @@
-tms.onecloud.harman.com
-quantum-events.onecloud.harman.com
+docs.eazybi.com

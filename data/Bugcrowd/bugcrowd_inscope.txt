@@ -239,6 +239,7 @@ reclaim.ai
 *.reclaim.ai
 dropbox.com
 app.reclaim.ai
+docs.eazybi.com
 my.electroneum.com
 electroneum.com
 api.electroneum.com
