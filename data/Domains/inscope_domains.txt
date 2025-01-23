@@ -446,8 +446,6 @@ developer.mastercard.com
 donate.mastercard.com
 demo.priceless.com
 priceless.com
-europe.priceless.com
-pricelesssurprises.com
 performancemarketing.mastercard.com
 src.mastercard.com
 masterpassteststore.com
