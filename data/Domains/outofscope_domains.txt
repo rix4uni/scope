@@ -2435,6 +2435,7 @@ doctolib.zendesk.com
 store.doctolib.com
 share.doctolib.net
 scc-chat.ys7.com
+ezcpcloudiot.eziot.com
 test.ys7.com
 pb.ys7.com
 cloud.cloud2.harmanaudio.com
