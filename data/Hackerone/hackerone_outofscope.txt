@@ -166,6 +166,10 @@ snaps.metamask.io
 *.metamask.io
 io.metamask.metamask
 io.metamask
+card.metamask.io
+baanx.com
+daniel.jones
+mark.james
 community.metamask.io
 developer.metamask.io
 mmi-support.metamask.io
