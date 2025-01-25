@@ -34,6 +34,7 @@
 *.bullish.com
 *.0.canva.cn
 *.0.canva-apps.cn
+*.cisco.com
 *.hfc.comcastbusiness.net
 hsd1.*.comcast.net
 *business.comcast.com

@@ -1,10 +1,2 @@
-dealflow.prosus.com
-dealflowapi.prosus.com
-analytics-admin.prosus.com
-analytics.prosus.com
-data.prosus.com
-hr.prosus.com
-tracker.naspers.com
-cfc.naspers.com
-peopleview.naspers.com
-nav.naspers.com
+meraki.cisco.com
+apps.meraki.io
