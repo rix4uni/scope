@@ -26,6 +26,7 @@ portalapi.*.afterpay.com
 *.bitdefender.com
 *.bitgo.com
 *.bitstamp.net
+*.bugcrowd.com
 *.canva.cn
 *.canva.com
 *.canva-apps.com
@@ -220,6 +221,7 @@ np.*.lfscnp.com
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
+*.pexels.com
 *.pinterest.com
 *.pixabay.com
 *.points.com

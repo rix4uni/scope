@@ -1,1 +1,2 @@
+*.bugcrowd.com
 *.pexels.com

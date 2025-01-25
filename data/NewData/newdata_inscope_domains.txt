@@ -1,4 +1,6 @@
-opensea.io
-pro.opensea.io
-wallets.opensea.io
-io.opensea
+docs.bugcrowd.com
+bugcrowd.com
+tracker.bugcrowd.com
+api.bugcrowd.com
+identity.bugcrowd.com
+pexels.com
