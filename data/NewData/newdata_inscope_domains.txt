@@ -1,6 +1,6 @@
-docs.bugcrowd.com
-bugcrowd.com
-tracker.bugcrowd.com
-api.bugcrowd.com
-identity.bugcrowd.com
-pexels.com
+api.dropboxapi.com
+dash.ai
+dropboxpartners.com
+reclaim.ai
+dropbox.com
+app.reclaim.ai
