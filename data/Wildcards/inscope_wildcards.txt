@@ -286,12 +286,6 @@ np.*.lfscnp.com
 sip.*.twilio.com
 *.twilio.com
 *.api.ua.com
-*.gtld-servers.net
-*.youcouldbe.com
-*.namestudioforsocial.com
-*.namestudio.com
-*.verisign.com
-*.verisign-grs.com
 *.viatorinc.com
 *.viator.com
 *.transferwise.com
