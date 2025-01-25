@@ -1,3 +1,5 @@
-cyberghostvpn.com
-cyberghost.com
-cyberghost.app
+docs.bugcrowd.com
+bugcrowd.com
+tracker.bugcrowd.com
+api.bugcrowd.com
+identity.bugcrowd.com
