@@ -152,6 +152,11 @@ twitter.com
 youtube.com
 linkedin.com
 instagram.com
+console.delltechnologies.com
+educate.dell.com
+console.dell.com
+console-test.dell.com
+salesproductivity.dell.com
 directly.com
 resources.directly.com
 ethics.epam.com

@@ -194,6 +194,11 @@ twitter.com
 youtube.com
 linkedin.com
 instagram.com
+console.delltechnologies.com
+educate.dell.com
+console.dell.com
+console-test.dell.com
+salesproductivity.dell.com
 *.dell.com
 *.delltechnologies.com
 directly.com
