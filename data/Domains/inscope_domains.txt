@@ -164,14 +164,15 @@ business.comcast.com
 xfinity.com
 contrastsecurity.com
 contrastsecurity.dev
-cyberghostvpn.com
-addons.mozilla.org
-chrome.google.com
-cyberghost.com
-cyberghost.app
 console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
+api.dropboxapi.com
+dash.ai
+dropboxpartners.com
+reclaim.ai
+dropbox.com
+app.reclaim.ai
 docs.eazybi.com
 my.electroneum.com
 electroneum.com
@@ -266,6 +267,7 @@ thehut.com
 checkout.myvitamins.com
 checkout.eyeko.com
 checkout.glossybox.com
+chrome.google.com
 market.android.com
 content-server.ibotta.com
 api.ibotta.com
@@ -618,6 +620,7 @@ devstaging.pcapcloud.com
 pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
+addons.mozilla.org
 pixabay.com
 my.planethoster.com
 api.planethoster.net
