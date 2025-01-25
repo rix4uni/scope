@@ -148,12 +148,6 @@ bitstamp.net
 *.bitstamp.net
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
-docs.bugcrowd.com
-bugcrowd.com
-tracker.bugcrowd.com
-api.bugcrowd.com
-identity.bugcrowd.com
-*.bugcrowd.com
 bullish.com
 investor.bullish.com
 simnext.bullish-test.com
@@ -211,6 +205,13 @@ business.comcast.com
 xfinity.com
 contrastsecurity.com
 contrastsecurity.dev
+cyberghostvpn.com
+addons.mozilla.org
+chrome.google.com
+cyberghost.com
+*.cyberghost.com
+cyberghost.app
+*.cyberghostvpn.com
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com
@@ -369,7 +370,6 @@ thehut.com
 checkout.myvitamins.com
 checkout.eyeko.com
 checkout.glossybox.com
-chrome.google.com
 market.android.com
 content-server.ibotta.com
 api.ibotta.com
@@ -843,7 +843,6 @@ pexels.com
 api.pinterest.com
 *.pinterest.com
 microsoftedge.microsoft.com
-addons.mozilla.org
 pixabay.com
 *.pixabay.com
 my.planethoster.com
