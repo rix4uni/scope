@@ -218,9 +218,6 @@ cyberghost.com
 *.cyberghost.com
 cyberghost.app
 *.cyberghostvpn.com
-*.dell.com
-*.delltechnologies.com
-console.delltechnologies.com
 app.sandbox.directly.com
 *.sandbox.directly.com
 sandbox.directly.com
