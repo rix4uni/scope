@@ -1,1 +1,2 @@
-*.bugcrowd.com
+*.cyberghost.com
+*.cyberghostvpn.com

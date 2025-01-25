@@ -211,6 +211,13 @@ business.comcast.com
 xfinity.com
 contrastsecurity.com
 contrastsecurity.dev
+cyberghostvpn.com
+addons.mozilla.org
+chrome.google.com
+cyberghost.com
+*.cyberghost.com
+cyberghost.app
+*.cyberghostvpn.com
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com
@@ -369,7 +376,6 @@ thehut.com
 checkout.myvitamins.com
 checkout.eyeko.com
 checkout.glossybox.com
-chrome.google.com
 market.android.com
 content-server.ibotta.com
 api.ibotta.com
@@ -843,7 +849,6 @@ pexels.com
 api.pinterest.com
 *.pinterest.com
 microsoftedge.microsoft.com
-addons.mozilla.org
 pixabay.com
 *.pixabay.com
 my.planethoster.com
@@ -856,16 +861,6 @@ privateinternetaccess.com
 addons.opera.com
 *.privateinternetaccess.com
 piaservers.com
-dealflow.prosus.com
-dealflowapi.prosus.com
-analytics-admin.prosus.com
-analytics.prosus.com
-data.prosus.com
-hr.prosus.com
-tracker.naspers.com
-cfc.naspers.com
-peopleview.naspers.com
-nav.naspers.com
 *.quizlet.com
 api.rapyd.net
 dashboard.rapyd.net
