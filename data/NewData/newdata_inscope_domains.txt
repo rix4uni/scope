@@ -1,1 +1,15 @@
-pexels.com
+api.coinmarketcap.com
+pro-api.coinmarketcap.com
+binance.com
+api.binance.com
+pro.coinmarketcap.com
+portal-api.coinmarketcap.com
+coinmarketcap.com
+3rdparty-apis.coinmarketcap.com
+binance.us
+binance.tr
+docs.bugcrowd.com
+bugcrowd.com
+tracker.bugcrowd.com
+api.bugcrowd.com
+identity.bugcrowd.com

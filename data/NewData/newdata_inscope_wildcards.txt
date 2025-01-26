@@ -1,1 +1,3 @@
-*.pexels.com
+*.binance.com
+*.binance.us
+*.bugcrowd.com
