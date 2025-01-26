@@ -20,13 +20,10 @@ portalapi.*.afterpay.com
 *.backblaze.com
 *.bigcommerce.com
 *.bigcommerce.net
-*.binance.com
-*.binance.us
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
 *.bitstamp.net
-*.bugcrowd.com
 *.canva.cn
 *.canva.com
 *.canva-apps.com
