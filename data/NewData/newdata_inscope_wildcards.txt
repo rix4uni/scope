@@ -1,1 +1,2 @@
-*.pexels.com
+*.intercomassets.com
+*.intercomcdn.com
