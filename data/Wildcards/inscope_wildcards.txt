@@ -424,6 +424,7 @@ sip.*.twilio.com
 *.seriously.com
 *.slotomania.com
 *.wooga.com
+*.playticorp.com
 *.tide.co
 *.clubhouse.com
 *.clubhouseapi.com
