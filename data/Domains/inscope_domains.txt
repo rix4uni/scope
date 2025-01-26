@@ -172,12 +172,6 @@ cyberghost.app
 console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
-api.dropboxapi.com
-dash.ai
-dropboxpartners.com
-reclaim.ai
-dropbox.com
-app.reclaim.ai
 docs.eazybi.com
 my.electroneum.com
 electroneum.com
