@@ -1036,8 +1036,8 @@ sip.*.twilio.com
 *.sqills.com
 *.sqills.team
 *.weareone.world
-*.stag.weareone.world
 *.stag.tomorrowland.com
+*.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
 *.truelayer.cloud

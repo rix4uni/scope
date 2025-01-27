@@ -3452,12 +3452,10 @@ asupport.suivo.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
-artists.tomorrowland.com
 belgium.tomorrowland.com
 brasil.tomorrowland.com
 globaljourney.tomorrowland.com
 my.tomorrowland.com
-oneworldradio.tomorrowland.com
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com

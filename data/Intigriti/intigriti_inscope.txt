@@ -338,13 +338,10 @@ tempo-team.be
 tempo-team.com
 tempo-team.nl
 *.weareone.world
-*.stag.weareone.world
-artists.tomorrowland.com
 belgium.tomorrowland.com
 brasil.tomorrowland.com
 globaljourney.tomorrowland.com
 my.tomorrowland.com
-oneworldradio.tomorrowland.com
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
@@ -353,6 +350,7 @@ winter.tomorrowland.com
 winterpackages.tomorrowland.com
 tomorrowland.com
 *.stag.tomorrowland.com
+*.stag.weareone.world
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
