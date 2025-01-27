@@ -2429,9 +2429,9 @@ forum.portswigger.net
 enterprise-demo.portswigger.net
 files.com
 developers.files.com
+*.files.com
 sitename.files.com
 app.files.com
-*.files.com
 your-assigned-subdomain.files.com
 *files.com
 api.excalls.mobi
