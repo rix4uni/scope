@@ -2782,6 +2782,7 @@ forum.portswigger.net
 enterprise-demo.portswigger.net
 files.com
 developers.files.com
+sitename.files.com
 app.files.com
 your-assigned-subdomain.files.com
 api.excalls.mobi
