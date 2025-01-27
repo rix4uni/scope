@@ -168,6 +168,7 @@ db.*.supabase.co
 *.eurofins-digitaltesting.com
 *.sgs.com
 *.truist.com
+*.sixidmobile.com
 *.pramericalife.in
 *.prudential.co.kr
 *.prudentialagf.cl
