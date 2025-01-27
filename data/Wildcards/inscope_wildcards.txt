@@ -417,6 +417,7 @@ sip.*.twilio.com
 *.justplay.lol
 *.1v1.lol
 *.monopoly-poker.com
+*.playticorp.com
 *.playtika.com
 *.playwsop.com
 *.redecor.com
@@ -424,7 +425,6 @@ sip.*.twilio.com
 *.seriously.com
 *.slotomania.com
 *.wooga.com
-*.playticorp.com
 *.tide.co
 *.clubhouse.com
 *.clubhouseapi.com

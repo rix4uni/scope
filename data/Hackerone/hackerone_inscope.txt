@@ -740,6 +740,7 @@ smtp2go.com
 *.justplay.lol
 *.1v1.lol
 *.monopoly-poker.com
+*.playticorp.com
 *.playtika.com
 *.playwsop.com
 *.redecor.com
@@ -755,7 +756,6 @@ air.com.playtika.slotomania
 bestfiends.com
 fi.reworks.redecor
 gnocchi-buffalo-ggn.net
-*.playticorp.com
 apps.facebook.com
 lol.onevone
 net.supertreat.solitaire
