@@ -83,6 +83,7 @@ envira.global
 samplekinect.eurofins.com
 *.truist.com
 truist.com
+saferpay.com
 gnltn.com
 ldry.com
 api.redoxengine.com
