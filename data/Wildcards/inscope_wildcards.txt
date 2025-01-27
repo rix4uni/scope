@@ -248,6 +248,7 @@ np.*.lfscnp.com
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
+*.mcssl.com
 *.skyscanner.net
 *.smartmockups.com
 *.sophos.com
