@@ -914,9 +914,6 @@ seekcdn.com
 *.certsynonprod.com
 graphql.seek.com
 auth.seek.com
-1shoppingcart.com
-mcssl.com
-*.mcssl.com
 skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
