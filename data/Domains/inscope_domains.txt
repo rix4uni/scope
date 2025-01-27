@@ -3143,6 +3143,7 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 crowdsignal.com
 jetpack.com
+texts.com
 wordpress.com
 akismet.com
 api.tumblr.com
