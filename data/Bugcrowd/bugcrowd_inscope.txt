@@ -761,6 +761,11 @@ openai.org
 openai.com
 *.openai.com
 platform.openai.com
+opensea.io
+pro.opensea.io
+wallets.opensea.io
+io.opensea
+etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -909,9 +914,6 @@ seekcdn.com
 *.certsynonprod.com
 graphql.seek.com
 auth.seek.com
-1shoppingcart.com
-mcssl.com
-*.mcssl.com
 skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
