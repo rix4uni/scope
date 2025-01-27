@@ -266,7 +266,9 @@ db.*.supabase.co
 *.netlify.com
 *.netlifycms.org
 *.canada.fanduel.com
+*.east.fdbox.net
 *.fndl.dev
+*.prod.fdbox.net
 *.urbanclap.com
 *.egadvertising.com
 *.hoteis.com
