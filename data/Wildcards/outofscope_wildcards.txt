@@ -473,6 +473,7 @@ booking.*.sqills.com
 booking.*.cloud.sqills
 *.red.sqills.team
 *.tempo-team.de
+*.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.me
 *.intigriti.net

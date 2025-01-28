@@ -2341,6 +2341,7 @@ blog.wolt.com
 gettest.wolt.com
 press.wolt.com
 wolt.atlassian.net
+zabka-snrs.zabka.pl
 vznkul.be
 api.intercom.io
 autodiscover.intigriti.com

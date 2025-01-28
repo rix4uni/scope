@@ -250,6 +250,8 @@ blog.wolt.com
 gettest.wolt.com
 press.wolt.com
 wolt.atlassian.net
+*.zabka-snrs.zabka.pl
+zabka-snrs.zabka.pl
 vznkul.be
 *.intigriti.io
 *.intigriti.me
