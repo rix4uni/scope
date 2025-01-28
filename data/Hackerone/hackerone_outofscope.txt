@@ -314,6 +314,7 @@ request-headers.moonpay.com
 storefront.hypermint.com
 support.moonpay.com
 *.koho.ca
+cadburyhomeoraway.com
 mavieencouleurs.fr
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
