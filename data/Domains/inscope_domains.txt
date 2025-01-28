@@ -3875,6 +3875,7 @@ solutions-environnement.vinci.com
 essentiel.vinci.com
 essentials.vinci.com
 chaire-arpenter.fr
+habileoh.com
 wbsapi.withings.net
 healthmate.withings.com
 account.withings.com
