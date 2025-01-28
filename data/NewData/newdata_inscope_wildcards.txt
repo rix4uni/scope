@@ -1,1 +1,1 @@
-*.cpaas-net.8x8.com
+*.pci.shopifyinc.com
