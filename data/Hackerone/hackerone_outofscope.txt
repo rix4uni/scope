@@ -741,6 +741,11 @@ ssp.navient.com
 studentloan.navient.com
 tableau-prod.navient.com
 tableau-test.navient.com
+help.gener8ads.com
+intercom.com
+api.gener8ads.com
+gener8ads.com
+user.gener8ads.com
 adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
