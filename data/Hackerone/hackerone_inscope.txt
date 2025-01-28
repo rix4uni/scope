@@ -629,6 +629,16 @@ usercontent.koho.ca
 web.koho.ca
 webgateway.koho.ca
 koho.ca
+api.stg.inspectorio.com
+app.stg.inspectorio.com
+h1way.stg.inspectorio.com
+docuflow.stg.inspectorio.com
+app.bitrise.io
+testflight.apple.com
+id.stg.inspectorio.com
+report-html-sight.stg.inspectorio.com
+rise-api.stg.inspectorio.com
+rise.stg.inspectorio.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -1081,7 +1091,6 @@ help.miro.com
 *.chimepayments.com
 *.chmfin.com
 *.saltlabs.com
-app.bitrise.io
 app.chime.com
 app.saltlabs.com
 app.staging.saltlabs.com
@@ -2009,7 +2018,6 @@ bounty-node.rsk.co
 dev.rootstock.io
 discord.com
 *.bitmex.com
-testflight.apple.com
 testnet.bitmex.com
 bitmex.com
 *.adaptive-shield.com

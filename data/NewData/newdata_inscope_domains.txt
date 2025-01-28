@@ -1,1 +1,8 @@
-habileoh.com
+api.stg.inspectorio.com
+app.stg.inspectorio.com
+h1way.stg.inspectorio.com
+docuflow.stg.inspectorio.com
+id.stg.inspectorio.com
+report-html-sight.stg.inspectorio.com
+rise-api.stg.inspectorio.com
+rise.stg.inspectorio.com

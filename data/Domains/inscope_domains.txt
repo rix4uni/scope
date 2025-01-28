@@ -1412,6 +1412,15 @@ usercontent.koho.ca
 web.koho.ca
 webgateway.koho.ca
 koho.ca
+api.stg.inspectorio.com
+app.stg.inspectorio.com
+h1way.stg.inspectorio.com
+docuflow.stg.inspectorio.com
+app.bitrise.io
+id.stg.inspectorio.com
+report-html-sight.stg.inspectorio.com
+rise-api.stg.inspectorio.com
+rise.stg.inspectorio.com
 knox.beta.blendlabs.com
 api.razorpay.com
 razorpay.com
@@ -1763,7 +1772,6 @@ developers.miro.com
 api.miro.com
 miro.com
 help.miro.com
-app.bitrise.io
 app.chime.com
 app.saltlabs.com
 app.staging.saltlabs.com
