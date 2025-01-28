@@ -1,1 +1,3 @@
-comic-indies.pixiv.net
+yeswehack-staging.komoju.com
+multipay-staging.test.komoju.com
+doc.komoju.com
