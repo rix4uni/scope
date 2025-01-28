@@ -1,8 +1,7 @@
-api.stg.inspectorio.com
-app.stg.inspectorio.com
-h1way.stg.inspectorio.com
-docuflow.stg.inspectorio.com
-id.stg.inspectorio.com
-report-html-sight.stg.inspectorio.com
-rise-api.stg.inspectorio.com
-rise.stg.inspectorio.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
