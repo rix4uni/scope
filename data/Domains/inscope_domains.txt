@@ -3718,9 +3718,6 @@ infomaniak.events
 sms.infomaniak.com
 developer.infomaniak.com
 invitation.infomaniak.com
-yeswehack-staging.komoju.com
-multipay-staging.test.komoju.com
-doc.komoju.com
 hpr.kiwai-normandie.fr
 api.hpr.kiwai-normandie.fr
 ppr.kiwai-enr.fr
