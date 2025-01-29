@@ -2640,6 +2640,12 @@ mus1.badoo.com
 translate.badoo.com
 us1.badoo.com
 bumble.com
+api.omise.co
+omise.co
+dashboard.omise.co
+offsite.omise.co
+vault.omise.co
+opn.ooo
 api.spotify.com
 api-partner.spotify.com
 developer.spotify.com
