@@ -1332,6 +1332,7 @@ brand.gocardless.com
 connect.gocardless.com
 gocardless-status.com
 status.gocardless.com
+incident.io
 learn.gocardless.com
 manage.gocardless-staging.io
 manage.gocardless.com
