@@ -534,7 +534,6 @@ sip.*.twilio.com
 *.k8s.io
 *.gocardless-cicd.io
 *.gocardless-lab.io
-*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
 *.line-apps.com
