@@ -636,6 +636,8 @@ src.mastercard.com
 masterpassteststore.com
 finicity.com
 consumer.finicityreports.com
+pioneer.truata.com
+peap.truata.com
 mattermost.com
 *.cloud.mattermost.com
 identity.monash.edu

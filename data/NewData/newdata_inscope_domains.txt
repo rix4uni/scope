@@ -1,2 +1,2 @@
-bgpview.io
-rescan.io
+pioneer.truata.com
+peap.truata.com
