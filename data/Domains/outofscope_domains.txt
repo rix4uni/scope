@@ -145,13 +145,6 @@ consensus-hongkong2025.coindesk.com
 uat.accounts.coindesk.com
 admin.selectwifi.xfinity.com
 comcastbiz.net
-runner.contrastsecurity.com
-status.contrastsecurity.com
-facebook.com
-twitter.com
-youtube.com
-linkedin.com
-instagram.com
 console.delltechnologies.com
 educate.dell.com
 console.dell.com
@@ -522,6 +515,7 @@ supabase.dev
 supabase.productions
 auth.finnair.com
 x.com
+youtube.com
 advisoryworld.com
 issue-management.iontrading.com
 keyguard.nimiq.com
@@ -1615,6 +1609,7 @@ rubygems.nextcapital.com
 edoverflow.keybase.pub
 keybase.io
 keybase.pub
+twitter.com
 developers.yoti.com
 yoti.com
 list.valvesoftware.com

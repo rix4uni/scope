@@ -186,14 +186,6 @@ hsd1.*.comcast.net
 *.sys.comcast.net
 admin.selectwifi.xfinity.com
 comcastbiz.net
-*.contrast.ninja
-runner.contrastsecurity.com
-status.contrastsecurity.com
-facebook.com
-twitter.com
-youtube.com
-linkedin.com
-instagram.com
 console.delltechnologies.com
 educate.dell.com
 console.dell.com

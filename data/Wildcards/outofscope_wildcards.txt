@@ -39,7 +39,6 @@
 hsd1.*.comcast.net
 *business.comcast.com
 *.sys.comcast.net
-*.contrast.ninja
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com

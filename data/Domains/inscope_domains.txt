@@ -161,8 +161,6 @@ staging.coindesk.com
 staging.auth.coindesk.com
 business.comcast.com
 xfinity.com
-contrastsecurity.com
-contrastsecurity.dev
 cyberghostvpn.com
 addons.mozilla.org
 chrome.google.com
