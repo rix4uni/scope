@@ -913,6 +913,11 @@ seekcdn.com
 *.certsynonprod.com
 graphql.seek.com
 auth.seek.com
+dashboard.sendbird.com
+gate.sendbird.com
+sendbird.com
+calls.sendbird.com
+notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 *.mcssl.com
@@ -1030,7 +1035,6 @@ tsock.us1.twilio.com
 sip.*.twilio.com
 twilio.com
 *.twilio.com
-build.twilio.com
 sendgrid.com
 app.sendgrid.com
 signup.sendgrid.com
@@ -1038,8 +1042,6 @@ api.sendgrid.com
 mc.sendgrid.com
 smtp.sendgrid.net
 authy.com
-api.authy.com
-verify.twilio.com
 app.segment.com
 api.segment.io
 segment.com
