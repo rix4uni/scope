@@ -792,10 +792,12 @@ trendyol-milla.com
 en.trendyol.com
 api.recordedfuture.com
 app.recordedfuture.com
+bgpview.io
 dns.watch
 geminiadvisory.io
 hatching.io
 id.recordedfuture.com
+rescan.io
 securitytrails.com
 therecord.media
 tria.ge

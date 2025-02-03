@@ -1,1 +1,2 @@
-dns.watch
+bgpview.io
+rescan.io
