@@ -277,6 +277,7 @@ getworldcoin.com
 docs.world.org
 id.worldcoin.org
 toolsforhumanity.com
+world.org
 worldcoin.org
 api-test.nicehash.com
 test.nicehash.com
