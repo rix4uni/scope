@@ -59,6 +59,15 @@ css-tricks.com
 justonweb.be
 *.dpgmedia.be
 *.dpgmedia.nl
+assessment-api.datacamp.com
+app.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
+*.datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
