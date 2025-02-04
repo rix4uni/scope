@@ -41,6 +41,8 @@ hackathon.contentsquare.com
 security.contentsquare.com
 support.contentsquare.com
 learn.contentsquare.com
+learn2.contentsquare.com
+csq.contentsquare.com
 university.contentsquare.com
 foundation.contentsquare.com
 content.contentsquare.com
