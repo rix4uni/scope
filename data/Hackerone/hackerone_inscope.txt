@@ -2327,7 +2327,6 @@ backstage.io
 *.roblox.com
 blox.link
 *.cp.dyson.com
-*.dyson.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
