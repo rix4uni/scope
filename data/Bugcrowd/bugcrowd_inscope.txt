@@ -431,11 +431,11 @@ intercom.com
 w2ab2i60y4.execute-api.us-east-1.amazonaws.com
 *.jora.com
 *.jora.xyz
+*.scoober.com
 restaurant-api.takeaway.com
 *.lieferando.at
 *.yourdelivery.de
 *.takeaway.com
-*.scoober.com
 *.citymeal.com
 *.lieferando.de
 *.thuisbezorgd.nl

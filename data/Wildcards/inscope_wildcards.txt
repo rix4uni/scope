@@ -119,10 +119,10 @@ casino.*.betmgm.com
 *.intercomcdn.com
 *.jora.com
 *.jora.xyz
+*.scoober.com
 *.lieferando.at
 *.yourdelivery.de
 *.takeaway.com
-*.scoober.com
 *.citymeal.com
 *.lieferando.de
 *.thuisbezorgd.nl
