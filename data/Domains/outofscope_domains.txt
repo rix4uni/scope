@@ -525,7 +525,6 @@ lowesprosupply.com
 desktop.rei.com
 destinations.rei.com
 foryourbenefit-rei.com
-future-login.rei.com
 greenvestrentals.rei.com
 rei.com
 partners2.rei.com
@@ -603,7 +602,6 @@ portal.frontegg.com
 servicos.indrive.com
 sinet.startup.indriver
 engineering.rei.com
-login.rei.com
 rei.gladly.com
 reicasting.com
 blog.mergify.com

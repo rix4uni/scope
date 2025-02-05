@@ -504,6 +504,7 @@ read.amazon.com
 skills-store.amazon.com
 rei.com
 collaboration.rei.com
+login.rei.com
 api.mergify.com
 dashboard.mergify.com
 zabbix.com
