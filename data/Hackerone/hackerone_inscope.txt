@@ -1,3 +1,4 @@
+claude.ai
 bugbounty-ctf.1password.com
 1password.com
 events.1password.com
