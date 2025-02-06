@@ -403,12 +403,6 @@ playback.soundcloud.com
 jobs.soundcloud.com
 playerone.soundcloud.com
 support.soundcloud.org
-afterpay.com
-cash.me
-designers.weebly.com
-tidal.com
-community.squareup.com
-itunes.apple.com
 sprint.net
 techapps.t-mobile.com
 employeefeedback.tesla.com
@@ -1529,6 +1523,7 @@ status.chaturbate.com
 support.chaturbate.com
 factory.pixiv.net
 accounts.pixiv.net
+itunes.apple.com
 investors.goodrx.com
 sso.identity.goodrx.com
 support.goodrx.com

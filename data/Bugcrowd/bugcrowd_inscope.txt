@@ -294,6 +294,11 @@ api-ch-gva-2.exoscale.com
 sos-ch-gva-2.exo.io
 internal.exoscale.ch
 *.internal.exoscale.ch
+expressvpn.com
+*.expressvpn.com
+*.xvservice.net
+*.xvtest.net
+expressobutiolem.onion
 financialforce.com
 *.financialforce.com
 *.certinia.com
@@ -993,10 +998,6 @@ connect.soundcloud.com
 *.services.repostnetwork.com
 artists.soundcloud.com
 soundcloud.org
-*.square.com
-*.squareup.com
-square.online
-weebly.com
 manage.statuspage.io
 *.statuspage.io
 driveuconnect.com
