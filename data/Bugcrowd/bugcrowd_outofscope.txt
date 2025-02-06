@@ -217,7 +217,6 @@ openapi-v2.exoscale.com
 zammad.internal.exoscale.ch
 exoscalestatus.com
 gslink.financialforce.com
-apuat-aaa.fisglobal.com
 training.flourish.studio
 api.gearset.com
 app.gearset.com
