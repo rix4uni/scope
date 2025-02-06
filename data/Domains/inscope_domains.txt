@@ -2131,6 +2131,7 @@ auth.magic.link
 docs.magic.link
 go.magic.link
 dashboard.fortmatic.com
+portal.magicnewton.com
 dbmanalytics.carrentals.com
 faq-lab.cheaptickets.com
 faq.cheaptickets.com

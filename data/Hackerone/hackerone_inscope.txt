@@ -1465,6 +1465,7 @@ auth.magic.link
 docs.magic.link
 go.magic.link
 dashboard.fortmatic.com
+portal.magicnewton.com
 *.carrentals.com
 dbmanalytics.carrentals.com
 *.cheaptickets.com
