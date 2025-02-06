@@ -60,6 +60,15 @@ docs.aurory.io
 australiansuper.atlassian.net
 australiansuper.sharepoint.com
 *.australiansuper.com
+auth0.auth0.com
+manage.auth0.com
+accounts.auth0.com
+webtask.io
+phenix.rocks
+sharelock.io
+goextend.io
+support.auth0.com
+community.auth0.com
 youporn.com
 *.pornhub.com
 *.pronstore.com

@@ -557,6 +557,8 @@ io.metamask
 io.metamask.metamask
 portfolio.metamask.io
 hackerone.com
+signature-insights.api.cx.metamask.io
+metamask-consensys.notion.site
 api.skinport.com
 docs.skinport.com
 app.skinport.com
