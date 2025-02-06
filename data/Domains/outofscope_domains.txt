@@ -631,6 +631,7 @@ metamask.github.io
 authentication.api.cx.metamask.io
 oidc.api.cx.metamask.io
 user-storage.api.cx.metamask.io
+signature-insights.api.cx.metamask.io
 chrome.google.com
 snaps.metamask.io
 io.metamask.metamask
