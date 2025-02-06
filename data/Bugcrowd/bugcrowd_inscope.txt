@@ -294,6 +294,11 @@ api-ch-gva-2.exoscale.com
 sos-ch-gva-2.exo.io
 internal.exoscale.ch
 *.internal.exoscale.ch
+expressvpn.com
+*.expressvpn.com
+*.xvservice.net
+*.xvtest.net
+expressobutiolem.onion
 financialforce.com
 *.financialforce.com
 *.certinia.com
@@ -972,7 +977,6 @@ notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 *.mcssl.com
-skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
