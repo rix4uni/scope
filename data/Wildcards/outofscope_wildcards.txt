@@ -55,6 +55,7 @@ hsd1.*.comcast.net
 *.dev.imtbl.com
 *.ropsten.x.immutable.com
 *.joralocal.com.au
+*.takeawayriders.com
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
