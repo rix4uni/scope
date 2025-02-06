@@ -97,6 +97,9 @@ auth.*.latitudefinancial.com
 *.esgiq.com
 *.trustweek2021.com
 *.1shoppingcart.com
+*.afterpay.com
+*.cash.me
+*.tidal.com
 *.atlassian.com
 *.sprint.net
 *.engage.tesla.com

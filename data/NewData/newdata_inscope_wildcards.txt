@@ -1,3 +1,2 @@
-*.expressvpn.com
-*.xvservice.net
-*.xvtest.net
+*.square.com
+*.squareup.com
