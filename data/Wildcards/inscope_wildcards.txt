@@ -73,9 +73,6 @@ casino.*.betmgm.com
 *.emakina.at
 *.etsy.com
 *.internal.exoscale.ch
-*.expressvpn.com
-*.xvservice.net
-*.xvtest.net
 *.financialforce.com
 *.certinia.com
 *.flourish.studio
