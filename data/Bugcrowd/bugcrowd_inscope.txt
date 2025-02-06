@@ -324,6 +324,17 @@ bug-bounty-be.glean.com
 hostgator.com.br
 financeiro.hostgator.com.br
 bugcrowd.hotdoc.com.au
+app.hubspot.com
+app-eu1.hubspot.com
+api.hubspot.com
+developers.hubspot.com
+api.hubapi.com
+chatspot.ai
+connect.com
+*.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
+knowledge.hubspot.com
 ameliorate.com
 *.ameliorate.com
 beautyexpert.com
@@ -626,7 +637,6 @@ masterpassteststore.com
 finicity.com
 consumer.finicityreports.com
 pioneer.truata.com
-peap.truata.com
 mattermost.com
 *.cloud.mattermost.com
 identity.monash.edu

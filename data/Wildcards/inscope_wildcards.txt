@@ -82,6 +82,9 @@ casino.*.betmgm.com
 *.xyzbmojn.net
 *.kiln.it
 *-bugcrowd.foxycart.com
+*.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
 *.ameliorate.com
 *.beautyexpert.com
 *.dermstore.com
