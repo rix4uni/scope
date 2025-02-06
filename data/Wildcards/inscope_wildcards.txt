@@ -22,8 +22,6 @@ portalapi.*.afterpay.com
 *.bigcommerce.net
 *.binance.com
 *.binance.us
-*.bitdefender.net
-*.bitdefender.com
 *.bitgo.com
 *.bitstamp.net
 *.bugcrowd.com
