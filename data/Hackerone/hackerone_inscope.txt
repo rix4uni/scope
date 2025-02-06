@@ -2534,6 +2534,7 @@ rockstarnorth.com
 socialclub.rockstargames.com
 store.rockstargames.com
 support.rockstargames.com
+rockstargames.com
 *.github.net
 bounty.github.com
 *.githubapp.com
