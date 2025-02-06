@@ -726,6 +726,7 @@ calls.sendbird.com
 notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
+skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
