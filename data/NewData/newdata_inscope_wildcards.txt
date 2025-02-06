@@ -1,2 +1,3 @@
-*.square.com
-*.squareup.com
+*.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
