@@ -12,7 +12,6 @@ portalapi.*.afterpay.com
 *.atl-paas.net
 *.atlassian.net
 *.atlastunnel.com
-*.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
