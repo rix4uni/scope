@@ -1,2 +1,2 @@
-*.bitdefender.net
-*.bitdefender.com
+*.viatorinc.com
+*.viator.com
