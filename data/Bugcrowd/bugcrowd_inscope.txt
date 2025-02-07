@@ -111,7 +111,6 @@ thumbzilla.com
 *.backblazeb2.com
 backblaze.com
 *.backblaze.com
-balsamiq.com
 barracuda.com
 mybigcommerce.com
 bigcommerce.com
