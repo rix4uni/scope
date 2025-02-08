@@ -487,17 +487,6 @@ partner.viator.com
 theplaymania.com
 app.gator.com
 app.web.com
-transferwise.com
-wise.com
-brand.wise.com
-links.wise.com
-widgets.transferwise.com
-brand.transferwise.com
-bootstrap.transferwise.com
-links.transferwise.com
-status.wise.com
-status.transferwise.com
-tech.transferwise.com
 oauth.xfinity.com
 login.xfinity.com
 business.comcast.com

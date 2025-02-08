@@ -1214,10 +1214,6 @@ networksolutions.com
 uk.web.com
 bluehost.com
 hostgator.com
-transferwise.com
-*.transferwise.com
-wise.com
-*.wise.com
 api.woox.io
 woox.io
 auth.wyze.com

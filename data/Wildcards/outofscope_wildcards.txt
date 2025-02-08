@@ -131,9 +131,6 @@ auth.*.latitudefinancial.com
 *.networksolutions.com
 *.bluehost.com
 *.hostgator.com
-*.tw.com
-*.tw.ee
-*.transferwise.tech
 *.xerxessecure.com
 *.cimcontent.net
 *.identity.xfinity.com
