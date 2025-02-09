@@ -1,1 +1,4 @@
-*.tools.thefork.tech
+*.classdojo.com
+*.classdojo.co.uk
+*.doj.io
+*.dojo.me
