@@ -269,6 +269,7 @@ np.*.lfscnp.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
+*.tools.thefork.tech
 *.tidal.com
 *.wimpmusic.com
 *.tidalhifi.com
