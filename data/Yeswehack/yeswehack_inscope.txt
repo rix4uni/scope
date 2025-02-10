@@ -36,11 +36,6 @@ m.csqtrk.net
 s.contentsquare.net
 bounty.cryptobox.com
 pprd.cybermalveillance.gouv.fr
-appgallery.huawei.com
-mgs-gw.m.dana.id
-api-saas.dana.id
-sec.m.dana.id
-m.dana.id
 demarches-simplifiees.fr
 static.demarches-simplifiees.fr
 github.com
@@ -147,6 +142,7 @@ invitation.infomaniak.com
 bounty.legapass.com
 hack1.mtrx.ovh
 hackme.matrixreq.com
+appgallery.huawei.com
 api.paymaya.com
 pg.paymaya.com
 payoutapi.maya.ph

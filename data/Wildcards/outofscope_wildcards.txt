@@ -243,7 +243,6 @@ db.*.supabase.co
 *.fip.finra.org
 *.pantheonsite.io
 *.matic.network
-*.skale.network
 *.1337.or.id
 *.hcltechsw.com
 *.atp-exodus.com
@@ -484,6 +483,7 @@ booking.*.cloud.sqills
 *.contentsquare.com
 *.cryptobox.com
 *.ercom.fr
+*.dana.id
 *.docker.dev
 *.gouv.fr
 *.dracoon.com

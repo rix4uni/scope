@@ -63,6 +63,7 @@ cmsdev.dana.id
 techops.dana.id
 dm.dana.id
 encrypt.dana.id
+*.dana.id
 doc.demarches-simplifiees.fr
 beta.gouv.fr
 demarches-simplifiees.fr
