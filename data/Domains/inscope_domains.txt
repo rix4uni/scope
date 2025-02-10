@@ -161,10 +161,11 @@ staging.auth.coindesk.com
 business.comcast.com
 xfinity.com
 cyberghostvpn.com
-addons.mozilla.org
-chrome.google.com
 cyberghost.com
 cyberghost.app
+addons.mozilla.org
+chrome.google.com
+polymoon.it
 console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
@@ -219,7 +220,7 @@ api-ch-gva-2.exoscale.com
 sos-ch-gva-2.exo.io
 internal.exoscale.ch
 expressvpn.com
-expressobutiolem.onion
+chromewebstore.google.com
 financialforce.com
 flo.uri.sh
 flourish.studio
@@ -301,7 +302,6 @@ cloudvector.com
 apis.indeed.com
 resume.com
 wowjobs.ca
-chromewebstore.google.com
 developers.intercom.com
 api.intercom.com
 api.intercom.io
@@ -684,8 +684,9 @@ splus-oms-cart.pnimedia.com
 splus-flightdeck-api.pnimedia.com
 splus-prod-dam-mediapicker-api-slot1.pnimedia.com
 privateinternetaccess.com
-addons.opera.com
 piaservers.com
+piaservers.net
+addons.opera.com
 dealflow.prosus.com
 dealflowapi.prosus.com
 analytics-admin.prosus.com

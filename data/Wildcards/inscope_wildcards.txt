@@ -45,8 +45,8 @@ portalapi.*.afterpay.com
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
-*.cyberghost.com
 *.cyberghostvpn.com
+*.cyberghost.com
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
@@ -74,8 +74,8 @@ casino.*.betmgm.com
 *.etsy.com
 *.internal.exoscale.ch
 *.expressvpn.com
-*.xvservice.net
 *.xvtest.net
+*.xvservice.net
 *.financialforce.com
 *.certinia.com
 *.flourish.studio
