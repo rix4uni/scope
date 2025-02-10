@@ -1,3 +1,6 @@
-app.asana.com
-asana.com
-form.asana.com
+etsy.com
+etsypayments.com
+blog.etsy.com
+careers.etsy.com
+help.etsy.com
+community.etsy.com
