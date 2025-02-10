@@ -71,6 +71,7 @@ casino.*.betmgm.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
+*.etsy.com
 *.internal.exoscale.ch
 *.expressvpn.com
 *.xvtest.net
