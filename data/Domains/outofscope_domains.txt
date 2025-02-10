@@ -182,7 +182,6 @@ openapi-v2.exoscale.com
 zammad.internal.exoscale.ch
 exoscalestatus.com
 gslink.financialforce.com
-apuat-aaa.fisglobal.com
 training.flourish.studio
 api.gearset.com
 app.gearset.com
@@ -552,6 +551,7 @@ greenfly.com
 cleverreach.com
 dhcp.embarqhsd.net
 nba.net
+aboitiz.account.box.com
 visayanelectric.com
 iflex.snaboitiz.com
 support.world.org
