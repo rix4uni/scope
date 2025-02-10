@@ -129,9 +129,6 @@ coinmarketcap.com
 binance.us
 *.binance.us
 binance.tr
-*.bitdefender.net
-*.bitdefender.com
-bitdefender.com
 bitgo.com
 *.bitgo.com
 app.bitgo.com
@@ -191,6 +188,7 @@ monster-customizer.classdojo.com
 *.classdojo.co.uk
 *.doj.io
 *.dojo.me
+clickhou.se
 cloudinary.com
 api.cloudinary.com
 res.cloudinary.com
