@@ -50,6 +50,12 @@ blogs.arubanetworks.com
 aed.arubanetworks.com
 connect.arubanetworks.com
 devhub.arubanetworks.com
+app.asana.com
+asana.com
+*.asana.plus
+*.asana.biz
+form.asana.com
+*.app.asana.com
 admin.atlassian.com
 id.atlassian.com
 start.atlassian.com
@@ -275,13 +281,6 @@ opensource.epam.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
-etsy.com
-etsypayments.com
-blog.etsy.com
-careers.etsy.com
-help.etsy.com
-community.etsy.com
-*.etsy.com
 sks-ch-gva-2.exo.io
 portal.exoscale.com
 api-ch-gva-2.exoscale.com

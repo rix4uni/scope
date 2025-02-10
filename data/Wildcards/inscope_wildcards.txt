@@ -5,6 +5,9 @@ portalapi.*.afterpay.com
 *.arloxcld.com
 *-prod.arlo.com
 *.central.arubanetworks.com
+*.asana.plus
+*.asana.biz
+*.app.asana.com
 *.atlassian.com
 *.atl-paas.net
 *.atlassian.net
@@ -68,7 +71,6 @@ casino.*.betmgm.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
-*.etsy.com
 *.internal.exoscale.ch
 *.expressvpn.com
 *.xvtest.net
