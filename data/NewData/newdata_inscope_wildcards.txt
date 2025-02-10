@@ -1,1 +1,2 @@
-*.etsy.com
+*.square.com
+*.squareup.com

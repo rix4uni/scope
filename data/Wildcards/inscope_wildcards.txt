@@ -256,6 +256,8 @@ np.*.lfscnp.com
 *.s-cloud.net
 *.soundcloud.com
 *.services.repostnetwork.com
+*.square.com
+*.squareup.com
 *.statuspage.io
 *.api.t-mobile.com
 *.t-mobile.com
@@ -587,12 +589,6 @@ sip.*.twilio.com
 *.creditkarma.ca
 *.creditkarma.com
 *.adminml.com
-*.gokangu.cl
-*.gokangu.co
-*.gokangu.mx
-*.gokangu.uy
-*.kangu.com.br
-*.kangu.tech
 *.mercadolibre.cl
 *.mercadolibre.com
 *.mercadolibre.com.ar

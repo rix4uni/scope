@@ -97,6 +97,9 @@ auth.*.latitudefinancial.com
 *.esgiq.com
 *.trustweek2021.com
 *.1shoppingcart.com
+*.afterpay.com
+*.cash.me
+*.tidal.com
 *.atlassian.com
 *.sprint.net
 *.engage.tesla.com
@@ -266,6 +269,12 @@ db.*.supabase.co
 *.east.fdbox.net
 *.fndl.dev
 *.prod.fdbox.net
+*.gokangu.cl
+*.gokangu.co
+*.gokangu.mx
+*.gokangu.uy
+*.kangu.com.br
+*.kangu.tech
 *.urbanclap.com
 *.egadvertising.com
 *.hoteis.com

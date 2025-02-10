@@ -1072,7 +1072,12 @@ socialverification.stage.creditkarma.com
 taplytics.com
 tax.creditkarma.com
 taxsupport.creditkarma.com
-ajuda.kangu.com.br
+*.gokangu.cl
+*.gokangu.co
+*.gokangu.mx
+*.gokangu.uy
+*.kangu.com.br
+*.kangu.tech
 developersforum.mercadolibre.com.ar
 developersforum.mercadolibre.com.co
 developersforum.mercadolibre.cl

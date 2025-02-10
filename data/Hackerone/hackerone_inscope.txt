@@ -1652,12 +1652,6 @@ support.creditkarma.ca
 vivi.langga
 creditkarma.ca
 *.adminml.com
-*.gokangu.cl
-*.gokangu.co
-*.gokangu.mx
-*.gokangu.uy
-*.kangu.com.br
-*.kangu.tech
 *.mercadolibre.cl
 *.mercadolibre.com
 *.mercadolibre.com.ar
