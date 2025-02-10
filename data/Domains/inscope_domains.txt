@@ -739,8 +739,6 @@ soundcloud.com
 connect.soundcloud.com
 artists.soundcloud.com
 soundcloud.org
-square.online
-weebly.com
 manage.statuspage.io
 driveuconnect.com
 driveuconnect.eu
