@@ -344,6 +344,9 @@ remove.bg
 designify.com
 kaleido.ai
 unscreen.com
+keepersecurity.com
+microsoft.com
+docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
 kucoin.com
@@ -1835,7 +1838,6 @@ shop-id.tokopedia.com
 shop.tiktok.com
 tiktok.com
 pangleglobal.com
-microsoft.com
 desktop.miro.com
 miro.dmg
 developers.miro.com
