@@ -997,6 +997,10 @@ connect.soundcloud.com
 *.services.repostnetwork.com
 artists.soundcloud.com
 soundcloud.org
+*.square.com
+*.squareup.com
+square.online
+weebly.com
 manage.statuspage.io
 *.statuspage.io
 driveuconnect.com
