@@ -502,15 +502,6 @@ playback.soundcloud.com
 jobs.soundcloud.com
 playerone.soundcloud.com
 support.soundcloud.org
-afterpay.com
-*.afterpay.com
-cash.me
-*.cash.me
-designers.weebly.com
-tidal.com
-*.tidal.com
-community.squareup.com
-itunes.apple.com
 *.atlassian.com
 sprint.net
 *.sprint.net
