@@ -167,6 +167,7 @@ community-staging.meraki.com
 *.cisco.com
 meraki.cisco.com
 documentation.meraki.com
+learn.clickhouse.com
 support.cloudinary.com
 wiki.cloudinary.com
 hourofcode.com

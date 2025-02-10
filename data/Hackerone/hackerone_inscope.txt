@@ -12,6 +12,7 @@ enroll.onduo.com
 *.projectbaseline.com
 *.signalpath.com
 *.verily.com
+helix.verily.com
 bumba.global
 cart.starbucks.co.jp
 gift.starbucks.co.jp

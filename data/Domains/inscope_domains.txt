@@ -148,6 +148,7 @@ ws.multiplayer.classdojo.com
 ticket.multiplayer.classdojo.com
 clients.multiplayer.classdojo.com
 monster-customizer.classdojo.com
+clickhou.se
 cloudinary.com
 api.cloudinary.com
 res.cloudinary.com
@@ -946,6 +947,7 @@ bcny.com
 company.thebrowser.arc
 thebrowser.company
 enroll.onduo.com
+helix.verily.com
 bumba.global
 cart.starbucks.co.jp
 gift.starbucks.co.jp
