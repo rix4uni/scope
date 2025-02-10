@@ -1,6 +1,1 @@
-etsy.com
-etsypayments.com
-blog.etsy.com
-careers.etsy.com
-help.etsy.com
-community.etsy.com
+hackerone-m1rtuq8orz.hbstaging.website

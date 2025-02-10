@@ -182,6 +182,7 @@ openapi-v2.exoscale.com
 zammad.internal.exoscale.ch
 exoscalestatus.com
 gslink.financialforce.com
+apuat-aaa.fisglobal.com
 training.flourish.studio
 api.gearset.com
 app.gearset.com
@@ -1867,6 +1868,7 @@ help.wealthsimple.com
 support.wealthsimple.com
 tldr-archive.wealthsimple.com
 work.wealthsimple.com
+auth.tjmorrispayslips.co.uk
 blog.zomato.com
 business-blog.zomato.com
 community.zomato.com
