@@ -1,2 +1,2 @@
-*.square.com
-*.squareup.com
+*.bitdefender.net
+*.bitdefender.com
