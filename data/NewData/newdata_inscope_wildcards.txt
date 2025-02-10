@@ -1,4 +1,3 @@
-*.classdojo.com
-*.classdojo.co.uk
-*.doj.io
-*.dojo.me
+*.asana.plus
+*.asana.biz
+*.app.asana.com
