@@ -1,2 +1,1 @@
-*.bitdefender.net
-*.bitdefender.com
+*.central.arubanetworks.com
