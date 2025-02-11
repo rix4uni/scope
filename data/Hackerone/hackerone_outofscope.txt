@@ -5,6 +5,10 @@ support.1password.com
 investor.pepsico.com
 investors.pepsico.com
 pepsico.com
+we.toloka.ai
+iframe-toloka.com
+platform.toloka.ai
+tolokamodels.tech
 blog.ishosting.com
 help.ishosting.com
 *.amazonaws.com

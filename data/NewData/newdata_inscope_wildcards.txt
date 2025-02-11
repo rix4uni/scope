@@ -1,1 +1,1 @@
-*.central.arubanetworks.com
+*.toloka.ai
