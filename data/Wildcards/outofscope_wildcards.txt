@@ -209,6 +209,9 @@ db.*.supabase.co
 *.fastly.net
 *.krisp.ai
 *.hydrogenhealth.com
+*.clover.com
+*.firstdata.com
+*.fiserv.com
 *.awards.slotomania.com
 *.bo.tide.co
 *-staging.tide.co
