@@ -584,6 +584,7 @@ vdp.kahootz.com
 affiliate.napoleongames.be
 affiliates.superbet.com
 affiliates.superbet.rs
+surveys.superbet.com
 legacy-web.superbet.ro
 retail.prod.incubator.superbet.ro
 blog.magiceden.io
