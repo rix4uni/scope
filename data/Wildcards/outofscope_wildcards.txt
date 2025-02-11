@@ -351,9 +351,6 @@ online.*.skybingo.com
 *.superbeatsports.com
 *.teston.io
 *.usertesting.com
-*.dynsystem.kr
-*central.dyson.com
-*dyson-demo.com
 *.coupons.kiwi.com
 *cars.kiwi.com
 *citi-sign.kiwi.com
