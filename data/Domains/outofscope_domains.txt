@@ -480,10 +480,6 @@ signature.upwork.com
 careers.upwork.com
 tip.upwork.com
 pardot.upwork.com
-agentcenter.viator.com
-operatorresources.viator.com
-partnerresources.viator.com
-partner.viator.com
 theplaymania.com
 app.gator.com
 app.web.com
