@@ -1,1 +1,2 @@
-*.toloka.ai
+*.viatorinc.com
+*.viator.com
