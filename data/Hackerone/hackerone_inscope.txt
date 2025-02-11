@@ -2282,9 +2282,6 @@ dashboard.omise.co
 offsite.omise.co
 vault.omise.co
 opn.ooo
-api.spotify.com
-api-partner.spotify.com
-developer.spotify.com
 *.atspotify.com
 *.avecspotify.com
 *.byspotify.com
@@ -2296,6 +2293,7 @@ developer.spotify.com
 *.tospotify.com
 *.withspotify.com
 anchor.fm
+developer.spotify.com
 support.megaphone.fm
 closetheplaygap.com
 eyeofthestormers.com
@@ -2332,6 +2330,8 @@ sink.pdst.fm
 app.sonantic.io
 api.sonantic.io
 label-studio-public.sonantic.io
+api-partner.spotify.com
+api.spotify.com
 assets.spotify.com
 backstage.io
 *.guilded.gg
