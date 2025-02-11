@@ -34,9 +34,9 @@ my.arlo.com
 myapi.arlo.com
 arlo.com
 updates.arlo.com
-arubanetworks.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+arubanetworks.com
 arubainstanton.com
 mspshowcase.arubanetworks.com
 blogs.arubanetworks.com

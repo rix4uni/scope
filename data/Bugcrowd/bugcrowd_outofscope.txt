@@ -17,7 +17,6 @@ aivenhelp.zendesk.com
 support.aiven.io
 regatta.aiven.io
 *.dieboldnixdorf.com
-*.arubanetworks.com
 *.hpe.com
 outdoorplanner.arubanetworks.com
 *.atl.arubanetworks.com

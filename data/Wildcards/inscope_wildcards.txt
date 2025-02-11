@@ -4,7 +4,6 @@ portalapi.*.afterpay.com
 *.arlo.com
 *.arloxcld.com
 *-prod.arlo.com
-*.central.arubanetworks.com
 *.asana.plus
 *.asana.biz
 *.app.asana.com
