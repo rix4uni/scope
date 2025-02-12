@@ -1019,6 +1019,9 @@ digits.t-mobile.com
 *.t-mobile.com
 *.metrobyt-mobile.com
 *.sprint.com
+api.vistarmedia.com
+packages.cortexpowered.com
+api.vistarmedia.eu
 biocorellc.com
 tempus-ex.com
 infiniteathlete.ai

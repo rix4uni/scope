@@ -1,9 +1,3 @@
-supplier.viator.com
-viatorapi.viator.com
-toursgds.com
-partners.viator.com
-travelagents.viator.com
-help.supplier.viator.com
-kiwi.partner.viator.com
-selector.viator.com
-partnerhelp.viator.com
+api.vistarmedia.com
+packages.cortexpowered.com
+api.vistarmedia.eu
