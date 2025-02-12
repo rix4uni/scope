@@ -162,7 +162,6 @@ db.*.supabase.co
 *aeromexico.com
 *.ionity.eu
 *.gobrightspeed.net
-*.nba.com
 *.envira.es
 *.eurofins-digitaltesting.com
 *.sgs.com
