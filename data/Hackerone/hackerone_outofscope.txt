@@ -784,7 +784,6 @@ user.gener8ads.com
 adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
-investnext.com
 help.evernote.com
 svn.filezilla-project.org
 account.clario.co
