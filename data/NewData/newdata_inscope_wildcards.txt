@@ -1,2 +1,1 @@
-*.viatorinc.com
-*.viator.com
+*.acrobat.adobe.com

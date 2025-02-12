@@ -890,6 +890,7 @@ sip.*.twilio.com
 *.rentalcars.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
+*.acrobat.adobe.com
 *.lightroom.adobe.com
 *.blockchain.com
 *.ubnt.com

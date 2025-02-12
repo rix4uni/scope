@@ -2500,6 +2500,7 @@ kb.acronis.com
 account.acronis.com
 beta-cloud.acronis.com
 docs.hackerone.com
+faucets.chain.link
 api.loanbuilder.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
@@ -3056,7 +3057,6 @@ airtable.com
 account.adobe.com
 account.magento.com
 accounts.magento.cloud
-acrobat.adobe.com
 adobeid-na1.services.adobe.com
 auth.services.adobe.com
 contributor.stock.adobe.com

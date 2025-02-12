@@ -1209,6 +1209,10 @@ towneplacesuites.marriott.com
 vacations.marriott.com
 travelagents.marriott.com
 learn.acronis.com
+blog.chain.link
+chainlinklabs.com
+create.smartcontract.com
+docs.chain.link
 *.atlassian.net
 *.paypal.cn
 paypal.cn

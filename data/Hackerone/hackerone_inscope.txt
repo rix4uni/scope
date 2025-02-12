@@ -1902,6 +1902,7 @@ kb.acronis.com
 account.acronis.com
 beta-cloud.acronis.com
 docs.hackerone.com
+faucets.chain.link
 *.braintree-api.com
 *.sandbox.braintree-api.com
 *.braintree.tools
@@ -2711,11 +2712,11 @@ fareharbor.com
 staging.airtable.com
 api-staging.airtable.com
 airtable.com
+*.acrobat.adobe.com
 *.lightroom.adobe.com
 account.adobe.com
 account.magento.com
 accounts.magento.cloud
-acrobat.adobe.com
 adobeid-na1.services.adobe.com
 auth.services.adobe.com
 contributor.stock.adobe.com
