@@ -1714,6 +1714,9 @@ sms.8x8.com
 chatapps.8x8.com
 8x8.uk
 8x8.id
+partnerxchange.8x8.com
+8x8.my.site.com
+8x8.force.com
 support-portal.8x8.com
 admin.8x8.com
 cloud8.8x8.com
