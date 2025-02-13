@@ -261,6 +261,7 @@ tokyodisneyresort.jp
 enchantedfinejewelry.com
 *.hiltonhotels.jp
 eis.hilton.com
+guestfeedback.hilton.com
 hiltongrandvacations.com
 jobs.hilton.com
 creators.gymshark.com
