@@ -132,6 +132,10 @@ binance.tr
 *.bitdefender.net
 *.bitdefender.com
 bitdefender.com
+bitgo.com
+*.bitgo.com
+app.bitgo.com
+app.bitgo-test.com
 web.bitpanda.com
 bitpanda.com
 api.bitpanda.com
@@ -203,14 +207,6 @@ staging.auth.coindesk.com
 *.sys.comcast.net
 business.comcast.com
 xfinity.com
-cyberghostvpn.com
-*.cyberghostvpn.com
-*.cyberghost.com
-cyberghost.com
-cyberghost.app
-addons.mozilla.org
-chrome.google.com
-polymoon.it
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com
@@ -295,6 +291,8 @@ internal.exoscale.ch
 *.xvservice.net
 expressvpn.com
 chromewebstore.google.com
+addons.mozilla.org
+polymoon.it
 financialforce.com
 *.financialforce.com
 *.certinia.com
@@ -369,6 +367,7 @@ thehut.com
 checkout.myvitamins.com
 checkout.eyeko.com
 checkout.glossybox.com
+chrome.google.com
 market.android.com
 content-server.ibotta.com
 api.ibotta.com
