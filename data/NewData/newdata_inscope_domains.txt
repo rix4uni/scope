@@ -1,7 +1,1 @@
-underarmour.com.sg
-underarmour.cn
-underarmour.co.kr
-armourhouse.underarmour.com
-yeswehack.staging.komoju.com
-multipay-staging.test.komoju.com
-doc.komoju.com
+hotwire.com

@@ -2115,10 +2115,6 @@ sure.expediapartnersolutions.com
 taap-ui-bundles-test.expediapartnersolutions.com
 taap-ui-bundles.expediapartnersolutions.com
 taapacademy.expediapartnersolutions.com
-partners.hotwire.com
-press.hotwire.com
-movableink.hotwire.com
-affiliates.hotwire.com
 res.ac.lastminute.co.nz
 mi.lastminute.com.au
 mtx.lastminute.com.au
@@ -2165,6 +2161,7 @@ hotels.com
 in.hotels.com
 uk.hotels.com
 fr.hotels.com
+hotwire.com
 hotwirepartnercentral.com
 lastminute.co.nz
 lastminute.com.au
