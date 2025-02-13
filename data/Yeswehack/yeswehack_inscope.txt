@@ -139,6 +139,9 @@ infomaniak.events
 sms.infomaniak.com
 developer.infomaniak.com
 invitation.infomaniak.com
+yeswehack.staging.komoju.com
+multipay-staging.test.komoju.com
+doc.komoju.com
 bounty.legapass.com
 hack1.mtrx.ovh
 hackme.matrixreq.com
