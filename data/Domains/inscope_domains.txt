@@ -2372,7 +2372,6 @@ book.applevacations.com
 book.beachbound.com
 book.booktandl.com
 book.cheapcaribbean.com
-book.extraholidaysvacations.com
 booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
@@ -3354,6 +3353,19 @@ mobile.nexuzhealth.be
 mynexuz.be
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+builds-auckland.ninja.kiwi
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 oda.com
 no.kolonial.tienda
 mathem.se

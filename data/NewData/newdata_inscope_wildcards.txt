@@ -1,1 +1,2 @@
-*.acrobat.adobe.com
+*.ninjakiwi.me
+*.nkstatic.com

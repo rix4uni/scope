@@ -1765,7 +1765,6 @@ book.applevacations.com
 book.beachbound.com
 book.booktandl.com
 book.cheapcaribbean.com
-book.extraholidaysvacations.com
 booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
