@@ -2992,7 +2992,6 @@ api-staging.airtable.com
 airtable.com
 account.adobe.com
 account.magento.com
-accounts.magento.cloud
 adobeid-na1.services.adobe.com
 auth.services.adobe.com
 contributor.stock.adobe.com
@@ -3003,8 +3002,6 @@ ims-na1.adobelogin.com
 contentcredentials.org
 learningmanagerstage4.adobe.com
 magento.com
-magentocommerce.com
-magentolive.com
 marketplace.magento.com
 net.s2stagehance.com
 new.express.adobe.com
