@@ -1,3 +1,2 @@
-bitgo.com
-app.bitgo.com
-app.bitgo-test.com
+my.mintmobile.com
+my.ultramobile.com
