@@ -94,18 +94,6 @@ samltool.io
 webauthn.me
 openidconnect.net
 jwt.io
-pornhub.com
-mobile.pornhub.com
-api.pornhub.com
-pornhubpremium.com
-redtube.com
-redtubepremium.com
-youporn.com
-youpornpremium.com
-pornhub.mainhub.com
-*.tube8.com
-tube8.com
-thumbzilla.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
@@ -841,8 +829,6 @@ ssu.myconnect.com.au
 hub.myconnect.com.au
 dashboard.pantheon.io
 devstaging.pcapcloud.com
-pexels.com
-*.pexels.com
 api.pinterest.com
 *.pinterest.com
 microsoftedge.microsoft.com
