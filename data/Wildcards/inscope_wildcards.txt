@@ -13,6 +13,7 @@ portalapi.*.afterpay.com
 *.atlassian.net
 *.atlastunnel.com
 *.cic-bug-bounty.auth0app.com
+*.tube8.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
@@ -220,6 +221,7 @@ np.*.lfscnp.com
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
+*.pexels.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
