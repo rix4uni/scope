@@ -1,10 +1,4 @@
-api.coinmarketcap.com
-pro-api.coinmarketcap.com
-binance.com
-api.binance.com
-pro.coinmarketcap.com
-portal-api.coinmarketcap.com
-coinmarketcap.com
-3rdparty-apis.coinmarketcap.com
-binance.us
-binance.tr
+opensea.io
+pro.opensea.io
+wallets.opensea.io
+io.opensea
