@@ -45,8 +45,6 @@ portalapi.*.afterpay.com
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
-*.cyberghostvpn.com
-*.cyberghost.com
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
@@ -263,6 +261,12 @@ np.*.lfscnp.com
 *.t-mobile.com
 *.metrobyt-mobile.com
 *.sprint.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.tidal.com
 *.wimpmusic.com
@@ -297,6 +301,13 @@ sip.*.twilio.com
 *.codebig2.net
 *.cloud.comcast.net
 *.xfinityhome.com
+*.coloros.com
+*.myoas.com
+*.myoas.net
+*.oppo.com
+*.oppomobile.com
+*.wanyol.com
+*.myoppo.com
 *.granularinsurance.com
 *.onduo.com
 *.projectbaseline.com

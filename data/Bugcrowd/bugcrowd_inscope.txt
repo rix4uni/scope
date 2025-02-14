@@ -207,14 +207,6 @@ staging.auth.coindesk.com
 *.sys.comcast.net
 business.comcast.com
 xfinity.com
-cyberghostvpn.com
-*.cyberghostvpn.com
-*.cyberghost.com
-cyberghost.com
-cyberghost.app
-addons.mozilla.org
-chrome.google.com
-polymoon.it
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com
@@ -299,6 +291,8 @@ internal.exoscale.ch
 *.xvservice.net
 expressvpn.com
 chromewebstore.google.com
+addons.mozilla.org
+polymoon.it
 financialforce.com
 *.financialforce.com
 *.certinia.com
@@ -373,6 +367,7 @@ thehut.com
 checkout.myvitamins.com
 checkout.eyeko.com
 checkout.glossybox.com
+chrome.google.com
 market.android.com
 content-server.ibotta.com
 api.ibotta.com
@@ -1027,6 +1022,12 @@ tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
 docs.tempus-ex.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 thefork.com
 m.thefork.com
 blog.thefork.com

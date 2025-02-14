@@ -1,1 +1,13 @@
-*.bitgo.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
+*.coloros.com
+*.myoas.com
+*.myoas.net
+*.oppo.com
+*.oppomobile.com
+*.wanyol.com
+*.myoppo.com
