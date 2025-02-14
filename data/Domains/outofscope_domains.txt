@@ -75,12 +75,6 @@ security.bigcommerce.com
 partnernews.bigcommerce.com
 content.product.bigcommerce.com
 dam.bigcommerce.com
-jobs.coinmarketcap.com
-support.binance
-binance.sg
-blog.coinmarketcap.com
-support.coinmarketcap.com
-blockchain.coinmarketcap.com
 partner-marketing.bitdefender.com
 businessinsights.bitdefender.com
 businessemail.bitdefender.com
@@ -506,9 +500,6 @@ develop-app.ynab.com
 support.ynab.com
 support.1password.com
 1password.com
-investor.pepsico.com
-investors.pepsico.com
-pepsico.com
 support.toloka.help
 we.toloka.ai
 iframe-toloka.com

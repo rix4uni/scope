@@ -2,9 +2,6 @@
 support.1password.com
 1password.com
 *.zipbooks.com
-investor.pepsico.com
-investors.pepsico.com
-pepsico.com
 support.toloka.help
 we.toloka.ai
 iframe-toloka.com

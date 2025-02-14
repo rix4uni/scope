@@ -99,16 +99,6 @@ security.bigcommerce.com
 partnernews.bigcommerce.com
 content.product.bigcommerce.com
 dam.bigcommerce.com
-jobs.coinmarketcap.com
-support.binance
-binance.sg
-*.trustwallet.com
-*.trustwalletapp.com
-*.binance.org
-blog.coinmarketcap.com
-support.coinmarketcap.com
-blockchain.coinmarketcap.com
-*.coinmarketcap.com
 partner-marketing.bitdefender.com
 businessinsights.bitdefender.com
 businessemail.bitdefender.com
