@@ -1,1 +1,2 @@
-*.tube8.com
+*.binance.com
+*.binance.us
