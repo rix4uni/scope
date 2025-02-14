@@ -79,6 +79,17 @@ samltool.io
 webauthn.me
 openidconnect.net
 jwt.io
+pornhub.com
+mobile.pornhub.com
+api.pornhub.com
+pornhubpremium.com
+redtube.com
+redtubepremium.com
+youporn.com
+youpornpremium.com
+pornhub.mainhub.com
+tube8.com
+thumbzilla.com
 backblaze.com
 barracuda.com
 mybigcommerce.com
@@ -543,11 +554,6 @@ chat.openai.com
 openai.org
 openai.com
 platform.openai.com
-opensea.io
-pro.opensea.io
-wallets.opensea.io
-io.opensea
-etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -1027,6 +1033,7 @@ downloads-global.3cx.com
 debian-amd64-netinst-3cx.iso
 apps.microsoft.com
 portal.3cx.com
+etherscan.io
 auth.privy.io
 dashboard.privy.io
 netflix.com
