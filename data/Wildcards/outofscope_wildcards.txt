@@ -102,7 +102,6 @@ auth.*.latitudefinancial.com
 *.tidal.com
 *.atlassian.com
 *.sprint.net
-*.engage.tesla.com
 *.tripadviser.at
 *.tripadvisor.cn
 *.bokun.io
