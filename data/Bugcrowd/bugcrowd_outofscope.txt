@@ -652,6 +652,3 @@ business.comcast.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
-app.ynab.com
-develop-app.ynab.com
-support.ynab.com
