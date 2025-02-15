@@ -501,6 +501,9 @@ tech.transferwise.com
 oauth.xfinity.com
 login.xfinity.com
 business.comcast.com
+app.ynab.com
+develop-app.ynab.com
+support.ynab.com
 support.1password.com
 1password.com
 support.toloka.help
