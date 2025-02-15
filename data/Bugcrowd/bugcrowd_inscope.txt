@@ -146,6 +146,12 @@ bitstamp.net
 *.bitstamp.net
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
+docs.bugcrowd.com
+bugcrowd.com
+tracker.bugcrowd.com
+api.bugcrowd.com
+identity.bugcrowd.com
+*.bugcrowd.com
 bullish.com
 investor.bullish.com
 simnext.bullish-test.com
@@ -1021,6 +1027,12 @@ tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
 docs.tempus-ex.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 thefork.com
 m.thefork.com
 blog.thefork.com

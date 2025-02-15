@@ -1,3 +1,7 @@
-*.arlo.com
-*.arloxcld.com
-*-prod.arlo.com
+*.bugcrowd.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
