@@ -26,7 +26,6 @@ portalapi.*.afterpay.com
 *.bitdefender.com
 *.bitgo.com
 *.bitstamp.net
-*.bugcrowd.com
 *.canva.cn
 *.canva.com
 *.canva-apps.com
@@ -263,12 +262,6 @@ np.*.lfscnp.com
 *.t-mobile.com
 *.metrobyt-mobile.com
 *.sprint.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.tidal.com
 *.wimpmusic.com

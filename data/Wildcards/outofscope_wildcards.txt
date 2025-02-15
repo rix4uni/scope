@@ -30,7 +30,6 @@
 *.appboy.com
 *.braze.eu
 *.braze.com
-*.freshdesk.com
 *.bullish.com
 *.0.canva.cn
 *.0.canva-apps.cn
@@ -68,6 +67,7 @@ auth.*.latitudefinancial.com
 *.limeinternal.com
 *.lime.bike
 *.filestack.com
+*.freshdesk.com
 *.blstr.xyz
 *.blstr.co
 *nuinternational.com
@@ -102,7 +102,6 @@ auth.*.latitudefinancial.com
 *.tidal.com
 *.atlassian.com
 *.sprint.net
-*.engage.tesla.com
 *.tripadviser.at
 *.tripadvisor.cn
 *.bokun.io
