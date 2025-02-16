@@ -612,6 +612,7 @@ agentcenter.viator.com
 operatorresources.viator.com
 partnerresources.viator.com
 partner.viator.com
+theplaymania.com
 *.web.com
 *.register.com
 *.networksolutions.com
