@@ -1215,9 +1215,6 @@ kiwi.partner.viator.com
 selector.viator.com
 partnerhelp.viator.com
 *.viator.com
-uae.voxcinemas.com
-skidxb.com
-magicplanetmena.com
 web.com
 register.com
 networksolutions.com
