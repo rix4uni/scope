@@ -1229,6 +1229,12 @@ updater.clario.co
 updatetracker.clario.co
 webapi.clario.co
 yapi.clario.co
+emerald.oasis.dev
+grpc.oasis.dev
+rosetta.oasis.dev
+sapphire.oasis.io
+status.oasis.io
+wallet.oasis.io
 *.a.exodus.io
 *-s.a.exodus.io
 bitcoin-s.a.exodus.io

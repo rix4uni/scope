@@ -1,3 +1,6 @@
-uae.voxcinemas.com
-skidxb.com
-magicplanetmena.com
+emerald.oasis.dev
+grpc.oasis.dev
+rosetta.oasis.dev
+sapphire.oasis.io
+status.oasis.io
+wallet.oasis.io
