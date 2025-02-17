@@ -380,6 +380,8 @@ khealth.com
 khealth-test.com
 support.smtp2go.com
 cmm01.sl.zebra.com
+temptimecorp.com
+zebra.cn
 *.clover.com
 *.firstdata.com
 *.fiserv.com
