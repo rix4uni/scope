@@ -1,7 +1,3 @@
-*.bugcrowd.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
+*.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
