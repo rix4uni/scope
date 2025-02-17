@@ -305,6 +305,12 @@ status.newrelic.com
 docs.newrelic.com
 iopipe.com
 northwesternmutual.com
+servicenmfn.awms.apps.northwesternmutual.com
+servicenmfnstage.awms.apps.northwesternmutual.com
+servicenmfntest.awms.apps.northwesternmutual.com
+service.nmfn.com
+servicestage.nmfn.com
+servicetest.nmfn.com
 calculator.northwesternmutual.com
 clientwise.com
 cloud.em.northwesternmutual.com
