@@ -830,6 +830,7 @@ careers.khealth.com
 khealth.com
 khealth-test.com
 support.smtp2go.com
+cmm01.sl.zebra.com
 blog.playtronics.com
 api.clover.com
 api.eu.clover.com
