@@ -137,7 +137,6 @@ otto.de
 keycloak.apps.otto.de
 *.osp.ovh.com
 help-okto.sprinklr.com
-gitlab.com
 sequoia-pgp.org
 sogexia.com
 support.sogexia.com
