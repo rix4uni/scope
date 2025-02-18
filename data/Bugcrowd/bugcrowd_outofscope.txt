@@ -45,14 +45,6 @@ asana.com
 *.integrations.asana.plus
 asana.okta.com
 assets.asana.biz
-bugcrowd.com
-shop.atlassian.com
-bytebucket.org
-*.bitbucket.io
-blog.bitbucket.org
-support.atlassian.com
-atlassian.net
-jira.com
 marketplace.atlassian.com
 trello.com
 blog.aurory.io
@@ -139,6 +131,7 @@ perps-test.bitstamp.net
 *.braze.eu
 *.braze.com
 *.freshdesk.com
+bugcrowd.com
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
 pages.bugcrowd.com
