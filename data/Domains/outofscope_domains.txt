@@ -832,6 +832,9 @@ khealth.com
 khealth-test.com
 support.smtp2go.com
 cmm01.sl.zebra.com
+comtecis.com
+eltron.com
+eltron.com.cn
 temptimecorp.com
 zebra.cn
 blog.playtronics.com
