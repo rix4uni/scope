@@ -719,6 +719,17 @@ northwesternmutual.com
 *.northwesternmutual.com
 *.nml.com
 *.nmfn.com
+*.nubank.com.br
+*.nu.com.mx
+*.nu.com.co
+nubank.com.br
+*nubank.com.br
+nubank.com.mx
+*nu.com.mx
+nubank.com.co
+*nu.com.co
+nuinvest.com.br
+*.nuinvest.com.br
 octopus.com
 *.octopus.com
 oktapreview.com
