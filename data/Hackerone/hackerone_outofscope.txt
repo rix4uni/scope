@@ -1,5 +1,3 @@
-news.hemi.xyz
-beehiiv.com
 *.agilebits.com
 support.1password.com
 1password.com
@@ -385,6 +383,10 @@ cmm01.sl.zebra.com
 comtecis.com
 eltron.com
 eltron.com.cn
+healthcare-ws.virtualzebra.com
+healthcare.virtualzebra.com
+laserband.co.uk
+laserband.com
 temptimecorp.com
 zebra.cn
 *.clover.com
