@@ -609,13 +609,6 @@ signature.upwork.com
 careers.upwork.com
 tip.upwork.com
 pardot.upwork.com
-*.rc.viator.com
-*.sandbox.viator.com
-*.partner.viator.com
-agentcenter.viator.com
-operatorresources.viator.com
-partnerresources.viator.com
-partner.viator.com
 theplaymania.com
 *.web.com
 *.register.com
