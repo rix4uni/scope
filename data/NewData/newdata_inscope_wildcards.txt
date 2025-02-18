@@ -1,3 +1,2 @@
-*.asana.plus
-*.asana.biz
-*.app.asana.com
+*.trafficjunky.com
+*.adultforce.com
