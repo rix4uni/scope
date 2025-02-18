@@ -1,2 +1,2 @@
-*.trafficjunky.com
-*.adultforce.com
+*.viatorinc.com
+*.viator.com

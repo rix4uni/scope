@@ -1,6 +1,9 @@
-hpr.kiwai-normandie.fr
-api.hpr.kiwai-normandie.fr
-ppr.kiwai-enr.fr
-kiwai-enr.fr
-api.kiwai-normandie.fr
-kiwai-normandie.fr
+supplier.viator.com
+viatorapi.viator.com
+toursgds.com
+partners.viator.com
+travelagents.viator.com
+help.supplier.viator.com
+kiwi.partner.viator.com
+selector.viator.com
+partnerhelp.viator.com
