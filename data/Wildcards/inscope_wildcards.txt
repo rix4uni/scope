@@ -192,13 +192,6 @@ np.*.lfscnp.com
 *.northwesternmutual.com
 *.nml.com
 *.nmfn.com
-*.nubank.com.br
-*.nu.com.mx
-*.nu.com.co
-*nubank.com.br
-*nu.com.mx
-*nu.com.co
-*.nuinvest.com.br
 *.octopus.com
 *.openai.org
 *.openai.com
