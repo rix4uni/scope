@@ -104,7 +104,6 @@ downloads-global.3cx.com
 debian-amd64-netinst-3cx.iso
 apps.microsoft.com
 portal.3cx.com
-etherscan.io
 auth.privy.io
 dashboard.privy.io
 npmjs.com
@@ -1944,6 +1943,7 @@ crypto.com
 *.mona.co
 app.mona.co
 developer-platform-api.crypto.com
+etherscan.io
 js.crypto.com
 merchant.crypto.com
 nadex.com
