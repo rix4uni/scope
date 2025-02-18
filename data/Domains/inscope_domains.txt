@@ -525,6 +525,10 @@ knowledge.newrelic.com
 learn.newrelic.com
 developer.newrelic.com
 northwesternmutual.com
+nubank.com.br
+nubank.com.mx
+nubank.com.co
+nuinvest.com.br
 octopus.com
 oktapreview.com
 pam.oktapreview.com
