@@ -41,10 +41,6 @@ asp.arubanetworks.com
 lms.arubanetworks.com
 afp.arubanetworks.com
 csaf.arubanetworks.com
-asana.com
-*.integrations.asana.plus
-asana.okta.com
-assets.asana.biz
 bugcrowd.com
 shop.atlassian.com
 bytebucket.org
