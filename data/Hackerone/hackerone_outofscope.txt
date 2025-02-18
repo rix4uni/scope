@@ -390,6 +390,7 @@ healthcare.virtualzebra.com
 laserband.co.uk
 laserband.com
 temptimecorp.com
+truecolours.net
 zebra.cn
 *.clover.com
 *.firstdata.com
