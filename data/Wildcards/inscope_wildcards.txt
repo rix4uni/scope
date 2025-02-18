@@ -27,11 +27,11 @@ portalapi.*.afterpay.com
 *.bitgo.com
 *.bitstamp.net
 *.bugcrowd.com
-*.canva.cn
 *.canva.com
 *.canva-apps.com
-*.canva-apps.cn
 *.canva.tech
+*.canva.cn
+*.canva-apps.cn
 *.cash.app
 *.cashstaging.app
 *.meraki.com

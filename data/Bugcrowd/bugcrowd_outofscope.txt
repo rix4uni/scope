@@ -152,8 +152,6 @@ community.bugcrowd.com
 trust.bugcrowd.com
 *.bullish.com
 simnext.bullish-test.com
-*.0.canva.cn
-*.0.canva-apps.cn
 cwingsfe.mafrservices.com
 subs.foreignaffairs.com
 subscribe.foreignaffairs.com

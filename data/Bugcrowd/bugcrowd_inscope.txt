@@ -156,12 +156,13 @@ bullish.com
 investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
-*.canva.cn
+canva.com
+api.canva.com
 *.canva.com
 *.canva-apps.com
-*.canva-apps.cn
-canva.com
 *.canva.tech
+*.canva.cn
+*.canva-apps.cn
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
