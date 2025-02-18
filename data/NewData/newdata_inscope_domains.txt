@@ -1,4 +1,2 @@
-nubank.com.br
-nubank.com.mx
-nubank.com.co
-nuinvest.com.br
+app.opsgenie.com
+mobileapp.opsgenie.com

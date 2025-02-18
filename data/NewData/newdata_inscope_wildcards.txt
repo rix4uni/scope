@@ -1,7 +1,1 @@
-*.nubank.com.br
-*.nu.com.mx
-*.nu.com.co
-*nubank.com.br
-*nu.com.mx
-*nu.com.co
-*.nuinvest.com.br
+*.opsgenie.com
