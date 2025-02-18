@@ -1,3 +1,5 @@
+docs.hemi.xyz
+news.hemi.xyz
 *.agilebits.com
 support.1password.com
 1password.com
