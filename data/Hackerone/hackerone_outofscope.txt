@@ -1,3 +1,5 @@
+news.hemi.xyz
+beehiiv.com
 *.agilebits.com
 support.1password.com
 1password.com

@@ -510,6 +510,8 @@ business.comcast.com
 app.ynab.com
 develop-app.ynab.com
 support.ynab.com
+news.hemi.xyz
+beehiiv.com
 support.1password.com
 1password.com
 support.toloka.help
