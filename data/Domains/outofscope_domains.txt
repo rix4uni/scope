@@ -841,8 +841,14 @@ healthcare-ws.virtualzebra.com
 healthcare.virtualzebra.com
 laserband.co.uk
 laserband.com
+swecoin.com
+swecoin.nu
+swecoin.se
+swecoinus.com
 temptimecorp.com
 truecolours.net
+multispectral.com
+wherenet.com
 zebra.cn
 blog.playtronics.com
 api.clover.com

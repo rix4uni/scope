@@ -382,6 +382,7 @@ careers.khealth.com
 khealth.com
 khealth-test.com
 support.smtp2go.com
+*.zebracard.com
 cmm01.sl.zebra.com
 comtecis.com
 eltron.com
@@ -390,8 +391,14 @@ healthcare-ws.virtualzebra.com
 healthcare.virtualzebra.com
 laserband.co.uk
 laserband.com
+swecoin.com
+swecoin.nu
+swecoin.se
+swecoinus.com
 temptimecorp.com
 truecolours.net
+multispectral.com
+wherenet.com
 zebra.cn
 *.clover.com
 *.firstdata.com
