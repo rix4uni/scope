@@ -1,4 +1,4 @@
-a370a9658141.gateway.skyflowapis-preview.com
-manage.skyflowapis-preview.com
-a370a9658141.vault.skyflowapis-preview.com
-californiatenant.skyflow-preview.com
+nubank.com.br
+nubank.com.mx
+nubank.com.co
+nuinvest.com.br

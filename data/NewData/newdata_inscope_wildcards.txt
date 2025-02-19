@@ -1,2 +1,7 @@
-*.viatorinc.com
-*.viator.com
+*.nubank.com.br
+*.nu.com.mx
+*.nu.com.co
+*nubank.com.br
+*nu.com.mx
+*nu.com.co
+*.nuinvest.com.br
