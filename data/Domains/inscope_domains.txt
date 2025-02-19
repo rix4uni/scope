@@ -1397,7 +1397,6 @@ user-storage.api.cx.metamask.io
 io.metamask
 io.metamask.metamask
 portfolio.metamask.io
-hackerone.com
 signature-insights.api.cx.metamask.io
 metamask-consensys.notion.site
 api.skinport.com
@@ -1485,6 +1484,7 @@ tomcat.apache.org
 security.md
 vuln-disclosure-policy.md
 djangoproject.com
+hackerone.com
 openssl.org
 rubyonrails.org
 ruby-lang.org

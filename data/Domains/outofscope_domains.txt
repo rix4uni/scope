@@ -182,6 +182,7 @@ openapi-v2.exoscale.com
 zammad.internal.exoscale.ch
 exoscalestatus.com
 gslink.financialforce.com
+apuat-aaa.fisglobal.com
 training.flourish.studio
 api.gearset.com
 app.gearset.com
@@ -650,6 +651,7 @@ authentication.api.cx.metamask.io
 oidc.api.cx.metamask.io
 user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
+portfolio.metamask.io
 chrome.google.com
 snaps.metamask.io
 io.metamask.metamask
