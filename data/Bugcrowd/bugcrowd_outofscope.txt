@@ -60,15 +60,6 @@ docs.aurory.io
 australiansuper.atlassian.net
 australiansuper.sharepoint.com
 *.australiansuper.com
-auth0.auth0.com
-manage.auth0.com
-accounts.auth0.com
-webtask.io
-phenix.rocks
-sharelock.io
-goextend.io
-support.auth0.com
-community.auth0.com
 youporn.com
 *.pornhub.com
 *.pronstore.com
@@ -152,6 +143,7 @@ community.bugcrowd.com
 trust.bugcrowd.com
 *.bullish.com
 simnext.bullish-test.com
+cwingsfe.mafrservices.com
 subs.foreignaffairs.com
 subscribe.foreignaffairs.com
 world101.cfr.org
