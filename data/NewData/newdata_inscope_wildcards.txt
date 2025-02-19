@@ -1,1 +1,1 @@
-*.etsy.com
+*.cic-bug-bounty.auth0app.com
