@@ -1,9 +1,4 @@
-supplier.viator.com
-viatorapi.viator.com
-toursgds.com
-partners.viator.com
-travelagents.viator.com
-help.supplier.viator.com
-kiwi.partner.viator.com
-selector.viator.com
-partnerhelp.viator.com
+a370a9658141.gateway.skyflowapis-preview.com
+manage.skyflowapis-preview.com
+a370a9658141.vault.skyflowapis-preview.com
+californiatenant.skyflow-preview.com
