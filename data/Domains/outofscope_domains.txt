@@ -182,6 +182,7 @@ openapi-v2.exoscale.com
 zammad.internal.exoscale.ch
 exoscalestatus.com
 gslink.financialforce.com
+apuat-aaa.fisglobal.com
 training.flourish.studio
 api.gearset.com
 app.gearset.com
@@ -485,10 +486,6 @@ signature.upwork.com
 careers.upwork.com
 tip.upwork.com
 pardot.upwork.com
-agentcenter.viator.com
-operatorresources.viator.com
-partnerresources.viator.com
-partner.viator.com
 theplaymania.com
 app.gator.com
 app.web.com
