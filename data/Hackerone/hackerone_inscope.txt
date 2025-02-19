@@ -17,7 +17,6 @@ open.oppomobile.com
 myoppo.com
 *.myoppo.com
 nearme.com.cn
-oppo.com
 opposhop.cn
 bugbounty-ctf.1password.com
 1password.com
