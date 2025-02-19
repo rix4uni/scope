@@ -1,4 +1,2 @@
-*.atlassian.com
-*.atl-paas.net
-*.atlassian.net
-*.atlastunnel.com
+*.viatorinc.com
+*.viator.com
