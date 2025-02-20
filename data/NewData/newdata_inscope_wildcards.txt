@@ -1,1 +1,1 @@
-*.cic-bug-bounty.auth0app.com
+*.nearme.com.cn

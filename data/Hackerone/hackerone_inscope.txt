@@ -2,6 +2,8 @@ claude.ai
 *.coloros.com
 *.myoas.com
 *.myoas.net
+*.myoppo.com
+*.nearme.com.cn
 *.oppo.com
 *.oppomobile.com
 *.wanyol.com
@@ -15,7 +17,6 @@ e.heytap.com
 e.oppomobile.com
 open.oppomobile.com
 myoppo.com
-*.myoppo.com
 nearme.com.cn
 opposhop.cn
 bugbounty-ctf.1password.com
