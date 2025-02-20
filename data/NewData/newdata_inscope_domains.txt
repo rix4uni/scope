@@ -1,5 +1,1 @@
-api.openai.com
-chat.openai.com
-openai.org
-openai.com
-platform.openai.com
+api.pinterest.com
