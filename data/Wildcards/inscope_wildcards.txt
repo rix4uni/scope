@@ -200,6 +200,8 @@ np.*.lfscnp.com
 *nu.com.co
 *.nuinvest.com.br
 *.octopus.com
+*.openai.org
+*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -220,7 +222,6 @@ np.*.lfscnp.com
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pexels.com
-*.pinterest.com
 *.pixabay.com
 *.points.com
 *.privateinternetaccess.com

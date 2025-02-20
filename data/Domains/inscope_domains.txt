@@ -550,6 +550,11 @@ client.htm
 sftd-windows.htm
 download-browser-plugin.htm
 pentest-app.onetrust.com
+api.openai.com
+chat.openai.com
+openai.org
+openai.com
+platform.openai.com
 opensea.io
 pro.opensea.io
 wallets.opensea.io
@@ -615,8 +620,6 @@ hub.myconnect.com.au
 dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
-api.pinterest.com
-microsoftedge.microsoft.com
 pixabay.com
 my.planethoster.com
 api.planethoster.net
@@ -1273,6 +1276,7 @@ testapp.redoxengine.com
 webhooks.gamma.redoxstage.com
 redoxengine.com
 okx.com
+microsoftedge.microsoft.com
 api.wisdomtreeprimeapp.com
 analvids.com
 ddfcontent.com

@@ -1,1 +1,2 @@
-*.nearme.com.cn
+*.openai.org
+*.openai.com
