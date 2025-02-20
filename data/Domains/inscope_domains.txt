@@ -620,6 +620,8 @@ hub.myconnect.com.au
 dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
+api.pinterest.com
+microsoftedge.microsoft.com
 pixabay.com
 my.planethoster.com
 api.planethoster.net
@@ -1276,7 +1278,6 @@ testapp.redoxengine.com
 webhooks.gamma.redoxstage.com
 redoxengine.com
 okx.com
-microsoftedge.microsoft.com
 api.wisdomtreeprimeapp.com
 analvids.com
 ddfcontent.com
@@ -3214,7 +3215,6 @@ myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
 dealer.prod.ps.axelspringer.de
-secure.mypass.de
 bmw-motorrad.de
 bmw.de
 mini.de

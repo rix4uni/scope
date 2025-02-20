@@ -11,7 +11,6 @@ ad.nl
 *.computerbild.de
 *.welt.de
 dealer.prod.ps.axelspringer.de
-secure.mypass.de
 *.autobild.de
 *.bz-berlin.de
 *.spring-media.de
