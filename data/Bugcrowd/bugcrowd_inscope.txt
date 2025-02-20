@@ -752,13 +752,6 @@ client.htm
 sftd-windows.htm
 download-browser-plugin.htm
 pentest-app.onetrust.com
-api.openai.com
-chat.openai.com
-*.openai.org
-openai.org
-openai.com
-*.openai.com
-platform.openai.com
 opensea.io
 pro.opensea.io
 wallets.opensea.io
