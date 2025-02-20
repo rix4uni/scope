@@ -1,1 +1,6 @@
-api.pinterest.com
+api.omise.co
+omise.co
+dashboard.omise.co
+offsite.omise.co
+vault.omise.co
+opn.ooo
