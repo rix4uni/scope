@@ -1,1 +1,2 @@
-*.pinterest.com
+*.backblazeb2.com
+*.backblaze.com
