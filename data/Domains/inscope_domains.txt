@@ -159,8 +159,6 @@ adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 staging.coindesk.com
 staging.auth.coindesk.com
-business.comcast.com
-xfinity.com
 cyberghostvpn.com
 cyberghost.com
 cyberghost.app
