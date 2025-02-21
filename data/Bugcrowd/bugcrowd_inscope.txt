@@ -205,6 +205,9 @@ staging.auth.coindesk.com
 *.xfinity.com
 *.comcast.com
 *.xcal.tv
+*.sys.comcast.net
+business.comcast.com
+xfinity.com
 cyberghostvpn.com
 *.cyberghostvpn.com
 *.cyberghost.com
@@ -1237,7 +1240,6 @@ my.wyze.com
 api.wyzecam.com
 home.xfinity.com
 internet.xfinity.com
-*.sys.comcast.net
 *signalservice.comcast.net
 *.dh-commerce.com
 *.ssr.ccp.xcal.tv
