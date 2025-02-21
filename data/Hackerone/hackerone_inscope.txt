@@ -568,10 +568,8 @@ artifactory.corp.mongodb.com
 mongodb.live
 *.deribit.com
 insights.deribit.com
-metrics.deribit.com
 pb.deribit.com
 test.deribit.com
-tools.deribit.com
 api.sorare.com
 sorare.com
 ws.sorare.com

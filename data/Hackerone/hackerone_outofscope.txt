@@ -226,7 +226,7 @@ auth.mongodb.com
 *.chattest.deribit.com
 deribit.zendesk.com
 office.deribit.com
-veriscope.deribit.com
+trust.deribit.com
 activate.fidelity.com
 activate1.fidelity.com
 alertmanagerams.streetscape.com

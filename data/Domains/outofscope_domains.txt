@@ -292,11 +292,7 @@ ecwid.com
 community.li.me
 help.li.me
 li.me
-filestack.com
-freshdesk.com
-blstr.xyz
-blstr.co
-community.linktr.ee
+americangirlmena.com
 moneytree.jp
 getmoneytree.com
 tripactions.com
@@ -696,7 +692,7 @@ mongodb.com
 auth.mongodb.com
 deribit.zendesk.com
 office.deribit.com
-veriscope.deribit.com
+trust.deribit.com
 activate.fidelity.com
 activate1.fidelity.com
 alertmanagerams.streetscape.com
