@@ -15,6 +15,7 @@ dealer.prod.ps.axelspringer.de
 *.bz-berlin.de
 *.spring-media.de
 *.springtools.de
+editorial.one
 *.ein-herz-fuer-kinder.de
 *.fitbook.de
 *.myhomebook.de

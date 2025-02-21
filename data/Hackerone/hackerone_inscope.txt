@@ -1251,7 +1251,6 @@ kubernetes.io
 prow.k8s.io
 coinspot.com.au
 *.gocardless-cicd.io
-*.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
