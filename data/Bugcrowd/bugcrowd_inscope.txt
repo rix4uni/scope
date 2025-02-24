@@ -146,6 +146,12 @@ bitstamp.net
 *.bitstamp.net
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
+docs.bugcrowd.com
+bugcrowd.com
+tracker.bugcrowd.com
+api.bugcrowd.com
+identity.bugcrowd.com
+*.bugcrowd.com
 bullish.com
 investor.bullish.com
 simnext.bullish-test.com
@@ -414,6 +420,14 @@ apis.indeed.com
 *.indeed.net
 resume.com
 wowjobs.ca
+developers.intercom.com
+api.intercom.com
+api.intercom.io
+app.intercom.com
+*.intercomassets.com
+*.intercomcdn.com
+app.intercom.io
+intercom.com
 w2ab2i60y4.execute-api.us-east-1.amazonaws.com
 *.jora.com
 *.jora.xyz
