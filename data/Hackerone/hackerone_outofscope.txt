@@ -1362,7 +1362,6 @@ gs.com
 *.overrules.vennhypotheken.nl
 *.rocaton.com
 secure.rocaton.com
-rocaton.com
 *.scripts.vennhypotheken.nl
 *.subscriptions.gs.com
 10ksbv.eo.gs.com

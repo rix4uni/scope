@@ -2601,8 +2601,6 @@ goldmansachsindices.com
 marquee.gs.com
 research.gs.com
 fitvermogen.nl
-rocaton.com
-secure.rocaton.com
 api.yoti.com
 ccloud.yoti.com
 code.yoti.com

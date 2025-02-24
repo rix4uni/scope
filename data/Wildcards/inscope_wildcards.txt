@@ -744,7 +744,6 @@ sip.*.twilio.com
 *.nnip.com
 *.qaglobal-liquidity.gs.com
 *.vennhypotheken.nl
-*.rocaton.com
 *.3lateral.com
 *.amplitude-game.com
 *.artstation.com

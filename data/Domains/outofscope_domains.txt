@@ -1670,7 +1670,6 @@ training.elastic.co
 wiki.elastic.co
 gs.com
 secure.rocaton.com
-rocaton.com
 10ksbv.eo.gs.com
 18098.nextcapital.com
 billpay.goldman.com
