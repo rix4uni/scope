@@ -1,7 +1,1 @@
-web.bitpanda.com
-bitpanda.com
-api.bitpanda.com
-socket.bitpanda.com
-account.bitpanda.com
-blog.bitpanda.com
-pexels.com
+staging-app.bany.dev

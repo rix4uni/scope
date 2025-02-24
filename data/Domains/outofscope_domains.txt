@@ -508,6 +508,9 @@ tech.transferwise.com
 oauth.xfinity.com
 login.xfinity.com
 business.comcast.com
+app.ynab.com
+develop-app.ynab.com
+support.ynab.com
 docs.hemi.xyz
 news.hemi.xyz
 support.1password.com
