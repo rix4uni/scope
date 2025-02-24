@@ -26,7 +26,6 @@
 *.trustwalletapp.com
 *.binance.org
 *.coinmarketcap.com
-*.exchange.bitpanda.com
 *.appboy.com
 *.braze.eu
 *.braze.com
