@@ -1,5 +1,2 @@
-api.openai.com
-chat.openai.com
-openai.org
-openai.com
-platform.openai.com
+us.8x8.com
+cpaas-net.8x8.com

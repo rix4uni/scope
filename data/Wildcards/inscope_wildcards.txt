@@ -460,7 +460,6 @@ sip.*.twilio.com
 *.jitsi.net
 *.p8t.us
 *.wavecell.com
-*.cpaas-net.8x8.com
 *.packet8.net
 *.8x8.com
 *.drogas.lv

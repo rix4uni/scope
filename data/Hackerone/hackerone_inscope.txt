@@ -883,7 +883,8 @@ sms.8x8.com
 chatapps.8x8.com
 8x8.uk
 8x8.id
-*.cpaas-net.8x8.com
+us.8x8.com
+cpaas-net.8x8.com
 partnerxchange.8x8.com
 8x8.my.site.com
 8x8.force.com
