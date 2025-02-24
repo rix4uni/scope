@@ -349,6 +349,7 @@ keepersecurity.com
 microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
+kohls.com
 kucoin.com
 lastpass.com
 support.lastpass.com
@@ -489,13 +490,6 @@ researchmgt.monash.edu
 move.monash.edu
 mix-qat.monash.edu
 mix-dev.monash.edu
--staging.moneytree.jp
-vault-staging.getmoneytree.com
-redash-staging.getmoneytree.com
-app-staging.getmoneytree.com
-myaccount-staging.getmoneytree.com
-jp-api-staging.getmoneytree.com
-business-staging.getmoneytree.com
 staging-prime.navan.com
 secure.neogov.com
 login.neogov.com
