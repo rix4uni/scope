@@ -502,7 +502,6 @@ keepersecurity.com
 microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
-kohls.com
 kucoin.com
 lastpass.com
 support.lastpass.com
@@ -1032,6 +1031,12 @@ tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
 docs.tempus-ex.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 thefork.com
 m.thefork.com
 blog.thefork.com
