@@ -26,7 +26,6 @@ portalapi.*.afterpay.com
 *.bitdefender.com
 *.bitgo.com
 *.bitstamp.net
-*.bugcrowd.com
 *.canva.com
 *.canva-apps.com
 *.canva.tech
@@ -115,8 +114,6 @@ casino.*.betmgm.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
-*.intercomassets.com
-*.intercomcdn.com
 *.jora.com
 *.jora.xyz
 *.scoober.com
