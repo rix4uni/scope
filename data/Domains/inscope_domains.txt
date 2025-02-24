@@ -109,6 +109,12 @@ bitdefender.com
 bitgo.com
 app.bitgo.com
 app.bitgo-test.com
+web.bitpanda.com
+bitpanda.com
+api.bitpanda.com
+socket.bitpanda.com
+account.bitpanda.com
+blog.bitpanda.com
 bitstamp.net
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
@@ -613,6 +619,7 @@ ssu.myconnect.com.au
 hub.myconnect.com.au
 dashboard.pantheon.io
 devstaging.pcapcloud.com
+pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 pixabay.com

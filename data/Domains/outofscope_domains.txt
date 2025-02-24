@@ -98,6 +98,13 @@ crp.bitdefender.com
 telcosuccess.bitdefender.com
 demo.bitdefender.com
 central.bitdefender.com
+support.bitpanda.com
+maintenance.bitpanda.com
+beta.bitpanda.com
+developers.bitpanda.com
+partners.whitelabel.bitpanda.com
+status.bitpanda.com
+requests.bitpanda.com
 perps-test.bitstamp.net
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
