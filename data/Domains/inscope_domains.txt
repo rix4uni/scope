@@ -490,6 +490,13 @@ researchmgt.monash.edu
 move.monash.edu
 mix-qat.monash.edu
 mix-dev.monash.edu
+-staging.moneytree.jp
+vault-staging.getmoneytree.com
+redash-staging.getmoneytree.com
+app-staging.getmoneytree.com
+myaccount-staging.getmoneytree.com
+jp-api-staging.getmoneytree.com
+business-staging.getmoneytree.com
 staging-prime.navan.com
 secure.neogov.com
 login.neogov.com
@@ -3463,6 +3470,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 aweb.suivo.com
 asupport.suivo.com
 tempo-team.be

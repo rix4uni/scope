@@ -1,1 +1,14 @@
-kohls.com
+-staging.moneytree.jp
+vault-staging.getmoneytree.com
+redash-staging.getmoneytree.com
+app-staging.getmoneytree.com
+myaccount-staging.getmoneytree.com
+jp-api-staging.getmoneytree.com
+business-staging.getmoneytree.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
