@@ -92,6 +92,7 @@ console.circle.com
 *.varonis.io
 *.varonis.net
 portal.playground.klarna.com
+app.klarna.com
 rust-lang.org
 core-rs-albatross.git
 readme.md

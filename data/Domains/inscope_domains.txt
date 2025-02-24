@@ -1028,6 +1028,7 @@ app.circle.com
 app-sandbox.circle.com
 console.circle.com
 portal.playground.klarna.com
+app.klarna.com
 rust-lang.org
 core-rs-albatross.git
 readme.md
