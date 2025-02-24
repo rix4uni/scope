@@ -1672,8 +1672,15 @@ gs.com
 secure.rocaton.com
 10ksbv.eo.gs.com
 18098.nextcapital.com
-billpay.goldman.com
+ui.appointments.ayco.com
+developer.xs2a.goldman.com
+clientevents.gs.com
+goldman-sachs.ch
+goldman-sachs.it
+goldmansachs.tal.net
+gswarrants.com.hk
 blackinbusiness.gs.com
+billpay.goldman.com
 deb.nextcapital.com
 email.nextcapital.com
 gset.gs.com
