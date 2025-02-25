@@ -146,12 +146,6 @@ bitstamp.net
 *.bitstamp.net
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
-docs.bugcrowd.com
-bugcrowd.com
-tracker.bugcrowd.com
-api.bugcrowd.com
-identity.bugcrowd.com
-*.bugcrowd.com
 bullish.com
 investor.bullish.com
 simnext.bullish-test.com
@@ -503,6 +497,7 @@ microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
+kucoin.com
 lastpass.com
 support.lastpass.com
 blog.lastpass.com

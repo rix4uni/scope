@@ -30,7 +30,6 @@
 *.appboy.com
 *.braze.eu
 *.braze.com
-*.freshdesk.com
 *.bullish.com
 *.cisco.com
 *.hfc.comcastbusiness.net
@@ -57,6 +56,8 @@ hsd1.*.comcast.net
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
+*-sdb.kucoin.com
+*-sandbox.kucoin.com
 auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
@@ -64,6 +65,7 @@ auth.*.latitudefinancial.com
 *.limeinternal.com
 *.lime.bike
 *.filestack.com
+*.freshdesk.com
 *.blstr.xyz
 *.blstr.co
 *nuinternational.com
