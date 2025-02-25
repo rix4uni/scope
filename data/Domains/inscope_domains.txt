@@ -106,6 +106,9 @@ coinmarketcap.com
 binance.us
 binance.tr
 bitdefender.com
+bitgo.com
+app.bitgo.com
+app.bitgo-test.com
 web.bitpanda.com
 bitpanda.com
 api.bitpanda.com
@@ -164,7 +167,6 @@ cyberghost.app
 addons.mozilla.org
 chrome.google.com
 polymoon.it
-console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
 api.dropboxapi.com
@@ -912,6 +914,14 @@ vlapi.usaa.com
 webmail.usaa.com
 ws.usaa.com
 wsmbr.usaa.com
+epptool-ctld.verisign-grs.com
+a.root-servers.net
+j.root-servers.net
+verisign.com
+youcouldbe.com
+blog.verisign.com
+namestudioforsocial.com
+namestudio.com
 supplier.viator.com
 viatorapi.viator.com
 toursgds.com
