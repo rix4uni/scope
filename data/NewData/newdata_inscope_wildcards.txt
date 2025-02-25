@@ -1,3 +1,2 @@
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
+*.binance.com
+*.binance.us
