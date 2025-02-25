@@ -260,6 +260,13 @@ mykohls.kohls.com
 kconnect.kohls.com
 connection.kohls.com
 kohlsmerch.kohls.com
+support.kucoin.plus
+store.kucoin.com
+docs.kucoin.com
+intro.kucoin.com
+cert.kucoin.com
+sandbox.kucoin.com
+passport.kucoin.com
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
