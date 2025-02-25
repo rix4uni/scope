@@ -1,2 +1,1 @@
-*.binance.com
-*.binance.us
+*.pexels.com
