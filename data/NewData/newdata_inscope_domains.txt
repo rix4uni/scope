@@ -1,11 +1,1 @@
-bitgo.com
-app.bitgo.com
-app.bitgo-test.com
-epptool-ctld.verisign-grs.com
-a.root-servers.net
-j.root-servers.net
-verisign.com
-youcouldbe.com
-blog.verisign.com
-namestudioforsocial.com
-namestudio.com
+console.delltechnologies.com

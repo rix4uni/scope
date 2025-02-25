@@ -1,7 +1,2 @@
-*.bitgo.com
-*.gtld-servers.net
-*.youcouldbe.com
-*.namestudioforsocial.com
-*.namestudio.com
-*.verisign.com
-*.verisign-grs.com
+*.dell.com
+*.delltechnologies.com
