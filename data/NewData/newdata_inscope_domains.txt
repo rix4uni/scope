@@ -1,1 +1,4 @@
-kucoin.com
+opensea.io
+pro.opensea.io
+wallets.opensea.io
+io.opensea
