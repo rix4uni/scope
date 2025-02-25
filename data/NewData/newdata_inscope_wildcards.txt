@@ -1,3 +1,2 @@
-*.bugcrowd.com
 *.intercomassets.com
 *.intercomcdn.com
