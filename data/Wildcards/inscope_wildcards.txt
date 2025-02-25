@@ -24,7 +24,6 @@ portalapi.*.afterpay.com
 *.binance.us
 *.bitdefender.net
 *.bitdefender.com
-*.bitgo.com
 *.bitstamp.net
 *.bugcrowd.com
 *.canva.com
@@ -286,12 +285,6 @@ np.*.lfscnp.com
 sip.*.twilio.com
 *.twilio.com
 *.api.ua.com
-*.gtld-servers.net
-*.youcouldbe.com
-*.namestudioforsocial.com
-*.namestudio.com
-*.verisign.com
-*.verisign-grs.com
 *.viatorinc.com
 *.viator.com
 *.transferwise.com
