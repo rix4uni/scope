@@ -960,6 +960,8 @@ csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
 bc.yieldstreet.net
 staging-app.bany.dev
+api.prod.whoop.com
+support.whoop.com
 community.coloros.com
 finzfin.com
 finzjr.com

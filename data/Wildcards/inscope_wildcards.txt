@@ -303,6 +303,7 @@ sip.*.twilio.com
 *.codebig2.net
 *.cloud.comcast.net
 *.xfinityhome.com
+*.whoop.com
 *.coloros.com
 *.myoas.com
 *.myoas.net

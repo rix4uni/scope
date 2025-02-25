@@ -1,3 +1,6 @@
+*.whoop.com
+api.prod.whoop.com
+support.whoop.com
 *.coloros.com
 *.myoas.com
 *.myoas.net
