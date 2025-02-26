@@ -1,9 +1,1 @@
-arlo-device.messaging.netgear.com
-beta.arlo.com
-community.arlo.com
-downloads.arlo.com
-mcs.arlo.com
-my.arlo.com
-myapi.arlo.com
-arlo.com
-updates.arlo.com
+staging-app.bany.dev
