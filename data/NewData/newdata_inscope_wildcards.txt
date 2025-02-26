@@ -1,1 +1,2 @@
-*.pexels.com
+*.viatorinc.com
+*.viator.com
