@@ -121,9 +121,6 @@ auth.*.latitudefinancial.com
 *.iagentur.ch
 *.streamboat.ch
 *.streamboatserver.ch
-*.rc.viator.com
-*.sandbox.viator.com
-*.partner.viator.com
 *.web.com
 *.register.com
 *.networksolutions.com
