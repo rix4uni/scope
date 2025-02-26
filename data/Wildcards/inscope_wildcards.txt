@@ -1,9 +1,6 @@
 *.acorns.com
 *.afterpay.com
 portalapi.*.afterpay.com
-*.arlo.com
-*.arloxcld.com
-*-prod.arlo.com
 *.central.arubanetworks.com
 *.asana.plus
 *.asana.biz
@@ -275,6 +272,7 @@ np.*.lfscnp.com
 *.tidalhifi.com
 *tidalhi.fi
 *.tdl.sh
+*.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
 *.flipkey.com
