@@ -1068,9 +1068,6 @@ api.tidal.com
 *tidalhi.fi
 *.tdl.sh
 offer.tidal.com
-api.trello.com
-*.trello.services
-butlerfortrello.com
 api.production.cde.tamg.cloud
 partnerapi.tapayments.com
 partnerapi1.tapayments.com
@@ -1217,6 +1214,17 @@ namestudio.com
 *.namestudio.com
 *.verisign.com
 *.verisign-grs.com
+supplier.viator.com
+viatorapi.viator.com
+toursgds.com
+partners.viator.com
+travelagents.viator.com
+help.supplier.viator.com
+kiwi.partner.viator.com
+*.viatorinc.com
+selector.viator.com
+partnerhelp.viator.com
+*.viator.com
 uae.voxcinemas.com
 skidxb.com
 magicplanetmena.com

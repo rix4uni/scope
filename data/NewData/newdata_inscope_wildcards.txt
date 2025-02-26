@@ -1,3 +1,2 @@
-*.arlo.com
-*.arloxcld.com
-*-prod.arlo.com
+*.viatorinc.com
+*.viator.com
