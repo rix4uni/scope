@@ -437,9 +437,6 @@ blog.thousandeyes.com
 app.thousandeyes.com
 developer.tidal.com
 embed.tidal.com
-e.trello.com
-help.trello.com
-trello-attachments.s3.amazonaws.com
 ir.tripadvisor.com
 spotlight-dev.tripadvisor.com
 spotlight.tripadvisor

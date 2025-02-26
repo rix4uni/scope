@@ -25,6 +25,15 @@ ampolenergy.com.au
 my.ampol.com.au
 carbonneutral.ampol.com.au
 cards.ampol.com.au
+arlo-device.messaging.netgear.com
+beta.arlo.com
+community.arlo.com
+downloads.arlo.com
+mcs.arlo.com
+my.arlo.com
+myapi.arlo.com
+arlo.com
+updates.arlo.com
 arubanetworks.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
@@ -782,8 +791,6 @@ thousandeyes.com
 tidal.com
 api.tidal.com
 offer.tidal.com
-api.trello.com
-butlerfortrello.com
 api.production.cde.tamg.cloud
 partnerapi.tapayments.com
 partnerapi1.tapayments.com
