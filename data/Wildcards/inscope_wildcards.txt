@@ -292,8 +292,6 @@ sip.*.twilio.com
 *.namestudio.com
 *.verisign.com
 *.verisign-grs.com
-*.viatorinc.com
-*.viator.com
 *.transferwise.com
 *.wise.com
 *signalservice.comcast.net
