@@ -168,6 +168,7 @@ cyberghost.app
 addons.mozilla.org
 chrome.google.com
 polymoon.it
+console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
 api.dropboxapi.com
