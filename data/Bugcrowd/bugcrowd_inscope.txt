@@ -217,6 +217,9 @@ cyberghost.app
 addons.mozilla.org
 chrome.google.com
 polymoon.it
+*.dell.com
+*.delltechnologies.com
+console.delltechnologies.com
 app.sandbox.directly.com
 *.sandbox.directly.com
 sandbox.directly.com

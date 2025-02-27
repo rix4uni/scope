@@ -1,2 +1,2 @@
-*.binance.com
-*.binance.us
+*.dell.com
+*.delltechnologies.com
