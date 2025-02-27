@@ -95,16 +95,6 @@ barracuda.com
 mybigcommerce.com
 bigcommerce.com
 login.bigcommerce.com
-api.coinmarketcap.com
-pro-api.coinmarketcap.com
-binance.com
-api.binance.com
-pro.coinmarketcap.com
-portal-api.coinmarketcap.com
-coinmarketcap.com
-3rdparty-apis.coinmarketcap.com
-binance.us
-binance.tr
 bitdefender.com
 bitgo.com
 app.bitgo.com
