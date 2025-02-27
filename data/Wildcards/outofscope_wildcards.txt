@@ -59,10 +59,6 @@ hsd1.*.comcast.net
 *.kohls.com
 *-sdb.kucoin.com
 *-sandbox.kucoin.com
-auth.*.latitudefinancial.com
-*.latitudefs.com
-*.my.latitudepay.com
-*.sg.latitudepay.com
 *.limeinternal.com
 *.lime.bike
 *.filestack.com
@@ -100,6 +96,7 @@ auth.*.latitudefinancial.com
 *.tidal.com
 *.atlassian.com
 *.sprint.net
+*.engage.tesla.com
 *.tripadviser.at
 *.tripadvisor.cn
 *.bokun.io
