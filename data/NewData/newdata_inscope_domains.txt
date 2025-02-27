@@ -1,1 +1,2 @@
-console.delltechnologies.com
+meraki.cisco.com
+apps.meraki.io

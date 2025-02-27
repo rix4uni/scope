@@ -173,6 +173,11 @@ foreignaffairs.com
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
+*.meraki.com
+*.ikarem.io
+*.network-auth.com
+meraki.cisco.com
+apps.meraki.io
 api.classdojo.com
 teach.classdojo.com
 student.classdojo.com

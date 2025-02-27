@@ -1,2 +1,3 @@
-*.dell.com
-*.delltechnologies.com
+*.meraki.com
+*.ikarem.io
+*.network-auth.com
