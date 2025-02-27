@@ -32,7 +32,6 @@
 *.braze.com
 *.freshdesk.com
 *.bullish.com
-*.cisco.com
 *.hfc.comcastbusiness.net
 hsd1.*.comcast.net
 *business.comcast.com
