@@ -13,6 +13,7 @@ portalapi.*.afterpay.com
 *.atlassian.net
 *.atlastunnel.com
 *.cic-bug-bounty.auth0app.com
+*.tube8.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
@@ -262,12 +263,6 @@ np.*.lfscnp.com
 *.t-mobile.com
 *.metrobyt-mobile.com
 *.sprint.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.tidal.com
 *.wimpmusic.com

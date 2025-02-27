@@ -11,6 +11,17 @@
 *.integrations.asana.plus
 *.bitbucket.io
 *.australiansuper.com
+*.pornhub.com
+*.pronstore.com
+*.redtube.com
+*.redtubepremium.com
+*.pornhubpremium.com
+*.youporn.com
+*.youpornpremium.com
+*.pornmd.com
+*.thumbzilla.com
+*.pornhubapparel.com
+*.pornhub.org
 *.trustwallet.com
 *.trustwalletapp.com
 *.binance.org
@@ -89,7 +100,6 @@ auth.*.latitudefinancial.com
 *.tidal.com
 *.atlassian.com
 *.sprint.net
-*.engage.tesla.com
 *.tripadviser.at
 *.tripadvisor.cn
 *.bokun.io
