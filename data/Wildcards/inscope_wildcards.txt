@@ -8,10 +8,6 @@ portalapi.*.afterpay.com
 *.asana.plus
 *.asana.biz
 *.app.asana.com
-*.atlassian.com
-*.atl-paas.net
-*.atlassian.net
-*.atlastunnel.com
 *.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
@@ -223,7 +219,6 @@ np.*.lfscnp.com
 *.download.originenergy.com.au
 *.pexels.com
 *.pinterest.com
-*.pixabay.com
 *.points.com
 *.privateinternetaccess.com
 *.quizlet.com
