@@ -1,5 +1,6 @@
 docs.hemi.xyz
 news.hemi.xyz
+okta.whoop.com
 *.agilebits.com
 support.1password.com
 1password.com

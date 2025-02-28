@@ -214,7 +214,6 @@ support.epam.com
 customersupport.epam.com
 supportnow.epam.com
 anywhere.epam.com
-icht.etsysecure.com
 exoscale.com
 community.exoscale.com
 academy.exoscale.com
@@ -520,20 +519,6 @@ itunes.apple.com
 *.atlassian.com
 *.sprint.net
 techapps.t-mobile.com
-employeefeedback.tesla.com
-energysupport.tesla.com
-bugbounty.zoho.com
-engage.tesla.com
-*.engage.tesla.com
-feedback.tesla.com
-feedback.teslamotors.com
-ir.tesla.com
-ir.teslamotors.com
-mkto.teslamotors.com
-shop.eu.teslamotors.com
-service.tesla.com
-service.tesla.cn
-maxwell.com
 module.thefork.com
 lafourchette.com
 blog.thousandeyes.com
@@ -658,5 +643,5 @@ business.comcast.com
 *.adnxs.com
 *.fwmrm.net
 app.ynab.com
-develop-app.ynab.com
 support.ynab.com
+develop-app.ynab.com

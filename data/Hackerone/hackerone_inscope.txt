@@ -1,6 +1,5 @@
 *.whoop.com
 api.prod.whoop.com
-support.whoop.com
 *.coloros.com
 *.myoas.com
 *.myoas.net
@@ -52,6 +51,8 @@ enroll.onduo.com
 *.signalpath.com
 *.verily.com
 helix.verily.com
+console-stage.neon.build
+console.neon.tech
 bumba.global
 cart.starbucks.co.jp
 gift.starbucks.co.jp

@@ -1,2 +1,15 @@
-meraki.cisco.com
-apps.meraki.io
+staging-api.ynab.com
+ynab.com
+console-stage.neon.build
+console.neon.tech
+api.portal.enterprise.uphold.com
+app.sandbox.topperpay.com
+portal.enterprise.uphold.com
+docs.api.enterprise.uphold.com
+docs.topperpay.com
+docs.uphold.com
+status.uphold.com
+support-sandbox.uphold.com
+support-staging.topperpay.com
+topperpay.com
+uphodl.com

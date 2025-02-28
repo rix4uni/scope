@@ -268,8 +268,8 @@ partycasino.com
 bwin.com
 media.itsfogo.com
 galacasino.com
-epam.com
 *.epam.com
+epam.com
 projects.epam.com
 *.projects.epam.com
 lab.epam.com
@@ -283,13 +283,6 @@ opensource.epam.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
-etsy.com
-etsypayments.com
-blog.etsy.com
-careers.etsy.com
-help.etsy.com
-community.etsy.com
-*.etsy.com
 sks-ch-gva-2.exo.io
 portal.exoscale.com
 api-ch-gva-2.exoscale.com
@@ -1041,12 +1034,6 @@ tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
 docs.tempus-ex.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 thefork.com
 m.thefork.com
 blog.thefork.com
@@ -1266,3 +1253,5 @@ aiq-prod.codebig2.net
 *.xfinityhome.com
 bc.yieldstreet.net
 staging-app.bany.dev
+staging-api.ynab.com
+ynab.com
