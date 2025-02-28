@@ -143,13 +143,6 @@ bullish.com
 investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
-canva.com
-api.canva.com
-*.canva.com
-*.canva-apps.com
-*.canva.tech
-*.canva.cn
-*.canva-apps.cn
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
@@ -835,6 +828,8 @@ pexels.com
 api.pinterest.com
 *.pinterest.com
 microsoftedge.microsoft.com
+pixabay.com
+*.pixabay.com
 my.planethoster.com
 api.planethoster.net
 world.planethoster.net
