@@ -1,6 +1,2 @@
-etsy.com
-etsypayments.com
-blog.etsy.com
-careers.etsy.com
-help.etsy.com
-community.etsy.com
+canva.com
+api.canva.com

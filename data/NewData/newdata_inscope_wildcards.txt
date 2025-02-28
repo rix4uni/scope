@@ -1,7 +1,5 @@
-*.etsy.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn

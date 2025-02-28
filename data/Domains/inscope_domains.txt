@@ -46,16 +46,7 @@ devhub.arubanetworks.com
 app.asana.com
 asana.com
 form.asana.com
-admin.atlassian.com
-id.atlassian.com
-start.atlassian.com
-bitbucket.org
-atlassian.com
-atlassian.net
 marketplace.atlassian.com
-confluence.atlassian.com
-sourcetreeapp.com
-npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
@@ -127,6 +118,8 @@ bullish.com
 investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
+canva.com
+api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
@@ -621,7 +614,6 @@ devstaging.pcapcloud.com
 pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
-pixabay.com
 my.planethoster.com
 api.planethoster.net
 world.planethoster.net
@@ -1071,6 +1063,7 @@ apps.microsoft.com
 portal.3cx.com
 auth.privy.io
 dashboard.privy.io
+npmjs.com
 netflix.com
 beacon.netflix.com
 customerevents.netflix.com
