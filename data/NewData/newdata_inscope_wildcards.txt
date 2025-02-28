@@ -1,2 +1,4 @@
-sip.*.twilio.com
-*.twilio.com
+*.atlassian.com
+*.atl-paas.net
+*.atlassian.net
+*.atlastunnel.com
