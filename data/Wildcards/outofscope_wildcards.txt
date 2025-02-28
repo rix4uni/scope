@@ -9,6 +9,7 @@
 *.isb.arubanetworks.com
 *.arubademo.net
 *.integrations.asana.plus
+*.bitbucket.io
 *.australiansuper.com
 *.pornhub.com
 *.pronstore.com

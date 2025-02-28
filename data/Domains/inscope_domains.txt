@@ -46,7 +46,16 @@ devhub.arubanetworks.com
 app.asana.com
 asana.com
 form.asana.com
+admin.atlassian.com
+id.atlassian.com
+start.atlassian.com
+bitbucket.org
+atlassian.com
+atlassian.net
 marketplace.atlassian.com
+confluence.atlassian.com
+sourcetreeapp.com
+npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
@@ -366,12 +375,6 @@ images.latitudepayapps.com
 app.latitudepayapps.com
 manager.trial.lsk.lightspeed.app
 hq.breadcrumb.com
-secure.vendhq.com
-developers.vendhq.com
-payment-connectors.vendhq.com
-vendhq.com
-store.retail.lightspeed.app
-app.ecwid.com
 proxy-production.lime.bike
 web-message.lime.bike
 web-message-high.lime.bike
@@ -1063,7 +1066,6 @@ apps.microsoft.com
 portal.3cx.com
 auth.privy.io
 dashboard.privy.io
-npmjs.com
 netflix.com
 beacon.netflix.com
 customerevents.netflix.com

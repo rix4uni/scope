@@ -34,6 +34,13 @@ csaf.arubanetworks.com
 asana.com
 asana.okta.com
 assets.asana.biz
+bugcrowd.com
+shop.atlassian.com
+bytebucket.org
+blog.bitbucket.org
+support.atlassian.com
+atlassian.net
+jira.com
 marketplace.atlassian.com
 trello.com
 blog.aurory.io
@@ -99,7 +106,6 @@ partners.whitelabel.bitpanda.com
 status.bitpanda.com
 requests.bitpanda.com
 perps-test.bitstamp.net
-bugcrowd.com
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
 pages.bugcrowd.com
@@ -274,15 +280,6 @@ payments.latitudefinancial.com
 payments-api.latitudefinancial.com
 lightspeedhq.com
 pos-admin.trial.lsk.lightspeed.app
-x-series-support.lightspeedhq.com
-vendhq.force.com
-vendimageuploadcdn.global.ssl.fastly.net
-partners.vendhq.com
-track.api.vendhq.com
-your-store.vendecommerce.com
-partnerportal.vendhq.com
-support.ecwid.com
-ecwid.com
 community.li.me
 help.li.me
 li.me
