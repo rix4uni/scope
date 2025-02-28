@@ -1,1 +1,9 @@
-*.pixabay.com
+*.atlassian.com
+*.atl-paas.net
+*.atlassian.net
+*.atlastunnel.com
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn

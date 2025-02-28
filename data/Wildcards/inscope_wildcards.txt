@@ -8,6 +8,10 @@ portalapi.*.afterpay.com
 *.asana.plus
 *.asana.biz
 *.app.asana.com
+*.atlassian.com
+*.atl-paas.net
+*.atlassian.net
+*.atlastunnel.com
 *.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
@@ -23,6 +27,11 @@ portalapi.*.afterpay.com
 *.bitgo.com
 *.bitstamp.net
 *.bugcrowd.com
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn
 *.cash.app
 *.cashstaging.app
 *.meraki.com
@@ -214,7 +223,6 @@ np.*.lfscnp.com
 *.download.originenergy.com.au
 *.pexels.com
 *.pinterest.com
-*.pixabay.com
 *.points.com
 *.privateinternetaccess.com
 *.quizlet.com
