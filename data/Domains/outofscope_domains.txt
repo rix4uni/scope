@@ -34,13 +34,6 @@ csaf.arubanetworks.com
 asana.com
 asana.okta.com
 assets.asana.biz
-bugcrowd.com
-shop.atlassian.com
-bytebucket.org
-blog.bitbucket.org
-support.atlassian.com
-atlassian.net
-jira.com
 marketplace.atlassian.com
 trello.com
 blog.aurory.io
@@ -106,6 +99,7 @@ partners.whitelabel.bitpanda.com
 status.bitpanda.com
 requests.bitpanda.com
 perps-test.bitstamp.net
+bugcrowd.com
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
 pages.bugcrowd.com
