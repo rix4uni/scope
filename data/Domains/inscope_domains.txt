@@ -14,11 +14,6 @@ portal.clearpay.co.uk
 mobileapi.clearpay.com
 portalapi.eu.clearpay.co.uk
 api.clearpay.com
-aiven.io
-console.aiven.io
-api.aiven.io
-github.com
-falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 ampol.com.au
 ampcharge.ampol.com.au
 ampolenergy.com.au
@@ -69,6 +64,7 @@ apis-v5.australiansuper.com
 config.cic-bug-bounty.auth0app.com
 manage.cic-bug-bounty.auth0app.com
 marketplace.auth0.com
+github.com
 auth0.net
 dashboard.fga.dev
 api.us1.fga.dev
