@@ -1,3 +1,7 @@
-*.optimuscards.com
-*.topperpay.com
-*.uphodl.com
+*.etsy.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com

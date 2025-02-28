@@ -71,6 +71,7 @@ casino.*.betmgm.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
+*.etsy.com
 *.internal.exoscale.ch
 *.expressvpn.com
 *.xvtest.net
@@ -262,6 +263,12 @@ np.*.lfscnp.com
 *.t-mobile.com
 *.metrobyt-mobile.com
 *.sprint.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.tidal.com
 *.wimpmusic.com
