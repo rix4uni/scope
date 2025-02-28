@@ -8,6 +8,10 @@ portalapi.*.afterpay.com
 *.asana.plus
 *.asana.biz
 *.app.asana.com
+*.atlassian.com
+*.atl-paas.net
+*.atlassian.net
+*.atlastunnel.com
 *.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
@@ -279,8 +283,6 @@ np.*.lfscnp.com
 *.housetrip.com
 *.bokundemo.com
 *.bokuntest.com
-sip.*.twilio.com
-*.twilio.com
 *.api.ua.com
 *.gtld-servers.net
 *.youcouldbe.com

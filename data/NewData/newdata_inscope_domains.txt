@@ -6,7 +6,3 @@ atlassian.com
 atlassian.net
 confluence.atlassian.com
 sourcetreeapp.com
-epam.com
-projects.epam.com
-lab.epam.com
-opensource.epam.com
