@@ -56,17 +56,6 @@ portalapi.*.afterpay.com
 *.dropboxpartners.com
 *.reclaim.ai
 casino.*.betmgm.com
-*.epam.com
-*.projects.epam.com
-*.lab.epam.com
-*.opensource.epam.com
-*.emakina.nl
-*.emakina.group
-*.emakina.com
-*.emakina.ch
-*.emakina.fr
-*.emakina.us
-*.emakina.at
 *.etsy.com
 *.internal.exoscale.ch
 *.expressvpn.com
@@ -219,6 +208,7 @@ np.*.lfscnp.com
 *.download.originenergy.com.au
 *.pexels.com
 *.pinterest.com
+*.pixabay.com
 *.points.com
 *.privateinternetaccess.com
 *.quizlet.com
