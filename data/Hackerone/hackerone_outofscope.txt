@@ -1130,10 +1130,6 @@ life.instacart.com
 news.instacart.com
 tech.instacart.com
 phpbb.com
-developers.fortmatic.com
-docs.fortmatic.com
-email.fortmatic.com
-static.fortmatic.com
 china.airasiago.com
 thailand.airasiago.com
 expediapartnersolutions.com

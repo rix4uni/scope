@@ -17,6 +17,11 @@ portal.clearpay.co.uk
 mobileapi.clearpay.com
 portalapi.eu.clearpay.co.uk
 api.clearpay.com
+aiven.io
+console.aiven.io
+api.aiven.io
+github.com
+falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 ampol.com.au
 ampcharge.ampol.com.au
 ampolenergy.com.au
@@ -79,7 +84,6 @@ config.cic-bug-bounty.auth0app.com
 manage.cic-bug-bounty.auth0app.com
 *.cic-bug-bounty.auth0app.com
 marketplace.auth0.com
-github.com
 auth0.net
 dashboard.fga.dev
 api.us1.fga.dev
@@ -152,13 +156,6 @@ bullish.com
 investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
-canva.com
-api.canva.com
-*.canva.com
-*.canva-apps.com
-*.canva.tech
-*.canva.cn
-*.canva-apps.cn
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com

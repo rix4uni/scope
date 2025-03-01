@@ -14,6 +14,11 @@ portal.clearpay.co.uk
 mobileapi.clearpay.com
 portalapi.eu.clearpay.co.uk
 api.clearpay.com
+aiven.io
+console.aiven.io
+api.aiven.io
+github.com
+falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 ampol.com.au
 ampcharge.ampol.com.au
 ampolenergy.com.au
@@ -64,7 +69,6 @@ apis-v5.australiansuper.com
 config.cic-bug-bounty.auth0app.com
 manage.cic-bug-bounty.auth0app.com
 marketplace.auth0.com
-github.com
 auth0.net
 dashboard.fga.dev
 api.us1.fga.dev
@@ -123,8 +127,6 @@ bullish.com
 investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
-canva.com
-api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
@@ -2134,17 +2136,11 @@ shoppers.instacart.com
 admin.instacart.com
 api.instacart.com
 instacart.com
-fortmatic.com
-magic.link
-drive.google.com
 api.fortmatic.com
-x2.fortmatic.com
 api.magic.link
-dashboard.magic.link
 auth.magic.link
 docs.magic.link
-go.magic.link
-dashboard.fortmatic.com
+dashboard.magic.link
 portal.magicnewton.com
 dbmanalytics.carrentals.com
 faq-lab.cheaptickets.com

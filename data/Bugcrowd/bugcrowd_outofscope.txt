@@ -4,6 +4,18 @@ store.acorns.com
 afterpaytechblog.com
 genderfree.afterpay.com
 moneybyafterpay.com
+aquarium.aiven.io
+uptime.aiven.io
+video.aiven.io
+aiven.io
+*.aiven.fi
+github.com
+*.avns.net
+events.aiven.io
+ideas.aiven.io
+aivenhelp.zendesk.com
+support.aiven.io
+regatta.aiven.io
 *.dieboldnixdorf.com
 *.arubanetworks.com
 *.hpe.com
@@ -360,7 +372,6 @@ moneytree.jp
 getmoneytree.com
 tripactions.com
 status.newrelic.com
-github.com
 docs.newrelic.com
 iopipe.com
 northwesternmutual.com
