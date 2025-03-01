@@ -1,2 +1,2 @@
-docs.eazybi.com
-pixabay.com
+canva.com
+api.canva.com
