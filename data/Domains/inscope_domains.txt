@@ -177,7 +177,6 @@ dropboxpartners.com
 reclaim.ai
 dropbox.com
 app.reclaim.ai
-docs.eazybi.com
 my.electroneum.com
 electroneum.com
 api.electroneum.com
@@ -623,7 +622,6 @@ devstaging.pcapcloud.com
 pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
-pixabay.com
 my.planethoster.com
 api.planethoster.net
 world.planethoster.net
