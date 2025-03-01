@@ -1,2 +1,4 @@
-canva.com
-api.canva.com
+aiven.io
+console.aiven.io
+api.aiven.io
+falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com

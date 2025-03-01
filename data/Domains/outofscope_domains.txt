@@ -4,6 +4,16 @@ store.acorns.com
 afterpaytechblog.com
 genderfree.afterpay.com
 moneybyafterpay.com
+aquarium.aiven.io
+uptime.aiven.io
+video.aiven.io
+aiven.io
+github.com
+events.aiven.io
+ideas.aiven.io
+aivenhelp.zendesk.com
+support.aiven.io
+regatta.aiven.io
 outdoorplanner.arubanetworks.com
 asp-notifications.arubanetworks.com
 quickconnect.arubanetworks.com
@@ -24,13 +34,6 @@ csaf.arubanetworks.com
 asana.com
 asana.okta.com
 assets.asana.biz
-bugcrowd.com
-shop.atlassian.com
-bytebucket.org
-blog.bitbucket.org
-support.atlassian.com
-atlassian.net
-jira.com
 marketplace.atlassian.com
 trello.com
 blog.aurory.io
@@ -96,6 +99,7 @@ partners.whitelabel.bitpanda.com
 status.bitpanda.com
 requests.bitpanda.com
 perps-test.bitstamp.net
+bugcrowd.com
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
 pages.bugcrowd.com
@@ -292,7 +296,6 @@ moneytree.jp
 getmoneytree.com
 tripactions.com
 status.newrelic.com
-github.com
 docs.newrelic.com
 iopipe.com
 northwesternmutual.com

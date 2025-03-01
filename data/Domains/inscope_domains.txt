@@ -14,6 +14,11 @@ portal.clearpay.co.uk
 mobileapi.clearpay.com
 portalapi.eu.clearpay.co.uk
 api.clearpay.com
+aiven.io
+console.aiven.io
+api.aiven.io
+github.com
+falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 ampol.com.au
 ampcharge.ampol.com.au
 ampolenergy.com.au
@@ -41,16 +46,7 @@ devhub.arubanetworks.com
 app.asana.com
 asana.com
 form.asana.com
-admin.atlassian.com
-id.atlassian.com
-start.atlassian.com
-bitbucket.org
-atlassian.com
-atlassian.net
 marketplace.atlassian.com
-confluence.atlassian.com
-sourcetreeapp.com
-npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
@@ -64,7 +60,6 @@ apis-v5.australiansuper.com
 config.cic-bug-bounty.auth0app.com
 manage.cic-bug-bounty.auth0app.com
 marketplace.auth0.com
-github.com
 auth0.net
 dashboard.fga.dev
 api.us1.fga.dev
@@ -1069,6 +1064,7 @@ apps.microsoft.com
 portal.3cx.com
 auth.privy.io
 dashboard.privy.io
+npmjs.com
 netflix.com
 beacon.netflix.com
 customerevents.netflix.com
