@@ -1,5 +1,1 @@
-*.canva.com
-*.canva-apps.com
-*.canva.tech
-*.canva.cn
-*.canva-apps.cn
+*.acorns.com
