@@ -1,1 +1,2 @@
-*.acorns.com
+sip.*.twilio.com
+*.twilio.com

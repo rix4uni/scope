@@ -1,4 +1,13 @@
-acorns.com
-graphql.acorns.com
-gohenry.com
-pixpay.fr
+api.twilio.com
+tsock.us1.twilio.com
+twilio.com
+sendgrid.com
+app.sendgrid.com
+signup.sendgrid.com
+api.sendgrid.com
+mc.sendgrid.com
+smtp.sendgrid.net
+authy.com
+app.segment.com
+api.segment.io
+segment.com
