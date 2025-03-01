@@ -283,8 +283,6 @@ np.*.lfscnp.com
 *.housetrip.com
 *.bokundemo.com
 *.bokuntest.com
-sip.*.twilio.com
-*.twilio.com
 *.api.ua.com
 *.gtld-servers.net
 *.youcouldbe.com
