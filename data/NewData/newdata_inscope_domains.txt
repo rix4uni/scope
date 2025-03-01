@@ -1,1 +1,2 @@
-pixabay.com
+canva.com
+api.canva.com
