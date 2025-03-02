@@ -983,6 +983,10 @@ a370a9658141.gateway.skyflowapis-preview.com
 manage.skyflowapis-preview.com
 a370a9658141.vault.skyflowapis-preview.com
 californiatenant.skyflow-preview.com
+gateway.skyscanner.net
+skyscanner.net
+partnerportal.skyscanner.net
+*.skyscanner.net
 smartmockups.com
 *.smartmockups.com
 snapnames.com
