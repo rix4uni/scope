@@ -78,6 +78,9 @@ casino.*.betmgm.com
 *.xvservice.net
 *.financialforce.com
 *.certinia.com
+*.flourish.studio
+*.xyzbmojn.net
+*.kiln.it
 *-bugcrowd.foxycart.com
 *.hubspotemail.net
 *.hubspotpagebuilder.com
@@ -256,10 +259,6 @@ np.*.lfscnp.com
 *.square.com
 *.squareup.com
 *.statuspage.io
-*.api.t-mobile.com
-*.t-mobile.com
-*.metrobyt-mobile.com
-*.sprint.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
