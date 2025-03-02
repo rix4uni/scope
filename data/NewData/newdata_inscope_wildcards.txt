@@ -1,2 +1,2 @@
-sip.*.twilio.com
-*.twilio.com
+*.movilepay.com
+*.movilepay.com.br
