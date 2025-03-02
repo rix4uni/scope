@@ -99,7 +99,6 @@ auth.*.latitudefinancial.com
 *.cash.me
 *.tidal.com
 *.atlassian.com
-*.sprint.net
 *.engage.tesla.com
 *.tripadviser.at
 *.tripadvisor.cn
