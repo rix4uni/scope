@@ -1,3 +1,4 @@
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
+*.api.t-mobile.com
+*.t-mobile.com
+*.metrobyt-mobile.com
+*.sprint.com
