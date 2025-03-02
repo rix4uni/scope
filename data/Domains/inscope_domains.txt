@@ -720,6 +720,11 @@ public.thesecurityteam.rocks
 seekcdn.com
 graphql.seek.com
 auth.seek.com
+dashboard.sendbird.com
+gate.sendbird.com
+sendbird.com
+calls.sendbird.com
+notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 skroutz.gr
