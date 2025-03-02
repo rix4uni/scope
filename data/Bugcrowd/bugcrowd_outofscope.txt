@@ -125,7 +125,6 @@ ssems.gravityzone.bitdefender.com
 crp.bitdefender.com
 telcosuccess.bitdefender.com
 demo.bitdefender.com
-central.bitdefender.com
 support.bitpanda.com
 maintenance.bitpanda.com
 beta.bitpanda.com
@@ -359,6 +358,14 @@ help.li.me
 *.limeinternal.com
 *.lime.bike
 li.me
+filestack.com
+*.filestack.com
+freshdesk.com
+blstr.xyz
+*.blstr.xyz
+blstr.co
+*.blstr.co
+community.linktr.ee
 americangirlmena.com
 moneytree.jp
 getmoneytree.com
