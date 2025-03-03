@@ -97,6 +97,7 @@ ssems.gravityzone.bitdefender.com
 crp.bitdefender.com
 telcosuccess.bitdefender.com
 demo.bitdefender.com
+central.bitdefender.com
 support.bitpanda.com
 maintenance.bitpanda.com
 beta.bitpanda.com
