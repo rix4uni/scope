@@ -1,6 +1,6 @@
-join.whoop.com
 api.prod.whoop.com
 app.whoop.com
+join.whoop.com
 shop.whoop.com
 *.coloros.com
 *.myoas.com

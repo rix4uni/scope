@@ -1,3 +1,5 @@
-join.whoop.com
-app.whoop.com
-shop.whoop.com
+docker-staging.adstruc.com
+staging-trafficking.vistarmedia.com
+job-svc-b.vistarmedia.com
+docsite.vistarmedia.com
+sfleet.cortexpowered.com

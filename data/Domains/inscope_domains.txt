@@ -771,6 +771,11 @@ production-delivery-metrics-svc.vistarmedia.com
 maps.vistarmedia.com
 transcodes-cdn.vistarmedia.com
 assets-cdn.vistarmedia.com
+docker-staging.adstruc.com
+staging-trafficking.vistarmedia.com
+job-svc-b.vistarmedia.com
+docsite.vistarmedia.com
+sfleet.cortexpowered.com
 biocorellc.com
 tempus-ex.com
 infiniteathlete.ai
@@ -963,9 +968,9 @@ bc.yieldstreet.net
 staging-app.bany.dev
 staging-api.ynab.com
 ynab.com
-join.whoop.com
 api.prod.whoop.com
 app.whoop.com
+join.whoop.com
 shop.whoop.com
 community.coloros.com
 finzfin.com
