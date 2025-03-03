@@ -2620,9 +2620,6 @@ internal-ci.elastic.co
 kibana-ci.elastic.co
 logstash-ci.elastic.co
 swiftype-ci.elastic.co
-gset.gs.com
-10ksbv.eo.gs.com
-blackinbusiness.gs.com
 classic.gs.de
 gs.com
 api.foliofn.com

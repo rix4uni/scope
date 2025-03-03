@@ -731,7 +731,6 @@ sip.*.twilio.com
 *.gs-mosaic.gs.com
 *.gs-mosaic.qa.gs.com
 *.gs.com
-*.subscriptions.gs.com
 *.gs.de
 *.gsmarkets.de
 *.gsmarkets.nl

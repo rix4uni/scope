@@ -333,7 +333,6 @@ online.*.skybingo.com
 *.azuredatabricks.net
 *.cloud.databricks.com
 *.elasticsearch.cn
-*.clientevents.gs.com
 *.communicatie.vennhypotheken.nl
 *.events.gs.com
 *.overrules.vennhypotheken.nl

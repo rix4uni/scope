@@ -1354,7 +1354,6 @@ sendgrid.elastic.co
 track.email.elastic.co
 training.elastic.co
 wiki.elastic.co
-*.clientevents.gs.com
 *.communicatie.vennhypotheken.nl
 *.events.gs.com
 gs.com
@@ -1362,9 +1361,10 @@ gs.com
 *.rocaton.com
 secure.rocaton.com
 *.scripts.vennhypotheken.nl
-*.subscriptions.gs.com
-10ksbv.eo.gs.com
 18098.nextcapital.com
+*.subscriptions.gs.com
+gset.gs.com
+10ksbv.eo.gs.com
 ui.appointments.ayco.com
 developer.xs2a.goldman.com
 clientevents.gs.com
@@ -1376,7 +1376,6 @@ blackinbusiness.gs.com
 billpay.goldman.com
 deb.nextcapital.com
 email.nextcapital.com
-gset.gs.com
 gsg-uk.goldman.com
 gsg.goldman.com
 gspf.goldman.com
