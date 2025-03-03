@@ -1319,6 +1319,7 @@ betfair.com.co
 *.rootstock.io
 *.rootstocklabs.com
 *.rsk.co
+bounty-node.rsk.co
 academy.bitmex.com
 affiliates.bitmex.com
 bitmex-org.freshworks.com

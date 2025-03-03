@@ -2575,7 +2575,6 @@ pingidentity.com
 ort-desktop.pingone.com
 itv7.itv.com
 super6.skysports.com
-bounty-node.rsk.co
 dev.rootstock.io
 discord.com
 testnet.bitmex.com
