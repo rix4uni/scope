@@ -963,7 +963,10 @@ bc.yieldstreet.net
 staging-app.bany.dev
 staging-api.ynab.com
 ynab.com
+join.whoop.com
 api.prod.whoop.com
+app.whoop.com
+shop.whoop.com
 community.coloros.com
 finzfin.com
 finzjr.com
