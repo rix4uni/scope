@@ -1,1 +1,3 @@
-supportportal.thalesgroup.com
+bitgo.com
+app.bitgo.com
+app.bitgo-test.com
