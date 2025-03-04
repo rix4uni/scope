@@ -414,6 +414,7 @@ imx.community
 cloudvector.com
 *.cloudvector.com
 *.incapsula.com
+supportportal.thalesgroup.com
 *.indeed.com
 *.indeedflex.com
 apis.indeed.com
