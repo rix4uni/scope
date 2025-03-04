@@ -1,1 +1,5 @@
-consensus2024.sandbox.events.coindesk.com
+docs.bugcrowd.com
+bugcrowd.com
+tracker.bugcrowd.com
+api.bugcrowd.com
+identity.bugcrowd.com
