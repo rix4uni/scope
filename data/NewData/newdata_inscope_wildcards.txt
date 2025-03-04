@@ -1,1 +1,1 @@
-*.bugcrowd.com
+*.datacamp.com
