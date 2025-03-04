@@ -840,8 +840,6 @@ opendata.test-socrata.com
 mintmobile.com
 ultramobile.com
 web-retailer-portal.ultramobile.com
-my.mintmobile.com
-my.ultramobile.com
 underarmour.com
 underarmour.co.uk
 api.shop.ua.com
@@ -1927,6 +1925,7 @@ support.cs.money
 wiki.cs.money
 builder.hostinger.com
 cpanel.hostinger.com
+horizons.hostinger.com
 hpanel.hostinger.com
 payments.hostinger.com
 hostinger.com

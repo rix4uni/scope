@@ -1192,6 +1192,7 @@ support.cs.money
 wiki.cs.money
 builder.hostinger.com
 cpanel.hostinger.com
+horizons.hostinger.com
 hpanel.hostinger.com
 payments.hostinger.com
 hostinger.com
