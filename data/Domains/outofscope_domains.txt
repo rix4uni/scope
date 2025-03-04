@@ -2208,6 +2208,7 @@ smtp.buhlergroup.cn
 channel.buhlergroup.com
 bestbuy.buhlergroup.com
 help.capital.com
+dccertified.datacamp.com
 app.datacamp.com
 ast-viewer.datacamp.com
 confluence.datacamp.com

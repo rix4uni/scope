@@ -3278,8 +3278,8 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
-assessment-api.datacamp.com
 app.datacamp.com
+assessment-api.datacamp.com
 assessment-v2.datacamp.com
 assessment.datacamp.com
 campus.datacamp.com

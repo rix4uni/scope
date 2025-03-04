@@ -26,6 +26,7 @@ help.capital.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+dccertified.datacamp.com
 *.it.datacamp.com
 app.datacamp.com
 ast-viewer.datacamp.com
