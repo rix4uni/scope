@@ -1,3 +1,4 @@
+*.eightfold.ai
 docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com

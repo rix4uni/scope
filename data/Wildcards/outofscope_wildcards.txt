@@ -147,6 +147,7 @@ auth.*.latitudefinancial.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
+*.eightfold.ai
 *.agilebits.com
 *.zipbooks.com
 *.amazonaws.com
