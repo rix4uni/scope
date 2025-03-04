@@ -1,1 +1,3 @@
-bugcrowd.hotdoc.com.au
+bitgo.com
+app.bitgo.com
+app.bitgo-test.com
