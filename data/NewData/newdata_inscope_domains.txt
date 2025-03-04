@@ -1,5 +1,8 @@
-docker-staging.adstruc.com
-staging-trafficking.vistarmedia.com
-job-svc-b.vistarmedia.com
-docsite.vistarmedia.com
-sfleet.cortexpowered.com
+id.unity.com
+api.unity.com
+cloud.unity.com
+store.unity.com
+pay.unity.com
+syncsketch.dev
+player-login.unity.com
+unity3d.com

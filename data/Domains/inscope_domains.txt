@@ -161,7 +161,6 @@ staging.coindesk.com
 staging.auth.coindesk.com
 business.comcast.com
 xfinity.com
-consensus2024.sandbox.events.coindesk.com
 cyberghostvpn.com
 cyberghost.com
 cyberghost.app
@@ -864,6 +863,14 @@ vtxapp9p.underarmour.com
 vtxapp9q.underarmour.com
 vtxapp9d.underarmour.com
 vtxappd.underarmour.com
+id.unity.com
+api.unity.com
+cloud.unity.com
+store.unity.com
+pay.unity.com
+syncsketch.dev
+player-login.unity.com
+unity3d.com
 upwork.com
 api.upwork.com
 usaa.com
