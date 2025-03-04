@@ -190,7 +190,6 @@ us.app.gearset.com
 eu.app.gearset.com
 ap.app.gearest.com
 gearset.com
-try.hotdoc.com.au
 shop.hubspot.com
 trust.hubspot.com
 thespot.hubspot.com
