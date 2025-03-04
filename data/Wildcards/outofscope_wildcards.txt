@@ -30,7 +30,6 @@
 *.appboy.com
 *.braze.eu
 *.braze.com
-*.freshdesk.com
 *.bullish.com
 *.cisco.com
 *.hfc.comcastbusiness.net
@@ -66,6 +65,7 @@ auth.*.latitudefinancial.com
 *.limeinternal.com
 *.lime.bike
 *.filestack.com
+*.freshdesk.com
 *.blstr.xyz
 *.blstr.co
 *nuinternational.com
