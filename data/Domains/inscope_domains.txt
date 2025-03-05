@@ -1016,6 +1016,7 @@ company.thebrowser.arc
 thebrowser.company
 enroll.onduo.com
 helix.verily.com
+verily.com
 console-stage.neon.build
 console.neon.tech
 bumba.global
