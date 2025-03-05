@@ -1,3 +1,1 @@
-uatcms.optimuscards.com
-docs.optimuscards.com
-optimuscards.com
+detect.pdq.tools

@@ -147,7 +147,6 @@ tracking.ovo.com
 *.pdq.com
 *.simplemdm.com
 *.smartdeploy.com
-detect.pdq.tools
 personio.de
 personio.slack.com
 statuspage.personio.de
