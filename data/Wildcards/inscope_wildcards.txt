@@ -1075,7 +1075,6 @@ sip.*.twilio.com
 *.captcha-delivery.com
 *.siilo.com
 *.ys7.com
-*.gov.sg
 *.jbl.com
 *.harmanaudio.com
 *.harmankardon.com
