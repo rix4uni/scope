@@ -241,6 +241,7 @@ app.glean.com
 bug-bounty-be.glean.com
 hostgator.com.br
 financeiro.hostgator.com.br
+bugcrowd.hotdoc.com.au
 app.hubspot.com
 app-eu1.hubspot.com
 api.hubspot.com
