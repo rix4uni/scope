@@ -1,1 +1,3 @@
-*.bitgo.com
+*.algolia.net
+*.algolianet.com
+*.gov.sg

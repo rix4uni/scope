@@ -858,6 +858,8 @@ sip.*.twilio.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
+*.algolia.net
+*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -1075,6 +1077,7 @@ sip.*.twilio.com
 *.captcha-delivery.com
 *.siilo.com
 *.ys7.com
+*.gov.sg
 *.jbl.com
 *.harmanaudio.com
 *.harmankardon.com

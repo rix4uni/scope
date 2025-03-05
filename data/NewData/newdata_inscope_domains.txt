@@ -1,1 +1,2 @@
-bugcrowd.hotdoc.com.au
+dashboard.algolia.com
+algolia.com
