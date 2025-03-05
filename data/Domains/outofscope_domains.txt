@@ -2387,6 +2387,14 @@ jobs.uzleuven.be
 vacatures.uzleuven.be
 suppliers-ivalua.ubisoft.com
 ivalua.ubisoft.com
+api.uphold.com
+wallet.uphold.com
+api.topperpay.com
+app.topperpay.com
+graphql.topperpay.com
+support.topperpay.com
+support.uphold.com
+cms.optimuscards.com
 innovatie.vrt.be
 shop.vtm.be
 vtmgo.be
