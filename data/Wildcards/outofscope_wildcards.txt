@@ -22,6 +22,7 @@
 *.thumbzilla.com
 *.pornhubapparel.com
 *.pornhub.org
+*.mydirtyhobby.com
 *.trustwallet.com
 *.trustwalletapp.com
 *.binance.org
