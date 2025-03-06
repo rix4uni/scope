@@ -56,6 +56,7 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+justonweb.be
 *.dpgmedia.be
 *.dpgmedia.nl
 app.datacamp.com
@@ -267,12 +268,6 @@ mathem.se
 se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-a.simplemdm.com
-auth2.pdq.tools
-library-staging.pdq.tools
-houston-staging.pdq.tools
-portal-staging.pdq.tools
-detect.pdq.tools
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -352,6 +347,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 *.sqills.com
 *.sqills.team
 aweb.suivo.com

@@ -738,6 +738,9 @@ a370a9658141.gateway.skyflowapis-preview.com
 manage.skyflowapis-preview.com
 a370a9658141.vault.skyflowapis-preview.com
 californiatenant.skyflow-preview.com
+gateway.skyscanner.net
+skyscanner.net
+partnerportal.skyscanner.net
 smartmockups.com
 snapnames.com
 namejet.com
@@ -3273,6 +3276,7 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+justonweb.be
 app.datacamp.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com
@@ -3427,12 +3431,6 @@ mathem.se
 se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-a.simplemdm.com
-auth2.pdq.tools
-library-staging.pdq.tools
-houston-staging.pdq.tools
-portal-staging.pdq.tools
-detect.pdq.tools
 api.personio-dev.com
 api.personio.com
 community.personio.com
@@ -3497,6 +3495,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 aweb.suivo.com
 asupport.suivo.com
 tempo-team.be
