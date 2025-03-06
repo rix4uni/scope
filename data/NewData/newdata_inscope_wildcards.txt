@@ -1,1 +1,1 @@
-*.hey.com
+*.skyscanner.net

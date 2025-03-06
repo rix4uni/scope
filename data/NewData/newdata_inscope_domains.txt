@@ -1,8 +1,3 @@
-3.basecamp.com
-basecamp.app
-basecamp.com
-hey.app
-hey.com
-snapcraft.io
-launchpad.37signals.com
-world.hey.com
+gateway.skyscanner.net
+skyscanner.net
+partnerportal.skyscanner.net
