@@ -871,6 +871,7 @@ sip.*.twilio.com
 *.byte-stack.net
 *.uat-ovo.net
 *.taralite.com
+*.hey.com
 *.pci.shopifyinc.com
 *.shopify.com
 *.myshopify.com

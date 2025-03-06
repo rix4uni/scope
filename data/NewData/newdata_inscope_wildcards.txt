@@ -1,3 +1,1 @@
-*.algolia.net
-*.algolianet.com
-*.gov.sg
+*.hey.com
