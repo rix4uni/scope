@@ -302,7 +302,6 @@ brand.payoneer.com
 community.payoneer.com
 duediligence.payoneer.com
 explore.payoneer.com
-greenchannel.payoneer.com.cn
 investorday.payoneer.com
 register.payoneer.com
 skuad.io
