@@ -1877,7 +1877,6 @@ kb.acronis.com
 account.acronis.com
 beta-cloud.acronis.com
 docs.hackerone.com
-faucets.chain.link
 *.braintree-api.com
 *.sandbox.braintree-api.com
 *.braintree.tools

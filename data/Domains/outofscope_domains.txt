@@ -398,7 +398,6 @@ support.rapyd.net
 docs.rapyd.net
 sandbox.rapyd.net
 ghost.rapyd.net
-skyscanner.net
 community.sophos.com
 sophos.atlassian.net
 blog.soundcloud.com
@@ -1610,10 +1609,6 @@ towneplacesuites.marriott.com
 vacations.marriott.com
 travelagents.marriott.com
 learn.acronis.com
-blog.chain.link
-chainlinklabs.com
-create.smartcontract.com
-docs.chain.link
 paypal.cn
 paypal.vulbox.com
 braintree.com
