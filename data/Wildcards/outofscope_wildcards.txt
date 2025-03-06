@@ -381,8 +381,6 @@ online.*.skybingo.com
 *.bitlove.co
 *.qms.grab.com
 *.kayakairplanemode.com
-*.basecamphq.com
-*.highrisehq.com
 *.email.shopify.com
 *.business.booking.com
 *.formassembly.com

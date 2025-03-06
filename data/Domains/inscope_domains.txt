@@ -2967,14 +2967,6 @@ momondo.dk
 momondo.se
 mundi.com.br
 swoodoo.com
-3.basecamp.com
-basecamp.app
-basecamp.com
-hey.app
-hey.com
-snapcraft.io
-launchpad.37signals.com
-world.hey.com
 shopifycompass.com
 shopify.com
 vendorvoice.shopifycloud.com
@@ -3439,6 +3431,7 @@ portal-staging.pdq.tools
 detect.pdq.tools
 api.personio-dev.com
 api.personio.com
+community.personio.com
 hug.personio.com
 personio.de
 personio.com

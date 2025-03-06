@@ -274,13 +274,14 @@ houston-staging.pdq.tools
 portal-staging.pdq.tools
 detect.pdq.tools
 *.app.personio-dev.com
-api.personio-dev.com
 *.app.personio.com
-api.personio.com
 *.personio-internal.de
 *.personio.tools
+api.personio-dev.com
+api.personio.com
 *.personio.de
 *.personiowhistleblowing.com
+community.personio.com
 hug.personio.com
 personio.de
 personio.com

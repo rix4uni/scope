@@ -2573,15 +2573,6 @@ momondo.dk
 momondo.se
 mundi.com.br
 swoodoo.com
-*.hey.com
-3.basecamp.com
-basecamp.app
-basecamp.com
-hey.app
-hey.com
-snapcraft.io
-launchpad.37signals.com
-world.hey.com
 *.pci.shopifyinc.com
 *.shopify.com
 shopifycompass.com
