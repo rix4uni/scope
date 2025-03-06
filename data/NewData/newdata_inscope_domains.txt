@@ -1,11 +1,6 @@
-gateway.skyscanner.net
-skyscanner.net
-partnerportal.skyscanner.net
-justonweb.be
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
+a.simplemdm.com
+auth2.pdq.tools
+library-staging.pdq.tools
+houston-staging.pdq.tools
+portal-staging.pdq.tools
+detect.pdq.tools
