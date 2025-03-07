@@ -521,6 +521,7 @@ news.hemi.xyz
 okta.whoop.com
 support.1password.com
 1password.com
+console.toloka.ai
 support.toloka.help
 we.toloka.ai
 iframe-toloka.com
