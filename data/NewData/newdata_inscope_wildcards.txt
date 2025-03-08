@@ -1,6 +1,3 @@
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
+*.imperva.com
+*.cloudvector.com
+*.incapsula.com
