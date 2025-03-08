@@ -1,3 +1,5 @@
-*.imperva.com
-*.cloudvector.com
-*.incapsula.com
+*.tidal.com
+*.wimpmusic.com
+*.tidalhifi.com
+*tidalhi.fi
+*.tdl.sh

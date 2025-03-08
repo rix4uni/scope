@@ -1,1 +1,3 @@
-kohls.com
+tidal.com
+api.tidal.com
+offer.tidal.com
