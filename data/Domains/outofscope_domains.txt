@@ -212,8 +212,6 @@ blog-parceiros.ifood.com.br
 gogbackend.com
 godsunchained.com
 ropsten.imx.community
-docs.imperva.com
-docs-be.imperva.com
 irobot.com
 homesupport.irobot.com
 global.irobot.com

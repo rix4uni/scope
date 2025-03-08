@@ -267,8 +267,6 @@ godsunchained.com
 *.dev.imtbl.com
 *.ropsten.x.immutable.com
 ropsten.imx.community
-docs.imperva.com
-docs-be.imperva.com
 irobot.com
 homesupport.irobot.com
 global.irobot.com
