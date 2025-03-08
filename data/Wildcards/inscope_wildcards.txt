@@ -108,6 +108,9 @@ casino.*.betmgm.com
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
+*.imperva.com
+*.cloudvector.com
+*.incapsula.com
 *.indeed.com
 *.indeedflex.com
 *.indeed.tech
