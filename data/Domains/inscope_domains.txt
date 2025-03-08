@@ -356,6 +356,7 @@ keepersecurity.com
 microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
+kohls.com
 kucoin.com
 lastpass.com
 support.lastpass.com
@@ -799,9 +800,6 @@ widget.thefork.com
 api.thousandeyes.com
 app.thousandeyes.com
 thousandeyes.com
-tidal.com
-api.tidal.com
-offer.tidal.com
 api.trello.com
 butlerfortrello.com
 api.production.cde.tamg.cloud

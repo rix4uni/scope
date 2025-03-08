@@ -270,11 +270,6 @@ np.*.lfscnp.com
 *.solarcity.com
 *.teslainsuranceservices.com
 *.tools.thefork.tech
-*.tidal.com
-*.wimpmusic.com
-*.tidalhifi.com
-*tidalhi.fi
-*.tdl.sh
 *.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
