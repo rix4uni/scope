@@ -1,4 +1,5 @@
-*.soundcloud.org
-*.s-cloud.net
-*.soundcloud.com
-*.services.repostnetwork.com
+*.tidal.com
+*.wimpmusic.com
+*.tidalhifi.com
+*tidalhi.fi
+*.tdl.sh
