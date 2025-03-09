@@ -440,6 +440,8 @@ module.thefork.com
 lafourchette.com
 blog.thousandeyes.com
 app.thousandeyes.com
+developer.tidal.com
+embed.tidal.com
 e.trello.com
 help.trello.com
 trello-attachments.s3.amazonaws.com
@@ -447,6 +449,10 @@ ir.tripadvisor.com
 spotlight-dev.tripadvisor.com
 spotlight.tripadvisor
 careers.tripadvisor.com
+tgt.tamedia.ch
+auth.20min.ch
+cre-api.tamedia.ch
+track.20min.ch
 lab.authy.com
 zipwhip.com
 twil.io
