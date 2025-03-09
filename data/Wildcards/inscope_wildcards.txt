@@ -285,7 +285,6 @@ np.*.lfscnp.com
 *.bokuntest.com
 sip.*.twilio.com
 *.twilio.com
-*.api.ua.com
 *.gtld-servers.net
 *.youcouldbe.com
 *.namestudioforsocial.com
