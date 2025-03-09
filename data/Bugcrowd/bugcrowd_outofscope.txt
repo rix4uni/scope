@@ -544,8 +544,6 @@ module.thefork.com
 lafourchette.com
 blog.thousandeyes.com
 app.thousandeyes.com
-developer.tidal.com
-embed.tidal.com
 e.trello.com
 help.trello.com
 trello-attachments.s3.amazonaws.com
@@ -565,18 +563,6 @@ careers.tripadvisor.com
 *.bokun.website
 *.bokunmobile.website
 *.experiences.zone
-tgt.tamedia.ch
-auth.20min.ch
-cre-api.tamedia.ch
-track.20min.ch
-*.connect.ringier.ch
-*.onelog.ch
-*.20min-tv.ch
-*.newsnetz.tv
-*.appuser.ch
-*.iagentur.ch
-*.streamboat.ch
-*.streamboatserver.ch
 lab.authy.com
 zipwhip.com
 twil.io
