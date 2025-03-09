@@ -959,6 +959,10 @@ recroom.com
 *.rec.net
 api.rec.net
 devportal.rec.net
+api.thesecurityteam.rocks
+api.anytask.thesecurityteam.rocks
+legacy-blockexplorer.electroneum.com
+public.thesecurityteam.rocks
 *.seek.com.au
 seekcdn.com
 *.skinfra.xyz
