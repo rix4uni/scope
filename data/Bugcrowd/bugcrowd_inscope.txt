@@ -509,7 +509,6 @@ keepersecurity.com
 microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
-kohls.com
 kucoin.com
 lastpass.com
 support.lastpass.com
@@ -1001,14 +1000,6 @@ sophos.com
 central.sophos.com
 docs.sophos.com
 *.sophos.com
-soundcloud.com
-*.soundcloud.org
-*.s-cloud.net
-connect.soundcloud.com
-*.soundcloud.com
-*.services.repostnetwork.com
-artists.soundcloud.com
-soundcloud.org
 *.square.com
 *.squareup.com
 square.online
@@ -1072,6 +1063,14 @@ widget.thefork.com
 api.thousandeyes.com
 app.thousandeyes.com
 thousandeyes.com
+tidal.com
+*.tidal.com
+*.wimpmusic.com
+*.tidalhifi.com
+api.tidal.com
+*tidalhi.fi
+*.tdl.sh
+offer.tidal.com
 api.trello.com
 *.trello.services
 butlerfortrello.com

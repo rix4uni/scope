@@ -356,7 +356,6 @@ keepersecurity.com
 microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
-kohls.com
 kucoin.com
 lastpass.com
 support.lastpass.com
@@ -747,10 +746,6 @@ namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
-soundcloud.com
-connect.soundcloud.com
-artists.soundcloud.com
-soundcloud.org
 square.online
 weebly.com
 manage.statuspage.io
@@ -800,6 +795,9 @@ widget.thefork.com
 api.thousandeyes.com
 app.thousandeyes.com
 thousandeyes.com
+tidal.com
+api.tidal.com
+offer.tidal.com
 api.trello.com
 butlerfortrello.com
 api.production.cde.tamg.cloud
