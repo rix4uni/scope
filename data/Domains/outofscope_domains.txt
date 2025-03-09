@@ -447,6 +447,10 @@ ir.tripadvisor.com
 spotlight-dev.tripadvisor.com
 spotlight.tripadvisor
 careers.tripadvisor.com
+tgt.tamedia.ch
+auth.20min.ch
+cre-api.tamedia.ch
+track.20min.ch
 lab.authy.com
 zipwhip.com
 twil.io
