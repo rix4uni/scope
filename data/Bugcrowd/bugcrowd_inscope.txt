@@ -22,12 +22,6 @@ console.aiven.io
 api.aiven.io
 github.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
-ampol.com.au
-ampcharge.ampol.com.au
-ampolenergy.com.au
-my.ampol.com.au
-carbonneutral.ampol.com.au
-cards.ampol.com.au
 *.arlo.com
 *.arloxcld.com
 *-prod.arlo.com
@@ -989,6 +983,10 @@ a370a9658141.gateway.skyflowapis-preview.com
 manage.skyflowapis-preview.com
 a370a9658141.vault.skyflowapis-preview.com
 californiatenant.skyflow-preview.com
+gateway.skyscanner.net
+skyscanner.net
+partnerportal.skyscanner.net
+*.skyscanner.net
 smartmockups.com
 *.smartmockups.com
 snapnames.com

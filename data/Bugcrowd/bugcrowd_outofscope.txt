@@ -16,7 +16,6 @@ ideas.aiven.io
 aivenhelp.zendesk.com
 support.aiven.io
 regatta.aiven.io
-*.dieboldnixdorf.com
 *.arubanetworks.com
 *.hpe.com
 outdoorplanner.arubanetworks.com
@@ -496,6 +495,7 @@ docs.rapyd.net
 sandbox.rapyd.net
 ghost.rapyd.net
 *.1shoppingcart.com
+skyscanner.net
 community.sophos.com
 sophos.atlassian.net
 blog.soundcloud.com
