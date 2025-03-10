@@ -738,9 +738,6 @@ a370a9658141.gateway.skyflowapis-preview.com
 manage.skyflowapis-preview.com
 a370a9658141.vault.skyflowapis-preview.com
 californiatenant.skyflow-preview.com
-gateway.skyscanner.net
-skyscanner.net
-partnerportal.skyscanner.net
 smartmockups.com
 snapnames.com
 namejet.com
@@ -3430,6 +3427,12 @@ mathem.se
 se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+a.simplemdm.com
+auth2.pdq.tools
+library-staging.pdq.tools
+houston-staging.pdq.tools
+portal-staging.pdq.tools
+detect.pdq.tools
 api.personio-dev.com
 api.personio.com
 community.personio.com

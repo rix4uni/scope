@@ -1,6 +1,6 @@
-ampol.com.au
-ampcharge.ampol.com.au
-ampolenergy.com.au
-my.ampol.com.au
-carbonneutral.ampol.com.au
-cards.ampol.com.au
+a.simplemdm.com
+auth2.pdq.tools
+library-staging.pdq.tools
+houston-staging.pdq.tools
+portal-staging.pdq.tools
+detect.pdq.tools
