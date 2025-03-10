@@ -1,1 +1,1 @@
-*.skyscanner.net
+*.kayak.com

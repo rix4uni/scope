@@ -2550,6 +2550,7 @@ kibbles.klausapp.com
 app.klausapp.com
 zendesk.com
 zopim.com
+*.kayak.com
 business.kayak.com
 cheapflights.com
 cheapflights.co.uk
