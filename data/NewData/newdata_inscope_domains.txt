@@ -1,4 +1,1 @@
-api.thesecurityteam.rocks
-api.anytask.thesecurityteam.rocks
-legacy-blockexplorer.electroneum.com
-public.thesecurityteam.rocks
+faucets.chain.link

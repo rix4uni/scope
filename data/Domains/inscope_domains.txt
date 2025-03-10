@@ -2106,8 +2106,6 @@ platform.remix.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
 via.rider
-mi.com
-store.mi.com
 codacontent.io
 codahosted.io
 airflow-prod.coda.io
@@ -2504,6 +2502,7 @@ kb.acronis.com
 account.acronis.com
 beta-cloud.acronis.com
 docs.hackerone.com
+faucets.chain.link
 api.loanbuilder.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
