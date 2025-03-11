@@ -1,6 +1,1 @@
-ampol.com.au
-ampcharge.ampol.com.au
-ampolenergy.com.au
-my.ampol.com.au
-carbonneutral.ampol.com.au
-cards.ampol.com.au
+app.aikido.dev
