@@ -529,6 +529,8 @@ platform.toloka.ai
 tolokamodels.tech
 blog.ishosting.com
 help.ishosting.com
+mindhealth.nba.com
+totalhealth.nba.com
 api.supabase.com
 supabase.dev
 supabase.productions
