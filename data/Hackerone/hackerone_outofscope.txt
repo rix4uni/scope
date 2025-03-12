@@ -1054,7 +1054,6 @@ datapod-1-ingest.query.forescoutcloud.net
 datapod-10-ingest.query.forescoutcloud.net
 datapod-1-ingest.acceptance.forescoutcloud.net
 datapod-1-query.acceptance.forescoutcloud.net
-forescout.service-now.com
 mgmtpod-1-100-dashboard.development.forescoutcloud.net
 dashboard.development.forescoutcloud.net
 mgmtpod-1-dashboard.development.forescoutcloud.net
