@@ -1,1 +1,1 @@
-*.kayak.com
+*.datacamp.com
