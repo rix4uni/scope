@@ -417,6 +417,7 @@ scl.clover.com
 token.clover.com
 clover.com
 cloversecurity.com
+svsus-wgiftcard.com
 *.awards.slotomania.com
 sm-php-smid-dsa.slotomania.com
 sm-php-smid.slotomania.com
