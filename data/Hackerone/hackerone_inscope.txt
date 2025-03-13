@@ -12,7 +12,6 @@ shop.whoop.com
 *.wanyol.com
 community.coloros.com
 finzfin.com
-finzjr.com
 coloros.com
 engine.heytap.com
 heytap.com

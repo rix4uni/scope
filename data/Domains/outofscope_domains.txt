@@ -349,6 +349,7 @@ nexussample.octopus.com
 myget.octopus.com
 partners.octopus.com
 trust.octopus.com
+i.octopus.com
 1.oktapreview.com
 2.oktapreview.com
 login.okta.com
