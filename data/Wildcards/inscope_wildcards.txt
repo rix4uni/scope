@@ -1006,6 +1006,10 @@ sip.*.twilio.com
 *.landmarkcinemas.com
 *.mjrtheatres.com
 *.libelle.nl
+*.mas.mobilevikings.be
+*.mobilevikings.be
+*.prd-pub.mobilevikings.be
+*.prd.mobilevikings.be
 *.monzo.com
 *.monzo.me
 *.prod-ffs.io

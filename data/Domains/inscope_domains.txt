@@ -3398,6 +3398,14 @@ docs.lansweeper.com
 login.lansweeper.com
 lansweeper.com
 libelle.nl
+mobilevikings.be
+api.unleashed.be
+jimmobile.be
+mgm.mobilevikings.be
+uwa.mobilevikings.be
+vpn.mobilevikings.be
+vikingco.be
+vikingdeals.be
 co.uk.getmondo
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
