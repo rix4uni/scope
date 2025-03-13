@@ -489,8 +489,6 @@ booking.*.cloud.sqills
 *.cryptobox.com
 *.ercom.fr
 *.dana.id
-*.docker.dev
-*.gouv.fr
 *.dracoon.com
 *.dracoon.net
 *.dracoon.team
@@ -500,6 +498,8 @@ booking.*.cloud.sqills
 *.usersnap.com
 *.gdata.com
 *.retarus.com
+*.docker.dev
+*.gouv.fr
 *.ftp.infomaniak.com
 *.vps.infomaniak.com
 *.myd.infomaniak.com
