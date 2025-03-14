@@ -1630,8 +1630,10 @@ investors.goodrx.com
 sso.identity.goodrx.com
 support.goodrx.com
 admin.pingone.com
+api-staging.pingone.com
 api.pingone.com
 authenticator.pingone.com
+console-staging.pingone.com
 console.pingone.com
 desktop.pingone.com
 developer.pingidentity.com
