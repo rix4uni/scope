@@ -2531,7 +2531,6 @@ ezcpcloudiot.eziot.com
 test.ys7.com
 pb.ys7.com
 fcp.integ01.dev-franceconnect.fr
-tableaudebord.integ01.dev-franceconnect.fr
 cloud.cloud2.harmanaudio.com
 cloud.cloud1.harmanaudio.com
 cloud.cloud3.harmanaudio.com
