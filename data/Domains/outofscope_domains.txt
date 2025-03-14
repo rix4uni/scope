@@ -2339,7 +2339,6 @@ exams.ripe.net
 workplace.randstad.in
 apps.randstad.in
 cz.randstad.com
-shop.robinhood.com
 saytechnologies.com
 simscale.com
 siemens.smc.sixt.com

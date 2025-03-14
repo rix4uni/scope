@@ -2,6 +2,7 @@
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
+*.aikido.dev
 *.allegro.sk
 *.allegro.cz
 *.allegro.pl
@@ -183,7 +184,6 @@ workplace.randstad.in
 apps.randstad.in
 cz.randstad.com
 *.newyorkredbulls.com
-shop.robinhood.com
 saytechnologies.com
 simscale.com
 siemens.smc.sixt.com
