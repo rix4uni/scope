@@ -1025,6 +1025,9 @@ sip.*.twilio.com
 *.personiowhistleblowing.com
 *.c-point.be
 *.ripe.net
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
 *.swisspass.ch
 *.sbb.ch
 *.say.rocks
