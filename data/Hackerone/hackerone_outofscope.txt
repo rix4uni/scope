@@ -186,7 +186,6 @@ mmi-support.metamask.io
 support.metamask.io
 npmjs.com
 permissionless.snaps.metamask.io
-*.skinport.com
 *.floqast.com
 *.floqast.studio
 connector.callsign.com

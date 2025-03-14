@@ -175,7 +175,6 @@ db.*.supabase.co
 *.thomasbuildbuses.com
 *.api.cx.metamask.io
 *.metamask.io
-*.skinport.com
 *.floqast.com
 *.floqast.studio
 *.ro.co

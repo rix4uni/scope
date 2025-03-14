@@ -1447,12 +1447,6 @@ io.metamask.metamask
 portfolio.metamask.io
 signature-insights.api.cx.metamask.io
 metamask-consensys.notion.site
-api.skinport.com
-docs.skinport.com
-app.skinport.com
-skinport.com
-screenshot.skinport.com
-float.skinport.com
 api-eu.floqast.app
 palantir.com
 palantir.tech
