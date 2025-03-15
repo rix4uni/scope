@@ -229,6 +229,11 @@ internal.exoscale.ch
 expressvpn.com
 chromewebstore.google.com
 financialforce.com
+flo.uri.sh
+flourish.studio
+xyzbmojn.net
+flourish-user-templates.com
+flourish-user-preview.com
 admin.foxycart.com
 admin.foxy.io
 auth.foxy.io
@@ -742,10 +747,6 @@ namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
-soundcloud.com
-connect.soundcloud.com
-artists.soundcloud.com
-soundcloud.org
 square.online
 weebly.com
 manage.statuspage.io

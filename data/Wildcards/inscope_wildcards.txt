@@ -78,6 +78,9 @@ casino.*.betmgm.com
 *.xvservice.net
 *.financialforce.com
 *.certinia.com
+*.flourish.studio
+*.xyzbmojn.net
+*.kiln.it
 *-bugcrowd.foxycart.com
 *.hubspotemail.net
 *.hubspotpagebuilder.com
@@ -249,10 +252,6 @@ np.*.lfscnp.com
 *.skyscanner.net
 *.smartmockups.com
 *.sophos.com
-*.soundcloud.org
-*.s-cloud.net
-*.soundcloud.com
-*.services.repostnetwork.com
 *.square.com
 *.squareup.com
 *.statuspage.io
