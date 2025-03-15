@@ -309,14 +309,6 @@ chromewebstore.google.com
 financialforce.com
 *.financialforce.com
 *.certinia.com
-flo.uri.sh
-flourish.studio
-*.flourish.studio
-xyzbmojn.net
-*.xyzbmojn.net
-flourish-user-templates.com
-flourish-user-preview.com
-*.kiln.it
 *-bugcrowd.foxycart.com
 admin.foxycart.com
 admin.foxy.io
