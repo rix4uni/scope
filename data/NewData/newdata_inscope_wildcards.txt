@@ -1,3 +1,4 @@
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
