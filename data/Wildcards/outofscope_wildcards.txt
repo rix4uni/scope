@@ -28,9 +28,6 @@
 *.binance.org
 *.coinmarketcap.com
 *.exchange.bitpanda.com
-*.appboy.com
-*.braze.eu
-*.braze.com
 *.freshdesk.com
 *.bullish.com
 *.cisco.com
