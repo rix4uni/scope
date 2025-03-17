@@ -15,7 +15,6 @@ events.aiven.io
 ideas.aiven.io
 aivenhelp.zendesk.com
 support.aiven.io
-regatta.aiven.io
 *.dieboldnixdorf.com
 *.arubanetworks.com
 *.hpe.com
@@ -490,7 +489,6 @@ agent.compareandconnect.com.au
 fastconnect.co.nz
 yourporter.com.au
 raywhitehomenow.com
-help.quizlet.com
 community.rapyd.net
 support.rapyd.net
 docs.rapyd.net

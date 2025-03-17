@@ -13,7 +13,6 @@ events.aiven.io
 ideas.aiven.io
 aivenhelp.zendesk.com
 support.aiven.io
-regatta.aiven.io
 outdoorplanner.arubanetworks.com
 asp-notifications.arubanetworks.com
 quickconnect.arubanetworks.com
@@ -393,7 +392,6 @@ agent.compareandconnect.com.au
 fastconnect.co.nz
 yourporter.com.au
 raywhitehomenow.com
-help.quizlet.com
 community.rapyd.net
 support.rapyd.net
 docs.rapyd.net
