@@ -2320,6 +2320,12 @@ tech.ovoenergy.com
 testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
+personio.de
+personio.slack.com
+statuspage.personio.de
+support.personio.de
+personio.com
+personio.es
 future.portofantwerp.com
 future.portofantwerpbruges.com
 jobs.portofantwerp.com
