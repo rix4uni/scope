@@ -1004,14 +1004,6 @@ sophos.com
 central.sophos.com
 docs.sophos.com
 *.sophos.com
-soundcloud.com
-*.soundcloud.org
-*.s-cloud.net
-connect.soundcloud.com
-*.soundcloud.com
-*.services.repostnetwork.com
-artists.soundcloud.com
-soundcloud.org
 *.square.com
 *.squareup.com
 square.online
