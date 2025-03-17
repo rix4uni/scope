@@ -242,8 +242,6 @@ shop.hubspot.com
 trust.hubspot.com
 thespot.hubspot.com
 ir.hubspot.com
-cultbeauty.co.uk
-matchme.cultbeauty.co.uk
 sampling.ibotta.com
 backend.ibotta.com
 ir.ibotta.com
@@ -489,6 +487,7 @@ agent.compareandconnect.com.au
 fastconnect.co.nz
 yourporter.com.au
 raywhitehomenow.com
+help.quizlet.com
 community.rapyd.net
 support.rapyd.net
 docs.rapyd.net
