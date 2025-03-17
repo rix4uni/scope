@@ -408,6 +408,7 @@ zebra.cn
 *.firstdata.com
 *.fiserv.com
 blog.playtronics.com
+boh.olbanking.com
 api.clover.com
 api.eu.clover.com
 bankwithstifel.com
@@ -416,6 +417,7 @@ lws.fdcbusinessservices.com
 miltonsavingsbank.com
 partner.clover.com
 scl.clover.com
+secure-hickamfcu.org
 token.clover.com
 unitedpolicecu.org
 clover.com
