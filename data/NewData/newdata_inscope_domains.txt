@@ -1,2 +1,4 @@
-aspen-ecommerce-prod.iot.irobotapi.com
-zuora-ecommerce-prod.iot.irobotapi.com
+soundcloud.com
+connect.soundcloud.com
+artists.soundcloud.com
+soundcloud.org
