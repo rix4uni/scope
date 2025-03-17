@@ -410,10 +410,14 @@ zebra.cn
 blog.playtronics.com
 api.clover.com
 api.eu.clover.com
+bankwithstifel.com
+fidfedsl.com
 lws.fdcbusinessservices.com
+miltonsavingsbank.com
 partner.clover.com
 scl.clover.com
 token.clover.com
+unitedpolicecu.org
 clover.com
 cloversecurity.com
 svsus-wgiftcard.com

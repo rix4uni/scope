@@ -1,6 +1,2 @@
-api.personio-dev.com
-api.personio.com
-community.personio.com
-hug.personio.com
-personio.de
-personio.com
+aspen-ecommerce-prod.iot.irobotapi.com
+zuora-ecommerce-prod.iot.irobotapi.com

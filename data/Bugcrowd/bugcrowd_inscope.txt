@@ -437,7 +437,8 @@ app.intercom.com
 *.intercomcdn.com
 app.intercom.io
 intercom.com
-w2ab2i60y4.execute-api.us-east-1.amazonaws.com
+aspen-ecommerce-prod.iot.irobotapi.com
+zuora-ecommerce-prod.iot.irobotapi.com
 *.jora.com
 *.jora.xyz
 *.scoober.com
