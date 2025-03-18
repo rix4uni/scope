@@ -906,8 +906,16 @@ online.connectsfcu.org
 partner.clover.com
 pittsfieldcoop.com
 scl.clover.com
+secure-algonquinstatebank.com
+secure-cooprincon.com
+secure-ecoop.com
 secure-hickamfcu.org
+secure-linkbank.com
+secure-marsbank.com
+secure-maunacooppr.com
 secure-piedmontfederal.com
+secure-powercu.org
+secure-psccu.org
 token.clover.com
 unitedpolicecu.org
 clover.com
