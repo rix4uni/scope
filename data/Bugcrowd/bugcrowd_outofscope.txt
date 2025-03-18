@@ -140,9 +140,6 @@ status.bitpanda.com
 requests.bitpanda.com
 *.exchange.bitpanda.com
 perps-test.bitstamp.net
-*.appboy.com
-*.braze.eu
-*.braze.com
 *.freshdesk.com
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
