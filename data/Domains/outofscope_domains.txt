@@ -422,7 +422,6 @@ designers.weebly.com
 tidal.com
 community.squareup.com
 itunes.apple.com
-techapps.t-mobile.com
 employeefeedback.tesla.com
 energysupport.tesla.com
 bugbounty.zoho.com
@@ -913,9 +912,12 @@ secure-hickamfcu.org
 secure-linkbank.com
 secure-marsbank.com
 secure-maunacooppr.com
+secure-med5cu.com
 secure-piedmontfederal.com
 secure-powercu.org
 secure-psccu.org
+test-deanbank.com
+test-gncu.org
 token.clover.com
 unitedpolicecu.org
 clover.com
