@@ -2581,6 +2581,7 @@ itv7.itv.com
 super6.skysports.com
 dev.rootstock.io
 discord.com
+blog.bitmex.com
 testnet.bitmex.com
 bitmex.com
 apps.apple.com

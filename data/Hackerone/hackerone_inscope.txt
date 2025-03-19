@@ -2012,6 +2012,7 @@ super6.skysports.com
 dev.rootstock.io
 discord.com
 *.bitmex.com
+blog.bitmex.com
 testnet.bitmex.com
 bitmex.com
 *.adaptive-shield.com
