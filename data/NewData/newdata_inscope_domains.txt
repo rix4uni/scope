@@ -1,7 +1,6 @@
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
+manager.thefork.com
+theforkmanager.com
+secure.thefork.com
+payment.lafourchette.com
+api.thefork.io
+developer.thefork.io

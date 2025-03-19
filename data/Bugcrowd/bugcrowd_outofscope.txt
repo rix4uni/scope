@@ -333,6 +333,11 @@ sandbox.kucoin.com
 passport.kucoin.com
 *-sdb.kucoin.com
 *-sandbox.kucoin.com
+*.myfourchette.com
+myfourchette.com
+website.theforkmanager.com
+*.lafourchette.rest
+login.theforkmanager.com
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com

@@ -514,6 +514,12 @@ docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
 kucoin.com
+manager.thefork.com
+theforkmanager.com
+secure.thefork.com
+payment.lafourchette.com
+api.thefork.io
+developer.thefork.io
 lastpass.com
 support.lastpass.com
 blog.lastpass.com

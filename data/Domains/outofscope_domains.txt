@@ -271,6 +271,9 @@ intro.kucoin.com
 cert.kucoin.com
 sandbox.kucoin.com
 passport.kucoin.com
+myfourchette.com
+website.theforkmanager.com
+login.theforkmanager.com
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com

@@ -361,6 +361,12 @@ docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
 kucoin.com
+manager.thefork.com
+theforkmanager.com
+secure.thefork.com
+payment.lafourchette.com
+api.thefork.io
+developer.thefork.io
 lastpass.com
 support.lastpass.com
 blog.lastpass.com
@@ -3530,13 +3536,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 aweb.suivo.com
 asupport.suivo.com
 tempo-team.be
