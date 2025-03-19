@@ -1,4 +1,3 @@
-app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -353,6 +352,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 *.sqills.com
 *.sqills.team
 aweb.suivo.com
