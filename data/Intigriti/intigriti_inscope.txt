@@ -338,9 +338,6 @@ erpx.unit4cloud.com
 access.ripe.net
 lirportal.ripe.net
 *.ripe.net
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
 *.swisspass.ch
 sbb.ch
 *.sbb.ch
