@@ -1,5 +1,3 @@
-*.mi.com
-*.miui.com
-*.miwifi.com
-*.xiaomi.com
-*.xiaomiyoupin.com
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
