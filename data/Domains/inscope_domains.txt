@@ -362,10 +362,10 @@ kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
 kucoin.com
 manager.thefork.com
-theforkmanager.com
 secure.thefork.com
 payment.lafourchette.com
 api.thefork.io
+theforkmanager.com
 developer.thefork.io
 lastpass.com
 support.lastpass.com
