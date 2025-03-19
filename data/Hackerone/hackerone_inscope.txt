@@ -1380,6 +1380,13 @@ platform.remix.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
 via.rider
+*.mi.com
+*.miui.com
+*.miwifi.com
+*.xiaomi.com
+*.xiaomiyoupin.com
+mi.com
+store.mi.com
 codacontent.io
 codahosted.io
 *.coda.io

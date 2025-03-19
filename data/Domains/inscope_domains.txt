@@ -2100,6 +2100,8 @@ platform.remix.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
 via.rider
+mi.com
+store.mi.com
 codacontent.io
 codahosted.io
 airflow-prod.coda.io

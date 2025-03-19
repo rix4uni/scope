@@ -1,4 +1,5 @@
-*.api.t-mobile.com
-*.t-mobile.com
-*.metrobyt-mobile.com
-*.sprint.com
+*.mi.com
+*.miui.com
+*.miwifi.com
+*.xiaomi.com
+*.xiaomiyoupin.com
