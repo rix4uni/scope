@@ -1,2 +1,6 @@
-mi.com
-store.mi.com
+alfred.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+api.syfe.com
+mark8.syfe.com
+uat-bugbounty.nonprod.syfe.com
+syfe.com
