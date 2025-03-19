@@ -1558,6 +1558,7 @@ sompmgr-proxy-int.hmxservices.com
 sompmgr.hmxservices.com
 songsdb.harmonixmusic.com
 stadiahelp.epicgames.com
+start.gg
 support.capturingreality.com
 support.harmonixmusic.com
 swarm-monitoring-node-01.hmxservices.com
