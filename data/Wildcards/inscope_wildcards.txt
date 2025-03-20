@@ -49,7 +49,6 @@ portalapi.*.afterpay.com
 *.cyberghost.com
 *.dell.com
 *.delltechnologies.com
-*.sandbox.directly.com
 *.dropbox.com
 *.hellosign.com
 *.helloworks.com

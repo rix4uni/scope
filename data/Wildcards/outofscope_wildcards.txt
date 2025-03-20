@@ -2,6 +2,12 @@
 *.avns.net
 *.dieboldnixdorf.com
 *.arubanetworks.com
+*.hpe.com
+*.atl.arubanetworks.com
+*.getaws.arubanetworks.com
+*.iot.developer.arubanetworks.com
+*.isb.arubanetworks.com
+*.arubademo.net
 *.integrations.asana.plus
 *.bitbucket.io
 *.australiansuper.com
@@ -34,7 +40,6 @@ hsd1.*.comcast.net
 *.sys.comcast.net
 *.dell.com
 *.delltechnologies.com
-*.sandbox.directly.com
 *dev.ibotta.com
 *.ecomanda.com.br
 *.ecomanda.app
