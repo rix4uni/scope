@@ -1,5 +1,6 @@
 *.aiven.fi
 *.avns.net
+*.dieboldnixdorf.com
 *.arubanetworks.com
 *.hpe.com
 *.atl.arubanetworks.com
@@ -126,6 +127,11 @@ auth.*.latitudefinancial.com
 *.rc.viator.com
 *.sandbox.viator.com
 *.partner.viator.com
+*.web.com
+*.register.com
+*.networksolutions.com
+*.bluehost.com
+*.hostgator.com
 *.tw.com
 *.tw.ee
 *.transferwise.tech

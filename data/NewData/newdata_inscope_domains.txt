@@ -1,5 +1,12 @@
-staging.coindesk.com
-staging.auth.coindesk.com
-gateway.skyscanner.net
-skyscanner.net
-partnerportal.skyscanner.net
+ampol.com.au
+ampcharge.ampol.com.au
+ampolenergy.com.au
+my.ampol.com.au
+carbonneutral.ampol.com.au
+cards.ampol.com.au
+web.com
+register.com
+networksolutions.com
+uk.web.com
+bluehost.com
+hostgator.com

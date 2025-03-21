@@ -404,7 +404,6 @@ support.rapyd.net
 docs.rapyd.net
 sandbox.rapyd.net
 ghost.rapyd.net
-skyscanner.net
 community.sophos.com
 sophos.atlassian.net
 blog.soundcloud.com
@@ -503,6 +502,8 @@ operatorresources.viator.com
 partnerresources.viator.com
 partner.viator.com
 theplaymania.com
+app.gator.com
+app.web.com
 transferwise.com
 wise.com
 brand.wise.com

@@ -15,6 +15,7 @@ events.aiven.io
 ideas.aiven.io
 aivenhelp.zendesk.com
 support.aiven.io
+*.dieboldnixdorf.com
 *.arubanetworks.com
 *.hpe.com
 outdoorplanner.arubanetworks.com
@@ -503,7 +504,6 @@ docs.rapyd.net
 sandbox.rapyd.net
 ghost.rapyd.net
 *.1shoppingcart.com
-skyscanner.net
 community.sophos.com
 sophos.atlassian.net
 blog.soundcloud.com
@@ -631,6 +631,13 @@ operatorresources.viator.com
 partnerresources.viator.com
 partner.viator.com
 theplaymania.com
+*.web.com
+*.register.com
+*.networksolutions.com
+app.gator.com
+*.bluehost.com
+*.hostgator.com
+app.web.com
 transferwise.com
 wise.com
 *.tw.com
