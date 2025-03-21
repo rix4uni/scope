@@ -15,7 +15,6 @@ events.aiven.io
 ideas.aiven.io
 aivenhelp.zendesk.com
 support.aiven.io
-*.dieboldnixdorf.com
 *.arubanetworks.com
 *.hpe.com
 outdoorplanner.arubanetworks.com
@@ -632,13 +631,6 @@ operatorresources.viator.com
 partnerresources.viator.com
 partner.viator.com
 theplaymania.com
-*.web.com
-*.register.com
-*.networksolutions.com
-app.gator.com
-*.bluehost.com
-*.hostgator.com
-app.web.com
 transferwise.com
 wise.com
 *.tw.com

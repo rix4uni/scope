@@ -503,8 +503,6 @@ operatorresources.viator.com
 partnerresources.viator.com
 partner.viator.com
 theplaymania.com
-app.gator.com
-app.web.com
 transferwise.com
 wise.com
 brand.wise.com
