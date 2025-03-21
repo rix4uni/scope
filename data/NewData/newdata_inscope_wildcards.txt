@@ -1,4 +1,2 @@
-*.indeed.com
-*.indeedflex.com
-*.indeed.tech
-*.indeed.net
+*.openai.org
+*.openai.com
