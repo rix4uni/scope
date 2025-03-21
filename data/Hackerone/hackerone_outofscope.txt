@@ -90,6 +90,8 @@ tolokamodels.tech
 blog.ishosting.com
 help.ishosting.com
 *.amazonaws.com
+mcd.nba.com
+mcdalerts.nba.com
 mindhealth.nba.com
 totalhealth.nba.com
 db.*.supabase.co
