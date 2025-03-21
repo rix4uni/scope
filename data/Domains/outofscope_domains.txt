@@ -404,7 +404,6 @@ support.rapyd.net
 docs.rapyd.net
 sandbox.rapyd.net
 ghost.rapyd.net
-skyscanner.net
 community.sophos.com
 sophos.atlassian.net
 blog.soundcloud.com
