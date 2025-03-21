@@ -387,6 +387,7 @@ contest.opera.com
 catch.opera.com
 wallpaper.opera.com
 tabfulness.opera.com
+32s.opera.com
 optimizely.com
 originenergy.com.au
 auth.api.originenergy.com.au
