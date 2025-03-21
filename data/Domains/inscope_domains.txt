@@ -565,11 +565,6 @@ client.htm
 sftd-windows.htm
 download-browser-plugin.htm
 pentest-app.onetrust.com
-api.openai.com
-chat.openai.com
-openai.org
-openai.com
-platform.openai.com
 opensea.io
 pro.opensea.io
 wallets.opensea.io
@@ -2672,6 +2667,9 @@ ballistic.com.br
 buckingfuggy.com
 capturingreality.com
 competitive.fortnite.com
+content-service-live-testing.bfda.live.use1a.on.epicgames.com
+content-service.bfda.live.use1a.on.epicgames.com
+create.fortnite.com
 fab.com
 fortnite.com
 harmonixmusic.com
