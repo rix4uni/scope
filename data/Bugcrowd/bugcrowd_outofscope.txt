@@ -338,6 +338,7 @@ myfourchette.com
 website.theforkmanager.com
 *.lafourchette.rest
 login.theforkmanager.com
+developer.thefork.io
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com

@@ -274,6 +274,7 @@ passport.kucoin.com
 myfourchette.com
 website.theforkmanager.com
 login.theforkmanager.com
+developer.thefork.io
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
