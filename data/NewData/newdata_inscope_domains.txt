@@ -1,5 +1,5 @@
-api.openai.com
-chat.openai.com
-openai.org
-openai.com
-platform.openai.com
+staging.coindesk.com
+staging.auth.coindesk.com
+gateway.skyscanner.net
+skyscanner.net
+partnerportal.skyscanner.net
