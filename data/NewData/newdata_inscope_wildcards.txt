@@ -1,6 +1,2 @@
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
+*.intercomassets.com
+*.intercomcdn.com
