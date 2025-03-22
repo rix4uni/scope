@@ -1,6 +1,5 @@
 *.aiven.fi
 *.avns.net
-*.dieboldnixdorf.com
 *.arubanetworks.com
 *.hpe.com
 *.atl.arubanetworks.com
