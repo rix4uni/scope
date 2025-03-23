@@ -360,7 +360,6 @@ microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
-kucoin.com
 manager.thefork.com
 secure.thefork.com
 payment.lafourchette.com
@@ -387,8 +386,6 @@ latitudeinfinity.com.au
 umiloans.com.au
 images.latitudepayapps.com
 app.latitudepayapps.com
-manager.trial.lsk.lightspeed.app
-hq.breadcrumb.com
 secure.vendhq.com
 developers.vendhq.com
 payment-connectors.vendhq.com
@@ -739,6 +736,8 @@ gate.sendbird.com
 sendbird.com
 calls.sendbird.com
 notifications.sendbird.com
+1shoppingcart.com
+mcssl.com
 skroutz.gr
 a370a9658141.gateway.skyflowapis-preview.com
 manage.skyflowapis-preview.com
@@ -748,8 +747,6 @@ gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
 smartmockups.com
-snapnames.com
-namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
@@ -876,6 +873,14 @@ vtxapp9p.underarmour.com
 vtxapp9q.underarmour.com
 vtxapp9d.underarmour.com
 vtxappd.underarmour.com
+id.unity.com
+api.unity.com
+cloud.unity.com
+store.unity.com
+pay.unity.com
+syncsketch.dev
+player-login.unity.com
+unity3d.com
 upwork.com
 api.upwork.com
 usaa.com

@@ -1,1 +1,7 @@
-*.bitgo.com
+*.mcssl.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
