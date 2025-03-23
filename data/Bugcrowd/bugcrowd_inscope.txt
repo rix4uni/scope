@@ -984,11 +984,6 @@ seekcdn.com
 *.certsynonprod.com
 graphql.seek.com
 auth.seek.com
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 *.mcssl.com
@@ -1003,6 +998,8 @@ partnerportal.skyscanner.net
 *.skyscanner.net
 smartmockups.com
 *.smartmockups.com
+snapnames.com
+namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com

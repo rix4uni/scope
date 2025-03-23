@@ -734,11 +734,6 @@ public.thesecurityteam.rocks
 seekcdn.com
 graphql.seek.com
 auth.seek.com
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 skroutz.gr
@@ -750,6 +745,8 @@ gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
 smartmockups.com
+snapnames.com
+namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
