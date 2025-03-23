@@ -1,2 +1,3 @@
-1shoppingcart.com
-mcssl.com
+staging-app.bany.dev
+staging-api.ynab.com
+ynab.com

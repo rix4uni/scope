@@ -570,11 +570,6 @@ chat.openai.com
 openai.org
 openai.com
 platform.openai.com
-opensea.io
-pro.opensea.io
-wallets.opensea.io
-io.opensea
-etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -979,6 +974,9 @@ csp-prod.codebig2.net
 csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
 bc.yieldstreet.net
+staging-app.bany.dev
+staging-api.ynab.com
+ynab.com
 api.prod.whoop.com
 app.whoop.com
 join.whoop.com
@@ -2561,6 +2559,7 @@ sandbox.affirm.com
 crypto.com
 app.mona.co
 developer-platform-api.crypto.com
+etherscan.io
 js.crypto.com
 merchant.crypto.com
 nadex.com

@@ -774,11 +774,6 @@ openai.org
 openai.com
 *.openai.com
 platform.openai.com
-opensea.io
-pro.opensea.io
-wallets.opensea.io
-io.opensea
-etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -1284,3 +1279,6 @@ csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
 *.xfinityhome.com
 bc.yieldstreet.net
+staging-app.bany.dev
+staging-api.ynab.com
+ynab.com
