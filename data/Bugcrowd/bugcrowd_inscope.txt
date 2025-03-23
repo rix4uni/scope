@@ -989,9 +989,6 @@ gate.sendbird.com
 sendbird.com
 calls.sendbird.com
 notifications.sendbird.com
-1shoppingcart.com
-mcssl.com
-*.mcssl.com
 skroutz.gr
 a370a9658141.gateway.skyflowapis-preview.com
 manage.skyflowapis-preview.com
@@ -1166,14 +1163,6 @@ vtxapp9p.underarmour.com
 vtxapp9q.underarmour.com
 vtxapp9d.underarmour.com
 vtxappd.underarmour.com
-id.unity.com
-api.unity.com
-cloud.unity.com
-store.unity.com
-pay.unity.com
-syncsketch.dev
-player-login.unity.com
-unity3d.com
 upwork.com
 api.upwork.com
 usaa.com
