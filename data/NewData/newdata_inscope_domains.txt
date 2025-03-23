@@ -1,5 +1,4 @@
-kucoin.com
-manager.trial.lsk.lightspeed.app
-hq.breadcrumb.com
-snapnames.com
-namejet.com
+api.thesecurityteam.rocks
+api.anytask.thesecurityteam.rocks
+legacy-blockexplorer.electroneum.com
+public.thesecurityteam.rocks
