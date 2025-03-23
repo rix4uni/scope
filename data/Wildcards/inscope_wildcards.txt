@@ -50,15 +50,6 @@ portalapi.*.afterpay.com
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
-*.dropbox.com
-*.hellosign.com
-*.helloworks.com
-*.hellofax.com
-*.dropboxforum.com
-*.docsend.com
-*.dropboxer.net
-*.dropboxpartners.com
-*.reclaim.ai
 casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
@@ -248,6 +239,7 @@ np.*.lfscnp.com
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
+*.mcssl.com
 *.skyscanner.net
 *.smartmockups.com
 *.sophos.com
