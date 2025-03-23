@@ -519,6 +519,9 @@ tech.transferwise.com
 oauth.xfinity.com
 login.xfinity.com
 business.comcast.com
+app.ynab.com
+support.ynab.com
+develop-app.ynab.com
 blog.thenorthface.com.br
 jansport.ca
 jansport.cl
