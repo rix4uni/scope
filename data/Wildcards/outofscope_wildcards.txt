@@ -58,6 +58,8 @@ hsd1.*.comcast.net
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
+*-sdb.kucoin.com
+*-sandbox.kucoin.com
 *.myfourchette.com
 *.lafourchette.rest
 auth.*.latitudefinancial.com
@@ -95,13 +97,11 @@ auth.*.latitudefinancial.com
 *.privacypedia.com
 *.esgiq.com
 *.trustweek2021.com
-*.1shoppingcart.com
 *.afterpay.com
 *.cash.me
 *.tidal.com
 *.atlassian.com
 *.sprint.net
-*.engage.tesla.com
 *.tripadviser.at
 *.tripadvisor.cn
 *.bokun.io

@@ -248,7 +248,6 @@ np.*.lfscnp.com
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
-*.mcssl.com
 *.skyscanner.net
 *.smartmockups.com
 *.sophos.com
@@ -263,12 +262,6 @@ np.*.lfscnp.com
 *.t-mobile.com
 *.metrobyt-mobile.com
 *.sprint.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.tidal.com
 *.wimpmusic.com

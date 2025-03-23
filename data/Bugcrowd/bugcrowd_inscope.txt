@@ -513,6 +513,7 @@ microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
+kucoin.com
 manager.thefork.com
 secure.thefork.com
 payment.lafourchette.com
@@ -560,6 +561,8 @@ test.*.lfscnp.com
 dev.*.lfscnp.com
 sandbox.*.lfscnp.com
 np.*.lfscnp.com
+manager.trial.lsk.lightspeed.app
+hq.breadcrumb.com
 secure.vendhq.com
 developers.vendhq.com
 payment-connectors.vendhq.com
@@ -986,9 +989,6 @@ gate.sendbird.com
 sendbird.com
 calls.sendbird.com
 notifications.sendbird.com
-1shoppingcart.com
-mcssl.com
-*.mcssl.com
 skroutz.gr
 a370a9658141.gateway.skyflowapis-preview.com
 manage.skyflowapis-preview.com
@@ -1000,6 +1000,8 @@ partnerportal.skyscanner.net
 *.skyscanner.net
 smartmockups.com
 *.smartmockups.com
+snapnames.com
+namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
@@ -1055,12 +1057,6 @@ tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
 docs.tempus-ex.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 thefork.com
 m.thefork.com
 blog.thefork.com
@@ -1161,14 +1157,6 @@ vtxapp9p.underarmour.com
 vtxapp9q.underarmour.com
 vtxapp9d.underarmour.com
 vtxappd.underarmour.com
-id.unity.com
-api.unity.com
-cloud.unity.com
-store.unity.com
-pay.unity.com
-syncsketch.dev
-player-login.unity.com
-unity3d.com
 upwork.com
 api.upwork.com
 usaa.com
