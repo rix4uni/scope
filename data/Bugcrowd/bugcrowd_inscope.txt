@@ -513,7 +513,6 @@ microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
-kucoin.com
 manager.thefork.com
 secure.thefork.com
 payment.lafourchette.com
@@ -561,8 +560,6 @@ test.*.lfscnp.com
 dev.*.lfscnp.com
 sandbox.*.lfscnp.com
 np.*.lfscnp.com
-manager.trial.lsk.lightspeed.app
-hq.breadcrumb.com
 secure.vendhq.com
 developers.vendhq.com
 payment-connectors.vendhq.com
@@ -1003,8 +1000,6 @@ partnerportal.skyscanner.net
 *.skyscanner.net
 smartmockups.com
 *.smartmockups.com
-snapnames.com
-namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
