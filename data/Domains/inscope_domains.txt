@@ -360,6 +360,7 @@ microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
+kucoin.com
 manager.thefork.com
 secure.thefork.com
 payment.lafourchette.com
@@ -386,6 +387,8 @@ latitudeinfinity.com.au
 umiloans.com.au
 images.latitudepayapps.com
 app.latitudepayapps.com
+manager.trial.lsk.lightspeed.app
+hq.breadcrumb.com
 secure.vendhq.com
 developers.vendhq.com
 payment-connectors.vendhq.com
@@ -747,6 +750,8 @@ gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
 smartmockups.com
+snapnames.com
+namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
