@@ -112,6 +112,9 @@ coinmarketcap.com
 binance.us
 binance.tr
 bitdefender.com
+bitgo.com
+app.bitgo.com
+app.bitgo-test.com
 web.bitpanda.com
 bitpanda.com
 api.bitpanda.com
@@ -747,8 +750,6 @@ gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
 smartmockups.com
-snapnames.com
-namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com

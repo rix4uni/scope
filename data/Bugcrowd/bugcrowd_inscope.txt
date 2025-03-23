@@ -138,6 +138,10 @@ binance.tr
 *.bitdefender.net
 *.bitdefender.com
 bitdefender.com
+bitgo.com
+*.bitgo.com
+app.bitgo.com
+app.bitgo-test.com
 web.bitpanda.com
 bitpanda.com
 api.bitpanda.com
@@ -999,8 +1003,6 @@ partnerportal.skyscanner.net
 *.skyscanner.net
 smartmockups.com
 *.smartmockups.com
-snapnames.com
-namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
