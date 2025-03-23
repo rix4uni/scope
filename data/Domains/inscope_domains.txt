@@ -177,12 +177,6 @@ polymoon.it
 console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
-api.dropboxapi.com
-dash.ai
-dropboxpartners.com
-reclaim.ai
-dropbox.com
-app.reclaim.ai
 docs.eazybi.com
 my.electroneum.com
 electroneum.com
@@ -727,6 +721,10 @@ xbox.com
 recroom.com
 api.rec.net
 devportal.rec.net
+api.thesecurityteam.rocks
+api.anytask.thesecurityteam.rocks
+legacy-blockexplorer.electroneum.com
+public.thesecurityteam.rocks
 seekcdn.com
 graphql.seek.com
 auth.seek.com
