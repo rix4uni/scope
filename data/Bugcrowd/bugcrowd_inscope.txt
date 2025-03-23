@@ -989,6 +989,9 @@ gate.sendbird.com
 sendbird.com
 calls.sendbird.com
 notifications.sendbird.com
+1shoppingcart.com
+mcssl.com
+*.mcssl.com
 skroutz.gr
 a370a9658141.gateway.skyflowapis-preview.com
 manage.skyflowapis-preview.com

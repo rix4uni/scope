@@ -1,9 +1,1 @@
-*.dropbox.com
-*.hellosign.com
-*.helloworks.com
-*.hellofax.com
-*.dropboxforum.com
-*.docsend.com
-*.dropboxer.net
-*.dropboxpartners.com
-*.reclaim.ai
+*.mcssl.com
