@@ -1,3 +1,4 @@
-staging-app.bany.dev
-staging-api.ynab.com
-ynab.com
+opensea.io
+pro.opensea.io
+wallets.opensea.io
+io.opensea
