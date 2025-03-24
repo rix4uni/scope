@@ -2548,7 +2548,6 @@ swag.intigriti.com
 t.intigriti.com
 trust.intigriti.com
 welcome.intigriti.com
-partners.vidaxl.com
 outscale.com
 wiki.outscale.net
 fr.outscale.com
