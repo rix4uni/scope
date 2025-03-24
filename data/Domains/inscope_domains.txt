@@ -2927,7 +2927,6 @@ classroom.github.com
 education.github.com
 gist.github.com
 npmjs.org
-hackerone-m1rtuq8orz.hbstaging.website
 api.grofers.com
 api2.grofers.com
 blinkit.com
