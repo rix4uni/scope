@@ -2,7 +2,6 @@
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
-*.aikido.dev
 *.allegro.sk
 *.allegro.cz
 *.allegro.pl
