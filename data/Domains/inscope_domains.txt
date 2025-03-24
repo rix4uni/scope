@@ -1581,6 +1581,10 @@ fedramp.gov
 usa.gov
 analytics.usa.gov
 search.usa.gov
+zooplus.co.uk
+zooplus.com
+zooplus.de
+zooplus.net
 account.krisp.ai
 analytics.krisp.ai
 api.krisp.ai

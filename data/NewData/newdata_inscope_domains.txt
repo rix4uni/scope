@@ -1,3 +1,4 @@
-staging-app.bany.dev
-staging-api.ynab.com
-ynab.com
+zooplus.co.uk
+zooplus.com
+zooplus.de
+zooplus.net
