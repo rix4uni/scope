@@ -17,6 +17,7 @@ mysrc.group
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
 content.agora.beta.gouv.fr
+gtw-b2capps.bforbank.com
 bookbeat.com
 edge.blablacar
 co.uk

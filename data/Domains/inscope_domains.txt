@@ -1990,12 +1990,6 @@ updater.clario.co
 updatetracker.clario.co
 webapi.clario.co
 yapi.clario.co
-emerald.oasis.dev
-grpc.oasis.dev
-rosetta.oasis.dev
-sapphire.oasis.io
-status.oasis.io
-wallet.oasis.io
 bitcoin-s.a.exodus.io
 exodus.io
 exodus.com
@@ -3723,6 +3717,7 @@ mysrc.group
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
 content.agora.beta.gouv.fr
+gtw-b2capps.bforbank.com
 bookbeat.com
 edge.blablacar
 auth.blablacar
