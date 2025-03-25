@@ -1,2 +1,8 @@
-meraki.cisco.com
-apps.meraki.io
+epptool-ctld.verisign-grs.com
+a.root-servers.net
+j.root-servers.net
+verisign.com
+youcouldbe.com
+blog.verisign.com
+namestudioforsocial.com
+namestudio.com

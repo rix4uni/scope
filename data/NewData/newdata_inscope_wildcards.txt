@@ -1,3 +1,6 @@
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
+*.gtld-servers.net
+*.youcouldbe.com
+*.namestudioforsocial.com
+*.namestudio.com
+*.verisign.com
+*.verisign-grs.com
