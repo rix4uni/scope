@@ -1,3 +1,8 @@
+cloudinary.com
+api.cloudinary.com
+res.cloudinary.com
+mediaflows.cloudinary.com
+dimensions.cloudinary.com
 epptool-ctld.verisign-grs.com
 a.root-servers.net
 j.root-servers.net

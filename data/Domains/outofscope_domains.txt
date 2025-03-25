@@ -135,6 +135,8 @@ community-staging.meraki.com
 meraki.cisco.com
 documentation.meraki.com
 learn.clickhouse.com
+support.cloudinary.com
+wiki.cloudinary.com
 hourofcode.com
 advocacy.code.org
 coindesk.com
@@ -345,15 +347,6 @@ theandersonfinancialgroupnm.com
 themint.org
 u.nm.com
 international.nubank.com.br
-artifactorysample.octopus.com
-bamboosample.octopus.com
-jenkinssample.octopus.com
-teamcitysample.octopus.com
-nexussample.octopus.com
-myget.octopus.com
-partners.octopus.com
-trust.octopus.com
-i.octopus.com
 1.oktapreview.com
 2.oktapreview.com
 login.okta.com
