@@ -1633,6 +1633,7 @@ support.grammarly.com
 status.grammarly.com
 brand.grammarly.com
 partners.grammarly.com
+events.grammarly.com
 chat.hyperledger.org
 hyperledger.github.io
 identity.linuxfoundation.org
