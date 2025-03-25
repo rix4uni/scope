@@ -2649,12 +2649,6 @@ newsletter.infomaniak.com
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
-legapass.com
-app.legapass.com
-mailing.legapass.com
-url1490.legapass.com
-29544328.legapass.com
-mato.legapass.com
 matrixreq.com
 demo.matrixreq.com
 paymaya.com

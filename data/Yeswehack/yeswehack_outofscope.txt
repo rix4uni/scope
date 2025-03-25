@@ -119,12 +119,6 @@ drive.infomaniak.com
 *.jcloud.ik-server.com
 *.jpc.infomaniak.com
 *.jpe.infomaniak.com
-legapass.com
-app.legapass.com
-mailing.legapass.com
-url1490.legapass.com
-29544328.legapass.com
-mato.legapass.com
 matrixreq.com
 demo.matrixreq.com
 paymaya.com

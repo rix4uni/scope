@@ -750,8 +750,6 @@ gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
 smartmockups.com
-snapnames.com
-namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
@@ -3814,7 +3812,6 @@ ppr.kiwai-enr.fr
 kiwai-enr.fr
 api.kiwai-normandie.fr
 kiwai-normandie.fr
-bounty.legapass.com
 hack1.mtrx.ovh
 hackme.matrixreq.com
 api.paymaya.com
