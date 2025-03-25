@@ -1,2 +1,2 @@
-1shoppingcart.com
-mcssl.com
+meraki.cisco.com
+apps.meraki.io
