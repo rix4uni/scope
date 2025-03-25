@@ -162,14 +162,6 @@ subs.foreignaffairs.com
 subscribe.foreignaffairs.com
 world101.cfr.org
 modeldiplomacy.cfr.org
-merakipartners.com
-developers.meraki.com
-smhelp.meraki.com
-community.meraki.com
-community-staging.meraki.com
-*.cisco.com
-meraki.cisco.com
-documentation.meraki.com
 learn.clickhouse.com
 support.cloudinary.com
 wiki.cloudinary.com

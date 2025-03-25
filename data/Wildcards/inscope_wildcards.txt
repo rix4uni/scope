@@ -34,9 +34,6 @@ portalapi.*.afterpay.com
 *.canva-apps.cn
 *.cash.app
 *.cashstaging.app
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
 *.classdojo.com
 *.classdojo.co.uk
 *.doj.io
