@@ -1,1 +1,2 @@
-app.aikido.dev
+snapnames.com
+namejet.com
