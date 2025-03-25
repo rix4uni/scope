@@ -754,7 +754,6 @@ palantirpacusa.com
 sandbox.training.palantir.com
 store.palantir.com
 training.palantir.com
-zaffre.palantirfoundry.com
 community.modernfertility.com
 login.ro.co
 ro.co

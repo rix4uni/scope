@@ -1003,6 +1003,8 @@ partnerportal.skyscanner.net
 *.skyscanner.net
 smartmockups.com
 *.smartmockups.com
+snapnames.com
+namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
