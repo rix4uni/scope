@@ -104,9 +104,6 @@ youtube.com
 advisoryworld.com
 *.varonis-preprod.com
 issue-management.iontrading.com
-*.nimiq.com
-keyguard.nimiq.com
-miner.nimiq.com
 lowesprosupply.com
 *.rentals.rei.com
 desktop.rei.com

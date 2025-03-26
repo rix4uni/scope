@@ -1089,9 +1089,6 @@ app-sandbox.circle.com
 console.circle.com
 portal.playground.klarna.com
 app.klarna.com
-rust-lang.org
-core-rs-albatross.git
-readme.md
 api.vault.chiatest.net
 vault.chiatest.net
 wordpress.org
@@ -1545,6 +1542,7 @@ openssl.org
 rubyonrails.org
 ruby-lang.org
 guides.rubygems.org
+rust-lang.org
 spiffe.io
 wiki.xenproject.org
 xenproject.org
@@ -2551,6 +2549,7 @@ docs.cometbft.com
 cosmwasm.com
 docs.cosmos.network
 cosmos.network
+readme.md
 prometheus.io
 hermes.informal.systems
 crates.io

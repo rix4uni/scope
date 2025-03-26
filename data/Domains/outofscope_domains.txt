@@ -612,8 +612,6 @@ x.com
 youtube.com
 advisoryworld.com
 issue-management.iontrading.com
-keyguard.nimiq.com
-miner.nimiq.com
 lowesprosupply.com
 desktop.rei.com
 destinations.rei.com

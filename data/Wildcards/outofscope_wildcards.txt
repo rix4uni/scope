@@ -186,7 +186,6 @@ auth.*.latitudefinancial.com
 db.*.supabase.co
 *.supabase.co
 *.varonis-preprod.com
-*.nimiq.com
 *.rentals.rei.com
 *.3cx.com
 *.security.neustar
