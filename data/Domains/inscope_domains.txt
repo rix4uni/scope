@@ -114,9 +114,6 @@ coinmarketcap.com
 binance.us
 binance.tr
 bitdefender.com
-bitgo.com
-app.bitgo.com
-app.bitgo-test.com
 web.bitpanda.com
 bitpanda.com
 api.bitpanda.com
