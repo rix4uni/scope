@@ -28,6 +28,8 @@
 *.binance.org
 *.coinmarketcap.com
 *.exchange.bitpanda.com
+*.otc.bitso.com
+*.efx.bitso.com
 *.appboy.com
 *.braze.eu
 *.braze.com
