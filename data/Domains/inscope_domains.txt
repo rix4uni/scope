@@ -156,6 +156,11 @@ ticket.multiplayer.classdojo.com
 clients.multiplayer.classdojo.com
 monster-customizer.classdojo.com
 clickhou.se
+cloudinary.com
+api.cloudinary.com
+res.cloudinary.com
+mediaflows.cloudinary.com
+dimensions.cloudinary.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 staging.coindesk.com
@@ -565,11 +570,6 @@ chat.openai.com
 openai.org
 openai.com
 platform.openai.com
-opensea.io
-pro.opensea.io
-wallets.opensea.io
-io.opensea
-etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -2557,6 +2557,7 @@ sandbox.affirm.com
 crypto.com
 app.mona.co
 developer-platform-api.crypto.com
+etherscan.io
 js.crypto.com
 merchant.crypto.com
 nadex.com

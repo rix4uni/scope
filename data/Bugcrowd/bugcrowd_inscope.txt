@@ -199,6 +199,11 @@ monster-customizer.classdojo.com
 *.doj.io
 *.dojo.me
 clickhou.se
+cloudinary.com
+api.cloudinary.com
+res.cloudinary.com
+mediaflows.cloudinary.com
+dimensions.cloudinary.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 staging.coindesk.com
@@ -769,11 +774,6 @@ openai.org
 openai.com
 *.openai.com
 platform.openai.com
-opensea.io
-pro.opensea.io
-wallets.opensea.io
-io.opensea
-etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
