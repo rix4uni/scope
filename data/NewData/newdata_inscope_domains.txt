@@ -1,4 +1,5 @@
-opensea.io
-pro.opensea.io
-wallets.opensea.io
-io.opensea
+cloudinary.com
+api.cloudinary.com
+res.cloudinary.com
+mediaflows.cloudinary.com
+dimensions.cloudinary.com
