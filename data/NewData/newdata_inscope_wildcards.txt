@@ -1,1 +1,3 @@
-*.okg.com
+*.datacamp.com
+*.ninjakiwi.me
+*.nkstatic.com

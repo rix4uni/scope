@@ -570,7 +570,6 @@ vans.com.ec
 vans.com.pa
 vans.com.pe
 vans.com.py
-vans.com
 docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com
@@ -2324,6 +2323,18 @@ smtp.buhlergroup.cn
 channel.buhlergroup.com
 bestbuy.buhlergroup.com
 help.capital.com
+dccertified.datacamp.com
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 abonnement.demorgen.be
 demorgen.be
 vlaanderen.be
@@ -2381,6 +2392,8 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
+store.ninjakiwi.com
+support.ninjakiwi.com
 ovo.itgcanopy.com
 appsfwd.ovoenergy.com
 askovo.net

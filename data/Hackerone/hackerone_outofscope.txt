@@ -19,7 +19,6 @@
 *.timberland.com.mx
 *.timberlandpro.com.mx
 *.vans.cl
-*.vans.com
 *.vans.com.ar
 *.vans.com.br
 *.vans.com.co
@@ -73,7 +72,6 @@ vans.com.ec
 vans.com.pa
 vans.com.pe
 vans.com.py
-vans.com
 docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com
