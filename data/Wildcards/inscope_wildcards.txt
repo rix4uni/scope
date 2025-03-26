@@ -31,6 +31,7 @@ portalapi.*.afterpay.com
 *.binance.us
 *.bitdefender.net
 *.bitdefender.com
+*.bitgo.com
 *.bitstamp.net
 *.bugcrowd.com
 *.canva.com
@@ -56,15 +57,6 @@ portalapi.*.afterpay.com
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
-*.dropbox.com
-*.hellosign.com
-*.helloworks.com
-*.hellofax.com
-*.dropboxforum.com
-*.docsend.com
-*.dropboxer.net
-*.dropboxpartners.com
-*.reclaim.ai
 casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
