@@ -11,6 +11,11 @@
 *.integrations.asana.plus
 *.bitbucket.io
 *.australiansuper.com
+*.project1service.com
+*.project1content.com
+*.pabbp.com
+*.contentabc.com
+*.adtng.com
 *.pornhub.com
 *.pronstore.com
 *.redtube.com
@@ -469,7 +474,6 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
 *.db.ondigitalocean.com

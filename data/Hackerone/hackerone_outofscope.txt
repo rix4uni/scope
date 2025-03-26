@@ -1795,6 +1795,7 @@ deriv.atlassian.net
 trade.mql5.com
 tradingview.deriv.com
 guide.glassdoor.com
+glassdoor.com
 party.tinder.com
 open.tinder.com
 matchmaker.tinder.com

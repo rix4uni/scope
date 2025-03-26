@@ -1,9 +1,2 @@
-bitso.com
-nvio.mx
-nvio.ar
-api.dropboxapi.com
-dash.ai
-dropboxpartners.com
-reclaim.ai
-dropbox.com
-app.reclaim.ai
+digitalplayground.com
+transangels.com

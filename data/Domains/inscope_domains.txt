@@ -80,6 +80,8 @@ samltool.io
 webauthn.me
 openidconnect.net
 jwt.io
+digitalplayground.com
+transangels.com
 pornhub.com
 mobile.pornhub.com
 api.pornhub.com
@@ -180,12 +182,6 @@ polymoon.it
 console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
-api.dropboxapi.com
-dash.ai
-dropboxpartners.com
-reclaim.ai
-dropbox.com
-app.reclaim.ai
 docs.eazybi.com
 my.electroneum.com
 electroneum.com
@@ -3302,14 +3298,6 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
