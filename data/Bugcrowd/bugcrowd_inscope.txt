@@ -228,6 +228,14 @@ staging.auth.coindesk.com
 business.comcast.com
 xfinity.com
 consensus2024.sandbox.events.coindesk.com
+cyberghostvpn.com
+*.cyberghostvpn.com
+*.cyberghost.com
+cyberghost.com
+cyberghost.app
+addons.mozilla.org
+chrome.google.com
+polymoon.it
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com
@@ -312,8 +320,6 @@ sks-ch-gva-2.exo.io
 *.xvservice.net
 expressvpn.com
 chromewebstore.google.com
-addons.mozilla.org
-polymoon.it
 financialforce.com
 *.financialforce.com
 *.certinia.com
@@ -388,7 +394,6 @@ thehut.com
 checkout.myvitamins.com
 checkout.eyeko.com
 checkout.glossybox.com
-chrome.google.com
 market.android.com
 content-server.ibotta.com
 api.ibotta.com
