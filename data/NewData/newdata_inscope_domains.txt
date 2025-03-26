@@ -1,2 +1,6 @@
-digitalplayground.com
-transangels.com
+api.dropboxapi.com
+dash.ai
+dropboxpartners.com
+reclaim.ai
+dropbox.com
+app.reclaim.ai
