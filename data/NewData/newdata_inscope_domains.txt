@@ -1,8 +1,5 @@
-epptool-ctld.verisign-grs.com
-a.root-servers.net
-j.root-servers.net
-verisign.com
-youcouldbe.com
-blog.verisign.com
-namestudioforsocial.com
-namestudio.com
+cloudinary.com
+api.cloudinary.com
+res.cloudinary.com
+mediaflows.cloudinary.com
+dimensions.cloudinary.com
