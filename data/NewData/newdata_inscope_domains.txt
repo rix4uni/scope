@@ -1,6 +1,8 @@
-api.dropboxapi.com
-dash.ai
-dropboxpartners.com
-reclaim.ai
-dropbox.com
-app.reclaim.ai
+epptool-ctld.verisign-grs.com
+a.root-servers.net
+j.root-servers.net
+verisign.com
+youcouldbe.com
+blog.verisign.com
+namestudioforsocial.com
+namestudio.com

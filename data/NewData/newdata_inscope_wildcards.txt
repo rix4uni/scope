@@ -1,10 +1,6 @@
-*.dropbox.com
-*.hellosign.com
-*.helloworks.com
-*.hellofax.com
-*.dropboxforum.com
-*.docsend.com
-*.dropboxer.net
-*.dropboxpartners.com
-*.reclaim.ai
-*.octopus.com
+*.gtld-servers.net
+*.youcouldbe.com
+*.namestudioforsocial.com
+*.namestudio.com
+*.verisign.com
+*.verisign-grs.com
