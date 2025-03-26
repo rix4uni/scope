@@ -1,3 +1,2 @@
-*.datacamp.com
-*.ninjakiwi.me
-*.nkstatic.com
+*.cyberghostvpn.com
+*.cyberghost.com
