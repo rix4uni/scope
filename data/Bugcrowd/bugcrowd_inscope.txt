@@ -104,7 +104,6 @@ digitalplayground.com
 *.digitalplayground.com
 transangels.com
 *.transangels.com
-*.probiller.com
 pornhub.com
 mobile.pornhub.com
 api.pornhub.com
@@ -148,6 +147,10 @@ binance.tr
 *.bitdefender.net
 *.bitdefender.com
 bitdefender.com
+bitgo.com
+*.bitgo.com
+app.bitgo.com
+app.bitgo-test.com
 web.bitpanda.com
 bitpanda.com
 api.bitpanda.com

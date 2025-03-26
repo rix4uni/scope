@@ -1,2 +1,1 @@
-*.cyberghostvpn.com
-*.cyberghost.com
+*.bitgo.com

@@ -242,6 +242,7 @@ db.*.supabase.co
 *.fastly.net
 *.krisp.ai
 *.hydrogenhealth.com
+*.profitect.com
 *.zebracard.com
 *.clover.com
 *.firstdata.com
