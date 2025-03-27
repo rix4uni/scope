@@ -573,8 +573,6 @@ test.*.lfscnp.com
 dev.*.lfscnp.com
 sandbox.*.lfscnp.com
 np.*.lfscnp.com
-manager.trial.lsk.lightspeed.app
-hq.breadcrumb.com
 secure.vendhq.com
 developers.vendhq.com
 payment-connectors.vendhq.com
