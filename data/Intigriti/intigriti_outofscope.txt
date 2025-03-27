@@ -269,7 +269,6 @@ vznkul.be
 *.intigriti.net
 api.intercom.io
 autodiscover.intigriti.com
-blog.intigriti.com
 careers.intigriti.com
 click.intigriti.com
 go.intigriti.com

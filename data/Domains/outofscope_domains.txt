@@ -2547,7 +2547,6 @@ zabka-snrs.zabka.pl
 vznkul.be
 api.intercom.io
 autodiscover.intigriti.com
-blog.intigriti.com
 careers.intigriti.com
 click.intigriti.com
 go.intigriti.com
