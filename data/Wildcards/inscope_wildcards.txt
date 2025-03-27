@@ -549,6 +549,7 @@ sip.*.twilio.com
 *.exodus.io
 *.k8s.io
 *.gocardless-cicd.io
+*.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.line-apps.com
@@ -974,6 +975,7 @@ sip.*.twilio.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.vlaanderen.be
