@@ -1277,10 +1277,10 @@ api-sandbox.gocardless.com
 manage.gocardless
 auth0.gocardless.com
 bankaccountdata.gocardless.com
-ob.gocardless.com
 connect-sandbox.gocardless.com
 ob-sandbox.gocardless.io
 developer.gocardless.com
+ob.gocardless.com
 manage-sandbox.gocardless.com
 xero.gocardless
 oauth-sandbox.gocardless.com

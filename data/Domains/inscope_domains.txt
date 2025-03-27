@@ -392,6 +392,8 @@ latitudeinfinity.com.au
 umiloans.com.au
 images.latitudepayapps.com
 app.latitudepayapps.com
+manager.trial.lsk.lightspeed.app
+hq.breadcrumb.com
 secure.vendhq.com
 developers.vendhq.com
 payment-connectors.vendhq.com
@@ -2011,10 +2013,10 @@ api-sandbox.gocardless.com
 manage.gocardless
 auth0.gocardless.com
 bankaccountdata.gocardless.com
-ob.gocardless.com
 connect-sandbox.gocardless.com
 ob-sandbox.gocardless.io
 developer.gocardless.com
+ob.gocardless.com
 manage-sandbox.gocardless.com
 xero.gocardless
 oauth-sandbox.gocardless.com
