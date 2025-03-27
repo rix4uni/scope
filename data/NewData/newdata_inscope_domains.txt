@@ -1,3 +1,6 @@
-bitgo.com
-app.bitgo.com
-app.bitgo-test.com
+api.dropboxapi.com
+dash.ai
+dropboxpartners.com
+reclaim.ai
+dropbox.com
+app.reclaim.ai
