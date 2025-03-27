@@ -142,6 +142,7 @@ ssems.gravityzone.bitdefender.com
 crp.bitdefender.com
 telcosuccess.bitdefender.com
 demo.bitdefender.com
+translate.bitdefender.com
 central.bitdefender.com
 support.bitpanda.com
 maintenance.bitpanda.com
@@ -225,8 +226,6 @@ educate.dell.com
 console.dell.com
 console-test.dell.com
 salesproductivity.dell.com
-*.dell.com
-*.delltechnologies.com
 directly.com
 resources.directly.com
 *.sandbox.directly.com
