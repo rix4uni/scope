@@ -512,10 +512,8 @@ boh.olbanking.com
 api.clover.com
 api.eu.clover.com
 bankwithstifel.com
-ffsavings.com
 fidfedsl.com
 fncb.com
-freeholdsavingsandloan.com
 lws.fdcbusinessservices.com
 miltonsavingsbank.com
 myfreeholdbank.com
