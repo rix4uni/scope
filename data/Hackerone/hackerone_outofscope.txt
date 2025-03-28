@@ -1145,6 +1145,7 @@ outgrow.gocardless.com
 partnerportal.gocardless.com
 gocardless.my.site.com
 pay.gocardless.com
+payer-details.gocardless.com
 privacy.gocardless.com
 qbo-api.gocardless.com
 qbo.gocardless.com
