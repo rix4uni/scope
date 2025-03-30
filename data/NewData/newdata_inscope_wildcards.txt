@@ -1,4 +1,2 @@
-*.indeed.com
-*.indeedflex.com
-*.indeed.tech
-*.indeed.net
+*.afterpay.com
+portalapi.*.afterpay.com
