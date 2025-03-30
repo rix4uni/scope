@@ -1,2 +1,2 @@
-*.afterpay.com
-portalapi.*.afterpay.com
+*.cash.app
+*.cashstaging.app
