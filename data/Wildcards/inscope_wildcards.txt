@@ -118,10 +118,6 @@ casino.*.betmgm.com
 *.imperva.com
 *.cloudvector.com
 *.incapsula.com
-*.indeed.com
-*.indeedflex.com
-*.indeed.tech
-*.indeed.net
 *.intercomassets.com
 *.intercomcdn.com
 *.jora.com
