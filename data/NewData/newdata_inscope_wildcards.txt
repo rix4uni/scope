@@ -1,2 +1,4 @@
-*.gocardless.com
-*.datacamp.com
+*.indeed.com
+*.indeedflex.com
+*.indeed.tech
+*.indeed.net

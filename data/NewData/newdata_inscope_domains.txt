@@ -1,2 +1,3 @@
-manager.trial.lsk.lightspeed.app
-hq.breadcrumb.com
+apis.indeed.com
+resume.com
+wowjobs.ca
