@@ -6,8 +6,9 @@ portalapi.*.afterpay.com
 *-prod.arlo.com
 *.central.arubanetworks.com
 *.asana.plus
-*.asana.biz
 *.app.asana.com
+*.asana.biz
+*asana.biz
 *.atlassian.com
 *.atl-paas.net
 *.atlassian.net
@@ -39,8 +40,6 @@ portalapi.*.afterpay.com
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
-*.cash.app
-*.cashstaging.app
 *.meraki.com
 *.ikarem.io
 *.network-auth.com

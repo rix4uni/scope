@@ -54,9 +54,10 @@ devhub.arubanetworks.com
 app.asana.com
 asana.com
 *.asana.plus
-*.asana.biz
 form.asana.com
 *.app.asana.com
+*.asana.biz
+*asana.biz
 admin.atlassian.com
 id.atlassian.com
 start.atlassian.com
@@ -184,9 +185,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cash.app
-*.cash.app
-*.cashstaging.app
 foreignaffairs.com
 cfr.org
 thinkglobalhealth.org
