@@ -39,8 +39,6 @@ portalapi.*.afterpay.com
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
-*.cash.app
-*.cashstaging.app
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
@@ -906,7 +904,6 @@ sip.*.twilio.com
 *.staging.airtable.com
 *.acrobat.adobe.com
 *.lightroom.adobe.com
-*.blockchain.com
 *.ubnt.com
 *.ui.com
 *.sc-core.net

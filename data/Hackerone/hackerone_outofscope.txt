@@ -1895,13 +1895,6 @@ support.airtable.com
 *.tfaforms.com
 *.tfaforms.net
 *.veerwest.com
-blog.blockchain.com
-email-clicks.blockchain.com
-institutional.blockchain.com
-partners.blockchain.com
-support.blockchain.com
-track.blockchain.com
-why.blockchain.com
 *.go.ubnt.com
 forum-es.ui.com
 forum-pt.ui.com

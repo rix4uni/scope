@@ -2714,11 +2714,6 @@ photoshop.adobe.com
 portfolio.ccpsx.com
 repo.magento.com
 stock.adobe.com
-*.blockchain.com
-blockchain.com
-api.blockchain.info
-ws.blockchain.info
-blockchain.info
 *.ubnt.com
 *.ui.com
 ui.com
