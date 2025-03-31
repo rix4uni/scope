@@ -1,2 +1,1 @@
-meraki.cisco.com
-apps.meraki.io
+cash.app
