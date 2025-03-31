@@ -1,1 +1,2 @@
-*asana.biz
+*.cash.app
+*.cashstaging.app
