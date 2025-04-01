@@ -353,7 +353,6 @@ sip.*.twilio.com
 *.immedia-semi.com
 *.sync.services.mozilla.com
 *.redoxengine.com
-*.okg.com
 *.oklink.com
 *.okx.com
 *.luckydays.ca

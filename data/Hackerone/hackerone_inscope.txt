@@ -392,7 +392,6 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 webhooks.gamma.redoxstage.com
 redoxengine.com
-*.okg.com
 *.oklink.com
 *.okx.com
 okx.com
