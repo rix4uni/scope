@@ -3954,6 +3954,7 @@ indonesiavoa.vfsevisa.id
 vfsglobalservices-germany.com
 vc.tasheer.com
 vfsevisa.id
+client-api.vfsai.com
 vinci.com
 leonard.vinci.com
 castor.vinci.com

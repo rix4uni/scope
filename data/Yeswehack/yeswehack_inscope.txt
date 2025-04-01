@@ -333,6 +333,7 @@ vfsglobalservices-germany.com
 vc.tasheer.com
 *.vfsglobal.by
 vfsevisa.id
+client-api.vfsai.com
 vinci.com
 leonard.vinci.com
 castor.vinci.com
