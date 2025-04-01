@@ -3867,6 +3867,10 @@ retail-api.otto.de
 api.ovh.com
 ovh.com
 sandbox.open-xchange.com
+onedoc.ch
+pro.onedoc.ch
+api.onedoc.ch
+telehealth.onedoc.ch
 ooredoo.qa
 mobile.ooredoo.qa
 selfcare.ooredoo.qa

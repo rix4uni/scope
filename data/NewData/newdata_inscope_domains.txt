@@ -1,1 +1,4 @@
-monitor-stage.allizom.org
+onedoc.ch
+pro.onedoc.ch
+api.onedoc.ch
+telehealth.onedoc.ch
