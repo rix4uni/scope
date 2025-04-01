@@ -1,2 +1,1 @@
-louisvuitton.com
-api.louisvuitton.com
+monitor-stage.allizom.org

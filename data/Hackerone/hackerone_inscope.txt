@@ -349,7 +349,7 @@ api.stage.lando.nonprod.cloudops.mozgcp.net
 merino.services.mozilla.com
 stage.merino.nonprod.cloudops.mozgcp.net
 monitor.mozilla.org
-stage.firefoxmonitor.nonprod.cloudops.mozgcp.net
+monitor-stage.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 phabricator-dev.allizom.org
