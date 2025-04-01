@@ -1509,10 +1509,6 @@ npm.nextcapital.com
 qa-billpay.goldman.com
 repo.nextcapital.com
 rubygems.nextcapital.com
-edoverflow.keybase.pub
-keybase.io
-keybase.pub
-twitter.com
 developers.yoti.com
 yoti.com
 list.valvesoftware.com
