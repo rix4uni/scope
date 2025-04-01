@@ -1,1 +1,2 @@
-client-api.vfsai.com
+louisvuitton.com
+api.louisvuitton.com

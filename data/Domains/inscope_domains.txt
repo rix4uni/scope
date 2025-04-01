@@ -3815,6 +3815,8 @@ ppr.kiwai-enr.fr
 kiwai-enr.fr
 api.kiwai-normandie.fr
 kiwai-normandie.fr
+louisvuitton.com
+api.louisvuitton.com
 hack1.mtrx.ovh
 hackme.matrixreq.com
 api.paymaya.com
