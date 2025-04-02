@@ -107,8 +107,9 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-login.internal.monzo.com
+monzo.me
 community.monzo.com
+login.internal.monzo.com
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io
