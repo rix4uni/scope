@@ -882,7 +882,6 @@ api.planethoster.net
 world.planethoster.net
 mg.n0c.com
 planethoster.com
-*.points.com
 staples.com
 splus-flightdeck.pnimedia.com
 splus-estimator.pnimedia.com
