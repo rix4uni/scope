@@ -2383,6 +2383,7 @@ laptop-updates.brave.com
 search.brave.com
 talk.brave.com
 portswigger.net
+ai.portswigger.net
 forum.portswigger.net
 enterprise-demo.portswigger.net
 files.com
