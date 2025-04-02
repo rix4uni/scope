@@ -68,6 +68,15 @@ houseofhr.com
 rebel.houseofhr.com
 abonnement.humo.be
 humo.be
+autodiscover.innogames.de
+exchange.innogames.de
+igjam.eu
+jamf.innogames.com
+mail.innogames.com
+newsroom.innogames.com
+pn.innogames.com
+slack.innogames.de
+typingmind.innogames.de
 *.configuratoren.nl
 afspraakmaken.gamma.nl
 api.afspraakmaken.gamma.be
@@ -109,8 +118,6 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
-store.ninjakiwi.com
-support.ninjakiwi.com
 ovo.itgcanopy.com
 *.oisl.gg
 appsfwd.ovoenergy.com
