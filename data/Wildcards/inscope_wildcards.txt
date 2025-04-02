@@ -234,6 +234,7 @@ np.*.lfscnp.com
 *.pixabay.com
 *.points.com
 *.privateinternetaccess.com
+*.quizlet.com
 *.rapyd.net
 *.neatcommerce.com
 *.korta.is
@@ -292,7 +293,6 @@ np.*.lfscnp.com
 *.bokuntest.com
 sip.*.twilio.com
 *.twilio.com
-*.api.ua.com
 *.gtld-servers.net
 *.youcouldbe.com
 *.namestudioforsocial.com

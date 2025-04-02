@@ -1,1 +1,1 @@
-*.vfsai.com
+*.quizlet.com
