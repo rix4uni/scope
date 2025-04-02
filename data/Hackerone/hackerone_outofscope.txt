@@ -946,6 +946,8 @@ account.clario.co
 api-ne.clario.co
 api.account.opendoor.ltd
 *.hcltechsw.com
+oasisprotocol.org
+*.oasisprotocol.org
 *.atp-exodus.com
 atp-exodus.com
 exodus.atlassian.net

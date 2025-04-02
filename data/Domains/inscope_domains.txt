@@ -739,6 +739,11 @@ public.thesecurityteam.rocks
 seekcdn.com
 graphql.seek.com
 auth.seek.com
+dashboard.sendbird.com
+gate.sendbird.com
+sendbird.com
+calls.sendbird.com
+notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 skroutz.gr
@@ -1988,6 +1993,12 @@ updater.clario.co
 updatetracker.clario.co
 webapi.clario.co
 yapi.clario.co
+emerald.oasis.dev
+grpc.oasis.dev
+rosetta.oasis.dev
+sapphire.oasis.io
+status.oasis.io
+wallet.oasis.io
 bitcoin-s.a.exodus.io
 exodus.io
 exodus.com
@@ -3941,7 +3952,6 @@ indonesiavoa.vfsevisa.id
 vfsglobalservices-germany.com
 vc.tasheer.com
 vfsevisa.id
-client-api.vfsai.com
 vinci.com
 leonard.vinci.com
 castor.vinci.com

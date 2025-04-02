@@ -1109,3 +1109,4 @@ sip.*.twilio.com
 *.directverify.in
 *.docswallet.com
 *.vfsglobal.by
+*.vfsai.com
