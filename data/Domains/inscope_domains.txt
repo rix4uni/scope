@@ -3044,7 +3044,6 @@ assets.airbnb.com
 callbacks.airbnb.com
 m.airbnb.com
 next.airbnb.com
-omgpro.airbnb.com
 one.airbnb.com
 open.airbnb.com
 support-api.airbnb.com
