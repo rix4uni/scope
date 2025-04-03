@@ -1,1 +1,16 @@
-*.payzippy.com
+*.linktr.ee
+*.linktree.com
+*.tr.ee
+*.linktree-extensions.com
+*.odesli.co
+*.odesli.com
+*.song.link
+*.songlink.io
+*.album.link
+*.artist.link
+*.pods.link
+*.playlist.link
+*.mylink.page
+*.plannthat.com
+*.ninjakiwi.me
+*.nkstatic.com
