@@ -2,3 +2,4 @@
 *.s-cloud.net
 *.soundcloud.com
 *.services.repostnetwork.com
+*.api.ua.com
