@@ -195,6 +195,12 @@ np.*.lfscnp.com
 *.mylink.page
 *.plannthat.com
 *.cloud.mattermost.com
+*.mgm.mo
+*.booking.mgm.mo
+*.jobs.mgm.mo
+*.static.mgm.mo
+*.mlife.mo
+*.tickets.mgm.mo
 *.nr-data.net
 *.nr-ops.net
 *.northwesternmutual.com

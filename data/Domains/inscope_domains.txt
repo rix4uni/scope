@@ -470,6 +470,14 @@ finicity.com
 consumer.finicityreports.com
 pioneer.truata.com
 mattermost.com
+mgm.mo
+booking.mgm.mo
+jobs.mgm.mo
+static.mgm.mo
+mlife.mo
+tickets.mgm.mo
+mobileapp-gaming.mgm.mo
+mobileapp-non-gaming.mgm.mo
 identity.monash.edu
 mix.monash.edu
 connect.monash.edu
