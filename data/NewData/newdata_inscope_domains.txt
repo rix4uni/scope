@@ -1,4 +1,5 @@
-soundcloud.com
-connect.soundcloud.com
-artists.soundcloud.com
-soundcloud.org
+api.openai.com
+chat.openai.com
+openai.org
+openai.com
+platform.openai.com
