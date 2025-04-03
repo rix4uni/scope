@@ -1,6 +1,4 @@
-*.mgm.mo
-*.booking.mgm.mo
-*.jobs.mgm.mo
-*.static.mgm.mo
-*.mlife.mo
-*.tickets.mgm.mo
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
