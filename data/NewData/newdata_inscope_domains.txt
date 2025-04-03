@@ -1,11 +1,4 @@
-underarmour.com
-underarmour.co.uk
-api.shop.ua.com
-underarmournext.co.uk
-underarmournext.com
-consumer-sustainability.underarmour.com
-underarmour.com.sg
-underarmour.cn
-underarmour.co.kr
-armourhouse.underarmour.com
-ai.portswigger.net
+api.myntra.com
+payments.myntra.com
+flipkart.com
+myntra.com

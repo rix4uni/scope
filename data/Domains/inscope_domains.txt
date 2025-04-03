@@ -2509,6 +2509,10 @@ triseptdemo.com
 triseptsolutions.com
 universalorlandovacations.com
 wynnvacations.com
+api.myntra.com
+payments.myntra.com
+flipkart.com
+myntra.com
 mc-beta-cloud.acronis.com
 acronis.com
 kb.acronis.com

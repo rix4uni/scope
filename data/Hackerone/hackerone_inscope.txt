@@ -1866,6 +1866,11 @@ triseptdemo.com
 triseptsolutions.com
 universalorlandovacations.com
 wynnvacations.com
+*.payzippy.com
+api.myntra.com
+payments.myntra.com
+flipkart.com
+myntra.com
 *.acronis.com
 *.5nine.com
 *.acronis.work
