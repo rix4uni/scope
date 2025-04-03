@@ -129,7 +129,6 @@ cdn.unicdn.net
 *.uk.harmanaudio.com
 *.de.jbl.com
 *.in.jbl.com
-*.jp.jbl.com
 *.jbl.com.br
 events.onecloud.harman.com
 ota.onecloud.harman.com

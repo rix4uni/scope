@@ -108,6 +108,8 @@ cloud.cloud2.harmanaudio.com
 cloud.cloud1.harmanaudio.com
 cloud.cloud3.harmanaudio.com
 secondchance.jbl.com
+jp.harmanaudio.com
+jp.jbl.com
 api.pub1.infomaniak.cloud
 newsletter.infomaniak.com
 ov-xx.infomaniak.ch
