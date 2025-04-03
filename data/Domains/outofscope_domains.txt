@@ -224,8 +224,6 @@ shop.hubspot.com
 trust.hubspot.com
 thespot.hubspot.com
 ir.hubspot.com
-cultbeauty.co.uk
-matchme.cultbeauty.co.uk
 sampling.ibotta.com
 backend.ibotta.com
 ir.ibotta.com
@@ -325,11 +323,6 @@ ecwid.com
 community.li.me
 help.li.me
 li.me
-filestack.com
-freshdesk.com
-blstr.xyz
-blstr.co
-community.linktr.ee
 americangirlmena.com
 moneytree.jp
 getmoneytree.com
