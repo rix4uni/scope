@@ -421,14 +421,6 @@ wallpaper.opera.com
 tabfulness.opera.com
 32s.opera.com
 optimizely.com
-originenergy.com.au
-auth.api.originenergy.com.au
-origin-energy.formstack.com
-compareandconnect.com.au
-agent.compareandconnect.com.au
-fastconnect.co.nz
-yourporter.com.au
-raywhitehomenow.com
 help.quizlet.com
 community.rapyd.net
 support.rapyd.net
@@ -486,6 +478,10 @@ ir.tripadvisor.com
 spotlight-dev.tripadvisor.com
 spotlight.tripadvisor
 careers.tripadvisor.com
+tgt.tamedia.ch
+auth.20min.ch
+cre-api.tamedia.ch
+track.20min.ch
 lab.authy.com
 zipwhip.com
 twil.io
