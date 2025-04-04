@@ -1,10 +1,4 @@
-ifood.com.br
-shop.ifood.com.br
-marketplace.ifood.com.br
-wsloja.ifood.com.br
-wslatam.ifood.com.br
-static-images.ifood.com.br
-gestordepedidos.ifood.com.br
-developer.ifood.com.br
-api.fstr.rocks
-rc.fstr.rocks
+soundcloud.com
+connect.soundcloud.com
+artists.soundcloud.com
+soundcloud.org

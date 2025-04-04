@@ -1,2 +1,4 @@
-*.movilepay.com
-*.movilepay.com.br
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
