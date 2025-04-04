@@ -1,2 +1,2 @@
-*.openai.org
-*.openai.com
+*.movilepay.com
+*.movilepay.com.br

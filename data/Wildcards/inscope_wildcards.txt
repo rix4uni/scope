@@ -110,6 +110,8 @@ casino.*.betmgm.com
 *.powerman.co.uk
 *.skinstore.com
 *.thehut.com
+*.movilepay.com
+*.movilepay.com.br
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
