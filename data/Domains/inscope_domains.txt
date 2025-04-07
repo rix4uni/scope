@@ -2511,7 +2511,9 @@ triseptsolutions.com
 universalorlandovacations.com
 wynnvacations.com
 api.myntra.com
+pay.payzippy.com
 payments.myntra.com
+uiscoop.payzippy.com
 flipkart.com
 myntra.com
 mc-beta-cloud.acronis.com

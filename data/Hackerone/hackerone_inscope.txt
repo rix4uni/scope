@@ -1860,9 +1860,10 @@ triseptdemo.com
 triseptsolutions.com
 universalorlandovacations.com
 wynnvacations.com
-*.payzippy.com
 api.myntra.com
+pay.payzippy.com
 payments.myntra.com
+uiscoop.payzippy.com
 flipkart.com
 myntra.com
 *.acronis.com

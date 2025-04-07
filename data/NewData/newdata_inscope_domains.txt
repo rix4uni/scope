@@ -1,1 +1,2 @@
-api.s-kaupat.fi
+pay.payzippy.com
+uiscoop.payzippy.com

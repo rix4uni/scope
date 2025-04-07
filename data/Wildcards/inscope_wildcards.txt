@@ -650,7 +650,6 @@ sip.*.twilio.com
 *.circle.logi.com
 *uat.marriott.com
 *.marriott.com
-*.payzippy.com
 *.acronis.com
 *.5nine.com
 *.acronis.work
