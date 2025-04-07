@@ -1713,10 +1713,10 @@ rates.rewire.com
 remitly.com
 rewire.com
 site.rewire.com
+api.s-kaupat.fi
+s-kaupat.fi
 api.sokos.fi
 sokos.fi
-cfapi.voikukka.fi
-s-kaupat.fi
 digili.s-cloud.fi
 s-pankki.fi
 s-kanava.fi
