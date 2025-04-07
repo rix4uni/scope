@@ -1165,6 +1165,7 @@ ebctest.cybersource.com
 ht.visa.com
 myvisainfinite.com
 myvisacardportal.com
+visa.com.az
 sandbox.authorize.net
 sandbox.secure.checkout.visa.com
 test.payworks.io
@@ -1195,7 +1196,6 @@ visa.co.nz
 visa.co.th
 visa.co.uk
 visa.co.ve
-visa.com.az
 visa.com.br
 visa.com.cn
 visa.com.cy
