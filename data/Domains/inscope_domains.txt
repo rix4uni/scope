@@ -3196,7 +3196,9 @@ customers.gitlab.com
 design.gitlab.com
 docs.gitlab.com
 registry.gitlab.com
+ai.x.grokapp
 gnip.com
+grok.com
 x.com
 support.cloudflare.com
 community.cloudflare.com

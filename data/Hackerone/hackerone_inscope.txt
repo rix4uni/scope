@@ -2833,12 +2833,15 @@ customers.gitlab.com
 design.gitlab.com
 docs.gitlab.com
 registry.gitlab.com
+*.grok.com
 *.twimg.com
 *.twitter.com
 *.vine.co
 *.x.ai
 *.x.com
+ai.x.grokapp
 gnip.com
+grok.com
 x.com
 *.cloudflare.com
 support.cloudflare.com
