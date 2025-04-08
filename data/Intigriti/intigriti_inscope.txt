@@ -48,7 +48,6 @@ capital.com
 open-api.capital.com
 *.capital.com
 *.itcapital.io
-challenge-0325.intigriti.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
@@ -113,6 +112,7 @@ hacktoberfest.com
 donorbox.org
 service.fing.com
 app.fing.com
+hackdonalds.intigriti.io
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com

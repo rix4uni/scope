@@ -240,11 +240,6 @@ flourish.studio
 xyzbmojn.net
 flourish-user-templates.com
 flourish-user-preview.com
-admin.foxycart.com
-admin.foxy.io
-auth.foxy.io
-foxycart-demo.foxycart.com
-api.foxycart.com
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
@@ -525,6 +520,7 @@ app-staging.getmoneytree.com
 myaccount-staging.getmoneytree.com
 business-staging.getmoneytree.com
 jp-api-staging.getmoneytree.com
+support.moovitapp.com
 staging-prime.navan.com
 secure.neogov.com
 login.neogov.com
@@ -1023,7 +1019,6 @@ spgw-pay.finzfin.com
 support.oppo.com
 oppo.com
 opposhop.cn
-myoppo.com
 nearme.com.cn
 bugbounty-ctf.1password.com
 1password.com
@@ -3306,7 +3301,6 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
-challenge-0325.intigriti.io
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -3362,6 +3356,7 @@ hacktoberfest.com
 donorbox.org
 service.fing.com
 app.fing.com
+hackdonalds.intigriti.io
 jaguar.here.com
 landrover.here.com
 hln.be

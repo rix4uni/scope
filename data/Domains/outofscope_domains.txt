@@ -858,6 +858,10 @@ investorday.payoneer.com
 register.payoneer.com
 skuad.io
 tracks.payoneer.com
+agoric.com
+community.agoric.com
+agoric.zoom.us
+agoricopco.slack.com
 dunnhumby.com
 tescomobile.com
 clicks.moonpay.com
@@ -1222,6 +1226,7 @@ docs.doppler.com
 doppler.com
 calendly.com
 support.doppler.com
+help.justworks.com
 payroll.justworks.com
 shop.justworks.com
 bucksense.com

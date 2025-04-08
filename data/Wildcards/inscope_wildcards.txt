@@ -89,7 +89,6 @@ casino.*.betmgm.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it
-*-bugcrowd.foxycart.com
 *.hubspotemail.net
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu

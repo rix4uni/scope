@@ -35,7 +35,6 @@ spgw-pay.finzfin.com
 support.oppo.com
 oppo.com
 opposhop.cn
-myoppo.com
 nearme.com.cn
 bugbounty-ctf.1password.com
 1password.com
