@@ -163,6 +163,8 @@ nvio.mx
 nvio.ar
 bitstamp.net
 *.bitstamp.net
+bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
+bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
 docs.bugcrowd.com
 bugcrowd.com
 tracker.bugcrowd.com
@@ -1175,14 +1177,6 @@ rentals.tripadvisor.com
 marlo.ext.tripadvisor.com
 *.bokundemo.com
 *.bokuntest.com
-20min.ch
-coral.20min.ch
-cm.20min.ch
-api.20min.ch
-videoplayer.20min.ch
-partner-feeds.20min.ch
-screenplayer.20min.ch
-audio.20min.ch
 api.twilio.com
 tsock.us1.twilio.com
 sip.*.twilio.com
