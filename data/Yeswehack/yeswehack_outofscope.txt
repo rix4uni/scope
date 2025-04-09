@@ -64,6 +64,9 @@ techops.dana.id
 dm.dana.id
 encrypt.dana.id
 *.dana.id
+decathlon.com
+login.decathlon.net
+account.decathlon.com
 doc.demarches-simplifiees.fr
 beta.gouv.fr
 demarches-simplifiees.fr
