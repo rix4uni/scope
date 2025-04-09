@@ -35,9 +35,6 @@
 *.exchange.bitpanda.com
 *.otc.bitso.com
 *.efx.bitso.com
-*.appboy.com
-*.braze.eu
-*.braze.com
 *.freshdesk.com
 *.bullish.com
 *.cisco.com
