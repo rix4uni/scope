@@ -1,2 +1,8 @@
-bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
-bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
+20min.ch
+coral.20min.ch
+cm.20min.ch
+api.20min.ch
+videoplayer.20min.ch
+partner-feeds.20min.ch
+screenplayer.20min.ch
+audio.20min.ch
