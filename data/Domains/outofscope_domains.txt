@@ -421,6 +421,12 @@ wallpaper.opera.com
 tabfulness.opera.com
 32s.opera.com
 optimizely.com
+optus.com.au
+personal.optus.com.au
+yes4good.optus.com.au
+ocaportal.portal
+ibs.optus.com.au
+ibs2.optus.com.au
 originenergy.com.au
 auth.api.originenergy.com.au
 origin-energy.formstack.com
