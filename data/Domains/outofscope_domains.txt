@@ -434,6 +434,14 @@ yes4good.optus.com.au
 ocaportal.portal
 ibs.optus.com.au
 ibs2.optus.com.au
+originenergy.com.au
+auth.api.originenergy.com.au
+origin-energy.formstack.com
+compareandconnect.com.au
+agent.compareandconnect.com.au
+fastconnect.co.nz
+yourporter.com.au
+raywhitehomenow.com
 help.quizlet.com
 community.rapyd.net
 support.rapyd.net
