@@ -1,1 +1,2 @@
-*.grok.com
+*.ninjakiwi.me
+*.nkstatic.com
