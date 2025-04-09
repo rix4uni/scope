@@ -2425,8 +2425,6 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
-store.ninjakiwi.com
-support.ninjakiwi.com
 ovo.itgcanopy.com
 appsfwd.ovoenergy.com
 askovo.net
