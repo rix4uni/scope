@@ -193,6 +193,7 @@ np.*.lfscnp.com
 *.playlist.link
 *.mylink.page
 *.plannthat.com
+*.lululemon.com
 *.cloud.mattermost.com
 *.mgm.mo
 *.booking.mgm.mo
@@ -230,11 +231,6 @@ np.*.lfscnp.com
 *.dailyadvent.com
 *.opsgenie.com
 *.optus.com.au
-*.origindigital-pac.com.au
-*.odcdn.com.au
-*.support.originenergy.com.au
-*.api.originenergy.com.au
-*.download.originenergy.com.au
 *.pexels.com
 *.pinterest.com
 *.pixabay.com
