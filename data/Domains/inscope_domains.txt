@@ -878,6 +878,14 @@ gwapi1.tripadvisor.com
 gwapi2.tripadvisor.com
 rentals.tripadvisor.com
 marlo.ext.tripadvisor.com
+20min.ch
+coral.20min.ch
+cm.20min.ch
+api.20min.ch
+videoplayer.20min.ch
+partner-feeds.20min.ch
+screenplayer.20min.ch
+audio.20min.ch
 api.twilio.com
 tsock.us1.twilio.com
 twilio.com
@@ -3574,8 +3582,6 @@ business.soundtrackyourbrand.com
 auth.api.soundtrackyourbrand.com
 radio.api.soundtrackyourbrand.com
 soundtrackyourbrand.com
-aweb.suivo.com
-asupport.suivo.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
