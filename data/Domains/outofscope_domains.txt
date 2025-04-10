@@ -1390,9 +1390,6 @@ community.truecaller.com
 support.truecaller.com
 help.evernote.com
 svn.filezilla-project.org
-account.clario.co
-api-ne.clario.co
-api.account.opendoor.ltd
 oasisprotocol.org
 atp-exodus.com
 exodus.atlassian.net

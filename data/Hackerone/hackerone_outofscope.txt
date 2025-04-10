@@ -950,9 +950,6 @@ community.truecaller.com
 support.truecaller.com
 help.evernote.com
 svn.filezilla-project.org
-account.clario.co
-api-ne.clario.co
-api.account.opendoor.ltd
 *.hcltechsw.com
 oasisprotocol.org
 *.oasisprotocol.org
