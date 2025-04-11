@@ -1692,7 +1692,6 @@ help.tinder.com
 *.bitlove.co
 bitlove.co
 co.bitlove.opensource.fetlife
-fetlifemail.com
 fetlifestatus.com
 mail.fetlife.com
 n2.fetlife.com

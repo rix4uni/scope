@@ -1,4 +1,1 @@
-audience-builder.vistarmedia.com
-staging-login.vistarmedia.com
-clients.adstruc.com
-demo.adstruc.com
+fetlifemail.com
