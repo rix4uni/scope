@@ -5,6 +5,10 @@ portalapi.*.afterpay.com
 *.arloxcld.com
 *-prod.arlo.com
 *.central.arubanetworks.com
+*.asana.plus
+*.app.asana.com
+*.asana.biz
+*asana.biz
 *.atlassian.com
 *.atl-paas.net
 *.atlassian.net
@@ -279,6 +283,7 @@ np.*.lfscnp.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
+*.tools.thefork.tech
 *.tidal.com
 *.wimpmusic.com
 *.tidalhifi.com

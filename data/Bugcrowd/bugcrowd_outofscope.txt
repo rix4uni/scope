@@ -40,6 +40,10 @@ asp.arubanetworks.com
 lms.arubanetworks.com
 afp.arubanetworks.com
 csaf.arubanetworks.com
+asana.com
+*.integrations.asana.plus
+asana.okta.com
+assets.asana.biz
 bugcrowd.com
 shop.atlassian.com
 bytebucket.org
@@ -598,6 +602,8 @@ shop.eu.teslamotors.com
 service.tesla.com
 service.tesla.cn
 maxwell.com
+module.thefork.com
+lafourchette.com
 blog.thousandeyes.com
 app.thousandeyes.com
 developer.tidal.com

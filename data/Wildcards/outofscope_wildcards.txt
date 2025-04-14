@@ -8,6 +8,7 @@
 *.iot.developer.arubanetworks.com
 *.isb.arubanetworks.com
 *.arubademo.net
+*.integrations.asana.plus
 *.bitbucket.io
 *.australiansuper.com
 *.project1service.com

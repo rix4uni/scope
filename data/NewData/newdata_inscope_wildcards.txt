@@ -1,5 +1,5 @@
-*.origindigital-pac.com.au
-*.odcdn.com.au
-*.support.originenergy.com.au
-*.api.originenergy.com.au
-*.download.originenergy.com.au
+*.asana.plus
+*.app.asana.com
+*.asana.biz
+*asana.biz
+*.tools.thefork.tech
