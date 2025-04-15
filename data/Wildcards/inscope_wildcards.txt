@@ -86,6 +86,9 @@ casino.*.betmgm.com
 *.xvservice.net
 *.financialforce.com
 *.certinia.com
+*.flourish.studio
+*.xyzbmojn.net
+*.kiln.it
 *.hubspotemail.net
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
@@ -296,7 +299,6 @@ np.*.lfscnp.com
 *.bokuntest.com
 sip.*.twilio.com
 *.twilio.com
-*.api.ua.com
 *.gtld-servers.net
 *.youcouldbe.com
 *.namestudioforsocial.com
