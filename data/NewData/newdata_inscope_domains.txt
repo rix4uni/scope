@@ -1,13 +1,3 @@
-app.asana.com
-asana.com
-form.asana.com
-thefork.com
-m.thefork.com
-blog.thefork.com
-api.thefork.com
-api.lafourchette.com
-review-api.lafourchette.com
-google-reserve-api.thefork.io
-m-api.lafourchette.com
-restaurant-information.com
-widget.thefork.com
+rivian.com
+business.rivian.com
+basecamp.rivian.com

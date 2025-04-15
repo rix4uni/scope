@@ -1,5 +1,1 @@
-*.asana.plus
-*.app.asana.com
-*.asana.biz
-*asana.biz
-*.tools.thefork.tech
+*.rivian.com
