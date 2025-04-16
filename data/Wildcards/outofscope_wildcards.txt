@@ -190,6 +190,7 @@ auth.*.latitudefinancial.com
 *.vans.com.py
 *.agilebits.com
 *.zipbooks.com
+*.pgs.casino
 *.amazonaws.com
 db.*.supabase.co
 *.supabase.co

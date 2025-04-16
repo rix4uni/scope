@@ -79,6 +79,7 @@ okta.whoop.com
 support.1password.com
 1password.com
 *.zipbooks.com
+*.pgs.casino
 console.toloka.ai
 support.toloka.help
 we.toloka.ai
