@@ -1088,6 +1088,13 @@ gift.starbucks.co.jp
 login.starbucks.co.jp
 starbucks.co.jp
 starbucks.com.cn
+alfred.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+api.syfe.com
+mark8.syfe.com
+uat-bugbounty.nonprod.syfe.com
+syfe.com
+wearehackerone.com
 ai.toloka.expert
 auth.toloka.ai
 experts-portal.toloka.ai
@@ -1800,7 +1807,6 @@ voapi-au.8x8.com
 voapi-uk.8x8.com
 work-staging.8x8.com
 work.8x8.com
-wearehackerone.com
 appt.healthclinics.superdrug.com
 healthclinics.superdrug.com
 api.drogas.lt

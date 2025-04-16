@@ -59,6 +59,13 @@ gift.starbucks.co.jp
 login.starbucks.co.jp
 starbucks.co.jp
 starbucks.com.cn
+alfred.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+api.syfe.com
+mark8.syfe.com
+uat-bugbounty.nonprod.syfe.com
+syfe.com
+wearehackerone.com
 ai.toloka.expert
 auth.toloka.ai
 experts-portal.toloka.ai
@@ -933,7 +940,6 @@ work.8x8.com
 *.iciparisxl.lu
 *.kruidvat.nl
 *.kruidvat.be
-wearehackerone.com
 itunes.apple.com
 *.marionnaud.it
 *.marionnaud.fr
