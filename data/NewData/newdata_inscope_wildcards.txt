@@ -1,1 +1,2 @@
-*.api.ua.com
+*.datacamp.com
+*.veriff.com
