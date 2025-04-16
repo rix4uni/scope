@@ -95,6 +95,7 @@ totalhealth.nba.com
 db.*.supabase.co
 *.supabase.co
 api.supabase.com
+ctf.supabase.com
 github.com
 supabase.dev
 supabase.productions

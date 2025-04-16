@@ -632,6 +632,7 @@ mcdalerts.nba.com
 mindhealth.nba.com
 totalhealth.nba.com
 api.supabase.com
+ctf.supabase.com
 supabase.dev
 supabase.productions
 auth.finnair.com
