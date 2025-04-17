@@ -472,6 +472,7 @@ tidal.com
 community.squareup.com
 itunes.apple.com
 techapps.t-mobile.com
+wfmmobile.t-mobile.com
 employeefeedback.tesla.com
 energysupport.tesla.com
 bugbounty.zoho.com
