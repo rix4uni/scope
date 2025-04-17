@@ -305,6 +305,7 @@ db.*.supabase.co
 *bc.earlywarning.com
 *.zellepay.com
 *.email.instacart.com
+*.expedia.com
 *.netlify.app
 *.netlify.com
 *.netlifycms.org

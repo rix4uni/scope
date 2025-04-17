@@ -1142,6 +1142,7 @@ news.instacart.com
 tech.instacart.com
 phpbb.com
 china.airasiago.com
+*.expedia.com
 thailand.airasiago.com
 expediapartnersolutions.com
 api-portal.etoro.com
