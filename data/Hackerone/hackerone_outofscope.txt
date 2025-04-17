@@ -136,6 +136,15 @@ wellhive.com
 *aeromexico.com
 aeromexico.com
 support.lighstpark.com
+*.dev.travix.com
+staging.travix.com
+stg.travix.com
+dev.travix.com
+development.travix.com
+playground.travix.com
+*.development.travix.com
+*.playground.travix.com
+*.stg.travix.com
 tilismtechservices.com
 api-3.xverse.app
 api.xverse.app

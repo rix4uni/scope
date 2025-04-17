@@ -198,6 +198,10 @@ db.*.supabase.co
 *.3cx.com
 *.security.neustar
 *aeromexico.com
+*.dev.travix.com
+*.development.travix.com
+*.playground.travix.com
+*.stg.travix.com
 *.ionity.eu
 *.gobrightspeed.net
 *.envira.es
