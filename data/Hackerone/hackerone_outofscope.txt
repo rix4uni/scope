@@ -415,7 +415,6 @@ request-headers.moonpay.com
 storefront.hypermint.com
 support.moonpay.com
 *.koho.ca
-mavieencouleurs.fr
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
 enterpriseregistration.apnic.net
