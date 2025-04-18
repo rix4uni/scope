@@ -1643,6 +1643,7 @@ nextcloud.atlassian.net
 sentry.nextcloud.com
 sentry.io
 try.nextcloud.com
+apply.starbucks.com
 *.ruby-lang.org
 anomotion.com
 any-invalid-domains.rockstargames.com

@@ -1957,6 +1957,7 @@ nextcloud.atlassian.net
 sentry.nextcloud.com
 sentry.io
 try.nextcloud.com
+apply.starbucks.com
 anomotion.com
 any-invalid-domains.rockstargames.com
 rockstargames.com
