@@ -1169,7 +1169,6 @@ api.lightspark.com
 app.lightspark.com
 link.uma.me
 trip.com
-belaz.bykea.net
 bykea.com
 api.bykea.net
 geocode-beta.bykea.net

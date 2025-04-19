@@ -170,7 +170,6 @@ link.uma.me
 *.trip.com
 trip.com
 *.bykea.net
-belaz.bykea.net
 bykea.com
 api.bykea.net
 geocode-beta.bykea.net
