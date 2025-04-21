@@ -348,6 +348,7 @@ vc.tasheer.com
 *.vfsglobal.by
 vfsevisa.id
 *.vfsai.com
+cicforms.mioot.com
 vinci.com
 leonard.vinci.com
 castor.vinci.com

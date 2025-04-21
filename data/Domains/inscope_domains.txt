@@ -2980,8 +2980,6 @@ fishbowlapp.com
 glassdoor.com
 fetlife.com
 fetlifemail.com
-dashboard.algolia.com
-algolia.com
 appgallery.huawei.com
 api.grabpay.com
 gamma.grab.co
@@ -4018,6 +4016,7 @@ indonesiavoa.vfsevisa.id
 vfsglobalservices-germany.com
 vc.tasheer.com
 vfsevisa.id
+cicforms.mioot.com
 vinci.com
 leonard.vinci.com
 castor.vinci.com
