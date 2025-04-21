@@ -1032,6 +1032,8 @@ aiq-prod.codebig2.net
 staging-app.bany.dev
 staging-api.ynab.com
 ynab.com
+store-usa.arduino.cc
+silabs.com
 api.prod.whoop.com
 app.whoop.com
 join.whoop.com

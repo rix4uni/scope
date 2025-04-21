@@ -1,3 +1,6 @@
+store-usa.arduino.cc
+github.com
+silabs.com
 api.prod.whoop.com
 app.whoop.com
 join.whoop.com
@@ -78,7 +81,6 @@ mindrift.toloka.ai
 sso.auth.toloka.ai
 tb.toloka.dev
 *.toloka.ai
-github.com
 workspace.toloka.ai
 workspace.toloka.dev
 2kleague.nba.com

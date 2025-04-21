@@ -1,1 +1,2 @@
-cicforms.mioot.com
+store-usa.arduino.cc
+silabs.com
