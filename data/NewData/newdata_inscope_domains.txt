@@ -1,2 +1,1 @@
-store-usa.arduino.cc
-silabs.com
+healthaid.lemonaidhealth.com
