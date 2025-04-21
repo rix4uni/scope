@@ -618,6 +618,9 @@ news.hemi.xyz
 okta.whoop.com
 support.1password.com
 1password.com
+investor.pepsico.com
+investors.pepsico.com
+pepsico.com
 console.toloka.ai
 support.toloka.help
 we.toloka.ai
