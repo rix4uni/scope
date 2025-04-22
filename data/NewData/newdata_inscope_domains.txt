@@ -1,12 +1,1 @@
-vendors.paddle.com
-sandbox-vendors.paddle.com
-api.paddle.com
-sandbox-api.paddle.com
-sandbox-checkout-service.paddle.com
-sandbox-buy.paddle.com
-paddle.net
-customer-portal.paddle.com
-login.paddle.com
-sandbox-login.paddle.com
-paddle.com
-developer.paddle.com
+console.mapbox.com

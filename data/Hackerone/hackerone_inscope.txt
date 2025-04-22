@@ -2633,6 +2633,7 @@ docs.mapbox.com
 mapbox.com
 studio.mapbox.com
 account.mapbox.com
+console.mapbox.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnbcitizen.com
