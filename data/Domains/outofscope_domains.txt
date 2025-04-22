@@ -2596,6 +2596,8 @@ moneyboxapp.onelogin.com
 otto.de
 keycloak.apps.otto.de
 help-okto.sprinklr.com
+checkout-service.paddle.com
+buy.paddle.com
 sequoia-pgp.org
 sogexia.com
 support.sogexia.com
