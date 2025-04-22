@@ -15,7 +15,6 @@ events.aiven.io
 ideas.aiven.io
 aivenhelp.zendesk.com
 support.aiven.io
-*.dieboldnixdorf.com
 *.arubanetworks.com
 *.hpe.com
 outdoorplanner.arubanetworks.com
