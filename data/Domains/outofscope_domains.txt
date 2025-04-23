@@ -2441,6 +2441,7 @@ cms.optimuscards.com
 innovatie.vrt.be
 shop.vtm.be
 vtmgo.be
+station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

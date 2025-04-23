@@ -475,9 +475,9 @@ louvre.veriff.me
 magic.veriff.me
 station.veriff.com
 stationapi.veriff.com
-veriff.com
 *.veriff.com
 developers.veriff.me
+veriff.com
 photoservice.stage.vismaonline.com
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
