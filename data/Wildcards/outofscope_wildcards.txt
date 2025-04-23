@@ -172,6 +172,7 @@ auth.*.latitudefinancial.com
 *.thenorthface.cr
 *.thenorthface.gt
 *.thenorthface.hn
+*.thenorthface.jp
 *.thenorthface.sv
 *.timberland.com.mx
 *.timberlandpro.com.mx
