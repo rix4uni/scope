@@ -172,13 +172,14 @@ help.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 secure.netflix.com
+*.lemonaidhealth.com
+lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
 clinic.lemonaidhealth.com
 education.23andme.com
 healthaid.lemonaidhealth.com
-lemonaidhealth.com
 mediacenter.23andme.com
 medical.23andme.com
 pd-api.polkadoc.com
