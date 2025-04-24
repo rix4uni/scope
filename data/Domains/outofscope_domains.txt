@@ -2233,11 +2233,12 @@ support.hackerone.com
 hackeronestatus.com
 technik.autobild.de
 technik.beta.autobild.de
+gitlab.buhler-datascience.ch
+bestbuy.buhlergroup.com
+channel.buhlergroup.com
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-channel.buhlergroup.com
-bestbuy.buhlergroup.com
 help.capital.com
 dccertified.datacamp.com
 app.datacamp.com

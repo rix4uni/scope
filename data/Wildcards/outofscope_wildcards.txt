@@ -472,10 +472,10 @@ online.*.skybingo.com
 *.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
-*.virtualworld.buhlergroup.com
-*.virtualworld-portal.buhlergroup.com
-*.webinars.buhlergroup.com
 *.learnhub.buhlergroup.com
+*.virtualworld-portal.buhlergroup.com
+*.virtualworld.buhlergroup.com
+*.webinars.buhlergroup.com
 *affiliates.backend-capital.com
 *eduapp.backend-capital.com
 *education.backend-capital.com
