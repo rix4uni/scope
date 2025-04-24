@@ -1,5 +1,4 @@
 app.aikido.dev
-github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -99,6 +98,7 @@ delen.be
 *.digitalocean.com
 api.digitalocean.com
 cloud.digitalocean.com
+github.com
 marketplace.digitalocean.com
 snapshooter.com
 digitalocean.com
@@ -503,6 +503,23 @@ mds.voiapp.io
 report.voi.com
 voi.com
 voiscooters.com
+app.getflywheel.com
+getflywheel.com
+my.wpengine.com
+payments.wpengine.com
+wpengine.com
+advancedcustomfields.com
+bettersearchreplace.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
+makeshift.film
+studiopress.blog
+torquemag.io
+velocitize.com
 desktop.water-link.be
 pit.water-link.be
 *.water-link.be
