@@ -370,6 +370,7 @@ firefox.settings.services.allizom.org
 hg.mozilla.org
 lando.services.mozilla.com
 api.lando.services.mozilla.com
+lando.moz.tools
 ui.dev.lando.nonprod.cloudops.mozgcp.net
 ui.stage.lando.nonprod.cloudops.mozgcp.net
 api.dev.lando.nonprod.cloudops.mozgcp.net
