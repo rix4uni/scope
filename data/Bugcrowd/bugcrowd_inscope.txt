@@ -166,6 +166,8 @@ identity.bugcrowd.com
 *.bugcrowd.com
 bullish.com
 investor.bullish.com
+simnext.bullish-test.com
+api.simnext.bullish-test.com
 canva.com
 api.canva.com
 *.canva.com
