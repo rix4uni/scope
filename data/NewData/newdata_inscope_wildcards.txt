@@ -1,1 +1,1 @@
-*.lemonaidhealth.com
+*.hostgator.com.br

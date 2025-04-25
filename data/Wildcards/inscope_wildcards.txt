@@ -89,6 +89,7 @@ casino.*.betmgm.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it
+*.hostgator.com.br
 *.hubspotemail.net
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
@@ -342,7 +343,6 @@ sip.*.twilio.com
 *.netflix.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
-*.lemonaidhealth.com
 *.bybit.com
 *.cheaptickets.nl
 *.trainpal.com

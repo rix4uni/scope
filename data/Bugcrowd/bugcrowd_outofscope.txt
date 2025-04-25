@@ -262,6 +262,7 @@ us.app.gearset.com
 eu.app.gearset.com
 ap.app.gearest.com
 gearset.com
+carrinho.hostgator.com.br
 try.hotdoc.com.au
 shop.hubspot.com
 trust.hubspot.com
