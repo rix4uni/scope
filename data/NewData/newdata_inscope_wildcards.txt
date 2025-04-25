@@ -1,1 +1,3 @@
-*.hostgator.com.br
+*.just-eat.ch
+*.skippayments.com
+*.jet-external.com
