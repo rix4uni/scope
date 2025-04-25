@@ -865,7 +865,7 @@ community.agoric.com
 agoric.zoom.us
 agoricopco.slack.com
 dunnhumby.com
-tescomobile.com
+tescobank.com
 clicks.moonpay.com
 docs.hypermint.com
 docs.moonpay.com
@@ -1067,8 +1067,10 @@ eiamd-eis.com
 frtcmodernization.com
 nicmontereyea.com
 nwtteis.com
+oss.ultipro.com
 pmsr-eis.com
 sealbeachea.com
+theossteam.unanet-gc.biz
 uat1.acqcenter.com
 uat2.acqcenter.com
 rescan.io
