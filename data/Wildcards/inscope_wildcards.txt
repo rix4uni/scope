@@ -208,6 +208,8 @@ np.*.lfscnp.com
 *nu.com.co
 *.nuinvest.com.br
 *.octopus.com
+*.openai.org
+*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
