@@ -299,11 +299,6 @@ ecwid.com
 community.li.me
 help.li.me
 li.me
-filestack.com
-freshdesk.com
-blstr.xyz
-blstr.co
-community.linktr.ee
 fr.shop.lululemon.com
 lululemon.me
 careers.lululemon.com
@@ -311,6 +306,7 @@ info.lululemon.com
 pnimage.lululemon.com
 pnimages.lululemon.com
 mirror.co
+americangirlmena.com
 opay.icbc.com
 opay.icbc.com.cn
 mgmchinaholdings.com
