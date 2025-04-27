@@ -2,7 +2,6 @@
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
-*.aikido.dev
 *.allegro.sk
 *.allegro.cz
 *.allegro.pl
@@ -159,12 +158,6 @@ tracking.ovo.com
 *.pdq.com
 *.simplemdm.com
 *.smartdeploy.com
-personio.de
-personio.slack.com
-statuspage.personio.de
-support.personio.de
-personio.com
-personio.es
 future.portofantwerp.com
 future.portofantwerpbruges.com
 jobs.portofantwerp.com
