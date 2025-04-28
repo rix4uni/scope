@@ -1,1 +1,1 @@
-*.datacamp.com
+*.quizlet.com

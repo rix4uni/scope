@@ -370,14 +370,6 @@ help.li.me
 *.limeinternal.com
 *.lime.bike
 li.me
-filestack.com
-*.filestack.com
-freshdesk.com
-blstr.xyz
-*.blstr.xyz
-blstr.co
-*.blstr.co
-community.linktr.ee
 *.lululemon.cn
 fr.shop.lululemon.com
 lululemon.me
@@ -520,6 +512,7 @@ agent.compareandconnect.com.au
 fastconnect.co.nz
 yourporter.com.au
 raywhitehomenow.com
+help.quizlet.com
 community.rapyd.net
 support.rapyd.net
 docs.rapyd.net
