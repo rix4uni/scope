@@ -81,9 +81,6 @@ support.1password.com
 1password.com
 *.zipbooks.com
 *.pgs.casino
-investor.pepsico.com
-investors.pepsico.com
-pepsico.com
 console.toloka.ai
 support.toloka.help
 we.toloka.ai
