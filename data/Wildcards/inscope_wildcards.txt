@@ -973,7 +973,6 @@ sip.*.twilio.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.vlaanderen.be
@@ -1021,6 +1020,12 @@ sip.*.twilio.com
 *.nkstatic.com
 *.oda.com
 *.prod.nube.tech
+*.app.personio-dev.com
+*.app.personio.com
+*.personio-internal.de
+*.personio.tools
+*.personio.de
+*.personiowhistleblowing.com
 *.c-point.be
 *.ripe.net
 *.rivian.com
