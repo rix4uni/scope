@@ -234,6 +234,7 @@ np.*.lfscnp.com
 *.pinterest.com
 *.pixabay.com
 *.privateinternetaccess.com
+*.quizlet.com
 *.rapyd.net
 *.neatcommerce.com
 *.korta.is
