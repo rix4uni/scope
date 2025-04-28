@@ -3244,6 +3244,7 @@ design.gitlab.com
 docs.gitlab.com
 registry.gitlab.com
 ai.x.grokapp
+ai.x.grok
 gnip.com
 grok.com
 x.com

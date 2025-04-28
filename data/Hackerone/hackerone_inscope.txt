@@ -2849,6 +2849,7 @@ registry.gitlab.com
 *.x.ai
 *.x.com
 ai.x.grokapp
+ai.x.grok
 gnip.com
 grok.com
 x.com
