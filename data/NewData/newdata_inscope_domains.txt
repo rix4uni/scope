@@ -1,5 +1,6 @@
-api.openai.com
-chat.openai.com
-openai.org
-openai.com
-platform.openai.com
+api.localizestaging.com
+help.localizejs.com
+api.localizejs.com
+app.localizestaging.com
+cdn.localizestaging.com
+localizestaging.com
