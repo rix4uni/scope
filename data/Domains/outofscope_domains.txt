@@ -640,6 +640,14 @@ wssubjectprescreenplus.asmx
 legalplans-idtheft.com
 wellhive.com
 aeromexico.com
+creators.audibletrial.com
+audible.targetcircle.com
+audible.ca
+audible.com
+help.audible.com
+audiblehub.com
+newsletters.audible.com
+audiblecareers.com
 support.lighstpark.com
 staging.travix.com
 stg.travix.com
