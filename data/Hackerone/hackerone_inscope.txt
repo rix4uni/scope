@@ -1117,14 +1117,6 @@ shop-id.tokopedia.com
 shop.tiktok.com
 tiktok.com
 pangleglobal.com
-microsoft.com
-desktop.miro.com
-miro.dmg
-developers.miro.com
-api.miro.com
-miro.com
-marketplace.atlassian.com
-help.miro.com
 *.1debit.com
 *.chime.com
 *.chimebank.com
@@ -1161,6 +1153,7 @@ gasstation.polygon.technology
 portal.polygon.technology
 staking-api.polygon.technology
 staking.polygon.technology
+marketplace.atlassian.com
 figma.slack.com
 appsource.microsoft.com
 api.figma.com
@@ -1358,6 +1351,7 @@ store.line.me
 nvapis.line.me
 *.line.naver.jp
 *.linecorp.com
+microsoft.com
 linevoom.line.me
 desktop.line-scdn.net
 recruit.linepluscorp.com

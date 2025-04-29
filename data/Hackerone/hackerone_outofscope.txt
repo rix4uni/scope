@@ -765,11 +765,6 @@ wavecell.com
 eflow.watsons.com.tw
 form.watsons.com.my
 watsons.com.my
-community.miro.com
-developers.miro.com
-help.miro.com
-miro.com
-status.miro.com
 *.corebridgefinancial.com
 *.travelguard.com
 travel.aig.co.jp

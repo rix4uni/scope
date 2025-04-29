@@ -1945,12 +1945,6 @@ shop-id.tokopedia.com
 shop.tiktok.com
 tiktok.com
 pangleglobal.com
-desktop.miro.com
-miro.dmg
-developers.miro.com
-api.miro.com
-miro.com
-help.miro.com
 app.chime.com
 app.saltlabs.com
 app.staging.saltlabs.com
