@@ -1562,6 +1562,7 @@ compass.com
 connect.secure.wellsfargo.com
 wellsfargo.com
 admin.wickr.com
+greenchannel.payoneer.com.cn
 payoneer.com.cn
 agoric.com
 object.method
