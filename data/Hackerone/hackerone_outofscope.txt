@@ -536,7 +536,6 @@ zebra.cn
 *.firstdata.com
 *.fiserv.com
 blog.playtronics.com
-boh.olbanking.com
 api.clover.com
 api.eu.clover.com
 bankwithstifel.com
