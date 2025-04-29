@@ -44,10 +44,6 @@ hsd1.*.comcast.net
 *.delltechnologies.com
 *.sandbox.directly.com
 *dev.ibotta.com
-*.ecomanda.com.br
-*.ecomanda.app
-*.allin.movilepay.com
-*.starsoft.movilepay.com
 *.godsunchained.com
 *.gogbackend.com
 *.dev.x.immutable.com
