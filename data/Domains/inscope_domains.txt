@@ -1965,6 +1965,7 @@ wp-qa.chime.com
 chime.com
 app.launchdarkly.com
 docs.launchdarkly.com
+launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 api-gateway.polygon.technology
