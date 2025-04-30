@@ -336,6 +336,7 @@ sip.*.twilio.com
 *.netflix.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.acx.com
 *.bybit.com
 *.cheaptickets.nl
 *.trainpal.com

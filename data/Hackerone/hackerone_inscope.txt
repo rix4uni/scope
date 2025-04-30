@@ -187,6 +187,7 @@ sapi-live.lh.us-west-2.prd.23andme.us
 store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
+*.acx.com
 tax.audible.com
 temu.com
 api.lightspark.com
