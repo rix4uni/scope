@@ -101,6 +101,7 @@ auth.*.latitudefinancial.com
 *.esgiq.com
 *.trustweek2021.com
 *.optus.com.au
+*.accounts.ondemand.com
 *.1shoppingcart.com
 *.afterpay.com
 *.cash.me
