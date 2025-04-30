@@ -1193,6 +1193,7 @@ temu.com
 api.lightspark.com
 app.lightspark.com
 link.uma.me
+uma.money
 trip.com
 bykea.com
 api.bykea.net

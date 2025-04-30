@@ -193,6 +193,7 @@ temu.com
 api.lightspark.com
 app.lightspark.com
 link.uma.me
+uma.money
 *.bybit.com
 *.cheaptickets.nl
 *.trainpal.com
