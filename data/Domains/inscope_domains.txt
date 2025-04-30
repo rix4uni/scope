@@ -2262,7 +2262,6 @@ link.wotif.com
 res.ac.wotif.com
 smobile.wotif.com
 w.smobile.wotif.com
-bookus.expediacruises.com
 abritel.fr
 bookabach.co.nz
 carrentals.com

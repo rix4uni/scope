@@ -1147,6 +1147,7 @@ life.instacart.com
 news.instacart.com
 tech.instacart.com
 phpbb.com
+bookus.expediacruises.com
 china.airasiago.com
 *.expedia.com
 thailand.airasiago.com
