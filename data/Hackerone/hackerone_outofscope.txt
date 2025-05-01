@@ -107,6 +107,8 @@ youtube.com
 advisoryworld.com
 *.varonis-preprod.com
 issue-management.iontrading.com
+docs.wallet.tg
+wallet.helpscoutdocs.com
 lowesprosupply.com
 *.rentals.rei.com
 desktop.rei.com

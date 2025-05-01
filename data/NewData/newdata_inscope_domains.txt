@@ -1,1 +1,4 @@
-launchdarkly.com
+pay.wallet.tg
+t.me
+wallet.tg
+walletbot.me

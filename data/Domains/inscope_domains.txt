@@ -1154,6 +1154,10 @@ app-sandbox.circle.com
 console.circle.com
 portal.playground.klarna.com
 app.klarna.com
+pay.wallet.tg
+t.me
+wallet.tg
+walletbot.me
 api.vault.chiatest.net
 vault.chiatest.net
 wordpress.org
