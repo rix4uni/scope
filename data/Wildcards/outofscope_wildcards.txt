@@ -195,6 +195,7 @@ db.*.supabase.co
 *.3cx.com
 *.security.neustar
 *aeromexico.com
+*.acx.com
 *.dev.travix.com
 *.development.travix.com
 *.playground.travix.com

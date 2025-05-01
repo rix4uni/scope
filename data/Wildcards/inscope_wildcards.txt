@@ -336,7 +336,6 @@ sip.*.twilio.com
 *.netflix.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
-*.acx.com
 *.audible.com
 *.audible.ca
 *.audible.com.au
