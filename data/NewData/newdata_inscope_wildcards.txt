@@ -1,1 +1,10 @@
-*.acx.com
+*.audible.com
+*.audible.ca
+*.audible.com.au
+*.audible.co.uk
+*.audible.com.br
+*.audible.in
+*.audible.fr
+*.audible.es
+*.audible.co.jp
+*.audible.it

@@ -191,6 +191,16 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 *.acx.com
+*.audible.com
+*.audible.ca
+*.audible.com.au
+*.audible.co.uk
+*.audible.com.br
+*.audible.in
+*.audible.fr
+*.audible.es
+*.audible.co.jp
+*.audible.it
 tax.audible.com
 temu.com
 api.lightspark.com
