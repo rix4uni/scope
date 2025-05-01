@@ -482,7 +482,6 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
 *.db.ondigitalocean.com
@@ -497,9 +496,6 @@ online.*.skybingo.com
 *.cineramabios.nl
 *.oisl.gg
 *.vectus.in
-*.pdq.com
-*.simplemdm.com
-*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com
