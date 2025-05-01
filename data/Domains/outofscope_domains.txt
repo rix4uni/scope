@@ -2292,7 +2292,6 @@ talent.moralis.io
 nexuzhealth.com
 store.ninjakiwi.com
 support.ninjakiwi.com
-ovo.itgcanopy.com
 appsfwd.ovoenergy.com
 askovo.net
 auth-retail.ovoenergy.com
@@ -2312,6 +2311,7 @@ learn.ovo.com
 lightning.ovoenergy.com
 ovo-comms-uat.co.uk
 ovo-comms.co.uk
+ovo.itgcanopy.com
 ovobyus.com
 ovocards.com
 ovocommunity.com
