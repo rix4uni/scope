@@ -347,6 +347,7 @@ sip.*.twilio.com
 *.audible.es
 *.audible.co.jp
 *.audible.it
+*.audible.de
 *.bybit.com
 *.cheaptickets.nl
 *.trainpal.com

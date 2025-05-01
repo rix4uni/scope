@@ -201,6 +201,7 @@ you.23andme.com
 *.audible.es
 *.audible.co.jp
 *.audible.it
+*.audible.de
 tax.audible.com
 temu.com
 api.lightspark.com
