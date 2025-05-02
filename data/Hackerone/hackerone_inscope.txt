@@ -203,10 +203,11 @@ you.23andme.com
 *.audible.de
 tax.audible.com
 temu.com
+app.uma.money
 api.lightspark.com
 app.lightspark.com
 link.uma.me
-uma.money
+lrc20.lightspark.com
 *.bybit.com
 *.cheaptickets.nl
 *.trainpal.com

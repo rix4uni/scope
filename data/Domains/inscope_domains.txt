@@ -1194,10 +1194,11 @@ therapeutics.23andme.com
 you.23andme.com
 tax.audible.com
 temu.com
+app.uma.money
 api.lightspark.com
 app.lightspark.com
 link.uma.me
-uma.money
+lrc20.lightspark.com
 trip.com
 bykea.com
 api.bykea.net
