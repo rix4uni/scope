@@ -2895,7 +2895,6 @@ waf.cumulusfire.net
 crowdsignal.com
 jetpack.com
 texts.com
-wordpress.com
 akismet.com
 api.tumblr.com
 assets.tumblr.com
@@ -2909,6 +2908,7 @@ secure.tumblr.com
 simperium.com
 simplenote.com
 t.umblr.com
+wordpress.com
 tumblr.com
 *.irccloud-cdn.com
 *.irccloud.com
