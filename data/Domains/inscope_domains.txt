@@ -228,6 +228,7 @@ sks-ch-gva-2.exo.io
 expressvpn.com
 chromewebstore.google.com
 financialforce.com
+fivetran.com
 flo.uri.sh
 flourish.studio
 xyzbmojn.net
