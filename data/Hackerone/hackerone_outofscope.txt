@@ -1526,6 +1526,13 @@ status.grammarly.com
 brand.grammarly.com
 partners.grammarly.com
 events.grammarly.com
+quote.oc.autodesk.com
+amart.oc.autodesk.com
+checkoutservice-stg.autodesk.com
+payment-profile-gateway.oc.autodesk.com
+payment-profile-gateway.ocstg.autodesk.com
+profile-stg.autodesk.com
+stg-manage.autodesk.com
 chat.hyperledger.org
 hyperledger.github.io
 identity.linuxfoundation.org
