@@ -979,6 +979,9 @@ sip.*.twilio.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1035,6 +1038,7 @@ sip.*.twilio.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
+*.c-point.be
 *.ripe.net
 *.rivian.com
 *.rhinternal.net

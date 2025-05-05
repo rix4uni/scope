@@ -21,6 +21,10 @@ channel.buhlergroup.com
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
@@ -145,6 +149,14 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
+future.portofantwerp.com
+future.portofantwerpbruges.com
+jobs.portofantwerp.com
+jobs.portofantwerpbruges.com
+media.portofantwerp.com
+media.portofantwerpbruges.com
+register.portofantwerp.com
+register.portofantwerpbruges.com
 *.brightplus.be
 *.career.be
 *.entrili.com

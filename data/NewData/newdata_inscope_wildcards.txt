@@ -1,1 +1,4 @@
-*.audible.de
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
+*.c-point.be
