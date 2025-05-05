@@ -73,6 +73,7 @@ vans.com.ec
 vans.com.pa
 vans.com.pe
 vans.com.py
+github.com
 docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com
@@ -98,7 +99,6 @@ db.*.supabase.co
 *.supabase.co
 api.supabase.com
 ctf.supabase.com
-github.com
 supabase.dev
 supabase.productions
 auth.finnair.com
