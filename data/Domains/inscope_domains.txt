@@ -3891,12 +3891,6 @@ invitation.infomaniak.com
 yeswehack.staging.komoju.com
 multipay-staging.test.komoju.com
 doc.komoju.com
-hpr.kiwai-normandie.fr
-api.hpr.kiwai-normandie.fr
-ppr.kiwai-enr.fr
-kiwai-enr.fr
-api.kiwai-normandie.fr
-kiwai-normandie.fr
 louisvuitton.com
 api.louisvuitton.com
 hack1.mtrx.ovh
