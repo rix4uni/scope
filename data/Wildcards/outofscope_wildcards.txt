@@ -285,7 +285,6 @@ db.*.supabase.co
 *.corebridgefinancial.com
 *.travelguard.com
 *.fip.finra.org
-*.pantheonsite.io
 *.matic.network
 *.1337.or.id
 *.hcltechsw.com

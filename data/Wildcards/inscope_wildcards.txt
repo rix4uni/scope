@@ -513,13 +513,6 @@ sip.*.twilio.com
 *.watsons.vn
 *.tiktok.com
 *.tiktokv.com
-*.1debit.com
-*.chime.com
-*.chimebank.com
-*.chimecard.com
-*.chimepayments.com
-*.chmfin.com
-*.saltlabs.com
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl

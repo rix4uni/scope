@@ -783,9 +783,6 @@ travel.aig.co.jp
 corebridgefinancial.com
 *.fip.finra.org
 ews.finra.org
-*.pantheonsite.io
-careers.chime.com
-nd.chime.com
 blog.launchdarkly.com
 launchdarkly.com
 sandbox.launchdarkly.com

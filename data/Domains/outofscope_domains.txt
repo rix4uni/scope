@@ -1196,8 +1196,6 @@ travel.aig.co.jp
 1008.aig.com
 corebridgefinancial.com
 ews.finra.org
-careers.chime.com
-nd.chime.com
 blog.launchdarkly.com
 launchdarkly.com
 sandbox.launchdarkly.com
