@@ -187,6 +187,10 @@ subs.foreignaffairs.com
 subscribe.foreignaffairs.com
 world101.cfr.org
 modeldiplomacy.cfr.org
+careers.chime.com
+nd.chime.com
+chime.financial
+chimescholars.org
 merakipartners.com
 developers.meraki.com
 smhelp.meraki.com

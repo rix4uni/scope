@@ -1,1 +1,7 @@
-*.datacamp.com
+*.chimepayments.com
+*.chime.com
+*.1debit.com
+*.chimecard.com
+*.chmfin.com
+*.chimebank.com
+*.saltlabs.com

@@ -141,6 +141,13 @@ foreignaffairs.com
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
+chime.com
+app.chime.com
+app.bitrise.io
+member-qa.chime.com
+app-qa.chime.com
+app.saltlabs.com
+app.staging.saltlabs.com
 meraki.cisco.com
 apps.meraki.io
 api.classdojo.com
@@ -1597,7 +1604,6 @@ api.stg.inspectorio.com
 app.stg.inspectorio.com
 h1way.stg.inspectorio.com
 docuflow.stg.inspectorio.com
-app.bitrise.io
 id.stg.inspectorio.com
 report-html-sight.stg.inspectorio.com
 rise-api.stg.inspectorio.com

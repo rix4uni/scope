@@ -42,6 +42,13 @@ portalapi.*.afterpay.com
 *.canva-apps.cn
 *.cash.app
 *.cashstaging.app
+*.chimepayments.com
+*.chime.com
+*.1debit.com
+*.chimecard.com
+*.chmfin.com
+*.chimebank.com
+*.saltlabs.com
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
