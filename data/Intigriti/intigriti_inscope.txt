@@ -472,7 +472,6 @@ stationapi.veriff.com
 *.veriff.com
 developers.veriff.me
 veriff.com
-photoservice.stage.vismaonline.com
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com
@@ -489,6 +488,7 @@ identity.stage.vismaonline.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
+photoservice.stage.vismaonline.com
 testing.maventa.com
 api.voiapp.io
 io.voiapp.voi
