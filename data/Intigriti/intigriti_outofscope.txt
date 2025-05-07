@@ -122,6 +122,7 @@ talent.moralis.io
 nexuzhealth.com
 store.ninjakiwi.com
 support.ninjakiwi.com
+vp-alexandria.gridsvc.net
 *.oisl.gg
 appsfwd.ovoenergy.com
 askovo.net
