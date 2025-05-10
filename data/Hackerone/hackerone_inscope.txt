@@ -1,3 +1,7 @@
+bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
+bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
+bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com
+braze.com
 store-usa.arduino.cc
 github.com
 silabs.com
@@ -341,7 +345,6 @@ sdx.com
 bolsasymercados.es
 six-group.com
 us.eufy.com
-ankermake.com
 api-user.e2ro.com
 node.e2ro.com
 ads.mozilla.org
@@ -848,9 +851,6 @@ securitytrails.com
 therecord.media
 tria.ge
 recordedfuture.com
-*.clubhouse.com
-*.clubhouseapi.com
-*.joinclubhouse.com
 *.api.cx.metamask.io
 developer.metamask.io
 staking.consensys.io
@@ -875,8 +875,8 @@ support.link.com
 *.reckoproduction.com
 *.reckostaging.com
 *.stripe.com
-stripe.com
 docs.stripe.com
+stripe.com
 checkout.stripe.com
 dashboard.stripe.com
 api.stripe.com
@@ -1475,8 +1475,6 @@ mi.cheaptickets.com
 refer.cheaptickets.com
 secure.cheaptickets.com
 track.cheaptickets.com
-*.expediacruises.com
-socialhub.expediacruises.com
 *.expediapartnercentral.com
 discoveryhub.expediapartnersolutions.com
 gco-get.expediapartnersolutions.com
@@ -1531,7 +1529,6 @@ ebookers.fi
 expedia.com
 expedia.co.in
 expedia.co.uk
-expediaagents.com
 expediagroup.com
 expediataap.com
 fewo-direkt.de
@@ -1568,6 +1565,7 @@ charts.etoro.com
 delta.app
 etorologsapi.etoro.com
 etoropartners.com
+helpers.bullsheet.me
 kyc-src.etoro.com
 kyc.etoro.com
 partners.etoro.com
@@ -1981,7 +1979,9 @@ sandbox.affirm.com
 crypto.com
 *.mona.co
 app.mona.co
+developer-api.crypto.com
 developer-platform-api.crypto.com
+developer.crypto.com
 etherscan.io
 js.crypto.com
 merchant.crypto.com

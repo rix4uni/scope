@@ -202,6 +202,7 @@ np.*.lfscnp.com
 *.static.mgm.mo
 *.mlife.mo
 *.tickets.mgm.mo
+*.gp.monash.edu
 *.nr-data.net
 *.nr-ops.net
 *.northwesternmutual.com
@@ -240,6 +241,7 @@ np.*.lfscnp.com
 *.pexels.com
 *.pinterest.com
 *.pixabay.com
+*.points.com
 *.privateinternetaccess.com
 *.quizlet.com
 *.rapyd.net
@@ -285,6 +287,9 @@ np.*.lfscnp.com
 *.solarcity.com
 *.teslainsuranceservices.com
 *.tools.thefork.tech
+*.prod.uidapi.com
+*.thetradedesk.com
+*.adsrvr.org
 *.tidal.com
 *.wimpmusic.com
 *.tidalhifi.com
@@ -461,9 +466,6 @@ sip.*.twilio.com
 *.slotomania.com
 *.wooga.com
 *.tide.co
-*.clubhouse.com
-*.clubhouseapi.com
-*.joinclubhouse.com
 *.api.cx.metamask.io
 *.gethypr.com
 *.hypr.com
@@ -593,7 +595,6 @@ sip.*.twilio.com
 *.instacart.tools
 *.carrentals.com
 *.cheaptickets.com
-*.expediacruises.com
 *.expediapartnercentral.com
 *.lastminute.co.nz
 *.lastminute.com

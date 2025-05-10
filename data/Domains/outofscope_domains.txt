@@ -154,6 +154,7 @@ careers.chime.com
 nd.chime.com
 chime.financial
 chimescholars.org
+help.saltlabs.com
 merakipartners.com
 developers.meraki.com
 smhelp.meraki.com
@@ -469,6 +470,17 @@ service.tesla.cn
 maxwell.com
 module.thefork.com
 lafourchette.com
+investors.thetradedesk.com
+ask.thetradedesk.com
+openpath.thetradedesk.com
+stationery.thetradedesk.com
+bynder.thetradedesk.com
+unifiedid.com
+euid.eu
+edgeacademy.thetradedesk.com
+id.thetradedesk.com
+update.adsrvr.org
+openpath-login.thetradedesk.com
 blog.thousandeyes.com
 app.thousandeyes.com
 developer.tidal.com
@@ -547,6 +559,11 @@ business.comcast.com
 app.ynab.com
 support.ynab.com
 develop-app.ynab.com
+braze-dev.com
+braze-images.com
+braze.eu
+dashboard-09.braze.com
+try.braze.com
 blog.thenorthface.com.br
 jansport.ca
 jansport.cl
@@ -651,8 +668,11 @@ audible.targetcircle.com
 audible.ca
 audible.com
 help.audible.com
+adobedtm.com
+demdex.net
 audiblehub.com
 newsletters.audible.com
+omtrdc.net
 audiblecareers.com
 support.lighstpark.com
 staging.travix.com
@@ -948,6 +968,7 @@ suggestions.tenable.com
 university.tenable.com
 tenable.com
 snowplowanalytics.com
+community.companyofheroes.com
 segashop.co.uk
 jobs.newegg.com
 sellerportal.newegg.com
@@ -1089,7 +1110,6 @@ rescan.io
 globalpaymentsinc.com
 globalpayments.com
 remotesupport.heartland.us
-blog.clubhouse.com
 wvcorp.tva.com
 signin.costco.com
 consensys-solutions.net
@@ -1543,9 +1563,11 @@ life.instacart.com
 news.instacart.com
 tech.instacart.com
 phpbb.com
+socialhub.expediacruises.com
 bookus.expediacruises.com
 china.airasiago.com
 thailand.airasiago.com
+expediaagents.com
 expediapartnersolutions.com
 api-portal.etoro.com
 etorox.com

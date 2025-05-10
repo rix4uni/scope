@@ -1,7 +1,5 @@
-*.chimepayments.com
-*.chime.com
-*.1debit.com
-*.chimecard.com
-*.chmfin.com
-*.chimebank.com
-*.saltlabs.com
+*.gp.monash.edu
+*.points.com
+*.prod.uidapi.com
+*.thetradedesk.com
+*.adsrvr.org

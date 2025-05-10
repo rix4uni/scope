@@ -1,3 +1,11 @@
+*.appboy.com
+*.braze.co.jp
+*.braze.com
+braze-dev.com
+braze-images.com
+braze.eu
+dashboard-09.braze.com
+try.braze.com
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl
@@ -73,7 +81,6 @@ vans.com.ec
 vans.com.pa
 vans.com.pe
 vans.com.py
-github.com
 docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com
@@ -99,6 +106,7 @@ db.*.supabase.co
 *.supabase.co
 api.supabase.com
 ctf.supabase.com
+github.com
 supabase.dev
 supabase.productions
 auth.finnair.com
@@ -144,8 +152,11 @@ audible.targetcircle.com
 audible.ca
 audible.com
 help.audible.com
+adobedtm.com
+demdex.net
 audiblehub.com
 newsletters.audible.com
+omtrdc.net
 audiblecareers.com
 support.lighstpark.com
 *.dev.travix.com
@@ -256,9 +267,6 @@ docs.moderntreasury.com
 help.moderntreasury.com
 trust.moderntreasury.com
 moderntreasury.com
-*.daimler.com
-*.fuso.com
-*.thomasbuildbuses.com
 bigstockphoto.fr
 ofcourse.com
 *.api.cx.metamask.io
@@ -489,6 +497,7 @@ suggestions.tenable.com
 university.tenable.com
 tenable.com
 snowplowanalytics.com
+community.companyofheroes.com
 segashop.co.uk
 *.neweggbusiness.com
 jobs.newegg.com
@@ -649,7 +658,6 @@ rescan.io
 globalpaymentsinc.com
 globalpayments.com
 remotesupport.heartland.us
-blog.clubhouse.com
 wvcorp.tva.com
 signin.costco.com
 consensys-solutions.net
@@ -1147,10 +1155,13 @@ life.instacart.com
 news.instacart.com
 tech.instacart.com
 phpbb.com
+*.expediacruises.com
+socialhub.expediacruises.com
 bookus.expediacruises.com
 china.airasiago.com
 *.expedia.com
 thailand.airasiago.com
+expediaagents.com
 expediapartnersolutions.com
 api-portal.etoro.com
 etorox.com
@@ -1206,6 +1217,7 @@ pro.urbanclap.com
 *.urbanclap.com
 remitly.com
 *.egadvertising.com
+*.expediaagents.com
 *.hoteis.com
 *.hoteles.com
 events.nutanix.com
@@ -1907,6 +1919,7 @@ vimeo.atlassian.net
 community.greenhouse.io
 resources.greenhouse.io
 store.greenhouse.io
+*.gitlab-private.org
 *.gitlab.cn
 gitlab.cn
 *.runway.gitlab.net

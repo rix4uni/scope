@@ -109,6 +109,10 @@ auth.*.latitudefinancial.com
 *.atlassian.com
 *.sprint.net
 *.engage.tesla.com
+argocd.*.uidapi.com
+*.skilljarapp.com
+*.smartling.com
+*.quilvem.com
 *.tripadviser.at
 *.tripadvisor.cn
 *.bokun.io
@@ -155,6 +159,9 @@ auth.*.latitudefinancial.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
+*.appboy.com
+*.braze.co.jp
+*.braze.com
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl
@@ -212,9 +219,6 @@ db.*.supabase.co
 *.prudential.co.kr
 *.prudentialagf.cl
 *.prudentialplc.com
-*.daimler.com
-*.fuso.com
-*.thomasbuildbuses.com
 *.api.cx.metamask.io
 *.metamask.io
 *.floqast.com
@@ -306,6 +310,7 @@ db.*.supabase.co
 *bc.earlywarning.com
 *.zellepay.com
 *.email.instacart.com
+*.expediacruises.com
 *.expedia.com
 *.netlify.app
 *.netlify.com
@@ -322,6 +327,7 @@ db.*.supabase.co
 *.kangu.tech
 *.urbanclap.com
 *.egadvertising.com
+*.expediaagents.com
 *.hoteis.com
 *.hoteles.com
 *.flickr.net
@@ -444,6 +450,7 @@ online.*.skybingo.com
 *.wirewax.app
 *.wirewax.com
 *.livestream.com
+*.gitlab-private.org
 *.gitlab.cn
 *.runway.gitlab.net
 *.service-now.com
@@ -465,7 +472,6 @@ online.*.skybingo.com
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
-*.aikido.dev
 *.allegro.sk
 *.allegro.cz
 *.allegro.pl
