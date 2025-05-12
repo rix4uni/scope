@@ -3105,6 +3105,7 @@ app.klausapp.com
 zendesk.com
 zopim.com
 business.kayak.com
+kayak.ai
 cheapflights.com
 cheapflights.co.uk
 cheapflights.com.au

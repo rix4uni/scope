@@ -2602,6 +2602,7 @@ zendesk.com
 zopim.com
 *.kayak.com
 business.kayak.com
+kayak.ai
 cheapflights.com
 cheapflights.co.uk
 cheapflights.com.au
