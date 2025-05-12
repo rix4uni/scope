@@ -1,5 +1,3 @@
-*.gp.monash.edu
-*.points.com
-*.prod.uidapi.com
-*.thetradedesk.com
-*.adsrvr.org
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
