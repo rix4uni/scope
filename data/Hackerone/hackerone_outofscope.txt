@@ -416,10 +416,6 @@ investorday.payoneer.com
 register.payoneer.com
 skuad.io
 tracks.payoneer.com
-agoric.com
-community.agoric.com
-agoric.zoom.us
-agoricopco.slack.com
 dunnhumby.com
 tescobank.com
 *.plexlabs.io

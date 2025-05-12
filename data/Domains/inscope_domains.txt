@@ -1631,12 +1631,6 @@ wellsfargo.com
 admin.wickr.com
 greenchannel.payoneer.com.cn
 payoneer.com.cn
-agoric.com
-object.method
-attackguide.md
-en.wikipedia.org
-c.globalthis
-symbol.unscopables
 api.moonpay.com
 app.moonpay.com
 auth.moonpay.com
@@ -2681,6 +2675,7 @@ readme.md
 prometheus.io
 hermes.informal.systems
 crates.io
+en.wikipedia.org
 launch-all.sh
 lavender.five
 user-images.githubusercontent.com
