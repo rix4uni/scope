@@ -101,6 +101,10 @@ auth.*.latitudefinancial.com
 *.esgiq.com
 *.trustweek2021.com
 *.optus.com.au
+*.empower-retirement.com
+*.personalcapital.com
+*.empower.com
+*.retirementpartner.com
 *.accounts.ondemand.com
 *.1shoppingcart.com
 *.afterpay.com

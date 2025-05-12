@@ -525,6 +525,10 @@ agent.compareandconnect.com.au
 fastconnect.co.nz
 yourporter.com.au
 raywhitehomenow.com
+*.empower-retirement.com
+*.personalcapital.com
+*.empower.com
+*.retirementpartner.com
 help.quizlet.com
 community.rapyd.net
 support.rapyd.net
