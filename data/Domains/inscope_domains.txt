@@ -1372,6 +1372,7 @@ nw.ring.com
 oauth.ring.com
 ring.com
 prd-ring-web-us.prd.rings.solutions
+publicsafety.ring.com
 web3.sdx.com
 sdx.com
 bolsasymercados.es
@@ -1869,6 +1870,8 @@ partnerxchange.8x8.com
 support-portal.8x8.com
 admin.8x8.com
 cloud8.8x8.com
+campaign.wavecell.com
+contacts.8x8.com
 8x8.vc
 webrtc.8x8.com
 org.vom8x8.sipua
