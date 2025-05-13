@@ -478,7 +478,6 @@ stationery.thetradedesk.com
 bynder.thetradedesk.com
 unifiedid.com
 euid.eu
-edgeacademy.thetradedesk.com
 id.thetradedesk.com
 update.adsrvr.org
 openpath-login.thetradedesk.com

@@ -595,7 +595,6 @@ unifiedid.com
 euid.eu
 argocd.*.uidapi.com
 *.skilljarapp.com
-edgeacademy.thetradedesk.com
 *.smartling.com
 id.thetradedesk.com
 *.quilvem.com
