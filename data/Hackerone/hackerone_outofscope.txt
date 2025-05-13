@@ -84,6 +84,11 @@ vans.com.py
 docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com
+events.hubspot.com
+ir.hubspot.com
+shop.hubspot.com
+thespot.hubspot.com
+trust.hubspot.com
 *.agilebits.com
 support.1password.com
 1password.com

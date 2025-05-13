@@ -613,6 +613,7 @@ vans.com.py
 docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com
+events.hubspot.com
 support.1password.com
 1password.com
 console.toloka.ai

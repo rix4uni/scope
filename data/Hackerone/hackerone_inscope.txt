@@ -9,6 +9,16 @@ api.prod.whoop.com
 app.whoop.com
 join.whoop.com
 shop.whoop.com
+*.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
+knowledge.hubspot.com
+api.hubapi.com
+api.hubspot.com
+app-eu1.hubspot.com
+app.hubspot.com
+chatspot.ai
+connect.com
 *.coloros.com
 *.myoas.com
 *.myoas.net
