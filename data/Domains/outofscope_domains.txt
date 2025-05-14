@@ -2038,6 +2038,7 @@ zomatobook.com
 besquare.deriv.com
 ticktrade.binary.com
 community.deriv.com
+deriv.ae
 deriv.slack.com
 admin.binary.com
 deriv.atlassian.net
