@@ -331,7 +331,6 @@ sip.*.twilio.com
 *.oppo.com
 *.oppomobile.com
 *.wanyol.com
-*.granularinsurance.com
 *.onduo.com
 *.projectbaseline.com
 *.signalpath.com

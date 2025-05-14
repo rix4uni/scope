@@ -60,7 +60,6 @@ arc.net
 bcny.com
 company.thebrowser.arc
 thebrowser.company
-*.granularinsurance.com
 *.onduo.com
 enroll.onduo.com
 *.projectbaseline.com
