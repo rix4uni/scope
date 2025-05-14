@@ -3452,7 +3452,6 @@ myaccount.volkskrant.nl
 shop.volkskrant.nl
 webwinkel.volkskrant.nl
 volkskrant.nl
-delen.bank
 api.digital.delen.be
 api.digital.delen.lu
 app.delen.be
@@ -3469,6 +3468,7 @@ status.delen.be
 sts.delen.be
 cadelam.be
 cadelux.lu
+delen.bank
 delen.be
 api.digitalocean.com
 cloud.digitalocean.com
@@ -3547,9 +3547,9 @@ libelle.nl
 mobilevikings.be
 api.unleashed.be
 jimmobile.be
-mgm.mobilevikings.be
 uwa.mobilevikings.be
 vpn.mobilevikings.be
+mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
 co.uk.getmondo
@@ -3575,18 +3575,18 @@ boomer2.ninjakiwi.com
 ct.ninjakiwi.com
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+mathem.se
 oda.com
 no.kolonial.tienda
-mathem.se
 se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
 a.simplemdm.com
 auth2.pdq.tools
 library-staging.pdq.tools
+detect.pdq.tools
 houston-staging.pdq.tools
 portal-staging.pdq.tools
-detect.pdq.tools
 api.personio-dev.com
 api.personio.com
 community.personio.com
@@ -3643,8 +3643,8 @@ portofantwerpbruges.com
 erpx.unit4cloud.com
 access.ripe.net
 lirportal.ripe.net
-rivian.com
 business.rivian.com
+rivian.com
 basecamp.rivian.com
 sbb.ch
 elvetino.ch

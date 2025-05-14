@@ -478,9 +478,9 @@ online.*.skybingo.com
 *.dynamics.com
 *.jobmanager.dk
 *.aikido.dev
-*.allegro.sk
 *.allegro.cz
 *.allegro.pl
+*.allegro.sk
 *.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
@@ -524,13 +524,13 @@ online.*.skybingo.com
 *.unique.be
 *.uniqueselect.be
 *.usgprofessionals.be
-*.probes.atlas.ripe.net
 *.anchors.atlas.ripe.net
+*.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
-booking.*.sqills.com
-booking.*.cloud.sqills
 *.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
 *.tempo-team.de
 *.zabka-snrs.zabka.pl
 *.intigriti.io
