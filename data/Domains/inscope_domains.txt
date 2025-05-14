@@ -2832,6 +2832,7 @@ malwarebytes.com
 support.malwarebytes.com
 forums.malwarebytes.com
 service.malwarebytes.com
+help.malwarebytes.com
 binisoft.org
 cloud.malwarebytes.com
 my.malwarebytes.com
