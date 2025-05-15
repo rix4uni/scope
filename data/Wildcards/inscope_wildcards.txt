@@ -1098,6 +1098,9 @@ sip.*.twilio.com
 *.captcha-delivery.com
 *.siilo.com
 *.ys7.com
+*.grwtrading.com
+*.dropxl.com
+*.wholesalexl.com
 *.gov.sg
 *.jbl.com
 *.harmanaudio.com
