@@ -2283,8 +2283,6 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
-technik.autobild.de
-technik.beta.autobild.de
 bestbuy.buhlergroup.com
 channel.buhlergroup.com
 gitlab.buhler-datascience.ch
@@ -2356,6 +2354,8 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 community.monzo.com
 login.internal.monzo.com
@@ -2369,6 +2369,8 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
+store.ninjakiwi.com
+support.ninjakiwi.com
 appsfwd.ovoenergy.com
 askovo.net
 auth-retail.ovoenergy.com

@@ -7,9 +7,6 @@
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
-technik.autobild.de
-technik.beta.autobild.de
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -105,6 +102,8 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 community.monzo.com
 login.internal.monzo.com
@@ -118,6 +117,8 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
+store.ninjakiwi.com
+support.ninjakiwi.com
 *.oisl.gg
 appsfwd.ovoenergy.com
 askovo.net
