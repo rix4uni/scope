@@ -889,6 +889,7 @@ sip.*.twilio.com
 *.byte-stack.net
 *.uat-ovo.net
 *.ovofinansial.com
+*.taralite.com
 *.kayak.com
 *.hey.com
 *.pci.shopifyinc.com

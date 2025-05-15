@@ -2581,6 +2581,7 @@ fetlifemail.com
 *.byte-stack.net
 *.uat-ovo.net
 *.ovofinansial.com
+*.taralite.com
 appgallery.huawei.com
 api.grabpay.com
 gamma.grab.co
