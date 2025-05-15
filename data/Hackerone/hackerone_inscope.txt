@@ -2580,7 +2580,7 @@ fetlifemail.com
 *.ovo.id
 *.byte-stack.net
 *.uat-ovo.net
-*.taralite.com
+*.ovofinansial.com
 appgallery.huawei.com
 api.grabpay.com
 gamma.grab.co

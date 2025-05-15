@@ -888,7 +888,7 @@ sip.*.twilio.com
 *.ovo.id
 *.byte-stack.net
 *.uat-ovo.net
-*.taralite.com
+*.ovofinansial.com
 *.kayak.com
 *.hey.com
 *.pci.shopifyinc.com
