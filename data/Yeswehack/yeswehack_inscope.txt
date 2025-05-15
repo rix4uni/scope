@@ -371,6 +371,7 @@ essentiel.vinci.com
 essentials.vinci.com
 chaire-arpenter.fr
 habileoh.com
+wgr-industries.com
 wbsapi.withings.net
 healthmate.withings.com
 account.withings.com
