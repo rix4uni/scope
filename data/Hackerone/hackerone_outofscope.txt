@@ -565,6 +565,7 @@ khealth-test.com
 support.smtp2go.com
 *.profitect.com
 *.zebracard.com
+*medialibrary.zebra.com
 cmm01.sl.zebra.com
 comtecis.com
 eltron.com

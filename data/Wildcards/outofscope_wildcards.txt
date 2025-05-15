@@ -259,6 +259,7 @@ db.*.supabase.co
 *.hydrogenhealth.com
 *.profitect.com
 *.zebracard.com
+*medialibrary.zebra.com
 *.clover.com
 *.firstdata.com
 *.fiserv.com
