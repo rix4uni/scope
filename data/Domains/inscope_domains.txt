@@ -1489,6 +1489,8 @@ ro.superbet.games
 ro.superbet.sport
 superbet.bet.br
 magiceden.io
+slingshot.app
+slingshot.finance
 api.avtoelon.uz
 api.kolesa.kz
 api.krisha.kz
