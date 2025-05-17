@@ -1,3 +1,4 @@
-*.grwtrading.com
-*.dropxl.com
-*.wholesalexl.com
+*.api.t-mobile.com
+*.t-mobile.com
+*.metrobyt-mobile.com
+*.sprint.com
