@@ -92,8 +92,6 @@ do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
 donorbox.org
-service.fing.com
-app.fing.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
