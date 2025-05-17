@@ -111,7 +111,6 @@ auth.*.latitudefinancial.com
 *.cash.me
 *.tidal.com
 *.atlassian.com
-*.sprint.net
 *.engage.tesla.com
 argocd.*.uidapi.com
 *.skilljarapp.com
