@@ -239,7 +239,6 @@ np.*.lfscnp.com
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pexels.com
-*.pinterest.com
 *.pixabay.com
 *.points.com
 *.privateinternetaccess.com
@@ -266,6 +265,7 @@ np.*.lfscnp.com
 *.certsy.com
 *.certsynonprod.com
 *.mcssl.com
+*.skyscanner.net
 *.smartmockups.com
 *.sophos.com
 *.soundcloud.org

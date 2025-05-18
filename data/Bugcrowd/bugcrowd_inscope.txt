@@ -942,9 +942,6 @@ dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
 *.pexels.com
-api.pinterest.com
-*.pinterest.com
-microsoftedge.microsoft.com
 pixabay.com
 *.pixabay.com
 my.planethoster.com
@@ -1082,6 +1079,10 @@ notifications.sendbird.com
 mcssl.com
 *.mcssl.com
 skroutz.gr
+gateway.skyscanner.net
+skyscanner.net
+partnerportal.skyscanner.net
+*.skyscanner.net
 smartmockups.com
 *.smartmockups.com
 snapnames.com

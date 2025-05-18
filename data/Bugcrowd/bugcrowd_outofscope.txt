@@ -539,6 +539,7 @@ ghost.rapyd.net
 sap.sharepoint.com
 *.accounts.ondemand.com
 *.1shoppingcart.com
+skyscanner.net
 community.sophos.com
 sophos.atlassian.net
 blog.soundcloud.com
