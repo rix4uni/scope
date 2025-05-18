@@ -1,3 +1,1 @@
-gateway.skyscanner.net
-skyscanner.net
-partnerportal.skyscanner.net
+api.pinterest.com

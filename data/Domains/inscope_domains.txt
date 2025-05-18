@@ -411,20 +411,6 @@ lp.lime.bike
 orchard.limeinternal.com
 li.me
 gpt.lime.bike
-linktr.ee
-linktree.com
-tr.ee
-odesli.co
-odesli.com
-song.link
-songlink.io
-album.link
-artist.link
-pods.link
-playlist.link
-mylink.page
-plannthat.com
-linktree.app.link
 shop.lululemon.com
 lululemon.com.au
 lululemon.de
@@ -701,6 +687,8 @@ hub.myconnect.com.au
 dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
+api.pinterest.com
+microsoftedge.microsoft.com
 pixabay.com
 my.planethoster.com
 api.planethoster.net
@@ -1472,7 +1460,6 @@ testapp.redoxengine.com
 webhooks.gamma.redoxstage.com
 redoxengine.com
 okx.com
-microsoftedge.microsoft.com
 api.wisdomtreeprimeapp.com
 analvids.com
 ddfcontent.com
