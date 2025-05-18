@@ -1,12 +1,2 @@
-passport.immutable.com
-auth.immutable.com
-hub.immutable.com
-play.immutable.com
-api.immutable.com
-api.x.immutable.com
-testnet.immutable.com
-link.x.immutable.com
-market.immutable.com
-docs.immutable.com
-imx.community
-guildofguardians.com
+business.comcast.com
+xfinity.com
