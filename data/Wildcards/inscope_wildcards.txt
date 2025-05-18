@@ -119,10 +119,6 @@ casino.*.betmgm.com
 *.thehut.com
 *.movilepay.com
 *.movilepay.com.br
-*.immutable.com
-*.imtbl.com
-*.testnet.immutable.com
-*.guildofguardians.com
 *.imperva.com
 *.cloudvector.com
 *.incapsula.com
