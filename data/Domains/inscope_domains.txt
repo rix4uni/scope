@@ -170,8 +170,6 @@ adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 staging.coindesk.com
 staging.auth.coindesk.com
-business.comcast.com
-xfinity.com
 consensus2024.sandbox.events.coindesk.com
 cyberghostvpn.com
 cyberghost.com
@@ -957,6 +955,8 @@ opendata.test-socrata.com
 mintmobile.com
 ultramobile.com
 web-retailer-portal.ultramobile.com
+my.mintmobile.com
+my.ultramobile.com
 underarmour.com
 underarmour.co.uk
 api.shop.ua.com
