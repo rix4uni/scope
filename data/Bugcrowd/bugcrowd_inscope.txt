@@ -1082,10 +1082,6 @@ notifications.sendbird.com
 mcssl.com
 *.mcssl.com
 skroutz.gr
-gateway.skyscanner.net
-skyscanner.net
-partnerportal.skyscanner.net
-*.skyscanner.net
 smartmockups.com
 *.smartmockups.com
 snapnames.com

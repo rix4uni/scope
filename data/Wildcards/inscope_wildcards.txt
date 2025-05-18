@@ -266,7 +266,6 @@ np.*.lfscnp.com
 *.certsy.com
 *.certsynonprod.com
 *.mcssl.com
-*.skyscanner.net
 *.smartmockups.com
 *.sophos.com
 *.soundcloud.org
