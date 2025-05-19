@@ -633,6 +633,7 @@ palantirfoundry.fr
 palantirfoundry.com.au
 palantirgov.com
 foundrygov.com
+*.cloud.mongodb.com
 artifactory.corp.mongodb.com
 *.corp.mongodb.com
 *mongodb.com

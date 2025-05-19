@@ -236,7 +236,6 @@ db.*.supabase.co
 *.windstreamoffers.com
 *.account.mongodb.com
 *.atlas.mongodb.com
-*.cloud.mongodb.com
 *.auth.mongodb.com
 *.chattest.deribit.com
 *.hiltonhotels.jp

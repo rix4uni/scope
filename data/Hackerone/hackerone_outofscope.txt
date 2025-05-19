@@ -372,7 +372,6 @@ ro.co
 *.windstreamoffers.com
 *.account.mongodb.com
 *.atlas.mongodb.com
-*.cloud.mongodb.com
 cloud.mongodb.com
 mongodb.com
 auth.mongodb.com

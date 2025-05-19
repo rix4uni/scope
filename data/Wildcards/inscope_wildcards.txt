@@ -411,6 +411,7 @@ sip.*.twilio.com
 *.eu.floqast.app
 *.floqast.app
 *.floqast.engineering
+*.cloud.mongodb.com
 *.corp.mongodb.com
 *mongodb.com
 *.mongodb.com
