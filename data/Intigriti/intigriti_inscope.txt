@@ -1,3 +1,4 @@
+app.aikido.dev
 github.com
 myaccount.ad.nl
 webwinkel.ad.nl
@@ -49,7 +50,6 @@ capital.com
 open-api.capital.com
 *.capital.com
 *.itcapital.io
-challenge-0525.intigriti.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
@@ -202,15 +202,6 @@ kinepolis.biz
 *.kinepolis.nl
 *.landmarkcinemas.com
 *.mjrtheatres.com
-edge.lansweeper.com
-api.lansweeper.com
-app.lansweeper.com
-backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-lansweeper.com
 libelle.nl
 *.libelle.nl
 mobilevikings.be
