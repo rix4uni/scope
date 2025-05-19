@@ -224,10 +224,6 @@ ap.app.gearest.com
 gearset.com
 carrinho.hostgator.com.br
 try.hotdoc.com.au
-shop.hubspot.com
-trust.hubspot.com
-thespot.hubspot.com
-ir.hubspot.com
 cultbeauty.co.uk
 matchme.cultbeauty.co.uk
 sampling.ibotta.com
@@ -618,6 +614,10 @@ docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com
 events.hubspot.com
+ir.hubspot.com
+shop.hubspot.com
+thespot.hubspot.com
+trust.hubspot.com
 support.1password.com
 1password.com
 console.toloka.ai

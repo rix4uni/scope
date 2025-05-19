@@ -97,9 +97,6 @@ casino.*.betmgm.com
 *.xyzbmojn.net
 *.kiln.it
 *.hostgator.com.br
-*.hubspotemail.net
-*.hubspotpagebuilder.com
-*.hubspotpagebuilder.eu
 *.ameliorate.com
 *.beautyexpert.com
 *.dermstore.com
@@ -323,6 +320,9 @@ sip.*.twilio.com
 *.codebig2.net
 *.cloud.comcast.net
 *.xfinityhome.com
+*.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
 *.coloros.com
 *.myoas.com
 *.myoas.net
