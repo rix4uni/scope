@@ -311,8 +311,6 @@ api.intercom.io
 app.intercom.com
 app.intercom.io
 intercom.com
-aspen-ecommerce-prod.iot.irobotapi.com
-zuora-ecommerce-prod.iot.irobotapi.com
 api-payments-secure-prod.skippayments.com
 takeawaypay.azurefd.net
 takeaway.pay-creditcard.takeaway.com
@@ -3415,7 +3413,6 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
-justonweb.be
 app.datacamp.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com

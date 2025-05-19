@@ -442,8 +442,6 @@ app.intercom.com
 *.intercomcdn.com
 app.intercom.io
 intercom.com
-aspen-ecommerce-prod.iot.irobotapi.com
-zuora-ecommerce-prod.iot.irobotapi.com
 *.jora.com
 *.jora.xyz
 api-payments-secure-prod.skippayments.com

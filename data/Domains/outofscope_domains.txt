@@ -238,10 +238,6 @@ godsunchained.com
 ropsten.imx.community
 docs.imperva.com
 docs-be.imperva.com
-irobot.com
-homesupport.irobot.com
-global.irobot.com
-irobot.in
 k15t.com
 k15t.de
 help.k15t.com
