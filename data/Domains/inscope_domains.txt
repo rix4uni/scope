@@ -3388,8 +3388,6 @@ reviewer.pullrequest.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
-dealer.prod.ps.axelspringer.de
-editorial.one
 bmw-motorrad.de
 bmw.de
 mini.de
