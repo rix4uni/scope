@@ -992,6 +992,13 @@ sip.*.twilio.com
 *.volkskrant.nl
 *.vlaanderen.be
 *.digitalocean.com
+*.itscope.com
+*.itscope.de
+*.gripp.com
+*.fiscaalgemak.nl
+*.bouw7.nl
+*.horeko.com
+*.weclapp.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com

@@ -3462,6 +3462,14 @@ do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
 donorbox.org
+itscope.com
+itscope.de
+gripp.com
+fiscaalgemak.nl
+bouw7.nl
+horeko.com
+weclapp.com
+exact.com
 service.fing.com
 app.fing.com
 jaguar.here.com
