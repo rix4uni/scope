@@ -1,1 +1,1 @@
-bpost2.be
+app.aikido.dev
