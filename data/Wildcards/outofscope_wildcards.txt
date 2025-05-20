@@ -67,6 +67,7 @@ auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
 *.sg.latitudepay.com
+*.airflow.limeinternal.com
 *.limeinternal.com
 *.lime.bike
 *.filestack.com

@@ -363,6 +363,7 @@ partnerportal.vendhq.com
 support.ecwid.com
 ecwid.com
 community.li.me
+*.airflow.limeinternal.com
 help.li.me
 *.limeinternal.com
 *.lime.bike
