@@ -170,6 +170,8 @@ adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 staging.coindesk.com
 staging.auth.coindesk.com
+business.comcast.com
+xfinity.com
 consensus2024.sandbox.events.coindesk.com
 cyberghostvpn.com
 cyberghost.com
@@ -234,11 +236,6 @@ expressvpn.com
 chromewebstore.google.com
 financialforce.com
 fivetran.com
-flo.uri.sh
-flourish.studio
-xyzbmojn.net
-flourish-user-templates.com
-flourish-user-preview.com
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com

@@ -176,6 +176,7 @@ consensus2025.coindesk.com
 consensus-hongkong2025.coindesk.com
 uat.accounts.coindesk.com
 admin.selectwifi.xfinity.com
+comcastbiz.net
 console.delltechnologies.com
 educate.dell.com
 console.dell.com
@@ -214,7 +215,6 @@ zammad.internal.exoscale.ch
 exoscalestatus.com
 gslink.financialforce.com
 apuat-aaa.fisglobal.com
-training.flourish.studio
 api.gearset.com
 app.gearset.com
 us.app.gearset.com
