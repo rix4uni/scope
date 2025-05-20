@@ -1,11 +1,5 @@
-flo.uri.sh
-flourish.studio
-xyzbmojn.net
-flourish-user-templates.com
-flourish-user-preview.com
-api.omise.co
-omise.co
-dashboard.omise.co
-offsite.omise.co
-vault.omise.co
-opn.ooo
+dashboard.sendbird.com
+gate.sendbird.com
+sendbird.com
+calls.sendbird.com
+notifications.sendbird.com
