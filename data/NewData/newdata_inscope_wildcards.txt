@@ -1,3 +1,2 @@
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
+*.ninjakiwi.me
+*.nkstatic.com
