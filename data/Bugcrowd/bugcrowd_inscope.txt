@@ -231,9 +231,6 @@ staging.auth.coindesk.com
 *.xfinity.com
 *.comcast.com
 *.xcal.tv
-*.sys.comcast.net
-business.comcast.com
-xfinity.com
 consensus2024.sandbox.events.coindesk.com
 cyberghostvpn.com
 *.cyberghostvpn.com
@@ -331,6 +328,14 @@ financialforce.com
 *.financialforce.com
 *.certinia.com
 fivetran.com
+flo.uri.sh
+flourish.studio
+*.flourish.studio
+xyzbmojn.net
+*.xyzbmojn.net
+flourish-user-templates.com
+flourish-user-preview.com
+*.kiln.it
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
@@ -1370,6 +1375,7 @@ my.wyze.com
 api.wyzecam.com
 home.xfinity.com
 internet.xfinity.com
+*.sys.comcast.net
 *signalservice.comcast.net
 *.dh-commerce.com
 *.ssr.ccp.xcal.tv

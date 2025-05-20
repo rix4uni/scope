@@ -59,7 +59,6 @@ portalapi.*.afterpay.com
 *.xfinity.com
 *.comcast.com
 *.xcal.tv
-*.sys.comcast.net
 *.cyberghostvpn.com
 *.cyberghost.com
 *.dell.com
@@ -93,6 +92,9 @@ casino.*.betmgm.com
 *.xvservice.net
 *.financialforce.com
 *.certinia.com
+*.flourish.studio
+*.xyzbmojn.net
+*.kiln.it
 *.hostgator.com.br
 *.ameliorate.com
 *.beautyexpert.com
@@ -310,6 +312,7 @@ sip.*.twilio.com
 *.viator.com
 *.transferwise.com
 *.wise.com
+*.sys.comcast.net
 *signalservice.comcast.net
 *.dh-commerce.com
 *.ssr.ccp.xcal.tv
