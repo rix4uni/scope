@@ -367,14 +367,6 @@ help.li.me
 *.limeinternal.com
 *.lime.bike
 li.me
-filestack.com
-*.filestack.com
-freshdesk.com
-blstr.xyz
-*.blstr.xyz
-blstr.co
-*.blstr.co
-community.linktr.ee
 *.lululemon.cn
 fr.shop.lululemon.com
 lululemon.me
