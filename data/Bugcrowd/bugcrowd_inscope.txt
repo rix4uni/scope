@@ -331,6 +331,14 @@ financialforce.com
 *.financialforce.com
 *.certinia.com
 fivetran.com
+flo.uri.sh
+flourish.studio
+*.flourish.studio
+xyzbmojn.net
+*.xyzbmojn.net
+flourish-user-templates.com
+flourish-user-preview.com
+*.kiln.it
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
@@ -1052,11 +1060,6 @@ seekcdn.com
 *.certsynonprod.com
 graphql.seek.com
 auth.seek.com
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 *.mcssl.com

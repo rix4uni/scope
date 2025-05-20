@@ -236,6 +236,11 @@ expressvpn.com
 chromewebstore.google.com
 financialforce.com
 fivetran.com
+flo.uri.sh
+flourish.studio
+xyzbmojn.net
+flourish-user-templates.com
+flourish-user-preview.com
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
@@ -791,11 +796,6 @@ public.thesecurityteam.rocks
 seekcdn.com
 graphql.seek.com
 auth.seek.com
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
 1shoppingcart.com
 mcssl.com
 skroutz.gr
