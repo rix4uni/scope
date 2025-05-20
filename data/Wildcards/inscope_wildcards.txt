@@ -93,6 +93,9 @@ casino.*.betmgm.com
 *.xvservice.net
 *.financialforce.com
 *.certinia.com
+*.flourish.studio
+*.xyzbmojn.net
+*.kiln.it
 *.hostgator.com.br
 *.ameliorate.com
 *.beautyexpert.com
