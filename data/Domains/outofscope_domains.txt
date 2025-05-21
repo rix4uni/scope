@@ -1055,8 +1055,6 @@ zebra.cn
 blog.playtronics.com
 api.clover.com
 api.eu.clover.com
-bankwithstifel.com
-fidfedsl.com
 fncb.com
 lws.fdcbusinessservices.com
 miltonsavingsbank.com
