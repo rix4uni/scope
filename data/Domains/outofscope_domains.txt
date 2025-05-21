@@ -1058,7 +1058,6 @@ api.eu.clover.com
 lws.fdcbusinessservices.com
 online.connectsfcu.org
 partner.clover.com
-pittsfieldcoop.com
 scl.clover.com
 secure-algonquinstatebank.com
 secure-cooprincon.com
