@@ -602,10 +602,7 @@ zebra.cn
 blog.playtronics.com
 api.clover.com
 api.eu.clover.com
-fncb.com
 lws.fdcbusinessservices.com
-miltonsavingsbank.com
-myfreeholdbank.com
 online.connectsfcu.org
 partner.clover.com
 pittsfieldcoop.com
