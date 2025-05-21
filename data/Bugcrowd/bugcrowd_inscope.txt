@@ -348,8 +348,6 @@ hostgator.com.br
 *.hostgator.com.br
 financeiro.hostgator.com.br
 bugcrowd.hotdoc.com.au
-ameliorate.com
-*.ameliorate.com
 beautyexpert.com
 *.beautyexpert.com
 cultbeauty.co.uk
@@ -362,7 +360,7 @@ exantediet.com
 eyeko.com
 *.eyeko.com
 glossybox.com
-*.glossybox.com
+*.glossybox.co.uk
 growgorgeous.com
 *.growgorgeous.com
 hqhair.com
@@ -379,8 +377,6 @@ myvitamins.com
 *.myvitamins.com
 powerman.co.uk
 *.powerman.co.uk
-skinstore.com
-*.skinstore.com
 thehut.com
 *.thehut.com
 checkout.myvitamins.com

@@ -97,13 +97,12 @@ casino.*.betmgm.com
 *.xyzbmojn.net
 *.kiln.it
 *.hostgator.com.br
-*.ameliorate.com
 *.beautyexpert.com
 *.dermstore.com
 *.espaskincare.com
 *.exantediet.com
 *.eyeko.com
-*.glossybox.com
+*.glossybox.co.uk
 *.growgorgeous.com
 *.hqhair.com
 *.illamasqua.com
@@ -112,7 +111,6 @@ casino.*.betmgm.com
 *.mybag.com
 *.myvitamins.com
 *.powerman.co.uk
-*.skinstore.com
 *.thehut.com
 *.movilepay.com
 *.movilepay.com.br
