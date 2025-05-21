@@ -1157,7 +1157,6 @@ thetradedesk.com
 thecurrent.com
 partner.thetradedesk.com
 atlassian.thetradedesk.com
-tableau.thetradedesk.com
 adsrvr.org
 ops-sso.adsrvr.org
 myopenpass.com
