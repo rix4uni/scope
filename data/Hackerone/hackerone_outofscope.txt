@@ -603,7 +603,6 @@ blog.playtronics.com
 api.clover.com
 api.eu.clover.com
 lws.fdcbusinessservices.com
-online.connectsfcu.org
 partner.clover.com
 scl.clover.com
 secure-algonquinstatebank.com
@@ -615,12 +614,7 @@ secure-marsbank.com
 secure-maunacooppr.com
 secure-med5cu.com
 secure-piedmontfederal.com
-secure-powercu.org
-secure-psccu.org
-test-deanbank.com
-test-gncu.org
 token.clover.com
-unitedpolicecu.org
 clover.com
 cloversecurity.com
 svsus-wgiftcard.com
