@@ -40,6 +40,8 @@ blog.bitbucket.org
 support.atlassian.com
 atlassian.net
 jira.com
+support.loom.com
+info.loom.com
 marketplace.atlassian.com
 trello.com
 blog.aurory.io

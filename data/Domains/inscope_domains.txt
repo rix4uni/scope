@@ -48,6 +48,8 @@ bitbucket.org
 atlassian.com
 atlassian.net
 marketplace.atlassian.com
+loom.com
+chromewebstore.google.com
 confluence.atlassian.com
 sourcetreeapp.com
 npmjs.com
@@ -233,7 +235,6 @@ sos-ch-gva-2.exo.io
 internal.exoscale.ch
 sks-ch-gva-2.exo.io
 expressvpn.com
-chromewebstore.google.com
 financialforce.com
 fivetran.com
 flo.uri.sh
@@ -1586,7 +1587,6 @@ authentication.api.cx.metamask.io
 oidc.api.cx.metamask.io
 docs.google.com
 testing.md
-loom.com
 docs.metamask.io
 c0f4f41c-2f55-4863-921b-sdk-docs.github.io
 snaps.metamask.io

@@ -63,6 +63,9 @@ atlassian.net
 *.atlassian.net
 marketplace.atlassian.com
 *.atlastunnel.com
+loom.com
+*.loom.com
+chromewebstore.google.com
 confluence.atlassian.com
 sourcetreeapp.com
 npmjs.com
@@ -326,7 +329,6 @@ sks-ch-gva-2.exo.io
 *.xvtest.net
 *.xvservice.net
 expressvpn.com
-chromewebstore.google.com
 financialforce.com
 *.financialforce.com
 *.certinia.com
