@@ -173,10 +173,11 @@ yeswehack.staging.komoju.com
 multipay-staging.test.komoju.com
 doc.komoju.com
 louisvuitton.com
-api.louisvuitton.com
+*.api.louisvuitton.com
+appgallery.huawei.com
+horizonv2prodapi.azurewebsites.net
 hack1.mtrx.ovh
 hackme.matrixreq.com
-appgallery.huawei.com
 api.paymaya.com
 pg.paymaya.com
 payoutapi.maya.ph

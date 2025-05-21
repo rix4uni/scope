@@ -1125,6 +1125,7 @@ sip.*.twilio.com
 *.kchat.infomaniak.com
 *.infomaniak.com
 *.vod2.infomaniak.com
+*.api.louisvuitton.com
 *.okto.tech
 *.app.spacelift.dev
 *.post.ch

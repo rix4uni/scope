@@ -121,6 +121,7 @@ drive.infomaniak.com
 *.jcloud.ik-server.com
 *.jpc.infomaniak.com
 *.jpe.infomaniak.com
+*.louisvuitton.com
 matrixreq.com
 demo.matrixreq.com
 paymaya.com
