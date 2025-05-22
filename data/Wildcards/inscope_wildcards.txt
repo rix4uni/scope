@@ -1142,3 +1142,4 @@ sip.*.twilio.com
 *.docswallet.com
 *.vfsglobal.by
 *.vfsai.com
+*.vidaxl.hk
