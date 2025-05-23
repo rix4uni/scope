@@ -1,2 +1,1 @@
-dealer.prod.ps.axelspringer.de
-editorial.one
+cas-cf.euce1.indriverapp.com
