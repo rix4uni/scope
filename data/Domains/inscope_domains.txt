@@ -413,7 +413,6 @@ artist.link
 pods.link
 playlist.link
 mylink.page
-plannthat.com
 linktree.app.link
 shop.lululemon.com
 lululemon.com.au

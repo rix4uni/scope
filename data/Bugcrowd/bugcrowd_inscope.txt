@@ -604,8 +604,6 @@ playlist.link
 *.playlist.link
 mylink.page
 *.mylink.page
-*.plannthat.com
-plannthat.com
 linktree.app.link
 shop.lululemon.com
 *.lululemon.com

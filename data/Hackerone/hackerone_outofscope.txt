@@ -1142,6 +1142,7 @@ clec.att.com
 prod-taxexempt.att.com
 projectone.att.com
 rcloud.social
+thedirectvmarketingzone.com
 wf-projectone.att.com
 *solidus.io
 academy.datastax.com
