@@ -474,6 +474,7 @@ dunnhumby.com
 tescobank.com
 *.plexlabs.io
 clicks.moonpay.com
+dev.moonpay.com
 docs.hypermint.com
 docs.moonpay.com
 ethpass.xyz
