@@ -1,1 +1,3 @@
-*.vidaxl.hk
+*.xfinity.com
+*.comcast.com
+*.xcal.tv

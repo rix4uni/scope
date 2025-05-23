@@ -231,6 +231,9 @@ adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 staging.coindesk.com
 staging.auth.coindesk.com
+*.xfinity.com
+*.comcast.com
+*.xcal.tv
 *.sys.comcast.net
 business.comcast.com
 xfinity.com
@@ -712,13 +715,6 @@ researchmgt.monash.edu
 move.monash.edu
 mix-qat.monash.edu
 mix-dev.monash.edu
--staging.moneytree.jp
-vault-staging.getmoneytree.com
-redash-staging.getmoneytree.com
-app-staging.getmoneytree.com
-myaccount-staging.getmoneytree.com
-business-staging.getmoneytree.com
-jp-api-staging.getmoneytree.com
 support.moovitapp.com
 staging-prime.navan.com
 secure.neogov.com
