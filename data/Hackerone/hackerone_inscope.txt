@@ -873,7 +873,6 @@ tickets.metamask.io
 *.gethypr.com
 *.hypr.com
 access.app
-*.lemonsqueezy.com
 *.link.co
 link.co
 link.com
