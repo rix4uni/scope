@@ -1,3 +1,1 @@
-*.xfinity.com
-*.comcast.com
-*.xcal.tv
+*.privateinternetaccess.com
