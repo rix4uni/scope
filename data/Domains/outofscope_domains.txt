@@ -174,7 +174,6 @@ consensus2024.coindesk.com
 consensus2025.coindesk.com
 consensus-hongkong2025.coindesk.com
 uat.accounts.coindesk.com
-admin.selectwifi.xfinity.com
 comcastbiz.net
 console.delltechnologies.com
 educate.dell.com
@@ -310,6 +309,8 @@ opay.icbc.com
 opay.icbc.com.cn
 mgmchinaholdings.com
 hq.hero-cloud.com
+moneytree.jp
+getmoneytree.com
 tripactions.com
 status.newrelic.com
 docs.newrelic.com
@@ -542,6 +543,7 @@ tech.transferwise.com
 oauth.xfinity.com
 login.xfinity.com
 business.comcast.com
+admin.selectwifi.xfinity.com
 app.ynab.com
 support.ynab.com
 develop-app.ynab.com
