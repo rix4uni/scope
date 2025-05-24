@@ -1,4 +1,3 @@
-privateinternetaccess.com
-piaservers.com
-piaservers.net
-addons.opera.com
+auth.wyze.com
+my.wyze.com
+api.wyzecam.com
