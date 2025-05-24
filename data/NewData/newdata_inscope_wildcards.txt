@@ -1,1 +1,7 @@
-*.privateinternetaccess.com
+*.vacationhomerentals.com
+*.holidaylettings.com
+*.flipkey.com
+*.niumba.com
+*.housetrip.com
+*.bokundemo.com
+*.bokuntest.com
