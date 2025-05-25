@@ -265,7 +265,6 @@ graphql.topperpay.com
 support.topperpay.com
 support.uphold.com
 wallet.uphold.com
-innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 station.veriff.com
