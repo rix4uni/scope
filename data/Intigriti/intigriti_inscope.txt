@@ -125,8 +125,6 @@ horeko.com
 *.weclapp.com
 weclapp.com
 exact.com
-service.fing.com
-app.fing.com
 hln.be
 myaccount.hln.be
 *.hln.be
