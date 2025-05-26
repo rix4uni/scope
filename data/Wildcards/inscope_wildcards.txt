@@ -57,6 +57,9 @@ portalapi.*.afterpay.com
 *.classdojo.co.uk
 *.doj.io
 *.dojo.me
+*.xfinity.com
+*.comcast.com
+*.xcal.tv
 *.sys.comcast.net
 *.cyberghostvpn.com
 *.cyberghost.com
@@ -148,10 +151,6 @@ casino.*.betmgm.com
 *.yourdelivery.de
 *.just-data.io
 *.jet-external.com
-*.remove.bg
-*.designify.com
-*.kaleido.ai
-*.unscreen.com
 *.28degreescard.com.au
 *.buyersedge.com.au
 *.carecredit.com.au
