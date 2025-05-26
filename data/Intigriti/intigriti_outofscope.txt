@@ -29,6 +29,19 @@ join-cyprus.capital.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 *.vlaanderen.be
@@ -93,6 +106,8 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 community.monzo.com
 login.internal.monzo.com
@@ -252,6 +267,7 @@ graphql.topperpay.com
 support.topperpay.com
 support.uphold.com
 wallet.uphold.com
+innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 station.veriff.com

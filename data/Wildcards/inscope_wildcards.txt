@@ -984,6 +984,7 @@ sip.*.twilio.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.vlaanderen.be
@@ -995,6 +996,14 @@ sip.*.twilio.com
 *.bouw7.nl
 *.horeko.com
 *.weclapp.com
+*.account.api.here.com
+*.account.here.com
+*.mobilitygraph.hereapi.com
+*.router.hereapi.com
+*.scbe.api.here.com
+*.subp-router.hereapi.com
+*.here.com
+*.hereapi.com
 *.hln.be
 *.parool.nl
 *.humo.be
