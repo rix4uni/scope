@@ -293,7 +293,6 @@ community.personio.com
 hug.personio.com
 personio.de
 personio.com
-*.c-point.be
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api.portofantwerp.com

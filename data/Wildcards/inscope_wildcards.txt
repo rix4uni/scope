@@ -1045,7 +1045,6 @@ sip.*.twilio.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
-*.c-point.be
 *.ripe.net
 *.rivian.com
 *.rhinternal.net
