@@ -479,6 +479,11 @@ rijksregister-nummer-generator.rsolution
 superbet.ro
 *.superbet.rs
 napoleoncasino.be
+napoleondice.be
+napoleongames.be
+napoleonsports.be
+superbet.pl
+superbet.rs
 ro.superbet.games
 ro.superbet.sport
 superbet.bet.br
