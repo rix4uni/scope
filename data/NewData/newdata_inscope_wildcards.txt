@@ -1,9 +1,4 @@
-*.datacamp.com
-*.account.api.here.com
-*.account.here.com
-*.mobilitygraph.hereapi.com
-*.router.hereapi.com
-*.scbe.api.here.com
-*.subp-router.hereapi.com
-*.here.com
-*.hereapi.com
+*.remove.bg
+*.designify.com
+*.kaleido.ai
+*.unscreen.com

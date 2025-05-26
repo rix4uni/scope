@@ -342,6 +342,10 @@ api.justeat-int.com
 yourdelivery.de
 just-data.io
 jet-external.com
+remove.bg
+designify.com
+kaleido.ai
+unscreen.com
 keepersecurity.com
 microsoft.com
 docs.keeper.io
@@ -3488,8 +3492,6 @@ bouw7.nl
 horeko.com
 weclapp.com
 exact.com
-service.fing.com
-app.fing.com
 jaguar.here.com
 landrover.here.com
 hln.be
