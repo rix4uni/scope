@@ -36,10 +36,6 @@
 *.freshdesk.com
 *.bullish.com
 *.cisco.com
-*.hfc.comcastbusiness.net
-hsd1.*.comcast.net
-*business.comcast.com
-*.sys.comcast.net
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
@@ -160,6 +156,8 @@ argocd.*.uidapi.com
 *.xerxessecure.com
 *.cimcontent.net
 *.identity.xfinity.com
+*.hfc.comcastbusiness.net
+hsd1.*.comcast.net
 *.pulseinsights.com
 *.wurfulcloud.com
 *.appcenter.ms
