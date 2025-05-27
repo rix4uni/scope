@@ -1,4 +1,2 @@
-remove.bg
-designify.com
-kaleido.ai
-unscreen.com
+service.fing.com
+app.fing.com
