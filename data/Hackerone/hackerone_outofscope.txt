@@ -221,8 +221,6 @@ sponsor.xverse.app
 xverse.app
 support.wonder.com
 greenfly.com
-*.ionity.eu
-cleverreach.com
 *.gobrightspeed.net
 dhcp.embarqhsd.net
 aboitiz.account.box.com

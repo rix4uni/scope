@@ -221,7 +221,6 @@ db.*.supabase.co
 *.development.travix.com
 *.playground.travix.com
 *.stg.travix.com
-*.ionity.eu
 *.gobrightspeed.net
 *.envira.es
 *.eurofins-digitaltesting.com

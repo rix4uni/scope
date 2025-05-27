@@ -501,6 +501,8 @@ community.segment.com
 talks.twilio.com
 webinars.segment.com
 transform.twilio.com
+webinars.twilio.com
+store.twilio.com
 underarmour.com
 uabiz.com
 investor.underarmour.com
@@ -724,7 +726,6 @@ sponsor.xverse.app
 xverse.app
 support.wonder.com
 greenfly.com
-cleverreach.com
 dhcp.embarqhsd.net
 aboitiz.account.box.com
 pri-webprd-apg.aboitiz.com

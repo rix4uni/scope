@@ -649,6 +649,8 @@ community.segment.com
 talks.twilio.com
 webinars.segment.com
 transform.twilio.com
+webinars.twilio.com
+store.twilio.com
 underarmour.com
 uabiz.com
 investor.underarmour.com
