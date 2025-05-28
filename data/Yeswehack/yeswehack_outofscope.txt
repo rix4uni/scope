@@ -17,6 +17,7 @@ alasco.de
 logging.apache.org
 agora.beta.gouv.fr
 github.com
+blog.bitoasis.net
 dev.blablacar.com
 sncf-connect.com
 sncf.com

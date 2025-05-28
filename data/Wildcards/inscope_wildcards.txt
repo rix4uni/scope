@@ -1092,6 +1092,7 @@ sip.*.twilio.com
 *.atg.se
 *.alasco.de
 *.alasco.rocks
+*.bitoasis.net
 *.coindcx.com
 *.contentsquare.com
 *.tchap.gouv.fr
