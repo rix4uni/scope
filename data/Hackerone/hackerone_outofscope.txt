@@ -310,6 +310,9 @@ docs.moderntreasury.com
 help.moderntreasury.com
 trust.moderntreasury.com
 moderntreasury.com
+*.daimler.com
+*.fuso.com
+*.thomasbuildbuses.com
 bigstockphoto.fr
 ofcourse.com
 *.api.cx.metamask.io

@@ -232,6 +232,9 @@ db.*.supabase.co
 *.prudential.co.kr
 *.prudentialagf.cl
 *.prudentialplc.com
+*.daimler.com
+*.fuso.com
+*.thomasbuildbuses.com
 *.api.cx.metamask.io
 *.metamask.io
 *.floqast.com
