@@ -476,9 +476,6 @@ online.*.skybingo.com
 *.polishmywriting.com
 *.scrollkit.com
 *.blockspring.com
-*.concrete5.org
-*.concretecms.com
-*.concretecms.org
 *.glitchthegame.com
 *.rubyonrails.org
 *.birds.bi

@@ -2019,12 +2019,6 @@ status.coinbase.com
 support.coinbase.com
 support.pro.coinbase.com
 tagomi.com
-*.concrete5.org
-concrete5.org
-*.concretecms.com
-concretecms.com
-*.concretecms.org
-concretecms.org
 *.glitchthegame.com
 slackhq.com
 status.slack.com
