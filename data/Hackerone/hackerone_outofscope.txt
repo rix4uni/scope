@@ -1135,6 +1135,7 @@ entry.line.me
 prod-fido-fido2-server.line-apps.com
 *.sky.com.mx
 accbusinesspricing.att.com
+att.suppliergateway.com
 attdashboard.wireless.att.com
 attpurchasing.com
 attsuppliers.com
