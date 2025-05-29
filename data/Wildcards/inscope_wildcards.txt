@@ -357,7 +357,9 @@ sip.*.twilio.com
 *.audible.it
 *.audible.de
 *.bybit.com
+*.budgetair.com
 *.cheaptickets.nl
+*.flugladen.de
 *.trainpal.com
 *.mytrainpal.com
 *.travix.com
@@ -365,6 +367,8 @@ sip.*.twilio.com
 *.trip.com
 *.triplinkintl.com
 *.tyo-masters.co.jp
+*.vayama.com
+*.vliegwinkel.nl
 *.bykea.net
 *.consumer.worldcoin.org
 *.toolsforhumanity.com

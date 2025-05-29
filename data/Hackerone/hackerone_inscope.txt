@@ -222,7 +222,9 @@ app.lightspark.com
 link.uma.me
 lrc20.lightspark.com
 *.bybit.com
+*.budgetair.com
 *.cheaptickets.nl
+*.flugladen.de
 *.trainpal.com
 *.mytrainpal.com
 *.travix.com
@@ -231,7 +233,10 @@ lrc20.lightspark.com
 trip.com
 *.triplinkintl.com
 *.tyo-masters.co.jp
+*.vayama.com
+*.vliegwinkel.nl
 app.blueskytravelvietnam.com
+trip.biz
 *.bykea.net
 bykea.com
 api.bykea.net

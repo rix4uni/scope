@@ -1,1 +1,4 @@
-*.tyo-masters.co.jp
+*.budgetair.com
+*.flugladen.de
+*.vayama.com
+*.vliegwinkel.nl
