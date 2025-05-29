@@ -881,6 +881,7 @@ cms-uat.optussport.tv
 cms-qa.optussport.tv
 static.cms-uat.optussport.tv
 static.cms-qa.optussport.tv
+vpn01.syd.optusnet.com.au
 naasapi.optus.com.au
 ras1.optus.com.au
 ns1.optusnet.com.au
@@ -888,7 +889,6 @@ ns2.optusnet.com.au
 dns0.optus.net.au
 dns1.optus.net.au
 ddosportal.optus.com.au
-vpn01.syd.optusnet.com.au
 ogws.optusnet.com.au
 oes.optusnet.com.au
 speedtest-sydney.optusnet.com.au
