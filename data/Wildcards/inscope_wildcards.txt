@@ -364,6 +364,7 @@ sip.*.twilio.com
 *.travix.io
 *.trip.com
 *.triplinkintl.com
+*.tyo-masters.co.jp
 *.bykea.net
 *.consumer.worldcoin.org
 *.toolsforhumanity.com

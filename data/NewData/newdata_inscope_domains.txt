@@ -1,2 +1,1 @@
-service.fing.com
-app.fing.com
+app.blueskytravelvietnam.com

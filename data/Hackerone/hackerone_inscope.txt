@@ -230,6 +230,8 @@ lrc20.lightspark.com
 *.trip.com
 trip.com
 *.triplinkintl.com
+*.tyo-masters.co.jp
+app.blueskytravelvietnam.com
 *.bykea.net
 bykea.com
 api.bykea.net
