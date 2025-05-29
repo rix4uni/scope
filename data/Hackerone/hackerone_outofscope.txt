@@ -81,6 +81,7 @@ vans.com.ec
 vans.com.pa
 vans.com.pe
 vans.com.py
+*.smartbusinessreports.com
 docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com
