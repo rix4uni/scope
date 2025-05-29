@@ -363,6 +363,7 @@ sip.*.twilio.com
 *.travix.com
 *.travix.io
 *.trip.com
+*.triplinkintl.com
 *.bykea.net
 *.consumer.worldcoin.org
 *.toolsforhumanity.com

@@ -229,6 +229,7 @@ lrc20.lightspark.com
 *.travix.io
 *.trip.com
 trip.com
+*.triplinkintl.com
 *.bykea.net
 bykea.com
 api.bykea.net
