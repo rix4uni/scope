@@ -818,8 +818,6 @@ soundcloud.org
 square.online
 weebly.com
 manage.statuspage.io
-driveuconnect.com
-driveuconnect.eu
 portal.lrs.t-mobile.com
 account.t-mobile.com
 metrobyt-mobile.com
@@ -3495,8 +3493,6 @@ weclapp.com
 exact.com
 service.fing.com
 app.fing.com
-jaguar.here.com
-landrover.here.com
 hln.be
 myaccount.hln.be
 myaccount.parool.nl

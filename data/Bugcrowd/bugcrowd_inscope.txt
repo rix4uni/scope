@@ -1090,8 +1090,6 @@ square.online
 weebly.com
 manage.statuspage.io
 *.statuspage.io
-driveuconnect.com
-driveuconnect.eu
 portal.lrs.t-mobile.com
 account.t-mobile.com
 metrobyt-mobile.com
