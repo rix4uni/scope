@@ -1363,8 +1363,6 @@ transferwise.com
 *.transferwise.com
 wise.com
 *.wise.com
-api.woox.io
-woox.io
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com
