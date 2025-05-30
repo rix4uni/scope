@@ -1635,6 +1635,7 @@ connect.secure.wellsfargo.com
 wellsfargo.com
 admin.wickr.com
 greenchannel.payoneer.com.cn
+myaccount-cn.payoneer.com
 payoneer.com.cn
 api.moonpay.com
 app.moonpay.com
@@ -3570,7 +3571,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz

@@ -1,2 +1,1 @@
-fivetran.com
-co.uk.getmondo
+myaccount-cn.payoneer.com

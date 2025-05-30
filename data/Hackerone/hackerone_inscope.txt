@@ -687,6 +687,7 @@ wellsfargo.com
 admin.wickr.com
 *.payoneer.com
 greenchannel.payoneer.com.cn
+myaccount-cn.payoneer.com
 payoneer.com.cn
 *.hypermint.com
 *.moonpay.com
