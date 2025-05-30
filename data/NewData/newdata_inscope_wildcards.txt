@@ -1,4 +1,1 @@
-*.budgetair.com
-*.flugladen.de
-*.vayama.com
-*.vliegwinkel.nl
+*.lululemon.com
