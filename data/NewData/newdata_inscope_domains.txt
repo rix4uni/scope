@@ -1,8 +1,4 @@
-asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-arubainstanton.com
-mspshowcase.arubanetworks.com
-blogs.arubanetworks.com
-aed.arubanetworks.com
-connect.arubanetworks.com
-devhub.arubanetworks.com
+indeed.com
+apis.indeed.com
+resume.com
+wowjobs.ca
