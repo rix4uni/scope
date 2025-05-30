@@ -236,6 +236,7 @@ internal.exoscale.ch
 sks-ch-gva-2.exo.io
 expressvpn.com
 financialforce.com
+fivetran.com
 flo.uri.sh
 flourish.studio
 xyzbmojn.net
@@ -3569,6 +3570,7 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz

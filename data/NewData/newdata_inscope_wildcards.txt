@@ -1,4 +1,3 @@
-*.indeed.com
-*.indeedflex.com
-*.indeed.tech
-*.indeed.net
+*.monzo.com
+*.monzo.me
+*.prod-ffs.io
