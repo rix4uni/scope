@@ -1,2 +1,1 @@
-*.afterpay.com
-portalapi.*.afterpay.com
+*.gp.monash.edu
