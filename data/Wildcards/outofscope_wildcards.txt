@@ -73,8 +73,6 @@ auth.*.latitudefinancial.com
 *.filestack.com
 *.blstr.xyz
 *.blstr.co
-*.lululemon.cn
-*.lululemon.me
 *nuinternational.com
 *nat-a.nubank.com.br
 *.octopus.app

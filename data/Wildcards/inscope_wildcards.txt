@@ -189,7 +189,6 @@ np.*.lfscnp.com
 *.pods.link
 *.playlist.link
 *.mylink.page
-*.lululemon.com
 *.cloud.mattermost.com
 *.mgm.mo
 *.booking.mgm.mo
@@ -262,7 +261,6 @@ np.*.lfscnp.com
 *.certsynonprod.com
 *.mcssl.com
 *.skyscanner.net
-*.smartmockups.com
 *.sophos.com
 *.soundcloud.org
 *.s-cloud.net

@@ -414,17 +414,6 @@ pods.link
 playlist.link
 mylink.page
 linktree.app.link
-shop.lululemon.com
-lululemon.com.au
-lululemon.de
-lululemon.es
-eu.lululemon.com
-lululemon.fr
-lululemon.com.hk
-lululemon.co.jp
-lululemon.co.kr
-lululemon.co.nz
-lululemon.co.uk
 mobileapi.staging.luno.com
 staging.luno.com
 ajax.staging.luno.com
@@ -806,7 +795,6 @@ skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
-smartmockups.com
 snapnames.com
 namejet.com
 sophos.com
