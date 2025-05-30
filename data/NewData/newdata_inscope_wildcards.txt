@@ -1,3 +1,5 @@
-*.monzo.com
-*.monzo.me
-*.prod-ffs.io
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn

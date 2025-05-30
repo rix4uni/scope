@@ -2,18 +2,6 @@ acorns.com
 graphql.acorns.com
 gohenry.com
 pixpay.fr
-portal.afterpay.com
-afterpay.com
-mobileapi.afterpay.com
-portalapi.us.afterpay.com
-developers.afterpay.com
-clearpay.co.uk
-clearpay.com
-portal.clearpay.com
-portal.clearpay.co.uk
-mobileapi.clearpay.com
-portalapi.eu.clearpay.co.uk
-api.clearpay.com
 aiven.io
 regatta.aiven.io
 console.aiven.io
@@ -133,6 +121,8 @@ bullish.com
 investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
+canva.com
+api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
