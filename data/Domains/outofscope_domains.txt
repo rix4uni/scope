@@ -271,14 +271,6 @@ developer.thefork.io
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
-investors.latitudefinancial.com.au
-auth.latitudefinancial.com
-my.latitudepay.com
-sg.latitudepay.com
-t.latitudefinancial.com
-p.latitudefinancial.com
-payments.latitudefinancial.com
-payments-api.latitudefinancial.com
 lightspeedhq.com
 pos-admin.trial.lsk.lightspeed.app
 x-series-support.lightspeedhq.com
@@ -476,6 +468,10 @@ embed.tidal.com
 e.trello.com
 help.trello.com
 trello-attachments.s3.amazonaws.com
+ir.tripadvisor.com
+spotlight-dev.tripadvisor.com
+spotlight.tripadvisor
+careers.tripadvisor.com
 tgt.tamedia.ch
 auth.20min.ch
 cre-api.tamedia.ch
