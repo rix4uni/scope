@@ -1,1 +1,16 @@
-co.uk.getmondo
+aspen-ecommerce-prod.iot.irobotapi.com
+zuora-ecommerce-prod.iot.irobotapi.com
+irobot.com
+irobot.ca
+irobot.at
+irobot.be
+irobot.de
+irobot.es
+irobot.fr
+irobot.co.uk
+irobot.ie
+irobot.nl
+irobot.pt
+homesupport.irobot.com
+media.irobot.com
+investor.irobot.com
