@@ -1,2 +1,1 @@
-beta.meet.jit.si
-moderated-pilot.jitsi.net
+meet.jit.si
