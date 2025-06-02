@@ -1040,8 +1040,6 @@ sip.*.twilio.com
 *.monzo.com
 *.monzo.me
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
