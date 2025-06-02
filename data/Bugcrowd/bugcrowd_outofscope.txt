@@ -114,6 +114,8 @@ security.bigcommerce.com
 partnernews.bigcommerce.com
 content.product.bigcommerce.com
 dam.bigcommerce.com
+status.bigcommerce.com
+api-b2b.bigcommerce.com
 jobs.coinmarketcap.com
 support.binance
 binance.sg
