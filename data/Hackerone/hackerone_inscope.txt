@@ -967,7 +967,9 @@ xvideos.red
 *.8x8staging.com
 *.chalet.8x8.com
 *.jit.si
+beta.meet.jit.si
 *.jitsi.net
+moderated-pilot.jitsi.net
 *.p8t.us
 *.wavecell.com
 connect.8x8.com
