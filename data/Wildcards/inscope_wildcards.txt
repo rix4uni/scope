@@ -1037,9 +1037,6 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.monzo.me
-*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
