@@ -204,6 +204,7 @@ argocd.*.uidapi.com
 *.vans.com.pa
 *.vans.com.pe
 *.vans.com.py
+*.accdata.experian.co.uk
 *.smartbusinessreports.com
 *.agilebits.com
 *.zipbooks.com
