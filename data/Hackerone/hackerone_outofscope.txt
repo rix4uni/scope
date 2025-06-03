@@ -82,6 +82,8 @@ vans.com.pa
 vans.com.pe
 vans.com.py
 *.smartbusinessreports.com
+contactorcheck.com
+suppliercheck.com
 businesscreditfacts.com
 smallbusiness.experian.com
 docs.hemi.xyz
