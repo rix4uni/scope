@@ -1,1 +1,16 @@
-meet.jit.si
+reptox.cnesst.gouv.qc.ca
+auth.pentest.clicsante.ca
+profile.pentest.clicsante.ca
+clients3.pentest.clicsante.ca
+portal3.pentest.clicsante.ca
+api3.pentest.clicsante.ca
+admin3.pentest.clicsante.ca
+poc-op-ywh.it.authentification.si.gouv.qc.ca
+auth-ywh.it.authentification.si.gouv.qc.ca
+cyber.gouv.qc.ca
+pab.donneesquebec.ca
+gap.citizenportal-test.bugbounty.akinox.dev
+test.m4sv.bugbounty.akinox.dev
+pbgq.upac.gouv.qc.ca
+pbgq-pes.upac.gouv.qc.ca
+pbgq-pes.deontologie-policiere.gouv.qc.ca
