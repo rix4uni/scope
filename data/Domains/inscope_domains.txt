@@ -3623,12 +3623,6 @@ library-staging.pdq.tools
 detect.pdq.tools
 houston-staging.pdq.tools
 portal-staging.pdq.tools
-api.personio-dev.com
-api.personio.com
-community.personio.com
-hug.personio.com
-personio.de
-personio.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api.portofantwerp.com
