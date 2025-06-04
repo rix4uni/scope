@@ -214,6 +214,7 @@ argocd.*.uidapi.com
 *.amazonaws.com
 db.*.supabase.co
 *.supabase.co
+*.cyral.com
 *.varonis-preprod.com
 *.rentals.rei.com
 *.3cx.com

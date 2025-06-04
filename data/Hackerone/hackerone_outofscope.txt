@@ -124,6 +124,7 @@ auth.finnair.com
 x.com
 youtube.com
 advisoryworld.com
+*.cyral.com
 *.varonis-preprod.com
 issue-management.iontrading.com
 docs.wallet.tg
