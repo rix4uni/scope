@@ -18,7 +18,6 @@ api.hubspot.com
 app-eu1.hubspot.com
 app.hubspot.com
 chatspot.ai
-connect.com
 *.coloros.com
 *.myoas.com
 *.myoas.net

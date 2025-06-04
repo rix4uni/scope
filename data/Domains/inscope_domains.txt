@@ -1104,7 +1104,6 @@ api.hubspot.com
 app-eu1.hubspot.com
 app.hubspot.com
 chatspot.ai
-connect.com
 community.coloros.com
 coloros.com
 engine.heytap.com
