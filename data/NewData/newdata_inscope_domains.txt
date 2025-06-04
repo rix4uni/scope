@@ -1,1 +1,1 @@
-bolt.eu
+data-api.coindesk.com
