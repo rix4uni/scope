@@ -57,6 +57,7 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+justonweb.be
 *.dpgmedia.be
 *.dpgmedia.nl
 app.datacamp.com
@@ -280,6 +281,18 @@ library-staging.pdq.tools
 detect.pdq.tools
 houston-staging.pdq.tools
 portal-staging.pdq.tools
+*.app.personio-dev.com
+*.app.personio.com
+*.personio-internal.de
+*.personio.tools
+api.personio-dev.com
+api.personio.com
+*.personio.de
+*.personiowhistleblowing.com
+community.personio.com
+hug.personio.com
+personio.de
+personio.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api.portofantwerp.com
