@@ -1,2 +1,2 @@
-*.taxify.eu
-*.bolt.eu
+*.afterpay.com
+portalapi.*.afterpay.com
