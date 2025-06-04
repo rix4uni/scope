@@ -1,2 +1,5 @@
-*.afterpay.com
-portalapi.*.afterpay.com
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn
