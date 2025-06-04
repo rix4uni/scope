@@ -1,7 +1,8 @@
-justonweb.be
-api.personio-dev.com
-api.personio.com
-community.personio.com
-hug.personio.com
-personio.de
-personio.com
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
