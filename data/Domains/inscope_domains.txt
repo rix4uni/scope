@@ -124,8 +124,9 @@ bitso.com
 nvio.mx
 nvio.ar
 bitstamp.net
-docs.bugcrowd.com
 bugcrowd.com
+bolt.eu
+docs.bugcrowd.com
 tracker.bugcrowd.com
 api.bugcrowd.com
 identity.bugcrowd.com

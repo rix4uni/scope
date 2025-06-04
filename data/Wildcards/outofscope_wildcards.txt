@@ -33,6 +33,8 @@
 *.exchange.bitpanda.com
 *.otc.bitso.com
 *.efx.bitso.com
+*.test.bolt.eu
+*.test.taxify.eu
 *.freshdesk.com
 *.bullish.com
 *.cisco.com
