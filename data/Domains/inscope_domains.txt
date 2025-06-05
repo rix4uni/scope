@@ -428,6 +428,8 @@ gpt.lime.bike
 linktr.ee
 linktree.com
 tr.ee
+linktree.app.link
+plannthat.com
 odesli.co
 odesli.com
 song.link
@@ -437,7 +439,6 @@ artist.link
 pods.link
 playlist.link
 mylink.page
-linktree.app.link
 shop.lululemon.com
 lululemon.com.au
 lululemon.de

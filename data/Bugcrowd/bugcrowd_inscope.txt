@@ -616,6 +616,9 @@ linktree.com
 tr.ee
 *.tr.ee
 *.linktree-extensions.com
+linktree.app.link
+*.plannthat.com
+plannthat.com
 odesli.co
 *.odesli.co
 odesli.com
@@ -634,7 +637,6 @@ playlist.link
 *.playlist.link
 mylink.page
 *.mylink.page
-linktree.app.link
 shop.lululemon.com
 *.lululemon.com
 lululemon.com.au

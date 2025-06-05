@@ -186,6 +186,7 @@ np.*.lfscnp.com
 *.linktree.com
 *.tr.ee
 *.linktree-extensions.com
+*.plannthat.com
 *.odesli.co
 *.odesli.com
 *.song.link
