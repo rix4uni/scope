@@ -1,1 +1,5 @@
 *.tube8.com
+*.zoop.com.br
+*.zoop.ws
+*.minhaconta.zoop.com.br
+*.dash.zoop.com.br
