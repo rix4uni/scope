@@ -80,6 +80,17 @@ probiller.realitykings.com
 probiller.seancody.com
 probiller.digitalplayground.com
 probiller.transangels.com
+pornhub.com
+mobile.pornhub.com
+api.pornhub.com
+pornhubpremium.com
+redtube.com
+redtubepremium.com
+youporn.com
+youpornpremium.com
+pornhub.mainhub.com
+tube8.com
+thumbzilla.com
 mydirtyhobby.com
 mydirtyhobby.de
 it.mydirtyhobby.com
@@ -3588,8 +3599,6 @@ forms.nexuzhealth.be
 idp-mobile.nexuzhealth.be
 mobile.nexuzhealth.be
 mynexuz.be
-idp-contact.nexuzhealth.be
-media.nexuzhealth.be
 analytics.ninjakiwi.com
 api.ninjakiwi.com
 guts.ninjakiwi.com
