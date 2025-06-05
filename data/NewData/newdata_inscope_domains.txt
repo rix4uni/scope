@@ -1,2 +1,1 @@
-canva.com
-api.canva.com
+stats.vinci.com
