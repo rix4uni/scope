@@ -91,6 +91,7 @@ docs.hemi.xyz
 news.hemi.xyz
 okta.whoop.com
 connect.com
+*.hubspot.com
 events.hubspot.com
 ir.hubspot.com
 shop.hubspot.com

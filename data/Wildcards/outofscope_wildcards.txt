@@ -208,6 +208,7 @@ argocd.*.uidapi.com
 *.vans.com.py
 *.accdata.experian.co.uk
 *.smartbusinessreports.com
+*.hubspot.com
 *.agilebits.com
 *.zipbooks.com
 *.pgs.casino
