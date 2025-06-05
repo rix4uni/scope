@@ -22,7 +22,6 @@ portalapi.*.afterpay.com
 *.seancody.com
 *.digitalplayground.com
 *.transangels.com
-*.tube8.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
@@ -1042,6 +1041,8 @@ sip.*.twilio.com
 *.monzo.com
 *.monzo.me
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
