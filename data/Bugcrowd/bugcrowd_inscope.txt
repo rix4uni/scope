@@ -104,6 +104,18 @@ probiller.realitykings.com
 probiller.seancody.com
 probiller.digitalplayground.com
 probiller.transangels.com
+pornhub.com
+mobile.pornhub.com
+api.pornhub.com
+pornhubpremium.com
+redtube.com
+redtubepremium.com
+youporn.com
+youpornpremium.com
+pornhub.mainhub.com
+*.tube8.com
+tube8.com
+thumbzilla.com
 mydirtyhobby.com
 mydirtyhobby.de
 it.mydirtyhobby.com
@@ -230,7 +242,6 @@ staging.auth.coindesk.com
 *.sys.comcast.net
 business.comcast.com
 xfinity.com
-consensus2024.sandbox.events.coindesk.com
 cyberghostvpn.com
 *.cyberghostvpn.com
 *.cyberghost.com
