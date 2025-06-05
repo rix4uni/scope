@@ -242,6 +242,7 @@ staging.auth.coindesk.com
 *.sys.comcast.net
 business.comcast.com
 xfinity.com
+consensus2024.sandbox.events.coindesk.com
 cyberghostvpn.com
 *.cyberghostvpn.com
 *.cyberghost.com
