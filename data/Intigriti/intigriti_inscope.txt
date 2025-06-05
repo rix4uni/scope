@@ -251,6 +251,8 @@ forms.nexuzhealth.be
 idp-mobile.nexuzhealth.be
 mobile.nexuzhealth.be
 mynexuz.be
+idp-contact.nexuzhealth.be
+media.nexuzhealth.be
 analytics.ninjakiwi.com
 api.ninjakiwi.com
 guts.ninjakiwi.com
