@@ -177,6 +177,7 @@ staging.coindesk.com
 staging.auth.coindesk.com
 business.comcast.com
 xfinity.com
+consensus2024.sandbox.events.coindesk.com
 cyberghostvpn.com
 cyberghost.com
 cyberghost.app
