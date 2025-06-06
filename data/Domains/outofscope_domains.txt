@@ -1333,7 +1333,6 @@ adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
 help.evernote.com
-svn.filezilla-project.org
 oasisprotocol.org
 atp-exodus.com
 exodus.atlassian.net

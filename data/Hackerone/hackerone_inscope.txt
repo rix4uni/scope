@@ -1273,8 +1273,6 @@ truecaller.com
 accounts.evernote.com
 api.evernote.com
 evernote.com
-filezilla-project.org
-svn.filezilla-project.org
 emerald.oasis.dev
 grpc.oasis.dev
 rosetta.oasis.dev
