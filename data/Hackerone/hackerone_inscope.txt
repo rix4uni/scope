@@ -386,6 +386,7 @@ api.accounts.firefox.com
 oauth.accounts.firefox.com
 profile.accounts.firefox.com
 verifier.accounts.firefox.com
+graphql.accounts.firefox.com
 subscriptions.firefox.com
 addons.allizom.org
 services.addons.allizom.org

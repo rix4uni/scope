@@ -1,10 +1,1 @@
-pinelabs.com
-pinelabs.my
-pinelabs.us
-board.pinelabs.com
-nbs.pinelabs.com
-dashboardv2.pluralonline.com
-api.pluralonline.com
-api.pluralpay.in
-pinepg.in
-pluralcheckout.pinepg.in
+graphql.accounts.firefox.com
