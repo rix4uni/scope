@@ -1,1 +1,2 @@
-*.tube8.com
+*.afterpay.com
+portalapi.*.afterpay.com
