@@ -889,11 +889,12 @@ cdn-app.welcomesoftware.com
 analytics.welcomesoftware.com
 flags.expeng.optimizely.com
 accounts.cmp.optimizely.com
-*.optus.com.au
 webmail.optusnet.com.au
+*.optus.com.au
 outsourcing.optus.net.au
 outsourcing2.optus.net.au
 optus.com.au
+optus.my.site.com
 gateway.optus.com.au
 sport.optus.com.au
 samsung.optussport.tv

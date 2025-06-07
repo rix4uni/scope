@@ -657,6 +657,7 @@ webmail.optusnet.com.au
 outsourcing.optus.net.au
 outsourcing2.optus.net.au
 optus.com.au
+optus.my.site.com
 gateway.optus.com.au
 sport.optus.com.au
 samsung.optussport.tv
