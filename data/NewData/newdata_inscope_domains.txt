@@ -1,2 +1,2 @@
-opendata.test-socrata.com
-opendata-demo.test-socrata.com
+api.woox.io
+woox.io
