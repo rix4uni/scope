@@ -31,14 +31,6 @@ myapi.arlo.com
 arlo.com
 updates.arlo.com
 arubanetworks.com
-asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-arubainstanton.com
-mspshowcase.arubanetworks.com
-blogs.arubanetworks.com
-aed.arubanetworks.com
-connect.arubanetworks.com
-devhub.arubanetworks.com
 app.asana.com
 asana.com
 form.asana.com
@@ -1078,6 +1070,8 @@ bluehost.com
 hostgator.com
 transferwise.com
 wise.com
+api.woox.io
+woox.io
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com

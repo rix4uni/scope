@@ -1,8 +1,2 @@
-asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-arubainstanton.com
-mspshowcase.arubanetworks.com
-blogs.arubanetworks.com
-aed.arubanetworks.com
-connect.arubanetworks.com
-devhub.arubanetworks.com
+api.woox.io
+woox.io
