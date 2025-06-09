@@ -83,6 +83,7 @@ vans.com.pe
 vans.com.py
 *.accdata.experian.co.uk
 *.smartbusinessreports.com
+bi.experian.ie
 contactorcheck.com
 suppliercheck.com
 businesscreditfacts.com
