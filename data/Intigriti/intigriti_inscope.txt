@@ -273,8 +273,6 @@ no.kolonial.tienda
 se.mathem.mathem
 *.oda.com
 *.prod.nube.tech
-associatie.kuleuven.be
-webwsp.aps.kuleuven.be
 a.simplemdm.com
 auth2.pdq.tools
 library-staging.pdq.tools
