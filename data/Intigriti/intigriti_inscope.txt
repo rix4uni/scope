@@ -33,8 +33,6 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
-bpost2.be
-imove.bpost.cloud
 login.cm.com
 *.ticketing.cm.com
 api.cm.com
