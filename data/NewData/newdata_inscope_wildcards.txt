@@ -1,1 +1,4 @@
-*.datacamp.com
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
