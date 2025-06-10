@@ -930,6 +930,7 @@ sip.*.twilio.com
 *.lightroom.adobe.com
 *.ubnt.com
 *.ui.com
+*.uisp.com
 *.sc-core.net
 *.sc-corp.net
 *.uberinternal.com
