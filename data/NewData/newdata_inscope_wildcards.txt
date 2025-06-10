@@ -1,1 +1,1 @@
-*.trip.biz
+*.datacamp.com
