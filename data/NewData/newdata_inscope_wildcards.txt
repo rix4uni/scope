@@ -1,1 +1,1 @@
-*.auth.bild.de
+*.hey.bild.de
