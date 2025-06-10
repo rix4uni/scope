@@ -972,6 +972,7 @@ sip.*.twilio.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
+*.auth.bild.de
 *.bild.de
 *.bild.tv
 *.computerbild.de

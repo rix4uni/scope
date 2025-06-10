@@ -1,4 +1,1 @@
-*.weareone.world
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
+*.auth.bild.de

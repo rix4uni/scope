@@ -7,6 +7,10 @@ ad.nl
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
+m.bild.de
+*.auth.bild.de
+bild.de
+meinkonto.bild.de
 *.bild.de
 *.bild.tv
 *.computerbild.de
