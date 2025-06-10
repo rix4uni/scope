@@ -228,6 +228,7 @@ lrc20.lightspark.com
 *.mytrainpal.com
 *.travix.com
 *.travix.io
+*.trip.biz
 *.trip.com
 trip.com
 *.triplinkintl.com
@@ -235,7 +236,6 @@ trip.com
 *.vayama.com
 *.vliegwinkel.nl
 app.blueskytravelvietnam.com
-trip.biz
 *.bykea.net
 bykea.com
 api.bykea.net
