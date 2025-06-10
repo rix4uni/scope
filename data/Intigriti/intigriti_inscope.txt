@@ -1,4 +1,5 @@
 app.aikido.dev
+github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -97,7 +98,6 @@ delen.be
 *.digitalocean.com
 api.digitalocean.com
 cloud.digitalocean.com
-github.com
 marketplace.digitalocean.com
 snapshooter.com
 digitalocean.com
@@ -271,6 +271,8 @@ no.kolonial.tienda
 se.mathem.mathem
 *.oda.com
 *.prod.nube.tech
+associatie.kuleuven.be
+webwsp.aps.kuleuven.be
 a.simplemdm.com
 auth2.pdq.tools
 library-staging.pdq.tools
@@ -366,23 +368,6 @@ asupport.suivo.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
-*.weareone.world
-belgium.tomorrowland.com
-brasil.tomorrowland.com
-globaljourney.tomorrowland.com
-my.tomorrowland.com
-sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
-tlbe.prod.tomorrowland.com
-tlbr.prod.tomorrowland.com
-tlfr.prod.tomorrowland.com
-winter.tomorrowland.com
-winterpackages.tomorrowland.com
-tomorrowland.com
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
-components.stag.tomorrowland.com
-components.tomorrowland.com
 winkels.torfs.be
 schoenentorfs.be
 schoenentorfs.nl

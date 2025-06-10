@@ -1069,10 +1069,6 @@ sip.*.twilio.com
 *.say.rocks
 *.sqills.com
 *.sqills.team
-*.weareone.world
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
 *.trouw.nl
 *.truelayer.cloud
 *.truelayer.com
