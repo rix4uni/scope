@@ -2489,17 +2489,6 @@ careers.sqills.com
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
-banks.truelayer.com
-careers.truelayer.com
-docs.truelayer.com
-truelayer.com
-index.truelayer.com
-info.truelayer.com
-ok.truelayer.com
-signin.truelayer.com
-statuspage.truelayer.com
-support.truelayer.com
-truelayer.zendesk.com
 elect.tweakers.net
 jobs.uzleuven.be
 uzleuven.atlassian.net
