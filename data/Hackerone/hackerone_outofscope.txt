@@ -38,6 +38,7 @@ try.braze.com
 blog.thenorthface.com.br
 jansport.ca
 jansport.cl
+jansport.co.kr
 jansport.com.ar
 jansport.com.co
 jansport.com.uy
