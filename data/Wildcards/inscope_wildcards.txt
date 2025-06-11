@@ -1000,7 +1000,6 @@ sip.*.twilio.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.vlaanderen.be
@@ -1048,9 +1047,6 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.monzo.me
-*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com
