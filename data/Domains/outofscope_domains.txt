@@ -471,6 +471,7 @@ ask.thetradedesk.com
 openpath.thetradedesk.com
 stationery.thetradedesk.com
 bynder.thetradedesk.com
+thetradedeskedgeacademy.com
 unifiedid.com
 euid.eu
 id.thetradedesk.com
