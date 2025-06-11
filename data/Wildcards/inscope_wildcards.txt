@@ -480,6 +480,7 @@ sip.*.twilio.com
 *.api.cx.metamask.io
 *.gethypr.com
 *.hypr.com
+*.lemonsqueezy.com
 *.link.co
 *.recko.io
 *.reckoproduction.com
