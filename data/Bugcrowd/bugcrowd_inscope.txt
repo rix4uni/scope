@@ -121,6 +121,8 @@ mydirtyhobby.de
 it.mydirtyhobby.com
 es.mydirtyhobby.com
 fr.mydirtyhobby.com
+mgpg2.probiller.com
+mgpg.probiller.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com

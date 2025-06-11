@@ -96,6 +96,8 @@ mydirtyhobby.de
 it.mydirtyhobby.com
 es.mydirtyhobby.com
 fr.mydirtyhobby.com
+mgpg2.probiller.com
+mgpg.probiller.com
 backblaze.com
 barracuda.com
 mybigcommerce.com
@@ -3462,6 +3464,7 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+justonweb.be
 app.datacamp.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com
