@@ -1,4 +1,1 @@
 *.datacamp.com
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
