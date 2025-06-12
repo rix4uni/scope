@@ -1571,6 +1571,7 @@ dev-nvapis.line.me
 kr-nvapis.line.me
 entry.line.me
 prod-fido-fido2-server.line-apps.com
+mydirectv.com
 accbusinesspricing.att.com
 att.suppliergateway.com
 attdashboard.wireless.att.com
