@@ -741,6 +741,7 @@ shz64n.on.com
 help.hypr.com
 partners.hypr.com
 support.hypr.com
+*.offre-odrvet.fr
 *.who.int
 covid19app.who.int
 *.getbouncer.com
