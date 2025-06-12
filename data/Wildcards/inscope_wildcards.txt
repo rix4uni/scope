@@ -327,6 +327,8 @@ sip.*.twilio.com
 *.hubspotemail.net
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
+*.hubapi.com
+*.hubspot.com
 *.coloros.com
 *.myoas.com
 *.myoas.net

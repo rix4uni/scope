@@ -1115,7 +1115,6 @@ shop.whoop.com
 knowledge.hubspot.com
 api.hubapi.com
 api.hubspot.com
-app-eu1.hubspot.com
 app.hubspot.com
 chatspot.ai
 community.coloros.com

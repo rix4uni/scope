@@ -13,9 +13,10 @@ shop.whoop.com
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
 knowledge.hubspot.com
+*.hubapi.com
+*.hubspot.com
 api.hubapi.com
 api.hubspot.com
-app-eu1.hubspot.com
 app.hubspot.com
 chatspot.ai
 *.coloros.com
