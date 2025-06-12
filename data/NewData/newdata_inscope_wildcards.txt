@@ -1,1 +1,2 @@
-*.lemonsqueezy.com
+*.ninjakiwi.me
+*.nkstatic.com
