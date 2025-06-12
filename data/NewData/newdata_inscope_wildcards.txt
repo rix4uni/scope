@@ -1,1 +1,1 @@
-*.sportbild.de
+*.datacamp.com
