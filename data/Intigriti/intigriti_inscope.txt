@@ -12,6 +12,7 @@ hey.bild.de
 *.hey.bild.de
 bild.de
 *.auth.bild.de
+*.sportbild.de
 meinkonto.bild.de
 *.bild.tv
 *.computerbild.de
