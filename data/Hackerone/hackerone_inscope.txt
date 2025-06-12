@@ -15,9 +15,6 @@ shop.whoop.com
 knowledge.hubspot.com
 *.hubapi.com
 *.hubspot.com
-api.hubapi.com
-api.hubspot.com
-app.hubspot.com
 chatspot.ai
 *.coloros.com
 *.myoas.com
