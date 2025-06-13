@@ -1,2 +1,1 @@
-*.hubapi.com
-*.hubspot.com
+*.datacamp.com
