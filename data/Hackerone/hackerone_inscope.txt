@@ -645,6 +645,7 @@ palantirfoundry.fr
 palantirfoundry.com.au
 palantirgov.com
 foundrygov.com
+*.account.mongodb.com
 *.cloud.mongodb.com
 artifactory.corp.mongodb.com
 *.corp.mongodb.com

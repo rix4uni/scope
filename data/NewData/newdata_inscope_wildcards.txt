@@ -1,1 +1,1 @@
-*.datacamp.com
+*.account.mongodb.com

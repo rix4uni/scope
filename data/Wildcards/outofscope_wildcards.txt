@@ -252,7 +252,6 @@ db.*.supabase.co
 *.orderwindstream.com
 *.windstreamdeals.com
 *.windstreamoffers.com
-*.account.mongodb.com
 *.atlas.mongodb.com
 *.auth.mongodb.com
 *.chattest.deribit.com
