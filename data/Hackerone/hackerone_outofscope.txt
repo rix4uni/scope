@@ -517,6 +517,13 @@ request-headers.moonpay.com
 storefront.hypermint.com
 support.moonpay.com
 *.koho.ca
+giveawaygiveaway.cadbury.co.uk
+gratistesten.philadelphia.de
+ligamaissabor.pt
+moltopromo.gr
+oreospacedunk.com
+oreospacedunkvn.com
+shop.oreo.com
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
 enterpriseregistration.apnic.net
