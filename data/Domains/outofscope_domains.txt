@@ -1609,6 +1609,7 @@ entry.line.me
 prod-fido-fido2-server.line-apps.com
 mydirectv.com
 accbusinesspricing.att.com
+att.com
 att.suppliergateway.com
 attdashboard.wireless.att.com
 attpurchasing.com
