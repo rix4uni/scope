@@ -355,6 +355,7 @@ webhooks.truelayer
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+wp5-truststroke.uzleuven.be
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be

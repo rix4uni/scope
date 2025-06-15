@@ -3683,6 +3683,7 @@ console-backend.truelayer
 console.truelayer
 hpp.truelayer
 webhooks.truelayer
+wp5-truststroke.uzleuven.be
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
