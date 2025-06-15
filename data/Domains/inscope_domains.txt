@@ -3620,8 +3620,6 @@ wiki.portofantwerpbruges.com
 oursustainableport.com
 portofantwerpbruges.com
 erpx.unit4cloud.com
-access.ripe.net
-lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
