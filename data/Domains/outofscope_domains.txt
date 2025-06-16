@@ -180,6 +180,7 @@ advocacy.code.org
 consensus2023.coindesk.com
 consensus2024.coindesk.com
 uat.accounts.coindesk.com
+staging.coindesk.com
 admin.selectwifi.xfinity.com
 comcastbiz.net
 console.delltechnologies.com
