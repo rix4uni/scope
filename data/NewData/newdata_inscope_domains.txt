@@ -1,3 +1,2 @@
-help.ovhcloud.com
-agent-chat.ovh.com
-community.ovhcloud.com
+store.tomorrowland.com
+brasil-store.tomorrowland.com
