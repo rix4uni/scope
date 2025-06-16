@@ -708,6 +708,8 @@ static.mgm.mo
 *.static.mgm.mo
 mlife.mo
 *.mlife.mo
+mgmmacau.com
+*.mgmmacau.com
 tickets.mgm.mo
 *.tickets.mgm.mo
 mobileapp-gaming.mgm.mo

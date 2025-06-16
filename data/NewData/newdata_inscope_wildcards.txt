@@ -1,1 +1,6 @@
-*.account.mongodb.com
+*.mgmmacau.com
+*.ncs.co
+*.ncs.com.cn
+*.dsanalytics.com
+*.dialog.com.au
+*.ncsimpact.co

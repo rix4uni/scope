@@ -203,6 +203,7 @@ np.*.lfscnp.com
 *.jobs.mgm.mo
 *.static.mgm.mo
 *.mlife.mo
+*.mgmmacau.com
 *.tickets.mgm.mo
 *.gp.monash.edu
 *.nr-data.net
@@ -1126,6 +1127,11 @@ sip.*.twilio.com
 *.infomaniak.com
 *.vod2.infomaniak.com
 *.api.louisvuitton.com
+*.ncs.co
+*.ncs.com.cn
+*.dsanalytics.com
+*.dialog.com.au
+*.ncsimpact.co
 *.okto.tech
 *.app.spacelift.dev
 *.post.ch

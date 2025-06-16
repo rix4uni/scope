@@ -503,6 +503,7 @@ booking.mgm.mo
 jobs.mgm.mo
 static.mgm.mo
 mlife.mo
+mgmmacau.com
 tickets.mgm.mo
 mobileapp-gaming.mgm.mo
 mobileapp-non-gaming.mgm.mo
