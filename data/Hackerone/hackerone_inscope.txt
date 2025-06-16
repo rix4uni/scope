@@ -886,6 +886,12 @@ tickets.metamask.io
 *.gethypr.com
 *.hypr.com
 access.app
+*.bridge.xyz
+stripe.com
+api.bridge.xyz
+apidocs.bridge.xyz
+dashboard.bridge.xyz
+bridge.xyz
 *.lemonsqueezy.com
 *.link.co
 link.co
@@ -897,7 +903,6 @@ support.link.com
 *.reckostaging.com
 *.stripe.com
 docs.stripe.com
-stripe.com
 checkout.stripe.com
 dashboard.stripe.com
 api.stripe.com

@@ -1,15 +1,1 @@
-*.ticketing.cm.com
-*.datacamp.com
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
+*.bridge.xyz

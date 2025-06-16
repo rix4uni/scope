@@ -1,1 +1,4 @@
-cas.tomorrowland.com
+api.bridge.xyz
+apidocs.bridge.xyz
+dashboard.bridge.xyz
+bridge.xyz

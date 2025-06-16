@@ -484,6 +484,7 @@ sip.*.twilio.com
 *.api.cx.metamask.io
 *.gethypr.com
 *.hypr.com
+*.bridge.xyz
 *.lemonsqueezy.com
 *.link.co
 *.recko.io

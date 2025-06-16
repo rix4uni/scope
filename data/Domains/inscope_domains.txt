@@ -1824,12 +1824,16 @@ consensys.net
 support.metamask.io
 tickets.metamask.io
 access.app
+stripe.com
+api.bridge.xyz
+apidocs.bridge.xyz
+dashboard.bridge.xyz
+bridge.xyz
 link.co
 link.com
 app.link.com
 support.link.com
 docs.stripe.com
-stripe.com
 checkout.stripe.com
 dashboard.stripe.com
 api.stripe.com
