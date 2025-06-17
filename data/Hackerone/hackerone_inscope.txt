@@ -2894,6 +2894,7 @@ docs.gitlab.com
 registry.gitlab.com
 *.grok.com
 *.twimg.com
+*.twitter.biz
 *.twitter.com
 *.vine.co
 *.x.ai
