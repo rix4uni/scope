@@ -140,6 +140,7 @@ apis.onecloud.harman.com
 edgeapis.onecloud.harman.com
 tms.onecloud.harman.com
 quantum-events.onecloud.harman.com
+ksuite.infomaniak.com
 *.kdrive.infomaniak.com
 api.infomaniak.com
 login.infomaniak.com
