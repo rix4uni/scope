@@ -317,6 +317,7 @@ opay.icbc.com
 opay.icbc.com.cn
 mgmchinaholdings.com
 hq.hero-cloud.com
+adfs.mgmmacau.com
 moneytree.jp
 getmoneytree.com
 tripactions.com
