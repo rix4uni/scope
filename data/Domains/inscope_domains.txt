@@ -342,6 +342,7 @@ irobot.pt
 homesupport.irobot.com
 media.irobot.com
 investor.irobot.com
+answers.irobot.com
 api-payments-secure-prod.skippayments.com
 takeawaypay.azurefd.net
 takeaway.pay-creditcard.takeaway.com
