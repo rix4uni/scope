@@ -449,6 +449,7 @@ afterpay.com
 cash.me
 designers.weebly.com
 tidal.com
+app.squareupstaging.com
 community.squareup.com
 itunes.apple.com
 techapps.t-mobile.com
@@ -2391,8 +2392,6 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
-store.ninjakiwi.com
-support.ninjakiwi.com
 appsfwd.ovoenergy.com
 askovo.net
 auth-retail.ovoenergy.com
