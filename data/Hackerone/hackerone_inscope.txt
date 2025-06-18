@@ -1487,7 +1487,6 @@ shoppers.instacart.com
 admin.instacart.com
 api.instacart.com
 instacart.com
-api.fortmatic.com
 api.magic.link
 auth.magic.link
 docs.magic.link
