@@ -950,9 +950,9 @@ api.unity.com
 cloud.unity.com
 store.unity.com
 pay.unity.com
-syncsketch.dev
 player-login.unity.com
 unity3d.com
+services.unity.com
 upwork.com
 api.upwork.com
 usaa.com
