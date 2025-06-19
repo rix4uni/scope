@@ -1608,6 +1608,7 @@ wellsfargo.com
 admin.wickr.com
 greenchannel.payoneer.com.cn
 myaccount-cn.payoneer.com
+myaccount.payoneer.com
 payoneer.com.cn
 api.moonpay.com
 app.moonpay.com
@@ -3407,6 +3408,7 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
+challenge-0625.intigriti.io
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
