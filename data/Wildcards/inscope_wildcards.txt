@@ -1,6 +1,4 @@
 *.acorns.com
-*.afterpay.com
-portalapi.*.afterpay.com
 *.arlo.com
 *.arloxcld.com
 *-prod.arlo.com
@@ -243,6 +241,7 @@ np.*.lfscnp.com
 *.download.originenergy.com.au
 *.pexels.com
 *.pinterest.com
+*.pixabay.com
 *.points.com
 *.privateinternetaccess.com
 *.quizlet.com
