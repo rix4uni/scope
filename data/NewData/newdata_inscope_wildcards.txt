@@ -1,1 +1,2 @@
-*.twitter.biz
+*.ninjakiwi.me
+*.nkstatic.com
