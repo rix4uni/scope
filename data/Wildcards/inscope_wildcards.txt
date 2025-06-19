@@ -1,4 +1,6 @@
 *.acorns.com
+*.afterpay.com
+portalapi.*.afterpay.com
 *.arlo.com
 *.arloxcld.com
 *-prod.arlo.com
@@ -1029,16 +1031,6 @@ sip.*.twilio.com
 *.hln.be
 *.parool.nl
 *.humo.be
-*.gamma.be
-*.gamma.nl
-*.intergamma.cloud
-*.intergamma.nl
-*.karwei.nl
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.libelle.nl
 *.mas.mobilevikings.be
 *.mobilevikings.be
