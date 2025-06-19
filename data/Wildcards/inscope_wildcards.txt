@@ -1,6 +1,4 @@
 *.acorns.com
-*.afterpay.com
-portalapi.*.afterpay.com
 *.arlo.com
 *.arloxcld.com
 *-prod.arlo.com
@@ -196,6 +194,7 @@ np.*.lfscnp.com
 *.pods.link
 *.playlist.link
 *.mylink.page
+*.lululemon.com
 *.cloud.mattermost.com
 *.mgm.mo
 *.booking.mgm.mo

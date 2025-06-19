@@ -8,9 +8,6 @@ developers.coindesk.com
 share.acorns.com
 grow.acorns.com
 store.acorns.com
-afterpaytechblog.com
-genderfree.afterpay.com
-moneybyafterpay.com
 aquarium.aiven.io
 uptime.aiven.io
 video.aiven.io
@@ -382,6 +379,15 @@ blstr.xyz
 blstr.co
 *.blstr.co
 community.linktr.ee
+*.lululemon.cn
+fr.shop.lululemon.com
+lululemon.me
+*.lululemon.me
+careers.lululemon.com
+info.lululemon.com
+pnimage.lululemon.com
+pnimages.lululemon.com
+mirror.co
 americangirlmena.com
 opay.icbc.com
 opay.icbc.com.cn
