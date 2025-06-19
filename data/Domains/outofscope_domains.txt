@@ -2323,6 +2323,8 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+join-cyprus.capital.com
 app.datacamp.com
 ast-viewer.datacamp.com
 confluence.datacamp.com

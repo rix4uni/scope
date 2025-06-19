@@ -3405,6 +3405,9 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 challenge-0625.intigriti.io
 api.cloudways.com
 developers.cloudways.com
