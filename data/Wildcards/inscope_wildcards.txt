@@ -1,4 +1,6 @@
 *.acorns.com
+*.afterpay.com
+portalapi.*.afterpay.com
 *.arlo.com
 *.arloxcld.com
 *-prod.arlo.com
@@ -1000,9 +1002,6 @@ sip.*.twilio.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl

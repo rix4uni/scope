@@ -8,6 +8,9 @@ developers.coindesk.com
 share.acorns.com
 grow.acorns.com
 store.acorns.com
+afterpaytechblog.com
+genderfree.afterpay.com
+moneybyafterpay.com
 aquarium.aiven.io
 uptime.aiven.io
 video.aiven.io
@@ -2318,8 +2321,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-join-cyprus.capital.com
 app.datacamp.com
 ast-viewer.datacamp.com
 confluence.datacamp.com
