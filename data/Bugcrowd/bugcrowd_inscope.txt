@@ -972,6 +972,8 @@ pexels.com
 api.pinterest.com
 *.pinterest.com
 microsoftedge.microsoft.com
+pixabay.com
+*.pixabay.com
 my.planethoster.com
 api.planethoster.net
 world.planethoster.net
