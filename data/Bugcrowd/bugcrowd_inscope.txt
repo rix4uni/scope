@@ -342,6 +342,7 @@ expressvpn.com
 financialforce.com
 *.financialforce.com
 *.certinia.com
+fivetran.com
 flo.uri.sh
 flourish.studio
 *.flourish.studio

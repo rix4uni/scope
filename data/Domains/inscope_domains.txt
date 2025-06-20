@@ -244,6 +244,7 @@ internal.exoscale.ch
 sks-ch-gva-2.exo.io
 expressvpn.com
 financialforce.com
+fivetran.com
 flo.uri.sh
 flourish.studio
 xyzbmojn.net
