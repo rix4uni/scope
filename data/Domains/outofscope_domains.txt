@@ -514,6 +514,7 @@ webinars.segment.com
 transform.twilio.com
 webinars.twilio.com
 store.twilio.com
+apjevents.twilio.com
 underarmour.com
 uabiz.com
 investor.underarmour.com
