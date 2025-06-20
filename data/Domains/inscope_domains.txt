@@ -3484,6 +3484,15 @@ kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
+kassa.gamma.be
+kassa.gamma.nl
+kassa.karwei.nl
+mijn.gamma.be
+mijn.gamma.nl
+mijn.karwei.nl
+gamma.be
+gamma.nl
+karwei.nl
 edge.lansweeper.com
 api.lansweeper.com
 app.lansweeper.com
@@ -3502,6 +3511,7 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
