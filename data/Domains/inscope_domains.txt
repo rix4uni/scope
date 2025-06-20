@@ -244,7 +244,6 @@ internal.exoscale.ch
 sks-ch-gva-2.exo.io
 expressvpn.com
 financialforce.com
-fivetran.com
 flo.uri.sh
 flourish.studio
 xyzbmojn.net
@@ -2810,9 +2809,9 @@ wonderboxapi.com
 wonderboxdev.com
 academy.malwarebytes.com
 malwarebytes.com
+help.malwarebytes.com
 support.malwarebytes.com
 service.malwarebytes.com
-help.malwarebytes.com
 binisoft.org
 cloud.malwarebytes.com
 my.malwarebytes.com

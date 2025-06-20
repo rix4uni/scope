@@ -2269,9 +2269,9 @@ academy.malwarebytes.com
 *.mwbsys.com
 *.threatdown.com
 malwarebytes.com
+help.malwarebytes.com
 support.malwarebytes.com
 service.malwarebytes.com
-help.malwarebytes.com
 binisoft.org
 cloud.malwarebytes.com
 my.malwarebytes.com
