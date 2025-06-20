@@ -1,5 +1,1 @@
-sharerewards.com
-vtcprodapi.maf.ae
-svchifi.svc
-production.maf.auth0.com
-maf-holding-prod.apigee.net
+fivetran.com
