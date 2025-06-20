@@ -387,6 +387,7 @@ sip.*.twilio.com
 *.worldcoin.org
 *.blinkforhome.com
 *.immedia-semi.com
+*.bmeinntech.es
 *.sync.services.mozilla.com
 *.redoxengine.com
 *.oklink.com

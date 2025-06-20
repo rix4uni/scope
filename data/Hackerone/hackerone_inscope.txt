@@ -355,6 +355,7 @@ ring.com
 prd-ring-web-us.prd.rings.solutions
 publicsafety.ring.com
 secure.tkfweb.com
+*.bmeinntech.es
 web3.sdx.com
 sdx.com
 bolsasymercados.es

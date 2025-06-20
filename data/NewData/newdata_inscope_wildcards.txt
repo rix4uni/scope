@@ -1,13 +1,1 @@
-*.gamma.be
-*.gamma.nl
-*.intergamma.cloud
-*.intergamma.nl
-*.karwei.nl
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
-*.monzo.com
-*.monzo.me
-*.prod-ffs.io
+*.bmeinntech.es
