@@ -342,7 +342,6 @@ expressvpn.com
 financialforce.com
 *.financialforce.com
 *.certinia.com
-fivetran.com
 flo.uri.sh
 flourish.studio
 *.flourish.studio
@@ -673,6 +672,11 @@ shiseido.me
 lego.me
 psychobunny.me
 fashion4less.me
+sharerewards.com
+vtcprodapi.maf.ae
+svchifi.svc
+production.maf.auth0.com
+maf-holding-prod.apigee.net
 malloftheemirates.com
 api.mafshoppingmalls.com
 premogiftcards.com

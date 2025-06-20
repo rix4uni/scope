@@ -1,10 +1,5 @@
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-mijn.gamma.be
-mijn.gamma.nl
-mijn.karwei.nl
-gamma.be
-gamma.nl
-karwei.nl
-co.uk.getmondo
+sharerewards.com
+vtcprodapi.maf.ae
+svchifi.svc
+production.maf.auth0.com
+maf-holding-prod.apigee.net
