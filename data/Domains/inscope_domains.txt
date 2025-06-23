@@ -3021,6 +3021,7 @@ gist.github.com
 npmjs.org
 api.grofers.com
 api2.grofers.com
+bistro-api.blinkit.com
 blinkit.com
 winecellar.zomato.com
 gitlab.torproject.org

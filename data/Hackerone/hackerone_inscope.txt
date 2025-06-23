@@ -2542,6 +2542,7 @@ npmjs.org
 *.zomato.com
 api.grofers.com
 api2.grofers.com
+bistro-api.blinkit.com
 blinkit.com
 *.grofer.io
 *.grofers.com
