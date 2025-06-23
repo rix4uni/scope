@@ -745,14 +745,6 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 *.offre-odrvet.fr
-*.royalcaninevent.com
-*.royalcaninfoundation.org
-*.royalcaninmalaysia.my
-*.royalcaninshop.com.ua
-*.royalcaninup.com
-*.royalcaninvetdiets.com.sg
-*.royalrands.co.za
-*.solucionesrc.com.ar
 *.who.int
 covid19app.who.int
 *.getbouncer.com

@@ -1,1 +1,1 @@
-bistro-api.blinkit.com
+api-app.datadome.co
