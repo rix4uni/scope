@@ -1114,6 +1114,7 @@ sip.*.twilio.com
 *.dm.gg
 *.captcha-delivery.com
 *.siilo.com
+*.polymoon.it
 *.ys7.com
 *.grwtrading.com
 *.dropxl.com
