@@ -82,6 +82,7 @@ vans.com.ec
 vans.com.pa
 vans.com.pe
 vans.com.py
+github.com
 *.accdata.experian.co.uk
 *.smartbusinessreports.com
 bi.experian.ie
@@ -122,7 +123,6 @@ db.*.supabase.co
 *.supabase.co
 api.supabase.com
 ctf.supabase.com
-github.com
 supabase.dev
 supabase.productions
 auth.finnair.com
