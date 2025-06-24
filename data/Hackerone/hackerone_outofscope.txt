@@ -1859,6 +1859,8 @@ luckey.in
 luckey.partners
 luckeyhomes.com
 provider.demo.urbandoor.com
+ams.merchandise.booking.com
+awscpasslab.booking.com
 business.booking.com
 *.business.booking.com
 cpass.booking.com
