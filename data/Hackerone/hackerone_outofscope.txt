@@ -1211,6 +1211,7 @@ travel-qa.capitalone.com
 travel.capitalone.com
 very-idcheck.capitalone.co.uk
 reddit.secure.force.com
+*.clearxchange.com
 *bc.earlywarning.com
 *.zellepay.com
 ccpa.zellepay.com

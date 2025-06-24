@@ -602,7 +602,6 @@ sip.*.twilio.com
 *.redditmedia.com
 *.snooguts.net
 *.spiketrap.io
-*.clearxchange.com
 *.earlywarning.com
 *.zelle.com
 *.zellepay.com

@@ -332,6 +332,7 @@ db.*.supabase.co
 *.criticalstack.com
 *.intelstack.com
 *.unitedincome.com
+*.clearxchange.com
 *bc.earlywarning.com
 *.zellepay.com
 *.email.instacart.com

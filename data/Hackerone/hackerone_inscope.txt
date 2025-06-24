@@ -1458,7 +1458,6 @@ new.reddit.com
 redditforbusiness.com
 sh.reddit.com
 strapi.reddit.com
-*.clearxchange.com
 *.earlywarning.com
 *.zelle.com
 *.zellepay.com
