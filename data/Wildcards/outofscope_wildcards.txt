@@ -289,6 +289,8 @@ db.*.supabase.co
 *.wip.tide.co
 *.tide.co
 *.offre-odrvet.fr
+*.royalcaninshop.com.ua
+*.solucionesrc.com.ar
 *.who.int
 *.getbouncer.com
 *.grindrads.com

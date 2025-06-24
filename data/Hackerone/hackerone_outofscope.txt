@@ -745,6 +745,8 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 *.offre-odrvet.fr
+*.royalcaninshop.com.ua
+*.solucionesrc.com.ar
 *.who.int
 covid19app.who.int
 *.getbouncer.com
