@@ -1861,6 +1861,7 @@ luckeyhomes.com
 provider.demo.urbandoor.com
 business.booking.com
 *.business.booking.com
+cpass.booking.com
 desk-demo-api.fareharbor.engineering
 desk-demo.fareharbor.engineering
 fareharbor.com
@@ -1870,6 +1871,7 @@ jobs.booking.com
 partnerfeedback.booking.com
 recruitmentsurveys.booking.com
 spadmin.booking.com
+welcomekit.booking.com
 staging.airtable.com
 airtable.com
 blog.airtable.com
