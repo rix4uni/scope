@@ -1,3 +1,2 @@
-vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites.net
-vfsuserverification.azurewebsites.net
-vfs-ai-doc-reader.azurewebsites.net
+cruises.booking.com
+sustainability.booking.com

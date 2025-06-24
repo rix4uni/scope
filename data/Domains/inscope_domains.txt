@@ -3141,6 +3141,7 @@ careers.booking.com
 cars.booking.com
 chat.booking.com
 compass.fareharbor.com
+cruises.booking.com
 demo.fareharbor.com
 distribution-xml.booking.com
 experiences.booking.com
@@ -3172,6 +3173,7 @@ teleport.fareharbor.engineering
 webhooks.booking.com
 widget.rentalcars.com
 fareharbor.com
+sustainability.booking.com
 staging.airtable.com
 api-staging.airtable.com
 airtable.com
