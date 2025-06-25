@@ -587,9 +587,6 @@ dynamic.xyz
 demo.dynamic.xyz
 app.dynamicauth.com
 *.boredapeyachtclub.com
-*.cryptopunks.app
-*.mdvmm.xyz
-*.meebits.app
 *.otherside.xyz
 *.yuga.com
 *.yugalabs.io

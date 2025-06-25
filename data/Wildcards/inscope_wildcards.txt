@@ -415,9 +415,6 @@ sip.*.twilio.com
 *.indriver.io
 *.eu-east-1.indriverapp.com
 *.boredapeyachtclub.com
-*.cryptopunks.app
-*.mdvmm.xyz
-*.meebits.app
 *.otherside.xyz
 *.yuga.com
 *.yugalabs.io
