@@ -2569,9 +2569,7 @@ mail.intigriti.com
 newsletter.intigriti.com
 status.intigriti.com
 swag.intigriti.com
-t.intigriti.com
 trust.intigriti.com
-welcome.intigriti.com
 outscale.com
 wiki.outscale.net
 fr.outscale.com
