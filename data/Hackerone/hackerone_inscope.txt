@@ -1481,6 +1481,7 @@ api.magic.link
 auth.magic.link
 docs.magic.link
 dashboard.magic.link
+newton.xyz
 *.carrentals.com
 dbmanalytics.carrentals.com
 *.cheaptickets.com
