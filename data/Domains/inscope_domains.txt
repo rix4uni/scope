@@ -3446,6 +3446,7 @@ delen.bank
 delen.be
 api.digitalocean.com
 cloud.digitalocean.com
+amd.digitalocean.com
 marketplace.digitalocean.com
 snapshooter.com
 digitalocean.com

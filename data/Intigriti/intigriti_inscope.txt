@@ -106,6 +106,7 @@ delen.be
 *.digitalocean.com
 api.digitalocean.com
 cloud.digitalocean.com
+amd.digitalocean.com
 marketplace.digitalocean.com
 snapshooter.com
 digitalocean.com
