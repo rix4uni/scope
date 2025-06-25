@@ -25,7 +25,7 @@ smtp.buhlergroup.cn
 *eduapp.backend-capital.com
 *education.backend-capital.com
 help.capital.com
-join-cyprus.capital.com
+relocate-with-us.capital.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
