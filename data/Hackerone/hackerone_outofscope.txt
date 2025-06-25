@@ -337,6 +337,7 @@ stringsizer.abb.com
 billing.dynamic.xyz
 docs.moderntreasury.com
 help.moderntreasury.com
+ph.moderntreasury.com
 trust.moderntreasury.com
 moderntreasury.com
 *.daimler.com
