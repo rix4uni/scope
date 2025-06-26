@@ -45,6 +45,7 @@ hsd1.*.comcast.net
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
+*.db.fivetran.com
 *dev.ibotta.com
 *.ecomanda.com.br
 *.ecomanda.app
