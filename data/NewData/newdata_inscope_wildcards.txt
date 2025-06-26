@@ -1,1 +1,2 @@
-*.fivetran.com
+*.veriff.com
+*.voiscooters.com
