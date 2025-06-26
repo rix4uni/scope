@@ -1,2 +1,2 @@
-*.veriff.com
-*.voiscooters.com
+*.saytechnologies.com
+*.say.rocks
