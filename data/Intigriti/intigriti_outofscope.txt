@@ -148,9 +148,6 @@ testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
 *.vectus.in
-*.pdq.com
-*.simplemdm.com
-*.smartdeploy.com
 personio.de
 personio.slack.com
 statuspage.personio.de
@@ -262,7 +259,6 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
-station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
