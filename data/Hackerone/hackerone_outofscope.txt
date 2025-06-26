@@ -1745,6 +1745,7 @@ sentry.nextcloud.com
 sentry.io
 try.nextcloud.com
 apply.starbucks.com
+careers.starbucks.com
 *.ruby-lang.org
 anomotion.com
 any-invalid-domains.rockstargames.com
