@@ -1222,6 +1222,7 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 tax.audible.com
+seller.temu.com
 temu.com
 app.uma.money
 api.lightspark.com

@@ -212,6 +212,7 @@ you.23andme.com
 *.audible.it
 *.audible.de
 tax.audible.com
+seller.temu.com
 temu.com
 app.uma.money
 api.lightspark.com
