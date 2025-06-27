@@ -548,7 +548,6 @@ microsoft.com
 docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
-kucoin.com
 manager.thefork.com
 secure.thefork.com
 payment.lafourchette.com
@@ -810,6 +809,7 @@ nubank.com.co
 nuinvest.com.br
 *.nuinvest.com.br
 octopus.com
+*.octopus.com
 oktapreview.com
 pam.oktapreview.com
 1.workflows.oktapreview.com
