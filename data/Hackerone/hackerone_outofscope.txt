@@ -1,11 +1,3 @@
-*.appboy.com
-*.braze.co.jp
-*.braze.com
-braze-dev.com
-braze-images.com
-braze.eu
-dashboard-09.braze.com
-try.braze.com
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl

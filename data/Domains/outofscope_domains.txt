@@ -573,11 +573,6 @@ zola.com
 homestore.zola.com
 vendor.zola.com
 baby.zola.com
-braze-dev.com
-braze-images.com
-braze.eu
-dashboard-09.braze.com
-try.braze.com
 blog.thenorthface.com.br
 jansport.ca
 jansport.cl

@@ -178,9 +178,6 @@ argocd.*.uidapi.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
-*.appboy.com
-*.braze.co.jp
-*.braze.com
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl
