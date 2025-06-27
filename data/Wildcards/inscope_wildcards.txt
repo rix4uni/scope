@@ -219,7 +219,6 @@ np.*.lfscnp.com
 *nu.com.mx
 *nu.com.co
 *.nuinvest.com.br
-*.octopus.com
 *.openai.org
 *.openai.com
 *.opera.software
@@ -1043,6 +1042,9 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.monzo.me
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com

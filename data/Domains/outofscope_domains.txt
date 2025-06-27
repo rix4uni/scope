@@ -369,15 +369,6 @@ themint.org
 u.nm.com
 northwesternmutual.jobinfo.com
 international.nubank.com.br
-artifactorysample.octopus.com
-bamboosample.octopus.com
-jenkinssample.octopus.com
-teamcitysample.octopus.com
-nexussample.octopus.com
-myget.octopus.com
-partners.octopus.com
-trust.octopus.com
-i.octopus.com
 1.oktapreview.com
 2.oktapreview.com
 login.okta.com
@@ -2406,6 +2397,9 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io
