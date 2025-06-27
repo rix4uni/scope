@@ -288,7 +288,6 @@ ibotta.com
 backend.ibotta.com
 ifood.com.br
 marketplace.ifood.com.br
-portal.ifood.com.br
 gestordepedidos.ifood.com.br
 wsloja.ifood.com.br
 shop.ifood.com.br
