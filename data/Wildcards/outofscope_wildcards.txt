@@ -45,6 +45,8 @@ hsd1.*.comcast.net
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
+*buddybot.lab.epam.com
+*.buddybot.lab.epam.com
 *.db.fivetran.com
 *dev.ibotta.com
 *.ecomanda.com.br
@@ -80,7 +82,6 @@ auth.*.latitudefinancial.com
 *.lululemon.me
 *nuinternational.com
 *nat-a.nubank.com.br
-*.octopus.app
 *.okta.com
 *.trexcloud.com
 *.onetrust.com
