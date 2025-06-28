@@ -1058,8 +1058,6 @@ sip.*.twilio.com
 *.sbb.ch
 *.saytechnologies.com
 *.say.rocks
-*.sqills.com
-*.sqills.team
 *.weareone.world
 *.stag.tomorrowland.com
 *.stag.weareone.world

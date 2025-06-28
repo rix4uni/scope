@@ -219,10 +219,6 @@ s003-lb-siemens-stage.s003.smc.sixt.com
 s004-lb-siemens.s004.smc.sixt.com
 sixtbook.sixt.com
 webservices.sixt.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
-careers.sqills.com
 *.tempo-team.de
 limonsoda.cl
 trouw.nl

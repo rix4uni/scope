@@ -2500,7 +2500,6 @@ s003-lb-siemens-stage.s003.smc.sixt.com
 s004-lb-siemens.s004.smc.sixt.com
 sixtbook.sixt.com
 webservices.sixt.com
-careers.sqills.com
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl

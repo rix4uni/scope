@@ -548,9 +548,6 @@ online.*.skybingo.com
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
 *.tempo-team.de
 *.zabka-snrs.zabka.pl
 *.intigriti.io
