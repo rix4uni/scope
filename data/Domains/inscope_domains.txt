@@ -3504,7 +3504,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
