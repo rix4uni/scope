@@ -60,7 +60,6 @@ hsd1.*.comcast.net
 *.sandbox.imtbl.com
 *.dev.imtbl.com
 *.ropsten.x.immutable.com
-*.joralocal.com.au
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com

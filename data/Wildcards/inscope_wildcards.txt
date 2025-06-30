@@ -135,8 +135,6 @@ casino.*.betmgm.com
 *.indeed.net
 *.intercomassets.com
 *.intercomcdn.com
-*.jora.com
-*.jora.xyz
 *.thuisbezorgd.nl
 *.menulog.com.au
 *.takeaway.com

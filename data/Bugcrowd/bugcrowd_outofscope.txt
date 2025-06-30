@@ -310,7 +310,6 @@ godsunchained.com
 ropsten.imx.community
 docs.imperva.com
 docs-be.imperva.com
-*.joralocal.com.au
 k15t.com
 k15t.de
 help.k15t.com
