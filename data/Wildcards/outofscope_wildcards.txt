@@ -523,7 +523,10 @@ online.*.skybingo.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.oisl.gg
 *.vectus.in
 *.pdq.com
@@ -545,6 +548,9 @@ online.*.skybingo.com
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
 *.tempo-team.de
 *.zabka-snrs.zabka.pl
 *.intigriti.io

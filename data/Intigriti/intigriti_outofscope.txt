@@ -57,6 +57,8 @@ natura2000.vlaanderen.be
 *.ondigitalocean.app
 registry.digitalocean.com
 driessen.nl
+*.grafana.com
+*.grafana.net
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
@@ -77,6 +79,19 @@ newsroom.innogames.com
 pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
+*.configuratoren.nl
+afspraakmaken.gamma.nl
+api.afspraakmaken.gamma.be
+api.afspraakmaken.gamma.nl
+api.maakafspraak.karwei.nl
+horrenconfigurator-fr.gamma.be
+horrenconfigurator-nl.gamma.be
+horrenconfigurator.karwei.nl
+karwei-2018.hetmooistegordijn.nl
+maakafspraak.karwei.nl
+mail.gamma.be
+mail.gamma.nl
+mail.karwei.nl
 trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
@@ -84,6 +99,9 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io
@@ -177,6 +195,7 @@ stories.rivian.com
 view.e.rivian.com
 shop.robinhood.com
 saytechnologies.com
+simscale.com
 app.rental-images.sixt.com
 b2cleasing.typo3.sixt.de
 corporate.typo3.sixt.de
@@ -204,6 +223,10 @@ s003-lb-siemens-stage.s003.smc.sixt.com
 s004-lb-siemens.s004.smc.sixt.com
 sixtbook.sixt.com
 webservices.sixt.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
+careers.sqills.com
 *.tempo-team.de
 limonsoda.cl
 trouw.nl
