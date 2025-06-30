@@ -60,6 +60,7 @@ hsd1.*.comcast.net
 *.sandbox.imtbl.com
 *.dev.imtbl.com
 *.ropsten.x.immutable.com
+*.joralocal.com.au
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
@@ -304,8 +305,6 @@ db.*.supabase.co
 *.afadvantage.gov
 *.cio.gov
 *.itdashboard.gov
-*cars.aerlingus.com
-*.iagloyalty.com
 *.callstats.io
 *.contactnow.8x8.com
 *.jitsi.org

@@ -1,2 +1,2 @@
-*.ninjakiwi.me
-*.nkstatic.com
+*.jora.com
+*.jora.xyz
