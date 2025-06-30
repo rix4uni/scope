@@ -3408,6 +3408,14 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -3496,6 +3504,10 @@ mobile.nexuzhealth.be
 mynexuz.be
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
+mathem.se
+oda.com
+no.kolonial.tienda
+se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
 a.simplemdm.com

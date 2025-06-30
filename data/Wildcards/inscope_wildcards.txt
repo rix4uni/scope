@@ -1003,6 +1003,7 @@ sip.*.twilio.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.vlaanderen.be
@@ -1030,6 +1031,8 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.oda.com
+*.prod.nube.tech
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de

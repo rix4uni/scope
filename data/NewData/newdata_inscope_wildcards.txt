@@ -1,1 +1,3 @@
-*.octopus.com
+*.datacamp.com
+*.oda.com
+*.prod.nube.tech
