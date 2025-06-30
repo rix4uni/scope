@@ -964,6 +964,8 @@ sip.*.twilio.com
 *.teams.cloudflare.com
 *.srvcs.tumblr.com
 *.tumblr.com
+*.irccloud-cdn.com
+*.irccloud.com
 *.base.org
 *.cbhq.net
 *.coinbase.com
