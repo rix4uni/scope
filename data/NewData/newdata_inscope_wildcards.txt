@@ -1,2 +1,1 @@
-*.irccloud-cdn.com
-*.irccloud.com
+*.veriff.com
