@@ -98,6 +98,7 @@ doctolib.atlassian.net
 doctolib.zendesk.com
 store.doctolib.com
 share.doctolib.net
+vettore.it
 scc-chat.ys7.com
 ezcpcloudiot.eziot.com
 test.ys7.com
