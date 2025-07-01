@@ -1417,6 +1417,7 @@ via.rider
 *.xiaomiyoupin.com
 mi.com
 store.mi.com
+coda.grammarly.com
 codacontent.io
 codahosted.io
 *.coda.io

@@ -1924,6 +1924,7 @@ status.grammarly.com
 brand.grammarly.com
 partners.grammarly.com
 events.grammarly.com
+coda.grammarly.com
 quote.oc.autodesk.com
 amart.oc.autodesk.com
 checkoutservice-stg.autodesk.com
