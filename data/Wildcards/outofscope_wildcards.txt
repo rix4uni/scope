@@ -521,8 +521,6 @@ online.*.skybingo.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
-*.grafana.com
-*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.oisl.gg
