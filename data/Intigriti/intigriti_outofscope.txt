@@ -111,8 +111,6 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
-store.ninjakiwi.com
-support.ninjakiwi.com
 *.oisl.gg
 appsfwd.ovoenergy.com
 askovo.net
