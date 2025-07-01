@@ -1,2 +1,1 @@
-*.jora.com
-*.jora.xyz
+*.datacamp.com
