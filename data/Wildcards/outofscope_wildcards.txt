@@ -513,7 +513,6 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
 *.db.ondigitalocean.com
