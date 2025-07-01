@@ -1062,7 +1062,6 @@ snowplowanalytics.com
 community.companyofheroes.com
 segashop.co.uk
 jobs.newegg.com
-sellerportal.newegg.com
 sellingpilot.newegg.com
 community.fastly.com
 connect.fastly.com

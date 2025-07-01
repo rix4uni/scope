@@ -779,6 +779,7 @@ zooplus.de
 zooplus.net
 *.newegg.ca
 *.newegg.com
+sellingpilot.com
 *.krisp.ai
 account.krisp.ai
 analytics.krisp.ai

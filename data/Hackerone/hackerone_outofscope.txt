@@ -580,7 +580,6 @@ community.companyofheroes.com
 segashop.co.uk
 *.neweggbusiness.com
 jobs.newegg.com
-sellerportal.newegg.com
 sellingpilot.newegg.com
 *.maconsotempsreel.octopusenergy.fr
 *.fastly.net
