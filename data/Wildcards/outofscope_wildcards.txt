@@ -422,6 +422,9 @@ online.*.skybingo.com
 *.superbeatsports.com
 *.teston.io
 *.usertesting.com
+*.dynsystem.kr
+*central.dyson.com
+*dyson-demo.com
 *.coupons.kiwi.com
 *cars.kiwi.com
 *citi-sign.kiwi.com
@@ -521,6 +524,8 @@ online.*.skybingo.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.oisl.gg

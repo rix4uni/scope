@@ -1,1 +1,1 @@
-*.datacamp.com
+*.cp.dyson.com
