@@ -2361,10 +2361,6 @@ help.capital.com
 relocate-with-us.capital.com
 demorgen.be
 abonnement.demorgen.be
-cdn.vlaanderen.be
-codex.opendata.api.vlaanderen.be
-vlaanderen.be
-natura2000.vlaanderen.be
 registry.digitalocean.com
 driessen.nl
 hotelservice.hrs.com

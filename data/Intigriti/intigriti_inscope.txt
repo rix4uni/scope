@@ -92,7 +92,6 @@ cadelam.be
 cadelux.lu
 delen.bank
 delen.be
-*.vlaanderen.be
 *.digitalocean.com
 api.digitalocean.com
 cloud.digitalocean.com

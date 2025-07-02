@@ -516,8 +516,6 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.vlaanderen.be
-*.omgeving.vlaanderen.be
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
