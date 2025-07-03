@@ -438,6 +438,8 @@ mynmcu.com
 nmcreative.space
 nmis-stage.netxinvestor.com
 nmresearchlibrary.nml.com
+northwesternmutual.aramarkcafe.com
+northwesternmutual.jobinfo.com
 northwesternmutual.starssmp.com
 northwesternmutualdigitalexplab.com
 northwesternmutualinnercircle.com
@@ -449,7 +451,6 @@ sparks-financial.com
 theandersonfinancialgroupnm.com
 themint.org
 u.nm.com
-northwesternmutual.jobinfo.com
 *nuinternational.com
 *nat-a.nubank.com.br
 international.nubank.com.br
