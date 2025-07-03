@@ -1690,7 +1690,6 @@ zooplus.co.uk
 zooplus.com
 zooplus.de
 zooplus.net
-sellingpilot.com
 account.krisp.ai
 analytics.krisp.ai
 api.krisp.ai
