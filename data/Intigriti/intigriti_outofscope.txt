@@ -230,6 +230,14 @@ vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
+api.topperpay.com
+api.uphold.com
+app.topperpay.com
+cms.optimuscards.com
+graphql.topperpay.com
+support.topperpay.com
+support.uphold.com
+wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be

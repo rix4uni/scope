@@ -1,2 +1,4 @@
-*.piaservers.com
-*.piaservers.net
+*.optimuscards.com
+*.topperpay.com
+*.uphodl.com
+*.uphold.com
