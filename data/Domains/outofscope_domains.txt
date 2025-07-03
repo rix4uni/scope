@@ -657,7 +657,6 @@ auth.finnair.com
 revcity.6sense.com
 x.com
 youtube.com
-advisoryworld.com
 issue-management.iontrading.com
 docs.wallet.tg
 wallet.helpscoutdocs.com
