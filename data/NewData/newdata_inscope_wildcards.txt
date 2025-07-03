@@ -1,1 +1,2 @@
-*.cp.dyson.com
+*.piaservers.com
+*.piaservers.net

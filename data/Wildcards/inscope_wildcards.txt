@@ -1138,6 +1138,8 @@ sip.*.twilio.com
 *.dialog.com.au
 *.ncsimpact.co
 *.okto.tech
+*.piaservers.com
+*.piaservers.net
 *.app.spacelift.dev
 *.post.ch
 *.telenor.se

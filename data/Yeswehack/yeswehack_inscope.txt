@@ -303,6 +303,11 @@ api.pluralonline.com
 api.pluralpay.in
 pinepg.in
 pluralcheckout.pinepg.in
+*.privateinternetaccess.com
+*.piaservers.com
+*.piaservers.net
+api.privateinternetaccess.com
+privateinternetaccess.com
 reptox.cnesst.gouv.qc.ca
 auth.pentest.clicsante.ca
 profile.pentest.clicsante.ca
