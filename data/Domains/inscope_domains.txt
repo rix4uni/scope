@@ -3115,6 +3115,8 @@ gifts.grab.com
 grab.careers
 hungrygowhere.com
 jira.grab.com
+kartaview.org
+3d.kartaview.org
 manage.grab.co
 ovo.id
 p.grabtaxi.com

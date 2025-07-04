@@ -2122,8 +2122,6 @@ fetlifestatus.com
 mail.fetlife.com
 n2.fetlife.com
 status.fetlife.com
-kartaview.org
-3d.kartaview.org
 revive-adserver.com
 about.udemy.com
 affiliates.udemy.com
