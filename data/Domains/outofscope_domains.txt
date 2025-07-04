@@ -1001,6 +1001,8 @@ request-headers-no-proxy.moonpay.com
 request-headers.moonpay.com
 storefront.hypermint.com
 support.moonpay.com
+crispers-lasupercollation.com
+fodboldrejse.marabou.dk
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
 enterpriseregistration.apnic.net
