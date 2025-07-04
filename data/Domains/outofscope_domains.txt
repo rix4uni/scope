@@ -1912,6 +1912,7 @@ api.hmxservices.com
 estore.malwarebytes.com
 pages.malwarebytes.com
 store.malwarebytes.com
+store.threatdown.com
 view.malwarebytes.com
 download-editor.grammarly.com
 grammarly.dmg
