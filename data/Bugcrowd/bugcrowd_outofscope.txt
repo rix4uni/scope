@@ -308,6 +308,7 @@ godsunchained.com
 *.dev.imtbl.com
 *.ropsten.x.immutable.com
 ropsten.imx.community
+*.guildofguardians.com
 docs.imperva.com
 docs-be.imperva.com
 *.joralocal.com.au

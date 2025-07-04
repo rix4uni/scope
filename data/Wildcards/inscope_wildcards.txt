@@ -125,7 +125,6 @@ casino.*.betmgm.com
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
-*.guildofguardians.com
 *.imperva.com
 *.cloudvector.com
 *.incapsula.com
