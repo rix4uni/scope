@@ -1,2 +1,2 @@
-*.ninjakiwi.me
-*.nkstatic.com
+*.gojekapi.com
+*.gopayapi.com

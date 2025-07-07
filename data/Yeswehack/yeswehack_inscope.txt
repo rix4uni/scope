@@ -143,9 +143,11 @@ payment.vladcazino.ro
 pci.kindredgroup.com
 32red.com
 cdn.unicdn.net
+*.gojekapi.com
 *.grwtrading.com
 *.dropxl.com
 *.wholesalexl.com
+*.gopayapi.com
 *.gov.sg
 *.jbl.com
 *.harmanaudio.com
