@@ -1005,6 +1005,7 @@ sip.*.twilio.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1085,6 +1086,7 @@ sip.*.twilio.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
