@@ -63,8 +63,6 @@ portalapi.*.afterpay.com
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
-*.cyberghostvpn.com
-*.cyberghost.com
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
@@ -91,9 +89,6 @@ casino.*.betmgm.com
 *.emakina.at
 *.etsy.com
 *.internal.exoscale.ch
-*.expressvpn.com
-*.xvtest.net
-*.xvservice.net
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
@@ -245,7 +240,6 @@ np.*.lfscnp.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
-*.privateinternetaccess.com
 *.quizlet.com
 *.rapyd.net
 *.neatcommerce.com
@@ -1112,6 +1106,9 @@ sip.*.twilio.com
 *.dm.gg
 *.captcha-delivery.com
 *.siilo.com
+*.expressvpn.com
+*.xvtest.net
+*.xvservice.net
 *.polymoon.it
 *.ys7.com
 *.gojekapi.com
@@ -1142,6 +1139,7 @@ sip.*.twilio.com
 *.dialog.com.au
 *.ncsimpact.co
 *.okto.tech
+*.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
 *.app.spacelift.dev

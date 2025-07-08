@@ -248,14 +248,6 @@ coindesk.com
 business.comcast.com
 xfinity.com
 consensus2024.sandbox.events.coindesk.com
-cyberghostvpn.com
-*.cyberghostvpn.com
-*.cyberghost.com
-cyberghost.com
-cyberghost.app
-addons.mozilla.org
-chrome.google.com
-polymoon.it
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com
@@ -335,10 +327,6 @@ sos-ch-gva-2.exo.io
 internal.exoscale.ch
 *.internal.exoscale.ch
 sks-ch-gva-2.exo.io
-*.expressvpn.com
-*.xvtest.net
-*.xvservice.net
-expressvpn.com
 financialforce.com
 *.financialforce.com
 *.certinia.com
@@ -396,6 +384,7 @@ thehut.com
 checkout.myvitamins.com
 checkout.eyeko.com
 checkout.glossybox.com
+chrome.google.com
 market.android.com
 content-server.ibotta.com
 api.ibotta.com
@@ -971,6 +960,7 @@ pexels.com
 api.pinterest.com
 *.pinterest.com
 microsoftedge.microsoft.com
+addons.mozilla.org
 pixabay.com
 *.pixabay.com
 my.planethoster.com
@@ -979,11 +969,6 @@ world.planethoster.net
 mg.n0c.com
 planethoster.com
 *.points.com
-*.privateinternetaccess.com
-privateinternetaccess.com
-piaservers.com
-piaservers.net
-addons.opera.com
 dealflow.prosus.com
 dealflowapi.prosus.com
 analytics-admin.prosus.com
