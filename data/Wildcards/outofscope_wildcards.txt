@@ -47,6 +47,7 @@ hsd1.*.comcast.net
 *.sandbox.directly.com
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
+*.db.fivetran.com
 *dev.ibotta.com
 *.ecomanda.com.br
 *.ecomanda.app
@@ -120,7 +121,6 @@ auth.*.latitudefinancial.com
 *.empower.com
 *.retirementpartner.com
 *.accounts.ondemand.com
-*.1shoppingcart.com
 *.afterpay.com
 *.cash.me
 *.tidal.com

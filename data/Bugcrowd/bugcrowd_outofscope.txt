@@ -270,6 +270,13 @@ zammad.internal.exoscale.ch
 exoscalestatus.com
 gslink.financialforce.com
 apuat-aaa.fisglobal.com
+*.db.fivetran.com
+testing-datalake.fivetran.com
+shop.fivetran.com
+status.fivetran.com
+support.fivetran.com
+community-stage.fivetran.com
+trust.fivetran.com
 training.flourish.studio
 api.gearset.com
 app.gearset.com
@@ -551,7 +558,6 @@ docs.rapyd.net
 sandbox.rapyd.net
 ghost.rapyd.net
 *.accounts.ondemand.com
-*.1shoppingcart.com
 skyscanner.net
 community.sophos.com
 sophos.atlassian.net
