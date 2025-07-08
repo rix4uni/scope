@@ -45,6 +45,8 @@ hsd1.*.comcast.net
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
+*buddybot.lab.epam.com
+*.buddybot.lab.epam.com
 *.db.fivetran.com
 *dev.ibotta.com
 *.ecomanda.com.br
@@ -516,6 +518,7 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co

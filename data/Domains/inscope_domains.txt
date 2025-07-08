@@ -227,6 +227,10 @@ partycasino.com
 bwin.com
 media.itsfogo.com
 galacasino.com
+epam.com
+projects.epam.com
+lab.epam.com
+opensource.epam.com
 etsy.com
 etsypayments.com
 blog.etsy.com
@@ -3469,6 +3473,14 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
