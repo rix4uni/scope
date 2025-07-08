@@ -91,6 +91,7 @@ casino.*.betmgm.com
 *.internal.exoscale.ch
 *.financialforce.com
 *.certinia.com
+*.fivetran.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it
