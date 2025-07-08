@@ -1,2 +1,4 @@
-*.datacamp.com
-*.veriff.com
+*.indeed.com
+*.indeedflex.com
+*.indeed.tech
+*.indeed.net
