@@ -96,7 +96,6 @@ casino.*.betmgm.com
 *.xvservice.net
 *.financialforce.com
 *.certinia.com
-*.fivetran.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it

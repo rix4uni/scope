@@ -47,7 +47,6 @@ hsd1.*.comcast.net
 *.sandbox.directly.com
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
-*.db.fivetran.com
 *dev.ibotta.com
 *.ecomanda.com.br
 *.ecomanda.app
