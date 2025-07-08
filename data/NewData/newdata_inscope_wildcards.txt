@@ -1,1 +1,1 @@
-*.fivetran.com
+*.as-nmt.de

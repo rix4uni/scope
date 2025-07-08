@@ -24,6 +24,7 @@ dealer.prod.ps.axelspringer.de
 *.spring-media.de
 *.springtools.de
 editorial.one
+*.as-nmt.de
 *.ein-herz-fuer-kinder.de
 *.fitbook.de
 *.myhomebook.de
