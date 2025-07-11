@@ -26,6 +26,8 @@
 *.pornhubapparel.com
 *.pornhub.org
 *.mydirtyhobby.com
+*.cross-promotion.nutaku.net
+*.nutaku.net
 *.trustwallet.com
 *.trustwalletapp.com
 *.binance.org
@@ -289,6 +291,7 @@ db.*.supabase.co
 *.wip.tide.co
 *.tide.co
 *.offre-odrvet.fr
+*.royalcanin.am
 *.royalcaninshop.com.ua
 *.solucionesrc.com.ar
 *.who.int
@@ -517,7 +520,6 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co

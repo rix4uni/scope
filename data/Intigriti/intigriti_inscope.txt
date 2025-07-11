@@ -7,6 +7,7 @@ ad.nl
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
+germany.politico.eu
 m.bild.de
 hey.bild.de
 *.hey.bild.de
@@ -56,6 +57,7 @@ capital.com
 open-api.capital.com
 *.capital.com
 *.itcapital.io
+challenge-0725.intigriti.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
@@ -66,15 +68,6 @@ css-tricks.com
 justonweb.be
 *.dpgmedia.be
 *.dpgmedia.nl
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
-*.datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -199,6 +192,10 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+*.monzo.com
+*.monzo.me
+*.prod-ffs.io
+co.uk.getmondo
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -318,13 +315,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 *.sqills.com
 *.sqills.team
 aweb.suivo.com
@@ -523,5 +513,5 @@ proddata.xobni.yahoo.com
 yimg.com
 hub.vznkul.be
 hubacc.vznkul.be
-*pwn.intigriti.rocks
+*.pwn.intigriti.rocks
 intigriti.com

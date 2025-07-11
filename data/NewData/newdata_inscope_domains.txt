@@ -1,2 +1,15 @@
-fivetran.com
-app.getcensus.com
+nutaku.com
+nutaku.net
+xnxx.nutaku.net
+xvideos.nutaku.net
+osapi.nutaku.com
+mobileapi.nutaku.com
+gateway-api.nutaku.net
+admin.oktapreview.com
+germany.politico.eu
+challenge-0725.intigriti.io
+co.uk.getmondo
+cyberghost.com
+cyberghost.app
+api.cyberghostvpn.com
+cyberghostvpn.com

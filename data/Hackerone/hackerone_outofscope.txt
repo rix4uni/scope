@@ -742,6 +742,7 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 *.offre-odrvet.fr
+*.royalcanin.am
 *.royalcaninshop.com.ua
 *.solucionesrc.com.ar
 *.who.int

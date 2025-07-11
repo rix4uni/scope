@@ -37,6 +37,12 @@ mobile-production.content-square.net
 m.csqtrk.net
 s.contentsquare.net
 bounty.cryptobox.com
+*.cyberghostvpn.com
+*.cyberghost.com
+cyberghost.com
+cyberghost.app
+api.cyberghostvpn.com
+cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
 demarches-simplifiees.fr
 static.demarches-simplifiees.fr
