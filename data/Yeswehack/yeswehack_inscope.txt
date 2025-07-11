@@ -259,7 +259,6 @@ otto.de
 lascana.de
 teleoptiprd.otto.de
 mmp.otto.de
-partnerprogramm.otto.de
 orbidder.otto.de
 supplier-connect.otto.de
 retail-api.otto.de

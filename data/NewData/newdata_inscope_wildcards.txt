@@ -1,10 +1,5 @@
-*.nutakupublishing.com
-*.underarmour.cn
-*.marionnaud.at
-*.savers.co.uk
-*.monzo.com
-*.monzo.me
-*.prod-ffs.io
-*.pwn.intigriti.rocks
-*.cyberghostvpn.com
-*.cyberghost.com
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.saytechnologies.com
+*.say.rocks
