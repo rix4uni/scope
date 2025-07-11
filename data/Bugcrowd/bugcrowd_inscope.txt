@@ -817,7 +817,7 @@ openai.com
 *.openai.com
 platform.openai.com
 opensea.io
-wallets.opensea.io
+wallet.opensea.io
 io.opensea
 etherscan.io
 auth.opera.com
