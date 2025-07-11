@@ -2292,6 +2292,7 @@ yelp.careers
 boost.livestream.com
 amp.live
 applause2.magisto.com
+billing-account.vimeo.com
 delta.magisto.com
 epsilon.magisto.com
 eta.magisto.com

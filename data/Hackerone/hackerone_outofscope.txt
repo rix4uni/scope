@@ -1996,6 +1996,7 @@ amp.live
 *.wirewax.app
 *.wirewax.com
 applause2.magisto.com
+billing-account.vimeo.com
 delta.magisto.com
 epsilon.magisto.com
 eta.magisto.com
