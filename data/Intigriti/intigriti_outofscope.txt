@@ -89,8 +89,6 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
-store.ninjakiwi.com
-support.ninjakiwi.com
 *.oisl.gg
 appsfwd.ovoenergy.com
 askovo.net
@@ -126,9 +124,6 @@ testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
 *.vectus.in
-*.pdq.com
-*.simplemdm.com
-*.smartdeploy.com
 personio.de
 personio.slack.com
 statuspage.personio.de
