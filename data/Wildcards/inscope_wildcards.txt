@@ -492,12 +492,12 @@ sip.*.twilio.com
 *.8x8cloud.net
 *.8x8staging.com
 *.chalet.8x8.com
+*.8x8.com
 *.jit.si
 *.jitsi.net
 *.p8t.us
 *.wavecell.com
 *.packet8.net
-*.8x8.com
 *.drogas.lt
 *.drogas.lv
 *.fortress.com.hk
