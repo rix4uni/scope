@@ -1049,6 +1049,9 @@ sip.*.twilio.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
 *.swisspass.ch
 *.sbb.ch
 *.saytechnologies.com
@@ -1075,7 +1078,6 @@ sip.*.twilio.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com

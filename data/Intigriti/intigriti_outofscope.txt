@@ -168,6 +168,7 @@ internalshop.rivian.com
 media.rivian.com
 stories.rivian.com
 view.e.rivian.com
+shop.robinhood.com
 saytechnologies.com
 simscale.com
 app.rental-images.sixt.com
@@ -234,7 +235,6 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
-station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
