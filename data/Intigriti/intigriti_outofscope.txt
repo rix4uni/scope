@@ -168,7 +168,6 @@ internalshop.rivian.com
 media.rivian.com
 stories.rivian.com
 view.e.rivian.com
-saytechnologies.com
 simscale.com
 app.rental-images.sixt.com
 b2cleasing.typo3.sixt.de
