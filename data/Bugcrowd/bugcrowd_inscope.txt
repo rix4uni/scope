@@ -25,6 +25,10 @@ console.aiven.io
 api.aiven.io
 github.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
+api.anytask.com
+anytask.com
+api.anytask.thesecurityteam.rocks
+anytask.thesecurityteam.rocks
 *.arlo.com
 *.arloxcld.com
 *-prod.arlo.com
@@ -581,6 +585,7 @@ test.*.lfscnp.com
 dev.*.lfscnp.com
 sandbox.*.lfscnp.com
 np.*.lfscnp.com
+legacy-blockexplorer.electroneum.com
 manager.trial.lsk.lightspeed.app
 hq.breadcrumb.com
 secure.vendhq.com
@@ -750,6 +755,11 @@ myaccount-staging.getmoneytree.com
 business-staging.getmoneytree.com
 jp-api-staging.getmoneytree.com
 support.moovitapp.com
+my.thesecurityteam.rocks
+api.thesecurityteam.rocks
+my.electroneum.com
+electroneum.com
+api.electroneum.com
 staging-prime.navan.com
 secure.neogov.com
 login.neogov.com
@@ -1023,6 +1033,8 @@ gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
 *.skyscanner.net
+blockexplorer.electroneum.com
+testnet-blockexplorer.electroneum.com
 snapnames.com
 namejet.com
 sophos.com
