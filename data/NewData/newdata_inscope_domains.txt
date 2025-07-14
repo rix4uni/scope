@@ -1,1 +1,7 @@
-yourdomain.freshrelease.com
+api-proxy.choco.kz
+api.ryadom.kz
+ryadom-sso.choco.kz
+job.ryadom.kz
+landing.choco.kz
+ryadom.kz
+webryadom.choco.kz
