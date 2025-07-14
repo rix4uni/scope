@@ -1,3 +1,6 @@
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
+*.monzo.com
+*.monzo.me
+*.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
+*.veriff.com
