@@ -208,6 +208,7 @@ booking.*.cloud.sqills
 booking.*.sqills.com
 careers.sqills.com
 *.tempo-team.de
+*.ccnag.com
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
