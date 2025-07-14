@@ -1,6 +1,5 @@
-*.monzo.com
-*.monzo.me
-*.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
-*.veriff.com
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.saytechnologies.com
+*.say.rocks
