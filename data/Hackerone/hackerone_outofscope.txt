@@ -2093,6 +2093,7 @@ status.slack.com
 *.rubyonrails.org
 go.hacker.one
 h1.community
+hackerone-swag.com
 info.hacker.one
 unbounce.com
 ma.hacker.one

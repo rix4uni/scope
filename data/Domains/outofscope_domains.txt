@@ -2370,6 +2370,7 @@ slackhq.com
 status.slack.com
 go.hacker.one
 h1.community
+hackerone-swag.com
 info.hacker.one
 unbounce.com
 ma.hacker.one
