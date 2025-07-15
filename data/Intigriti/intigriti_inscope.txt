@@ -385,7 +385,6 @@ webhooks.truelayer
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-wp5-truststroke.uzleuven.be
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
@@ -397,13 +396,13 @@ pcrstudioruzb.uzleuven.be
 prddsplunkhf.uzleuven.be
 sts.uzleuven.be
 uzleuven.be
-dns1.uzleuven.be
-dns2.uzleuven.be
+wp5-truststroke.uzleuven.be
+cardsonline.azdiest.be
 liquidfilestest.uzleuven.be
 random.uzleuven.be
 teststs.uzleuven.be
-uzlcm12cmg1.uzleuven.be
 w1.uzleuven.be
+cardsonlinetst.azdiest.be
 *.kwsdose.be
 *.playuzleuven.be
 api-sandbox.uphold.com
