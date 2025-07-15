@@ -1038,6 +1038,7 @@ docs.moonpay.com
 ethpass.xyz
 help.moonpay.com
 page.moonpay.com
+payload-marketing.moonpay.com
 plexlabs.io
 qr.moonpay.com
 request-headers-no-proxy.moonpay.com
