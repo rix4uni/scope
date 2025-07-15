@@ -1420,6 +1420,7 @@ academy.bitmex.com
 affiliates.bitmex.com
 bitmex-org.freshworks.com
 bitmex.freshdesk.com
+blog.bitmex.com
 public-testnet.bitmex.com
 public.bitmex.com
 research.bitmex.com

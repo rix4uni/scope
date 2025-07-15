@@ -2635,7 +2635,6 @@ go.mod
 go.sum
 dev.rootstock.io
 discord.com
-blog.bitmex.com
 testnet.bitmex.com
 bitmex.com
 apps.apple.com
