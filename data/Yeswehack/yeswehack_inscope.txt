@@ -432,6 +432,7 @@ essentials.vinci.com
 chaire-arpenter.fr
 habileoh.com
 stats.vinci.com
+*.vidaxl.hk
 wbsapi.withings.net
 healthmate.withings.com
 account.withings.com
