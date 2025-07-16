@@ -20,9 +20,11 @@ cloud.oppo.com
 drp.myoppo.com
 e.oppo.com
 gcsm.oppoit.com
+safe.heytap.com
 u.oppomobile.com
 oppo.com
 opposhop.cn
+id.heytap.com
 id.oppo.com
 bugbounty-ctf.1password.com
 1password.com

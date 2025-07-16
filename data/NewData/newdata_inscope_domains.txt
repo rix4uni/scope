@@ -1,1 +1,2 @@
-id.oppo.com
+safe.heytap.com
+id.heytap.com
