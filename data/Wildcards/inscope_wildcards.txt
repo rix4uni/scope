@@ -353,6 +353,7 @@ sip.*.twilio.com
 *.audible.it
 *.audible.de
 *.bybit.com
+*.bybit.eu
 *.budgetair.com
 *.cheaptickets.nl
 *.flugladen.de
