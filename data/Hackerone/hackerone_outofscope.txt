@@ -114,6 +114,9 @@ mcd.nba.com
 mcdalerts.nba.com
 mindhealth.nba.com
 totalhealth.nba.com
+*.arubanetworks.com
+bugcrowd.com
+*.central.arubanetworks.com
 db.*.supabase.co
 *.supabase.co
 api.supabase.com
@@ -474,7 +477,6 @@ help.strongdm.com
 security.strongdm.com
 safebase.io
 status.strongdm.com
-bugcrowd.com
 *.attorneyskeytitle.com
 *.chartwellescrow.com
 *.ctccal.com
