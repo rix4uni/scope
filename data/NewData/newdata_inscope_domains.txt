@@ -1,7 +1,2 @@
-germany.politico.eu
-m.bild.de
-hey.bild.de
-bild.de
-meinkonto.bild.de
-dealer.prod.ps.axelspringer.de
-editorial.one
+aweb.suivo.com
+asupport.suivo.com
