@@ -2400,6 +2400,8 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
+technik.autobild.de
+technik.beta.autobild.de
 bestbuy.buhlergroup.com
 channel.buhlergroup.com
 gitlab.buhler-datascience.ch
@@ -2539,6 +2541,7 @@ stories.rivian.com
 view.e.rivian.com
 shop.robinhood.com
 saytechnologies.com
+simscale.com
 app.rental-images.sixt.com
 b2cleasing.typo3.sixt.de
 corporate.typo3.sixt.de
