@@ -2539,7 +2539,6 @@ internalshop.rivian.com
 media.rivian.com
 stories.rivian.com
 view.e.rivian.com
-shop.robinhood.com
 saytechnologies.com
 simscale.com
 app.rental-images.sixt.com
