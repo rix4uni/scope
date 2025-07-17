@@ -635,7 +635,6 @@ itunes.apple.com
 *.sprint.net
 techapps.t-mobile.com
 wfmmobile.t-mobile.com
-*.buildbot.t-mobile.com
 employeefeedback.tesla.com
 energysupport.tesla.com
 bugbounty.zoho.com

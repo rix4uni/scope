@@ -128,7 +128,6 @@ auth.*.latitudefinancial.com
 *.tidal.com
 *.atlassian.com
 *.sprint.net
-*.buildbot.t-mobile.com
 *.engage.tesla.com
 argocd.*.uidapi.com
 *.skilljarapp.com
