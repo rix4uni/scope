@@ -592,7 +592,6 @@ sip.*.twilio.com
 *.earlywarning.com
 *.zelle.com
 *.zellepay.com
-*.earlywarning.io
 *.instacart.com
 *.instacart.tools
 *.carrentals.com

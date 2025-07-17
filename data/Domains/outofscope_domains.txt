@@ -1665,6 +1665,9 @@ ccpa.zellepay.com
 demo.earlywarning.com
 docs.earlywarning.com
 flip0717.earlywarning.com
+api.zellepay.com
+api.zmsp.earlywarning.com
+earlywarningapi.force.com
 toolkit.zellepay.com
 zellepay.earlywarning.com
 brand.instacart.com
