@@ -107,6 +107,7 @@ talent.moralis.io
 nexuzhealth.com
 store.ninjakiwi.com
 support.ninjakiwi.com
+qs.ovotech.org.uk
 *.oisl.gg
 appsfwd.ovoenergy.com
 askovo.net
