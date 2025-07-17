@@ -82,6 +82,8 @@ contactorcheck.com
 suppliercheck.com
 businesscreditfacts.com
 smallbusiness.experian.com
+*.eightfold.ai
+eightfold.ai
 docs.hemi.xyz
 news.hemi.xyz
 docs.stripe.com
