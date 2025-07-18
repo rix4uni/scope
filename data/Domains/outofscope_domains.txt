@@ -1965,6 +1965,7 @@ web-admin.harmonixmusic.com
 webinars.unrealengine.com
 api.hmxservices.com
 estore.malwarebytes.com
+malwarebytes.zoom.us
 pages.malwarebytes.com
 store.malwarebytes.com
 store.threatdown.com
