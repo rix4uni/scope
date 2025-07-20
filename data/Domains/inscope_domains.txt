@@ -3456,15 +3456,6 @@ mijn.karwei.nl
 gamma.be
 gamma.nl
 karwei.nl
-edge.lansweeper.com
-api.lansweeper.com
-app.lansweeper.com
-backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-lansweeper.com
 libelle.nl
 mobilevikings.be
 api.unleashed.be
