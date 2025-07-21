@@ -38,8 +38,6 @@ abonnement.demorgen.be
 *.ondigitalocean.app
 registry.digitalocean.com
 driessen.nl
-*.grafana.com
-*.grafana.net
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
