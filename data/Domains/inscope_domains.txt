@@ -1358,8 +1358,6 @@ updates-autopush.stage.mozaws.net
 relay.firefox.com
 stage.fxprivaterelay.nonprod.cloudops.mozgcp.net
 dev.fxprivaterelay.nonprod.cloudops.mozgcp.net
-shavar.services.mozilla.com
-shavar.prod.mozaws.net
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.allizom.org
 sync.services.mozilla.com
