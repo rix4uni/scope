@@ -223,7 +223,6 @@ db.*.supabase.co
 *.varonis-preprod.com
 *.rentals.rei.com
 *.3cx.com
-*.cibil.com
 *.security.neustar
 *aeromexico.com
 *.acx.com
