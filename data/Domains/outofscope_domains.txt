@@ -1623,6 +1623,7 @@ travel-qa.capitalone.com
 travel.capitalone.com
 very-idcheck.capitalone.co.uk
 reddit.secure.force.com
+api.zmsp
 ccpa.zellepay.com
 demo.earlywarning.com
 docs.earlywarning.com
@@ -2490,6 +2491,7 @@ stories.rivian.com
 view.e.rivian.com
 shop.robinhood.com
 saytechnologies.com
+simscale.com
 app.rental-images.sixt.com
 b2cleasing.typo3.sixt.de
 corporate.typo3.sixt.de

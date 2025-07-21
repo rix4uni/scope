@@ -336,6 +336,7 @@ db.*.supabase.co
 *.unitedincome.com
 *.clearxchange.com
 *bc.earlywarning.com
+*.earlywarning.io
 *.zellepay.com
 *.email.instacart.com
 *.expediacruises.com
