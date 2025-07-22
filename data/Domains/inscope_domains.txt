@@ -3554,6 +3554,7 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3636,6 +3637,8 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+aweb.suivo.com
+asupport.suivo.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
@@ -4180,3 +4183,7 @@ owncloud.org
 toom.de
 api.toom.de
 prozentoomat.toom.de
+co.uk.com
+sa.com
+parcelhubeurope.com
+vidaxlforwarding.com
