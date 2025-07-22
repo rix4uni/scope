@@ -1,6 +1,2 @@
-*.monzo.com
-*.monzo.me
-*.prod-ffs.io
-*.vidaxl.org
-*.vidaxl.io
-*.vidaxl.net
+*.saytechnologies.com
+*.say.rocks
