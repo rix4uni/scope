@@ -957,6 +957,7 @@ partnerxchange.8x8.com
 8x8.force.com
 support-portal.8x8.com
 admin.8x8.com
+apps.8x8.com
 cloud8.8x8.com
 campaign.wavecell.com
 contacts.8x8.com
