@@ -434,6 +434,7 @@ mgmchinaholdings.com
 hq.hero-cloud.com
 moneytree.jp
 getmoneytree.com
+*.myfitnesspal.com
 tripactions.com
 status.newrelic.com
 docs.newrelic.com

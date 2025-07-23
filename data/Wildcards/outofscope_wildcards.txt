@@ -83,6 +83,7 @@ auth.*.latitudefinancial.com
 *.blstr.co
 *.lululemon.cn
 *.lululemon.me
+*.myfitnesspal.com
 *nuinternational.com
 *nat-a.nubank.com.br
 *.octopus.app
