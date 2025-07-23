@@ -2502,6 +2502,8 @@ internalshop.rivian.com
 media.rivian.com
 stories.rivian.com
 view.e.rivian.com
+fleet.infra.robinhood.net
+content.research.robinhood.com
 shop.robinhood.com
 saytechnologies.com
 simscale.com
