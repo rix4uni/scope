@@ -673,6 +673,11 @@ embed.tidal.com
 e.trello.com
 help.trello.com
 trello-attachments.s3.amazonaws.com
+*.experiences.zone
+*.bokun.team
+*.bokun.tools
+*.bokun.website
+*.bokunmobile.website
 ir.tripadvisor.com
 *.tripadviser.at
 *.tripadvisor.cn
@@ -684,11 +689,7 @@ careers.tripadvisor.com
 *.bokun.com
 *.bokun.app
 *.bokun.eu
-*.bokun.team
-*.bokun.tools
-*.bokun.website
-*.bokunmobile.website
-*.experiences.zone
+travelermail.com
 tgt.tamedia.ch
 auth.20min.ch
 cre-api.tamedia.ch

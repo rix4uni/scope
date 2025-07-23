@@ -541,6 +541,7 @@ ir.tripadvisor.com
 spotlight-dev.tripadvisor.com
 spotlight.tripadvisor
 careers.tripadvisor.com
+travelermail.com
 tgt.tamedia.ch
 auth.20min.ch
 cre-api.tamedia.ch
