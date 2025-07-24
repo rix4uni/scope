@@ -486,6 +486,7 @@ support.moonpay.com
 *.koho.ca
 crispers-lasupercollation.com
 fodboldrejse.marabou.dk
+mavieencouleurs.fr
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
 enterpriseregistration.apnic.net
