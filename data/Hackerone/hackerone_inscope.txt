@@ -961,6 +961,7 @@ apps.8x8.com
 cloud8.8x8.com
 campaign.wavecell.com
 contacts.8x8.com
+converse.8x8.com
 *.packet8.net
 8x8.vc
 webrtc.8x8.com
@@ -974,6 +975,7 @@ uc.8x8pilot.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 vcc-na30.8x8.com
+video-agent.8x8.com
 voapi.8x8.com
 voapi-au.8x8.com
 voapi-uk.8x8.com
