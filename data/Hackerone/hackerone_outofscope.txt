@@ -1212,7 +1212,9 @@ netlify.com
 *.east.fdbox.net
 *.fndl.dev
 *.prod.fdbox.net
+affiliates.fanduel.com
 fdbox.net
+partners.fanduel.com
 appsflyer.com
 crashlytics.com
 help.creditkarma.com
