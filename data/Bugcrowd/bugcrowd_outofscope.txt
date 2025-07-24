@@ -750,7 +750,7 @@ pardot.upwork.com
 agentcenter.viator.com
 operatorresources.viator.com
 partnerresources.viator.com
-partner.viator.com
+api.tapayments.com
 theplaymania.com
 *.web.com
 *.register.com
