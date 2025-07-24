@@ -1136,7 +1136,6 @@ sm-php-smid.slotomania.com
 sm-php-smid-va2.slotomania.com
 vs-fb-php-p1.playtika.com
 sm-php.playtika.com
-jdehs.deere.com
 account-reader.tide.co
 admin.tide.co
 community.tide.co
