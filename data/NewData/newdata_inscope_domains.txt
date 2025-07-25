@@ -1,6 +1,7 @@
-a.simplemdm.com
-auth2.pdq.tools
-library-staging.pdq.tools
-detect.pdq.tools
-houston-staging.pdq.tools
-portal-staging.pdq.tools
+germany.politico.eu
+m.bild.de
+hey.bild.de
+bild.de
+meinkonto.bild.de
+dealer.prod.ps.axelspringer.de
+editorial.one
