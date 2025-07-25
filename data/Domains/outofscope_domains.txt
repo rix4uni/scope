@@ -2371,8 +2371,6 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
-technik.autobild.de
-technik.beta.autobild.de
 bestbuy.buhlergroup.com
 channel.buhlergroup.com
 gitlab.buhler-datascience.ch
@@ -2513,6 +2511,7 @@ fleet.infra.robinhood.net
 content.research.robinhood.com
 shop.robinhood.com
 events.robinhood.com
+saytechnologies.com
 simscale.com
 app.rental-images.sixt.com
 b2cleasing.typo3.sixt.de
