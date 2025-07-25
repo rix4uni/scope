@@ -141,6 +141,9 @@ testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
 *.vectus.in
+*.pdq.com
+*.simplemdm.com
+*.smartdeploy.com
 personio.de
 personio.slack.com
 statuspage.personio.de
@@ -188,6 +191,7 @@ view.e.rivian.com
 fleet.infra.robinhood.net
 content.research.robinhood.com
 shop.robinhood.com
+events.robinhood.com
 saytechnologies.com
 simscale.com
 app.rental-images.sixt.com
