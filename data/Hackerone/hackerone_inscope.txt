@@ -2944,6 +2944,7 @@ texts.com
 akismet.com
 api.tumblr.com
 assets.tumblr.com
+clay.earth
 embed.tumblr.com
 gravatar.com
 intensedebate.com
