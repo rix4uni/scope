@@ -174,12 +174,6 @@ se.mathem.mathem
 *.prod.nube.tech
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-a.simplemdm.com
-auth2.pdq.tools
-library-staging.pdq.tools
-detect.pdq.tools
-houston-staging.pdq.tools
-portal-staging.pdq.tools
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
