@@ -2957,13 +2957,6 @@ simplenote.com
 t.umblr.com
 wordpress.com
 tumblr.com
-*.irccloud-cdn.com
-*.irccloud.com
-irccloud.com
-api.irccloud.com
-blog.irccloud.com
-irc.irccloud.com
-team-irc.irccloud.com
 *.base.org
 *.cbhq.net
 *.coinbase.com
