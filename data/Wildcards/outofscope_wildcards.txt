@@ -509,6 +509,7 @@ online.*.skybingo.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
+*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -529,6 +530,7 @@ online.*.skybingo.com
 *.grafana.net
 *.swop.com
 *.configuratoren.nl
+*.monzo.me
 *.oisl.gg
 *.vectus.in
 *.brightplus.be

@@ -7,6 +7,9 @@
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
+*.axelspringer.com
+technik.autobild.de
+technik.beta.autobild.de
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -77,6 +80,7 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+*.monzo.me
 community.monzo.com
 login.internal.monzo.com
 monzo.me
