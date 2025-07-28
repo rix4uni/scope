@@ -5,4 +5,3 @@ bild.de
 meinkonto.bild.de
 dealer.prod.ps.axelspringer.de
 editorial.one
-monzo.com
