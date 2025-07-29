@@ -398,6 +398,7 @@ sip.*.twilio.com
 *.otherside.xyz
 *.yuga.com
 *.yugalabs.io
+*.m-pesa.com
 *.metamask.io
 *.eu.floqast.app
 *.floqast.app

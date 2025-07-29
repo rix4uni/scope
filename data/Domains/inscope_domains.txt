@@ -1539,6 +1539,12 @@ demo.dynamic.xyz
 app.dynamicauth.com
 app.moderntreasury.com
 cdn.moderntreasury.com
+m-pesa.africa
+mpa.ekyc.backoffice.m-pesa.com
+mpa.ekyc.selfregister.m-pesa.com
+mpa.qr.web.m-pesa.com
+openapi.m-pesa.com
+openapiportal.m-pesa.com
 sandbox-api.fireblocks.io
 sb-console-api.fireblocks.io
 sb-mobile-api.fireblocks.io

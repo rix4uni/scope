@@ -301,6 +301,11 @@ help.moderntreasury.com
 ph.moderntreasury.com
 trust.moderntreasury.com
 moderntreasury.com
+business.m-pesa.com
+mz.m-pesa.com
+ra.ls.m-pesa.com
+sso.m-pesa.vm.co.mz
+sso.pr.m-pesa.vm.co.mz
 *.daimler.com
 *.fuso.com
 *.thomasbuildbuses.com
