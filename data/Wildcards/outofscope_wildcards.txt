@@ -221,6 +221,8 @@ db.*.supabase.co
 *.supabase.co
 *.cyral.com
 *.varonis-preprod.com
+*.ito.singlestore.com
+*.labs.singlestore.com
 *.rentals.rei.com
 *.3cx.com
 *.security.neustar
