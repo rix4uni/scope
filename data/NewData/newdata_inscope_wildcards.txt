@@ -19,3 +19,4 @@
 *.techbook.de
 *.travelbook.de
 *.wissen-sie-mehr.de
+*.datacamp.com
