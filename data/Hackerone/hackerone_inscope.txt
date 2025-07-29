@@ -2470,6 +2470,7 @@ talk.brave.com
 portswigger.net
 ai.portswigger.net
 forum.portswigger.net
+http1mustdie.com
 enterprise-demo.portswigger.net
 files.com
 developers.files.com
