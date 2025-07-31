@@ -123,6 +123,7 @@ auth.*.latitudefinancial.com
 *.personalcapital.com
 *.empower.com
 *.retirementpartner.com
+*.accounts.ondemand.com
 *.afterpay.com
 *.cash.me
 *.tidal.com
