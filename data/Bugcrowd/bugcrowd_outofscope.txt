@@ -587,11 +587,8 @@ ibs2.optus.com.au
 originenergy.com.au
 auth.api.originenergy.com.au
 origin-energy.formstack.com
-compareandconnect.com.au
-agent.compareandconnect.com.au
-fastconnect.co.nz
-yourporter.com.au
-raywhitehomenow.com
+solarquotes.com.au
+manufacturers.solarquotes.com.au
 *.empower-retirement.com
 *.personalcapital.com
 *.empower.com

@@ -466,11 +466,8 @@ ibs2.optus.com.au
 originenergy.com.au
 auth.api.originenergy.com.au
 origin-energy.formstack.com
-compareandconnect.com.au
-agent.compareandconnect.com.au
-fastconnect.co.nz
-yourporter.com.au
-raywhitehomenow.com
+solarquotes.com.au
+manufacturers.solarquotes.com.au
 help.quizlet.com
 community.rapyd.net
 support.rapyd.net
@@ -2641,6 +2638,11 @@ gis2.water-link.be
 jobs.water-link.be
 acc.water-link.be
 dev.water-link.be
+blog.wolt.com
+gettest.wolt.com
+links.wolt.com
+press.wolt.com
+wolt.atlassian.net
 zabka-snrs.zabka.pl
 vznkul.be
 api.intercom.io
