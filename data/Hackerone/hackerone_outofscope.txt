@@ -324,8 +324,6 @@ sso.pr.m-pesa.vm.co.mz
 *.thomasbuildbuses.com
 bigstockphoto.fr
 ofcourse.com
-*.api.cx.metamask.io
-hackerone.com
 metamask.io
 metamask.github.io
 authentication.api.cx.metamask.io
@@ -333,6 +331,7 @@ oidc.api.cx.metamask.io
 user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 portfolio.metamask.io
+*.api.cx.metamask.io
 chrome.google.com
 snaps.metamask.io
 *.metamask.io
@@ -343,6 +342,7 @@ baanx.com
 daniel.jones
 mark.james
 community.metamask.io
+hackerone.com
 developer.metamask.io
 mmi-support.metamask.io
 support.metamask.io

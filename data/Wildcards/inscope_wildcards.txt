@@ -399,6 +399,7 @@ sip.*.twilio.com
 *.yuga.com
 *.yugalabs.io
 *.m-pesa.com
+*.api.cx.metamask.io
 *.metamask.io
 *.eu.floqast.app
 *.floqast.app
@@ -459,7 +460,6 @@ sip.*.twilio.com
 *.slotomania.com
 *.wooga.com
 *.tide.co
-*.api.cx.metamask.io
 *.gethypr.com
 *.hypr.com
 *.bridge.xyz
