@@ -1006,6 +1006,7 @@ financeiro.quintoandar.com.br
 apigw.prod.quintoandar.com.br
 finance.quintoandar.com.br
 trato-feito-api.quintoandar.com.br
+proprietario.quintoandar.com.br
 *.quizlet.com
 dashboard.rapyd.net
 verify.rapyd.net
