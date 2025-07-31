@@ -889,7 +889,6 @@ sandbox.launchdarkly.com
 slack.launchdarkly.com
 status.launchdarkly.com
 *.matic.network
-*.skale.network
 help.yesware.com
 roadmap.vendasta.com
 t.yesware.com

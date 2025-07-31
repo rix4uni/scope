@@ -319,7 +319,6 @@ db.*.supabase.co
 *.travelguard.com
 *.fip.finra.org
 *.matic.network
-*.skale.network
 *.1337.or.id
 *.hcltechsw.com
 *.oasisprotocol.org
