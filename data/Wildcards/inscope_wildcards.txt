@@ -321,7 +321,6 @@ sip.*.twilio.com
 *.projectbaseline.com
 *.signalpath.com
 *.verily.com
-*.toloka.ai
 *.varonis.com
 *.varonis.io
 *.varonis.net
