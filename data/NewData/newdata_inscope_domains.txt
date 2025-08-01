@@ -1,4 +1,5 @@
-bettrfinancing.com
-anext.com.sg
-alipayhk.com
-antbank.hk
+dashboard.sendbird.com
+gate.sendbird.com
+sendbird.com
+calls.sendbird.com
+notifications.sendbird.com
