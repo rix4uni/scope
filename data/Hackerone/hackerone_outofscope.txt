@@ -104,8 +104,6 @@ campaignmanager.thescore.com
 blog.ishosting.com
 help.ishosting.com
 *.amazonaws.com
-mcd.nba.com
-mcdalerts.nba.com
 mindhealth.nba.com
 totalhealth.nba.com
 *.arubanetworks.com

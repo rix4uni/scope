@@ -681,8 +681,6 @@ support.1password.com
 campaignmanager.thescore.com
 blog.ishosting.com
 help.ishosting.com
-mcd.nba.com
-mcdalerts.nba.com
 mindhealth.nba.com
 totalhealth.nba.com
 api.supabase.com
