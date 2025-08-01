@@ -1,3 +1,9 @@
-*.alipayplus.com
-*.antom.com
-*.worldfirst.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com

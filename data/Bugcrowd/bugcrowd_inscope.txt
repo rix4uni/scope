@@ -142,11 +142,6 @@ mgpg.probiller.com
 backblaze.com
 *.backblaze.com
 barracuda.com
-mybigcommerce.com
-bigcommerce.com
-*.bigcommerce.com
-login.bigcommerce.com
-*.bigcommerce.net
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
 binance.com
