@@ -1,3 +1,13 @@
+originenergy.com.au
+dataportal.originenergy.com.au
+api.rx.originenergy.com.au
+winconnect.com.au
+customerportal.winconnect.com.au
+signup.myconnect.com.au
+portal.myconnect.com.au
+myconnect.com.au
+ssu.myconnect.com.au
+hub.myconnect.com.au
 compareandconnect.com.au
 agent.compareandconnect.com.au
 fastconnect.co.nz
@@ -10,10 +20,3 @@ api-portal.originzero.com.au
 sign.originzero.com.au
 businessportal.origin.com.au
 api-businessportal.origin.com.au
-authentication.wolt.com
-corporate.wolt.com
-drive.wolt.com
-merchant.wolt.com
-ops.wolt.com
-restaurant-api.wolt.com
-wolt.com
