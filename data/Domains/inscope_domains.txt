@@ -801,11 +801,6 @@ devportal.rec.net
 seekcdn.com
 graphql.seek.com
 auth.seek.com
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
 skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
@@ -3793,6 +3788,10 @@ api.atg.se
 iam.atg.se
 app.alasco.de
 api.alasco.de
+bettrfinancing.com
+anext.com.sg
+alipayhk.com
+antbank.hk
 mysrc.group
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net

@@ -1058,11 +1058,6 @@ seekcdn.com
 *.certsynonprod.com
 graphql.seek.com
 auth.seek.com
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
 skroutz.gr
 gateway.skyscanner.net
 skyscanner.net

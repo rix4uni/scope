@@ -13,6 +13,13 @@ app.alasco.de
 api.alasco.de
 *.alasco.de
 *.alasco.rocks
+*.alipayplus.com
+*.antom.com
+*.worldfirst.com
+bettrfinancing.com
+anext.com.sg
+alipayhk.com
+antbank.hk
 mysrc.group
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
