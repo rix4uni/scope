@@ -1,5 +1,5 @@
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
+furycloud.io
+furydocs.io
+mercadolibreexperience.cl
+mercadolivreexperience.com.br
+sustentabilidadmercadolibre.com
