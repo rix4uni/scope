@@ -345,8 +345,6 @@ id.worldcoin.org
 toolsforhumanity.com
 world.org
 worldcoin.org
-api-test.nicehash.com
-test.nicehash.com
 amazon.com
 *.blinkforhome.com
 *.immedia-semi.com

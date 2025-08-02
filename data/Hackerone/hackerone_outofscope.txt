@@ -207,9 +207,6 @@ visayanelectric.com
 iflex.snaboitiz.com
 support.world.org
 support.worldcoin.com
-api-test.nicex.com
-test.nicehash.com
-test.nicex.com
 *.envira.es
 envira.global
 *.eurofins-digitaltesting.com
