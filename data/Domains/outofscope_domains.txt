@@ -450,11 +450,6 @@ yes4good.optus.com.au
 ocaportal.portal
 ibs.optus.com.au
 ibs2.optus.com.au
-originenergy.com.au
-auth.api.originenergy.com.au
-origin-energy.formstack.com
-solarquotes.com.au
-manufacturers.solarquotes.com.au
 help.quizlet.com
 community.rapyd.net
 support.rapyd.net
