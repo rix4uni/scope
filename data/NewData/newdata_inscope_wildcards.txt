@@ -1,9 +1,5 @@
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
-*.hellofax.com
-*.docsend.com
-*.reclaim.ai
-*.helloworks.com
-*.hellosign.com
+*.origindigital-pac.com.au
+*.odcdn.com.au
+*.support.originenergy.com.au
+*.api.originenergy.com.au
+*.download.originenergy.com.au

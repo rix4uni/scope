@@ -571,6 +571,11 @@ ibs2.optus.com.au
 *.nt.optusnet.com.au
 *.act.optusnet.com.au
 *.tas.optusnet.com.au
+originenergy.com.au
+auth.api.originenergy.com.au
+origin-energy.formstack.com
+solarquotes.com.au
+manufacturers.solarquotes.com.au
 *.empower-retirement.com
 *.personalcapital.com
 *.empower.com
