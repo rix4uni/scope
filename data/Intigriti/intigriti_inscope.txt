@@ -214,13 +214,6 @@ vikingdeals.be
 *.prod-ffs.io
 co.uk.getmondo
 monzo.com
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
-forms.nexuzhealth.be
-idp-mobile.nexuzhealth.be
-mobile.nexuzhealth.be
-mynexuz.be
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 mathem.se
