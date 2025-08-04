@@ -1,2 +1,8 @@
-co.uk.getmondo
-monzo.com
+app.aikido.dev
+authentication.wolt.com
+corporate.wolt.com
+drive.wolt.com
+merchant.wolt.com
+ops.wolt.com
+restaurant-api.wolt.com
+wolt.com

@@ -1077,6 +1077,7 @@ sip.*.twilio.com
 *.wpengine.io
 *.wpesvc.net
 *.water-link.be
+*.wolt.com
 *.yacht.nl
 *.yahoo.com
 *.pwn.intigriti.rocks
@@ -4611,6 +4612,7 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -4951,6 +4953,13 @@ pit.water-link.be
 water-link-jaarverslag.be
 water-link.be
 waterstoring.be
+authentication.wolt.com
+corporate.wolt.com
+drive.wolt.com
+merchant.wolt.com
+ops.wolt.com
+restaurant-api.wolt.com
+wolt.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
 onepush.query.yahoo.com
