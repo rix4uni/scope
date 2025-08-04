@@ -4298,8 +4298,6 @@ ovo.id
 p.grabtaxi.com
 wiki.grab.com
 xtramile.grabpay.com
-moneybird.com
-moneybirdstorage.com
 support.dashlane.com
 api.dashlane.com
 app.dashlane.com
