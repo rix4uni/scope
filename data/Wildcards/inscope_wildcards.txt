@@ -1075,7 +1075,6 @@ sip.*.twilio.com
 *.wpengine.io
 *.wpesvc.net
 *.water-link.be
-*.wolt.com
 *.yacht.nl
 *.yahoo.com
 *.pwn.intigriti.rocks

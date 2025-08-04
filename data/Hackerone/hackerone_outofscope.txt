@@ -841,6 +841,7 @@ plainlanguage.gov
 presidentialinnovationfellows.gov
 realestatesales.gov
 openmage.org
+*.bell.ca
 8x8.wavecell.com
 webmail.wavecell.com
 desktop.jitsi.org

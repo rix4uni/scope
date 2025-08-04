@@ -311,6 +311,7 @@ db.*.supabase.co
 *.afadvantage.gov
 *.cio.gov
 *.itdashboard.gov
+*.bell.ca
 *.callstats.io
 *.contactnow.8x8.com
 *.jitsi.org
