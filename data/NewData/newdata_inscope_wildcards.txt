@@ -1,1 +1,1 @@
-*.wolt.com
+*.datacamp.com
