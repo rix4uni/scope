@@ -161,6 +161,9 @@ bitgo.com
 *.bitgo.com
 app.bitgo.com
 app.bitgo-test.com
+bitgo.ae
+wbtc.network
+usdstandard.com
 web.bitpanda.com
 bitpanda.com
 api.bitpanda.com
