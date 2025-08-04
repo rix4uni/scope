@@ -9,6 +9,14 @@ This repo maintain's in-scope and out-of-scope
   - [newdata_inscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/NewData/newdata_inscope_domains.txt)
 
 
+#### AllData:
+- #### All inscope
+  - [inscope.txt](https://github.com/rix4uni/scope/blob/main/data/inscope.txt)
+
+- #### All outofscope
+  - [outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/outofscope.txt)
+
+
 #### Main files:
 - #### Wildcards:
   - [inscope_wildcards.txt](https://github.com/rix4uni/scope/blob/main/data/Wildcards/inscope_wildcards.txt)
