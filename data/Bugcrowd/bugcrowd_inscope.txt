@@ -1117,6 +1117,7 @@ audience-builder.vistarmedia.com
 staging-login.vistarmedia.com
 clients.adstruc.com
 demo.adstruc.com
+*.uscc.net
 biocorellc.com
 tempus-ex.com
 infiniteathlete.ai
