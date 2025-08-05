@@ -1467,7 +1467,6 @@ daniel.jones
 mark.james
 community.metamask.io
 hackerone.com
-developer.metamask.io
 mmi-support.metamask.io
 support.metamask.io
 npmjs.com
