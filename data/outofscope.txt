@@ -1150,6 +1150,7 @@ transform.twilio.com
 webinars.twilio.com
 store.twilio.com
 apjevents.twilio.com
+events.cdpweek.com
 underarmour.com
 uabiz.com
 investor.underarmour.com
