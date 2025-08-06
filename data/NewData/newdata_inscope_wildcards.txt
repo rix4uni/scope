@@ -1,9 +1,5 @@
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
-*.hellofax.com
-*.docsend.com
-*.reclaim.ai
-*.helloworks.com
-*.hellosign.com
+*.api.id.realestate.com.au
+*.id.realestate.com.au
+*.accounts.realestate.com.au
+*.realestate.com.au
+*.realcommercial.com.au

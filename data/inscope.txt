@@ -242,6 +242,11 @@ np.*.lfscnp.com
 *.kortathjonustan.is
 *.neat.hk
 *.neat.wtf
+*.api.id.realestate.com.au
+*.id.realestate.com.au
+*.accounts.realestate.com.au
+*.realestate.com.au
+*.realcommercial.com.au
 *.rec.net
 *.seek.com.au
 *.skinfra.xyz
@@ -1951,6 +1956,11 @@ verify.rapyd.net
 checkout.rapyd.net
 api.rapyd.net
 jointhemoment.net
+rea-group.com
+reastatic.net
+realestate.com.au
+realcommercial.com.au
+property.com.au
 rec.net
 store.steampowered.com
 oculus.com

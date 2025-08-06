@@ -1034,6 +1034,16 @@ jointhemoment.net
 *.kortathjonustan.is
 *.neat.hk
 *.neat.wtf
+rea-group.com
+reastatic.net
+*.api.id.realestate.com.au
+*.id.realestate.com.au
+*.accounts.realestate.com.au
+realestate.com.au
+*.realestate.com.au
+realcommercial.com.au
+*.realcommercial.com.au
+property.com.au
 rec.net
 store.steampowered.com
 oculus.com
