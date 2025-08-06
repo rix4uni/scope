@@ -148,6 +148,7 @@ auth.*.latitudefinancial.com
 *.atlassian.com
 *.sprint.net
 *.mobile.uscc.net
+*.mobile.uscc.com
 *.engage.tesla.com
 argocd.*.uidapi.com
 *.skilljarapp.com
