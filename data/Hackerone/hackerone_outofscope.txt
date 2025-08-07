@@ -328,14 +328,15 @@ io.metamask.metamask
 io.metamask
 card.metamask.io
 baanx.com
-daniel.jones
-mark.james
+consensys.net
 community.metamask.io
 hackerone.com
 mmi-support.metamask.io
 support.metamask.io
 npmjs.com
 permissionless.snaps.metamask.io
+travel.metamask.io
+entravel.com
 *.floqast.com
 *.floqast.studio
 connector.callsign.com
@@ -755,7 +756,6 @@ remotesupport.heartland.us
 wvcorp.tva.com
 signin.costco.com
 consensys-solutions.net
-consensys.net
 mesh.xyz
 events.on-running.com
 events.on.com
