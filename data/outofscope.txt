@@ -3196,7 +3196,6 @@ content.research.robinhood.com
 shop.robinhood.com
 events.robinhood.com
 saytechnologies.com
-simscale.com
 app.rental-images.sixt.com
 b2cleasing.typo3.sixt.de
 corporate.typo3.sixt.de
