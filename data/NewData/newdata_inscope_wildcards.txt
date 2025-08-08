@@ -1,1 +1,9 @@
-*.uscellular.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
