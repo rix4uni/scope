@@ -604,7 +604,6 @@ static.tenable.com
 suggestions.tenable.com
 university.tenable.com
 tenable.com
-snowplowanalytics.com
 community.companyofheroes.com
 segashop.co.uk
 *.neweggbusiness.com
