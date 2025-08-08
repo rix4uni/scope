@@ -201,8 +201,6 @@ np.*.lfscnp.com
 *.nu.com.co
 *.nuinvest.com.br
 *.octopus.com
-*.openai.org
-*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -897,6 +895,7 @@ sip.*.twilio.com
 *.shopifykloud.com
 *.airbnb-aws.com
 *.airbnb.com
+*.airbnb.org
 *.airbnbcitizen.com
 *.atairbnb.com
 *.byairbnb.com

@@ -1,1 +1,1 @@
-*.datacamp.com
+*.airbnb.org
