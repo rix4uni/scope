@@ -465,8 +465,8 @@ sparks-financial.com
 theandersonfinancialgroupnm.com
 themint.org
 u.nm.com
-*nuinternational.com
-*nat-a.nubank.com.br
+*.nuinternational.com
+*.nat-a.nubank.com.br
 international.nubank.com.br
 *.octopus.app
 artifactorysample.octopus.com
