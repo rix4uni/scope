@@ -1,2 +1,15 @@
-*.openai.org
-*.openai.com
+*.beautyexpert.com
+*.dermstore.com
+*.espaskincare.com
+*.exantediet.com
+*.eyeko.com
+*.glossybox.co.uk
+*.growgorgeous.com
+*.hqhair.com
+*.illamasqua.com
+*.mioskincare.com
+*.mankind.co.uk
+*.mybag.com
+*.myvitamins.com
+*.powerman.co.uk
+*.thehut.com
