@@ -2873,6 +2873,9 @@ zooplus.co.uk
 zooplus.com
 zooplus.de
 zooplus.net
+secure.newegg.com
+pmtcards.newegg.com
+secure.newegg.ca
 account.krisp.ai
 analytics.krisp.ai
 api.krisp.ai
