@@ -201,8 +201,6 @@ np.*.lfscnp.com
 *.nu.com.co
 *.nuinvest.com.br
 *.octopus.com
-*.openai.org
-*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -1739,11 +1737,6 @@ client.htm
 sftd-windows.htm
 download-browser-plugin.htm
 pentest-app.onetrust.com
-api.openai.com
-chat.openai.com
-openai.org
-openai.com
-platform.openai.com
 opensea.io
 wallet.opensea.io
 io.opensea
