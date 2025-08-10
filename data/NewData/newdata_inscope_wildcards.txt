@@ -1,2 +1,6 @@
-*.openai.org
-*.openai.com
+*.api.t-mobile.com
+*.t-mobile.com
+*.metrobyt-mobile.com
+*.sprint.com
+*.uscc.net
+*.uscc.com

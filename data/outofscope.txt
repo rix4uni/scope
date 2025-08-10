@@ -146,6 +146,10 @@ auth.*.latitudefinancial.com
 *.cash.me
 *.tidal.com
 *.atlassian.com
+*.sprint.net
+*.mobile.uscc.net
+*.mobile.uscc.com
+*.uscellular.com
 *.engage.tesla.com
 argocd.*.uidapi.com
 *.skilljarapp.com
@@ -1137,6 +1141,7 @@ tidal.com
 app.squareupstaging.com
 community.squareup.com
 itunes.apple.com
+techapps.t-mobile.com
 employeefeedback.tesla.com
 energysupport.tesla.com
 bugbounty.zoho.com
