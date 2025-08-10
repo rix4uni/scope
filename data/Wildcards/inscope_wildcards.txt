@@ -1005,8 +1005,6 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
