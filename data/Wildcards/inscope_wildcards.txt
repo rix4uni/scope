@@ -201,8 +201,6 @@ np.*.lfscnp.com
 *.nu.com.co
 *.nuinvest.com.br
 *.octopus.com
-*.openai.org
-*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -256,10 +254,6 @@ np.*.lfscnp.com
 *.certsynonprod.com
 *.skyscanner.net
 *.sophos.com
-*.soundcloud.org
-*.s-cloud.net
-*.soundcloud.com
-*.services.repostnetwork.com
 *.square.com
 *.squareup.com
 *.statuspage.io
@@ -969,6 +963,15 @@ sip.*.twilio.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1002,6 +1005,8 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
