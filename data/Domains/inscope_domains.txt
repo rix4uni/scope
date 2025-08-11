@@ -596,6 +596,11 @@ client.htm
 sftd-windows.htm
 download-browser-plugin.htm
 pentest-app.onetrust.com
+api.openai.com
+chat.openai.com
+openai.org
+openai.com
+platform.openai.com
 opensea.io
 wallet.opensea.io
 io.opensea
@@ -818,6 +823,10 @@ namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
+soundcloud.com
+connect.soundcloud.com
+artists.soundcloud.com
+soundcloud.org
 square.online
 weebly.com
 manage.statuspage.io

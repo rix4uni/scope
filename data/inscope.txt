@@ -201,6 +201,8 @@ np.*.lfscnp.com
 *.nu.com.co
 *.nuinvest.com.br
 *.octopus.com
+*.openai.org
+*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -254,6 +256,10 @@ np.*.lfscnp.com
 *.certsynonprod.com
 *.skyscanner.net
 *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
 *.square.com
 *.squareup.com
 *.statuspage.io
@@ -1730,6 +1736,11 @@ client.htm
 sftd-windows.htm
 download-browser-plugin.htm
 pentest-app.onetrust.com
+api.openai.com
+chat.openai.com
+openai.org
+openai.com
+platform.openai.com
 opensea.io
 wallet.opensea.io
 io.opensea
@@ -1952,6 +1963,10 @@ namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
+soundcloud.com
+connect.soundcloud.com
+artists.soundcloud.com
+soundcloud.org
 square.online
 weebly.com
 manage.statuspage.io
