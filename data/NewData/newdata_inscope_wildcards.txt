@@ -1,5 +1,3 @@
-*.openai.org
-*.openai.com
 *.soundcloud.org
 *.s-cloud.net
 *.soundcloud.com
