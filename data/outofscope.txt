@@ -1478,6 +1478,7 @@ blog.zabbix.com
 cloud.zabbix.com
 exam.zabbix.com
 git.zabbix.com
+shop.zabbix.com
 space.zabbix.com
 support.zabbix.com
 translate.zabbix.com
