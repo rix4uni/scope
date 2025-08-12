@@ -141,7 +141,6 @@ auth.*.latitudefinancial.com
 *.easiloan.com
 *.realtor.com
 *.spacely.com.au
-*.accounts.ondemand.com
 *.afterpay.com
 *.cash.me
 *.tidal.com
