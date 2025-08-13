@@ -2099,12 +2099,6 @@ truecaller.com
 accounts.evernote.com
 api.evernote.com
 evernote.com
-emerald.oasis.dev
-grpc.oasis.dev
-rosetta.oasis.dev
-sapphire.oasis.io
-status.oasis.io
-wallet.oasis.io
 bitcoin-s.a.exodus.io
 exodus.io
 exodus.com

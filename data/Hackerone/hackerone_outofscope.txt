@@ -933,8 +933,6 @@ community.truecaller.com
 support.truecaller.com
 help.evernote.com
 *.hcltechsw.com
-oasisprotocol.org
-*.oasisprotocol.org
 *.atp-exodus.com
 atp-exodus.com
 exodus.atlassian.net

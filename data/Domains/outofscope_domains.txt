@@ -1426,7 +1426,6 @@ adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
 help.evernote.com
-oasisprotocol.org
 atp-exodus.com
 exodus.atlassian.net
 exodusstore.blob.core.windows.net
