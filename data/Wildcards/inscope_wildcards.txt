@@ -963,6 +963,7 @@ sip.*.twilio.com
 *.sportbild.de
 *.bild.tv
 *.computerbild.de
+*.germany.politico.eu
 *.welt.de
 *.bild.de
 *.autobild.de
