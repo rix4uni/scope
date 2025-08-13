@@ -992,8 +992,6 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -2974,18 +2972,12 @@ captcha-prod.grindr.com
 admin.grindr.com
 reporting-portal.grindr.com
 web.grindr.com
-cloud.com
-developer.cloud.com
-docs.citrix.com
-citrix.sharefile.com
-ap.iws.cloud.com
-eu.iws.cloud.com
-us.iws.cloud.com
 accounts.cloud.com
 adm.cloud.com
 aws.amazon.com
 azuremarketplace.microsoft.com
 citrix.netscalervpx
+docs.citrix.com
 ap-s.cloud.com
 api.adm.cloud.com
 eu.cloud.com
@@ -4710,8 +4702,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz

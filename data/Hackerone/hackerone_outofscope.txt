@@ -807,6 +807,10 @@ support.wix.com
 selfservice.grindr.com
 shop.grindr.com
 shop.grindrbloop.com
+cloud.com
+ap.iws.cloud.com
+eu.iws.cloud.com
+us.iws.cloud.com
 *.browser.cloud.com
 *.cloudburrito.com
 *.podio.com
@@ -817,7 +821,6 @@ shop.grindrbloop.com
 accounts-internal.cloud.com
 citrix.cloud.com
 launch.cloud.com
-cloud.com
 c21.hk
 century21.hk
 *.afadvantage.gov

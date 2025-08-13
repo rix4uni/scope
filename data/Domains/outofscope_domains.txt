@@ -1321,10 +1321,13 @@ support.wix.com
 selfservice.grindr.com
 shop.grindr.com
 shop.grindrbloop.com
+cloud.com
+ap.iws.cloud.com
+eu.iws.cloud.com
+us.iws.cloud.com
 accounts-internal.cloud.com
 citrix.cloud.com
 launch.cloud.com
-cloud.com
 c21.hk
 century21.hk
 alpha.sam.gov
@@ -2484,9 +2487,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io
