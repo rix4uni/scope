@@ -162,6 +162,10 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+*.monzo.com
+*.prod-ffs.io
+co.uk.getmondo
+monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -255,6 +259,8 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
+*.saytechnologies.com
+*.say.rocks
 cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
