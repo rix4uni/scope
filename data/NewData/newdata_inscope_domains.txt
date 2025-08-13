@@ -1,6 +1,10 @@
-welt.de
-epaper.welt.de
-cancellation.prod.ps.welt.de
-digital.welt.de
-signin.auth.welt.de
-go.welt.de
+dropbox.com
+sign.dropbox.com
+hellosign.com
+dash.ai
+dash.dropbox.com
+api.dropbox.com
+replay.dropbox.com
+hellofax.com
+docsend.com
+app.reclaim.ai
