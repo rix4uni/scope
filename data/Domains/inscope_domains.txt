@@ -3480,6 +3480,13 @@ app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
+germany.politico.eu
+m.bild.de
+hey.bild.de
+bild.de
+meinkonto.bild.de
+dealer.prod.ps.axelspringer.de
+editorial.one
 bmw-motorrad.de
 bmw.de
 mini.de
@@ -3503,6 +3510,7 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+justonweb.be
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
