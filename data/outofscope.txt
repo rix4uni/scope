@@ -543,7 +543,6 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -3076,18 +3075,6 @@ pop.buhlergroup.cn
 smtp.buhlergroup.cn
 help.capital.com
 relocate-with-us.capital.com
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
@@ -3194,10 +3181,6 @@ internalshop.rivian.com
 media.rivian.com
 stories.rivian.com
 view.e.rivian.com
-fleet.infra.robinhood.net
-content.research.robinhood.com
-shop.robinhood.com
-events.robinhood.com
 saytechnologies.com
 simscale.com
 app.rental-images.sixt.com
