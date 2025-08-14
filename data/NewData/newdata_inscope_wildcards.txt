@@ -1,3 +1,9 @@
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
