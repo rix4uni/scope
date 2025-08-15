@@ -536,7 +536,6 @@ catch.opera.com
 wallpaper.opera.com
 tabfulness.opera.com
 32s.opera.com
-optimizely.com
 sport.optus.com.au
 samsung.optussport.tv
 chromecast.optussport.tv
