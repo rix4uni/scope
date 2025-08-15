@@ -1060,6 +1060,9 @@ bluehost.com
 hostgator.com
 transferwise.com
 wise.com
+auth.wyze.com
+my.wyze.com
+api.wyzecam.com
 home.xfinity.com
 internet.xfinity.com
 orc-xfi.com
@@ -3547,16 +3550,6 @@ do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
 donorbox.org
-dropbox.com
-sign.dropbox.com
-hellosign.com
-dash.ai
-dash.dropbox.com
-api.dropbox.com
-replay.dropbox.com
-hellofax.com
-docsend.com
-app.reclaim.ai
 itscope.com
 itscope.de
 gripp.com
