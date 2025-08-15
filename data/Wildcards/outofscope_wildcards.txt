@@ -551,6 +551,7 @@ online.*.skybingo.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.monzo.me
 *.oisl.gg
 *.vectus.in
