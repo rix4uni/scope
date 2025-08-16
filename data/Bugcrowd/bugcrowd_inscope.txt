@@ -569,6 +569,12 @@ np.*.lfscnp.com
 legacy-blockexplorer.electroneum.com
 manager.trial.lsk.lightspeed.app
 hq.breadcrumb.com
+secure.vendhq.com
+developers.vendhq.com
+payment-connectors.vendhq.com
+vendhq.com
+store.retail.lightspeed.app
+app.ecwid.com
 proxy-production.lime.bike
 web-message.lime.bike
 web-message-high.lime.bike
