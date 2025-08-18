@@ -2456,8 +2456,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
