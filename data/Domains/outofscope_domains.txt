@@ -2032,6 +2032,7 @@ go.grammarly.com
 coda.grammarly.com
 app.formit.autodesk.com
 quote.oc.autodesk.com
+gcpay.com
 amart.oc.autodesk.com
 checkoutservice-stg.autodesk.com
 payment-profile-gateway.oc.autodesk.com
