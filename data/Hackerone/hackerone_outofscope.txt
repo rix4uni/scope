@@ -808,6 +808,7 @@ support.wix.com
 selfservice.grindr.com
 shop.grindr.com
 shop.grindrbloop.com
+status.grindr.com
 cloud.com
 ap.iws.cloud.com
 eu.iws.cloud.com

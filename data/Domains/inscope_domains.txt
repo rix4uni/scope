@@ -940,6 +940,7 @@ audio.20min.ch
 api.twilio.com
 tsock.us1.twilio.com
 twilio.com
+help.twilio.com
 sendgrid.com
 app.sendgrid.com
 signup.sendgrid.com

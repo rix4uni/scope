@@ -1327,6 +1327,7 @@ support.wix.com
 selfservice.grindr.com
 shop.grindr.com
 shop.grindrbloop.com
+status.grindr.com
 cloud.com
 ap.iws.cloud.com
 eu.iws.cloud.com
@@ -2571,6 +2572,7 @@ fleet.infra.robinhood.net
 content.research.robinhood.com
 shop.robinhood.com
 events.robinhood.com
+vgs-api.robinhood.com
 saytechnologies.com
 simscale.com
 app.rental-images.sixt.com

@@ -162,6 +162,7 @@ fleet.infra.robinhood.net
 content.research.robinhood.com
 shop.robinhood.com
 events.robinhood.com
+vgs-api.robinhood.com
 saytechnologies.com
 simscale.com
 app.rental-images.sixt.com
