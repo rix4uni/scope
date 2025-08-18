@@ -673,6 +673,11 @@ techapps.t-mobile.com
 *.mobile.uscc.net
 *.mobile.uscc.com
 *.uscellular.com
+abo.inscopedomain.ch
+login.inscopedomain.ch
+auth.inscopedomain.ch
+tgt.inscopedomain.ch
+shop.inscopedomain.ch
 employeefeedback.tesla.com
 energysupport.tesla.com
 bugbounty.zoho.com
