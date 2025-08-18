@@ -21,6 +21,11 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
+help.capital.com
+relocate-with-us.capital.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be

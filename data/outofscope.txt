@@ -537,6 +537,9 @@ online.*.skybingo.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
@@ -1583,6 +1586,7 @@ investwithpurpose.fidelity.com
 jobs.fidelity.com
 labs.fidelity.com
 metrics.fidelity.com
+research2.fidelity.com
 reviews.fidelity.com
 reviews.retail.fidelity.com
 sitecatalyst.fidelity.com
@@ -3074,6 +3078,8 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com

@@ -970,6 +970,7 @@ investwithpurpose.fidelity.com
 jobs.fidelity.com
 labs.fidelity.com
 metrics.fidelity.com
+research2.fidelity.com
 reviews.fidelity.com
 reviews.retail.fidelity.com
 sitecatalyst.fidelity.com
@@ -2461,6 +2462,8 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com

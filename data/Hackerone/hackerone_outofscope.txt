@@ -410,6 +410,7 @@ investwithpurpose.fidelity.com
 jobs.fidelity.com
 labs.fidelity.com
 metrics.fidelity.com
+research2.fidelity.com
 reviews.fidelity.com
 reviews.retail.fidelity.com
 sitecatalyst.fidelity.com
