@@ -526,6 +526,7 @@ online.*.skybingo.com
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -542,6 +543,7 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -553,6 +555,9 @@ online.*.skybingo.com
 *.configuratoren.nl
 *.oisl.gg
 *.vectus.in
+*.pdq.com
+*.simplemdm.com
+*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com
@@ -3083,6 +3088,18 @@ pop.buhlergroup.cn
 smtp.buhlergroup.cn
 help.capital.com
 relocate-with-us.capital.com
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
