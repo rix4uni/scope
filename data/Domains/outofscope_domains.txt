@@ -455,7 +455,9 @@ auth.api.originenergy.com.au
 origin-energy.formstack.com
 solarquotes.com.au
 manufacturers.solarquotes.com.au
+api.quizlet.com
 help.quizlet.com
+get.quizlet.com
 community.rapyd.net
 support.rapyd.net
 docs.rapyd.net
