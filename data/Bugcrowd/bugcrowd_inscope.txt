@@ -223,6 +223,10 @@ app-qa.chime.com
 *.saltlabs.com
 app.saltlabs.com
 app.staging.saltlabs.com
+chipotle.com
+chipotle.co.uk
+catering.chipotle.com
+services.chipotle.com
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
