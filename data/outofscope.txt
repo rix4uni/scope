@@ -559,6 +559,9 @@ online.*.skybingo.com
 *.monzo.me
 *.oisl.gg
 *.vectus.in
+*.pdq.com
+*.simplemdm.com
+*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com
@@ -3194,6 +3197,7 @@ tech.ovoenergy.com
 testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
+detect.pdq.tools
 personio.de
 personio.slack.com
 statuspage.personio.de

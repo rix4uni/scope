@@ -1,4 +1,5 @@
-chipotle.com
-chipotle.co.uk
-catering.chipotle.com
-services.chipotle.com
+a.simplemdm.com
+auth2.pdq.tools
+library-staging.pdq.tools
+houston-staging.pdq.tools
+portal-staging.pdq.tools
