@@ -470,6 +470,9 @@ online.*.skybingo.com
 *.gocd.org
 *.ruby-lang.org
 *.github.io
+*.home.bargains
+*.homebargains.co.uk
+*.tjmorris.co.uk
 *.ali.zomans.com
 *.bstro.io
 *.zomatoportugal.com
@@ -543,6 +546,7 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -555,6 +559,9 @@ online.*.skybingo.com
 *.monzo.me
 *.oisl.gg
 *.vectus.in
+*.pdq.com
+*.simplemdm.com
+*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com

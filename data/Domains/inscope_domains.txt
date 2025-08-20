@@ -3218,6 +3218,7 @@ classroom.github.com
 education.github.com
 gist.github.com
 npmjs.org
+signin-hackerone.hbstaging.website
 api.grofers.com
 api2.grofers.com
 bistro-api.blinkit.com
@@ -3609,6 +3610,14 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -3736,6 +3745,12 @@ no.kolonial.tienda
 se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+a.simplemdm.com
+auth2.pdq.tools
+library-staging.pdq.tools
+detect.pdq.tools
+houston-staging.pdq.tools
+portal-staging.pdq.tools
 api.personio-dev.com
 api.personio.com
 community.personio.com
