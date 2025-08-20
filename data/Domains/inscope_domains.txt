@@ -1695,12 +1695,6 @@ mpa.ekyc.selfregister.m-pesa.com
 mpa.qr.web.m-pesa.com
 openapi.m-pesa.com
 openapiportal.m-pesa.com
-sandbox-api.fireblocks.io
-sb-console-api.fireblocks.io
-sb-mobile-api.fireblocks.io
-sandbox.fireblocks.io
-info.fireblocks.com
-developers.fireblocks.com
 testing.md
 metamask.io
 docs.metamask.io
