@@ -1471,6 +1471,8 @@ ht.visa.com
 myvisainfinite.com
 myvisacardportal.com
 visa.com.az
+infinite.visa.fr
+my.visa.fr
 sandbox.authorize.net
 sandbox.secure.checkout.visa.com
 test.payworks.io
@@ -1521,7 +1523,9 @@ visa.com.sg
 visa.com.tr
 visa.com.tw
 visa.com.vn
+visa.fr
 visainfinite.ca
+visamiddleeast.com
 yellowpepper.com
 bioid-management.app
 developer.worldcoin.org

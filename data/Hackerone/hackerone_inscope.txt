@@ -419,6 +419,7 @@ pullandbear.cn
 massimodutti.cn
 static.zara.com
 chrome.google.com
+*.visamiddleeast.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -436,6 +437,8 @@ ht.visa.com
 myvisainfinite.com
 myvisacardportal.com
 visa.com.az
+infinite.visa.fr
+my.visa.fr
 sandbox.authorize.net
 sandbox.secure.checkout.visa.com
 test.payworks.io
@@ -486,7 +489,9 @@ visa.com.sg
 visa.com.tr
 visa.com.tw
 visa.com.vn
+visa.fr
 visainfinite.ca
+visamiddleeast.com
 yellowpepper.com
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
