@@ -241,6 +241,11 @@ affiliates.superbet.rs
 surveys.superbet.com
 legacy-web.superbet.ro
 retail.prod.incubator.superbet.ro
+lp.superbet.bet.br
+lp.superbet.com
+lp.superbet.pl
+lp.superbet.ro
+lp.superbet.rs
 blog.magiceden.io
 cdn.magiceden.dev
 eng.magiceden.dev

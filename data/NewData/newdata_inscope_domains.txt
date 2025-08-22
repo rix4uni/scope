@@ -1,5 +1,8 @@
-defi.ripio.com
-auth.ripio.com
-app.ripio.com
-kyc.ripio.com
-trade.ripio.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com

@@ -1,1 +1,1 @@
-*ripiotrade.co
+*.datacamp.com
