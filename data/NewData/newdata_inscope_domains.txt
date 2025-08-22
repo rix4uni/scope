@@ -1,4 +1,5 @@
-infinite.visa.fr
-my.visa.fr
-visa.fr
-visamiddleeast.com
+defi.ripio.com
+auth.ripio.com
+app.ripio.com
+kyc.ripio.com
+trade.ripio.com

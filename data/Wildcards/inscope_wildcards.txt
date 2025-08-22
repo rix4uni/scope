@@ -420,6 +420,7 @@ sip.*.twilio.com
 *.university.mongodb.com
 *.blog.mongodb.com
 *.api.mongodb.com
+*ripiotrade.co
 *.deribit.com
 *.hilton.com
 *.hilton.io

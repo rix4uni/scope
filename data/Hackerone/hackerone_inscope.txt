@@ -811,6 +811,13 @@ artifactory.corp.mongodb.com
 *.blog.mongodb.com
 *.api.mongodb.com
 mongodb.live
+*ripiotrade.co
+itunes.apple.com
+defi.ripio.com
+auth.ripio.com
+app.ripio.com
+kyc.ripio.com
+trade.ripio.com
 *.deribit.com
 insights.deribit.com
 pb.deribit.com
@@ -1192,7 +1199,6 @@ work.8x8.com
 *.watsons.com.tr
 *.watsons.com.tw
 *.watsons.vn
-itunes.apple.com
 api.drogas.lt
 api.drogas.lv
 api.fortress.com.hk
