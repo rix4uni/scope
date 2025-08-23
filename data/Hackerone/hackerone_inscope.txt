@@ -2168,6 +2168,7 @@ goodrx.com
 m.goodrx.com
 api.ort-one-pingone.com
 apps.ort-one-pingone.com
+auth.ort-one-pingone.com
 console.ort-one-pingone.com
 openam-bug-bounty-stag.forgeblocks.com
 backstage.forgerock.com

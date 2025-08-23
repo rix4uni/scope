@@ -4040,6 +4040,7 @@ goodrx.com
 m.goodrx.com
 api.ort-one-pingone.com
 apps.ort-one-pingone.com
+auth.ort-one-pingone.com
 console.ort-one-pingone.com
 openam-bug-bounty-stag.forgeblocks.com
 backstage.forgerock.com
@@ -5049,6 +5050,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 aweb.suivo.com
 asupport.suivo.com
 tempo-team.be
