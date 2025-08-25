@@ -109,9 +109,6 @@ casino.*.betmgm.com
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
-*.imperva.com
-*.cloudvector.com
-*.incapsula.com
 *.indeed.com
 *.indeedflex.com
 *.indeed.tech
@@ -1472,8 +1469,6 @@ link.x.immutable.com
 market.immutable.com
 docs.immutable.com
 imx.community
-cloudvector.com
-supportportal.thalesgroup.com
 indeed.com
 apis.indeed.com
 resume.com

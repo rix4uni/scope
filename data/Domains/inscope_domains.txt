@@ -306,8 +306,6 @@ link.x.immutable.com
 market.immutable.com
 docs.immutable.com
 imx.community
-cloudvector.com
-supportportal.thalesgroup.com
 indeed.com
 apis.indeed.com
 resume.com
