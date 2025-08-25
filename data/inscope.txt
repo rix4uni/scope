@@ -269,6 +269,7 @@ np.*.lfscnp.com
 *.sprint.com
 *.uscc.net
 *.uscc.com
+*.uscellular.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
@@ -5035,13 +5036,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 aweb.suivo.com
 asupport.suivo.com
 tempo-team.be

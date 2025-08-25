@@ -148,7 +148,6 @@ auth.*.latitudefinancial.com
 *.sprint.net
 *.mobile.uscc.net
 *.mobile.uscc.com
-*.uscellular.com
 *.engage.tesla.com
 argocd.*.uidapi.com
 *.skilljarapp.com
@@ -2508,10 +2507,6 @@ feedback.databricks.com
 forums.databricks.com
 go.databricks.com
 databricks-prod-cloudfront.cloud.databricks.com
-blog.thecoalition.com
-security.md
-help.thecoalition.com
-thecoalition.com
 buy.elastic.co
 community.elastic.co
 discuss.elastic.co

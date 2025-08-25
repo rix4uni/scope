@@ -1135,6 +1135,7 @@ clients.adstruc.com
 demo.adstruc.com
 *.uscc.net
 *.uscc.com
+*.uscellular.com
 tagesanzeiger.ch
 biocorellc.com
 tempus-ex.com

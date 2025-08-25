@@ -674,7 +674,6 @@ itunes.apple.com
 techapps.t-mobile.com
 *.mobile.uscc.net
 *.mobile.uscc.com
-*.uscellular.com
 abo.inscopedomain.ch
 login.inscopedomain.ch
 auth.inscopedomain.ch

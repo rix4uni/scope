@@ -269,6 +269,7 @@ np.*.lfscnp.com
 *.sprint.com
 *.uscc.net
 *.uscc.com
+*.uscellular.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
