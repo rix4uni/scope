@@ -58,7 +58,7 @@ cat data/Bugcrowd/bugcrowd_github_repo_outofscope.txt data/Hackerone/hackerone_g
 # Generating Last Update data
 cat data/Wildcards/inscope_wildcards.txt | unew -el -t -i old_data/Wildcards/inscope_wildcards.txt | unew -el -t -i -q data/NewData/newdata_inscope_wildcards.txt && [ ! -s data/NewData/newdata_inscope_wildcards.txt ] && cat old_data/NewData/newdata_inscope_wildcards.txt | unew -el -t -i -q data/NewData/newdata_inscope_wildcards.txt
 cat data/Domains/inscope_domains.txt | unew -el -t -i old_data/Domains/inscope_domains.txt | unew -el -t -i -q data/NewData/newdata_inscope_domains.txt && [ ! -s data/NewData/newdata_inscope_domains.txt ] && cat old_data/NewData/newdata_inscope_domains.txt | unew -el -t -i -q data/NewData/newdata_inscope_domains.txt
-cat data/GithubRepo/inscope_github_repo.txt | unew -el -t -i old_data/GithubRepo/inscope_github_repo.txt | unew -el -t -i -q data/NewData/inscope_github_repo.txt && [ ! -s data/NewData/inscope_github_repo.txt ] && cat old_data/NewData/inscope_github_repo.txt | unew -el -t -i -q data/NewData/inscope_github_repo.txt
+cat data/GithubRepo/inscope_github_repo.txt | unew -el -t -i old_data/GithubRepo/inscope_github_repo.txt | unew -el -t -i -q data/NewData/newdata_inscope_github_repo.txt && [ ! -s data/NewData/newdata_inscope_github_repo.txt ] && cat old_data/NewData/newdata_inscope_github_repo.txt | unew -el -t -i -q data/NewData/newdata_inscope_github_repo.txt
 
 cat data/Wildcards/inscope_wildcards.txt data/Domains/inscope_domains.txt | unew -el -t -i -q data/inscope.txt
 cat data/Wildcards/outofscope_wildcards.txt data/Domains/outofscope_domains.txt | unew -el -t -i -q data/outofscope.txt
