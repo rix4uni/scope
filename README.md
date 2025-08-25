@@ -8,6 +8,9 @@ This repo maintain's in-scope and out-of-scope
 - #### Domains
   - [newdata_inscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/NewData/newdata_inscope_domains.txt)
 
+- #### GithubRepo
+  - [newdata_inscope_github_repo.txt](https://github.com/rix4uni/scope/blob/main/data/NewData/newdata_inscope_github_repo.txt)
+
 
 #### AllData:
 - #### All inscope
@@ -25,6 +28,10 @@ This repo maintain's in-scope and out-of-scope
 - #### Domains:
   - [inscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/Domains/inscope_domains.txt)
   - [outofscope_domains.txt](https://github.com/rix4uni/scope/blob/main/data/Domains/outofscope_domains.txt)
+ 
+- #### GithubRepo:
+  - [inscope_github_repo.txt](https://github.com/rix4uni/scope/blob/main/data/GithubRepo/inscope_github_repo.txt)
+  - [outofscope_github_repo.txt](https://github.com/rix4uni/scope/blob/main/data/GithubRepo/outofscope_github_repo.txt)
 
 
 #### Platform Based files:
@@ -32,17 +39,29 @@ This repo maintain's in-scope and out-of-scope
   - [bugcrowd_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Bugcrowd/bugcrowd_inscope.txt)
   - [bugcrowd_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Bugcrowd/bugcrowd_outofscope.txt)
 
+  - [bugcrowd_github_repo_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Bugcrowd/bugcrowd_github_repo_inscope.txt)
+  - [bugcrowd_github_repo_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Bugcrowd/bugcrowd_github_repo_outofscope.txt)
+
 - #### Hackerone:
   - [hackerone_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Hackerone/hackerone_inscope.txt)
   - [hackerone_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Hackerone/hackerone_outofscope.txt)
+ 
+  - [hackerone_github_repo_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Hackerone/hackerone_github_repo_inscope.txt)
+  - [hackerone_github_repo_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Hackerone/hackerone_github_repo_outofscope.txt)
 
 - #### Intigriti:
   - [intigriti_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Intigriti/intigriti_inscope.txt)
   - [intigriti_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Intigriti/intigriti_outofscope.txt)
+ 
+  - [intigriti_github_repo_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Intigriti/intigriti_github_repo_inscope.txt)
+  - [intigriti_github_repo_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Intigriti/intigriti_github_repo_outofscope.txt)
 
 - #### Yeswehack:
   - [yeswehack_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Yeswehack/yeswehack_inscope.txt)
   - [yeswehack_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Yeswehack/yeswehack_outofscope.txt)
+ 
+  - [yeswehack_github_repo_inscope.txt](https://github.com/rix4uni/scope/blob/main/data/Yeswehack/yeswehack_github_repo_inscope.txt)
+  - [yeswehack_github_repo_outofscope.txt](https://github.com/rix4uni/scope/blob/main/data/Yeswehack/yeswehack_github_repo_outofscope.txt)
 
 ## 📌 References
 - https://github.com/arkadiyt/bounty-targets-data
