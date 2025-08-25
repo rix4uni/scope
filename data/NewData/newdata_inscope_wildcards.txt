@@ -1,1 +1,3 @@
-*.datacamp.com
+*.imperva.com
+*.cloudvector.com
+*.incapsula.com

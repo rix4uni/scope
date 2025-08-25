@@ -306,6 +306,8 @@ link.x.immutable.com
 market.immutable.com
 docs.immutable.com
 imx.community
+cloudvector.com
+supportportal.thalesgroup.com
 indeed.com
 apis.indeed.com
 resume.com
@@ -3772,8 +3774,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz

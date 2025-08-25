@@ -109,6 +109,9 @@ casino.*.betmgm.com
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
+*.imperva.com
+*.cloudvector.com
+*.incapsula.com
 *.indeed.com
 *.indeedflex.com
 *.indeed.tech
@@ -1032,8 +1035,6 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com
@@ -1469,6 +1470,8 @@ link.x.immutable.com
 market.immutable.com
 docs.immutable.com
 imx.community
+cloudvector.com
+supportportal.thalesgroup.com
 indeed.com
 apis.indeed.com
 resume.com
@@ -4935,8 +4938,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz

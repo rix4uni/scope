@@ -257,6 +257,8 @@ blog-parceiros.ifood.com.br
 gogbackend.com
 godsunchained.com
 ropsten.imx.community
+docs.imperva.com
+docs-be.imperva.com
 k15t.com
 k15t.de
 help.k15t.com
@@ -2515,9 +2517,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io

@@ -322,6 +322,8 @@ godsunchained.com
 *.ropsten.x.immutable.com
 ropsten.imx.community
 *.guildofguardians.com
+docs.imperva.com
+docs-be.imperva.com
 *.joralocal.com.au
 k15t.com
 k15t.de
