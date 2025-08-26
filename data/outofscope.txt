@@ -1675,10 +1675,7 @@ request-headers-no-proxy.moonpay.com
 request-headers.moonpay.com
 storefront.hypermint.com
 support.moonpay.com
-7days-music.ro
 admit-it-win.cadbury.co.uk
-alpengold-promo.me
-alpengoldpromo.ge
 bournvitadfordreams.in
 cadbury-merlin.cadbury.co.uk
 cadburyeaster2025.com
@@ -1700,7 +1697,6 @@ mavieencouleurs.fr
 insights.mondelezinternationalfoodservice.com
 ippayments.com.au
 jobb.freia.no
-lajoieoreo.com
 lalandia.marabou.dk
 letschatsnacks.com
 lu.fr
