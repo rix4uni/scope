@@ -380,6 +380,7 @@ link.uma.me
 lrc20.lightspark.com
 *.bybit.com
 *.bybit.eu
+testnet.bybit.eu
 *.budgetair.com
 *.cheaptickets.nl
 *.flugladen.de

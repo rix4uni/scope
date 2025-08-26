@@ -1,1 +1,1 @@
-*.uscellular.com
+*.datacamp.com
