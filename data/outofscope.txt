@@ -3228,6 +3228,7 @@ shop.robinhood.com
 events.robinhood.com
 vgs-api.robinhood.com
 affiliates.robinhood.com
+share.robinhood.com
 saytechnologies.com
 simscale.com
 app.rental-images.sixt.com
