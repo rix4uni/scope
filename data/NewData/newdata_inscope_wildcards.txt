@@ -1,1 +1,1 @@
-*.datacamp.com
+*.bybit-tr.com

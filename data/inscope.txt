@@ -345,6 +345,7 @@ sip.*.twilio.com
 *.audible.co.jp
 *.audible.it
 *.audible.de
+*.bybit-tr.com
 *.bybit.com
 *.bybit.eu
 *.budgetair.com
@@ -5046,6 +5047,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 aweb.suivo.com
 asupport.suivo.com
 tempo-team.be

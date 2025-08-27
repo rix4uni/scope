@@ -345,6 +345,7 @@ sip.*.twilio.com
 *.audible.co.jp
 *.audible.it
 *.audible.de
+*.bybit-tr.com
 *.bybit.com
 *.bybit.eu
 *.budgetair.com
