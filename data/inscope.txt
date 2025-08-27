@@ -256,10 +256,6 @@ np.*.lfscnp.com
 *.certsynonprod.com
 *.skyscanner.net
 *.sophos.com
-*.soundcloud.org
-*.s-cloud.net
-*.soundcloud.com
-*.services.repostnetwork.com
 *.square.com
 *.squareup.com
 *.statuspage.io
@@ -1996,10 +1992,6 @@ namejet.com
 sophos.com
 central.sophos.com
 docs.sophos.com
-soundcloud.com
-connect.soundcloud.com
-artists.soundcloud.com
-soundcloud.org
 square.online
 weebly.com
 manage.statuspage.io
