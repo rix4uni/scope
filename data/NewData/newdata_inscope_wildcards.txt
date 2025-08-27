@@ -1,1 +1,4 @@
-*.bybit-tr.com
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
