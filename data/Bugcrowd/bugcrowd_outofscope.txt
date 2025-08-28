@@ -676,7 +676,6 @@ community.squareup.com
 itunes.apple.com
 *.atlassian.com
 *.sprint.net
-techapps.t-mobile.com
 *.mobile.uscc.net
 *.mobile.uscc.com
 abo.inscopedomain.ch
