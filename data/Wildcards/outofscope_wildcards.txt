@@ -276,8 +276,6 @@ db.*.supabase.co
 *.orderwindstream.com
 *.windstreamdeals.com
 *.windstreamoffers.com
-*.atlas.mongodb.com
-*.auth.mongodb.com
 *.chattest.deribit.com
 *.hiltonhotels.jp
 *.attorneyskeytitle.com

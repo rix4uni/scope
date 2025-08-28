@@ -276,8 +276,6 @@ db.*.supabase.co
 *.orderwindstream.com
 *.windstreamdeals.com
 *.windstreamoffers.com
-*.atlas.mongodb.com
-*.auth.mongodb.com
 *.chattest.deribit.com
 *.hiltonhotels.jp
 *.attorneyskeytitle.com
@@ -1570,9 +1568,7 @@ training.palantir.com
 community.modernfertility.com
 login.ro.co
 ro.co
-cloud.mongodb.com
 mongodb.com
-auth.mongodb.com
 deribit.zendesk.com
 office.deribit.com
 support.deribit.com

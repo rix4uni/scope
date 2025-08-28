@@ -375,11 +375,7 @@ ro.co
 *.orderwindstream.com
 *.windstreamdeals.com
 *.windstreamoffers.com
-*.atlas.mongodb.com
-cloud.mongodb.com
 mongodb.com
-auth.mongodb.com
-*.auth.mongodb.com
 *.chattest.deribit.com
 deribit.zendesk.com
 office.deribit.com
