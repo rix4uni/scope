@@ -528,6 +528,7 @@ online.*.skybingo.com
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -1246,6 +1247,7 @@ agentcenter.viator.com
 operatorresources.viator.com
 partnerresources.viator.com
 api.tapayments.com
+erwin.volkswagen.de
 theplaymania.com
 app.gator.com
 app.web.com

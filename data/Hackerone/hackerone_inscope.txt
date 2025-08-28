@@ -378,9 +378,9 @@ api.lightspark.com
 app.lightspark.com
 link.uma.me
 lrc20.lightspark.com
-*.bybit-tr.com
 *.bybit.com
 *.bybit.eu
+*.bybit.tr
 testnet.bybit.eu
 *.budgetair.com
 *.cheaptickets.nl

@@ -1,4 +1,2 @@
-*.soundcloud.org
-*.s-cloud.net
-*.soundcloud.com
-*.services.repostnetwork.com
+*.volkswagen.de
+*.bybit.tr
