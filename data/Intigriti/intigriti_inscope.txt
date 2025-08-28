@@ -386,7 +386,10 @@ webwinkel.trouw.nl
 trouw.nl
 *.trouw.nl
 api.truelayer
+api.mtls.truelayer
 auth.truelayer
+auth.mtls.truelayer
+app.truelayer
 login-api.truelayer
 login.truelayer
 onboarding-api.truelayer.com
@@ -394,11 +397,14 @@ pay-api.truelayer
 pay.truelayer
 paydirect.truelayer
 payment.truelayer
-payouts.truelayer
+payments-experience-api.truelayer
+user-authentication-api.truelayer
 users-api.truelayer.com
 console-backend.truelayer
 console.truelayer
-hpp.truelayer
+sftp.reports.truelayer.com
+shopify-admin.truelayer.com
+shop-pay-app-api.truelayer.com
 webhooks.truelayer
 *.truelayer.cloud
 *.truelayer.com
