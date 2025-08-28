@@ -528,7 +528,6 @@ online.*.skybingo.com
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -1077,6 +1076,11 @@ static.cms.optussport.tv
 originenergy.com.au
 auth.api.originenergy.com.au
 origin-energy.formstack.com
+compareandconnect.com.au
+agent.compareandconnect.com.au
+fastconnect.co.nz
+yourporter.com.au
+raywhitehomenow.com
 solarquotes.com.au
 manufacturers.solarquotes.com.au
 api.quizlet.com
