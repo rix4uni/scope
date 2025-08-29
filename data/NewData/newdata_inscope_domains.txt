@@ -1,8 +1,7 @@
-api.mtls.truelayer
-auth.mtls.truelayer
-app.truelayer
-payments-experience-api.truelayer
-user-authentication-api.truelayer
-sftp.reports.truelayer.com
-shopify-admin.truelayer.com
-shop-pay-app-api.truelayer.com
+nutaku.com
+nutaku.net
+xnxx.nutaku.net
+xvideos.nutaku.net
+osapi.nutaku.com
+mobileapi.nutaku.com
+gateway-api.nutaku.net

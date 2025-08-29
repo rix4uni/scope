@@ -1,2 +1,1 @@
-*.volkswagen.de
-*.bybit.tr
+*.nutakupublishing.com
