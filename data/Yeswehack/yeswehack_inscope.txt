@@ -472,7 +472,6 @@ toom.de
 api.toom.de
 prozentoomat.toom.de
 co.uk.com
-sa.com
 *.vidaxl.org
 *.vidaxl.io
 *.vidaxl.net
