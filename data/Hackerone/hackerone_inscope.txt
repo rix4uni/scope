@@ -636,8 +636,6 @@ pornworld.com
 *.luckydays.ca
 superbet.com
 *.luckydays.com
-*.magicjackpot.ro
-isj.educv.ro
 *.napoleoncasino.be
 rsolution.be
 rijksregister-nummer-generator.rsolution
@@ -649,6 +647,7 @@ rijksregister-nummer-generator.rsolution
 *.superbet.pl
 *.superbet.ro
 superbet.ro
+isj.educv.ro
 *.superbet.rs
 napoleoncasino.be
 napoleondice.be
@@ -1021,6 +1020,7 @@ m.trendyol.com
 enm.trendyol.com
 trendyol.com
 dolap.com
+tgoyemek.com
 trendyol-milla.com
 en.trendyol.com
 api.recordedfuture.com
@@ -2971,6 +2971,7 @@ airtable.com
 *.lightroom.adobe.com
 account.adobe.com
 account.magento.com
+adminconsole.adobe.com
 adobeid-na1.services.adobe.com
 auth.services.adobe.com
 contributor.stock.adobe.com

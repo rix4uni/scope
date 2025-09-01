@@ -184,6 +184,7 @@ ksuite.infomaniak.com
 api.infomaniak.com
 login.infomaniak.com
 manager.infomaniak.com
+admin2.infomaniak.com
 shop.infomaniak.com
 *.kchat.infomaniak.com
 calendar.infomaniak.com
@@ -440,6 +441,7 @@ chaire-arpenter.fr
 habileoh.com
 stats.vinci.com
 *.vidaxl.hk
+wgr-industries.com
 wbsapi.withings.net
 healthmate.withings.com
 account.withings.com
