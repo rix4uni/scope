@@ -4236,9 +4236,6 @@ supplier-connect.otto.de
 retail-api.otto.de
 api.ovh.com
 ovh.com
-help.ovhcloud.com
-agent-chat.ovh.com
-community.ovhcloud.com
 sandbox.open-xchange.com
 onedoc.ch
 pro.onedoc.ch
