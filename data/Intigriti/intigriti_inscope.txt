@@ -73,15 +73,6 @@ css-tricks.com
 justonweb.be
 *.dpgmedia.be
 *.dpgmedia.nl
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
-*.datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -226,10 +217,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz

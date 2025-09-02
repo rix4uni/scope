@@ -1383,6 +1383,7 @@ cbswag.com
 status.chaturbate.com
 support.chaturbate.com
 *.pixiv.co.jp
+ads.pixiv.net
 factory.pixiv.net
 accounts.pixiv.net
 *.affirm.com

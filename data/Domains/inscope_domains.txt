@@ -3057,6 +3057,12 @@ us1.badoo.com
 web.geneva-staging.com
 bumble.com
 geneva-staging.com
+api.omise.co
+omise.co
+dashboard.omise.co
+offsite.omise.co
+vault.omise.co
+opn.ooo
 anchor.fm
 developer.spotify.com
 support.megaphone.fm
@@ -3668,14 +3674,6 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -3774,8 +3772,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
