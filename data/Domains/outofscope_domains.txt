@@ -2323,8 +2323,10 @@ testaroom.cloud
 testaroom.com
 1psb.priceline.com
 ace-qa.corp.priceline.com
+admin.rezserver.com
 api-gnae1-poc.priceline.com
 api-guse4-poc.priceline.com
+api.rezserver.com
 availability.getaroom.com
 booking.priceline.com
 breadcrumb.getaroom.com
@@ -2351,6 +2353,8 @@ mail.corp.priceline.com
 offers.priceline.com
 qaa.booking.priceline.com
 remotecontrol.corp.priceline.com
+reservations.rezserver.com
+secure.rezserver.com
 stockroom.production.getaroom.com
 supply.getaroom.com
 tools-qaa.corp.priceline.com
