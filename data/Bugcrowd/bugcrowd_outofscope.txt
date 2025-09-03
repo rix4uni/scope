@@ -146,7 +146,6 @@ blog.coinmarketcap.com
 support.coinmarketcap.com
 blockchain.coinmarketcap.com
 *.coinmarketcap.com
-partner-marketing.bitdefender.com
 businessinsights.bitdefender.com
 businessemail.bitdefender.com
 businessresources.bitdefender.com
@@ -163,6 +162,9 @@ crp.bitdefender.com
 telcosuccess.bitdefender.com
 demo.bitdefender.com
 translate.bitdefender.com
+explore.bitdefender.com
+explore-lb.bitdefender.com
+partner-marketing.bitdefender.com
 central.bitdefender.com
 support.bitpanda.com
 maintenance.bitpanda.com
