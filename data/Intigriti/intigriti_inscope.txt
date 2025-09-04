@@ -1,4 +1,3 @@
-app.aikido.dev
 github.com
 myaccount.ad.nl
 webwinkel.ad.nl
@@ -301,15 +300,10 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 *.sqills.com
 *.sqills.team
+aweb.suivo.com
+asupport.suivo.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
@@ -333,6 +327,12 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
