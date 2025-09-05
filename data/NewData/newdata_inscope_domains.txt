@@ -1,8 +1,8 @@
-aweb.suivo.com
-asupport.suivo.com
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
