@@ -2977,7 +2977,6 @@ airtable.com
 *.lightroom.adobe.com
 account.adobe.com
 account.magento.com
-adminconsole.adobe.com
 adobeid-na1.services.adobe.com
 auth.services.adobe.com
 contributor.stock.adobe.com

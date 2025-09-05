@@ -131,6 +131,7 @@ translate.bitdefender.com
 explore.bitdefender.com
 explore-lb.bitdefender.com
 partner-marketing.bitdefender.com
+seems.gravityzone.bitdefender.com
 central.bitdefender.com
 support.bitpanda.com
 maintenance.bitpanda.com
@@ -2599,7 +2600,6 @@ vgs-api.robinhood.com
 affiliates.robinhood.com
 share.robinhood.com
 roadshow.robinhood.com
-saytechnologies.com
 simscale.com
 app.rental-images.sixt.com
 b2cleasing.typo3.sixt.de
