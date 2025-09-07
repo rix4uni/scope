@@ -995,6 +995,15 @@ sip.*.twilio.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1018,6 +1027,8 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
