@@ -992,6 +992,7 @@ sip.*.twilio.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1022,6 +1023,16 @@ sip.*.twilio.com
 *.hln.be
 *.parool.nl
 *.humo.be
+*.gamma.be
+*.gamma.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.karwei.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.libelle.nl
 *.mas.mobilevikings.be
 *.mobilevikings.be
@@ -1029,6 +1040,8 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
