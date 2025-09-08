@@ -22,7 +22,6 @@ https://github.com/ClickHouse/ClickHouse
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/freedomofpress/securedrop-client
-https://github.com/freedomofpress/securedrop-builder
 https://github.com/immutable/ts-immutable-sdk
 https://github.com/justeattakeaway
 https://github.com/electroneum/electroneum

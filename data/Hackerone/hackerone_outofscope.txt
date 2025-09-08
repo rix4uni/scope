@@ -376,6 +376,7 @@ ro.co
 *.orderwindstream.com
 *.windstreamdeals.com
 *.windstreamoffers.com
+*.windstreamsmallbusiness.com
 mongodb.com
 *.chattest.deribit.com
 deribit.zendesk.com

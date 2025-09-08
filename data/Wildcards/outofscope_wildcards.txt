@@ -276,6 +276,7 @@ db.*.supabase.co
 *.orderwindstream.com
 *.windstreamdeals.com
 *.windstreamoffers.com
+*.windstreamsmallbusiness.com
 *.chattest.deribit.com
 *.hiltonhotels.jp
 *.attorneyskeytitle.com
