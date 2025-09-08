@@ -1,1 +1,4 @@
-otk.otherside.xyz
+mcp.intercom.com
+api-iam.intercom.io
+co.uk.getmondo
+monzo.com

@@ -438,6 +438,9 @@ app.intercom.com
 *.intercomcdn.com
 app.intercom.io
 intercom.com
+mcp.intercom.com
+api-iam.intercom.io
+*.mobile-messenger.intercom.com
 aspen-ecommerce-prod.iot.irobotapi.com
 zuora-ecommerce-prod.iot.irobotapi.com
 irobot.com

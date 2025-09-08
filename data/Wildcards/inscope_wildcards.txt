@@ -118,6 +118,7 @@ casino.*.betmgm.com
 *.indeed.net
 *.intercomassets.com
 *.intercomcdn.com
+*.mobile-messenger.intercom.com
 *.jora.com
 *.jora.xyz
 *.thuisbezorgd.nl
@@ -1038,6 +1039,8 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com

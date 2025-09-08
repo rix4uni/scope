@@ -118,6 +118,7 @@ casino.*.betmgm.com
 *.indeed.net
 *.intercomassets.com
 *.intercomcdn.com
+*.mobile-messenger.intercom.com
 *.jora.com
 *.jora.xyz
 *.thuisbezorgd.nl
@@ -1038,6 +1039,8 @@ sip.*.twilio.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com
@@ -1485,6 +1488,8 @@ api.intercom.io
 app.intercom.com
 app.intercom.io
 intercom.com
+mcp.intercom.com
+api-iam.intercom.io
 aspen-ecommerce-prod.iot.irobotapi.com
 zuora-ecommerce-prod.iot.irobotapi.com
 irobot.com
@@ -4947,6 +4952,8 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
+monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
