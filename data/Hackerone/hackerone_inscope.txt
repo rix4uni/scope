@@ -753,6 +753,7 @@ demo.dynamic.xyz
 app.dynamicauth.com
 *.boredapeyachtclub.com
 *.otherside.xyz
+otk.otherside.xyz
 *.yuga.com
 *.yugalabs.io
 app.moderntreasury.com

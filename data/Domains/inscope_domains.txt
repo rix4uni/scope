@@ -1747,6 +1747,7 @@ app.dynamic.xyz
 dynamic.xyz
 demo.dynamic.xyz
 app.dynamicauth.com
+otk.otherside.xyz
 app.moderntreasury.com
 cdn.moderntreasury.com
 m-pesa.africa
