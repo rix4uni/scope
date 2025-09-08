@@ -873,6 +873,7 @@ api.frontegg.com
 portal.frontegg.com
 servicos.indrive.com
 sinet.startup.indriver
+super-services.indriverapp.com
 engineering.rei.com
 rei.gladly.com
 reicasting.com

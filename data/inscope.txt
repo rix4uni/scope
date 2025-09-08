@@ -2868,6 +2868,7 @@ ab-platform-api.eu-east-1.indriverapp.com
 alternativa.film
 auroratechaward.com
 cargo.indrive.com
+couriers.indrive.com
 debug.clairvoyance.indrive.tech
 external.indrive.dev
 file-storage-front.eu-east-1.indriverapp.com
