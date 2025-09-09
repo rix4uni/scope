@@ -813,6 +813,10 @@ openai.org
 openai.com
 *.openai.com
 platform.openai.com
+opensea.io
+wallet.opensea.io
+io.opensea
+etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
