@@ -819,6 +819,8 @@ us.iws.cloud.com
 accounts-internal.cloud.com
 citrix.cloud.com
 launch.cloud.com
+xvcams.com
+xvlivecams.com
 c21.hk
 century21.hk
 *.afadvantage.gov
