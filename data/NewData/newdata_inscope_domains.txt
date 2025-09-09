@@ -1,3 +1,8 @@
-opensea.io
-wallet.opensea.io
-io.opensea
+id.unity.com
+api.unity.com
+cloud.unity.com
+store.unity.com
+pay.unity.com
+player-login.unity.com
+unity3d.com
+services.unity.com
