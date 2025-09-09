@@ -1778,10 +1778,6 @@ chat.openai.com
 openai.org
 openai.com
 platform.openai.com
-opensea.io
-wallet.opensea.io
-io.opensea
-etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -4049,6 +4045,7 @@ app.mona.co
 developer-api.crypto.com
 developer-platform-api.crypto.com
 developer.crypto.com
+etherscan.io
 js.crypto.com
 merchant.crypto.com
 nadex.com
