@@ -396,6 +396,7 @@ sip.*.twilio.com
 *.indrive.com
 *.indriver.com
 *.indriverapp.com
+cf.*.aws.indriverapp
 *.indriver.io
 *.eu-east-1.indriverapp.com
 *.boredapeyachtclub.com
@@ -1041,6 +1042,8 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com

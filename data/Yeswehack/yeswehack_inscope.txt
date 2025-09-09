@@ -416,6 +416,7 @@ vfsevisa.id
 cicforms.mioot.com
 svtselb.tasheer.com
 vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites.net
+vfsforms.mioot.com
 vinci.com
 leonard.vinci.com
 castor.vinci.com
