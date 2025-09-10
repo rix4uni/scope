@@ -1,3 +1,6 @@
-cf.*.aws.indriverapp
-*.ninjakiwi.me
-*.nkstatic.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net

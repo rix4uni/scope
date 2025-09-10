@@ -667,6 +667,8 @@ playback.soundcloud.com
 jobs.soundcloud.com
 playerone.soundcloud.com
 support.soundcloud.org
+vaix.ai
+api-docs.vaix.ai
 afterpay.com
 *.afterpay.com
 cash.me

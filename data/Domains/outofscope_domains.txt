@@ -524,6 +524,8 @@ playback.soundcloud.com
 jobs.soundcloud.com
 playerone.soundcloud.com
 support.soundcloud.org
+vaix.ai
+api-docs.vaix.ai
 afterpay.com
 cash.me
 designers.weebly.com
@@ -2547,8 +2549,6 @@ status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
 nexuzhealth.com
-store.ninjakiwi.com
-support.ninjakiwi.com
 qs.ovotech.org.uk
 appsfwd.ovoenergy.com
 askovo.net
