@@ -1,1 +1,2 @@
-https://github.com/ProjectOpenSea/seaport
+https://github.com/leather-wallet/desktop
+https://github.com/leather-wallet/extension
