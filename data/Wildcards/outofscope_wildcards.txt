@@ -268,8 +268,6 @@ db.*.supabase.co
 *.thomasbuildbuses.com
 *.api.cx.metamask.io
 *.metamask.io
-*.floqast.com
-*.floqast.studio
 *.ro.co
 *.windstreambundledeals.com
 *.getwindstream.com
