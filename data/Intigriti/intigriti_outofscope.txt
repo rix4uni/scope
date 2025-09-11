@@ -26,6 +26,7 @@ smtp.buhlergroup.cn
 *education.backend-capital.com
 help.capital.com
 relocate-with-us.capital.com
+*.dyn.edpnet.net
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
