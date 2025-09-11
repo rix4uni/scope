@@ -1330,7 +1330,6 @@ itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
 cash.app
-foreignaffairs.com
 cfr.org
 thinkglobalhealth.org
 education.cfr.org

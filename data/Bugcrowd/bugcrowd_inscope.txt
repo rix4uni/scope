@@ -205,7 +205,6 @@ api-prod.retailsso.com
 cash.app
 *.cash.app
 *.cashstaging.app
-foreignaffairs.com
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
