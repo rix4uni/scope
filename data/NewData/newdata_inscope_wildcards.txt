@@ -1,1 +1,1 @@
-*.kucoin.com
+*.datacamp.com
