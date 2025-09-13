@@ -543,6 +543,7 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -553,6 +554,7 @@ online.*.skybingo.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
+*.monzo.me
 *.oisl.gg
 *.vectus.in
 *.pdq.com
