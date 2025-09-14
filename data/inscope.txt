@@ -959,6 +959,9 @@ cf.*.aws.indriverapp
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
 *.ad.nl
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.hey.bild.de
 *.auth.bild.de
 *.sportbild.de
