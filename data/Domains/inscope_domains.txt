@@ -3300,9 +3300,8 @@ bistro-api.blinkit.com
 blinkit.com
 winecellar.zomato.com
 gitlab.torproject.org
-trac.torproject.org
 torproject.org
-f4amtbsowhix7rrf.onion
+umj4zbqdfcyevlkgqgpq6foxk3z75zzxsbgt5jqmfxofrbrjh3crbnad.onion
 api.deriv.com
 app.deriv.com
 cashier.deriv.com

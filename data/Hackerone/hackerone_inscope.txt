@@ -2777,9 +2777,8 @@ blinkit.com
 *.grofers.com
 winecellar.zomato.com
 gitlab.torproject.org
-trac.torproject.org
 torproject.org
-f4amtbsowhix7rrf.onion
+umj4zbqdfcyevlkgqgpq6foxk3z75zzxsbgt5jqmfxofrbrjh3crbnad.onion
 *.binary.com
 *.deriv.cloud
 *.deriv.com
