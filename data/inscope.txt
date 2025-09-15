@@ -1126,6 +1126,7 @@ cf.*.aws.indriverapp
 *.dropxl.com
 *.wholesalexl.com
 *.gopayapi.com
+*.go-pay.co.id
 *.gov.sg
 *.jbl.com
 *.harmanaudio.com
@@ -5366,6 +5367,9 @@ payment.vladcazino.ro
 pci.kindredgroup.com
 32red.com
 cdn.unicdn.net
+api.gojek.co.id
+gopaymerchant.midtrans.com
+mokapos.com
 events.onecloud.harman.com
 ota.onecloud.harman.com
 apis.onecloud.harman.com

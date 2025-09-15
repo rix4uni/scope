@@ -1126,6 +1126,7 @@ cf.*.aws.indriverapp
 *.dropxl.com
 *.wholesalexl.com
 *.gopayapi.com
+*.go-pay.co.id
 *.gov.sg
 *.jbl.com
 *.harmanaudio.com

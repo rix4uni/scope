@@ -157,10 +157,14 @@ pci.kindredgroup.com
 32red.com
 cdn.unicdn.net
 *.gojekapi.com
+api.gojek.co.id
 *.grwtrading.com
 *.dropxl.com
 *.wholesalexl.com
 *.gopayapi.com
+gopaymerchant.midtrans.com
+mokapos.com
+*.go-pay.co.id
 *.gov.sg
 *.jbl.com
 *.harmanaudio.com
