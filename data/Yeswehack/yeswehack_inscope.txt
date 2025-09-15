@@ -54,6 +54,8 @@ pprd.cybermalveillance.gouv.fr
 demarches-simplifiees.fr
 static.demarches-simplifiees.fr
 github.com
+identite-sandbox.proconnect.gouv.fr
+test.identite.proconnect.gouv.fr
 tchap.gouv.fr
 matrix.agent.tchap.gouv.fr
 matrix.agent

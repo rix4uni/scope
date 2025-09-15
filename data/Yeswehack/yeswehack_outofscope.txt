@@ -68,6 +68,7 @@ encrypt.dana.id
 doc.demarches-simplifiees.fr
 beta.gouv.fr
 demarches-simplifiees.fr
+test.identite.proconnect.gouv.fr
 dracoon.com
 *.dracoon.com
 *.dracoon.net
