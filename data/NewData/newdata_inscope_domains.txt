@@ -1,5 +1,1 @@
-app.easy4ipcloud.com
-partnerapi.imoulife.com
-imou.com
-glow.imoulife.com
-hg.easy4ipcloud.com
+app.aikido.dev
