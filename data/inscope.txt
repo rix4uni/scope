@@ -1048,8 +1048,6 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.ninjakiwi.me
-*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -5009,18 +5007,6 @@ mobile.nexuzhealth.be
 mynexuz.be
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
-analytics.ninjakiwi.com
-api.ninjakiwi.com
-guts.ninjakiwi.com
-battles.tv
-data.ninjakiwi.com
-ninja.kiwi
-ninjakiwi.com
-alerts.ninjakiwi.com
-boomer2.ninjakiwi.com
-ct.ninjakiwi.com
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
 mathem.se
 oda.com
 no.kolonial.tienda
