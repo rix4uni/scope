@@ -1,4 +1,1 @@
-*.monzo.com
-*.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
+*.easy4ipcloud.com

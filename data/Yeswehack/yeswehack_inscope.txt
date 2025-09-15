@@ -185,6 +185,12 @@ apis.onecloud.harman.com
 edgeapis.onecloud.harman.com
 tms.onecloud.harman.com
 quantum-events.onecloud.harman.com
+app.easy4ipcloud.com
+*.easy4ipcloud.com
+partnerapi.imoulife.com
+imou.com
+glow.imoulife.com
+hg.easy4ipcloud.com
 ksuite.infomaniak.com
 *.kdrive.infomaniak.com
 api.infomaniak.com

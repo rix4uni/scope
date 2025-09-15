@@ -1464,6 +1464,7 @@ lp.superbet.com
 lp.superbet.pl
 lp.superbet.ro
 lp.superbet.rs
+test.epic.superbet.ro
 blog.magiceden.io
 cdn.magiceden.dev
 eng.magiceden.dev

@@ -1,9 +1,5 @@
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
-identite-sandbox.proconnect.gouv.fr
-test.identite.proconnect.gouv.fr
+app.easy4ipcloud.com
+partnerapi.imoulife.com
+imou.com
+glow.imoulife.com
+hg.easy4ipcloud.com
