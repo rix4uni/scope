@@ -2013,12 +2013,6 @@ booking.beachbound.com
 booking.cheapcaribbean.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
-holidays-au.fijiairways.com
-holidays-fj.fijiairways.com
-holidays-hk.fijiairways.com
-holidays-nz.fijiairways.com
-holidays-sg.fijiairways.com
-holidays-us.fijiairways.com
 hyatt.com
 jira.hyattdev.com
 login.vaxvacationaccess.com
