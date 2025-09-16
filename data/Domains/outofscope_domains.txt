@@ -656,6 +656,10 @@ zola.com
 homestore.zola.com
 vendor.zola.com
 baby.zola.com
+admin.docusign.com
+app.docusign.com
+docusign.net
+rooms.docusign.com
 blog.thenorthface.com.br
 jansport.ca
 jansport.cl

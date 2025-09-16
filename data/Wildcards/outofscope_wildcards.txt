@@ -199,6 +199,7 @@ argocd.*.uidapi.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
+*.account.docusign.com
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl
