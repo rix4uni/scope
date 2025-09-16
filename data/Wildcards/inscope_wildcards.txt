@@ -993,6 +993,7 @@ cf.*.aws.indriverapp
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1123,7 +1124,6 @@ cf.*.aws.indriverapp
 *.xvtest.net
 *.xvservice.net
 *.polymoon.it
-*.ys7.com
 *.gojekapi.com
 *.grwtrading.com
 *.dropxl.com

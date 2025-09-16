@@ -1,1 +1,1 @@
-*.eternal.com
+*.datacamp.com
