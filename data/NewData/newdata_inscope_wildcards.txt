@@ -1,2 +1,1 @@
-*.algolia.net
-*.algolianet.com
+*.acorns.com

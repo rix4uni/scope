@@ -1,3 +1,4 @@
+*.acorns.com
 *.afterpay.com
 portalapi.*.afterpay.com
 *.arlo.com
@@ -1182,6 +1183,10 @@ cf.*.aws.indriverapp
 *.vidaxl.net
 data-api.coindesk.com
 tools-api.cryptocompare.com
+acorns.com
+graphql.acorns.com
+gohenry.com
+pixpay.fr
 portal.afterpay.com
 afterpay.com
 mobileapi.afterpay.com
@@ -1655,6 +1660,20 @@ malloftheemirates.com
 api.mafshoppingmalls.com
 premogiftcards.com
 identity.majidalfuttaim.com
+mastercard.us
+mastercard.ch
+mastercard.com.au
+mastercard.nl
+developer.mastercard.com
+donate.mastercard.com
+demo.priceless.com
+priceless.com
+performancemarketing.mastercard.com
+src.mastercard.com
+masterpassteststore.com
+finicity.com
+consumer.finicityreports.com
+pioneer.truata.com
 mattermost.com
 mgm.mo
 booking.mgm.mo

@@ -1,3 +1,7 @@
+acorns.com
+graphql.acorns.com
+gohenry.com
+pixpay.fr
 mastercard.us
 mastercard.ch
 mastercard.com.au
