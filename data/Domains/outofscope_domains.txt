@@ -1235,6 +1235,10 @@ sm-php-smid.slotomania.com
 sm-php-smid-va2.slotomania.com
 vs-fb-php-p1.playtika.com
 sm-php.playtika.com
+expertconnect.support
+next-app.expertconnect.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 account-reader.tide.co
 admin.tide.co
 community.tide.co
