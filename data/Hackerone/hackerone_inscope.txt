@@ -2467,12 +2467,6 @@ us1.badoo.com
 web.geneva-staging.com
 bumble.com
 geneva-staging.com
-api.omise.co
-omise.co
-dashboard.omise.co
-offsite.omise.co
-vault.omise.co
-opn.ooo
 *.atspotify.com
 *.avecspotify.com
 *.byspotify.com
