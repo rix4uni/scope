@@ -78,6 +78,9 @@ auth.*.latitudefinancial.com
 *.airflow.limeinternal.com
 *.limeinternal.com
 *.lime.bike
+*.filestack.com
+*.blstr.xyz
+*.blstr.co
 *.lululemon.cn
 *.lululemon.me
 *.myfitnesspal.com
