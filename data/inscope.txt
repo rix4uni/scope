@@ -82,9 +82,6 @@ casino.*.betmgm.com
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
 *.beautyexpert.com
 *.dermstore.com
 *.espaskincare.com
@@ -1321,6 +1318,9 @@ bitso.com
 nvio.mx
 nvio.ar
 bitstamp.net
+blockchain.com
+api.blockchain.info
+ws.blockchain.info
 taxify.eu
 bolt.eu
 docs.bugcrowd.com
@@ -1416,11 +1416,6 @@ internal.exoscale.ch
 sks-ch-gva-2.exo.io
 financialforce.com
 fivetran.com
-flo.uri.sh
-flourish.studio
-xyzbmojn.net
-flourish-user-templates.com
-flourish-user-preview.com
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
