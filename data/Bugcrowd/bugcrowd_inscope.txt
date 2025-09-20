@@ -175,9 +175,6 @@ nvio.mx
 nvio.ar
 bitstamp.net
 *.bitstamp.net
-blockchain.com
-api.blockchain.info
-ws.blockchain.info
 taxify.eu
 *.taxify.eu
 bolt.eu
@@ -321,6 +318,14 @@ financialforce.com
 *.certinia.com
 fivetran.com
 *.fivetran.com
+flo.uri.sh
+flourish.studio
+*.flourish.studio
+xyzbmojn.net
+*.xyzbmojn.net
+flourish-user-templates.com
+flourish-user-preview.com
+*.kiln.it
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
