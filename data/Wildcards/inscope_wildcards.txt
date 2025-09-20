@@ -258,6 +258,10 @@ np.*.lfscnp.com
 *.certsynonprod.com
 *.skyscanner.net
 *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
 *.square.com
 *.squareup.com
 *.statuspage.io
