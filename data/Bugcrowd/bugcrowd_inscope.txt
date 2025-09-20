@@ -175,6 +175,9 @@ nvio.mx
 nvio.ar
 bitstamp.net
 *.bitstamp.net
+blockchain.com
+api.blockchain.info
+ws.blockchain.info
 taxify.eu
 *.taxify.eu
 bolt.eu
