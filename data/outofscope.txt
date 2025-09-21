@@ -165,14 +165,6 @@ argocd.*.uidapi.com
 *.bokun.com
 *.bokun.app
 *.bokun.eu
-*.connect.ringier.ch
-*.onelog.ch
-*.20min-tv.ch
-*.newsnetz.tv
-*.appuser.ch
-*.iagentur.ch
-*.streamboat.ch
-*.streamboatserver.ch
 *.rc.viator.com
 *.sandbox.viator.com
 *.partner.viator.com
@@ -1196,10 +1188,6 @@ spotlight-dev.tripadvisor.com
 spotlight.tripadvisor
 careers.tripadvisor.com
 travelermail.com
-tgt.tamedia.ch
-auth.20min.ch
-cre-api.tamedia.ch
-track.20min.ch
 lab.authy.com
 zipwhip.com
 twil.io
