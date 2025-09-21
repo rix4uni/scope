@@ -536,9 +536,6 @@ online.*.skybingo.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
-*affiliates.backend-capital.com
-*eduapp.backend-capital.com
-*education.backend-capital.com
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
 *.digi-mobile.be
@@ -3059,10 +3056,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
