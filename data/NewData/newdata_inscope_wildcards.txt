@@ -1,3 +1,5 @@
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
+*.origindigital-pac.com.au
+*.odcdn.com.au
+*.support.originenergy.com.au
+*.api.originenergy.com.au
+*.download.originenergy.com.au
