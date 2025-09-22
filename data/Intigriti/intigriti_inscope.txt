@@ -55,6 +55,12 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+*.backend-capital.com
+capital.com
+open-api.capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
@@ -414,6 +420,12 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
