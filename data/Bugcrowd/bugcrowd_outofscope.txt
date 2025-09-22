@@ -680,6 +680,12 @@ app.squareupstaging.com
 community.squareup.com
 itunes.apple.com
 *.atlassian.com
+*.sprint.net
+*.mobile.uscc.net
+*.mobile.uscc.com
+eventmanager.uscellular.com
+global.eventmanager.uscellular.com
+events.eventmanager.uscellular.com
 abo.inscopedomain.ch
 login.inscopedomain.ch
 auth.inscopedomain.ch

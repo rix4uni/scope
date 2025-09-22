@@ -533,6 +533,9 @@ tidal.com
 app.squareupstaging.com
 community.squareup.com
 itunes.apple.com
+eventmanager.uscellular.com
+global.eventmanager.uscellular.com
+events.eventmanager.uscellular.com
 abo.inscopedomain.ch
 login.inscopedomain.ch
 auth.inscopedomain.ch
