@@ -1,5 +1,7 @@
-*.origindigital-pac.com.au
-*.odcdn.com.au
-*.support.originenergy.com.au
-*.api.originenergy.com.au
-*.download.originenergy.com.au
+*.api.t-mobile.com
+*.t-mobile.com
+*.metrobyt-mobile.com
+*.sprint.com
+*.uscc.net
+*.uscc.com
+*.uscellular.com
