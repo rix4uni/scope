@@ -216,7 +216,6 @@ support.worldcoin.com
 envira.global
 *.eurofins-digitaltesting.com
 *.sgs.com
-samplekinect.eurofins.com
 *.truist.com
 truist.com
 *.sixidmobile.com

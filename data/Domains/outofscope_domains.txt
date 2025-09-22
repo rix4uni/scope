@@ -813,7 +813,6 @@ iflex.snaboitiz.com
 support.world.org
 support.worldcoin.com
 envira.global
-samplekinect.eurofins.com
 truist.com
 saferpay.com
 gnltn.com
