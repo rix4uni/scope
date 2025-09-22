@@ -2892,12 +2892,14 @@ console.mapbox.com
 *.airbnb.com
 *.airbnb.org
 *.airbnbcitizen.com
+*.airbnbpayments.com
 *.atairbnb.com
 *.byairbnb.com
 *.hoteltonight-test.com
 *.hoteltonight.com
 *.luxuryretreats.com
 *.muscache.com
+*.musta.ch
 *.withairbnb.com
 airbnb.com
 api.airbnb.com
