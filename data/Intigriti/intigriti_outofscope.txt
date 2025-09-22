@@ -54,6 +54,8 @@ abonnement.demorgen.be
 registry.digitalocean.com
 driessen.nl
 docs.google.com
+*.grafana.com
+*.grafana.net
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
