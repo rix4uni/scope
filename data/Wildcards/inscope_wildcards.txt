@@ -226,6 +226,7 @@ np.*.lfscnp.com
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pexels.com
+*.pinterest.com
 *.pixabay.com
 *.points.com
 *.quizlet.com
@@ -264,13 +265,6 @@ np.*.lfscnp.com
 *.square.com
 *.squareup.com
 *.statuspage.io
-*.api.t-mobile.com
-*.t-mobile.com
-*.metrobyt-mobile.com
-*.sprint.com
-*.uscc.net
-*.uscc.com
-*.uscellular.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
