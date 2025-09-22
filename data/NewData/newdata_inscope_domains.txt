@@ -1,9 +1,2 @@
-payment.backend-capital.com
-capital.com
-open-api.capital.com
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
+login.decathlon.net
+account.decathlon.com

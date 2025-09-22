@@ -5280,6 +5280,8 @@ cyberghost.app
 api.cyberghostvpn.com
 cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
+login.decathlon.net
+account.decathlon.com
 demarches-simplifiees.fr
 static.demarches-simplifiees.fr
 identite-sandbox.proconnect.gouv.fr
