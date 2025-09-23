@@ -1,2 +1,2 @@
-*.airbnbpayments.com
-*.musta.ch
+sip.*.twilio.com
+*.twilio.com
