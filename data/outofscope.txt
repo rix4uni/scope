@@ -1676,6 +1676,8 @@ investorday.payoneer.com
 register.payoneer.com
 skuad.io
 tracks.payoneer.com
+dunnhumby.com
+tescobank.responsibledisclosure.com
 clicks.moonpay.com
 dev.moonpay.com
 docs.hypermint.com
