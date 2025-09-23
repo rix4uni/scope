@@ -1,1 +1,1 @@
-mcp-server.zomato.com
+app.aikido.dev
