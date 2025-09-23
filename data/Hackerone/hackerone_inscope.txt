@@ -2756,6 +2756,7 @@ bistro-api.blinkit.com
 blinkit.com
 *.grofer.io
 *.grofers.com
+mcp-server.zomato.com
 winecellar.zomato.com
 gitlab.torproject.org
 torproject.org
