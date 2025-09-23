@@ -1,6 +1,4 @@
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
+acorns.com
+graphql.acorns.com
+gohenry.com
+pixpay.fr

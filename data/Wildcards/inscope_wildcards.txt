@@ -1,3 +1,4 @@
+*.acorns.com
 *.afterpay.com
 portalapi.*.afterpay.com
 *.arlo.com
