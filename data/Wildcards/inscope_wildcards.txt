@@ -295,8 +295,6 @@ np.*.lfscnp.com
 *.housetrip.com
 *.bokundemo.com
 *.bokuntest.com
-sip.*.twilio.com
-*.twilio.com
 *.api.ua.com
 *.underarmour.cn
 *.gtld-servers.net
