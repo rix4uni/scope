@@ -483,8 +483,6 @@ investorday.payoneer.com
 register.payoneer.com
 skuad.io
 tracks.payoneer.com
-dunnhumby.com
-tescobank.com
 *.plexlabs.io
 clicks.moonpay.com
 dev.moonpay.com
