@@ -239,6 +239,7 @@ wisdomtree.com
 wisdomtree.eu
 defenceshare.mod.uk
 vdp.kahootz.com
+*.epic.superbet.ro
 affiliate.napoleongames.be
 affiliates.superbet.com
 affiliates.superbet.rs

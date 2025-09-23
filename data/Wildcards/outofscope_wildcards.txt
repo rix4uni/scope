@@ -260,6 +260,7 @@ db.*.supabase.co
 *.truist.com
 *.sixidmobile.com
 *.okg.com
+*.epic.superbet.ro
 *.pramericalife.in
 *.prudential.co.kr
 *.prudentialagf.cl
