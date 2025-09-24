@@ -315,6 +315,7 @@ db.*.supabase.co
 *.royalcanin.am
 *.royalcaninshop.com.ua
 *.solucionesrc.com.ar
+*.teile-deine-erfahrung-mit-royal-canin.com
 *.who.int
 *.getbouncer.com
 *.grindrads.com
