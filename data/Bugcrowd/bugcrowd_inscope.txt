@@ -137,8 +137,6 @@ gateway-api.nutaku.net
 mgpg2.probiller.com
 mgpg.probiller.com
 probiller.com
-*.trafficjunky.com
-*.adultforce.com
 *.backblazeb2.com
 backblaze.com
 *.backblaze.com
@@ -304,6 +302,13 @@ opensource.epam.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
+etsy.com
+etsypayments.com
+blog.etsy.com
+careers.etsy.com
+help.etsy.com
+community.etsy.com
+*.etsy.com
 portal.exoscale.com
 api-ch-gva-2.exoscale.com
 sos-ch-gva-2.exo.io

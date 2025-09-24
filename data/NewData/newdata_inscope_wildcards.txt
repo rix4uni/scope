@@ -1,4 +1,1 @@
-*.asana.plus
-*.app.asana.com
-*.asana.biz
-*asana.biz
+*.etsy.com
