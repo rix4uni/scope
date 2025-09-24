@@ -1,6 +1,1 @@
 *.etsy.com
-*.prd.cam.simplisafe.com
-*.prd.platform.simplisafe.com
-*.prd.services.simplisafe.com
-*.prd.aser.simplisafe.com
-*.prd.webapps.simplisafe.com

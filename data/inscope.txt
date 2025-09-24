@@ -77,6 +77,7 @@ casino.*.betmgm.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
+*.etsy.com
 *.internal.exoscale.ch
 *.financialforce.com
 *.certinia.com
@@ -1412,6 +1413,12 @@ epam.com
 projects.epam.com
 lab.epam.com
 opensource.epam.com
+etsy.com
+etsypayments.com
+blog.etsy.com
+careers.etsy.com
+help.etsy.com
+community.etsy.com
 portal.exoscale.com
 api-ch-gva-2.exoscale.com
 sos-ch-gva-2.exo.io

@@ -274,6 +274,7 @@ supportnow.epam.com
 anywhere.epam.com
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
+icht.etsysecure.com
 exoscale.com
 community.exoscale.com
 academy.exoscale.com
