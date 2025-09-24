@@ -191,6 +191,7 @@ np.*.lfscnp.com
 *.mlife.mo
 *.mgmmacau.com
 *.tickets.mgm.mo
+*.gp.monash.edu
 *.myfitnesspal.com
 *.nr-data.net
 *.nr-ops.net
