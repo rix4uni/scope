@@ -7,6 +7,7 @@
 *.iot.developer.arubanetworks.com
 *.isb.arubanetworks.com
 *.arubademo.net
+*.integrations.asana.plus
 *.bitbucket.io
 *.project1service.com
 *.project1content.com
@@ -82,7 +83,6 @@ auth.*.latitudefinancial.com
 *.blstr.co
 *.lululemon.cn
 *.lululemon.me
-*.myfitnesspal.com
 *.nuinternational.com
 *.nat-a.nubank.com.br
 *.octopus.app

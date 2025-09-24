@@ -46,6 +46,10 @@ asp.arubanetworks.com
 lms.arubanetworks.com
 afp.arubanetworks.com
 csaf.arubanetworks.com
+asana.com
+*.integrations.asana.plus
+asana.okta.com
+assets.asana.biz
 bugcrowd.com
 shop.atlassian.com
 bytebucket.org
@@ -420,7 +424,8 @@ mgmchinaholdings.com
 hq.hero-cloud.com
 moneytree.jp
 getmoneytree.com
-*.myfitnesspal.com
+community.myfitnesspal.com
+community-stage.myfitnesspal.com
 tripactions.com
 status.newrelic.com
 docs.newrelic.com

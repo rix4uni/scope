@@ -7,6 +7,7 @@
 *.iot.developer.arubanetworks.com
 *.isb.arubanetworks.com
 *.arubademo.net
+*.integrations.asana.plus
 *.bitbucket.io
 *.project1service.com
 *.project1content.com
@@ -82,7 +83,6 @@ auth.*.latitudefinancial.com
 *.blstr.co
 *.lululemon.cn
 *.lululemon.me
-*.myfitnesspal.com
 *.nuinternational.com
 *.nat-a.nubank.com.br
 *.octopus.app
@@ -665,6 +665,9 @@ asp.arubanetworks.com
 lms.arubanetworks.com
 afp.arubanetworks.com
 csaf.arubanetworks.com
+asana.com
+asana.okta.com
+assets.asana.biz
 bugcrowd.com
 shop.atlassian.com
 bytebucket.org
@@ -964,6 +967,8 @@ mgmchinaholdings.com
 hq.hero-cloud.com
 moneytree.jp
 getmoneytree.com
+community.myfitnesspal.com
+community-stage.myfitnesspal.com
 tripactions.com
 status.newrelic.com
 docs.newrelic.com
