@@ -7,6 +7,7 @@
 *.iot.developer.arubanetworks.com
 *.isb.arubanetworks.com
 *.arubademo.net
+*.integrations.asana.plus
 *.bitbucket.io
 *.project1service.com
 *.project1content.com
@@ -664,6 +665,9 @@ asp.arubanetworks.com
 lms.arubanetworks.com
 afp.arubanetworks.com
 csaf.arubanetworks.com
+asana.com
+asana.okta.com
+assets.asana.biz
 bugcrowd.com
 shop.atlassian.com
 bytebucket.org
@@ -847,7 +851,6 @@ support.epam.com
 customersupport.epam.com
 supportnow.epam.com
 anywhere.epam.com
-icht.etsysecure.com
 exoscale.com
 community.exoscale.com
 academy.exoscale.com

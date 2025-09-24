@@ -5,6 +5,10 @@ portalapi.*.afterpay.com
 *.arloxcld.com
 *-prod.arlo.com
 *.central.arubanetworks.com
+*.asana.plus
+*.app.asana.com
+*.asana.biz
+*asana.biz
 *.atlassian.com
 *.atl-paas.net
 *.atlassian.net
@@ -73,7 +77,6 @@ casino.*.betmgm.com
 *.emakina.fr
 *.emakina.us
 *.emakina.at
-*.etsy.com
 *.internal.exoscale.ch
 *.financialforce.com
 *.certinia.com
@@ -1228,6 +1231,9 @@ blogs.arubanetworks.com
 aed.arubanetworks.com
 connect.arubanetworks.com
 devhub.arubanetworks.com
+app.asana.com
+asana.com
+form.asana.com
 admin.atlassian.com
 id.atlassian.com
 start.atlassian.com
@@ -1406,12 +1412,6 @@ epam.com
 projects.epam.com
 lab.epam.com
 opensource.epam.com
-etsy.com
-etsypayments.com
-blog.etsy.com
-careers.etsy.com
-help.etsy.com
-community.etsy.com
 portal.exoscale.com
 api-ch-gva-2.exoscale.com
 sos-ch-gva-2.exo.io
