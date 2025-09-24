@@ -51,13 +51,6 @@ blogs.arubanetworks.com
 aed.arubanetworks.com
 connect.arubanetworks.com
 devhub.arubanetworks.com
-app.asana.com
-asana.com
-*.asana.plus
-form.asana.com
-*.app.asana.com
-*.asana.biz
-*asana.biz
 admin.atlassian.com
 id.atlassian.com
 start.atlassian.com
