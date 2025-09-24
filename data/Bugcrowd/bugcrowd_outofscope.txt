@@ -134,6 +134,8 @@ play.nutaku.net
 *.nutaku.net
 pf.nutaku.com
 manage.probiller.com
+trafficjunky.com
+adultforce.com
 jobs.coinmarketcap.com
 support.binance
 binance.sg

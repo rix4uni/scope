@@ -1,1 +1,2 @@
-*.etsy.com
+*.trafficjunky.com
+*.adultforce.com
