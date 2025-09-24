@@ -274,6 +274,7 @@ supportnow.epam.com
 anywhere.epam.com
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
+icht.etsysecure.com
 exoscale.com
 community.exoscale.com
 academy.exoscale.com
@@ -648,6 +649,13 @@ info.property.com.au
 *.easiloan.com
 *.realtor.com
 *.spacely.com.au
+auth.simplisafe.com
+careers.simplisafe.com
+clicks.simplisafe.com
+library.simplisafe.com
+livechat.simplisafe.com
+press.simplisafe.com
+support.simplisafe.com
 skyscanner.net
 community.sophos.com
 sophos.atlassian.net

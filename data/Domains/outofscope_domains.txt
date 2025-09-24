@@ -223,6 +223,7 @@ support.epam.com
 customersupport.epam.com
 supportnow.epam.com
 anywhere.epam.com
+icht.etsysecure.com
 exoscale.com
 community.exoscale.com
 academy.exoscale.com
@@ -505,6 +506,13 @@ autodiscover.property.com.au
 email.property.com.au
 help.property.com.au
 info.property.com.au
+auth.simplisafe.com
+careers.simplisafe.com
+clicks.simplisafe.com
+library.simplisafe.com
+livechat.simplisafe.com
+press.simplisafe.com
+support.simplisafe.com
 skyscanner.net
 community.sophos.com
 sophos.atlassian.net
