@@ -7,6 +7,7 @@
 *.iot.developer.arubanetworks.com
 *.isb.arubanetworks.com
 *.arubademo.net
+*.integrations.asana.plus
 *.bitbucket.io
 *.project1service.com
 *.project1content.com
@@ -461,6 +462,9 @@ online.*.skybingo.com
 *sg.kiwi.com
 *kiwi.com
 *skypicker.com
+*.helium.foundation
+*.helium.io
+*.helium.wtf
 *.portswigger.net
 *.web-security-academy.net
 *.wordpress.com
