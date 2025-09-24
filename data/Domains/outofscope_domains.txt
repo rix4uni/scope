@@ -223,7 +223,6 @@ support.epam.com
 customersupport.epam.com
 supportnow.epam.com
 anywhere.epam.com
-icht.etsysecure.com
 exoscale.com
 community.exoscale.com
 academy.exoscale.com
