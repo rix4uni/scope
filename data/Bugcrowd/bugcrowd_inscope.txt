@@ -137,6 +137,8 @@ gateway-api.nutaku.net
 mgpg2.probiller.com
 mgpg.probiller.com
 probiller.com
+*.trafficjunky.com
+*.adultforce.com
 *.backblazeb2.com
 backblaze.com
 *.backblaze.com
