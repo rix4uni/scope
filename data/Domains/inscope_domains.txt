@@ -825,7 +825,6 @@ media.simplisafe.com
 simplisafe.com
 simplisafe.co.uk
 api.prd.commerce.simplisafe.com
-skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
