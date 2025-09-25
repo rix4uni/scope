@@ -480,6 +480,7 @@ online.*.skybingo.com
 *.zomatoportugal.com
 *.blinkit.support
 *.runnr.in
+*.home.deriv.com
 *.bitlove.co
 *.qms.grab.com
 *.kayakairplanemode.com

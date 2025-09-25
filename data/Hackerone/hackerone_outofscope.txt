@@ -1813,6 +1813,7 @@ send.zomato.com
 bugbounty.runnr.in
 success.zomato.com
 zomatobook.com
+*.home.deriv.com
 besquare.deriv.com
 ticktrade.binary.com
 community.deriv.com
