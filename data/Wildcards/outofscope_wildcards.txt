@@ -264,6 +264,7 @@ db.*.supabase.co
 *.prudential.co.kr
 *.prudentialagf.cl
 *.prudentialplc.com
+bus.*.indrive.com
 *.daimler.com
 *.fuso.com
 *.thomasbuildbuses.com

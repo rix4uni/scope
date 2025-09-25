@@ -289,6 +289,7 @@ bmp.boozt.com
 kronor.io
 api.frontegg.com
 portal.frontegg.com
+bus.*.indrive.com
 servicos.indrive.com
 sinet.startup.indriver
 super-services.indriverapp.com
