@@ -1077,6 +1077,8 @@ cf.*.aws.indriverapp
 *.robinhood.net
 *.swisspass.ch
 *.sbb.ch
+*.saytechnologies.com
+*.say.rocks
 *.sqills.com
 *.sqills.team
 *.weareone.world
