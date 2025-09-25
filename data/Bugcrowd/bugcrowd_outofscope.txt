@@ -134,6 +134,7 @@ play.nutaku.net
 *.nutaku.net
 pf.nutaku.com
 manage.probiller.com
+*.probiller.com
 trafficjunky.com
 adultforce.com
 jobs.coinmarketcap.com
@@ -675,6 +676,8 @@ playback.soundcloud.com
 jobs.soundcloud.com
 playerone.soundcloud.com
 support.soundcloud.org
+secdomaintest.soundcloud.com
+firston.soundcloud.com
 vaix.ai
 api-docs.vaix.ai
 afterpay.com

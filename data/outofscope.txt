@@ -28,6 +28,7 @@
 *.mydirtyhobby.com
 *.cross-promotion.nutaku.net
 *.nutaku.net
+*.probiller.com
 *.trustwallet.com
 *.trustwalletapp.com
 *.binance.org
@@ -1163,6 +1164,8 @@ playback.soundcloud.com
 jobs.soundcloud.com
 playerone.soundcloud.com
 support.soundcloud.org
+secdomaintest.soundcloud.com
+firston.soundcloud.com
 vaix.ai
 api-docs.vaix.ai
 afterpay.com
