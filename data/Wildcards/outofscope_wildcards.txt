@@ -141,6 +141,9 @@ auth.*.latitudefinancial.com
 *.easiloan.com
 *.realtor.com
 *.spacely.com.au
+*.afterpay.com
+*.cash.me
+*.tidal.com
 *.atlassian.com
 *.sprint.net
 *.mobile.uscc.net

@@ -842,6 +842,8 @@ artists.soundcloud.com
 soundcloud.org
 api-docs.vaix.ai
 api.vaix.ai
+square.online
+weebly.com
 manage.statuspage.io
 portal.lrs.t-mobile.com
 account.t-mobile.com

@@ -141,6 +141,9 @@ auth.*.latitudefinancial.com
 *.easiloan.com
 *.realtor.com
 *.spacely.com.au
+*.afterpay.com
+*.cash.me
+*.tidal.com
 *.atlassian.com
 *.sprint.net
 *.mobile.uscc.net
@@ -1167,6 +1170,13 @@ secdomaintest.soundcloud.com
 firston.soundcloud.com
 vaix.ai
 api-docs.vaix.ai
+afterpay.com
+cash.me
+designers.weebly.com
+tidal.com
+app.squareupstaging.com
+community.squareup.com
+itunes.apple.com
 eventmanager.uscellular.com
 global.eventmanager.uscellular.com
 events.eventmanager.uscellular.com
@@ -2435,7 +2445,6 @@ support.chaturbate.com
 ads.pixiv.net
 factory.pixiv.net
 accounts.pixiv.net
-itunes.apple.com
 investors.goodrx.com
 sso.identity.goodrx.com
 support.goodrx.com

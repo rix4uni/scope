@@ -1,2 +1,2 @@
-*.saytechnologies.com
-*.say.rocks
+*.square.com
+*.squareup.com

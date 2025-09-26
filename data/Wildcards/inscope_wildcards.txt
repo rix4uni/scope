@@ -267,6 +267,8 @@ np.*.lfscnp.com
 *.s-cloud.net
 *.soundcloud.com
 *.services.repostnetwork.com
+*.square.com
+*.squareup.com
 *.statuspage.io
 *.api.t-mobile.com
 *.t-mobile.com
