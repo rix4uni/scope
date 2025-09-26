@@ -1160,7 +1160,6 @@ cf.*.aws.indriverapp
 *.vod2.infomaniak.com
 *.api.louisvuitton.com
 *.ncs.co
-*.ncs.com.cn
 *.dsanalytics.com
 *.dialog.com.au
 *.ncsimpact.co

@@ -528,7 +528,6 @@ web3.sdx.com
 sdx.com
 bolsasymercados.es
 six-group.com
-makeitreal-beta.eufymake.com
 us.eufy.com
 api-user.e2ro.com
 node.e2ro.com

@@ -1160,7 +1160,6 @@ cf.*.aws.indriverapp
 *.vod2.infomaniak.com
 *.api.louisvuitton.com
 *.ncs.co
-*.ncs.com.cn
 *.dsanalytics.com
 *.dialog.com.au
 *.ncsimpact.co
@@ -2758,7 +2757,6 @@ web3.sdx.com
 sdx.com
 bolsasymercados.es
 six-group.com
-makeitreal-beta.eufymake.com
 us.eufy.com
 api-user.e2ro.com
 node.e2ro.com
