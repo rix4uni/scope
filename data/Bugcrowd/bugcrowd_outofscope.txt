@@ -354,6 +354,7 @@ mykohls.kohls.com
 kconnect.kohls.com
 connection.kohls.com
 kohlsmerch.kohls.com
+b2b.kohls.com
 support.kucoin.plus
 store.kucoin.com
 docs.kucoin.com
