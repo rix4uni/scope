@@ -550,11 +550,6 @@ itunes.apple.com
 eventmanager.uscellular.com
 global.eventmanager.uscellular.com
 events.eventmanager.uscellular.com
-abo.inscopedomain.ch
-login.inscopedomain.ch
-auth.inscopedomain.ch
-tgt.inscopedomain.ch
-shop.inscopedomain.ch
 employeefeedback.tesla.com
 energysupport.tesla.com
 bugbounty.zoho.com
@@ -659,6 +654,9 @@ links.transferwise.com
 status.wise.com
 status.transferwise.com
 tech.transferwise.com
+oauth.xfinity.com
+login.xfinity.com
+business.comcast.com
 app.ynab.com
 support.ynab.com
 develop-app.ynab.com
