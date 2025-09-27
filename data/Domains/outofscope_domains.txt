@@ -659,9 +659,6 @@ links.transferwise.com
 status.wise.com
 status.transferwise.com
 tech.transferwise.com
-oauth.xfinity.com
-login.xfinity.com
-business.comcast.com
 app.ynab.com
 support.ynab.com
 develop-app.ynab.com
