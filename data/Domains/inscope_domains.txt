@@ -877,7 +877,6 @@ clients.adstruc.com
 demo.adstruc.com
 dashboard-04.moengage.com
 assurancewireless.com
-tagesanzeiger.ch
 biocorellc.com
 tempus-ex.com
 infiniteathlete.ai
