@@ -2607,7 +2607,6 @@ internalshop.rivian.com
 media.rivian.com
 stories.rivian.com
 view.e.rivian.com
-saytechnologies.com
 simscale.com
 careers.sqills.com
 limonsoda.cl
