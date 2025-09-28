@@ -296,6 +296,7 @@ super-services.indriverapp.com
 engineering.rei.com
 rei.gladly.com
 reicasting.com
+articles.mergify.com
 blog.mergify.com
 mergify.com
 blog.zabbix.com
