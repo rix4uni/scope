@@ -559,7 +559,6 @@ online.*.skybingo.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.oisl.gg
 *.vectus.in
 *.pdq.com
@@ -3160,9 +3159,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io
