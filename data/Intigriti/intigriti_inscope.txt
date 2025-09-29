@@ -379,6 +379,9 @@ business.rivian.com
 rivian.com
 *.rivian.com
 basecamp.rivian.com
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
 *.swisspass.ch
 sbb.ch
 *.sbb.ch
@@ -418,6 +421,12 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
