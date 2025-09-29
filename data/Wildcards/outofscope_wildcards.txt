@@ -293,7 +293,6 @@ bus.*.indrive.com
 *.cloud.gov
 *.data.gov
 *.neweggbusiness.com
-*.maconsotempsreel.octopusenergy.fr
 *.fastly.net
 *.krisp.ai
 *.hydrogenhealth.com

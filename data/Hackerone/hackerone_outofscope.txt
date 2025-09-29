@@ -615,7 +615,6 @@ segashop.co.uk
 *.neweggbusiness.com
 jobs.newegg.com
 sellingpilot.newegg.com
-*.maconsotempsreel.octopusenergy.fr
 *.fastly.net
 community.fastly.com
 connect.fastly.com
