@@ -1,1 +1,3 @@
-tagesanzeiger.ch
+payment.backend-capital.com
+capital.com
+open-api.capital.com

@@ -1,7 +1,3 @@
-*signalservice.comcast.net
-*.dh-commerce.com
-*.ssr.ccp.xcal.tv
-*.xfiplatform.com
-*.codebig2.net
-*.cloud.comcast.net
-*.xfinityhome.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
