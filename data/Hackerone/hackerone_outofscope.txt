@@ -203,6 +203,9 @@ pool.xverse.app
 sponsor.xverse.app
 xverse.app
 support.wonder.com
+support.blueapron.com
+support.grubhub.com
+support.seamless.com
 greenfly.com
 *.gobrightspeed.net
 dhcp.embarqhsd.net

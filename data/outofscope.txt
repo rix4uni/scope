@@ -1447,6 +1447,9 @@ pool.xverse.app
 sponsor.xverse.app
 xverse.app
 support.wonder.com
+support.blueapron.com
+support.grubhub.com
+support.seamless.com
 greenfly.com
 dhcp.embarqhsd.net
 aboitiz.account.box.com
