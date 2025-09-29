@@ -1,2 +1,2 @@
-*.saytechnologies.com
-*.say.rocks
+*.monzo.com
+*.prod-ffs.io
