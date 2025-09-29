@@ -1,3 +1,2 @@
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
+*.saytechnologies.com
+*.say.rocks

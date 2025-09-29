@@ -381,6 +381,8 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
+*.saytechnologies.com
+*.say.rocks
 cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl

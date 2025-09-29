@@ -1072,6 +1072,8 @@ cf.*.aws.indriverapp
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
+*.saytechnologies.com
+*.say.rocks
 *.sqills.com
 *.sqills.team
 *.weareone.world
@@ -2331,6 +2333,7 @@ capitalmarketsday.porsche.com
 checkout.porsche.com
 christmas-silence.porsche.com
 cm.staging.pcom.weu.porsche.com
+compare.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
 dealer.porsche.com
