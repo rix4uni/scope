@@ -2731,7 +2731,6 @@ visa.fr
 visainfinite.ca
 visamiddleeast.com
 yellowpepper.com
-bioid-management.app
 developer.worldcoin.org
 getworldcoin.com
 docs.world.org

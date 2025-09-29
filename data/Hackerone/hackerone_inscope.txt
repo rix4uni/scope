@@ -502,7 +502,6 @@ yellowpepper.com
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
-bioid-management.app
 developer.worldcoin.org
 getworldcoin.com
 docs.world.org
