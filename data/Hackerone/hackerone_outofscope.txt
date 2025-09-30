@@ -1802,6 +1802,8 @@ trade.mql5.com
 tradingview.deriv.com
 glassdoor.com
 guide.glassdoor.com
+api.fishbowlapp.com
+fishbowlapp.com
 party.tinder.com
 open.tinder.com
 matchmaker.tinder.com

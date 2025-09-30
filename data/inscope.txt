@@ -4469,11 +4469,9 @@ derivws.com
 oauth.deriv.com
 secure-dfadmin.deriv.com
 smarttrader.deriv.com
-api.fishbowlapp.com
 api.glassdoor.com
 design.glassdoor.com
 help.glassdoor.com
-fishbowlapp.com
 glassdoor.com
 fetlife.com
 fetlifemail.com
