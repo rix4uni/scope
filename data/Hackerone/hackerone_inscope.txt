@@ -2207,6 +2207,9 @@ bitmex.com
 apps.apple.com
 falcon-sandbox.com
 hybrid-analysis.com
+onum-labs.com
+onum.com
+pangea.cloud
 play.google.com
 crowdstrike.com
 crowdstrike.de
