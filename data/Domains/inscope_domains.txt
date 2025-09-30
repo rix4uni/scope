@@ -3648,6 +3648,7 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -4112,6 +4113,8 @@ api.sandbox.agora.incubateur.net
 content.agora.beta.gouv.fr
 gtw-b2capps.bforbank.com
 bookbeat.com
+api.bookbeat.com
+search-api.bookbeat.com
 edge.blablacar
 auth.blablacar
 m.blablacar
