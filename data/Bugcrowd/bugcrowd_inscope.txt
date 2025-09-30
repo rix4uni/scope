@@ -808,6 +808,7 @@ openai.org
 openai.com
 *.openai.com
 platform.openai.com
+sora.chatgpt.com
 opensea.io
 wallet.opensea.io
 io.opensea
