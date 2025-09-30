@@ -1,3 +1,2 @@
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
+*.monzo.com
+*.prod-ffs.io
