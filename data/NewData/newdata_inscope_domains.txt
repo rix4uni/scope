@@ -1,3 +1,2 @@
-app.aikido.dev
-api.bookbeat.com
-search-api.bookbeat.com
+co.uk.getmondo
+monzo.com

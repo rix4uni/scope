@@ -289,9 +289,6 @@ bus.*.indrive.com
 *.sqstitle.com
 *.plexlabs.io
 *.koho.ca
-*.app.cloud.gov
-*.cloud.gov
-*.data.gov
 *.neweggbusiness.com
 *.fastly.net
 *.krisp.ai
@@ -327,9 +324,6 @@ bus.*.indrive.com
 *.xmdev.cloud.com
 *.xmqa.cloud.com
 *.xmtest.cloud.com
-*.afadvantage.gov
-*.cio.gov
-*.itdashboard.gov
 *.bell.ca
 *.callstats.io
 *.contactnow.8x8.com
@@ -561,6 +555,7 @@ online.*.skybingo.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
+*.monzo.me
 *.oisl.gg
 *.vectus.in
 *.pdq.com

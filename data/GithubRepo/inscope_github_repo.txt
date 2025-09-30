@@ -93,16 +93,6 @@ https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
 https://github.com/spiffe/spiffe
 https://github.com/spiffe/spire
-https://github.com/18f/docker-ruby-ubuntu
-https://github.com/18f/federalist
-https://github.com/18f/federalist-builder
-https://github.com/18f/federalist-docker-build
-https://github.com/18f/federalist-proxy
-https://github.com/18f/identity-idp
-https://github.com/18f/identity-saml-rails
-https://github.com/18f/identity-saml-sinatra
-https://github.com/gsa/data.gov
-https://github.com/gsa/datagov-deploy
 https://github.com/DopplerHQ/cli
 https://github.com/jitsi
 https://github.com/0xPolygon/auto-claim-service
