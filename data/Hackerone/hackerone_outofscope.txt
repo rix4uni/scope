@@ -773,10 +773,12 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 *.offre-odrvet.fr
+*.petpaw.com
 *.royalcanin.am
 *.royalcaninshop.com.ua
 *.solucionesrc.com.ar
 *.teile-deine-erfahrung-mit-royal-canin.com
+*.vet.petpaw.com
 *.who.int
 covid19app.who.int
 *.getbouncer.com
