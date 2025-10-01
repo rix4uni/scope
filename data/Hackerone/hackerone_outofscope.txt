@@ -89,6 +89,7 @@ businesscreditfacts.com
 smallbusiness.experian.com
 *.eightfold.ai
 eightfold.ai
+bol.rwbaird.com
 docs.hemi.xyz
 news.hemi.xyz
 docs.stripe.com
