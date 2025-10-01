@@ -1401,6 +1401,10 @@ feedback.databricks.com
 forums.databricks.com
 go.databricks.com
 databricks-prod-cloudfront.cloud.databricks.com
+blog.thecoalition.com
+security.md
+help.thecoalition.com
+thecoalition.com
 *.elasticsearch.cn
 buy.elastic.co
 community.elastic.co
