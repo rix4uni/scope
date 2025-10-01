@@ -26,6 +26,8 @@ portalapi.*.afterpay.com
 *.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
+*.backblazeb2.com
+*.backblaze.com
 *.binance.com
 *.binance.us
 *.bitdefender.net
@@ -79,9 +81,6 @@ casino.*.betmgm.com
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
 *.beautyexpert.com
 *.dermstore.com
 *.espaskincare.com
@@ -1160,7 +1159,6 @@ cf.*.aws.indriverapp
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
-*.app.spacelift.dev
 *.post.ch
 *.telenor.se
 *.bredbandsbolaget.se

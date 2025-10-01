@@ -361,8 +361,6 @@ professionnels.vaccination-info-service.fr
 vivre-avec-la-chaleur.fr
 tabac-info-service.fr
 my.sogexia.com
-spacelift.dev
-*.app.spacelift.dev
 api.swapcard.com
 chat-api.swapcard.com
 developer.swapcard.com
