@@ -531,6 +531,7 @@ online.*.skybingo.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
+*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -3056,6 +3057,8 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
+technik.autobild.de
+technik.beta.autobild.de
 bestbuy.buhlergroup.com
 channel.buhlergroup.com
 gitlab.buhler-datascience.ch

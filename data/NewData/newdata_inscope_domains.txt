@@ -1,1 +1,12 @@
-app.aikido.dev
+germany.politico.eu
+bild.de
+welt.de
+epaper.welt.de
+cancellation.prod.ps.welt.de
+digital.welt.de
+signin.auth.welt.de
+m.bild.de
+go.welt.de
+meinkonto.bild.de
+dealer.prod.ps.axelspringer.de
+editorial.one

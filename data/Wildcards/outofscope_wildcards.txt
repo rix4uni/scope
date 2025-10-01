@@ -531,6 +531,7 @@ online.*.skybingo.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
+*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
