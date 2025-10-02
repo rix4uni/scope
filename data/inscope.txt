@@ -26,8 +26,6 @@ portalapi.*.afterpay.com
 *.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
-*.backblazeb2.com
-*.backblaze.com
 *.binance.com
 *.binance.us
 *.bitdefender.net
@@ -1294,7 +1292,6 @@ gateway-api.nutaku.net
 mgpg2.probiller.com
 mgpg.probiller.com
 probiller.com
-backblaze.com
 barracuda.com
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
@@ -5171,14 +5168,6 @@ vrt.be
 myaccount.vtm.be
 vtm.be
 vtmgo.be
-api-wallet.venly.io
-api.arkane.network
-connect.arkane.network
-connect.venly.io
-login.arkane.network
-login.venly.io
-wallet.venly.io
-api-wallet-sandbox.venly.io
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com

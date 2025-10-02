@@ -139,9 +139,6 @@ mgpg.probiller.com
 probiller.com
 *.trafficjunky.com
 *.adultforce.com
-*.backblazeb2.com
-backblaze.com
-*.backblaze.com
 barracuda.com
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
