@@ -81,9 +81,6 @@ casino.*.betmgm.com
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
 *.beautyexpert.com
 *.dermstore.com
 *.espaskincare.com
