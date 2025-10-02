@@ -560,7 +560,6 @@ online.*.skybingo.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.oisl.gg
 *.vectus.in
 *.pdq.com
