@@ -1192,6 +1192,10 @@ url5145.krisp.ai
 voice-ai-newsletter.krisp.ai
 whatsnew.krisp.ai
 dcci-stage.latam.com
+dcci.latam.com
+dc-cert.latam.com
+dc-stage.latam.com
+dcci-cert.latam.com
 api-2.khealth.io
 careers.khealth.com
 khealth.com
