@@ -1619,6 +1619,7 @@ thrones.theringer.com
 tradevalue.theringer.com
 everynoise.com
 example.com
+*.guilded.gg
 *.dynsystem.kr
 *central.dyson.com
 *dyson-demo.com

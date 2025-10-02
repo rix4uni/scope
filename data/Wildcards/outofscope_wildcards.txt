@@ -445,6 +445,7 @@ online.*.skybingo.com
 *.superbeatsports.com
 *.teston.io
 *.usertesting.com
+*.guilded.gg
 *.dynsystem.kr
 *central.dyson.com
 *dyson-demo.com
