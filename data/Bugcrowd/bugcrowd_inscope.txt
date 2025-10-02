@@ -139,9 +139,6 @@ mgpg.probiller.com
 probiller.com
 *.trafficjunky.com
 *.adultforce.com
-*.backblazeb2.com
-backblaze.com
-*.backblaze.com
 barracuda.com
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
@@ -316,6 +313,14 @@ financialforce.com
 *.certinia.com
 fivetran.com
 *.fivetran.com
+flo.uri.sh
+flourish.studio
+*.flourish.studio
+xyzbmojn.net
+*.xyzbmojn.net
+flourish-user-templates.com
+flourish-user-preview.com
+*.kiln.it
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
