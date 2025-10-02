@@ -1,3 +1,1 @@
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
+*.app.spacelift.dev

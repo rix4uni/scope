@@ -1162,6 +1162,7 @@ cf.*.aws.indriverapp
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
+*.app.spacelift.dev
 *.post.ch
 *.telenor.se
 *.bredbandsbolaget.se

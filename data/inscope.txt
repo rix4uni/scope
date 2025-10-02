@@ -1162,6 +1162,7 @@ cf.*.aws.indriverapp
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
+*.app.spacelift.dev
 *.post.ch
 *.telenor.se
 *.bredbandsbolaget.se
@@ -5537,6 +5538,7 @@ professionnels.vaccination-info-service.fr
 vivre-avec-la-chaleur.fr
 tabac-info-service.fr
 my.sogexia.com
+spacelift.dev
 api.swapcard.com
 chat-api.swapcard.com
 developer.swapcard.com
