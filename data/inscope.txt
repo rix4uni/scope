@@ -26,6 +26,8 @@ portalapi.*.afterpay.com
 *.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
+*.backblazeb2.com
+*.backblaze.com
 *.binance.com
 *.binance.us
 *.bitdefender.net
@@ -1292,6 +1294,7 @@ gateway-api.nutaku.net
 mgpg2.probiller.com
 mgpg.probiller.com
 probiller.com
+backblaze.com
 barracuda.com
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
