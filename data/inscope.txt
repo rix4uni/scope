@@ -81,9 +81,6 @@ casino.*.betmgm.com
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
 *.beautyexpert.com
 *.dermstore.com
 *.espaskincare.com
@@ -1416,11 +1413,6 @@ help.etsy.com
 community.etsy.com
 financialforce.com
 fivetran.com
-flo.uri.sh
-flourish.studio
-xyzbmojn.net
-flourish-user-templates.com
-flourish-user-preview.com
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
@@ -5171,6 +5163,14 @@ vrt.be
 myaccount.vtm.be
 vtm.be
 vtmgo.be
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com

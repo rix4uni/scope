@@ -200,6 +200,7 @@ argocd.*.uidapi.com
 *.adnxs.com
 *.fwmrm.net
 *.account.docusign.com
+*.tucows.com
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl

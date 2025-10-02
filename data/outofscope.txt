@@ -200,6 +200,7 @@ argocd.*.uidapi.com
 *.adnxs.com
 *.fwmrm.net
 *.account.docusign.com
+*.tucows.com
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl
@@ -858,7 +859,6 @@ status.fivetran.com
 support.fivetran.com
 community-stage.fivetran.com
 trust.fivetran.com
-training.flourish.studio
 api.gearset.com
 app.gearset.com
 us.app.gearset.com

@@ -3,6 +3,7 @@ admin.docusign.com
 app.docusign.com
 docusign.net
 rooms.docusign.com
+*.tucows.com
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl
