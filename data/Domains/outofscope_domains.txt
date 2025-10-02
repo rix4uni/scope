@@ -2432,8 +2432,6 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
-technik.autobild.de
-technik.beta.autobild.de
 bestbuy.buhlergroup.com
 channel.buhlergroup.com
 gitlab.buhler-datascience.ch
