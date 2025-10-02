@@ -1456,8 +1456,6 @@ npm.nextcapital.com
 qa-billpay.goldman.com
 repo.nextcapital.com
 rubygems.nextcapital.com
-developers.yoti.com
-yoti.com
 list.valvesoftware.com
 translation.steampowered.com
 valvestore.forfansbyfans.com
@@ -1791,12 +1789,14 @@ send.zomato.com
 bugbounty.runnr.in
 success.zomato.com
 zomatobook.com
+*.api-core.deriv.com
 *.home.deriv.com
 besquare.deriv.com
 ticktrade.binary.com
 community.deriv.com
 deriv.ae
 deriv.slack.com
+help.deriv.com
 admin.binary.com
 deriv.atlassian.net
 trade.mql5.com

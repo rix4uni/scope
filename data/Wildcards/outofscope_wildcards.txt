@@ -477,6 +477,7 @@ online.*.skybingo.com
 *.zomatoportugal.com
 *.blinkit.support
 *.runnr.in
+*.api-core.deriv.com
 *.home.deriv.com
 *.bitlove.co
 *.qms.grab.com

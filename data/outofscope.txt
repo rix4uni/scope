@@ -477,6 +477,7 @@ online.*.skybingo.com
 *.zomatoportugal.com
 *.blinkit.support
 *.runnr.in
+*.api-core.deriv.com
 *.home.deriv.com
 *.bitlove.co
 *.qms.grab.com
@@ -2507,8 +2508,6 @@ npm.nextcapital.com
 qa-billpay.goldman.com
 repo.nextcapital.com
 rubygems.nextcapital.com
-developers.yoti.com
-yoti.com
 list.valvesoftware.com
 translation.steampowered.com
 valvestore.forfansbyfans.com
@@ -2804,6 +2803,7 @@ ticktrade.binary.com
 community.deriv.com
 deriv.ae
 deriv.slack.com
+help.deriv.com
 admin.binary.com
 deriv.atlassian.net
 trade.mql5.com
