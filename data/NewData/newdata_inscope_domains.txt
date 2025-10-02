@@ -1,8 +1,5 @@
-api-wallet.venly.io
-api.arkane.network
-connect.arkane.network
-connect.venly.io
-login.arkane.network
-login.venly.io
-wallet.venly.io
-api-wallet-sandbox.venly.io
+flo.uri.sh
+flourish.studio
+xyzbmojn.net
+flourish-user-templates.com
+flourish-user-preview.com

@@ -111,7 +111,6 @@ gateway-api.nutaku.net
 mgpg2.probiller.com
 mgpg.probiller.com
 probiller.com
-backblaze.com
 barracuda.com
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
@@ -233,6 +232,11 @@ help.etsy.com
 community.etsy.com
 financialforce.com
 fivetran.com
+flo.uri.sh
+flourish.studio
+xyzbmojn.net
+flourish-user-templates.com
+flourish-user-preview.com
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com

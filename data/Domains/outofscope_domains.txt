@@ -232,6 +232,7 @@ status.fivetran.com
 support.fivetran.com
 community-stage.fivetran.com
 trust.fivetran.com
+training.flourish.studio
 api.gearset.com
 app.gearset.com
 us.app.gearset.com

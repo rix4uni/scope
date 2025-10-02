@@ -1,2 +1,3 @@
-*.backblazeb2.com
-*.backblaze.com
+*.flourish.studio
+*.xyzbmojn.net
+*.kiln.it
