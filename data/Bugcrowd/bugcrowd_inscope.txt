@@ -329,7 +329,7 @@ staging-api.gearset.com
 hipaa.staging.gearset.com
 app.glean.com
 bug-bounty-be.glean.com
-hostgator.com.br
+*.hostgator.com.br
 financeiro.hostgator.com.br
 bugcrowd.hotdoc.com.au
 beautyexpert.com

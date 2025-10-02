@@ -1,1 +1,1 @@
-*.app.spacelift.dev
+*.hostgator.com.br
