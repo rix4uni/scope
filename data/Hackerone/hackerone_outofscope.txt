@@ -4,6 +4,7 @@ app.docusign.com
 docusign.net
 rooms.docusign.com
 *.tucows.com
+lovable.app
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl
