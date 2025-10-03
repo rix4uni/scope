@@ -536,7 +536,6 @@ online.*.skybingo.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -557,7 +556,6 @@ online.*.skybingo.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
 *.monzo.me
 *.oisl.gg
@@ -3065,8 +3063,6 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
-technik.autobild.de
-technik.beta.autobild.de
 bestbuy.buhlergroup.com
 channel.buhlergroup.com
 gitlab.buhler-datascience.ch
@@ -3101,18 +3097,6 @@ newsroom.innogames.com
 pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
-afspraakmaken.gamma.nl
-api.afspraakmaken.gamma.be
-api.afspraakmaken.gamma.nl
-api.maakafspraak.karwei.nl
-horrenconfigurator-fr.gamma.be
-horrenconfigurator-nl.gamma.be
-horrenconfigurator.karwei.nl
-karwei-2018.hetmooistegordijn.nl
-maakafspraak.karwei.nl
-mail.gamma.be
-mail.gamma.nl
-mail.karwei.nl
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
