@@ -2638,6 +2638,12 @@ social-trading.exness.com
 *.scopely.com
 *.scopely.io
 *.withbuddies.com
+api.localizestaging.com
+help.localizejs.com
+api.localizejs.com
+app.localizestaging.com
+cdn.localizestaging.com
+localizestaging.com
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org

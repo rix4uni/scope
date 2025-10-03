@@ -1,1 +1,6 @@
-secure-test.six-swiss-exchange.com
+api.localizestaging.com
+help.localizejs.com
+api.localizejs.com
+app.localizestaging.com
+cdn.localizestaging.com
+localizestaging.com
