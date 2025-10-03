@@ -1065,6 +1065,9 @@ cf.*.aws.indriverapp
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
 *.swisspass.ch
 *.sbb.ch
 *.saytechnologies.com
