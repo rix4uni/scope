@@ -1192,9 +1192,9 @@ sdk-docs.krisp.ai
 url5145.krisp.ai
 voice-ai-newsletter.krisp.ai
 whatsnew.krisp.ai
+dc-cert.latam.com
 dcci-stage.latam.com
 dcci.latam.com
-dc-cert.latam.com
 dc-stage.latam.com
 dcci-cert.latam.com
 api-2.khealth.io
