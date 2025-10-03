@@ -96,7 +96,6 @@ casino.*.betmgm.com
 *.illamasqua.com
 *.mioskincare.com
 *.mankind.co.uk
-*.mybag.com
 *.myvitamins.com
 *.powerman.co.uk
 *.thehut.com
