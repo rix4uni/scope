@@ -1558,6 +1558,7 @@ ring.com
 prd-ring-web-us.prd.rings.solutions
 publicsafety.ring.com
 secure.tkfweb.com
+secure-test.six-swiss-exchange.com
 web3.sdx.com
 sdx.com
 bolsasymercados.es
