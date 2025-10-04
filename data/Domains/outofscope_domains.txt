@@ -2580,7 +2580,6 @@ vgs-api.robinhood.com
 affiliates.robinhood.com
 share.robinhood.com
 roadshow.robinhood.com
-saytechnologies.com
 simscale.com
 careers.sqills.com
 limonsoda.cl
