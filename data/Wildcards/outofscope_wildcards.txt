@@ -556,6 +556,7 @@ online.*.skybingo.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
 *.monzo.me
 *.oisl.gg
