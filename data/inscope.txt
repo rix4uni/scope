@@ -1039,8 +1039,6 @@ cf.*.aws.indriverapp
 *.robinhood.net
 *.swisspass.ch
 *.sbb.ch
-*.saytechnologies.com
-*.say.rocks
 *.sqills.com
 *.sqills.team
 *.weareone.world
@@ -4932,11 +4930,6 @@ no.kolonial.tienda
 se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-a.simplemdm.com
-auth2.pdq.tools
-library-staging.pdq.tools
-houston-staging.pdq.tools
-portal-staging.pdq.tools
 api.personio-dev.com
 api.personio.com
 community.personio.com

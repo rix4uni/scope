@@ -2547,7 +2547,6 @@ tech.ovoenergy.com
 testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
-detect.pdq.tools
 personio.de
 personio.slack.com
 statuspage.personio.de
@@ -2592,7 +2591,6 @@ vgs-api.robinhood.com
 affiliates.robinhood.com
 share.robinhood.com
 roadshow.robinhood.com
-saytechnologies.com
 simscale.com
 careers.sqills.com
 limonsoda.cl
