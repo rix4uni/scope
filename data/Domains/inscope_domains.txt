@@ -2399,8 +2399,6 @@ redditforbusiness.com
 sh.reddit.com
 strapi.reddit.com
 ews-fusion.my.site.com
-platform.cat.earlywarning.io
-platformtest.cat.earlywarning.io
 zellepay.force.com
 zelleservice.my.site.com
 shoppers.instacart.com

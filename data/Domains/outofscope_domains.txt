@@ -1679,6 +1679,8 @@ flip0717.earlywarning.com
 api.zellepay.com
 api.zmsp.earlywarning.com
 earlywarningapi.force.com
+platform.cat.earlywarning.io
+platformtest.cat.earlywarning.io
 toolkit.zellepay.com
 zellepay.earlywarning.com
 brand.instacart.com

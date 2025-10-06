@@ -499,6 +499,8 @@ online.*.skybingo.com
 *.ubercarshare.com
 *.uberscoot.us
 *.ubertransit.io
+*scaledsolutions.uber.com
+*.uber.com
 *.uber.com.cn
 *.boost.livestream.com
 *.cdn.magisto.com
@@ -2307,6 +2309,8 @@ flip0717.earlywarning.com
 api.zellepay.com
 api.zmsp.earlywarning.com
 earlywarningapi.force.com
+platform.cat.earlywarning.io
+platformtest.cat.earlywarning.io
 toolkit.zellepay.com
 zellepay.earlywarning.com
 brand.instacart.com

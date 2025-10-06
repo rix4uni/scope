@@ -499,6 +499,8 @@ online.*.skybingo.com
 *.ubercarshare.com
 *.uberscoot.us
 *.ubertransit.io
+*scaledsolutions.uber.com
+*.uber.com
 *.uber.com.cn
 *.boost.livestream.com
 *.cdn.magisto.com

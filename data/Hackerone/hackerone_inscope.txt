@@ -1593,8 +1593,6 @@ strapi.reddit.com
 *.zelle.com
 *.zellepay.com
 ews-fusion.my.site.com
-platform.cat.earlywarning.io
-platformtest.cat.earlywarning.io
 zellepay.force.com
 zelleservice.my.site.com
 *.instacart.com
