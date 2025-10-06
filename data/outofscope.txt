@@ -535,6 +535,7 @@ online.*.skybingo.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
+*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -547,6 +548,7 @@ online.*.skybingo.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -3060,6 +3062,8 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
+technik.autobild.de
+technik.beta.autobild.de
 bestbuy.buhlergroup.com
 channel.buhlergroup.com
 gitlab.buhler-datascience.ch
@@ -3070,6 +3074,18 @@ help.capital.com
 relocate-with-us.capital.com
 3cxby.itcapital.io
 texis.itcapital.io
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
@@ -3214,6 +3230,7 @@ vgs-api.robinhood.com
 affiliates.robinhood.com
 share.robinhood.com
 roadshow.robinhood.com
+saytechnologies.com
 simscale.com
 careers.sqills.com
 limonsoda.cl
