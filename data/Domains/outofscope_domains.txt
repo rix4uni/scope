@@ -2449,18 +2449,6 @@ help.capital.com
 relocate-with-us.capital.com
 3cxby.itcapital.io
 texis.itcapital.io
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
@@ -2524,6 +2512,7 @@ roadmap.moralis.io
 status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
+nexuzhealth.com
 store.ninjakiwi.com
 support.ninjakiwi.com
 qs.ovotech.org.uk
@@ -2606,7 +2595,6 @@ affiliates.robinhood.com
 share.robinhood.com
 roadshow.robinhood.com
 saytechnologies.com
-simscale.com
 careers.sqills.com
 limonsoda.cl
 trouw.nl

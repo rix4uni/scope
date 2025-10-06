@@ -1,1 +1,7 @@
-app.aikido.dev
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
+forms.nexuzhealth.be
+idp-mobile.nexuzhealth.be
+mobile.nexuzhealth.be
+mynexuz.be
