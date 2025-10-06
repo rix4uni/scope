@@ -1,1 +1,15 @@
-challenge-1025.intigriti.io
+dropbox.com
+sign.dropbox.com
+hellosign.com
+dash.ai
+dash.dropbox.com
+api.dropbox.com
+replay.dropbox.com
+hellofax.com
+docsend.com
+app.reclaim.ai
+a.simplemdm.com
+auth2.pdq.tools
+library-staging.pdq.tools
+houston-staging.pdq.tools
+portal-staging.pdq.tools

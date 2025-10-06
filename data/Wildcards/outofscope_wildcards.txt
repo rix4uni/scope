@@ -562,6 +562,9 @@ online.*.skybingo.com
 *.monzo.me
 *.oisl.gg
 *.vectus.in
+*.pdq.com
+*.simplemdm.com
+*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com

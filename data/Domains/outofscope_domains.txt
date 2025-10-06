@@ -2561,6 +2561,7 @@ tech.ovoenergy.com
 testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
+detect.pdq.tools
 personio.de
 personio.slack.com
 statuspage.personio.de
