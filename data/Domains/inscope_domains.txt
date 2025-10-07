@@ -3221,6 +3221,13 @@ secureui.starbucks.com
 starbucks.ca
 starbucks.com
 starbucksreserve.com
+circolocorecords.com
+prod.ros.rockstargames.com
+rockstarnorth.com
+socialclub.rockstargames.com
+store.rockstargames.com
+support.rockstargames.com
+rockstargames.com
 bounty.github.com
 help.github.com
 cli.github.com

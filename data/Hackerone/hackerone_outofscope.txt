@@ -1762,6 +1762,13 @@ apply.starbucks.com
 careers.starbucks.com
 lsstar.starbucks.com
 *.ruby-lang.org
+anomotion.com
+any-invalid-domains.rockstargames.com
+rockstargames.com
+bomgar.rockstargames.com
+emailcontent.rockstargames.com
+faspex.rockstargames.com
+lifeinvader.com
 *.github.io
 atom.io
 electronjs.org
