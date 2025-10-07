@@ -16,5 +16,9 @@ cadelam.be
 cadelux.lu
 delen.bank
 delen.be
-co.uk.getmondo
-monzo.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
