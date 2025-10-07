@@ -1,3 +1,4 @@
+app.aikido.dev
 github.com
 myaccount.ad.nl
 webwinkel.ad.nl

@@ -1,3 +1,1 @@
-portal.exoscale.com
-exoscale.com
-community.exoscale.com
+app.aikido.dev
