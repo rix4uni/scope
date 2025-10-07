@@ -968,6 +968,7 @@ cf.*.aws.indriverapp
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
+*.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de
 *.sportbild.de

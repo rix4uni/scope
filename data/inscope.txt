@@ -968,6 +968,7 @@ cf.*.aws.indriverapp
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
+*.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de
 *.sportbild.de
@@ -4785,6 +4786,7 @@ app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
+adtechnology.axelspringer.com
 germany.politico.eu
 bild.de
 welt.de
