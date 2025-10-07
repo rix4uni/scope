@@ -1,10 +1,12 @@
 https://github.com/AikidoSec/firewall-node
 https://github.com/AikidoSec/firewall-python
 https://github.com/digitalocean/do-agent
-https://github.com/digitalocean/doctl
 https://github.com/digitalocean/droplet-agent
-https://github.com/digitalocean/go-nbd
+https://github.com/digitalocean/doctl
+https://github.com/digitalocean/godo
+https://github.com/digitalocean/pydo
 https://github.com/digitalocean/terraform-provider-digitalocean
+https://github.com/digitalocean/go-nbd
 https://github.com/digitalocean/do-markdownit
 https://github.com/grafana
 https://github.com/meshtastic/firmware

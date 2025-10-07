@@ -1,2 +1,2 @@
-https://github.com/AikidoSec/firewall-node
-https://github.com/AikidoSec/firewall-python
+https://github.com/digitalocean/godo
+https://github.com/digitalocean/pydo
