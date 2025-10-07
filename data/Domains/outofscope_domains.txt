@@ -2152,13 +2152,6 @@ try.nextcloud.com
 apply.starbucks.com
 careers.starbucks.com
 lsstar.starbucks.com
-anomotion.com
-any-invalid-domains.rockstargames.com
-rockstargames.com
-bomgar.rockstargames.com
-emailcontent.rockstargames.com
-faspex.rockstargames.com
-lifeinvader.com
 atom.io
 electronjs.org
 classroom.github.com

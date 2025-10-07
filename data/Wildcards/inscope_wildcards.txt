@@ -849,7 +849,6 @@ cf.*.aws.indriverapp
 *.wordcamp.org
 *.wordpress.net
 *.wordpress.org
-*.rockstargames.com
 *.github.net
 *.githubapp.com
 *.githubusercontent.com
