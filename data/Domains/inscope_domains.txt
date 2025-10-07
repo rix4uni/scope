@@ -3694,6 +3694,9 @@ bouw7.nl
 horeko.com
 weclapp.com
 exact.com
+portal.exoscale.com
+exoscale.com
+community.exoscale.com
 service.fing.com
 app.fing.com
 jaguar.here.com

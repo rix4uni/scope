@@ -1,7 +1,3 @@
-circolocorecords.com
-prod.ros.rockstargames.com
-rockstarnorth.com
-socialclub.rockstargames.com
-store.rockstargames.com
-support.rockstargames.com
-rockstargames.com
+portal.exoscale.com
+exoscale.com
+community.exoscale.com

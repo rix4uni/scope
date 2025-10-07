@@ -1,1 +1,3 @@
-*.rockstargames.com
+*exoscale.com
+*.exo.io
+*.internal.exoscale.ch
