@@ -1558,8 +1558,6 @@ sdx.com
 bolsasymercados.es
 six-group.com
 us.eufy.com
-api-user.e2ro.com
-node.e2ro.com
 ads.mozilla.org
 mars.prod.ads.prod.webservices.mozgcp.net
 ads.allizom.org

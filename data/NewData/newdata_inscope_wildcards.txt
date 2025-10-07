@@ -1,2 +1,2 @@
-*.monzo.com
-*.prod-ffs.io
+*.e2ro.com
+*.eero.com

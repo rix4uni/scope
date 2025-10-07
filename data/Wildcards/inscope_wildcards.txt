@@ -378,6 +378,8 @@ sip.*.twilio.com
 *.blinkforhome.com
 *.immedia-semi.com
 *.bmeinntech.es
+*.e2ro.com
+*.eero.com
 *.sync.services.mozilla.com
 *.redoxengine.com
 *.oklink.com
