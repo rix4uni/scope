@@ -849,6 +849,7 @@ cf.*.aws.indriverapp
 *.wordcamp.org
 *.wordpress.net
 *.wordpress.org
+*.rockstargames.com
 *.github.net
 *.githubapp.com
 *.githubusercontent.com
@@ -999,7 +1000,6 @@ cf.*.aws.indriverapp
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -4420,6 +4420,13 @@ secureui.starbucks.com
 starbucks.ca
 starbucks.com
 starbucksreserve.com
+circolocorecords.com
+prod.ros.rockstargames.com
+rockstarnorth.com
+socialclub.rockstargames.com
+store.rockstargames.com
+support.rockstargames.com
+rockstargames.com
 bounty.github.com
 help.github.com
 cli.github.com
@@ -4782,7 +4789,6 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -4824,14 +4830,6 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be

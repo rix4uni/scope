@@ -1,1 +1,1 @@
-*.asadcdn.com
+*.rockstargames.com
