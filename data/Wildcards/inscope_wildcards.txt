@@ -255,6 +255,9 @@ np.*.lfscnp.com
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
+*.jobsdb.com
+*.jobstreet.com
+*.seekasia.com
 *.prd.cam.simplisafe.com
 *.prd.platform.simplisafe.com
 *.prd.services.simplisafe.com
