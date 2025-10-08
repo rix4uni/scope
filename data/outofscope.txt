@@ -3331,7 +3331,6 @@ explore.alasco.com
 explore.alasco.de
 alasco.de
 logging.apache.org
-agora.beta.gouv.fr
 blog.bitoasis.net
 dev.blablacar.com
 sncf-connect.com
@@ -3376,6 +3375,7 @@ cmsdev.dana.id
 techops.dana.id
 dm.dana.id
 encrypt.dana.id
+agora.beta.gouv.fr
 doc.demarches-simplifiees.fr
 beta.gouv.fr
 demarches-simplifiees.fr

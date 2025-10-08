@@ -4043,9 +4043,6 @@ anext.com.sg
 alipayhk.com
 antbank.hk
 mysrc.group
-app.sandbox.agora.incubateur.net
-api.sandbox.agora.incubateur.net
-content.agora.beta.gouv.fr
 gtw-b2capps.bforbank.com
 bookbeat.com
 api.bookbeat.com
@@ -4070,6 +4067,9 @@ cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
 login.decathlon.net
 account.decathlon.com
+app.sandbox.agora.incubateur.net
+api.sandbox.agora.incubateur.net
+content.agora.beta.gouv.fr
 demarches-simplifiees.fr
 static.demarches-simplifiees.fr
 identite-sandbox.proconnect.gouv.fr
