@@ -280,6 +280,14 @@ anywhere.epam.com
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
 icht.etsysecure.com
+exoscale.com
+community.exoscale.com
+academy.exoscale.com
+jobs.exoscale.com
+changelog.exoscale.com
+openapi-v2.exoscale.com
+zammad.internal.exoscale.ch
+exoscalestatus.com
 gslink.financialforce.com
 apuat-aaa.fisglobal.com
 *.db.fivetran.com
