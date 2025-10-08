@@ -78,7 +78,6 @@ casino.*.betmgm.com
 *.emakina.us
 *.emakina.at
 *.etsy.com
-*.internal.exoscale.ch
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
@@ -1004,6 +1003,7 @@ cf.*.aws.indriverapp
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1025,6 +1025,7 @@ cf.*.aws.indriverapp
 *.weclapp.com
 *exoscale.com
 *.exo.io
+*.internal.exoscale.ch
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com

@@ -78,7 +78,6 @@ casino.*.betmgm.com
 *.emakina.us
 *.emakina.at
 *.etsy.com
-*.internal.exoscale.ch
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
@@ -1004,6 +1003,7 @@ cf.*.aws.indriverapp
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1025,6 +1025,7 @@ cf.*.aws.indriverapp
 *.weclapp.com
 *exoscale.com
 *.exo.io
+*.internal.exoscale.ch
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
@@ -1422,11 +1423,6 @@ blog.etsy.com
 careers.etsy.com
 help.etsy.com
 community.etsy.com
-portal.exoscale.com
-api-ch-gva-2.exoscale.com
-sos-ch-gva-2.exo.io
-internal.exoscale.ch
-sks-ch-gva-2.exo.io
 financialforce.com
 fivetran.com
 flo.uri.sh
@@ -4851,6 +4847,14 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -4908,6 +4912,7 @@ bouw7.nl
 horeko.com
 weclapp.com
 exact.com
+portal.exoscale.com
 exoscale.com
 community.exoscale.com
 service.fing.com
