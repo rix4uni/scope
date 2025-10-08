@@ -8,6 +8,7 @@
 *.allegro.sk
 *.allegrogroup.com
 *.axelspringer.com
+adtechnology.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com

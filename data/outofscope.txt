@@ -3079,6 +3079,7 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
+adtechnology.axelspringer.com
 bestbuy.buhlergroup.com
 channel.buhlergroup.com
 gitlab.buhler-datascience.ch
