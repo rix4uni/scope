@@ -1,1 +1,2 @@
-app.aikido.dev
+bug-bounty-dfm.mementoblockchain.com
+api.dextf.com

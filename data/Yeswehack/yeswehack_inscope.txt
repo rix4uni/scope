@@ -54,7 +54,6 @@ login.decathlon.net
 account.decathlon.com
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
-content.agora.beta.gouv.fr
 demarches-simplifiees.fr
 static.demarches-simplifiees.fr
 github.com
@@ -233,6 +232,8 @@ payoutapi.maya.ph
 op.paymaya.com
 connect.paymaya.com
 paymayabiller-prod.paymaya.com
+bug-bounty-dfm.mementoblockchain.com
+api.dextf.com
 monespacesante.fr
 admincms.monespacesante.fr
 adminstore.monespacesante.fr
