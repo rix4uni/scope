@@ -4819,6 +4819,8 @@ go.welt.de
 meinkonto.bild.de
 dealer.prod.ps.axelspringer.de
 editorial.one
+technik.autobild.de
+technik.beta.autobild.de
 bmw-motorrad.de
 bmw.de
 mini.de
