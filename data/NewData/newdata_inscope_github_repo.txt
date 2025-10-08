@@ -1,2 +1,1 @@
-https://github.com/digitalocean/godo
-https://github.com/digitalocean/pydo
+https://github.com/brave/*,
