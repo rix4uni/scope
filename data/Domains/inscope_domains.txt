@@ -699,6 +699,7 @@ pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org
+shffls.com
 pixabay.com
 my.planethoster.com
 api.planethoster.net
