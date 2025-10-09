@@ -251,15 +251,6 @@ kinepolis.biz
 *.kinepolis.nl
 *.landmarkcinemas.com
 *.mjrtheatres.com
-edge.lansweeper.com
-api.lansweeper.com
-app.lansweeper.com
-backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-lansweeper.com
 libelle.nl
 *.libelle.nl
 mobilevikings.be
