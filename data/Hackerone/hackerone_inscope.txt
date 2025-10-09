@@ -928,6 +928,7 @@ api.khealth.io
 app.khealth.com
 kaccount.khealth.com
 ask.khealth.com
+auth.hhc247.org
 eligibility.khealth.com
 auth.khealth.com
 clinical-quality.khealth.com
@@ -935,6 +936,7 @@ clinical-quality.khealth.com
 *.khealth.io
 *.khealth.us
 middle-force.khealth.io
+org.hartfordhealthcare.hhc
 salesforce.khealth.com
 start.khealth.com
 treatments.khealth.com

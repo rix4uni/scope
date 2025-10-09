@@ -631,6 +631,7 @@ dc-stage.latam.com
 dcci-cert.latam.com
 api-2.khealth.io
 careers.khealth.com
+hhc247.org
 *.hydrogenhealth.com
 khealth.com
 khealth-test.com
