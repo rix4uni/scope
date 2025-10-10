@@ -4180,6 +4180,10 @@ binisoft.org
 cloud.malwarebytes.com
 my.malwarebytes.com
 oneview.malwarebytes.com
+oneview.threatdown.com
+threatdown.com
+support.threatdown.com
+dev-threatdown.com
 org.malwarebytes.antimalware
 download-office.grammarly.com
 3p-access.grammarly.com
