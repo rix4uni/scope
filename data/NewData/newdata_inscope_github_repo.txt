@@ -1,1 +1,2 @@
-https://github.com/brave/*,
+https://github.com/AikidoSec/firewall-node
+https://github.com/AikidoSec/firewall-python
