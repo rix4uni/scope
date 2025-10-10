@@ -1062,8 +1062,6 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com
@@ -1105,7 +1103,6 @@ cf.*.aws.indriverapp
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io

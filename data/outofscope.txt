@@ -562,7 +562,6 @@ online.*.skybingo.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.oisl.gg
 *.vectus.in
 *.pdq.com
@@ -1663,6 +1662,8 @@ enchantedfinejewelry.com
 waltdisney.org
 eis.hilton.com
 guestfeedback.hilton.com
+hgv.com
+hiltonfoundation.org
 hiltongrandvacations.com
 hiltonnet.hilton.com
 jobs.hilton.com
@@ -3160,9 +3161,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io

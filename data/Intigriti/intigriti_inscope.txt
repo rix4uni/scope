@@ -284,10 +284,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -550,13 +546,6 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 testing.maventa.com
-api.voiapp.io
-io.voiapp.voi
-mds.voiapp.io
-*.voiscooters.com
-report.voi.com
-voi.com
-voiscooters.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com

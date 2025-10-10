@@ -1062,8 +1062,6 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com
@@ -1105,7 +1103,6 @@ cf.*.aws.indriverapp
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
@@ -5000,8 +4997,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -5223,12 +5218,6 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 testing.maventa.com
-api.voiapp.io
-io.voiapp.voi
-mds.voiapp.io
-report.voi.com
-voi.com
-voiscooters.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com
