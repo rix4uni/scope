@@ -3,10 +3,6 @@
 *.dynamics.com
 *.jobmanager.dk
 *.aikido.dev
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 *.axelspringer.com
 adtechnology.axelspringer.com
 *.info.buhlergroup.com
