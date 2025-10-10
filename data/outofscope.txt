@@ -557,8 +557,6 @@ online.*.skybingo.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
-*.grafana.com
-*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
@@ -3158,8 +3156,6 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 academy.moralis.io
 docs.moralis.io
