@@ -1004,6 +1004,7 @@ cf.*.aws.indriverapp
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
+*.snapshooter.com
 *.dropbox.com
 *.dropboxer.net
 *.dropboxforum.com
@@ -4885,7 +4886,6 @@ api.digitalocean.com
 cloud.digitalocean.com
 amd.digitalocean.com
 marketplace.digitalocean.com
-snapshooter.com
 digitalocean.com
 digitaloceanmirrors.com
 digitaloceanpartners.com
