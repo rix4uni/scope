@@ -4973,6 +4973,15 @@ nz.co.vista.android.movie.mjrtheatres
 stage.landmarkcinemas.com
 userprofile-acc.landmarkcinemas.com
 kinepolis.biz
+edge.lansweeper.com
+api.lansweeper.com
+app.lansweeper.com
+backoffice.lansweeper.com
+lsagentrelay.lansweeper.com
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+lansweeper.com
 libelle.nl
 mobilevikings.be
 api.unleashed.be

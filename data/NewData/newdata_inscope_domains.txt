@@ -1,6 +1,9 @@
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
+edge.lansweeper.com
+api.lansweeper.com
+app.lansweeper.com
+backoffice.lansweeper.com
+lsagentrelay.lansweeper.com
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+lansweeper.com
