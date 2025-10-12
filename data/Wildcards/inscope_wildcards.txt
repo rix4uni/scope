@@ -452,7 +452,6 @@ cf.*.aws.indriverapp
 *.krisp.ai
 *.khealth.com
 *.khealth.io
-*.khealth.us
 *.bingoblitz.com
 *.boardkingsgame.com
 *.caesarsgames.com

@@ -1897,7 +1897,6 @@ upld.krisp.ai
 accounts.khealth.com
 ai.kanghealth
 api.khealth.com
-api.khealth.io
 app.khealth.com
 kaccount.khealth.com
 ask.khealth.com
@@ -1905,7 +1904,6 @@ auth.hhc247.org
 eligibility.khealth.com
 auth.khealth.com
 clinical-quality.khealth.com
-middle-force.khealth.io
 org.hartfordhealthcare.hhc
 salesforce.khealth.com
 start.khealth.com

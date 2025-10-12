@@ -293,7 +293,6 @@ bus.*.indrive.com
 *.neweggbusiness.com
 *.fastly.net
 *.krisp.ai
-*.hydrogenhealth.com
 *.profitect.com
 *.zebracard.com
 *medialibrary.zebra.com
