@@ -1,1 +1,6 @@
-*.snapshooter.com
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
+*.monzo.com
+*.prod-ffs.io
+*.voiscooters.com

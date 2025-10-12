@@ -3,6 +3,10 @@
 *.dynamics.com
 *.jobmanager.dk
 *.aikido.dev
+*.allegro.cz
+*.allegro.pl
+*.allegro.sk
+*.allegrogroup.com
 *.axelspringer.com
 adtechnology.axelspringer.com
 *.info.buhlergroup.com
@@ -54,6 +58,8 @@ changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
 jobs.exoscale.com
+*.grafana.com
+*.grafana.net
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
@@ -104,6 +110,10 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+*.monzo.me
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io

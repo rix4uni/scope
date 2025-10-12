@@ -1,9 +1,8 @@
-edge.lansweeper.com
-api.lansweeper.com
-app.lansweeper.com
-backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-lansweeper.com
+co.uk.getmondo
+monzo.com
+api.voiapp.io
+io.voiapp.voi
+mds.voiapp.io
+report.voi.com
+voi.com
+voiscooters.com

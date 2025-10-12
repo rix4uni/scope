@@ -534,6 +534,10 @@ online.*.skybingo.com
 *.dynamics.com
 *.jobmanager.dk
 *.aikido.dev
+*.allegro.cz
+*.allegro.pl
+*.allegro.sk
+*.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -553,9 +557,12 @@ online.*.skybingo.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
+*.monzo.me
 *.oisl.gg
 *.vectus.in
 *.pdq.com
