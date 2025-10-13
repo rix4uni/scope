@@ -2745,11 +2745,6 @@ derivws.com
 oauth.deriv.com
 secure-dfadmin.deriv.com
 smarttrader.deriv.com
-*.glassdoor.com
-api.glassdoor.com
-design.glassdoor.com
-help.glassdoor.com
-glassdoor.com
 *.gotinder.com
 *.tinder.com
 *.tinderops.net

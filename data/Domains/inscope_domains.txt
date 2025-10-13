@@ -3288,10 +3288,6 @@ derivws.com
 oauth.deriv.com
 secure-dfadmin.deriv.com
 smarttrader.deriv.com
-api.glassdoor.com
-design.glassdoor.com
-help.glassdoor.com
-glassdoor.com
 fetlife.com
 fetlifemail.com
 dashboard.algolia.com
@@ -3654,6 +3650,7 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
+challenge-1025.intigriti.io
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com

@@ -65,6 +65,7 @@ capital.com
 open-api.capital.com
 *.capital.com
 *.itcapital.io
+challenge-1025.intigriti.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
