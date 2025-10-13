@@ -753,6 +753,12 @@ x.com
 youtube.com
 advisoryworld.com
 issue-management.iontrading.com
+api-stage.pricerunner.com
+api-us.pricerunner.com
+api.pricerunner.com
+app.klarna.com
+locker.klarna.com
+nuji.com
 docs.wallet.tg
 wallet.helpscoutdocs.com
 api-dev.singlestore.com

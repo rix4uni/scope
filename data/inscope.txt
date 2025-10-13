@@ -2600,7 +2600,15 @@ app.circle.com
 app-sandbox.circle.com
 console.circle.com
 portal.playground.klarna.com
+api.klarna.com
 app.klarna.com
+js.klarna.com
+klarna.com
+klarna.net
+klarnacdn.net
+portal.openbanking.playground.klarna.com
+pricerunner.com
+xs2a.banking.playground.klarna.com
 pay.wallet.tg
 wallet.tg
 walletbot.me

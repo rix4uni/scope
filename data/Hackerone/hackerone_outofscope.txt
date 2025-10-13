@@ -132,6 +132,12 @@ advisoryworld.com
 *.cyral.com
 *.varonis-preprod.com
 issue-management.iontrading.com
+api-stage.pricerunner.com
+api-us.pricerunner.com
+api.pricerunner.com
+app.klarna.com
+locker.klarna.com
+nuji.com
 docs.wallet.tg
 wallet.helpscoutdocs.com
 *.ito.singlestore.com
