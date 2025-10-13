@@ -1075,9 +1075,6 @@ cf.*.aws.indriverapp
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
 *.swisspass.ch
 *.sbb.ch
 *.saytechnologies.com
@@ -4815,6 +4812,7 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl

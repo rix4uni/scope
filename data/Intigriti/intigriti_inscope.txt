@@ -1,3 +1,4 @@
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -380,9 +381,6 @@ business.rivian.com
 rivian.com
 *.rivian.com
 basecamp.rivian.com
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
 *.swisspass.ch
 sbb.ch
 *.sbb.ch
