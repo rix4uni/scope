@@ -527,6 +527,7 @@ online.*.skybingo.com
 *.concretecms.com
 *.concretecms.org
 *.glitchthegame.com
+g.*.slackhq.com
 *.rubyonrails.org
 *.birds.bi
 *.birds.com

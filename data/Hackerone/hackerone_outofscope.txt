@@ -2119,6 +2119,7 @@ concretecms.com
 concretecms.org
 *.glitchthegame.com
 slackhq.com
+g.*.slackhq.com
 status.slack.com
 *.rubyonrails.org
 go.hacker.one
