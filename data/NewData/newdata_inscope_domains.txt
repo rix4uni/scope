@@ -1,8 +1,1 @@
-co.uk.getmondo
-monzo.com
-api.voiapp.io
-io.voiapp.voi
-mds.voiapp.io
-report.voi.com
-voi.com
-voiscooters.com
+cloud.threatdownstage.com
