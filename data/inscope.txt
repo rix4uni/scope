@@ -418,9 +418,8 @@ cf.*.aws.indriverapp
 *.metamask.io
 *.account.mongodb.com
 *.cloud.mongodb.com
-*.corp.mongodb.com
-*mongodb.com
 *.mongodb.com
+*.corp.mongodb.com
 *.infosec.mongodb.com
 *.marian.mongodb.com
 *.transport.mongodb.com

@@ -801,10 +801,8 @@ palantirgov.com
 foundrygov.com
 *.account.mongodb.com
 *.cloud.mongodb.com
-artifactory.corp.mongodb.com
-*.corp.mongodb.com
-*mongodb.com
 *.mongodb.com
+*.corp.mongodb.com
 *.infosec.mongodb.com
 *.marian.mongodb.com
 *.transport.mongodb.com
@@ -815,6 +813,7 @@ artifactory.corp.mongodb.com
 *.university.mongodb.com
 *.blog.mongodb.com
 *.api.mongodb.com
+artifactory.corp.mongodb.com
 mongodb.live
 *ripiotrade.co
 itunes.apple.com
