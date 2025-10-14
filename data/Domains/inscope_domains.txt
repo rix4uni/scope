@@ -2426,7 +2426,6 @@ api.magic.link
 auth.magic.link
 docs.magic.link
 dashboard.magic.link
-newton.xyz
 dbmanalytics.carrentals.com
 faq-lab.cheaptickets.com
 faq.cheaptickets.com
