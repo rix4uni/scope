@@ -1,4 +1,3 @@
-app.aikido.dev
 winkels.torfs.be
 schoenentorfs.be
 schoenentorfs.nl
