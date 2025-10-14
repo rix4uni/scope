@@ -1854,6 +1854,13 @@ hhc247.org
 khealth.com
 khealth-test.com
 support.smtp2go.com
+bluesky.cl
+interstitials.travelproducts.jetblue.com
+irisimagegenprd.travelproducts.jetblue.com
+jbdealsfeed-stgnew.jetblue.com
+oe.travelproducts.jetblue.com
+prod.travelproducts.jetblue.com
+travelproducts.jetblue.com
 cmm01.sl.zebra.com
 comtecis.com
 eltron.com
