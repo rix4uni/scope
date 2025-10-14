@@ -233,6 +233,12 @@ visayanelectric.com
 iflex.snaboitiz.com
 support.world.org
 support.worldcoin.com
+*.thebodyshop.com.bh
+*.thebodyshop.com.kw
+*.thebodyshop.com.tr
+*.thebodyshop.pl
+*.thebodyshop.qa
+thebodyshop.cz
 *.envira.es
 envira.global
 *.eurofins-digitaltesting.com

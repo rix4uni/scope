@@ -255,6 +255,11 @@ db.*.supabase.co
 *.playground.travix.com
 *.stg.travix.com
 *.gobrightspeed.net
+*.thebodyshop.com.bh
+*.thebodyshop.com.kw
+*.thebodyshop.com.tr
+*.thebodyshop.pl
+*.thebodyshop.qa
 *.envira.es
 *.eurofins-digitaltesting.com
 *.sgs.com
@@ -1472,6 +1477,7 @@ visayanelectric.com
 iflex.snaboitiz.com
 support.world.org
 support.worldcoin.com
+thebodyshop.cz
 envira.global
 truist.com
 saferpay.com
