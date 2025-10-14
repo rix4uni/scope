@@ -57,7 +57,6 @@ https://github.com/hyperledger/iroha-scala
 https://github.com/hyperledger/sawtooth-core
 https://github.com/hyperledger/slack-archive
 https://github.com/kiwicom/pytest-recording
-https://github.com/helium/helium-console-cli
 https://github.com/brave/brave-ios
 https://github.com/brave/browser-ios
 https://github.com/brave/browser-laptop

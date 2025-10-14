@@ -2937,6 +2937,7 @@ account.adobe.com
 account.magento.com
 adobeid-na1.services.adobe.com
 auth.services.adobe.com
+commercemarketplace.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
 fonts.adobe.com
@@ -2945,7 +2946,6 @@ ims-na1.adobelogin.com
 contentcredentials.org
 learningmanagerstage4.adobe.com
 magento.com
-marketplace.magento.com
 net.s2stagehance.com
 new.express.adobe.com
 photos.adobe.io
