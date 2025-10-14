@@ -1302,6 +1302,7 @@ admin.docusign.com
 app.docusign.com
 docusign.net
 rooms.docusign.com
+regionstest.com
 lovable.app
 blog.thenorthface.com.br
 jansport.ca

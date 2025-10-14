@@ -3,6 +3,7 @@ admin.docusign.com
 app.docusign.com
 docusign.net
 rooms.docusign.com
+regionstest.com
 *.tucows.com
 lovable.app
 *.blog.thenorthface.com.br
