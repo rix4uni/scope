@@ -538,6 +538,7 @@ g.*.slackhq.com
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -566,7 +567,6 @@ g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.oisl.gg
 *.vectus.in
 *.pdq.com

@@ -1,3 +1,4 @@
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -282,10 +283,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -430,6 +427,12 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
@@ -516,14 +519,6 @@ vtm.be
 vtmgo.be
 *.vtm.be
 *.vtmgo.be
-api-wallet.venly.io
-api.arkane.network
-connect.arkane.network
-connect.venly.io
-login.arkane.network
-login.venly.io
-wallet.venly.io
-api-wallet-sandbox.venly.io
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com

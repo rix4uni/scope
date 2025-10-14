@@ -2,6 +2,7 @@
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -109,10 +110,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-*.monzo.me
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io
