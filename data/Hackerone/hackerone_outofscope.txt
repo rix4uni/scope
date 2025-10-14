@@ -92,6 +92,7 @@ smallbusiness.experian.com
 *.eightfold.ai
 eightfold.ai
 bol.rwbaird.com
+clientdocs.rwbaird.com
 uatclientdocs.rwbaird.com
 rwbaird.com
 docs.hemi.xyz
