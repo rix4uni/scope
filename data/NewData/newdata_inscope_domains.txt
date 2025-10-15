@@ -1,4 +1,6 @@
-gofood.co.id
-api.midtrans.com
-app.midtrans.com
-midtrans.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
