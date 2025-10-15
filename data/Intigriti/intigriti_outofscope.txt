@@ -420,7 +420,6 @@ affiliates.robinhood.com
 share.robinhood.com
 roadshow.robinhood.com
 saytechnologies.com
-simscale.com
 *.red.sqills.team
 booking.*.cloud.sqills
 booking.*.sqills.com
