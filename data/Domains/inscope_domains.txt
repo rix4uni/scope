@@ -4196,8 +4196,12 @@ pci.kindredgroup.com
 32red.com
 cdn.unicdn.net
 api.gojek.co.id
+gofood.co.id
 gopaymerchant.midtrans.com
 mokapos.com
+api.midtrans.com
+app.midtrans.com
+midtrans.com
 events.onecloud.harman.com
 ota.onecloud.harman.com
 apis.onecloud.harman.com

@@ -1136,6 +1136,7 @@ cf.*.aws.indriverapp
 *.xvservice.net
 *.polymoon.it
 *.gojekapi.com
+*.gofood.co.id
 *.grwtrading.com
 *.dropxl.com
 *.wholesalexl.com
