@@ -1267,6 +1267,7 @@ watsons.com.tr
 0.watsons.com.sg
 0.watsons.com.tw
 0.watsons.vn
+*.pipopay.com
 *.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com

@@ -1,1 +1,1 @@
-*.gofood.co.id
+*.pipopay.com
