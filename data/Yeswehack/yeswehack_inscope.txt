@@ -284,6 +284,7 @@ supplier-connect.otto.de
 retail-api.otto.de
 api.ovh.com
 ovh.com
+*.soyoustart.com
 sandbox.open-xchange.com
 *.okto.tech
 onedoc.ch

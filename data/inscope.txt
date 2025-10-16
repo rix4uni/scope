@@ -1165,6 +1165,7 @@ cf.*.aws.indriverapp
 *.dsanalytics.com
 *.dialog.com.au
 *.ncsimpact.co
+*.soyoustart.com
 *.okto.tech
 *.privateinternetaccess.com
 *.piaservers.com
@@ -2429,8 +2430,11 @@ pzsf.de
 shop.porsche.com
 signup.porsche.com
 skyway.porsche.com
+studio-fa-porsche.at
+studio-fa-porsche.com
 studio-fa-porsche.de
 studio-fa-porsche.net
+studiofaporsche.at
 studiofaporsche.com
 studiofaporsche.de
 studiofaporsche.net
