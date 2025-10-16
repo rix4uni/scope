@@ -65,6 +65,7 @@ hsd1.*.comcast.net
 *.ropsten.x.immutable.com
 *.guildofguardians.com
 *.joralocal.com.au
+*.business.just-eat.co.uk
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com

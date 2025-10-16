@@ -65,6 +65,7 @@ hsd1.*.comcast.net
 *.ropsten.x.immutable.com
 *.guildofguardians.com
 *.joralocal.com.au
+*.business.just-eat.co.uk
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
@@ -3458,6 +3459,7 @@ affiliates.robinhood.com
 share.robinhood.com
 roadshow.robinhood.com
 saytechnologies.com
+simscale.com
 careers.sqills.com
 limonsoda.cl
 trouw.nl
