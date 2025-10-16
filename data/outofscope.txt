@@ -565,6 +565,7 @@ g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
+*.monzo.me
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
 *.ovotech.org.uk
@@ -1475,6 +1476,7 @@ support.wonder.com
 support.blueapron.com
 support.grubhub.com
 support.seamless.com
+recruitment.roke.co.uk
 greenfly.com
 dhcp.embarqhsd.net
 aboitiz.account.box.com
@@ -3175,6 +3177,9 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io
