@@ -1,4 +1,1 @@
-*.soundcloud.org
-*.s-cloud.net
-*.soundcloud.com
-*.services.repostnetwork.com
+*.gov.bugcrowd.net

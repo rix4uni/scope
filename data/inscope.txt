@@ -36,6 +36,7 @@ portalapi.*.afterpay.com
 *.bitstamp.net
 *.taxify.eu
 *.bolt.eu
+*.gov.bugcrowd.net
 *.bugcrowd.com
 *.canva.com
 *.canva-apps.com
@@ -1337,6 +1338,7 @@ docs.bugcrowd.com
 bugcrowd.com
 tracker.bugcrowd.com
 api.bugcrowd.com
+gov.bugcrowd.net
 identity.bugcrowd.com
 bullish.com
 investor.bullish.com
