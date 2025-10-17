@@ -32,6 +32,7 @@ events.1password.com
 arc.net
 bcny.com
 company.thebrowser.arc
+diabrowser.com
 thebrowser.company
 *.onduo.com
 enroll.onduo.com

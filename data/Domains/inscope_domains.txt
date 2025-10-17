@@ -1139,6 +1139,7 @@ events.1password.com
 arc.net
 bcny.com
 company.thebrowser.arc
+diabrowser.com
 thebrowser.company
 enroll.onduo.com
 helix.verily.com
