@@ -1,10 +1,7 @@
-*.gamma.be
-*.gamma.nl
-*.intergamma.cloud
-*.intergamma.nl
-*.karwei.nl
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
+*signalservice.comcast.net
+*.dh-commerce.com
+*.ssr.ccp.xcal.tv
+*.xfiplatform.com
+*.codebig2.net
+*.cloud.comcast.net
+*.xfinityhome.com
