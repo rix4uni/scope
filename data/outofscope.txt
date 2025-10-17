@@ -2269,8 +2269,6 @@ qbo-api.gocardless.com
 qbo.gocardless.com
 storybook.gocardless.io
 support.gocardless.com
-xero-sandbox.gocardless.com
-manage.gocardless
 xero-staging.gocardless.com
 xero.gocardless.com
 preview.midigator.com
