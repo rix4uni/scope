@@ -265,6 +265,10 @@ np.*.lfscnp.com
 *.prd.webapps.simplisafe.com
 *.skyscanner.net
 *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.soundcloud.com
+*.services.repostnetwork.com
 *.square.com
 *.squareup.com
 *.statuspage.io
@@ -1071,13 +1075,8 @@ cf.*.aws.indriverapp
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
 *.swisspass.ch
 *.sbb.ch
-*.saytechnologies.com
-*.say.rocks
 *.sqills.com
 *.sqills.team
 *.weareone.world

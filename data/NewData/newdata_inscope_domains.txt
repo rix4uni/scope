@@ -1,6 +1,4 @@
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
+soundcloud.com
+connect.soundcloud.com
+artists.soundcloud.com
+soundcloud.org
