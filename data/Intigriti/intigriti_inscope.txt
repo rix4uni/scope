@@ -389,12 +389,17 @@ business.rivian.com
 rivian.com
 *.rivian.com
 basecamp.rivian.com
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
 *.swisspass.ch
 sbb.ch
 *.sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
+*.saytechnologies.com
+*.say.rocks
 cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
