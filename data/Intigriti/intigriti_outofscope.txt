@@ -3,10 +3,6 @@
 *.dynamics.com
 *.jobmanager.dk
 *.aikido.dev
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 adtechnology.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -19,13 +15,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-*affiliates.backend-capital.com
-*eduapp.backend-capital.com
-*education.backend-capital.com
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
 *.digi-mobile.be
