@@ -1,5 +1,3 @@
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.saytechnologies.com
-*.say.rocks
+*.backend-capital.com
+*.capital.com
+*.itcapital.io

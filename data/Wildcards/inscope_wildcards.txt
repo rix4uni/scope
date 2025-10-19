@@ -975,6 +975,9 @@ cf.*.aws.indriverapp
 *.ad.nl
 *.bmc.nl
 *.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
