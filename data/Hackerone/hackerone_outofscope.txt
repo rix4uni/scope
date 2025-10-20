@@ -136,6 +136,7 @@ help.ishosting.com
 2kleague-dev.nba.com
 2kleague-qa.nba.com
 2kleague.nba.com
+coalition.nba.com
 dev.stats.2kleague.nba.com
 evergent.com
 mindhealth.nba.com
@@ -551,6 +552,7 @@ request-headers.moonpay.com
 storefront.hypermint.com
 support.moonpay.com
 *.koho.ca
+*.line-of-credit.koho.ca
 admit-it-win.cadbury.co.uk
 bournvitadfordreams.in
 cadbury-merlin.cadbury.co.uk

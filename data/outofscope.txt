@@ -296,6 +296,7 @@ bus.*.indrive.com
 *.sqstitle.com
 *.plexlabs.io
 *.koho.ca
+*.line-of-credit.koho.ca
 *.neweggbusiness.com
 *.fastly.net
 *.krisp.ai
@@ -1404,6 +1405,7 @@ help.ishosting.com
 2kleague-dev.nba.com
 2kleague-qa.nba.com
 2kleague.nba.com
+coalition.nba.com
 dev.stats.2kleague.nba.com
 evergent.com
 mindhealth.nba.com
@@ -3587,6 +3589,8 @@ explore.contentsquare.com
 get.contentsquare.com
 trust.contentsquare.com
 loyalty.contentsquare.com
+page.contentsquare.com
+invite.contentsquare.com
 bounty.cryptobox.com
 cybermalveillance.gouv.fr
 webdev.dana.id

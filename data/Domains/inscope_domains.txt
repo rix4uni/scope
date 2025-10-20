@@ -1292,7 +1292,6 @@ cdn-bal.nba.com
 cdn.nba.com
 cl.nba.com
 cms.nba.com
-coalition.nba.com
 content-api-dev.nba.com
 content-api-nextgen-dev.nba.com
 content-api-nextgen-prod.nba.com
@@ -1668,6 +1667,8 @@ support.allizom.org
 sync.services.mozilla.com
 token.services.mozilla.com
 vpn.mozilla.org
+firefox.com
+springfield.moz.works
 mozilla.org
 allizom.org
 10x.redoxengine.com

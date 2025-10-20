@@ -51,6 +51,8 @@ explore.contentsquare.com
 get.contentsquare.com
 trust.contentsquare.com
 loyalty.contentsquare.com
+page.contentsquare.com
+invite.contentsquare.com
 bounty.cryptobox.com
 *.cryptobox.com
 *.ercom.fr
