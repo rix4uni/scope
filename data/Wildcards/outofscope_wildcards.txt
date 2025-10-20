@@ -537,6 +537,11 @@ g.*.slackhq.com
 *.dynamics.com
 *.jobmanager.dk
 *.aikido.dev
+*.allegro.cz
+*.allegro.pl
+*.allegro.sk
+*.allegrogroup.com
+*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -558,7 +563,9 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
+*.monzo.me
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
 *.ovotech.org.uk
