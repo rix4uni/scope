@@ -426,12 +426,6 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
