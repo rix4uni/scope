@@ -1,13 +1,2 @@
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
+dashboard.algolia.com
+algolia.com
