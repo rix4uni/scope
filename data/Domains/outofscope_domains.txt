@@ -786,6 +786,7 @@ api-stage.pricerunner.com
 api-us.pricerunner.com
 api.pricerunner.com
 app.klarna.com
+jobs.pricerunner.com
 locker.klarna.com
 nuji.com
 docs.wallet.tg
