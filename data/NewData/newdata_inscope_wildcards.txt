@@ -1,2 +1,2 @@
-*.algolia.net
-*.algolianet.com
+*.konghq.com
+*.api.konghq.com

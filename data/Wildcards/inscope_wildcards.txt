@@ -330,6 +330,8 @@ sip.*.twilio.com
 *.robinhood.net
 *.say.rocks
 *.saytechnologies.com
+*.konghq.com
+*.api.konghq.com
 *.hubspotemail.net
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu

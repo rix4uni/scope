@@ -690,6 +690,14 @@ docusign.net
 rooms.docusign.com
 regionstest.com
 lovable.app
+docs.konghq.com
+cloud.konghq.tech
+us.api.konghq.tech
+httpbin.konghq.com
+httpbin.org
+insomnia.rest
+konghq.com
+kuma.io
 blog.thenorthface.com.br
 jansport.ca
 jansport.cl

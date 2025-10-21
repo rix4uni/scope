@@ -202,6 +202,11 @@ argocd.*.uidapi.com
 *.fwmrm.net
 *.account.docusign.com
 *.tucows.com
+*.edge.gateways.konghq.com
+*.gateways.konghq.com
+*.gateways.konggateway.com
+*.edge.gateways.konggateway.com
+*.konghq.tech
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl
@@ -1333,6 +1338,14 @@ docusign.net
 rooms.docusign.com
 regionstest.com
 lovable.app
+docs.konghq.com
+cloud.konghq.tech
+us.api.konghq.tech
+httpbin.konghq.com
+httpbin.org
+insomnia.rest
+konghq.com
+kuma.io
 blog.thenorthface.com.br
 jansport.ca
 jansport.cl
