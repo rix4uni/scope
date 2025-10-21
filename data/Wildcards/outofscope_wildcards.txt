@@ -466,6 +466,9 @@ online.*.skybingo.com
 *sg.kiwi.com
 *kiwi.com
 *skypicker.com
+*.helium.foundation
+*.helium.io
+*.helium.wtf
 *.portswigger.net
 *.web-security-academy.net
 *.wordpress.com
