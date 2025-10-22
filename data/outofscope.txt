@@ -550,6 +550,7 @@ g.*.slackhq.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
+*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -3236,7 +3237,6 @@ roadmap.moralis.io
 status.moralis.io
 studygroup.moralis.io
 talent.moralis.io
-nexuzhealth.com
 store.ninjakiwi.com
 support.ninjakiwi.com
 prod.tardis.ovotech.org.uk
