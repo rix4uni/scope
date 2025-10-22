@@ -1,5 +1,4 @@
-*.canva.com
-*.canva-apps.com
-*.canva.tech
-*.canva.cn
-*.canva-apps.cn
+*.indeed.com
+*.indeedflex.com
+*.indeed.tech
+*.indeed.net
