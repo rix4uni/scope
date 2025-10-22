@@ -38,6 +38,11 @@ portalapi.*.afterpay.com
 *.bolt.eu
 *.gov.bugcrowd.net
 *.bugcrowd.com
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn
 *.cash.app
 *.cashstaging.app
 *.chimepayments.com
@@ -107,10 +112,6 @@ casino.*.betmgm.com
 *.imperva.com
 *.cloudvector.com
 *.incapsula.com
-*.indeed.com
-*.indeedflex.com
-*.indeed.tech
-*.indeed.net
 *.intercomassets.com
 *.intercomcdn.com
 *.mobile-messenger.intercom.com

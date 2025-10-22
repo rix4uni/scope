@@ -38,6 +38,11 @@ portalapi.*.afterpay.com
 *.bolt.eu
 *.gov.bugcrowd.net
 *.bugcrowd.com
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn
 *.cash.app
 *.cashstaging.app
 *.chimepayments.com
@@ -107,10 +112,6 @@ casino.*.betmgm.com
 *.imperva.com
 *.cloudvector.com
 *.incapsula.com
-*.indeed.com
-*.indeedflex.com
-*.indeed.tech
-*.indeed.net
 *.intercomassets.com
 *.intercomcdn.com
 *.mobile-messenger.intercom.com
@@ -1346,6 +1347,8 @@ bullish.com
 investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
+canva.com
+api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
@@ -1490,10 +1493,6 @@ docs.immutable.com
 imx.community
 cloudvector.com
 supportportal.thalesgroup.com
-indeed.com
-apis.indeed.com
-resume.com
-wowjobs.ca
 developers.intercom.com
 api.intercom.com
 api.intercom.io
