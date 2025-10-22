@@ -38,11 +38,6 @@ portalapi.*.afterpay.com
 *.bolt.eu
 *.gov.bugcrowd.net
 *.bugcrowd.com
-*.canva.com
-*.canva-apps.com
-*.canva.tech
-*.canva.cn
-*.canva-apps.cn
 *.cash.app
 *.cashstaging.app
 *.chimepayments.com
@@ -1351,8 +1346,6 @@ bullish.com
 investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
-canva.com
-api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
