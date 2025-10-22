@@ -1,4 +1,2 @@
-indeed.com
-apis.indeed.com
-resume.com
-wowjobs.ca
+canva.com
+api.canva.com
