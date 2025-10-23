@@ -143,6 +143,7 @@ support.1password.com
 *.zipbooks.com
 *.pgs.casino
 campaignmanager.thescore.com
+careers.draken.aero
 blog.ishosting.com
 help.ishosting.com
 *.amazonaws.com

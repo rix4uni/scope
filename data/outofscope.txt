@@ -1416,6 +1416,7 @@ trust.hubspot.com
 support.1password.com
 1password.com
 campaignmanager.thescore.com
+careers.draken.aero
 blog.ishosting.com
 help.ishosting.com
 2kleague-dev.nba.com
