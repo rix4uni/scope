@@ -1823,8 +1823,6 @@ palantirfoundry.fr
 palantirfoundry.com.au
 palantirgov.com
 foundrygov.com
-artifactory.corp.mongodb.com
-mongodb.live
 defi.ripio.com
 auth.ripio.com
 app.ripio.com
