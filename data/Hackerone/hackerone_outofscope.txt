@@ -1,3 +1,16 @@
+*.dashapi.com
+*.doorcrawl.com
+*.order.online
+careersatdoordash.com
+consumer-mobile-bff.doordash.com
+doordash.com
+help.doordash.com
+internal.doordash.com
+ir.doordash.com
+merchant-mobile-bff.doordash.com
+merchant-portal.doordash.com
+track.doordash.com
+unified-gateway.doordash.com
 affiliates.robinhood.com
 careers.robinhood.com
 content.research.robinhood.com
@@ -428,7 +441,6 @@ ro.co
 *.windstreamdeals.com
 *.windstreamoffers.com
 *.windstreamsmallbusiness.com
-mongodb.com
 *.chattest.deribit.com
 deribit.zendesk.com
 office.deribit.com

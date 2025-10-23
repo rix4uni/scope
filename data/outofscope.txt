@@ -200,6 +200,9 @@ argocd.*.uidapi.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
+*.dashapi.com
+*.doorcrawl.com
+*.order.online
 *.account.docusign.com
 *.tucows.com
 *.edge.gateways.konghq.com
@@ -1315,6 +1318,16 @@ zola.com
 homestore.zola.com
 vendor.zola.com
 baby.zola.com
+careersatdoordash.com
+consumer-mobile-bff.doordash.com
+doordash.com
+help.doordash.com
+internal.doordash.com
+ir.doordash.com
+merchant-mobile-bff.doordash.com
+merchant-portal.doordash.com
+track.doordash.com
+unified-gateway.doordash.com
 affiliates.robinhood.com
 careers.robinhood.com
 content.research.robinhood.com
@@ -1652,7 +1665,6 @@ training.palantir.com
 community.modernfertility.com
 login.ro.co
 ro.co
-mongodb.com
 deribit.zendesk.com
 office.deribit.com
 support.deribit.com

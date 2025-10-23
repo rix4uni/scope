@@ -1,3 +1,6 @@
+doordash.doordashconsumer
+itunes.apple.com
+doordash.com
 *.rhinternal.net
 *.robinhood.com
 *.robinhood.net
@@ -822,7 +825,6 @@ developer.mongodb.com
 downloads.mongodb.com
 mongodb.com
 *ripiotrade.co
-itunes.apple.com
 defi.ripio.com
 auth.ripio.com
 app.ripio.com

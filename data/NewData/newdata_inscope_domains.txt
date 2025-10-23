@@ -1,7 +1,2 @@
-accounts.mongodb.com
-auth.mongodb.com
-charts.mongodb.com
-cloud.mongodb.com
-developer.mongodb.com
-downloads.mongodb.com
-mongodb.com
+doordash.doordashconsumer
+doordash.com

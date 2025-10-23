@@ -200,6 +200,9 @@ argocd.*.uidapi.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
+*.dashapi.com
+*.doorcrawl.com
+*.order.online
 *.account.docusign.com
 *.tucows.com
 *.edge.gateways.konghq.com
