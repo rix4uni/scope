@@ -824,6 +824,11 @@ cloud.mongodb.com
 developer.mongodb.com
 downloads.mongodb.com
 mongodb.com
+support.mongodb.com
+artifactory.corp.mongodb.com
+plugins.jetbrains.com
+marketplace.visualstudio.com
+mongodb.mongodb
 *ripiotrade.co
 defi.ripio.com
 auth.ripio.com
