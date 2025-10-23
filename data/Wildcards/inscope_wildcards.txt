@@ -425,7 +425,6 @@ cf.*.aws.indriverapp
 *.api.cx.metamask.io
 *.metamask.io
 *.mongodb.com
-*.corp.mongodb.com
 *ripiotrade.co
 *.deribit.com
 *.hilton.com

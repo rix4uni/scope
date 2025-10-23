@@ -1,4 +1,7 @@
-indeed.com
-apis.indeed.com
-resume.com
-wowjobs.ca
+accounts.mongodb.com
+auth.mongodb.com
+charts.mongodb.com
+cloud.mongodb.com
+developer.mongodb.com
+downloads.mongodb.com
+mongodb.com

@@ -814,7 +814,13 @@ palantirfoundry.com.au
 palantirgov.com
 foundrygov.com
 *.mongodb.com
-*.corp.mongodb.com
+accounts.mongodb.com
+auth.mongodb.com
+charts.mongodb.com
+cloud.mongodb.com
+developer.mongodb.com
+downloads.mongodb.com
+mongodb.com
 *ripiotrade.co
 itunes.apple.com
 defi.ripio.com
