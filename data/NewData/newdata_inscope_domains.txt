@@ -1,5 +1,1 @@
-support.mongodb.com
-artifactory.corp.mongodb.com
-plugins.jetbrains.com
-marketplace.visualstudio.com
-mongodb.mongodb
+account.mongodb.com

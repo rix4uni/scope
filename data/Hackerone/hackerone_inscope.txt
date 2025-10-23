@@ -826,6 +826,7 @@ downloads.mongodb.com
 mongodb.com
 support.mongodb.com
 artifactory.corp.mongodb.com
+account.mongodb.com
 plugins.jetbrains.com
 marketplace.visualstudio.com
 mongodb.mongodb
