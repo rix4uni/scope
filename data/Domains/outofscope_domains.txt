@@ -305,15 +305,6 @@ payments.latitudefinancial.com
 payments-api.latitudefinancial.com
 lightspeedhq.com
 pos-admin.trial.lsk.lightspeed.app
-x-series-support.lightspeedhq.com
-vendhq.force.com
-vendimageuploadcdn.global.ssl.fastly.net
-partners.vendhq.com
-track.api.vendhq.com
-your-store.vendecommerce.com
-partnerportal.vendhq.com
-support.ecwid.com
-ecwid.com
 community.li.me
 help.li.me
 li.me
@@ -2562,6 +2553,9 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io
