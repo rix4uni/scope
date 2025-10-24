@@ -653,6 +653,7 @@ cf.*.aws.indriverapp
 *vc.logitech.com
 *.video.logi.com
 *.circle.logi.com
+*.dcfgateway.marriott.com
 *gateway-apc.marriott.com
 *uat.marriott.com
 *.marriott.com

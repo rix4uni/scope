@@ -1931,6 +1931,7 @@ logitech.com.cn
 store.logitech.com.cn
 logitechg.com
 ultimateears.com
+*.dcfgateway.marriott.com
 *gateway-apc.marriott.com
 *uat.marriott.com
 marriott.com
