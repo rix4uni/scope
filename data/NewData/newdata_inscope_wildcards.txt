@@ -1,4 +1,5 @@
-*.indeed.com
-*.indeedflex.com
-*.indeed.tech
-*.indeed.net
+*.atlassian.com
+*.atl-paas.net
+*.atlassian.net
+*.atlastunnel.com
+*.loom.com
