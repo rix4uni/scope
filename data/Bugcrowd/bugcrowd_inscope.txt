@@ -422,17 +422,6 @@ apis.indeed.com
 *.indeed.net
 resume.com
 wowjobs.ca
-developers.intercom.com
-api.intercom.com
-api.intercom.io
-app.intercom.com
-*.intercomassets.com
-*.intercomcdn.com
-app.intercom.io
-intercom.com
-mcp.intercom.com
-api-iam.intercom.io
-*.mobile-messenger.intercom.com
 aspen-ecommerce-prod.iot.irobotapi.com
 zuora-ecommerce-prod.iot.irobotapi.com
 irobot.com
