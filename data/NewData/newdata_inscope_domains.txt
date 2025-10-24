@@ -1,2 +1,6 @@
-co.uk.getmondo
-monzo.com
+secure.vendhq.com
+developers.vendhq.com
+payment-connectors.vendhq.com
+vendhq.com
+store.retail.lightspeed.app
+app.ecwid.com
