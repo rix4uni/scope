@@ -45,8 +45,6 @@
 hsd1.*.comcast.net
 *business.comcast.com
 *.sys.comcast.net
-*.dell.com
-*.delltechnologies.com
 *.sandbox.directly.com
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
