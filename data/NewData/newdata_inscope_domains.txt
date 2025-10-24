@@ -1,2 +1,1 @@
-efast.marriott.com
-eidhelp.marriott.com
+apcgateway.marriott.com

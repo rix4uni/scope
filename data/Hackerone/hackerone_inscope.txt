@@ -1931,13 +1931,17 @@ logitech.com.cn
 store.logitech.com.cn
 logitechg.com
 ultimateears.com
+*.apigatewayc.marriott.com
+*.apigwc.marriott.com
 *.dcfgateway.marriott.com
+*.gateway.marriott.com
 *.mgs.marriott.com
 *gateway-apc.marriott.com
 *uat.marriott.com
 marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
+apcgateway.marriott.com
 careers.marriott.com
 cpp.marriott.com
 *.marriott.com

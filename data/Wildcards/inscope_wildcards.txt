@@ -651,7 +651,10 @@ cf.*.aws.indriverapp
 *vc.logitech.com
 *.video.logi.com
 *.circle.logi.com
+*.apigatewayc.marriott.com
+*.apigwc.marriott.com
 *.dcfgateway.marriott.com
+*.gateway.marriott.com
 *.mgs.marriott.com
 *gateway-apc.marriott.com
 *uat.marriott.com
