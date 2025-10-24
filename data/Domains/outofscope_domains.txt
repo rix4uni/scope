@@ -1636,6 +1636,7 @@ connect.gocardless.com
 gocardless-status.com
 status.gocardless.com
 incident.io
+gocardless.atlassian.net
 learn.gocardless.com
 manage.gocardless-staging.io
 manage.gocardless.com
