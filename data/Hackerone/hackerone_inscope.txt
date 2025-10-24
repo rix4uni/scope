@@ -1933,6 +1933,7 @@ logitechg.com
 ultimateears.com
 *.apigatewayc.marriott.com
 *.apigwc.marriott.com
+*.artifactory.marriott.com
 *.dcfgateway.marriott.com
 *.gateway.marriott.com
 *.mgs.marriott.com
