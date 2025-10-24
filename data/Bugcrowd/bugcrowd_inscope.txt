@@ -853,9 +853,6 @@ cashback.opera.com
 *.feednews.com
 *.dailyadvent.com
 api.gx.games
-app.opsgenie.com
-mobileapp.opsgenie.com
-*.opsgenie.com
 app.optimizely.com
 cdn.optimizely.com
 cdn-pci.optimizely.com

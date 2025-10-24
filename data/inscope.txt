@@ -218,7 +218,6 @@ np.*.lfscnp.com
 *.operafootball.com
 *.feednews.com
 *.dailyadvent.com
-*.opsgenie.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.odcdn.com.au
@@ -1805,8 +1804,6 @@ marketplace.gamemaker.io
 gamemaker.io
 cashback.opera.com
 api.gx.games
-app.opsgenie.com
-mobileapp.opsgenie.com
 app.optimizely.com
 cdn.optimizely.com
 cdn-pci.optimizely.com

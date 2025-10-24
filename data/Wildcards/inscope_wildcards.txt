@@ -218,7 +218,6 @@ np.*.lfscnp.com
 *.operafootball.com
 *.feednews.com
 *.dailyadvent.com
-*.opsgenie.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.odcdn.com.au
