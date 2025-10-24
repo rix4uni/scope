@@ -1,8 +1,2 @@
-admin.atlassian.com
-id.atlassian.com
-start.atlassian.com
-bitbucket.org
-atlassian.com
-atlassian.net
-confluence.atlassian.com
-sourcetreeapp.com
+app.opsgenie.com
+mobileapp.opsgenie.com
