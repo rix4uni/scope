@@ -28,6 +28,8 @@ portalapi.*.afterpay.com
 *.adultforce.com
 *.backblazeb2.com
 *.backblaze.com
+*.binance.com
+*.binance.us
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com

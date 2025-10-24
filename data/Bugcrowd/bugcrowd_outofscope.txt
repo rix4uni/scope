@@ -141,6 +141,16 @@ manage.probiller.com
 *.probiller.com
 trafficjunky.com
 adultforce.com
+jobs.coinmarketcap.com
+support.binance
+binance.sg
+*.trustwallet.com
+*.trustwalletapp.com
+*.binance.org
+blog.coinmarketcap.com
+support.coinmarketcap.com
+blockchain.coinmarketcap.com
+*.coinmarketcap.com
 businessinsights.bitdefender.com
 businessemail.bitdefender.com
 businessresources.bitdefender.com
