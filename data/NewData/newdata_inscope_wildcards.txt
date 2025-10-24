@@ -1,2 +1,3 @@
-*.dell.com
-*.delltechnologies.com
+*.intercomassets.com
+*.intercomcdn.com
+*.mobile-messenger.intercom.com

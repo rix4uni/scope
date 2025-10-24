@@ -29,10 +29,6 @@
 *.cross-promotion.nutaku.net
 *.nutaku.net
 *.probiller.com
-*.trustwallet.com
-*.trustwalletapp.com
-*.binance.org
-*.coinmarketcap.com
 *.exchange.bitpanda.com
 *.otc.bitso.com
 *.efx.bitso.com

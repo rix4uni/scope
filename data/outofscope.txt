@@ -29,10 +29,6 @@
 *.cross-promotion.nutaku.net
 *.nutaku.net
 *.probiller.com
-*.trustwallet.com
-*.trustwalletapp.com
-*.binance.org
-*.coinmarketcap.com
 *.exchange.bitpanda.com
 *.otc.bitso.com
 *.efx.bitso.com
@@ -759,12 +755,6 @@ pf.nutaku.com
 manage.probiller.com
 trafficjunky.com
 adultforce.com
-jobs.coinmarketcap.com
-support.binance
-binance.sg
-blog.coinmarketcap.com
-support.coinmarketcap.com
-blockchain.coinmarketcap.com
 businessinsights.bitdefender.com
 businessemail.bitdefender.com
 businessresources.bitdefender.com
