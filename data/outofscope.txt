@@ -8,7 +8,6 @@
 *.isb.arubanetworks.com
 *.arubademo.net
 *.integrations.asana.plus
-*.bitbucket.io
 *.project1service.com
 *.project1content.com
 *.pabbp.com
@@ -694,15 +693,6 @@ csaf.arubanetworks.com
 asana.com
 asana.okta.com
 assets.asana.biz
-bugcrowd.com
-shop.atlassian.com
-bytebucket.org
-blog.bitbucket.org
-support.atlassian.com
-atlassian.net
-jira.com
-support.loom.com
-info.loom.com
 marketplace.atlassian.com
 trello.com
 blog.aurory.io
@@ -813,6 +803,7 @@ bitsohelp.zendesk.com
 support.bitso.com
 perps-test.bitstamp.net
 business-old.bolt.eu
+bugcrowd.com
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
 pages.bugcrowd.com

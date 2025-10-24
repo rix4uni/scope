@@ -46,18 +46,7 @@ devhub.arubanetworks.com
 app.asana.com
 asana.com
 form.asana.com
-admin.atlassian.com
-id.atlassian.com
-start.atlassian.com
-bitbucket.org
-atlassian.com
-atlassian.net
 marketplace.atlassian.com
-loom.com
-chromewebstore.google.com
-confluence.atlassian.com
-sourcetreeapp.com
-npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
@@ -304,6 +293,7 @@ indeed.com
 apis.indeed.com
 resume.com
 wowjobs.ca
+chromewebstore.google.com
 developers.intercom.com
 api.intercom.com
 api.intercom.io
@@ -1458,6 +1448,7 @@ apps.microsoft.com
 portal.3cx.com
 auth.privy.io
 dashboard.privy.io
+npmjs.com
 netflix.com
 beacon.netflix.com
 customerevents.netflix.com
@@ -1801,6 +1792,7 @@ mpa.qr.web.m-pesa.com
 openapi.m-pesa.com
 openapiportal.m-pesa.com
 testing.md
+loom.com
 metamask.io
 docs.metamask.io
 snaps.metamask.io

@@ -8,7 +8,6 @@
 *.isb.arubanetworks.com
 *.arubademo.net
 *.integrations.asana.plus
-*.bitbucket.io
 *.project1service.com
 *.project1content.com
 *.pabbp.com

@@ -9,11 +9,6 @@ portalapi.*.afterpay.com
 *.app.asana.com
 *.asana.biz
 *asana.biz
-*.atlassian.com
-*.atl-paas.net
-*.atlassian.net
-*.atlastunnel.com
-*.loom.com
 *.cic-bug-bounty.auth0app.com
 *.twistys.com
 *.brazzers.com
