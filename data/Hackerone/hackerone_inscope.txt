@@ -1939,6 +1939,7 @@ all-inclusive.marriott.com
 careers.marriott.com
 cpp.marriott.com
 *.marriott.com
+esupplier.marriott.com
 help.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
