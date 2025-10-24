@@ -63,8 +63,6 @@ portalapi.*.afterpay.com
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
-*.dell.com
-*.delltechnologies.com
 *.sandbox.directly.com
 casino.*.betmgm.com
 *.epam.com
@@ -654,6 +652,7 @@ cf.*.aws.indriverapp
 *.video.logi.com
 *.circle.logi.com
 *.dcfgateway.marriott.com
+*.mgs.marriott.com
 *gateway-apc.marriott.com
 *uat.marriott.com
 *.marriott.com
