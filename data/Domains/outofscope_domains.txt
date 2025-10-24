@@ -696,6 +696,7 @@ vgs-api.robinhood.com
 weareallinvestors.robinhood.com
 admin.docusign.com
 app.docusign.com
+partners.docusign.com
 docusign.net
 rooms.docusign.com
 regionstest.com
@@ -2545,6 +2546,18 @@ newsroom.innogames.com
 pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
+afspraakmaken.gamma.nl
+api.afspraakmaken.gamma.be
+api.afspraakmaken.gamma.nl
+api.maakafspraak.karwei.nl
+horrenconfigurator-fr.gamma.be
+horrenconfigurator-nl.gamma.be
+horrenconfigurator.karwei.nl
+karwei-2018.hetmooistegordijn.nl
+maakafspraak.karwei.nl
+mail.gamma.be
+mail.gamma.nl
+mail.karwei.nl
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
@@ -2561,6 +2574,9 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io
