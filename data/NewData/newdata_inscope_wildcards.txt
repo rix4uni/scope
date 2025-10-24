@@ -1,2 +1,3 @@
-*.binance.com
-*.binance.us
+*.intercomassets.com
+*.intercomcdn.com
+*.mobile-messenger.intercom.com
