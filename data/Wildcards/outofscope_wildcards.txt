@@ -576,7 +576,6 @@ g.*.slackhq.com
 *.grafana.net
 *.swop.com
 *.cineramabios.nl
-*.monzo.me
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
 *.ovotech.org.uk

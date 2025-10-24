@@ -576,7 +576,6 @@ g.*.slackhq.com
 *.grafana.net
 *.swop.com
 *.cineramabios.nl
-*.monzo.me
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
 *.ovotech.org.uk
@@ -850,6 +849,11 @@ uat.accounts.coindesk.com
 staging.coindesk.com
 admin.selectwifi.xfinity.com
 comcastbiz.net
+console.delltechnologies.com
+educate.dell.com
+console.dell.com
+console-test.dell.com
+salesproductivity.dell.com
 directly.com
 resources.directly.com
 ethics.epam.com
@@ -3207,9 +3211,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io

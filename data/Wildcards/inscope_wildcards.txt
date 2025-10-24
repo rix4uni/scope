@@ -63,6 +63,8 @@ portalapi.*.afterpay.com
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
+*.dell.com
+*.delltechnologies.com
 *.sandbox.directly.com
 casino.*.betmgm.com
 *.epam.com
@@ -1051,8 +1053,6 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com

@@ -1,1 +1,2 @@
-*.artifactory.marriott.com
+*.dell.com
+*.delltechnologies.com
