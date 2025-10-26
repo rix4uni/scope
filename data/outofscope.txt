@@ -653,6 +653,9 @@ consensus2025.coindesk.com
 consensus-hongkong2025.coindesk.com
 data.coindesk.com
 developers.coindesk.com
+share.acorns.com
+grow.acorns.com
+store.acorns.com
 afterpaytechblog.com
 genderfree.afterpay.com
 moneybyafterpay.com

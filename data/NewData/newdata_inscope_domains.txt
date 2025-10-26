@@ -1,3 +1,4 @@
-uae.voxcinemas.com
-skidxb.com
-magicplanetmena.com
+acorns.com
+graphql.acorns.com
+gohenry.com
+pixpay.fr
