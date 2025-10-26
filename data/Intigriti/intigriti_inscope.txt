@@ -51,12 +51,6 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
-payment.backend-capital.com
-*.backend-capital.com
-capital.com
-open-api.capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com

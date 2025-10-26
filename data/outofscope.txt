@@ -558,9 +558,6 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
-*affiliates.backend-capital.com
-*eduapp.backend-capital.com
-*education.backend-capital.com
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
 *.digi-mobile.be
@@ -653,9 +650,6 @@ consensus2025.coindesk.com
 consensus-hongkong2025.coindesk.com
 data.coindesk.com
 developers.coindesk.com
-share.acorns.com
-grow.acorns.com
-store.acorns.com
 afterpaytechblog.com
 genderfree.afterpay.com
 moneybyafterpay.com
@@ -1290,6 +1284,7 @@ operatorresources.viator.com
 partnerresources.viator.com
 api.tapayments.com
 erwin.volkswagen.de
+theplaymania.com
 app.gator.com
 app.web.com
 transferwise.com
@@ -3149,10 +3144,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 app.datacamp.com
 ast-viewer.datacamp.com
 confluence.datacamp.com
