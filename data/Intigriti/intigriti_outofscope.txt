@@ -410,9 +410,6 @@ support.truelayer.com
 status.truelayer.com
 truelayer.zendesk.com
 elect.tweakers.net
-jobs.uzleuven.be
-uzleuven.atlassian.net
-vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
