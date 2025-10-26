@@ -1,2 +1,1 @@
-*.kwsdose.be
-*.playuzleuven.be
+*.acorns.com

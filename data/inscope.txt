@@ -1,3 +1,4 @@
+*.acorns.com
 *.afterpay.com
 portalapi.*.afterpay.com
 *.arlo.com
@@ -1168,6 +1169,10 @@ cf.*.aws.indriverapp
 *.vidaxl.net
 data-api.coindesk.com
 tools-api.cryptocompare.com
+acorns.com
+graphql.acorns.com
+gohenry.com
+pixpay.fr
 portal.afterpay.com
 afterpay.com
 mobileapi.afterpay.com
@@ -2252,9 +2257,6 @@ help.supplier.viator.com
 kiwi.partner.viator.com
 selector.viator.com
 partnerhelp.viator.com
-uae.voxcinemas.com
-skidxb.com
-magicplanetmena.com
 networksolutions.com
 bluehost.com
 hostgator.com

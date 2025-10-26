@@ -1,5 +1,10 @@
 data-api.coindesk.com
 tools-api.cryptocompare.com
+acorns.com
+*.acorns.com
+graphql.acorns.com
+gohenry.com
+pixpay.fr
 portal.afterpay.com
 afterpay.com
 *.afterpay.com
@@ -1401,9 +1406,6 @@ selector.viator.com
 partnerhelp.viator.com
 *.viator.com
 *.volkswagen.de
-uae.voxcinemas.com
-skidxb.com
-magicplanetmena.com
 networksolutions.com
 bluehost.com
 hostgator.com
