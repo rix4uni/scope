@@ -1290,7 +1290,6 @@ operatorresources.viator.com
 partnerresources.viator.com
 api.tapayments.com
 erwin.volkswagen.de
-theplaymania.com
 app.gator.com
 app.web.com
 transferwise.com

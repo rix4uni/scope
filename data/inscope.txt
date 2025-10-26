@@ -2257,9 +2257,6 @@ help.supplier.viator.com
 kiwi.partner.viator.com
 selector.viator.com
 partnerhelp.viator.com
-uae.voxcinemas.com
-skidxb.com
-magicplanetmena.com
 networksolutions.com
 bluehost.com
 hostgator.com
