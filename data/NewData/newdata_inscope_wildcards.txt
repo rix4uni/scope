@@ -1,3 +1,2 @@
-*.intercomassets.com
-*.intercomcdn.com
-*.mobile-messenger.intercom.com
+*.kwsdose.be
+*.playuzleuven.be
