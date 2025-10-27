@@ -1,1 +1,2 @@
-*.acorns.com
+*.monzo.com
+*.prod-ffs.io

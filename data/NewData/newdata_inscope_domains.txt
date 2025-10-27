@@ -1,4 +1,2 @@
-acorns.com
-graphql.acorns.com
-gohenry.com
-pixpay.fr
+co.uk.getmondo
+monzo.com
