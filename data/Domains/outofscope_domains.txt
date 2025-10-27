@@ -797,7 +797,6 @@ ctf.supabase.com
 supabase.dev
 supabase.productions
 auth.finnair.com
-revcity.6sense.com
 x.com
 youtube.com
 advisoryworld.com
