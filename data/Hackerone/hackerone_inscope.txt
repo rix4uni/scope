@@ -1008,6 +1008,7 @@ securitytrails.com
 therecord.media
 tria.ge
 recordedfuture.com
+*.web3factory.consensys.net
 staking.consensys.io
 consensys.io
 support.metamask.io
