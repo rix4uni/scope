@@ -548,6 +548,7 @@ g.*.slackhq.com
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -558,6 +559,9 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
 *.digi-mobile.be
@@ -572,7 +576,6 @@ g.*.slackhq.com
 *.grafana.net
 *.swop.com
 *.cineramabios.nl
-*.monzo.me
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
 *.ovotech.org.uk
@@ -3148,6 +3151,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 app.datacamp.com
 ast-viewer.datacamp.com
 confluence.datacamp.com
@@ -3204,9 +3211,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 academy.moralis.io
 docs.moralis.io
 forum.moralis.io

@@ -1,1 +1,12 @@
-*.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
