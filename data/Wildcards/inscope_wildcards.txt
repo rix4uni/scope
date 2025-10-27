@@ -660,6 +660,7 @@ cf.*.aws.indriverapp
 *.dcfgateway.marriott.com
 *.gateway.marriott.com
 *.mgs.marriott.com
+*.sba.marriott.com
 *gateway-apc.marriott.com
 *uat.marriott.com
 *.marriott.com
