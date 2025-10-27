@@ -1227,11 +1227,6 @@ jobs.newegg.com
 sellingpilot.newegg.com
 community.fastly.com
 connect.fastly.com
-support.commercial.keurig.com
-support.keurig.ca
-support.keurig.com
-support.keurigdrpepper.com
-diedrichroasters.com
 metabase.krisp.ai
 sdk-docs.krisp.ai
 url5145.krisp.ai
