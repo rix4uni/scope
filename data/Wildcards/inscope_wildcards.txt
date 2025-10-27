@@ -996,6 +996,7 @@ cf.*.aws.indriverapp
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.bmc.nl
+*.ticketing.cm.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
