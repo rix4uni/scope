@@ -1,1 +1,3 @@
-*.sba.marriott.com
+*.eu.floqast.app
+*.floqast.app
+*.floqast.engineering

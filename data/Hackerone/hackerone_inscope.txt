@@ -804,6 +804,10 @@ io.metamask.metamask
 portfolio.metamask.io
 signature-insights.api.cx.metamask.io
 metamask-consensys.notion.site
+*.eu.floqast.app
+*.floqast.app
+api-eu.floqast.app
+*.floqast.engineering
 palantir.com
 palantir.tech
 palantir.build

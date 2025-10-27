@@ -424,6 +424,9 @@ cf.*.aws.indriverapp
 *.m-pesa.com
 *.api.cx.metamask.io
 *.metamask.io
+*.eu.floqast.app
+*.floqast.app
+*.floqast.engineering
 *.mongodb.com
 *ripiotrade.co
 *.deribit.com

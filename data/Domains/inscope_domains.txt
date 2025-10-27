@@ -1813,6 +1813,7 @@ io.metamask.metamask
 portfolio.metamask.io
 signature-insights.api.cx.metamask.io
 metamask-consensys.notion.site
+api-eu.floqast.app
 palantir.com
 palantir.tech
 palantir.build

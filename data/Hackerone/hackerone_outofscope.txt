@@ -410,6 +410,8 @@ npmjs.com
 permissionless.snaps.metamask.io
 travel.metamask.io
 entravel.com
+*.floqast.com
+*.floqast.studio
 connector.callsign.com
 dashboard.callsign.com
 pathway.callsign.com

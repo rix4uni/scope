@@ -1,1 +1,1 @@
-wechat.api.marriott.com
+api-eu.floqast.app
