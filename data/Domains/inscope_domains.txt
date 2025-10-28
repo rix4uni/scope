@@ -3883,8 +3883,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 analytics.ninjakiwi.com
