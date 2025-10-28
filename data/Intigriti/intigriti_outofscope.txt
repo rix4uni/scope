@@ -2,7 +2,6 @@
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -354,9 +353,8 @@ testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
 *.vectus.in
-auth2.pdq.tools
-detect.pdq.tools
 *.pdq.com
+*.pdq.tools
 *.simplemdm.com
 *.smartdeploy.com
 personio.de

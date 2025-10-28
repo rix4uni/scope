@@ -550,7 +550,6 @@ g.*.slackhq.com
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -587,6 +586,7 @@ api.*.ec.ovotech
 *.oisl.gg
 *.vectus.in
 *.pdq.com
+*.pdq.tools
 *.simplemdm.com
 *.smartdeploy.com
 *.brightplus.be
@@ -3458,8 +3458,6 @@ tech.ovoenergy.com
 testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
-auth2.pdq.tools
-detect.pdq.tools
 personio.de
 personio.slack.com
 statuspage.personio.de

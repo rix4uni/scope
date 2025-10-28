@@ -1147,8 +1147,8 @@ tfb.t-mobile.com
 devedge.t-mobile.com
 tess.service-now.com
 digits.t-mobile.com
-*.t-mobile.com
 *.metrobyt-mobile.com
+*.t-mobile.com
 *.sprint.com
 api.vistarmedia.com
 packages.cortexpowered.com
@@ -1175,6 +1175,7 @@ demo.adstruc.com
 *.uscellular.com
 dashboard-101.moengage.com
 assurancewireless.com
+*.assurancewireless.com
 tagesanzeiger.ch
 biocorellc.com
 tempus-ex.com

@@ -3695,7 +3695,6 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -3903,11 +3902,11 @@ no.kolonial.tienda
 se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+app.pdq.com
+portal.pdq.com
 a.simplemdm.com
-auth2.pdq.tools
-library-staging.pdq.tools
-houston-staging.pdq.tools
-portal-staging.pdq.tools
+auth2.pdq.com
+library.pdq.com
 api.personio-dev.com
 api.personio.com
 community.personio.com

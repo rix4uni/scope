@@ -1,1 +1,4 @@
-dashboard-101.moengage.com
+app.pdq.com
+portal.pdq.com
+auth2.pdq.com
+library.pdq.com
