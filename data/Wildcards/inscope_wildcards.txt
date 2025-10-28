@@ -85,7 +85,6 @@ casino.*.betmgm.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it
-*.hostgator.com.br
 *.beautyexpert.com
 *.dermstore.com
 *.espaskincare.com

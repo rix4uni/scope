@@ -929,6 +929,7 @@ pramericalife.in
 prudentialagf.cl
 analytics.boozt.com
 bmp.boozt.com
+firmagaver.boozt.com
 kronor.io
 api.frontegg.com
 portal.frontegg.com
