@@ -1,2 +1,1 @@
-co.uk.getmondo
-monzo.com
+dashboard-101.moengage.com
