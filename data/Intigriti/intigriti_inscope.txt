@@ -255,6 +255,10 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+*.monzo.com
+*.prod-ffs.io
+co.uk.getmondo
+monzo.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 analytics.ninjakiwi.com
@@ -387,6 +391,12 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
