@@ -55,6 +55,13 @@ portalapi.*.afterpay.com
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
+*.wien.gv.at
+*.magwien.gv.at
+*.gesundheitsverbund.at
+*.wienkav.at
+*.akhwien.at
+*.wien.at
+*.stadtwien.onmicrosoft.com
 *.classdojo.com
 *.classdojo.co.uk
 *.doj.io

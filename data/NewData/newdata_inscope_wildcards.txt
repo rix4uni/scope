@@ -1,2 +1,7 @@
-*.sqills.com
-*.sqills.team
+*.wien.gv.at
+*.magwien.gv.at
+*.gesundheitsverbund.at
+*.wienkav.at
+*.akhwien.at
+*.wien.at
+*.stadtwien.onmicrosoft.com
