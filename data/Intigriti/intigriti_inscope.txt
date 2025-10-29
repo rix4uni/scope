@@ -387,8 +387,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-*.sqills.com
-*.sqills.team
 aweb.suivo.com
 asupport.suivo.com
 tempo-team.be
