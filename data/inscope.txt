@@ -4322,12 +4322,6 @@ us1.badoo.com
 web.geneva-staging.com
 bumble.com
 geneva-staging.com
-api.omise.co
-omise.co
-dashboard.omise.co
-offsite.omise.co
-vault.omise.co
-opn.ooo
 anchor.fm
 developer.spotify.com
 support.megaphone.fm
@@ -4932,6 +4926,7 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+justonweb.be
 app.datacamp.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com
