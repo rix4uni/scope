@@ -606,6 +606,9 @@ api.*.ec.ovotech
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
 *.tempo-team.de
 *.ccnag.com
 *.zabka-snrs.zabka.pl
@@ -3489,6 +3492,7 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
+careers.sqills.com
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
