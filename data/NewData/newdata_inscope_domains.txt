@@ -1,4 +1,1 @@
-app.pdq.com
-portal.pdq.com
-auth2.pdq.com
-library.pdq.com
+go.stripchat.com

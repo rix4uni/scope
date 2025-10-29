@@ -1709,6 +1709,7 @@ firefox.com
 springfield.moz.works
 mozilla.org
 allizom.org
+go.stripchat.com
 10x.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com

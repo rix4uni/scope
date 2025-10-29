@@ -392,6 +392,7 @@ sip.*.twilio.com
 *.e2ro.com
 *.eero.com
 *.sync.services.mozilla.com
+*.stripchat.com
 *.redoxengine.com
 *.oklink.com
 *.okx.com

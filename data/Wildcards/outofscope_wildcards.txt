@@ -274,6 +274,7 @@ db.*.supabase.co
 *.sgs.com
 *.truist.com
 *.sixidmobile.com
+*.stripchat.com
 *.okg.com
 *.epic.superbet.ro
 *.pramericalife.in
