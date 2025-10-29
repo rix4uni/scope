@@ -1,2 +1,1 @@
-nexus.live.ucs.on.epicgames.com
-urc-uefn.live.ucs.on.epicgames.com
+urc-auth-uefn.live.ucs.on.epicgames.com
