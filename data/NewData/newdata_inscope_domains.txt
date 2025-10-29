@@ -1,12 +1,2 @@
-wien.gv.at
-gesundheitsverbund.at
-akhwien.at
-stp.wien.gv.at
-wien.at
-secumails.gesundheitsverbund.at
-mein.wien.gv.at
-wibi.wien.gv.at
-stadtwien.onmicrosoft.com
-schulenwien.onmicrosoft.com
-stadtwien-my.sharepoint.com
-app.aikido.dev
+nexus.live.ucs.on.epicgames.com
+urc-uefn.live.ucs.on.epicgames.com
