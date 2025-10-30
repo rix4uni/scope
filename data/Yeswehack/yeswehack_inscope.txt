@@ -212,6 +212,7 @@ ai-tools.infomaniak.com
 kmeet.infomaniak.com
 kpaste.infomaniak.com
 sync.infomaniak.com
+euria.infomaniak.com
 ix2smbdyjt.infomaniak.site
 5k8vrbdyje.infomaniak.site
 fv3lfbdyjh.infomaniak.site
