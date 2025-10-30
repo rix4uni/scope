@@ -906,6 +906,7 @@ c21.hk
 century21.hk
 openmage.org
 *.bell.ca
+*.msteams.8x8.com
 8x8.wavecell.com
 webmail.wavecell.com
 desktop.jitsi.org
