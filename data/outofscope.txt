@@ -487,9 +487,6 @@ online.*.skybingo.com
 *.gocd.org
 *.ruby-lang.org
 *.github.io
-*.home.bargains
-*.homebargains.co.uk
-*.tjmorris.co.uk
 *.ali.zomans.com
 *.bstro.io
 *.zomatoportugal.com
