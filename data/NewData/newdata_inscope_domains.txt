@@ -1,7 +1,1 @@
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
-euria.infomaniak.com
+app.aikido.dev
