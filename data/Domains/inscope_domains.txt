@@ -1756,12 +1756,6 @@ kronor.io
 payment-gateway.kronor.io
 my.sheer.com
 sheer.com
-apix.vodafone.om
-om.vodafone.mva
-vfo01.vodafone.om
-vfo02.vodafone.om
-vfo03.vodafone.om
-vodafone.om
 api.au.frontegg.com
 portal.au.frontegg.com
 ab-platform-api.eu-east-1.indriverapp.com
