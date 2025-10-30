@@ -1199,6 +1199,7 @@ itunes.apple.com
 eventmanager.uscellular.com
 global.eventmanager.uscellular.com
 events.eventmanager.uscellular.com
+wfmmobile.t-mobile.com
 abo.inscopedomain.ch
 login.inscopedomain.ch
 auth.inscopedomain.ch
