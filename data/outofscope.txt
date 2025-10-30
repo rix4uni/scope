@@ -354,7 +354,6 @@ bus.*.indrive.com
 *.travelguard.com
 *.fip.finra.org
 *.matic.network
-*.1337.or.id
 *.hcltechsw.com
 *.atp-exodus.com
 *.mtnfootball.com
@@ -2130,8 +2129,6 @@ grafana.cs.money
 old.cs.money
 or.id
 web.id
-wiki.1337.or.id
-news.1337.or.id
 clientaccess.citrixcloud.navient.com
 filegateway.navient.com
 jobs.navient.com

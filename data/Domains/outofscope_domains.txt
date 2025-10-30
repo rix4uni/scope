@@ -1476,8 +1476,6 @@ grafana.cs.money
 old.cs.money
 or.id
 web.id
-wiki.1337.or.id
-news.1337.or.id
 clientaccess.citrixcloud.navient.com
 filegateway.navient.com
 jobs.navient.com
