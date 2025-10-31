@@ -1171,10 +1171,6 @@ cf.*.aws.indriverapp
 *.infomaniak.com
 *.vod2.infomaniak.com
 *.api.louisvuitton.com
-*.ncs.co
-*.dsanalytics.com
-*.dialog.com.au
-*.ncsimpact.co
 *.soyoustart.com
 *.privateinternetaccess.com
 *.piaservers.com

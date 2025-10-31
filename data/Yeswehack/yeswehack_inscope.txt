@@ -270,10 +270,6 @@ api.moneyboxapp.com
 admin.moneyboxapp.org
 admin-roundups.moneyboxapp.org
 sycamore.moneyboxapp.org
-*.ncs.co
-*.dsanalytics.com
-*.dialog.com.au
-*.ncsimpact.co
 otto.de
 lascana.de
 teleoptiprd.otto.de
