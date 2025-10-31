@@ -1,4 +1,7 @@
-mathem.se
-oda.com
-no.kolonial.tienda
-se.mathem.mathem
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
