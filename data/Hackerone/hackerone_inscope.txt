@@ -1516,12 +1516,6 @@ lark-frontier.byteoversea.com
 open.larksuite.com
 passport.larksuite.com
 status.larksuite.com
-astra.datastax.com
-docs.datastax.com
-downloads.datastax.com
-langflow.datastax.com
-langflow.org
-datastax.com
 *.sprint.apps.dynatracelabs.com
 sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com

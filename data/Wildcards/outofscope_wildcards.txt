@@ -361,7 +361,6 @@ bus.*.indrive.com
 *nvapis.line.me
 *.sky.com.mx
 *solidus.io
-*cla.datastax.com
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com
@@ -548,7 +547,6 @@ g.*.slackhq.com
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk

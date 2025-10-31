@@ -361,7 +361,6 @@ bus.*.indrive.com
 *nvapis.line.me
 *.sky.com.mx
 *solidus.io
-*cla.datastax.com
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com
@@ -548,7 +547,6 @@ g.*.slackhq.com
 *.birds.com
 *.dynamics.com
 *.jobmanager.dk
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -2349,8 +2347,6 @@ projectone.att.com
 rcloud.social
 thedirectvmarketingzone.com
 wf-projectone.att.com
-academy.datastax.com
-community.datastax.com
 community.dynatrace.com
 university-staging.dynatracelabs.com
 citymapper.com

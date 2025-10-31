@@ -1194,9 +1194,6 @@ rcloud.social
 thedirectvmarketingzone.com
 wf-projectone.att.com
 *solidus.io
-academy.datastax.com
-community.datastax.com
-*cla.datastax.com
 *.dev.dynatracelabs.com
 *.dynatrace.com
 community.dynatrace.com
