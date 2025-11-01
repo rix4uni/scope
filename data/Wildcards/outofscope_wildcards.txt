@@ -26,6 +26,8 @@
 *.pornhubapparel.com
 *.pornhub.org
 *.mydirtyhobby.com
+*.cross-promotion.nutaku.net
+*.nutaku.net
 *.probiller.com
 *.trustwallet.com
 *.trustwalletapp.com

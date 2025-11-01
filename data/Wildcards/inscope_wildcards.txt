@@ -1,9 +1,6 @@
 *.acorns.com
 *.afterpay.com
 portalapi.*.afterpay.com
-*.arlo.com
-*.arloxcld.com
-*-prod.arlo.com
 *.central.arubanetworks.com
 *.asana.plus
 *.app.asana.com
@@ -23,6 +20,7 @@ portalapi.*.afterpay.com
 *.digitalplayground.com
 *.transangels.com
 *.tube8.com
+*.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
