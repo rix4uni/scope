@@ -29,6 +29,17 @@ api.anytask.com
 anytask.com
 api.anytask.thesecurityteam.rocks
 anytask.thesecurityteam.rocks
+*.arlo.com
+*.arloxcld.com
+*-prod.arlo.com
+arlo-device.messaging.netgear.com
+beta.arlo.com
+downloads.arlo.com
+mcs.arlo.com
+my.arlo.com
+myapi.arlo.com
+arlo.com
+updates.arlo.com
 *.central.arubanetworks.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com

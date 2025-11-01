@@ -1,1 +1,3 @@
-*.nutakupublishing.com
+*.arlo.com
+*.arloxcld.com
+*-prod.arlo.com
