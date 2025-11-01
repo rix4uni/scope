@@ -22,7 +22,6 @@ portalapi.*.afterpay.com
 *.seancody.com
 *.digitalplayground.com
 *.transangels.com
-*.tube8.com
 *.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
