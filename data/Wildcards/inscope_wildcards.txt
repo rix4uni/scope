@@ -1101,7 +1101,6 @@ cf.*.aws.indriverapp
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
