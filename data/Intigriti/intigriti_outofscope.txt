@@ -442,7 +442,6 @@ wolt.atlassian.net
 *.zabka-snrs.zabka.pl
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
-vznkul.be
 *.intigriti.io
 *.intigriti.me
 *.intigriti.net
