@@ -1645,7 +1645,6 @@ pay.gocardless.com
 payer-details.gocardless.com
 privacy.gocardless.com
 qbo-api.gocardless.com
-qbo.gocardless.com
 storybook.gocardless.io
 support.gocardless.com
 xero-staging.gocardless.com

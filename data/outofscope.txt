@@ -247,7 +247,6 @@ argocd.*.uidapi.com
 *.zipbooks.com
 *.pgs.casino
 *.amazonaws.com
-*.central.arubanetworks.com
 db.*.supabase.co
 *.supabase.co
 *.cyral.com
@@ -2290,7 +2289,6 @@ pay.gocardless.com
 payer-details.gocardless.com
 privacy.gocardless.com
 qbo-api.gocardless.com
-qbo.gocardless.com
 storybook.gocardless.io
 support.gocardless.com
 xero-staging.gocardless.com

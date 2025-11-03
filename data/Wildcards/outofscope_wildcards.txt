@@ -247,7 +247,6 @@ argocd.*.uidapi.com
 *.zipbooks.com
 *.pgs.casino
 *.amazonaws.com
-*.central.arubanetworks.com
 db.*.supabase.co
 *.supabase.co
 *.cyral.com

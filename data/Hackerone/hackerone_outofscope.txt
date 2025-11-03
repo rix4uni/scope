@@ -171,9 +171,6 @@ mindhealth.nba.com
 payment.nba.com
 stats.2kleague.nba.com
 totalhealth.nba.com
-*.arubanetworks.com
-bugcrowd.com
-*.central.arubanetworks.com
 db.*.supabase.co
 *.supabase.co
 api.supabase.com
@@ -526,6 +523,7 @@ help.strongdm.com
 security.strongdm.com
 safebase.io
 status.strongdm.com
+bugcrowd.com
 *.attorneyskeytitle.com
 *.chartwellescrow.com
 *.ctccal.com
@@ -1137,7 +1135,6 @@ pay.gocardless.com
 payer-details.gocardless.com
 privacy.gocardless.com
 qbo-api.gocardless.com
-qbo.gocardless.com
 storybook.gocardless.io
 support.gocardless.com
 xero-staging.gocardless.com
