@@ -660,7 +660,6 @@ cf.*.aws.indriverapp
 *.dev.remitly.com
 *.int.remitly.com
 *.flickr.com
-*.getmeetio.com
 *.streamlabs.com
 *vc.logitech.com
 *.video.logi.com
