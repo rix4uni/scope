@@ -543,10 +543,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.birds.bi
-*.birds.com
-*.dynamics.com
-*.jobmanager.dk
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk

@@ -5299,6 +5299,8 @@ data.mail.yahoo.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 yimg.com
+hub.vznkul.be
+hubacc.vznkul.be
 intigriti.com
 cockpit-eu-west-2.outscale.com
 fcu.eu-west-2.outscale.com

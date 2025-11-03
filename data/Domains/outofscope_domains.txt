@@ -875,7 +875,6 @@ support.blueapron.com
 support.grubhub.com
 support.seamless.com
 recruitment.roke.co.uk
-greenfly.com
 dhcp.embarqhsd.net
 aboitiz.account.box.com
 pri-webprd-apg.aboitiz.com
@@ -2882,6 +2881,7 @@ press.wolt.com
 wolt.atlassian.net
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
+vznkul.be
 api.intercom.io
 autodiscover.intigriti.com
 careers.intigriti.com

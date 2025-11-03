@@ -1,7 +1,3 @@
-*.birds.bi
-*.birds.com
-*.dynamics.com
-*.jobmanager.dk
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -455,6 +451,7 @@ wolt.atlassian.net
 *.zabka-snrs.zabka.pl
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
+vznkul.be
 *.intigriti.io
 *.intigriti.me
 *.intigriti.net
