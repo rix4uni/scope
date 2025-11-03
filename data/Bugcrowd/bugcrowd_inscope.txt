@@ -1414,7 +1414,6 @@ namestudio.com
 *.verisign.com
 *.verisign-grs.com
 supplier.viator.com
-viatorapi.viator.com
 toursgds.com
 partners.viator.com
 travelagents.viator.com
