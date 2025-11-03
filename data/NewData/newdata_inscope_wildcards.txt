@@ -1,3 +1,11 @@
-*.datacamp.com
-*.oda.com
-*.prod.nube.tech
+*.gamma.be
+*.gamma.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.karwei.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
+*.voiscooters.com

@@ -1051,6 +1051,16 @@ cf.*.aws.indriverapp
 *.hln.be
 *.parool.nl
 *.humo.be
+*.gamma.be
+*.gamma.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.karwei.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.klubcinema.fr
 *.megatix.be
 *.kinepolis.be
@@ -1102,6 +1112,7 @@ cf.*.aws.indriverapp
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io

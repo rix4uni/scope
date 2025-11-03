@@ -1,2 +1,15 @@
-hub.vznkul.be
-hubacc.vznkul.be
+kassa.gamma.be
+kassa.gamma.nl
+kassa.karwei.nl
+mijn.gamma.be
+mijn.gamma.nl
+mijn.karwei.nl
+gamma.be
+gamma.nl
+karwei.nl
+api.voiapp.io
+io.voiapp.voi
+mds.voiapp.io
+report.voi.com
+voi.com
+voiscooters.com

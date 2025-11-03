@@ -569,6 +569,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
