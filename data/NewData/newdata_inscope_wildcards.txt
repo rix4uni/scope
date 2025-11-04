@@ -1,2 +1,1 @@
-*.oda.com
-*.prod.nube.tech
+*.steamstatic.com

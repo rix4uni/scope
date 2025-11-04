@@ -2325,6 +2325,7 @@ goldmansachsindices.com
 marquee.gs.com
 research.gs.com
 fitvermogen.nl
+*.steamstatic.com
 api.steampowered.com
 developer.valvesoftware.com
 help.steampowered.com
