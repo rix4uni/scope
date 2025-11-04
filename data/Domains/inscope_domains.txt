@@ -123,7 +123,6 @@ coinmarketcap.com
 binance.us
 binance.tr
 bitdefender.com
-bitgo.com
 app.bitgo.com
 app.bitgo-test.com
 bitgo.ae
