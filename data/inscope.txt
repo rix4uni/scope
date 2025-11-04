@@ -4569,6 +4569,13 @@ wiki.grab.com
 xtramile.grabpay.com
 moneybird.com
 moneybirdstorage.com
+support.dashlane.com
+api.dashlane.com
+app.dashlane.com
+console.dashlane.com
+dashlane.com
+logs.dashlane.com
+ws1.dashlane.com
 udemy.com
 yourcompany.udemy.com
 developer.zendesk.com
@@ -5170,6 +5177,12 @@ store.tomorrowland.com
 brasil-store.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
