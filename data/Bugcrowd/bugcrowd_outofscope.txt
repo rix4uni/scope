@@ -472,6 +472,7 @@ theandersonfinancialgroupnm.com
 themint.org
 u.nm.com
 wholelifeconversion.com
+21fiveca.com
 *.nuinternational.com
 *.nat-a.nubank.com.br
 international.nubank.com.br
@@ -607,6 +608,7 @@ help.enterprise.rea-group.com
 help.rea-group.com
 university.rea-group.com
 realestate.com.au
+*.realestate.com.au
 homeloans.realestate.com.au
 sasinator.realestate.com.au
 smetrics.realestate.com.au

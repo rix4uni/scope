@@ -125,6 +125,7 @@ auth.*.latitudefinancial.com
 *.empower.com
 *.retirementpartner.com
 *.email.rea-group.com
+*.realestate.com.au
 *.propertypanel.realestate.com.au
 *.realtair.realestate.com.au
 *.agent.realcommercial.com.au
@@ -317,6 +318,9 @@ bus.*.indrive.com
 *.firstdata.com
 *.fiserv.com
 *.awards.slotomania.com
+*.justfall.lol
+*.justplay.lol
+*.1v1.lol
 *.bo.tide.co
 *-staging.tide.co
 *-wip.tide.co
@@ -542,6 +546,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -1029,6 +1034,7 @@ theandersonfinancialgroupnm.com
 themint.org
 u.nm.com
 wholelifeconversion.com
+21fiveca.com
 international.nubank.com.br
 artifactorysample.octopus.com
 bamboosample.octopus.com
@@ -1432,6 +1438,9 @@ coalition.nba.com
 dev.stats.2kleague.nba.com
 evergent.com
 mindhealth.nba.com
+nbafoundation-dev.nba.com
+nbafoundation-qa.nba.com
+nbafoundation.nba.com
 payment.nba.com
 stats.2kleague.nba.com
 totalhealth.nba.com
@@ -1933,6 +1942,7 @@ secure-piedmontfederal.com
 token.clover.com
 clover.com
 cloversecurity.com
+1v1.lol
 sm-php-smid-dsa.slotomania.com
 sm-php-smid.slotomania.com
 sm-php-smid-va2.slotomania.com
@@ -1941,6 +1951,7 @@ sm-php.playtika.com
 expertconnect.support
 nearmiss.deere.com
 next-app.expertconnect.deere.com
+pla.acronex.com
 seasonalpartscatalog.deere.com
 us-central-1.r4.abc.expertconnect.support
 us-central-1.r4.xyz.expertconnect.support
@@ -2291,6 +2302,8 @@ privacy.gocardless.com
 qbo-api.gocardless.com
 storybook.gocardless.io
 support.gocardless.com
+xero-sandbox.gocardless.com
+manage.gocardless
 xero-staging.gocardless.com
 xero.gocardless.com
 preview.midigator.com
@@ -2542,6 +2555,8 @@ discuss.elastic.co
 elasticon.elastic.co
 go.es.co
 info.elastic.co
+ip.es.io
+elastic.co
 jobs.elastic.co
 learn.elastic.co
 link.email.elastic.co

@@ -168,6 +168,9 @@ coalition.nba.com
 dev.stats.2kleague.nba.com
 evergent.com
 mindhealth.nba.com
+nbafoundation-dev.nba.com
+nbafoundation-qa.nba.com
+nbafoundation.nba.com
 payment.nba.com
 stats.2kleague.nba.com
 totalhealth.nba.com
@@ -740,6 +743,10 @@ token.clover.com
 clover.com
 cloversecurity.com
 *.awards.slotomania.com
+*.justfall.lol
+*.justplay.lol
+*.1v1.lol
+1v1.lol
 sm-php-smid-dsa.slotomania.com
 sm-php-smid.slotomania.com
 sm-php-smid-va2.slotomania.com
@@ -748,6 +755,7 @@ sm-php.playtika.com
 expertconnect.support
 nearmiss.deere.com
 next-app.expertconnect.deere.com
+pla.acronex.com
 seasonalpartscatalog.deere.com
 us-central-1.r4.abc.expertconnect.support
 us-central-1.r4.xyz.expertconnect.support
@@ -1137,6 +1145,8 @@ privacy.gocardless.com
 qbo-api.gocardless.com
 storybook.gocardless.io
 support.gocardless.com
+xero-sandbox.gocardless.com
+manage.gocardless
 xero-staging.gocardless.com
 xero.gocardless.com
 *.acordocerto.com.br
@@ -1477,6 +1487,8 @@ discuss.elastic.co
 elasticon.elastic.co
 go.es.co
 info.elastic.co
+ip.es.io
+elastic.co
 jobs.elastic.co
 learn.elastic.co
 link.email.elastic.co

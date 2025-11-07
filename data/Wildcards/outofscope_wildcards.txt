@@ -125,6 +125,7 @@ auth.*.latitudefinancial.com
 *.empower.com
 *.retirementpartner.com
 *.email.rea-group.com
+*.realestate.com.au
 *.propertypanel.realestate.com.au
 *.realtair.realestate.com.au
 *.agent.realcommercial.com.au
@@ -317,6 +318,9 @@ bus.*.indrive.com
 *.firstdata.com
 *.fiserv.com
 *.awards.slotomania.com
+*.justfall.lol
+*.justplay.lol
+*.1v1.lol
 *.bo.tide.co
 *-staging.tide.co
 *-wip.tide.co
@@ -542,6 +546,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk

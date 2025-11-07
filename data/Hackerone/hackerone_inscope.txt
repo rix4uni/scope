@@ -420,6 +420,8 @@ lrc20.lightspark.com
 *.bybit.eu
 *.bybit.tr
 testnet.bybit.eu
+bybit.com
+byreal.io
 *.budgetair.com
 *.cheaptickets.nl
 *.flugladen.de
@@ -819,7 +821,6 @@ foundrygov.com
 *.mongodb.com
 mongodb.com
 support.mongodb.com
-artifactory.corp.mongodb.com
 charts.mongodb.com
 account.mongodb.com
 plugins.jetbrains.com
@@ -960,9 +961,6 @@ smtp2go.com
 *.boardkingsgame.com
 *.caesarsgames.com
 *.houseoffun.com
-*.justfall.lol
-*.justplay.lol
-*.1v1.lol
 *.monopoly-poker.com
 *.playticorp.com
 *.playtika.com
@@ -972,7 +970,6 @@ smtp2go.com
 *.seriously.com
 *.slotomania.com
 *.wooga.com
-1v1.lol
 air.com.buffalo
 studios.newflashbingo
 air.com.playtika.cvs
@@ -1945,6 +1942,7 @@ contentportalauth.marriott.com
 cpp.marriott.com
 *.marriott.com
 device.marriott.com
+editionhotels.com
 efast.marriott.com
 eidhelp.marriott.com
 esupplier.marriott.com
@@ -2263,6 +2261,7 @@ marketplace.databricks.com
 partners.databricks.com
 support.databricks.com
 *.elastic.co
+*.elastic.dev
 *.elasticnet.co
 *.elstc.co
 *.eops.nl
@@ -2274,17 +2273,6 @@ cloud.elastic.co
 epr.elastic.co
 slsa.dev
 buildkite.com
-elasticsearch-ci.elastic.co
-apm-ci.elastic.co
-beats-ci.elastic.co
-clients-ci.elastic.co
-cloud-ci.elastic.co
-devops-ci.elastic.co
-infra-ci.elastic.co
-internal-ci.elastic.co
-kibana-ci.elastic.co
-logstash-ci.elastic.co
-swiftype-ci.elastic.co
 *.advisorsolutions.gs.com
 *.ayco.com
 *.folioclient.com
@@ -2667,6 +2655,7 @@ social-trading.exness.com
 *.scopely.com
 *.scopely.io
 *.withbuddies.com
+air.com.bitrhymes.bingo
 api.localizestaging.com
 help.localizejs.com
 api.localizejs.com
