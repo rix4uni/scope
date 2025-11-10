@@ -1378,6 +1378,7 @@ co.uk
 *.sheingsp.com
 api.faraday.ai
 app.faraday.ai
+vault2.faraday.ai
 *.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -1668,7 +1669,6 @@ hotels.com
 in.hotels.com
 uk.hotels.com
 fr.hotels.com
-hotwire.com
 hotwirepartnercentral.com
 lastminute.co.nz
 lastminute.com.au
