@@ -2579,6 +2579,8 @@ libelle.nl
 docs.moralis.io
 forum.moralis.io
 status.moralis.io
+store.ninjakiwi.com
+support.ninjakiwi.com
 prod.tardis.ovotech.org.uk
 pol.ovotech.org.uk
 notification-service.ovotech.org.uk
