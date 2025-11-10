@@ -381,7 +381,6 @@ bus.*.indrive.com
 *.netlify.app
 *.netlify.com
 *.netlifycms.org
-*.canada.fanduel.com
 *.fndl.dev
 *.gokangu.cl
 *.gokangu.co

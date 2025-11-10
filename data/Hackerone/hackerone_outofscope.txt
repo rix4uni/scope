@@ -1275,7 +1275,6 @@ answers.netlify.com
 docs.netlify.com
 webpop.com
 netlify.com
-*.canada.fanduel.com
 *.fndl.dev
 appsflyer.com
 crashlytics.com
