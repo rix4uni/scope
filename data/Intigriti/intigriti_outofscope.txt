@@ -111,7 +111,6 @@ community.monzo.com
 login.internal.monzo.com
 monzo.me
 docs.moralis.io
-forum.moralis.io
 status.moralis.io
 store.ninjakiwi.com
 support.ninjakiwi.com
