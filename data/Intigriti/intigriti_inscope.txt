@@ -193,6 +193,7 @@ karwei.nl
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
+irmg.nl
 *.klubcinema.fr
 *.megatix.be
 booking.mjrtheatres.com
