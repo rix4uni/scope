@@ -382,9 +382,7 @@ bus.*.indrive.com
 *.netlify.com
 *.netlifycms.org
 *.canada.fanduel.com
-*.east.fdbox.net
 *.fndl.dev
-*.prod.fdbox.net
 *.gokangu.cl
 *.gokangu.co
 *.gokangu.mx
