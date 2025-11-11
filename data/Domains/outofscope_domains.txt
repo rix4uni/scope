@@ -1889,10 +1889,6 @@ public.bitmex.com
 research.bitmex.com
 status.bitmex.com
 support.bitmex.com
-feedback.databricks.com
-forums.databricks.com
-go.databricks.com
-databricks-prod-cloudfront.cloud.databricks.com
 blog.thecoalition.com
 security.md
 help.thecoalition.com

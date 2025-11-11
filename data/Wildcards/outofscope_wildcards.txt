@@ -444,6 +444,7 @@ online.*.skybingo.com
 *.rsk.co
 *.azuredatabricks.net
 *.cloud.databricks.com
+*.gcp.databricks.com
 *.elasticsearch.cn
 *.communicatie.vennhypotheken.nl
 *.events.gs.com
