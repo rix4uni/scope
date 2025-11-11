@@ -1,2 +1,5 @@
-*.monzo.com
-*.prod-ffs.io
+*.gobiz.co.id
+*.gaming.gopayapi.com
+*.gofin.io
+*.findaya.com
+*.findaya.co.id
