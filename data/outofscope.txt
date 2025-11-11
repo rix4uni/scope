@@ -603,6 +603,8 @@ api.*.ec.ovotech
 booking.*.cloud.sqills
 booking.*.sqills.com
 *.tempo-team.de
+*.crewconnect.coca-cola.com
+*.connect.coca-cola.com
 *.ccnag.com
 *.zabka-snrs.zabka.pl
 *.intigriti.io
