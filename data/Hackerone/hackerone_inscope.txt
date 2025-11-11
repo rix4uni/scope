@@ -624,9 +624,9 @@ merino.services.mozilla.com
 stage.merino.nonprod.cloudops.mozgcp.net
 monitor.mozilla.org
 monitor-stage.allizom.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 phabricator-dev.allizom.org
+pontoon.allizom.org
 profiler.firefox.com
 push.services.mozilla.com
 updates.push.services.mozilla.com

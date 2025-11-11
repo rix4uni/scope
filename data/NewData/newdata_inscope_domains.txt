@@ -1,1 +1,1 @@
-api.gobiz.co.id
+pontoon.allizom.org
