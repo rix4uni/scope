@@ -1,5 +1,11 @@
-*.gobiz.co.id
-*.gaming.gopayapi.com
-*.gofin.io
-*.findaya.com
-*.findaya.co.id
+*.datacamp.com
+*.gamma.be
+*.gamma.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.karwei.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
