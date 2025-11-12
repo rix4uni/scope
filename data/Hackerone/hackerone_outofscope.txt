@@ -140,8 +140,6 @@ bol.rwbaird.com
 clientdocs.rwbaird.com
 uatclientdocs.rwbaird.com
 rwbaird.com
-docs.hemi.xyz
-news.hemi.xyz
 docs.stripe.com
 okta.whoop.com
 connect.com

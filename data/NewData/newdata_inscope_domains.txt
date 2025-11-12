@@ -1,2 +1,8 @@
-security-testing-preprod-org.iam-pp.cfapps.eu10-004.hana.ondemand.com
-cp.portal
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
