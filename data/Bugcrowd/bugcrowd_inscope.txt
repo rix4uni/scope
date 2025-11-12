@@ -1064,6 +1064,8 @@ recroom.com
 *.rec.net
 api.rec.net
 devportal.rec.net
+security-testing-preprod-org.iam-pp.cfapps.eu10-004.hana.ondemand.com
+cp.portal
 *.seek.com.au
 seekcdn.com
 *.skinfra.xyz
