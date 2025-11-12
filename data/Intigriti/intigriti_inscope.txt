@@ -559,3 +559,4 @@ hub.vznkul.be
 hubacc.vznkul.be
 *.pwn.intigriti.rocks
 intigriti.com
+vpn.intigriti.rocks
