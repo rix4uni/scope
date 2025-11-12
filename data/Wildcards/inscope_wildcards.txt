@@ -1076,6 +1076,7 @@ cf.*.aws.indriverapp
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.nexo.com
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com

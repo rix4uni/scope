@@ -1076,6 +1076,7 @@ cf.*.aws.indriverapp
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.nexo.com
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com
@@ -5049,6 +5050,8 @@ vikingdeals.be
 co.uk.getmondo
 monzo.com
 nvidia.com
+platform.nexo.com
+nexo.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 analytics.ninjakiwi.com
