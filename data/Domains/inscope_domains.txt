@@ -1821,6 +1821,11 @@ app.dynamicauth.com
 odk.otherside.xyz
 app.moderntreasury.com
 cdn.moderntreasury.com
+notion.so
+api.notion.com
+calendar.notion.so
+mail.notion.so
+notion.id
 m-pesa.africa
 mpa.ekyc.backoffice.m-pesa.com
 mpa.ekyc.selfregister.m-pesa.com
