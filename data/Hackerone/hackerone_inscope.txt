@@ -666,6 +666,7 @@ analvids.com
 ddfcontent.com
 pornbox.com
 pornworld.com
+*.happening.dev
 *.luckydays.ca
 superbet.com
 *.luckydays.com

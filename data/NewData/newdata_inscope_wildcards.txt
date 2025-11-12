@@ -1,1 +1,1 @@
-*.nexo.com
+*.happening.dev
