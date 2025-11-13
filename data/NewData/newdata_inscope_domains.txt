@@ -1,5 +1,1 @@
-notion.so
-api.notion.com
-calendar.notion.so
-mail.notion.so
-notion.id
+signin-hackerone.hbstaging.website
