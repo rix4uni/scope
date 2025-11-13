@@ -1,3 +1,1 @@
-app.qualified-dev.com
-qualified.com
-api.qualified.com
+app.aikido.dev
