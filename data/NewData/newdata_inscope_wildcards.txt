@@ -1,1 +1,2 @@
-*.datacamp.com
+*.tiktokcdn.com
+*.tiktokpublishers.com

@@ -531,6 +531,8 @@ cf.*.aws.indriverapp
 *.watsons.vn
 *.pipopay.com
 *.tiktok.com
+*.tiktokcdn.com
+*.tiktokpublishers.com
 *.tiktokv.com
 *.amazon.ae
 *.amazon.ca
