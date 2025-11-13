@@ -2936,7 +2936,6 @@ teleport.fareharbor.engineering
 webhooks.booking.com
 widget.rentalcars.com
 fareharbor.com
-sustainability.booking.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com

@@ -2324,6 +2324,7 @@ partnerfeedback.booking.com
 recruitmentsurveys.booking.com
 spadmin.booking.com
 welcomekit.booking.com
+sustainability.booking.com
 staging.airtable.com
 airtable.com
 blog.airtable.com
