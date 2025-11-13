@@ -376,6 +376,9 @@ wiki.portofantwerpbruges.com
 oursustainableport.com
 portofantwerpbruges.com
 erpx.unit4cloud.com
+app.qualified-dev.com
+qualified.com
+api.qualified.com
 access.ripe.net
 lirportal.ripe.net
 *.ripe.net

@@ -1,1 +1,3 @@
-signin-hackerone.hbstaging.website
+app.qualified-dev.com
+qualified.com
+api.qualified.com
