@@ -1744,14 +1744,13 @@ netlify-cdp-loader.netlify.app
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 supportal.netlify.app
+*.fanduel.com
 *.mgmt.fndlsb.net
 *.prd.fndlsb.net
 *inf.fndlsb.net
-*racing.fanduel.com
 4njbets.com
 4njbets.tvg.com
 4njbets.us.betfair.com
-fanduel.com
 ia.tvg.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
@@ -1763,9 +1762,7 @@ m.4njbets.tvg.com
 mobile-prod.tvg.com
 pabets.tvg.com
 promos.tvg.com
-service.racing.fanduel.com
 service.tvg.com
-sportsbook.fanduel.com
 tvg.com
 us.tvg.com
 accounts.creditkarma.com

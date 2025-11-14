@@ -618,10 +618,10 @@ cf.*.aws.indriverapp
 *.ops.netlify.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
+*.fanduel.com
 *.mgmt.fndlsb.net
 *.prd.fndlsb.net
 *inf.fndlsb.net
-*racing.fanduel.com
 *.creditkarma.co.uk
 *.creditkarma.ca
 *.creditkarma.com
@@ -3799,7 +3799,6 @@ supportal.netlify.app
 4njbets.com
 4njbets.tvg.com
 4njbets.us.betfair.com
-fanduel.com
 ia.tvg.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
@@ -3811,9 +3810,7 @@ m.4njbets.tvg.com
 mobile-prod.tvg.com
 pabets.tvg.com
 promos.tvg.com
-service.racing.fanduel.com
 service.tvg.com
-sportsbook.fanduel.com
 tvg.com
 us.tvg.com
 accounts.creditkarma.com
