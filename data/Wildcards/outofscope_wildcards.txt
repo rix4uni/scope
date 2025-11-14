@@ -2,11 +2,6 @@
 *.avns.net
 *.arubanetworks.com
 *.hpe.com
-*.atl.arubanetworks.com
-*.getaws.arubanetworks.com
-*.iot.developer.arubanetworks.com
-*.isb.arubanetworks.com
-*.arubademo.net
 *.integrations.asana.plus
 *.bitbucket.io
 *.project1service.com
