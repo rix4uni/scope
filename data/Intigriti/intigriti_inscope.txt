@@ -1,5 +1,4 @@
 app.aikido.dev
-github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -117,6 +116,7 @@ delen.be
 api.digitalocean.com
 cloud.digitalocean.com
 amd.digitalocean.com
+github.com
 marketplace.digitalocean.com
 *.snapshooter.com
 digitalocean.com
@@ -284,10 +284,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 nvidia.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
