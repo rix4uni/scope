@@ -3345,14 +3345,6 @@ moneybird.com
 moneybirdstorage.com
 udemy.com
 yourcompany.udemy.com
-developer.zendesk.com
-h1-your-domain.zendesk.com
-postman.com
-support.zendesk.com
-kibbles.klausapp.com
-app.klausapp.com
-zendesk.com
-zopim.com
 business.kayak.com
 kayak.ai
 cheapflights.com
