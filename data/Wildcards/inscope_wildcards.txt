@@ -1011,9 +1011,6 @@ cf.*.aws.indriverapp
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1043,16 +1040,6 @@ cf.*.aws.indriverapp
 *.hln.be
 *.parool.nl
 *.humo.be
-*.gamma.be
-*.gamma.nl
-*.intergamma.cloud
-*.intergamma.nl
-*.karwei.nl
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.klubcinema.fr
 *.megatix.be
 *.kinepolis.be

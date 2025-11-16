@@ -3668,9 +3668,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-capital.com
-open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -3749,16 +3746,6 @@ kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-mijn.gamma.be
-mijn.gamma.nl
-mijn.karwei.nl
-gamma.be
-gamma.nl
-karwei.nl
-irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com

@@ -553,9 +553,6 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
-*affiliates.backend-capital.com
-*eduapp.backend-capital.com
-*education.backend-capital.com
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
 *.digi-mobile.be
@@ -569,7 +566,6 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
@@ -3127,10 +3123,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 app.datacamp.com
 ast-viewer.datacamp.com
 confluence.datacamp.com
@@ -3171,18 +3163,6 @@ newsroom.innogames.com
 pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
-afspraakmaken.gamma.nl
-api.afspraakmaken.gamma.be
-api.afspraakmaken.gamma.nl
-api.maakafspraak.karwei.nl
-horrenconfigurator-fr.gamma.be
-horrenconfigurator-nl.gamma.be
-horrenconfigurator.karwei.nl
-karwei-2018.hetmooistegordijn.nl
-maakafspraak.karwei.nl
-mail.gamma.be
-mail.gamma.nl
-mail.karwei.nl
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
