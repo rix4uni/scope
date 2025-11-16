@@ -19,6 +19,9 @@ https://github.com/square/okhttp
 https://github.com/square/okio
 https://github.com/square/wire
 https://github.com/ClickHouse/ClickHouse
+https://github.com/freedomofpress/securedrop
+https://github.com/freedomofpress/securedrop-workstation
+https://github.com/freedomofpress/securedrop-client
 https://github.com/immutable/ts-immutable-sdk
 https://github.com/justeattakeaway
 https://github.com/electroneum/electroneum
