@@ -3500,6 +3500,7 @@ wolt.atlassian.net
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
 vznkul.be
+posthog.intigriti.com
 api.intercom.io
 autodiscover.intigriti.com
 careers.intigriti.com
