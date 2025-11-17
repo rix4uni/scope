@@ -1011,6 +1011,9 @@ cf.*.aws.indriverapp
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1019,6 +1022,15 @@ cf.*.aws.indriverapp
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
 *.itscope.com
 *.itscope.de
 *.gripp.com

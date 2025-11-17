@@ -1,3 +1,6 @@
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.dropbox.com
 *.dropboxer.net
 *.dropboxforum.com

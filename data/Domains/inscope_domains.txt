@@ -991,6 +991,8 @@ opendata.test-socrata.com
 opendata-demo.test-socrata.com
 my.mintmobile.com
 my.ultramobile.com
+mintmobile.com
+ultramobile.com
 web-retailer-portal.ultramobile.com
 underarmour.com
 underarmour.co.uk
@@ -3666,6 +3668,9 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -3719,6 +3724,16 @@ do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
 donorbox.org
+dropbox.com
+sign.dropbox.com
+hellosign.com
+dash.ai
+dash.dropbox.com
+api.dropbox.com
+replay.dropbox.com
+hellofax.com
+docsend.com
+app.reclaim.ai
 itscope.com
 itscope.de
 gripp.com
