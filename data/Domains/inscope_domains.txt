@@ -85,11 +85,6 @@ youpornpremium.com
 pornhub.mainhub.com
 tube8.com
 thumbzilla.com
-mydirtyhobby.com
-mydirtyhobby.de
-it.mydirtyhobby.com
-es.mydirtyhobby.com
-fr.mydirtyhobby.com
 nutaku.com
 nutaku.net
 xnxx.nutaku.net
@@ -801,8 +796,6 @@ xbox.com
 recroom.com
 api.rec.net
 devportal.rec.net
-security-testing-preprod-org.iam-pp.cfapps.eu10-004.hana.ondemand.com
-cp.portal
 seekcdn.com
 graphql.seek.com
 auth.seek.com
@@ -991,6 +984,8 @@ opendata.test-socrata.com
 opendata-demo.test-socrata.com
 my.mintmobile.com
 my.ultramobile.com
+mintmobile.com
+ultramobile.com
 web-retailer-portal.ultramobile.com
 underarmour.com
 underarmour.co.uk
@@ -1159,6 +1154,8 @@ app.insomnia.rest
 us.identity.konghq.com
 store-usa.arduino.cc
 silabs.com
+docs.cfengine.com
+staging.hosted.mender.io
 api.prod.whoop.com
 app.whoop.com
 join.whoop.com
@@ -1855,6 +1852,7 @@ plugins.jetbrains.com
 cloud.mongodb.com
 marketplace.visualstudio.com
 mongodb.mongodb
+b2b-api.ripio.com
 defi.ripio.com
 auth.ripio.com
 app.ripio.com
@@ -3324,8 +3322,6 @@ secure-dfadmin.deriv.com
 smarttrader.deriv.com
 fetlife.com
 fetlifemail.com
-dashboard.algolia.com
-algolia.com
 appgallery.huawei.com
 api.grabpay.com
 gamma.grab.co
@@ -3633,7 +3629,6 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -3669,6 +3664,7 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
+challenge-1125.intigriti.io
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com

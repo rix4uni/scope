@@ -1,4 +1,4 @@
-app.aikido.dev
+github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -66,6 +66,7 @@ capital.com
 open-api.capital.com
 *.capital.com
 *.itcapital.io
+challenge-1125.intigriti.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
@@ -116,7 +117,6 @@ delen.be
 api.digitalocean.com
 cloud.digitalocean.com
 amd.digitalocean.com
-github.com
 marketplace.digitalocean.com
 *.snapshooter.com
 digitalocean.com

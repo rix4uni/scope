@@ -1,5 +1,6 @@
-mydirtyhobby.com
-mydirtyhobby.de
-it.mydirtyhobby.com
-es.mydirtyhobby.com
-fr.mydirtyhobby.com
+mintmobile.com
+ultramobile.com
+docs.cfengine.com
+staging.hosted.mender.io
+b2b-api.ripio.com
+challenge-1125.intigriti.io

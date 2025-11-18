@@ -1,3 +1,6 @@
-https://github.com/freedomofpress/securedrop
-https://github.com/freedomofpress/securedrop-workstation
-https://github.com/freedomofpress/securedrop-client
+https://github.com/mattermost/mattermost-plugin-confluence
+https://github.com/mendersoftware/mender
+https://github.com/mendersoftware/mender-server
+https://github.com/AikidoSec/firewall-node
+https://github.com/AikidoSec/firewall-php
+https://github.com/AikidoSec/firewall-python

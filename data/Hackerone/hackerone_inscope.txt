@@ -34,6 +34,8 @@ us.identity.konghq.com
 store-usa.arduino.cc
 github.com
 silabs.com
+docs.cfengine.com
+staging.hosted.mender.io
 api.prod.whoop.com
 app.whoop.com
 join.whoop.com
@@ -70,6 +72,7 @@ enroll.onduo.com
 *.verily.com
 helix.verily.com
 verily.com
+*.verilyme.com
 console-stage.neon.build
 console.neon.tech
 bumba.global
@@ -834,6 +837,7 @@ cloud.mongodb.com
 marketplace.visualstudio.com
 mongodb.mongodb
 *ripiotrade.co
+b2b-api.ripio.com
 defi.ripio.com
 auth.ripio.com
 app.ripio.com
@@ -1014,6 +1018,7 @@ recordedfuture.com
 *.web3factory.consensys.net
 staking.consensys.io
 consensys.io
+etherscan.io
 support.metamask.io
 tickets.metamask.io
 *.gethypr.com
@@ -2156,7 +2161,6 @@ app.mona.co
 developer-api.crypto.com
 developer-platform-api.crypto.com
 developer.crypto.com
-etherscan.io
 js.crypto.com
 merchant.crypto.com
 nadex.com
@@ -2770,10 +2774,6 @@ smarttrader.deriv.com
 *.fetlife.com
 fetlife.com
 fetlifemail.com
-*.algolia.net
-*.algolianet.com
-dashboard.algolia.com
-algolia.com
 *.grab-sure.com
 *.grab.co
 *.grab.com

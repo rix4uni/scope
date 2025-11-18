@@ -140,6 +140,8 @@ bol.rwbaird.com
 clientdocs.rwbaird.com
 uatclientdocs.rwbaird.com
 rwbaird.com
+hosted.mender.io
+staging.hosted.mender.io
 docs.stripe.com
 okta.whoop.com
 connect.com

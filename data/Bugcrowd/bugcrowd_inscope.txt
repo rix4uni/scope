@@ -110,11 +110,6 @@ pornhub.mainhub.com
 *.tube8.com
 tube8.com
 thumbzilla.com
-mydirtyhobby.com
-mydirtyhobby.de
-it.mydirtyhobby.com
-es.mydirtyhobby.com
-fr.mydirtyhobby.com
 nutaku.com
 nutaku.net
 xnxx.nutaku.net
@@ -1055,8 +1050,6 @@ recroom.com
 *.rec.net
 api.rec.net
 devportal.rec.net
-security-testing-preprod-org.iam-pp.cfapps.eu10-004.hana.ondemand.com
-cp.portal
 *.seek.com.au
 seekcdn.com
 *.skinfra.xyz
@@ -1305,6 +1298,8 @@ opendata.test-socrata.com
 opendata-demo.test-socrata.com
 my.mintmobile.com
 my.ultramobile.com
+mintmobile.com
+ultramobile.com
 web-retailer-portal.ultramobile.com
 underarmour.com
 underarmour.co.uk
