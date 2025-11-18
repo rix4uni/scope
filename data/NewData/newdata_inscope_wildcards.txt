@@ -1,1 +1,2 @@
-*.verilyme.com
+*.algolia.net
+*.algolianet.com

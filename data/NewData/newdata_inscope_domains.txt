@@ -1,5 +1,2 @@
-mydirtyhobby.com
-mydirtyhobby.de
-it.mydirtyhobby.com
-es.mydirtyhobby.com
-fr.mydirtyhobby.com
+dashboard.algolia.com
+algolia.com
