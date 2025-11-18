@@ -85,11 +85,6 @@ youpornpremium.com
 pornhub.mainhub.com
 tube8.com
 thumbzilla.com
-mydirtyhobby.com
-mydirtyhobby.de
-it.mydirtyhobby.com
-es.mydirtyhobby.com
-fr.mydirtyhobby.com
 nutaku.com
 nutaku.net
 xnxx.nutaku.net
@@ -989,6 +984,8 @@ opendata.test-socrata.com
 opendata-demo.test-socrata.com
 my.mintmobile.com
 my.ultramobile.com
+mintmobile.com
+ultramobile.com
 web-retailer-portal.ultramobile.com
 underarmour.com
 underarmour.co.uk
@@ -3342,6 +3339,13 @@ wiki.grab.com
 xtramile.grabpay.com
 moneybird.com
 moneybirdstorage.com
+support.dashlane.com
+api.dashlane.com
+app.dashlane.com
+console.dashlane.com
+dashlane.com
+logs.dashlane.com
+ws1.dashlane.com
 udemy.com
 yourcompany.udemy.com
 business.kayak.com
