@@ -632,7 +632,6 @@ booking.*.sqills.com
 *.jpe.infomaniak.com
 *.louisvuitton.com
 *.osp.ovh.com
-*dev.swapcard.com
 *.bbcust.telenor.se
 *.cust.telenor.se
 *.sme.telenor.se

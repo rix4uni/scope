@@ -3006,16 +3006,6 @@ sequoia-pgp.org
 sogexia.com
 support.sogexia.com
 sogexiaclub.com
-page.swapcard.com
-blog.swapcard.com
-aide.swapcard.com
-help.swapcard.com
-books.swapcard.com
-l.swapcard.com
-c.swapcard.com
-sentry.swapcard.com
-survey.swapcard.com
-swapcard.com
 login.swissid.ch
 account.post.ch
 incamail-dev.post.ch
