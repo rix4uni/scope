@@ -837,11 +837,11 @@ cloud.mongodb.com
 marketplace.visualstudio.com
 mongodb.mongodb
 *ripiotrade.co
-b2b-api.ripio.com
 defi.ripio.com
 auth.ripio.com
 app.ripio.com
 kyc.ripio.com
+sandbox-b2b.ripio.com
 trade.ripio.com
 *.deribit.com
 insights.deribit.com

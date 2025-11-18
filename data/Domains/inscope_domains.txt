@@ -85,6 +85,11 @@ youpornpremium.com
 pornhub.mainhub.com
 tube8.com
 thumbzilla.com
+mydirtyhobby.com
+mydirtyhobby.de
+it.mydirtyhobby.com
+es.mydirtyhobby.com
+fr.mydirtyhobby.com
 nutaku.com
 nutaku.net
 xnxx.nutaku.net
@@ -1852,11 +1857,11 @@ plugins.jetbrains.com
 cloud.mongodb.com
 marketplace.visualstudio.com
 mongodb.mongodb
-b2b-api.ripio.com
 defi.ripio.com
 auth.ripio.com
 app.ripio.com
 kyc.ripio.com
+sandbox-b2b.ripio.com
 trade.ripio.com
 insights.deribit.com
 pb.deribit.com

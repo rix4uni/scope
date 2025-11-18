@@ -1,9 +1,6 @@
-mintmobile.com
-ultramobile.com
-support.dashlane.com
-api.dashlane.com
-app.dashlane.com
-console.dashlane.com
-dashlane.com
-logs.dashlane.com
-ws1.dashlane.com
+mydirtyhobby.com
+mydirtyhobby.de
+it.mydirtyhobby.com
+es.mydirtyhobby.com
+fr.mydirtyhobby.com
+sandbox-b2b.ripio.com
