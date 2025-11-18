@@ -1,6 +1,2 @@
-mydirtyhobby.com
-mydirtyhobby.de
-it.mydirtyhobby.com
-es.mydirtyhobby.com
-fr.mydirtyhobby.com
-sandbox-b2b.ripio.com
+mintmobile.com
+ultramobile.com
