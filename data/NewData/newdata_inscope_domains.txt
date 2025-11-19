@@ -1,2 +1,10 @@
-mintmobile.com
-ultramobile.com
+dropbox.com
+sign.dropbox.com
+hellosign.com
+dash.ai
+dash.dropbox.com
+api.dropbox.com
+replay.dropbox.com
+hellofax.com
+docsend.com
+app.reclaim.ai
