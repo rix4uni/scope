@@ -1289,6 +1289,11 @@ youpornpremium.com
 pornhub.mainhub.com
 tube8.com
 thumbzilla.com
+mydirtyhobby.com
+mydirtyhobby.de
+it.mydirtyhobby.com
+es.mydirtyhobby.com
+fr.mydirtyhobby.com
 nutaku.com
 nutaku.net
 xnxx.nutaku.net
@@ -2209,8 +2214,6 @@ opendata.test-socrata.com
 opendata-demo.test-socrata.com
 my.mintmobile.com
 my.ultramobile.com
-mintmobile.com
-ultramobile.com
 web-retailer-portal.ultramobile.com
 underarmour.com
 underarmour.co.uk
@@ -5148,6 +5151,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
