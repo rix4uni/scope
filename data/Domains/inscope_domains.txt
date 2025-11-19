@@ -3152,6 +3152,7 @@ api-partner.spotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
+whosampled.com
 blox.link
 api.dyson.at
 api.dyson.be
