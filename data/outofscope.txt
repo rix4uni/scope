@@ -2125,6 +2125,14 @@ adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
 help.evernote.com
+api.lemlist.com
+api.taplio.com
+api.tweethunter.io
+lemwarm.com
+taplio.com
+tweethunter.io
+lemcal.com
+lemlist.com
 atp-exodus.com
 exodus.atlassian.net
 exodusstore.blob.core.windows.net
