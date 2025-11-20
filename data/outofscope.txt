@@ -1329,6 +1329,8 @@ app.docusign.com
 partners.docusign.com
 docusign.net
 rooms.docusign.com
+accounts.britishairways.com
+holiday.britishairways.com
 regionstest.com
 lovable.app
 docs.konghq.com
