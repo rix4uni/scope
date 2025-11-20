@@ -402,6 +402,8 @@ radio.api.soundtrackyourbrand.com
 soundtrackyourbrand.com
 *.sqills.com
 *.sqills.team
+aweb.suivo.com
+asupport.suivo.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
