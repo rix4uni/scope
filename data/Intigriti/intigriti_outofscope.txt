@@ -393,6 +393,10 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
+careers.sqills.com
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
