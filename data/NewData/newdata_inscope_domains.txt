@@ -1,5 +1,4 @@
-mydirtyhobby.com
-mydirtyhobby.de
-it.mydirtyhobby.com
-es.mydirtyhobby.com
-fr.mydirtyhobby.com
+gateway.superhuman.com
+id.superhuman.com
+settings.superhuman.com
+superhuman.com

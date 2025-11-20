@@ -2410,6 +2410,7 @@ download-office.grammarly.com
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
+*.superhuman.com
 3p-access.grammarly.com
 goldengate.grammarly.com
 support.grammarly.com
@@ -2422,7 +2423,11 @@ download-mac.grammarly.com
 grammarly.dmg
 app.grammarly.com
 capi.grammarly.com
+gateway.superhuman.com
 grammarly.ai
+id.superhuman.com
+settings.superhuman.com
+superhuman.com
 api.geneva-staging.com
 app.geneva-staging.chat
 badoo.com
