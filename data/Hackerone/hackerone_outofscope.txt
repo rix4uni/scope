@@ -1639,6 +1639,13 @@ store.threatdown.com
 view.malwarebytes.com
 download-editor.grammarly.com
 grammarly.dmg
+superhuman.com
+mail.superhuman.com
+accounts.superhuman.com
+r.superhuman.com
+media.superhuman.com
+assets.mail.superhuman.com
+emojis.superhuman.com
 send.grammarly.com
 calendar.grammarly.com
 support.grammarly.com
