@@ -1,4 +1,8 @@
-gateway.superhuman.com
-id.superhuman.com
-settings.superhuman.com
-superhuman.com
+mydirtyhobby.com
+mydirtyhobby.de
+it.mydirtyhobby.com
+es.mydirtyhobby.com
+fr.mydirtyhobby.com
+developer.grammarly.com
+user-profile-test.coda.io
+status.coda.io

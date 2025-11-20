@@ -63,6 +63,11 @@ cms.redtube.com
 blog.tube8.com
 tube8.com
 tube8vip.com
+ca.mydirtyhobby.com
+uk.mydirtyhobby.com
+nl.mydirtyhobby.com
+at.mydirtyhobby.com
+ch.mydirtyhobby.com
 nutaku.net
 xnxx.nutaku.net
 xvideos.nutaku.net
@@ -2023,7 +2028,6 @@ store.threatdown.com
 view.malwarebytes.com
 download-editor.grammarly.com
 grammarly.dmg
-developer.grammarly.com
 send.grammarly.com
 calendar.grammarly.com
 support.grammarly.com
@@ -2032,7 +2036,6 @@ brand.grammarly.com
 partners.grammarly.com
 events.grammarly.com
 go.grammarly.com
-coda.grammarly.com
 app.formit.autodesk.com
 quote.oc.autodesk.com
 gcpay.com
