@@ -1,2 +1,1 @@
-aweb.suivo.com
-asupport.suivo.com
+app.aikido.dev
