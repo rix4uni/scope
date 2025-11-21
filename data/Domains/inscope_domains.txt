@@ -1875,6 +1875,7 @@ palantirgov.com
 foundrygov.com
 mongodb.com
 support.mongodb.com
+feedback.mongodb.com
 charts.mongodb.com
 account.mongodb.com
 plugins.jetbrains.com
