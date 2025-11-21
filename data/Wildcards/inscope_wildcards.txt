@@ -15,13 +15,6 @@ portalapi.*.afterpay.com
 *.atlastunnel.com
 *.loom.com
 *.cic-bug-bounty.auth0app.com
-*.twistys.com
-*.brazzers.com
-*.mofos.com
-*.realitykings.com
-*.seancody.com
-*.digitalplayground.com
-*.transangels.com
 *.tube8.com
 *.nutakupublishing.com
 *.trafficjunky.com

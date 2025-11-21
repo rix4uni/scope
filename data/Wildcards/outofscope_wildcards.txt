@@ -4,11 +4,6 @@
 *.hpe.com
 *.integrations.asana.plus
 *.bitbucket.io
-*.project1service.com
-*.project1content.com
-*.pabbp.com
-*.contentabc.com
-*.adtng.com
 *.pornhub.com
 *.pronstore.com
 *.redtube.com
