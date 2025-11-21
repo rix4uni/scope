@@ -1638,8 +1638,6 @@ pages.malwarebytes.com
 store.malwarebytes.com
 store.threatdown.com
 view.malwarebytes.com
-download-editor.grammarly.com
-grammarly.dmg
 superhuman.com
 mail.superhuman.com
 accounts.superhuman.com
