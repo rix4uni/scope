@@ -833,9 +833,6 @@ theossteam.unanet-gc.biz
 uat1.acqcenter.com
 uat2.acqcenter.com
 rescan.io
-globalpaymentsinc.com
-globalpayments.com
-remotesupport.heartland.us
 wvcorp.tva.com
 signin.costco.com
 consensys-solutions.net
