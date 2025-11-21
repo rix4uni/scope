@@ -7,5 +7,3 @@
 *.reclaim.ai
 *.helloworks.com
 *.hellosign.com
-*.sqills.com
-*.sqills.team
