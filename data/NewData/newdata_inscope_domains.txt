@@ -1,4 +1,5 @@
-api.anytask.com
-anytask.com
-api.anytask.thesecurityteam.rocks
-anytask.thesecurityteam.rocks
+mydirtyhobby.com
+mydirtyhobby.de
+it.mydirtyhobby.com
+es.mydirtyhobby.com
+fr.mydirtyhobby.com
