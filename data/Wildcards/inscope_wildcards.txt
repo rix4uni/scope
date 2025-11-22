@@ -148,10 +148,6 @@ casino.*.betmgm.com
 *.yourdelivery.de
 *.just-data.io
 *.jet-external.com
-*.remove.bg
-*.designify.com
-*.kaleido.ai
-*.unscreen.com
 *.kucoin.com
 *.28degreescard.com.au
 *.buyersedge.com.au
