@@ -25,10 +25,6 @@ console.aiven.io
 api.aiven.io
 github.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
-api.anytask.com
-anytask.com
-api.anytask.thesecurityteam.rocks
-anytask.thesecurityteam.rocks
 *.arlo.com
 *.arloxcld.com
 *-prod.arlo.com
