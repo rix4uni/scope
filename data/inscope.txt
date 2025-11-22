@@ -1696,6 +1696,10 @@ vtcprodapi.maf.ae
 svchifi.svc
 production.maf.auth0.com
 maf-holding-prod.apigee.net
+malloftheemirates.com
+api.mafshoppingmalls.com
+premogiftcards.com
+identity.majidalfuttaim.com
 mastercard.us
 mastercard.ch
 mastercard.com.au
