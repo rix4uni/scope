@@ -1155,7 +1155,6 @@ aiq-prod.codebig2.net
 staging-app.bany.dev
 staging-api.ynab.com
 ynab.com
-baby.zola.com
 doordash.doordashconsumer
 doordash.com
 api.robinhood.com
