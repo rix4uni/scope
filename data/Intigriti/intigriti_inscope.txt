@@ -565,8 +565,6 @@ data.mail.yahoo.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 yimg.com
-hub.vznkul.be
-hubacc.vznkul.be
 *.pwn.intigriti.rocks
 intigriti.com
 vpn.intigriti.rocks

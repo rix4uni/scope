@@ -461,7 +461,6 @@ wolt.atlassian.net
 *.zabka-snrs.zabka.pl
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
-vznkul.be
 posthog.intigriti.com
 trust.intigriti.com
 swag.intigriti.com
