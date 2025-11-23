@@ -1,4 +1,5 @@
-remove.bg
-designify.com
-kaleido.ai
-unscreen.com
+my.thesecurityteam.rocks
+api.thesecurityteam.rocks
+my.electroneum.com
+electroneum.com
+api.electroneum.com
