@@ -3661,10 +3661,6 @@ shoppers.instacart.com
 admin.instacart.com
 api.instacart.com
 instacart.com
-api.magic.link
-auth.magic.link
-docs.magic.link
-dashboard.magic.link
 dbmanalytics.carrentals.com
 faq-lab.cheaptickets.com
 faq.cheaptickets.com
