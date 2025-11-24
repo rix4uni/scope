@@ -122,6 +122,7 @@ drive.infomaniak.com
 *.jcloud.ik-server.com
 *.jpc.infomaniak.com
 *.jpe.infomaniak.com
+jenkins.io
 *.louisvuitton.com
 matrixreq.com
 demo.matrixreq.com

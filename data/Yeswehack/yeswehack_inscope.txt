@@ -21,6 +21,7 @@ anext.com.sg
 alipayhk.com
 antbank.hk
 mysrc.group
+gitlab.isc.org
 *.bitoasis.net
 gtw-b2capps.bforbank.com
 bookbeat.com

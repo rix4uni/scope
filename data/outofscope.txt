@@ -3643,6 +3643,7 @@ newsletter.infomaniak.com
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
+jenkins.io
 matrixreq.com
 demo.matrixreq.com
 paymaya.com

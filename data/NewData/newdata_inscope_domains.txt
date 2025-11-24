@@ -1,2 +1,1 @@
-hub.vznkul.be
-hubacc.vznkul.be
+gitlab.isc.org

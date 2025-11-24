@@ -265,7 +265,16 @@ https://github.com/RIPE-NCC/rsyncit
 https://github.com/tchapgouv
 https://github.com/expressvpn/lightway-core
 https://github.com/expressvpn/lightway
+https://github.com/ImageMagick/ImageMagick
 https://github.com/Infomaniak/desktop-kDrive
+https://github.com/jenkinsci/jenkins
+https://github.com/jenkinsci/stapler
+https://github.com/jenkinsci/jelly
+https://github.com/jenkinsci/winstone
+https://github.com/jenkinsci/script-security-plugin
+https://github.com/jenkinsci/credentials-plugin
+https://github.com/jenkinsci/credentials-binding-plugin
+https://github.com/jenkinsci/workflow-cps-plugin
 https://github.com/pendulum-project/ntpd-rs
 https://github.com/pendulum-project/timestamped-socket
 https://github.com/pendulum-project/clock-steering
