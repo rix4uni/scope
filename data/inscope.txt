@@ -530,6 +530,7 @@ cf.*.aws.indriverapp
 *.watsons.com.tr
 *.watsons.com.tw
 *.watsons.vn
+*.lookatme.com.ph
 *.pipopay.com
 *.tiktok.com
 *.tiktokcdn.com
@@ -3386,6 +3387,7 @@ blog.watsons.com.tr
 drogas.lt
 drogas.lv
 kruidvat.nl
+lookatme.com.ph
 mapi.moneyback.com.hk
 media.drogas.lt
 media.drogas.lv

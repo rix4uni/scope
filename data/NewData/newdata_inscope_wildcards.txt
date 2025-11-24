@@ -1,4 +1,1 @@
-*.remove.bg
-*.designify.com
-*.kaleido.ai
-*.unscreen.com
+*.lookatme.com.ph

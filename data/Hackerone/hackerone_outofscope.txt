@@ -526,11 +526,6 @@ slack.moov.io
 support.moov.io
 tools.cards.moov.io
 tools.moov.io
-help.strongdm.com
-security.strongdm.com
-safebase.io
-status.strongdm.com
-bugcrowd.com
 *.attorneyskeytitle.com
 *.chartwellescrow.com
 *.ctccal.com
@@ -880,6 +875,7 @@ squarespace.com
 go.grindr.com
 golinks.io
 grindr.atlassian.net
+bugcrowd.com
 grindrbloop.com
 grindrtogo.grindr.com
 help.grindr.com

@@ -1081,10 +1081,6 @@ slack.moov.io
 support.moov.io
 tools.cards.moov.io
 tools.moov.io
-help.strongdm.com
-security.strongdm.com
-safebase.io
-status.strongdm.com
 glide.com
 compass.com
 staebapp01.allegion.com
