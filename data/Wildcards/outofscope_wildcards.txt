@@ -577,10 +577,6 @@ api.*.ec.ovotech
 *.prod.oot.ovotech.org.uk
 *.oisl.gg
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com
