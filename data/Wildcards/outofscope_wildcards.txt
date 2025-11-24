@@ -281,6 +281,7 @@ bus.*.indrive.com
 *.daimler.com
 *.fuso.com
 *.thomasbuildbuses.com
+*evobus.com
 *.api.cx.metamask.io
 *.metamask.io
 *.floqast.com
