@@ -5028,6 +5028,11 @@ mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
 nvidia.com
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
+mynexuz.be
+liquidfiles.nexuzhealth.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 analytics.ninjakiwi.com

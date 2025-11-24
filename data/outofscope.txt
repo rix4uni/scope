@@ -572,6 +572,7 @@ g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
+*.nexuzhealth.pro
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
 *.ovotech.org.uk
@@ -3215,6 +3216,10 @@ lansweeper.com
 libelle.nl
 docs.moralis.io
 status.moralis.io
+idp-contact.nexuzhealth.be
+media.nexuzhealth.be
+nexuzhealth.atlassian.net
+pro.nexuzhealth.hn
 store.ninjakiwi.com
 support.ninjakiwi.com
 prod.tardis.ovotech.org.uk

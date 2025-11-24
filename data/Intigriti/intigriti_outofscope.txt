@@ -108,6 +108,11 @@ lansweeper.com
 libelle.nl
 docs.moralis.io
 status.moralis.io
+*.nexuzhealth.pro
+idp-contact.nexuzhealth.be
+media.nexuzhealth.be
+nexuzhealth.atlassian.net
+pro.nexuzhealth.hn
 store.ninjakiwi.com
 support.ninjakiwi.com
 prod.tardis.ovotech.org.uk

@@ -1,5 +1,5 @@
-app.pdq.com
-portal.pdq.com
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
+mynexuz.be
+liquidfiles.nexuzhealth.com
