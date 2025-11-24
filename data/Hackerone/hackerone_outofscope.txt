@@ -1638,6 +1638,8 @@ r.superhuman.com
 media.superhuman.com
 assets.mail.superhuman.com
 emojis.superhuman.com
+help.superhuman.com
+blog.superhuman.com
 send.grammarly.com
 calendar.grammarly.com
 support.grammarly.com
