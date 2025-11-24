@@ -5278,6 +5278,8 @@ data.mail.yahoo.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 yimg.com
+hub.vznkul.be
+hubacc.vznkul.be
 intigriti.com
 vpn.intigriti.rocks
 cockpit-eu-west-2.outscale.com

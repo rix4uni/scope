@@ -1,3 +1,1 @@
-https://github.com/freedomofpress/securedrop
-https://github.com/freedomofpress/securedrop-workstation
-https://github.com/freedomofpress/securedrop-client
+https://github.com/grafana

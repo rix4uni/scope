@@ -567,6 +567,8 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
@@ -3526,6 +3528,7 @@ press.wolt.com
 wolt.atlassian.net
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
+vznkul.be
 posthog.intigriti.com
 trust.intigriti.com
 swag.intigriti.com
