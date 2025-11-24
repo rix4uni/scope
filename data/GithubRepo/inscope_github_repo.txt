@@ -262,6 +262,13 @@ https://github.com/RIPE-NCC/rpki-monitoring
 https://github.com/RIPE-NCC/rpki-publication-server
 https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/rsyncit
+https://github.com/bigbluebutton/bigbluebutton
+https://github.com/blindsidenetworks/scalelite
+https://github.com/bigbluebutton/bbb-webrtc-sfu
+https://github.com/bigbluebutton/bbb-webrtc-recorder
+https://github.com/bigbluebutton/greenlight
+https://github.com/bigbluebutton/bbb-presentation-video
+https://github.com/bigbluebutton/bbb-playback
 https://github.com/tchapgouv
 https://github.com/expressvpn/lightway-core
 https://github.com/expressvpn/lightway

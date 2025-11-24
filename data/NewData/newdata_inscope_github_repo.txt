@@ -1,9 +1,7 @@
-https://github.com/ImageMagick/ImageMagick
-https://github.com/jenkinsci/jenkins
-https://github.com/jenkinsci/stapler
-https://github.com/jenkinsci/jelly
-https://github.com/jenkinsci/winstone
-https://github.com/jenkinsci/script-security-plugin
-https://github.com/jenkinsci/credentials-plugin
-https://github.com/jenkinsci/credentials-binding-plugin
-https://github.com/jenkinsci/workflow-cps-plugin
+https://github.com/bigbluebutton/bigbluebutton
+https://github.com/blindsidenetworks/scalelite
+https://github.com/bigbluebutton/bbb-webrtc-sfu
+https://github.com/bigbluebutton/bbb-webrtc-recorder
+https://github.com/bigbluebutton/greenlight
+https://github.com/bigbluebutton/bbb-presentation-video
+https://github.com/bigbluebutton/bbb-playback

@@ -22,6 +22,7 @@ alipayhk.com
 antbank.hk
 mysrc.group
 gitlab.isc.org
+github.com
 *.bitoasis.net
 gtw-b2capps.bforbank.com
 bookbeat.com
@@ -55,7 +56,6 @@ app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
 demarches-simplifiees.fr
 static.demarches-simplifiees.fr
-github.com
 identite-sandbox.proconnect.gouv.fr
 tchap.gouv.fr
 matrix.agent.tchap.gouv.fr
