@@ -151,6 +151,7 @@ payment.vladcazino.ro
 pci.kindredgroup.com
 32red.com
 cdn.unicdn.net
+unibet.fr
 *.gojekapi.com
 api.gojek.co.id
 gofood.co.id

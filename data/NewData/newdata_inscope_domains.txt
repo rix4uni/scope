@@ -1,5 +1,11 @@
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
-mynexuz.be
-liquidfiles.nexuzhealth.com
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+developers.veriff.me
+veriff.com
+unibet.fr

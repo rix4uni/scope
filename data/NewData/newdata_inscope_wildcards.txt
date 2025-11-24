@@ -1,1 +1,1 @@
-*.lookatme.com.ph
+*.veriff.com
