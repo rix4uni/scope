@@ -4189,6 +4189,13 @@ goldmansachsindices.com
 marquee.gs.com
 research.gs.com
 fitvermogen.nl
+api.yoti.com
+ccloud.yoti.com
+code.yoti.com
+core.yoti.com
+hub.yoti.com
+identity.yoti.com
+yotisign.com
 api.steampowered.com
 developer.valvesoftware.com
 help.steampowered.com

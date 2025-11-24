@@ -2573,6 +2573,8 @@ npm.nextcapital.com
 qa-billpay.goldman.com
 repo.nextcapital.com
 rubygems.nextcapital.com
+developers.yoti.com
+yoti.com
 list.valvesoftware.com
 translation.steampowered.com
 valvestore.forfansbyfans.com
