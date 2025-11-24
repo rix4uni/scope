@@ -1554,13 +1554,6 @@ via.rider
 *.xiaomiyoupin.com
 mi.com
 store.mi.com
-*.coda.io
-coda.grammarly.com
-coda.io
-codacontent.io
-codahosted.io
-io.coda
-io.coda.codaapp
 *.memorable.io
 *.reddit.com
 *.redditblog.com
@@ -2401,6 +2394,7 @@ dev-threatdown.com
 my.malwarebytes.com
 oneview.threatdown.com
 org.malwarebytes.antimalware
+*.coda.io
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -2411,6 +2405,12 @@ download-mac.grammarly.com
 grammarly.dmg
 superhuman.com
 app.grammarly.com
+coda.grammarly.com
+coda.io
+codacontent.io
+codahosted.io
+io.coda
+io.coda.codaapp
 settings.superhuman.com
 api.geneva-staging.com
 app.geneva-staging.chat

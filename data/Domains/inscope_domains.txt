@@ -2440,12 +2440,6 @@ ridewithvia.par.piercetransit
 via.rider
 mi.com
 store.mi.com
-coda.grammarly.com
-coda.io
-codacontent.io
-codahosted.io
-io.coda
-io.coda.codaapp
 reddit.com
 accounts.reddit.com
 ads.reddit.com
@@ -3060,6 +3054,12 @@ download-mac.grammarly.com
 grammarly.dmg
 superhuman.com
 app.grammarly.com
+coda.grammarly.com
+coda.io
+codacontent.io
+codahosted.io
+io.coda
+io.coda.codaapp
 settings.superhuman.com
 api.geneva-staging.com
 app.geneva-staging.chat
@@ -3855,6 +3855,11 @@ no.kolonial.tienda
 se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+app.pdq.com
+portal.pdq.com
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
 api.personio-dev.com
 api.personio.com
 community.personio.com

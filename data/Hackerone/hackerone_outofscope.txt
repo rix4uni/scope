@@ -1215,7 +1215,6 @@ citymapper.com
 remix.com
 ridewithvia.com
 ridewithvia.okta.com
-status.coda.io
 *.criticalstack.com
 wearehackerone.com
 *.intelstack.com
@@ -1452,6 +1451,7 @@ skyrgs.blueprintgaming.com
 support.developer.betfair.com
 technology.skybettingandgaming.com
 betfair.com.co
+status.jamieweb.net
 *.iovlabs.org
 *.rif.technology
 *.rifos.org
@@ -1646,6 +1646,7 @@ brand.grammarly.com
 partners.grammarly.com
 events.grammarly.com
 go.grammarly.com
+status.coda.io
 app.formit.autodesk.com
 quote.oc.autodesk.com
 gcpay.com

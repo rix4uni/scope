@@ -291,6 +291,11 @@ se.mathem.mathem
 *.prod.nube.tech
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+app.pdq.com
+portal.pdq.com
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
