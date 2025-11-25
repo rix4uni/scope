@@ -1156,6 +1156,14 @@ cf.*.aws.indriverapp
 *.xvtest.net
 *.xvservice.net
 *.polymoon.it
+*.ezviz.com
+*.ys7.com
+*.ezvizlife.com
+*.eziot.com
+*.ezviz7.com
+*.hicloudcam.com
+*.hikops.com
+*.ezvizru.com
 *.gojekapi.com
 *.gofood.co.id
 *.gobiz.co.id

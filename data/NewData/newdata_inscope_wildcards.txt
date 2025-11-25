@@ -1,4 +1,8 @@
-*.employer.seek.com
-*.jobstreet.com.sg
-*.jobstreet.com.my
-*.jobstreet.co.id
+*.ezviz.com
+*.ys7.com
+*.ezvizlife.com
+*.eziot.com
+*.ezviz7.com
+*.hicloudcam.com
+*.hikops.com
+*.ezvizru.com

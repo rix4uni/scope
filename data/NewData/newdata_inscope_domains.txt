@@ -1,1 +1,2 @@
-support.konghq.com
+api.ezvizlife.com
+open.ys7.com

@@ -124,6 +124,16 @@ corp.polymoon.it
 networkguard.com
 expressvpn.com
 ezviz.com
+api.ezvizlife.com
+open.ys7.com
+*.ezviz.com
+*.ys7.com
+*.ezvizlife.com
+*.eziot.com
+*.ezviz7.com
+*.hicloudcam.com
+*.hikops.com
+*.ezvizru.com
 fi.unibet.com
 payment.unibet
 fi.mariacasino.com

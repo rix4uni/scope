@@ -4201,6 +4201,8 @@ corp.polymoon.it
 networkguard.com
 expressvpn.com
 ezviz.com
+api.ezvizlife.com
+open.ys7.com
 fi.unibet.com
 payment.unibet
 fi.mariacasino.com

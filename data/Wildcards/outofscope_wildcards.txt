@@ -443,6 +443,7 @@ online.*.skybingo.com
 *.cloud.databricks.com
 *.gcp.databricks.com
 *.elasticsearch.cn
+*.keephq.dev
 *.communicatie.vennhypotheken.nl
 *.events.gs.com
 *.overrules.vennhypotheken.nl

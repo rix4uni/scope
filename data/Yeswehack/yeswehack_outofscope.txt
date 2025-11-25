@@ -102,6 +102,8 @@ store.doctolib.com
 share.doctolib.net
 vettore.it
 siilo.com
+test.ys7.com
+pb.ys7.com
 *.docker.dev
 *.gouv.fr
 fcp.integ01.dev-franceconnect.fr

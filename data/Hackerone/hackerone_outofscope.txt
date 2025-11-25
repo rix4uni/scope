@@ -1478,6 +1478,7 @@ security.md
 help.thecoalition.com
 thecoalition.com
 *.elasticsearch.cn
+*.keephq.dev
 buy.elastic.co
 community.elastic.co
 discuss.elastic.co
@@ -1490,6 +1491,7 @@ jobs.elastic.co
 learn.elastic.co
 link.email.elastic.co
 partners.elastic.co
+platform.keephq.dev
 sendgrid.elastic.co
 track.email.elastic.co
 training.elastic.co

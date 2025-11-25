@@ -443,6 +443,7 @@ online.*.skybingo.com
 *.cloud.databricks.com
 *.gcp.databricks.com
 *.elasticsearch.cn
+*.keephq.dev
 *.communicatie.vennhypotheken.nl
 *.events.gs.com
 *.overrules.vennhypotheken.nl
@@ -2543,6 +2544,7 @@ jobs.elastic.co
 learn.elastic.co
 link.email.elastic.co
 partners.elastic.co
+platform.keephq.dev
 sendgrid.elastic.co
 track.email.elastic.co
 training.elastic.co
@@ -3646,6 +3648,8 @@ store.doctolib.com
 share.doctolib.net
 vettore.it
 siilo.com
+test.ys7.com
+pb.ys7.com
 fcp.integ01.dev-franceconnect.fr
 cloud.cloud2.harmanaudio.com
 cloud.cloud1.harmanaudio.com
