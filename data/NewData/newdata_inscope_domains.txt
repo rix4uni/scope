@@ -1,2 +1,3 @@
-api.ezvizlife.com
-open.ys7.com
+accounts.superhuman.com
+gateway.superhuman.com
+id.superhuman.com
