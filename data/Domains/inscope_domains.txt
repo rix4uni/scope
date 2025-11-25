@@ -1173,6 +1173,8 @@ docs.konghq.com
 konghq.com
 developer.konghq.com
 cloud.konghq.com
+support.konghq.com
+us.identity.konghq.com
 global.api.konghq.com
 us.api.konghq.com
 eu.api.konghq.com
@@ -1180,7 +1182,6 @@ au.api.konghq.com
 in.api.konghq.com
 me.api.konghq.com
 app.insomnia.rest
-us.identity.konghq.com
 store-usa.arduino.cc
 silabs.com
 docs.cfengine.com

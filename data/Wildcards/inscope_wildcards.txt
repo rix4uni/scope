@@ -339,6 +339,8 @@ sip.*.twilio.com
 *.saytechnologies.com
 *.konghq.com
 *.api.konghq.com
+*.edge.gateways.konghq.com
+*.kongcloud.io
 *.hubspotemail.net
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu

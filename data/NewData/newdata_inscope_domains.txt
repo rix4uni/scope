@@ -1,2 +1,1 @@
-m0.xyz
-diligence.security
+support.konghq.com

@@ -23,6 +23,10 @@ konghq.com
 developer.konghq.com
 cloud.konghq.com
 *.api.konghq.com
+*.edge.gateways.konghq.com
+*.kongcloud.io
+support.konghq.com
+us.identity.konghq.com
 global.api.konghq.com
 us.api.konghq.com
 eu.api.konghq.com
@@ -30,7 +34,6 @@ au.api.konghq.com
 in.api.konghq.com
 me.api.konghq.com
 app.insomnia.rest
-us.identity.konghq.com
 store-usa.arduino.cc
 github.com
 silabs.com
