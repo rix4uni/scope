@@ -1,2 +1,4 @@
-*.edge.gateways.konghq.com
-*.kongcloud.io
+*.employer.seek.com
+*.jobstreet.com.sg
+*.jobstreet.com.my
+*.jobstreet.co.id

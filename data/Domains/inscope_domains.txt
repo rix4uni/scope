@@ -828,15 +828,6 @@ devportal.rec.net
 seekcdn.com
 graphql.seek.com
 auth.seek.com
-id.employer.seek.com
-my.employer.seek.com
-ph.employer.seek.com
-hk.employer.seek.com
-th.employer.seek.com
-jobstreet.com.ph
-jobstreet.co.id
-jobstreet.com.sg
-jobstreet.com.my
 id.employer.staging.seek.com
 my.employer.staging.seek.com
 ph.employer.staging.seek.com
