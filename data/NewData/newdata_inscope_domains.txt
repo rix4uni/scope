@@ -1,3 +1,2 @@
-accounts.superhuman.com
-gateway.superhuman.com
-id.superhuman.com
+co.uk.getmondo
+monzo.com

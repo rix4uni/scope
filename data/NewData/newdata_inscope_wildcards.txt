@@ -1,8 +1,2 @@
-*.ezviz.com
-*.ys7.com
-*.ezvizlife.com
-*.eziot.com
-*.ezviz7.com
-*.hicloudcam.com
-*.hikops.com
-*.ezvizru.com
+*.monzo.com
+*.prod-ffs.io
