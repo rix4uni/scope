@@ -287,17 +287,6 @@ t.latitudefinancial.com
 p.latitudefinancial.com
 payments.latitudefinancial.com
 payments-api.latitudefinancial.com
-lightspeedhq.com
-pos-admin.trial.lsk.lightspeed.app
-x-series-support.lightspeedhq.com
-vendhq.force.com
-vendimageuploadcdn.global.ssl.fastly.net
-partners.vendhq.com
-track.api.vendhq.com
-your-store.vendecommerce.com
-partnerportal.vendhq.com
-support.ecwid.com
-ecwid.com
 community.li.me
 help.li.me
 li.me
