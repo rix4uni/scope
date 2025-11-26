@@ -1,10 +1,2 @@
-api.swapcard.com
-chat-api.swapcard.com
-developer.swapcard.com
-login.swapcard.com
-studio-api.swapcard.com
-app.swapcard.com
-studio.swapcard.com
-team.swapcard.com
-img.swapcard.com
-t.swapcard.com
+co.uk.getmondo
+monzo.com
