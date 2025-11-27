@@ -69,10 +69,6 @@ hsd1.*.comcast.net
 *-sandbox.kucoin.com
 *.myfourchette.com
 *.lafourchette.rest
-auth.*.latitudefinancial.com
-*.latitudefs.com
-*.my.latitudepay.com
-*.sg.latitudepay.com
 *.airflow.limeinternal.com
 *.limeinternal.com
 *.lime.bike
@@ -931,14 +927,6 @@ developer.thefork.io
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
-investors.latitudefinancial.com.au
-auth.latitudefinancial.com
-my.latitudepay.com
-sg.latitudepay.com
-t.latitudefinancial.com
-p.latitudefinancial.com
-payments.latitudefinancial.com
-payments-api.latitudefinancial.com
 community.li.me
 help.li.me
 li.me
