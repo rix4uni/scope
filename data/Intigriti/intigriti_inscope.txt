@@ -303,6 +303,12 @@ portal.pdq.com
 a.simplemdm.com
 auth2.pdq.com
 library.pdq.com
+hstconboarding.peoplecert.org
+passport.peoplecert.org
+atv.peoplecert.org
+selt.languagecert.org
+languagecert.org
+peoplecert.org
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de

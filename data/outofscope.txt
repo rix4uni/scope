@@ -4,6 +4,11 @@
 *.hpe.com
 *.integrations.asana.plus
 *.bitbucket.io
+*.project1service.com
+*.project1content.com
+*.pabbp.com
+*.contentabc.com
+*.adtng.com
 *.pornhub.com
 *.pronstore.com
 *.redtube.com
@@ -696,6 +701,13 @@ sharelock.io
 goextend.io
 support.auth0.com
 community.auth0.com
+seancodyapparel.com
+officialzzstore.com
+rkcams.com
+mofoscams.com
+liveatbrazzers.com
+babeslivecams.com
+ang.brazzers.com
 youporn.com
 cms.pornhub.com
 cms.redtube.com
