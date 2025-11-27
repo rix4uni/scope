@@ -4,11 +4,6 @@
 *.hpe.com
 *.integrations.asana.plus
 *.bitbucket.io
-*.project1service.com
-*.project1content.com
-*.pabbp.com
-*.contentabc.com
-*.adtng.com
 *.pornhub.com
 *.pronstore.com
 *.redtube.com
@@ -69,6 +64,10 @@ hsd1.*.comcast.net
 *-sandbox.kucoin.com
 *.myfourchette.com
 *.lafourchette.rest
+auth.*.latitudefinancial.com
+*.latitudefs.com
+*.my.latitudepay.com
+*.sg.latitudepay.com
 *.airflow.limeinternal.com
 *.limeinternal.com
 *.lime.bike
