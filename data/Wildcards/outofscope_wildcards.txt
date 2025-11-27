@@ -69,6 +69,10 @@ hsd1.*.comcast.net
 *-sandbox.kucoin.com
 *.myfourchette.com
 *.lafourchette.rest
+auth.*.latitudefinancial.com
+*.latitudefs.com
+*.my.latitudepay.com
+*.sg.latitudepay.com
 *.airflow.limeinternal.com
 *.limeinternal.com
 *.lime.bike
