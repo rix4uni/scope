@@ -563,6 +563,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -1506,6 +1507,7 @@ support.blueapron.com
 support.grubhub.com
 support.seamless.com
 recruitment.roke.co.uk
+greenfly.com
 dhcp.embarqhsd.net
 aboitiz.account.box.com
 pri-webprd-apg.aboitiz.com
@@ -3140,6 +3142,18 @@ help.capital.com
 relocate-with-us.capital.com
 3cxby.itcapital.io
 texis.itcapital.io
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
