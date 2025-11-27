@@ -1,7 +1,10 @@
-*.twistys.com
-*.brazzers.com
-*.mofos.com
-*.realitykings.com
-*.seancody.com
-*.digitalplayground.com
-*.transangels.com
+*.gamma.be
+*.gamma.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.karwei.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
