@@ -1646,6 +1646,9 @@ assets.mail.superhuman.com
 emojis.superhuman.com
 help.superhuman.com
 blog.superhuman.com
+preferences.superhuman.com
+email.superhuman.com
+join.superhuman.com
 send.grammarly.com
 calendar.grammarly.com
 support.grammarly.com

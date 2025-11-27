@@ -2412,7 +2412,6 @@ grammarly.com
 download-windows.grammarly.com
 download-mac.grammarly.com
 grammarly.dmg
-accounts.superhuman.com
 app.grammarly.com
 coda.grammarly.com
 coda.io

@@ -2986,7 +2986,6 @@ grammarly.com
 download-windows.grammarly.com
 download-mac.grammarly.com
 grammarly.dmg
-accounts.superhuman.com
 app.grammarly.com
 coda.grammarly.com
 coda.io
@@ -3714,16 +3713,6 @@ kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-mijn.gamma.be
-mijn.gamma.nl
-mijn.karwei.nl
-gamma.be
-gamma.nl
-karwei.nl
-irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
