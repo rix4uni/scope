@@ -16,6 +16,7 @@ explore.alasco.de
 alasco.de
 logging.apache.org
 gitlab.isc.org
+lists.isc.org
 blog.bitoasis.net
 dev.blablacar.com
 sncf-connect.com
