@@ -509,8 +509,6 @@ playerone.soundcloud.com
 support.soundcloud.org
 secdomaintest.soundcloud.com
 firston.soundcloud.com
-vaix.ai
-api-docs.vaix.ai
 afterpay.com
 cash.me
 designers.weebly.com

@@ -1089,8 +1089,6 @@ connect.soundcloud.com
 *.services.repostnetwork.com
 artists.soundcloud.com
 soundcloud.org
-api-docs.vaix.ai
-api.vaix.ai
 squareup.com
 *.square.com
 *.squareup.com
