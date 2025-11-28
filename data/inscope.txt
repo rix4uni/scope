@@ -4815,8 +4815,8 @@ app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
+politico.eu
 adtechnology.axelspringer.com
-germany.politico.eu
 bild.de
 welt.de
 epaper.welt.de
