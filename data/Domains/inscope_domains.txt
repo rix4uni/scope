@@ -100,6 +100,7 @@ gateway-api.nutaku.net
 mgpg2.probiller.com
 mgpg.probiller.com
 probiller.com
+backblaze.com
 barracuda.com
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
@@ -4211,8 +4212,6 @@ yeswehack.staging.komoju.com
 multipay-staging.test.komoju.com
 doc.komoju.com
 louisvuitton.com
-hack1.mtrx.ovh
-hackme.matrixreq.com
 api.paymaya.com
 pg.paymaya.com
 payoutapi.maya.ph

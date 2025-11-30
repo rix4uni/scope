@@ -129,8 +129,6 @@ drive.infomaniak.com
 *.jpe.infomaniak.com
 jenkins.io
 *.louisvuitton.com
-matrixreq.com
-demo.matrixreq.com
 paymaya.com
 moneyboxapp.com
 moneyboxapp.org

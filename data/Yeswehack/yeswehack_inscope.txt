@@ -246,8 +246,6 @@ doc.komoju.com
 louisvuitton.com
 *.api.louisvuitton.com
 appgallery.huawei.com
-hack1.mtrx.ovh
-hackme.matrixreq.com
 api.paymaya.com
 pg.paymaya.com
 payoutapi.maya.ph

@@ -1,1 +1,2 @@
-*.datacamp.com
+*.backblazeb2.com
+*.backblaze.com
