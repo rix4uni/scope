@@ -311,6 +311,7 @@ moneytree.jp
 getmoneytree.com
 community.myfitnesspal.com
 community-stage.myfitnesspal.com
+tripactions.com
 status.newrelic.com
 docs.newrelic.com
 iopipe.com
@@ -2486,6 +2487,18 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
@@ -2539,8 +2552,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
-store.ninjakiwi.com
-support.ninjakiwi.com
 prod.tardis.ovotech.org.uk
 pol.ovotech.org.uk
 notification-service.ovotech.org.uk

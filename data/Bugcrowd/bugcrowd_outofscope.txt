@@ -394,6 +394,7 @@ moneytree.jp
 getmoneytree.com
 community.myfitnesspal.com
 community-stage.myfitnesspal.com
+tripactions.com
 status.newrelic.com
 docs.newrelic.com
 iopipe.com
