@@ -128,6 +128,9 @@ mgpg.probiller.com
 probiller.com
 *.trafficjunky.com
 *.adultforce.com
+*.backblazeb2.com
+backblaze.com
+*.backblaze.com
 barracuda.com
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
@@ -288,12 +291,6 @@ casino.sportingbet.com
 ladbrokes.com
 coral.co.uk
 casino.*.betmgm.com
-partypoker.com
-galabingo.com
-partycasino.com
-bwin.com
-media.itsfogo.com
-galacasino.com
 *.epam.com
 epam.com
 projects.epam.com
