@@ -26,8 +26,6 @@ portalapi.*.afterpay.com
 *.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
-*.backblazeb2.com
-*.backblaze.com
 *.binance.com
 *.binance.us
 *.bitdefender.net
