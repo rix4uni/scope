@@ -765,7 +765,6 @@ my.electroneum.com
 electroneum.com
 api.electroneum.com
 *.myfitnesspal.com
-staging-prime.navan.com
 secure.neogov.com
 login.neogov.com
 performance.neogov.com
