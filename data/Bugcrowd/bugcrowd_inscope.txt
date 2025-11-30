@@ -128,9 +128,6 @@ mgpg.probiller.com
 probiller.com
 *.trafficjunky.com
 *.adultforce.com
-*.backblazeb2.com
-backblaze.com
-*.backblaze.com
 barracuda.com
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
@@ -765,6 +762,7 @@ my.electroneum.com
 electroneum.com
 api.electroneum.com
 *.myfitnesspal.com
+staging-prime.navan.com
 secure.neogov.com
 login.neogov.com
 performance.neogov.com
