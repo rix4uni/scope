@@ -1453,7 +1453,6 @@ skyrgs.blueprintgaming.com
 support.developer.betfair.com
 technology.skybettingandgaming.com
 betfair.com.co
-status.jamieweb.net
 *.iovlabs.org
 *.rif.technology
 *.rifos.org

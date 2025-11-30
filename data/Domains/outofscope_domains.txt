@@ -311,7 +311,6 @@ moneytree.jp
 getmoneytree.com
 community.myfitnesspal.com
 community-stage.myfitnesspal.com
-tripactions.com
 status.newrelic.com
 docs.newrelic.com
 iopipe.com
@@ -1854,7 +1853,6 @@ skyrgs.blueprintgaming.com
 support.developer.betfair.com
 technology.skybettingandgaming.com
 betfair.com.co
-status.jamieweb.net
 bounty-node.rsk.co
 academy.bitmex.com
 affiliates.bitmex.com
@@ -2488,10 +2486,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
@@ -2511,15 +2505,6 @@ houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
-autodiscover.innogames.de
-exchange.innogames.de
-igjam.eu
-jamf.innogames.com
-mail.innogames.com
-newsroom.innogames.com
-pn.innogames.com
-slack.innogames.de
-typingmind.innogames.de
 afspraakmaken.gamma.nl
 api.afspraakmaken.gamma.be
 api.afspraakmaken.gamma.nl
@@ -2548,9 +2533,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be
