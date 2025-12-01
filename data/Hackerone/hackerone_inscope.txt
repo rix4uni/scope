@@ -35,9 +35,7 @@ au.api.konghq.com
 in.api.konghq.com
 me.api.konghq.com
 app.insomnia.rest
-store-usa.arduino.cc
 github.com
-silabs.com
 docs.cfengine.com
 staging.hosted.mender.io
 api.prod.whoop.com

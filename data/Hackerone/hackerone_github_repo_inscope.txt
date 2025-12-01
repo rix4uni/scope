@@ -1,6 +1,3 @@
-https://github.com/SiliconLabs/arduino
-https://github.com/SiliconLabsSoftware/matter_extension
-https://github.com/SiliconLabsSoftware/matter_sdk
 https://github.com/mendersoftware/mender
 https://github.com/mendersoftware/mender-server
 https://github.com/circlefin/aptos-cctp
