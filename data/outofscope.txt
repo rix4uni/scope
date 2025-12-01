@@ -1442,6 +1442,7 @@ locker.klarna.com
 nuji.com
 docs.wallet.tg
 wallet.helpscoutdocs.com
+affiliates.fanduel.com
 api-dev.singlestore.com
 authsvc-staging.singlestore.com
 backend-dev.singlestore.com

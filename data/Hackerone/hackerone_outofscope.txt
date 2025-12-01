@@ -201,6 +201,7 @@ locker.klarna.com
 nuji.com
 docs.wallet.tg
 wallet.helpscoutdocs.com
+affiliates.fanduel.com
 *.ito.singlestore.com
 *.labs.singlestore.com
 api-dev.singlestore.com
