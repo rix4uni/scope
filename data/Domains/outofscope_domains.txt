@@ -315,6 +315,7 @@ tripactions.com
 status.newrelic.com
 docs.newrelic.com
 iopipe.com
+one.newrelic.com
 northwesternmutual.com
 servicenmfn.awms.apps.northwesternmutual.com
 servicenmfnstage.awms.apps.northwesternmutual.com
