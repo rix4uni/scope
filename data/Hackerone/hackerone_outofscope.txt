@@ -1284,6 +1284,7 @@ docs.netlify.com
 webpop.com
 netlify.com
 *.fndl.dev
+equibase-store.fanduel.com
 appsflyer.com
 crashlytics.com
 help.creditkarma.com
