@@ -1,6 +1,3 @@
-partypoker.com
-galabingo.com
-partycasino.com
-bwin.com
-media.itsfogo.com
-galacasino.com
+payment.backend-capital.com
+capital.com
+open-api.capital.com

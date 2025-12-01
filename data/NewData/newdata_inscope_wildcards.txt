@@ -1,2 +1,3 @@
-*.backblazeb2.com
-*.backblaze.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
