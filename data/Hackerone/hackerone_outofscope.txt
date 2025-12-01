@@ -159,7 +159,9 @@ support.1password.com
 1password.com
 *.zipbooks.com
 *.pgs.casino
+about.espnbet.com
 campaignmanager.thescore.com
+espnbet.com
 careers.draken.aero
 blog.ishosting.com
 help.ishosting.com
@@ -502,7 +504,6 @@ fidelityworkplace.com
 myfidelitysolutions.com
 dolimg.com
 dwss-ptp.disney.com
-espnbet.com
 hotstar.com
 kingdomhearts.com
 magicalfloralandgifts.com

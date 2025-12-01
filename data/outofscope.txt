@@ -1055,7 +1055,6 @@ catch.opera.com
 wallpaper.opera.com
 tabfulness.opera.com
 32s.opera.com
-optimizely.com
 optus.com.au
 personal.optus.com.au
 yes4good.optus.com.au
@@ -1404,7 +1403,9 @@ thespot.hubspot.com
 trust.hubspot.com
 support.1password.com
 1password.com
+about.espnbet.com
 campaignmanager.thescore.com
+espnbet.com
 careers.draken.aero
 blog.ishosting.com
 help.ishosting.com
@@ -1696,7 +1697,6 @@ fidelityworkplace.com
 myfidelitysolutions.com
 dolimg.com
 dwss-ptp.disney.com
-espnbet.com
 hotstar.com
 kingdomhearts.com
 magicalfloralandgifts.com
