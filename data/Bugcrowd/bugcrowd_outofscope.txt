@@ -833,7 +833,3 @@ app.ynab.com
 support.ynab.com
 develop-app.ynab.com
 learn.ynab.com
-zola.com
-homestore.zola.com
-vendor.zola.com
-baby.zola.com

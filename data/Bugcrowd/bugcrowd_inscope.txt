@@ -1416,6 +1416,5 @@ csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
 *.xfinityhome.com
 staging-app.bany.dev
-staging-api.ynab.com
+staging-api.bany.dev
 ynab.com
-baby.zola.com
