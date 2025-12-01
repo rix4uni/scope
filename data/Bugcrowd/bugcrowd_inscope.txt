@@ -291,12 +291,6 @@ casino.sportingbet.com
 ladbrokes.com
 coral.co.uk
 casino.*.betmgm.com
-partypoker.com
-galabingo.com
-partycasino.com
-bwin.com
-media.itsfogo.com
-galacasino.com
 *.epam.com
 epam.com
 projects.epam.com
@@ -765,6 +759,7 @@ my.electroneum.com
 electroneum.com
 api.electroneum.com
 *.myfitnesspal.com
+staging-prime.navan.com
 secure.neogov.com
 login.neogov.com
 performance.neogov.com
