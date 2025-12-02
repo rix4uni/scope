@@ -883,6 +883,7 @@ ap.app.gearest.com
 gearset.com
 carrinho.hostgator.com.br
 try.hotdoc.com.au
+myprotein.com.tr
 backend.ibotta.com
 ir.ibotta.com
 trust.ibotta.com
@@ -956,6 +957,7 @@ info.lululemon.com
 pnimage.lululemon.com
 pnimages.lululemon.com
 mirror.co
+americangirlmena.com
 opay.icbc.com
 opay.icbc.com.cn
 mgmchinaholdings.com

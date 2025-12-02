@@ -1,1 +1,5 @@
-*.veriff.com
+*.cultbeauty.co.uk
+*.lookfantastic.com
+*.myprotein.com
+*.arrowfilms.com
+*.enjoyselfish.com
