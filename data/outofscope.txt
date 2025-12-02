@@ -830,6 +830,11 @@ wien.gv.at
 learn.clickhouse.com
 support.cloudinary.com
 wiki.cloudinary.com
+eqrs.cms.gov
+portal.cms.gov
+healthcare.gov
+cuidadodesalud.gov
+developer.cms.gov
 hourofcode.com
 advocacy.code.org
 consensus2023.coindesk.com
@@ -962,8 +967,6 @@ opay.icbc.com
 opay.icbc.com.cn
 mgmchinaholdings.com
 hq.hero-cloud.com
-moneytree.jp
-getmoneytree.com
 community.myfitnesspal.com
 community-stage.myfitnesspal.com
 tripactions.com
