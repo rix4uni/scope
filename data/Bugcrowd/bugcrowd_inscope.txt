@@ -1177,6 +1177,14 @@ secure-signals-srvonly-integ.uidapi.com
 api.thousandeyes.com
 app.thousandeyes.com
 thousandeyes.com
+tidal.com
+*.tidal.com
+*.wimpmusic.com
+*.tidalhifi.com
+api.tidal.com
+*tidalhi.fi
+*.tdl.sh
+offer.tidal.com
 api.trello.com
 *.trello.services
 butlerfortrello.com
