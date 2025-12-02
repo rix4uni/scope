@@ -294,6 +294,7 @@ support.worldcoin.com
 *.thebodyshop.com.tr
 *.thebodyshop.pl
 *.thebodyshop.qa
+crm.alshayamarketing.com
 thebodyshop.cz
 *.envira.es
 envira.global
