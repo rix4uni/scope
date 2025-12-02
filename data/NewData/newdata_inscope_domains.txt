@@ -1,3 +1,1 @@
-tidal.com
-api.tidal.com
-offer.tidal.com
+docs.eazybi.com
