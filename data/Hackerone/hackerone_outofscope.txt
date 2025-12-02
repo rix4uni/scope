@@ -143,6 +143,8 @@ clientdocs.rwbaird.com
 content.rwbaird.com
 uatclientdocs.rwbaird.com
 rwbaird.com
+*.hotmart.com
+*.teachable.com
 hosted.mender.io
 staging.hosted.mender.io
 docs.stripe.com

@@ -239,6 +239,8 @@ argocd.*.uidapi.com
 *.accdata.experian.co.uk
 *.smartbusinessreports.com
 *.eightfold.ai
+*.hotmart.com
+*.teachable.com
 *.hubspot.com
 *.agilebits.com
 *.zipbooks.com

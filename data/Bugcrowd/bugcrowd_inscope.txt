@@ -276,7 +276,6 @@ console.delltechnologies.com
 app.sandbox.directly.com
 *.sandbox.directly.com
 sandbox.directly.com
-docs.eazybi.com
 my.elementor.com
 go.elementor.com
 translate.elementor.com
