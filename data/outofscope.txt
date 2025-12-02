@@ -245,6 +245,7 @@ argocd.*.uidapi.com
 *.agilebits.com
 *.zipbooks.com
 *.pgs.casino
+*.onduo.com
 *.amazonaws.com
 db.*.supabase.co
 *.supabase.co
@@ -1415,6 +1416,7 @@ support.1password.com
 about.espnbet.com
 campaignmanager.thescore.com
 espnbet.com
+onduo.com
 careers.draken.aero
 blog.ishosting.com
 help.ishosting.com

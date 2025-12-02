@@ -245,6 +245,7 @@ argocd.*.uidapi.com
 *.agilebits.com
 *.zipbooks.com
 *.pgs.casino
+*.onduo.com
 *.amazonaws.com
 db.*.supabase.co
 *.supabase.co

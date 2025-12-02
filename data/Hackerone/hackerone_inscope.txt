@@ -67,8 +67,6 @@ bcny.com
 company.thebrowser.arc
 diabrowser.com
 thebrowser.company
-*.onduo.com
-enroll.onduo.com
 *.projectbaseline.com
 *.signalpath.com
 *.verily.com
