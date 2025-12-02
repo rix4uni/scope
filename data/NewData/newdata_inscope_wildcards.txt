@@ -1,4 +1,5 @@
-*eua.cms.gov
-*qpp.cms.gov
-*cssoperations.com
-*nsa-idr.cms.gov
+*.tidal.com
+*.wimpmusic.com
+*.tidalhifi.com
+*tidalhi.fi
+*.tdl.sh

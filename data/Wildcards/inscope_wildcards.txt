@@ -299,6 +299,11 @@ np.*.lfscnp.com
 *.prod.uidapi.com
 *.thetradedesk.com
 *.adsrvr.org
+*.tidal.com
+*.wimpmusic.com
+*.tidalhifi.com
+*tidalhi.fi
+*.tdl.sh
 *.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
