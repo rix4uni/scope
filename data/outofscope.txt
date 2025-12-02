@@ -967,6 +967,8 @@ opay.icbc.com
 opay.icbc.com.cn
 mgmchinaholdings.com
 hq.hero-cloud.com
+moneytree.jp
+getmoneytree.com
 community.myfitnesspal.com
 community-stage.myfitnesspal.com
 tripactions.com

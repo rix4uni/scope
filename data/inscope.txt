@@ -1762,6 +1762,13 @@ move.monash.edu
 collections.monash.edu
 mix-qat.monash.edu
 mix-dev.monash.edu
+-staging.moneytree.jp
+vault-staging.getmoneytree.com
+redash-staging.getmoneytree.com
+app-staging.getmoneytree.com
+myaccount-staging.getmoneytree.com
+business-staging.getmoneytree.com
+jp-api-staging.getmoneytree.com
 support.moovitapp.com
 my.thesecurityteam.rocks
 api.thesecurityteam.rocks
