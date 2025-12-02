@@ -2496,6 +2496,7 @@ api-partner.spotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
+whosampled.com
 *.ra.roblox.com
 *.rbx.com
 *.roblox.com

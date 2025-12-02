@@ -1,3 +1,8 @@
-tidal.com
-api.tidal.com
-offer.tidal.com
+-staging.moneytree.jp
+vault-staging.getmoneytree.com
+redash-staging.getmoneytree.com
+app-staging.getmoneytree.com
+myaccount-staging.getmoneytree.com
+business-staging.getmoneytree.com
+jp-api-staging.getmoneytree.com
+whosampled.com

@@ -1084,8 +1084,6 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -1762,6 +1760,13 @@ move.monash.edu
 collections.monash.edu
 mix-qat.monash.edu
 mix-dev.monash.edu
+-staging.moneytree.jp
+vault-staging.getmoneytree.com
+redash-staging.getmoneytree.com
+app-staging.getmoneytree.com
+myaccount-staging.getmoneytree.com
+business-staging.getmoneytree.com
+jp-api-staging.getmoneytree.com
 support.moovitapp.com
 my.thesecurityteam.rocks
 api.thesecurityteam.rocks
@@ -4262,6 +4267,7 @@ api-partner.spotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
+whosampled.com
 blox.link
 api.dyson.at
 api.dyson.be
@@ -4963,8 +4969,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws

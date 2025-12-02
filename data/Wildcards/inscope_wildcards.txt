@@ -1084,8 +1084,6 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
