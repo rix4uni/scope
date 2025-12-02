@@ -67,6 +67,15 @@ houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
+autodiscover.innogames.de
+exchange.innogames.de
+igjam.eu
+jamf.innogames.com
+mail.innogames.com
+newsroom.innogames.com
+pn.innogames.com
+slack.innogames.de
+typingmind.innogames.de
 *.configuratoren.nl
 afspraakmaken.gamma.nl
 api.afspraakmaken.gamma.be
@@ -432,6 +441,7 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
+station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
