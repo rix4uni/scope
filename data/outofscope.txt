@@ -361,7 +361,6 @@ bus.*.indrive.com
 *.atp-exodus.com
 *.mtnfootball.com
 *.acordocerto.com.br
-*nvapis.line.me
 *.sky.com.mx
 *solidus.io
 *.dev.dynatracelabs.com
@@ -2325,11 +2324,6 @@ mgmtpod-1-100.development.forescoutcloud.net
 development.forescoutcloud.net
 mgmtpod-1.development.forescoutcloud.net
 mgmtpod-10.development.forescoutcloud.net
-nvapis.line.me
-dev-nvapis.line.me
-kr-nvapis.line.me
-entry.line.me
-prod-fido-fido2-server.line-apps.com
 mydirectv.com
 accbusinesspricing.att.com
 att.com

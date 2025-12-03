@@ -361,7 +361,6 @@ bus.*.indrive.com
 *.atp-exodus.com
 *.mtnfootball.com
 *.acordocerto.com.br
-*nvapis.line.me
 *.sky.com.mx
 *solidus.io
 *.dev.dynatracelabs.com

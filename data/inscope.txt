@@ -582,11 +582,6 @@ cf.*.aws.indriverapp
 *.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.line-apps.com
-*.line.biz
-*.line.me
-*.line.naver.jp
-*.linecorp.com
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.mi.com
@@ -3535,14 +3530,6 @@ uk.forescout.cloud
 updates.forescout.com
 us.forescout.cloud
 forescout.com
-live.line.me
-music.line.me
-news.line.me
-store.line.me
-nvapis.line.me
-linevoom.line.me
-desktop.line-scdn.net
-recruit.linepluscorp.com
 larksuite.com
 api.larksuite.com
 app.larksuite.com

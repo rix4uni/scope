@@ -582,11 +582,6 @@ cf.*.aws.indriverapp
 *.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.line-apps.com
-*.line.biz
-*.line.me
-*.line.naver.jp
-*.linecorp.com
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.mi.com

@@ -2320,14 +2320,6 @@ uk.forescout.cloud
 updates.forescout.com
 us.forescout.cloud
 forescout.com
-live.line.me
-music.line.me
-news.line.me
-store.line.me
-nvapis.line.me
-linevoom.line.me
-desktop.line-scdn.net
-recruit.linepluscorp.com
 larksuite.com
 api.larksuite.com
 app.larksuite.com
