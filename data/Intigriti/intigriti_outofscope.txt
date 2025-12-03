@@ -106,6 +106,10 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+*.monzo.me
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 *.nexuzhealth.pro
@@ -113,6 +117,8 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
+store.ninjakiwi.com
+support.ninjakiwi.com
 prod.tardis.ovotech.org.uk
 pol.ovotech.org.uk
 notification-service.ovotech.org.uk

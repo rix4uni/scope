@@ -1,1 +1,4 @@
-*.datacamp.com
+*.monzo.com
+*.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
