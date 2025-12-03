@@ -1,5 +1,1 @@
-*.tidal.com
-*.wimpmusic.com
-*.tidalhifi.com
-*tidalhi.fi
-*.tdl.sh
+*.datacamp.com
