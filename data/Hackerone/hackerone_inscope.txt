@@ -2807,6 +2807,7 @@ basecamp.app
 basecamp.com
 hey.app
 hey.com
+fizzy.do
 snapcraft.io
 launchpad.37signals.com
 world.hey.com
