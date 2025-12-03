@@ -26,7 +26,6 @@ https://github.com/buildonspark/spark
 https://github.com/lightsparkdev/go-sdk
 https://github.com/lightsparkdev/lightspark-rs
 https://github.com/lightsparkdev/python-sdk
-https://github.com/leather-wallet/extension
 https://github.com/worldcoin
 https://github.com/okx/wallet-core
 https://github.com/tronprotocol/java-tron

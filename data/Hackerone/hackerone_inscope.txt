@@ -461,7 +461,6 @@ zarahome.cn
 pullandbear.cn
 massimodutti.cn
 static.zara.com
-leather.io
 chrome.google.com
 *.visamiddleeast.com
 aw.visa.com
