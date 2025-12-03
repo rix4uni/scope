@@ -1100,8 +1100,6 @@ au.api.konghq.com
 in.api.konghq.com
 me.api.konghq.com
 app.insomnia.rest
-docs.cfengine.com
-staging.hosted.mender.io
 api.prod.whoop.com
 app.whoop.com
 join.whoop.com

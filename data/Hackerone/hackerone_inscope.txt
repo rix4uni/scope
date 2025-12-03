@@ -35,9 +35,6 @@ au.api.konghq.com
 in.api.konghq.com
 me.api.konghq.com
 app.insomnia.rest
-github.com
-docs.cfengine.com
-staging.hosted.mender.io
 api.prod.whoop.com
 app.whoop.com
 join.whoop.com
@@ -341,6 +338,7 @@ api-sandbox.circle.com
 app.circle.com
 app-sandbox.circle.com
 console.circle.com
+github.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
