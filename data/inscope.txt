@@ -1117,6 +1117,7 @@ cf.*.aws.indriverapp
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
+*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
@@ -5213,6 +5214,12 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 testing.maventa.com
+api.voiapp.io
+io.voiapp.voi
+mds.voiapp.io
+report.voi.com
+voi.com
+voiscooters.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com
