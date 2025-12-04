@@ -146,6 +146,7 @@ auth.*.latitudefinancial.com
 *.sprint.net
 *.mobile.uscc.net
 *.mobile.uscc.com
+*.moengage.com
 *.engage.tesla.com
 argocd.*.uidapi.com
 *.skilljarapp.com
