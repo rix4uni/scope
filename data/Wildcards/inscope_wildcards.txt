@@ -1117,7 +1117,6 @@ cf.*.aws.indriverapp
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
