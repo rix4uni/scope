@@ -2525,6 +2525,15 @@ houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
+autodiscover.innogames.de
+exchange.innogames.de
+igjam.eu
+jamf.innogames.com
+mail.innogames.com
+newsroom.innogames.com
+pn.innogames.com
+slack.innogames.de
+typingmind.innogames.de
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
