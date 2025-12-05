@@ -347,7 +347,6 @@ app.glean.com
 bug-bounty-be.glean.com
 hostgator.com.br
 financeiro.hostgator.com.br
-bugcrowd.hotdoc.com.au
 cultbeauty.co.uk
 *.cultbeauty.co.uk
 lookfantastic.com

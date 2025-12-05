@@ -282,7 +282,6 @@ eu.app.gearset.com
 ap.app.gearest.com
 gearset.com
 carrinho.hostgator.com.br
-try.hotdoc.com.au
 myprotein.com.tr
 backend.ibotta.com
 ir.ibotta.com
