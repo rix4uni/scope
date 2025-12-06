@@ -1,3 +1,4 @@
+nextjs-cve-hackerone.vercel.app
 doordash.doordashconsumer
 itunes.apple.com
 doordash.com

@@ -2285,6 +2285,7 @@ staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
 baby.zola.com
+nextjs-cve-hackerone.vercel.app
 doordash.doordashconsumer
 doordash.com
 api.robinhood.com
