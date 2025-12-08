@@ -186,9 +186,15 @@ midtrans.com
 *.findaya.co.id
 *.gov.sg
 *.jbl.com
+bowerswilkins.com
+denon.com
+marantz.com
 *.harmanaudio.com
 *.harmankardon.com
+polkaudio.com
 *.support.jbl.com
+classeaudio.com
+definitivetechnology.com
 *.jbl.nl
 *.jbl.ru
 *.uk.jbl.com
@@ -196,6 +202,7 @@ midtrans.com
 *.de.jbl.com
 *.in.jbl.com
 *.jbl.com.br
+bostonacoustics.com
 events.onecloud.harman.com
 ota.onecloud.harman.com
 apis.onecloud.harman.com
