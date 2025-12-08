@@ -1712,6 +1712,7 @@ sitecatalyst.fidelity.com
 social.fidelity.com
 social.retail.fidelity.com
 supplier.fidelity.com
+taxseason.fidelity.com
 testjobs.fidelity.com
 fidelityworkplace.com
 myfidelitysolutions.com
@@ -2284,6 +2285,8 @@ api-staging.gocardless.com
 api.gocardless.com
 brand.gocardless.com
 connect.gocardless.com
+gc4x-api-sandbox.gocardless.com
+manage-sandbox.gocardless.com
 gocardless-status.com
 status.gocardless.com
 incident.io

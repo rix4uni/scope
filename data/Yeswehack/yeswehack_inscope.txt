@@ -193,9 +193,9 @@ marantz.com
 *.harmankardon.com
 polkaudio.com
 *.support.jbl.com
-classeaudio.com
 definitivetechnology.com
 *.jbl.nl
+classeaudio.com
 *.jbl.ru
 *.uk.jbl.com
 *.uk.harmanaudio.com
