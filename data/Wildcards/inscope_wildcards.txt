@@ -1185,6 +1185,8 @@ cf.*.aws.indriverapp
 *.vimla.se
 *.vimla.work
 *.vimla.io
+*.inpli.se
+*.telenorinpli.se
 *.vfsevisa.com
 *.onevasco.com
 *.vascoworldwide.net

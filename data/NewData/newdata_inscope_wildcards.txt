@@ -1,1 +1,2 @@
-*.voiscooters.com
+*.inpli.se
+*.telenorinpli.se

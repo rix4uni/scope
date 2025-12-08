@@ -1185,6 +1185,8 @@ cf.*.aws.indriverapp
 *.vimla.se
 *.vimla.work
 *.vimla.io
+*.inpli.se
+*.telenorinpli.se
 *.vfsevisa.com
 *.onevasco.com
 *.vascoworldwide.net
@@ -5373,6 +5375,8 @@ pci.kindredgroup.com
 32red.com
 cdn.unicdn.net
 unibet.fr
+git.ffmpeg.org
+ffmpeg.git
 api.gojek.co.id
 gofood.co.id
 api.gobiz.co.id

@@ -162,6 +162,8 @@ pci.kindredgroup.com
 32red.com
 cdn.unicdn.net
 unibet.fr
+git.ffmpeg.org
+ffmpeg.git
 *.gojekapi.com
 api.gojek.co.id
 gofood.co.id
@@ -405,6 +407,8 @@ login.teamviewer.com
 *.vimla.se
 *.vimla.work
 *.vimla.io
+*.inpli.se
+*.telenorinpli.se
 en.security.tencent.com
 thueringer-foerderportal.eu
 ecohesion.aufbaubank.de
