@@ -1107,12 +1107,6 @@ cf.*.aws.indriverapp
 *.vtm.be
 *.vtmgo.be
 *.voiscooters.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
 *.water-link.be
 *.wolt.com
 *.yacht.nl
