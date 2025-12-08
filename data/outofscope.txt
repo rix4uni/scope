@@ -1187,7 +1187,6 @@ tidal.com
 app.squareupstaging.com
 community.squareup.com
 itunes.apple.com
-wfmmobile.t-mobile.com
 abo.inscopedomain.ch
 login.inscopedomain.ch
 auth.inscopedomain.ch

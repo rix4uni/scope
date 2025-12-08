@@ -682,7 +682,6 @@ itunes.apple.com
 *.mobile.uscc.net
 *.mobile.uscc.com
 *.moengage.com
-wfmmobile.t-mobile.com
 abo.inscopedomain.ch
 login.inscopedomain.ch
 auth.inscopedomain.ch
