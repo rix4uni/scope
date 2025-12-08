@@ -636,6 +636,7 @@ booking.*.sqills.com
 *.jcloud.ik-server.com
 *.jpc.infomaniak.com
 *.jpe.infomaniak.com
+*.infomaniak.cloud
 *.louisvuitton.com
 *.osp.ovh.com
 *dev.swapcard.com
@@ -3667,6 +3668,7 @@ newsletter.infomaniak.com
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
+s3.pub
 jenkins.io
 paymaya.com
 moneyboxapp.com

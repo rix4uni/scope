@@ -3014,6 +3014,7 @@ newsletter.infomaniak.com
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
+s3.pub
 jenkins.io
 paymaya.com
 moneyboxapp.com

@@ -636,6 +636,7 @@ booking.*.sqills.com
 *.jcloud.ik-server.com
 *.jpc.infomaniak.com
 *.jpe.infomaniak.com
+*.infomaniak.cloud
 *.louisvuitton.com
 *.osp.ovh.com
 *dev.swapcard.com

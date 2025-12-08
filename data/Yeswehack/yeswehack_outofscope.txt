@@ -127,6 +127,8 @@ drive.infomaniak.com
 *.jcloud.ik-server.com
 *.jpc.infomaniak.com
 *.jpe.infomaniak.com
+s3.pub
+*.infomaniak.cloud
 jenkins.io
 *.louisvuitton.com
 paymaya.com
