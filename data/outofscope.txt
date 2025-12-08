@@ -571,6 +571,8 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
 *.cineramabios.nl
 *.monzo.me
@@ -3521,6 +3523,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 wpengine.com
 aquawardsspatial.water-link.be

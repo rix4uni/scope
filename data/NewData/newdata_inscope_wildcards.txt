@@ -1,2 +1,6 @@
-*.inpli.se
-*.telenorinpli.se
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
