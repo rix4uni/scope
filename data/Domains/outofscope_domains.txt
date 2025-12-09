@@ -3073,4 +3073,6 @@ egonline.vfsevisa.com
 wishes.vinci.com
 voeux.vinci.com
 castor.vinci.com
+hubspot.com
+chargebee.com
 systemd.io

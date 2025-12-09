@@ -1,10 +1,6 @@
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-mijn.gamma.be
-mijn.gamma.nl
-mijn.karwei.nl
-gamma.be
-gamma.nl
-karwei.nl
-irmg.nl
+app.zivver.com
+owa-v6.zivver.com
+collector.zivver.com
+downloads.zivver.com
+img.zivver.com
+sign.zivver.com

@@ -187,6 +187,8 @@ egonline.vfsevisa.com
 wishes.vinci.com
 voeux.vinci.com
 castor.vinci.com
+hubspot.com
+chargebee.com
 *.ntpd-rs.pendulum-project.org
 *.owncloud.org
 *.owncloud.com
