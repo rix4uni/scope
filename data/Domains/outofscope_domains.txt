@@ -188,6 +188,7 @@ consensus2024.coindesk.com
 uat.accounts.coindesk.com
 staging.coindesk.com
 admin.selectwifi.xfinity.com
+harvard.xfinity.com
 comcastbiz.net
 console.delltechnologies.com
 educate.dell.com
@@ -1371,7 +1372,6 @@ theossteam.unanet-gc.biz
 uat1.acqcenter.com
 uat2.acqcenter.com
 rescan.io
-wvcorp.tva.com
 signin.costco.com
 consensys-solutions.net
 mesh.xyz

@@ -848,7 +848,6 @@ theossteam.unanet-gc.biz
 uat1.acqcenter.com
 uat2.acqcenter.com
 rescan.io
-wvcorp.tva.com
 signin.costco.com
 consensys-solutions.net
 mesh.xyz
