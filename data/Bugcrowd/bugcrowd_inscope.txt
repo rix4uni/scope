@@ -263,8 +263,8 @@ dimensions.cloudinary.com
 *eua.cms.gov
 idm.cms.gov
 *qpp.cms.gov
-*cssoperations.com
 *nsa-idr.cms.gov
+csscoperations.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 coindesk.com
