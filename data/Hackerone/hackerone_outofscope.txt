@@ -13,7 +13,11 @@ track.doordash.com
 unified-gateway.doordash.com
 affiliates.robinhood.com
 api-sandbox.tradepmr.com
+api-validation.tradepmr.com
+api.tradepmr.com
 auth-sandbox.tradepmr.com
+auth-validation.tradepmr.com
+auth.tradepmr.com
 careers.robinhood.com
 content.research.robinhood.com
 earlytalent.robinhood.com
@@ -25,6 +29,7 @@ fusion-demo.uat.tradepmr.com
 fusion-demo.uat2.tradepmr.com
 fusion.uat.tradepmr.com
 fusion.uat2.tradepmr.com
+fusion.uat3.tradepmr.com
 go.robinhood.com
 saytechnologies.com
 press.robinhood.com

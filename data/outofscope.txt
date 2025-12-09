@@ -565,7 +565,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -613,6 +612,7 @@ booking.*.sqills.com
 *.connect.coca-cola.com
 *.ccnag.com
 *.zabka-snrs.zabka.pl
+*.intercom.io
 *.intigriti.net
 *.intigriti.me
 *.intigriti.io
@@ -1322,7 +1322,11 @@ track.doordash.com
 unified-gateway.doordash.com
 affiliates.robinhood.com
 api-sandbox.tradepmr.com
+api-validation.tradepmr.com
+api.tradepmr.com
 auth-sandbox.tradepmr.com
+auth-validation.tradepmr.com
+auth.tradepmr.com
 careers.robinhood.com
 content.research.robinhood.com
 earlytalent.robinhood.com
@@ -1334,6 +1338,7 @@ fusion-demo.uat.tradepmr.com
 fusion-demo.uat2.tradepmr.com
 fusion.uat.tradepmr.com
 fusion.uat2.tradepmr.com
+fusion.uat3.tradepmr.com
 go.robinhood.com
 saytechnologies.com
 press.robinhood.com
@@ -3170,18 +3175,6 @@ help.capital.com
 relocate-with-us.capital.com
 3cxby.itcapital.io
 texis.itcapital.io
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
@@ -3580,7 +3573,6 @@ go.intigriti.com
 click.intigriti.com
 careers.intigriti.com
 autodiscover.intigriti.com
-api.intercom.io
 outscale.com
 wiki.outscale.net
 fr.outscale.com

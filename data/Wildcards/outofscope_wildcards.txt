@@ -565,7 +565,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -613,6 +612,7 @@ booking.*.sqills.com
 *.connect.coca-cola.com
 *.ccnag.com
 *.zabka-snrs.zabka.pl
+*.intercom.io
 *.intigriti.net
 *.intigriti.me
 *.intigriti.io
