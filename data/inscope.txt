@@ -2358,9 +2358,12 @@ doordash.doordashconsumer
 doordash.com
 api.robinhood.com
 cashier.robinhood.com
+fusion.tradepmr.com
 identi.robinhood.com
+insight2.tradepmr.com
 minerva.robinhood.com
 nummus.robinhood.com
+tradepmr.com
 lb1.iris.cgophobb.com
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
