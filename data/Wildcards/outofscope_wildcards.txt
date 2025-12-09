@@ -572,6 +572,7 @@ g.*.slackhq.com
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
 *.monzo.me
 *.nexuzhealth.pro
