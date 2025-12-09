@@ -67,8 +67,6 @@ hsd1.*.comcast.net
 *.kohls.com
 *-sdb.kucoin.com
 *-sandbox.kucoin.com
-*.myfourchette.com
-*.lafourchette.rest
 auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
@@ -148,6 +146,8 @@ auth.*.latitudefinancial.com
 *.mobile.uscc.com
 *.moengage.com
 *.engage.tesla.com
+*.myfourchette.com
+*.lafourchette.rest
 argocd.*.uidapi.com
 *.skilljarapp.com
 *.smartling.com

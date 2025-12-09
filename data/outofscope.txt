@@ -67,8 +67,6 @@ hsd1.*.comcast.net
 *.kohls.com
 *-sdb.kucoin.com
 *-sandbox.kucoin.com
-*.myfourchette.com
-*.lafourchette.rest
 auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
@@ -148,6 +146,8 @@ auth.*.latitudefinancial.com
 *.mobile.uscc.com
 *.moengage.com
 *.engage.tesla.com
+*.myfourchette.com
+*.lafourchette.rest
 argocd.*.uidapi.com
 *.skilljarapp.com
 *.smartling.com
@@ -933,10 +933,6 @@ intro.kucoin.com
 cert.kucoin.com
 sandbox.kucoin.com
 passport.kucoin.com
-myfourchette.com
-website.theforkmanager.com
-login.theforkmanager.com
-developer.thefork.io
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
@@ -1207,6 +1203,10 @@ shop.eu.teslamotors.com
 service.tesla.com
 service.tesla.cn
 maxwell.com
+myfourchette.com
+website.theforkmanager.com
+login.theforkmanager.com
+developer.thefork.io
 module.thefork.com
 lafourchette.com
 investors.thetradedesk.com

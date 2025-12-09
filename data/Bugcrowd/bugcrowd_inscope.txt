@@ -539,11 +539,6 @@ kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
 kucoin.com
 *.kucoin.com
-manager.thefork.com
-secure.thefork.com
-payment.lafourchette.com
-api.thefork.io
-theforkmanager.com
 lastpass.com
 support.lastpass.com
 blog.lastpass.com
@@ -1199,6 +1194,11 @@ platform.infiniteathlete.ai
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
+manager.thefork.com
+secure.thefork.com
+payment.lafourchette.com
+api.thefork.io
+theforkmanager.com
 thefork.com
 m.thefork.com
 blog.thefork.com

@@ -346,12 +346,6 @@ sandbox.kucoin.com
 passport.kucoin.com
 *-sdb.kucoin.com
 *-sandbox.kucoin.com
-*.myfourchette.com
-myfourchette.com
-website.theforkmanager.com
-*.lafourchette.rest
-login.theforkmanager.com
-developer.thefork.io
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
@@ -701,6 +695,12 @@ shop.eu.teslamotors.com
 service.tesla.com
 service.tesla.cn
 maxwell.com
+*.myfourchette.com
+myfourchette.com
+website.theforkmanager.com
+*.lafourchette.rest
+login.theforkmanager.com
+developer.thefork.io
 module.thefork.com
 lafourchette.com
 investors.thetradedesk.com
