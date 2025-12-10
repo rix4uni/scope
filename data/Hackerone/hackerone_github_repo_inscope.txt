@@ -165,7 +165,7 @@ https://github.com/hyperledger/fabric-sdk-go
 https://github.com/hyperledger/fabric-sdk-java
 https://github.com/hyperledger/fabric-sdk-node
 https://github.com/hyperledger/fabric-sdk-py
-https://github.com/spotify/backstage
+https://github.com/backstage/backstage
 https://github.com/kiwicom
 https://github.com/discourse/discourse
 https://github.com/plaid/plaid-link-android

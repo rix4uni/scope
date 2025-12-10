@@ -441,7 +441,6 @@ leonard.vinci.com
 castor.vinci.com
 survey.vinci.com
 fondation-vinci.com
-lafabriquedelacite.com
 lab-recherche-environnement.org
 ux.vinci.com
 vinci-vie.fr

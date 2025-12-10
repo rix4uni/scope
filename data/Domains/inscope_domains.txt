@@ -3836,13 +3836,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 aweb.suivo.com
 asupport.suivo.com
 tempo-team.be
@@ -3966,6 +3959,12 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 testing.maventa.com
+api.voiapp.io
+io.voiapp.voi
+mds.voiapp.io
+report.voi.com
+voi.com
+voiscooters.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com
@@ -4364,7 +4363,6 @@ leonard.vinci.com
 castor.vinci.com
 survey.vinci.com
 fondation-vinci.com
-lafabriquedelacite.com
 lab-recherche-environnement.org
 ux.vinci.com
 vinci-vie.fr
