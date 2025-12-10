@@ -1,1 +1,1 @@
-*.voiscooters.com
+*.datacamp.com

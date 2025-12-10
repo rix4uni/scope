@@ -133,7 +133,6 @@ moneyboxapp.cloudflareaccess.com
 moneyboxapp.onelogin.com
 otto.de
 keycloak.apps.otto.de
-*.osp.ovh.com
 help-okto.sprinklr.com
 checkout-service.paddle.com
 buy.paddle.com

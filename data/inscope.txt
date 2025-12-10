@@ -1018,6 +1018,7 @@ cf.*.aws.indriverapp
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1068,8 +1069,6 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com
@@ -1168,7 +1167,6 @@ cf.*.aws.indriverapp
 *.infomaniak.com
 *.vod2.infomaniak.com
 *.api.louisvuitton.com
-*.soyoustart.com
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
@@ -4770,6 +4768,7 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -4813,6 +4812,14 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -4923,8 +4930,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -5424,8 +5429,6 @@ mmp.otto.de
 orbidder.otto.de
 supplier-connect.otto.de
 retail-api.otto.de
-api.ovh.com
-ovh.com
 sandbox.open-xchange.com
 onedoc.ch
 pro.onedoc.ch

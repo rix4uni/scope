@@ -1,3 +1,5 @@
+app.aikido.dev
+github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -77,6 +79,15 @@ css-tricks.com
 justonweb.be
 *.dpgmedia.be
 *.dpgmedia.nl
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
+*.datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -90,7 +101,6 @@ volkskrant.nl
 api.digitalocean.com
 cloud.digitalocean.com
 amd.digitalocean.com
-github.com
 marketplace.digitalocean.com
 *.snapshooter.com
 digitalocean.com
@@ -239,10 +249,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws

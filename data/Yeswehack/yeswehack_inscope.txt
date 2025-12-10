@@ -284,9 +284,6 @@ mmp.otto.de
 orbidder.otto.de
 supplier-connect.otto.de
 retail-api.otto.de
-api.ovh.com
-ovh.com
-*.soyoustart.com
 sandbox.open-xchange.com
 onedoc.ch
 pro.onedoc.ch
