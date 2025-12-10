@@ -1994,6 +1994,7 @@ ugcupload.booking.com
 jobs.booking.com
 medialibrary.booking.com
 partnerfeedback.booking.com
+procurement.booking.com
 recruitmentsurveys.booking.com
 spadmin.booking.com
 welcomekit.booking.com

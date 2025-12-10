@@ -1,10 +1,7 @@
-dropbox.com
-sign.dropbox.com
-hellosign.com
-dash.ai
-dash.dropbox.com
-api.dropbox.com
-replay.dropbox.com
-hellofax.com
-docsend.com
-app.reclaim.ai
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com

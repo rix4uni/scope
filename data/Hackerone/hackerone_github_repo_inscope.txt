@@ -28,6 +28,7 @@ https://github.com/lightsparkdev/lightspark-rs
 https://github.com/lightsparkdev/python-sdk
 https://github.com/worldcoin
 https://github.com/okx/wallet-core
+https://github.com/tronprotocol/java-tron
 https://github.com/evergreen-ci/evergreen
 https://github.com/mongodb-js/mongodb-mcp-server
 https://github.com/moonpay

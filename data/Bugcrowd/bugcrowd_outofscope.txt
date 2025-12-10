@@ -607,6 +607,7 @@ stg-api.realtair.gateway.ignite.realestate.com.au
 support.realestate.com.au
 stg-pitch.realtair.gateway.ignite.realestate.com.au
 tags.realestate.com.au
+api.leads.developersites.devlob-staging.realestate.com.au
 *.agent.realcommercial.com.au
 *.email.realcommercial.com.au
 abmail.campaign.realcommercial.com.au
@@ -625,6 +626,7 @@ info.property.com.au
 *.flatmates.com.au
 *.mortgagechoice.com.au
 *.proptrack.com
+*.proptrack.com.au
 *.realtair.com
 *.campaignagent.com.au
 *.simpology.com.au
