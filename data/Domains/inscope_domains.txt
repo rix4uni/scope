@@ -847,17 +847,13 @@ manager.thefork.com
 secure.thefork.com
 payment.lafourchette.com
 api.thefork.io
+widget.thefork.com
 theforkmanager.com
 thefork.com
 m.thefork.com
-blog.thefork.com
 api.thefork.com
-api.lafourchette.com
-review-api.lafourchette.com
-google-reserve-api.thefork.io
-m-api.lafourchette.com
+blog.thefork.com
 restaurant-information.com
-widget.thefork.com
 desk.thetradedesk.com
 api.thetradedesk.com
 auth.thetradedesk.com
@@ -1634,7 +1630,6 @@ api.stage.lando.nonprod.cloudops.mozgcp.net
 merino.services.mozilla.com
 stage.merino.nonprod.cloudops.mozgcp.net
 monitor.mozilla.org
-monitor-stage.allizom.org
 phabricator.allizom.org
 phabricator-dev.allizom.org
 pontoon.allizom.org
@@ -4228,6 +4223,8 @@ mmp.otto.de
 orbidder.otto.de
 supplier-connect.otto.de
 retail-api.otto.de
+api.ovh.com
+ovh.com
 sandbox.open-xchange.com
 onedoc.ch
 pro.onedoc.ch

@@ -1166,6 +1166,7 @@ cf.*.aws.indriverapp
 *.infomaniak.com
 *.vod2.infomaniak.com
 *.api.louisvuitton.com
+*.soyoustart.com
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net

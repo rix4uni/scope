@@ -622,7 +622,6 @@ api.stage.lando.nonprod.cloudops.mozgcp.net
 merino.services.mozilla.com
 stage.merino.nonprod.cloudops.mozgcp.net
 monitor.mozilla.org
-monitor-stage.allizom.org
 phabricator.allizom.org
 phabricator-dev.allizom.org
 pontoon.allizom.org

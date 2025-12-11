@@ -640,6 +640,7 @@ booking.*.sqills.com
 *.infomaniak.cloud
 *.dbaas.infomaniak.cloud
 *.louisvuitton.com
+*.osp.ovh.com
 *dev.swapcard.com
 *.bbcust.telenor.se
 *.cust.telenor.se

@@ -1,1 +1,2 @@
-support.atlassian.com
+api.ovh.com
+ovh.com
