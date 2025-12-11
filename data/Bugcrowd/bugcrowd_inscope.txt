@@ -56,6 +56,7 @@ atlassian.net
 *.atlassian.com
 *.atl-paas.net
 *.atlassian.net
+support.atlassian.com
 marketplace.atlassian.com
 *.atlastunnel.com
 loom.com

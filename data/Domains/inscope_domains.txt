@@ -42,6 +42,7 @@ start.atlassian.com
 bitbucket.org
 atlassian.com
 atlassian.net
+support.atlassian.com
 marketplace.atlassian.com
 loom.com
 chromewebstore.google.com
@@ -3618,14 +3619,6 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
