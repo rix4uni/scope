@@ -1,4 +1,3 @@
-https://github.com/SiliconLabsSoftware/z-wave-protocol-controller
 https://github.com/supabase-community
 https://github.com/Netflix/dispatch
 https://github.com/moonpay/moonpay-sign
