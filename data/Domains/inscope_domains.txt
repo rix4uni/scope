@@ -1944,8 +1944,6 @@ tria.ge
 recordedfuture.com
 staking.consensys.io
 consensys.io
-support.metamask.io
-tickets.metamask.io
 access.app
 stripe.com
 api.bridge.xyz

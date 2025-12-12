@@ -1017,8 +1017,6 @@ recordedfuture.com
 staking.consensys.io
 consensys.io
 etherscan.io
-support.metamask.io
-tickets.metamask.io
 *.gethypr.com
 *.hypr.com
 access.app
