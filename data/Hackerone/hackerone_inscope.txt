@@ -3100,6 +3100,7 @@ wordpress.com
 tumblr.com
 *.base.org
 *.cbhq.net
+*.coinbase-corp.com
 *.coinbase.com
 coinbase.com
 api.coinbase.com
