@@ -261,7 +261,6 @@ api.cloudinary.com
 res.cloudinary.com
 mediaflows.cloudinary.com
 dimensions.cloudinary.com
-*eua.cms.gov
 idm.cms.gov
 *qpp.cms.gov
 *nsa-idr.cms.gov
