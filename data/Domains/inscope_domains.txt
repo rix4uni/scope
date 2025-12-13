@@ -1251,6 +1251,8 @@ porsche-mnchen-sd-b3bh.de
 porsche-nrnberg-7vb.de
 porsche-schwbisch-gmnd-c5b89c.de
 porsche-wrzburg-7vb.de
+alfred-uat-31.nonprod.syfe.com
+drive.google.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com

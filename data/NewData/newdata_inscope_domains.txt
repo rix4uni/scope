@@ -1,2 +1,2 @@
-co.uk.getmondo
-monzo.com
+alfred-uat-31.nonprod.syfe.com
+drive.google.com
