@@ -1,1 +1,1 @@
-*.coinbase-corp.com
+*.datacamp.com
