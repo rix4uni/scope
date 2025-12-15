@@ -6,3 +6,13 @@ campus.datacamp.com
 practice.datacamp.com
 projects.datacamp.com
 datacamp.com
+kassa.gamma.be
+kassa.gamma.nl
+kassa.karwei.nl
+mijn.gamma.be
+mijn.gamma.nl
+mijn.karwei.nl
+gamma.be
+gamma.nl
+karwei.nl
+irmg.nl
