@@ -1,7 +1,1 @@
-*eua.cms.gov
-*.monzo.com
-*.prod-ffs.io
-*.gojek.com
-*.golabs.io
-*.gofoodmerchant.co.id
-*.gtflabs.io
+*.veriff.com
