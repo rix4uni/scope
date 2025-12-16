@@ -748,6 +748,8 @@ reastatic.net
 realestate.com.au
 realcommercial.com.au
 property.com.au
+next.flatmates.com.au
+api-next.flatmates.com.au
 rec.net
 store.steampowered.com
 oculus.com
@@ -1078,7 +1080,6 @@ staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
 baby.zola.com
-nextjs-cve-hackerone.vercel.app
 doordash.doordashconsumer
 doordash.com
 api.robinhood.com
@@ -3692,16 +3693,6 @@ kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-mijn.gamma.be
-mijn.gamma.nl
-mijn.karwei.nl
-gamma.be
-gamma.nl
-karwei.nl
-irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -3757,6 +3748,8 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
+monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -4160,6 +4153,7 @@ ffmpeg.git
 api.gojek.co.id
 gofood.co.id
 api.gobiz.co.id
+portal.gofoodmerchant.co.id
 gopaymerchant.midtrans.com
 mokapos.com
 api.midtrans.com

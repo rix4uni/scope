@@ -220,7 +220,6 @@ portal.cms.gov
 healthcare.gov
 cuidadodesalud.gov
 developer.cms.gov
-*eua.cms.gov
 hourofcode.com
 advocacy.code.org
 consensus2023.coindesk.com
@@ -411,6 +410,7 @@ status.newrelic.com
 docs.newrelic.com
 iopipe.com
 one.newrelic.com
+newrelic.com
 northwesternmutual.com
 servicenmfn.awms.apps.northwesternmutual.com
 servicenmfnstage.awms.apps.northwesternmutual.com
@@ -624,7 +624,6 @@ autodiscover.property.com.au
 email.property.com.au
 help.property.com.au
 info.property.com.au
-*.flatmates.com.au
 *.mortgagechoice.com.au
 *.proptrack.com
 *.proptrack.com.au
@@ -638,6 +637,13 @@ info.property.com.au
 *.easiloan.com
 *.realtor.com
 *.spacely.com.au
+*.flatmates.com.au
+flatmates.com.au
+api.flatmates.com.au
+flatmates-experience-api.flatmates.com.au
+help.flatmates.com.au
+email.flatmates.com.au
+sasinator.flatmates.com.au
 auth.simplisafe.com
 careers.simplisafe.com
 clicks.simplisafe.com
@@ -808,7 +814,6 @@ agentcenter.viator.com
 operatorresources.viator.com
 partnerresources.viator.com
 api.tapayments.com
-erwin.volkswagen.de
 theplaymania.com
 *.web.com
 *.register.com

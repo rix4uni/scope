@@ -170,6 +170,10 @@ gofood.co.id
 api.gobiz.co.id
 *.gofood.co.id
 *.gobiz.co.id
+portal.gofoodmerchant.co.id
+*.gojek.com
+*.golabs.io
+*.gofoodmerchant.co.id
 *.grwtrading.com
 *.dropxl.com
 *.wholesalexl.com
@@ -184,6 +188,7 @@ midtrans.com
 *.gofin.io
 *.findaya.com
 *.findaya.co.id
+*.gtflabs.io
 *.gov.sg
 events.onecloud.harman.com
 ota.onecloud.harman.com

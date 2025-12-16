@@ -263,6 +263,7 @@ mediaflows.cloudinary.com
 dimensions.cloudinary.com
 idm.cms.gov
 *qpp.cms.gov
+*eua.cms.gov
 *nsa-idr.cms.gov
 csscoperations.com
 adhoc-bugcrowd.cdn-code.org
@@ -997,6 +998,8 @@ realestate.com.au
 realcommercial.com.au
 *.realcommercial.com.au
 property.com.au
+next.flatmates.com.au
+api-next.flatmates.com.au
 rec.net
 store.steampowered.com
 oculus.com
@@ -1356,7 +1359,6 @@ kiwi.partner.viator.com
 selector.viator.com
 partnerhelp.viator.com
 *.viator.com
-*.volkswagen.de
 vwfs.de
 vwfs.com
 vwfs.pl

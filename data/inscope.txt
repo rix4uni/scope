@@ -67,6 +67,7 @@ portalapi.*.afterpay.com
 *.doj.io
 *.dojo.me
 *qpp.cms.gov
+*eua.cms.gov
 *nsa-idr.cms.gov
 *.xfinity.com
 *.comcast.com
@@ -322,7 +323,6 @@ sip.*.twilio.com
 *.verisign-grs.com
 *.viatorinc.com
 *.viator.com
-*.volkswagen.de
 *.transferwise.com
 *.wise.com
 *signalservice.comcast.net
@@ -1053,16 +1053,6 @@ cf.*.aws.indriverapp
 *.hln.be
 *.parool.nl
 *.humo.be
-*.gamma.be
-*.gamma.nl
-*.intergamma.cloud
-*.intergamma.nl
-*.karwei.nl
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.klubcinema.fr
 *.megatix.be
 *.kinepolis.be
@@ -1078,6 +1068,8 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com
@@ -1160,6 +1152,9 @@ cf.*.aws.indriverapp
 *.gojekapi.com
 *.gofood.co.id
 *.gobiz.co.id
+*.gojek.com
+*.golabs.io
+*.gofoodmerchant.co.id
 *.grwtrading.com
 *.dropxl.com
 *.wholesalexl.com
@@ -1169,6 +1164,7 @@ cf.*.aws.indriverapp
 *.gofin.io
 *.findaya.com
 *.findaya.co.id
+*.gtflabs.io
 *.gov.sg
 *.easy4ipcloud.com
 *.kdrive.infomaniak.com
@@ -1952,6 +1948,8 @@ reastatic.net
 realestate.com.au
 realcommercial.com.au
 property.com.au
+next.flatmates.com.au
+api-next.flatmates.com.au
 rec.net
 store.steampowered.com
 oculus.com
@@ -2282,7 +2280,6 @@ staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
 baby.zola.com
-nextjs-cve-hackerone.vercel.app
 doordash.doordashconsumer
 doordash.com
 api.robinhood.com
@@ -4896,16 +4893,6 @@ kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-mijn.gamma.be
-mijn.gamma.nl
-mijn.karwei.nl
-gamma.be
-gamma.nl
-karwei.nl
-irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -4961,6 +4948,8 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
+monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -5364,6 +5353,7 @@ ffmpeg.git
 api.gojek.co.id
 gofood.co.id
 api.gobiz.co.id
+portal.gofoodmerchant.co.id
 gopaymerchant.midtrans.com
 mokapos.com
 api.midtrans.com

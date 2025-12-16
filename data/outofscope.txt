@@ -37,7 +37,6 @@
 *.freshdesk.com
 *.bullish.com
 *.cisco.com
-*eua.cms.gov
 *.hfc.comcastbusiness.net
 hsd1.*.comcast.net
 *business.comcast.com
@@ -125,7 +124,6 @@ auth.*.latitudefinancial.com
 *.realtair.realestate.com.au
 *.agent.realcommercial.com.au
 *.email.realcommercial.com.au
-*.flatmates.com.au
 *.mortgagechoice.com.au
 *.proptrack.com
 *.proptrack.com.au
@@ -139,6 +137,7 @@ auth.*.latitudefinancial.com
 *.easiloan.com
 *.realtor.com
 *.spacely.com.au
+*.flatmates.com.au
 *.afterpay.com
 *.cash.me
 *.tidal.com
@@ -576,8 +575,8 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
+*.monzo.me
 *.nexuzhealth.pro
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
@@ -986,6 +985,7 @@ status.newrelic.com
 docs.newrelic.com
 iopipe.com
 one.newrelic.com
+newrelic.com
 northwesternmutual.com
 servicenmfn.awms.apps.northwesternmutual.com
 servicenmfnstage.awms.apps.northwesternmutual.com
@@ -1154,6 +1154,12 @@ autodiscover.property.com.au
 email.property.com.au
 help.property.com.au
 info.property.com.au
+flatmates.com.au
+api.flatmates.com.au
+flatmates-experience-api.flatmates.com.au
+help.flatmates.com.au
+email.flatmates.com.au
+sasinator.flatmates.com.au
 auth.simplisafe.com
 careers.simplisafe.com
 clicks.simplisafe.com
@@ -1286,7 +1292,6 @@ agentcenter.viator.com
 operatorresources.viator.com
 partnerresources.viator.com
 api.tapayments.com
-erwin.volkswagen.de
 theplaymania.com
 app.gator.com
 app.web.com
@@ -1614,6 +1619,7 @@ reicasting.com
 articles.mergify.com
 blog.mergify.com
 mergify.com
+academy.zabbix.com
 blog.zabbix.com
 cloud.zabbix.com
 exam.zabbix.com
@@ -2737,13 +2743,6 @@ payment-profile-gateway.oc.autodesk.com
 payment-profile-gateway.ocstg.autodesk.com
 profile-stg.autodesk.com
 stg-manage.autodesk.com
-chat.hyperledger.org
-hyperledger.github.io
-identity.linuxfoundation.org
-jira.hyperledger.org
-lists.hyperledger.org
-hyperledger.org
-linuxfoundation.org
 help.usertesting.com
 usertesting.com
 qa.usertesting.com
@@ -3226,18 +3225,6 @@ newsroom.innogames.com
 pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
-afspraakmaken.gamma.nl
-api.afspraakmaken.gamma.be
-api.afspraakmaken.gamma.nl
-api.maakafspraak.karwei.nl
-horrenconfigurator-fr.gamma.be
-horrenconfigurator-nl.gamma.be
-horrenconfigurator.karwei.nl
-karwei-2018.hetmooistegordijn.nl
-maakafspraak.karwei.nl
-mail.gamma.be
-mail.gamma.nl
-mail.karwei.nl
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
@@ -3254,6 +3241,9 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be

@@ -67,6 +67,7 @@ portalapi.*.afterpay.com
 *.doj.io
 *.dojo.me
 *qpp.cms.gov
+*eua.cms.gov
 *nsa-idr.cms.gov
 *.xfinity.com
 *.comcast.com
@@ -322,7 +323,6 @@ sip.*.twilio.com
 *.verisign-grs.com
 *.viatorinc.com
 *.viator.com
-*.volkswagen.de
 *.transferwise.com
 *.wise.com
 *signalservice.comcast.net
@@ -1053,16 +1053,6 @@ cf.*.aws.indriverapp
 *.hln.be
 *.parool.nl
 *.humo.be
-*.gamma.be
-*.gamma.nl
-*.intergamma.cloud
-*.intergamma.nl
-*.karwei.nl
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.klubcinema.fr
 *.megatix.be
 *.kinepolis.be
@@ -1078,6 +1068,8 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.oda.com
@@ -1160,6 +1152,9 @@ cf.*.aws.indriverapp
 *.gojekapi.com
 *.gofood.co.id
 *.gobiz.co.id
+*.gojek.com
+*.golabs.io
+*.gofoodmerchant.co.id
 *.grwtrading.com
 *.dropxl.com
 *.wholesalexl.com
@@ -1169,6 +1164,7 @@ cf.*.aws.indriverapp
 *.gofin.io
 *.findaya.com
 *.findaya.co.id
+*.gtflabs.io
 *.gov.sg
 *.easy4ipcloud.com
 *.kdrive.infomaniak.com

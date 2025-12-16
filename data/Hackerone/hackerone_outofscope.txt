@@ -384,6 +384,7 @@ reicasting.com
 articles.mergify.com
 blog.mergify.com
 mergify.com
+academy.zabbix.com
 blog.zabbix.com
 cloud.zabbix.com
 exam.zabbix.com
@@ -1688,13 +1689,6 @@ payment-profile-gateway.oc.autodesk.com
 payment-profile-gateway.ocstg.autodesk.com
 profile-stg.autodesk.com
 stg-manage.autodesk.com
-chat.hyperledger.org
-hyperledger.github.io
-identity.linuxfoundation.org
-jira.hyperledger.org
-lists.hyperledger.org
-hyperledger.org
-linuxfoundation.org
 *.teston.io
 *.usertesting.com
 help.usertesting.com
