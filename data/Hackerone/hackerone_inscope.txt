@@ -2198,10 +2198,10 @@ crowdstrike.fr
 crowdstrike.jp
 crowdstrike.com.br
 crowdstrike.org
+docs.databricks.com
 accounts.cloud.databricks.com
 databricks.com
 dbc-9a3f8ed1-7608.cloud.databricks.com
-docs.databricks.com
 *.elastic.co
 *.elastic.dev
 *.elasticnet.co
