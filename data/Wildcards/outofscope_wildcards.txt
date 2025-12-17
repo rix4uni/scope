@@ -342,6 +342,7 @@ bus.*.indrive.com
 *.xmtest.cloud.com
 *.bell.ca
 *.msteams.8x8.com
+*.ucverse.com
 *.callstats.io
 *.contactnow.8x8.com
 *.jitsi.org

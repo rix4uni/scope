@@ -575,10 +575,6 @@ cf.*.aws.indriverapp
 *.exodus.com
 *.exodus.io
 *.k8s.io
-*.gocardless-cicd.io
-*.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.mi.com
@@ -1068,6 +1064,8 @@ cf.*.aws.indriverapp
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
