@@ -1021,6 +1021,15 @@ cf.*.aws.indriverapp
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1059,8 +1068,6 @@ cf.*.aws.indriverapp
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
