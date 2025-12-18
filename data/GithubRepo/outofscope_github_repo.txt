@@ -18,6 +18,10 @@ https://github.com/crypto-com/chain-desktop-wallet
 https://github.com/crypto-com/cro-staking
 https://github.com/crypto-com/swap-contracts-core
 https://github.com/crypto-com/swap-contracts-periphery
+https://github.com/rsksmart/rif-wallet
+https://github.com/rsksmart/rif-wallet-libs
+https://github.com/rsksmart/rif-wallet-services
+https://github.com/rsksmart/tokenbridge
 https://github.com/elastic/*
 https://github.com/swiftype/*
 https://github.com/EpicGames/UnrealTournament
