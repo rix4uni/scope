@@ -540,7 +540,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -558,6 +557,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -566,6 +566,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
 *.monzo.me
 *.nexuzhealth.pro
@@ -1195,8 +1196,6 @@ euid.eu
 id.thetradedesk.com
 update.adsrvr.org
 openpath-login.thetradedesk.com
-blog.thousandeyes.com
-app.thousandeyes.com
 developer.tidal.com
 embed.tidal.com
 e.trello.com
@@ -1494,7 +1493,6 @@ audiblehub.com
 newsletters.audible.com
 omtrdc.net
 audiblecareers.com
-partners.vectra.ai
 support.lighstpark.com
 staging.travix.com
 stg.travix.com
@@ -1694,6 +1692,7 @@ investwithpurpose.fidelity.com
 jobs.fidelity.com
 labs.fidelity.com
 metrics.fidelity.com
+newsroom.fidelity.com
 research2.fidelity.com
 reviews.fidelity.com
 reviews.retail.fidelity.com
@@ -1701,6 +1700,7 @@ sitecatalyst.fidelity.com
 social.fidelity.com
 social.retail.fidelity.com
 supplier.fidelity.com
+talentcommunity.fidelity.com
 taxseason.fidelity.com
 testjobs.fidelity.com
 fidelityworkplace.com
@@ -3123,6 +3123,18 @@ help.capital.com
 relocate-with-us.capital.com
 3cxby.itcapital.io
 texis.itcapital.io
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
@@ -3151,6 +3163,18 @@ newsroom.innogames.com
 pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
+afspraakmaken.gamma.nl
+api.afspraakmaken.gamma.be
+api.afspraakmaken.gamma.nl
+api.maakafspraak.karwei.nl
+horrenconfigurator-fr.gamma.be
+horrenconfigurator-nl.gamma.be
+horrenconfigurator.karwei.nl
+karwei-2018.hetmooistegordijn.nl
+maakafspraak.karwei.nl
+mail.gamma.be
+mail.gamma.nl
+mail.karwei.nl
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
@@ -3530,7 +3554,6 @@ logging.apache.org
 gitlab.isc.org
 lists.isc.org
 blog.bitoasis.net
-dev.blablacar.com
 sncf-connect.com
 sncf.com
 tgvinoui.sncf

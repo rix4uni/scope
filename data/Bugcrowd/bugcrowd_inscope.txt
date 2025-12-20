@@ -1156,9 +1156,6 @@ example-jssdk-integ.uidapi.com
 example-srvonly-integ.uidapi.com
 secure-signals-jssdk-integ.uidapi.com
 secure-signals-srvonly-integ.uidapi.com
-api.thousandeyes.com
-app.thousandeyes.com
-thousandeyes.com
 tidal.com
 *.tidal.com
 *.wimpmusic.com

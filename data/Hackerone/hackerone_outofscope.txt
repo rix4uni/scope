@@ -270,7 +270,6 @@ audiblehub.com
 newsletters.audible.com
 omtrdc.net
 audiblecareers.com
-partners.vectra.ai
 support.lighstpark.com
 *.dev.travix.com
 staging.travix.com
@@ -509,6 +508,7 @@ investwithpurpose.fidelity.com
 jobs.fidelity.com
 labs.fidelity.com
 metrics.fidelity.com
+newsroom.fidelity.com
 research2.fidelity.com
 reviews.fidelity.com
 reviews.retail.fidelity.com
@@ -516,6 +516,7 @@ sitecatalyst.fidelity.com
 social.fidelity.com
 social.retail.fidelity.com
 supplier.fidelity.com
+talentcommunity.fidelity.com
 taxseason.fidelity.com
 testjobs.fidelity.com
 fidelityworkplace.com
