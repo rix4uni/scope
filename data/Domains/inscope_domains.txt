@@ -3640,8 +3640,6 @@ service.fing.com
 app.fing.com
 jaguar.here.com
 landrover.here.com
-hln.be
-myaccount.hln.be
 myaccount.parool.nl
 shop.parool.nl
 webwinkel.parool.nl

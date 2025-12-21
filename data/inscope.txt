@@ -1045,7 +1045,6 @@ cf.*.aws.indriverapp
 *.subp-router.hereapi.com
 *.here.com
 *.hereapi.com
-*.hln.be
 *.parool.nl
 *.humo.be
 *.gamma.be
@@ -4841,8 +4840,6 @@ service.fing.com
 app.fing.com
 jaguar.here.com
 landrover.here.com
-hln.be
-myaccount.hln.be
 myaccount.parool.nl
 shop.parool.nl
 webwinkel.parool.nl

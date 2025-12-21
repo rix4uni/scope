@@ -182,9 +182,6 @@ jaguar.here.com
 landrover.here.com
 *.here.com
 *.hereapi.com
-hln.be
-myaccount.hln.be
-*.hln.be
 myaccount.parool.nl
 shop.parool.nl
 webwinkel.parool.nl

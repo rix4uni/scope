@@ -1045,7 +1045,6 @@ cf.*.aws.indriverapp
 *.subp-router.hereapi.com
 *.here.com
 *.hereapi.com
-*.hln.be
 *.parool.nl
 *.humo.be
 *.gamma.be
