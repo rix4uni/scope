@@ -328,6 +328,9 @@ community.etsy.com
 financialforce.com
 *.financialforce.com
 *.certinia.com
+sb-console-api.fireblocks.io
+sb-mobile-api.fireblocks.io
+sandbox-api.fireblocks.io
 fivetran.com
 *.fivetran.com
 flo.uri.sh
