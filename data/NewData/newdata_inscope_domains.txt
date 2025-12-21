@@ -1,3 +1,1 @@
-sb-console-api.fireblocks.io
-sb-mobile-api.fireblocks.io
-sandbox-api.fireblocks.io
+app.aikido.dev
