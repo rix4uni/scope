@@ -1,12 +1,3 @@
-analytics.ninjakiwi.com
-api.ninjakiwi.com
-guts.ninjakiwi.com
-battles.tv
-data.ninjakiwi.com
-ninja.kiwi
-ninjakiwi.com
-alerts.ninjakiwi.com
-boomer2.ninjakiwi.com
-ct.ninjakiwi.com
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
+sb-console-api.fireblocks.io
+sb-mobile-api.fireblocks.io
+sandbox-api.fireblocks.io

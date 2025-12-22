@@ -1435,6 +1435,9 @@ careers.etsy.com
 help.etsy.com
 community.etsy.com
 financialforce.com
+sb-console-api.fireblocks.io
+sb-mobile-api.fireblocks.io
+sandbox-api.fireblocks.io
 fivetran.com
 flo.uri.sh
 flourish.studio
@@ -1660,17 +1663,6 @@ staging.luno.com
 ajax.staging.luno.com
 api.staging.luno.com
 app.staging.luno.com
-crateandbarrel.me
-api-prod.thatconceptstore.com
-thatconceptstore.com
-cb2.ae
-allsaints.me
-lululemon.me
-lapi.yellowblocks.me
-shiseido.me
-lego.me
-psychobunny.me
-fashion4less.me
 sharerewards.com
 vtcprodapi.maf.ae
 svchifi.svc
