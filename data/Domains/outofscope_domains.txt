@@ -315,6 +315,7 @@ info.lululemon.com
 pnimage.lululemon.com
 pnimages.lululemon.com
 mirror.co
+americangirlmena.com
 opay.icbc.com
 opay.icbc.com.cn
 mgmchinaholdings.com
@@ -1598,6 +1599,7 @@ mtngame.net
 mtngb.com
 mtngbissau.com
 mtnghbusiness.com
+mtnghbusiness.mobi
 mtnghbusiness.net
 mtnghhostedservices.com
 mtnghhostedservices.mobi
