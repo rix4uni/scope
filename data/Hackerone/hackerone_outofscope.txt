@@ -693,9 +693,6 @@ segashop.co.uk
 *.neweggbusiness.com
 jobs.newegg.com
 sellingpilot.newegg.com
-*.fastly.net
-community.fastly.com
-connect.fastly.com
 *.krisp.ai
 metabase.krisp.ai
 sdk-docs.krisp.ai
