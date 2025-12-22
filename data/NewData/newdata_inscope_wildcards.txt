@@ -1,1 +1,2 @@
-*.vlaanderen.be
+*.monzo.com
+*.prod-ffs.io

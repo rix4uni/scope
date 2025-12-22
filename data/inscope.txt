@@ -1070,6 +1070,8 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -1659,17 +1661,6 @@ staging.luno.com
 ajax.staging.luno.com
 api.staging.luno.com
 app.staging.luno.com
-crateandbarrel.me
-api-prod.thatconceptstore.com
-thatconceptstore.com
-cb2.ae
-allsaints.me
-lululemon.me
-lapi.yellowblocks.me
-shiseido.me
-lego.me
-psychobunny.me
-fashion4less.me
 sharerewards.com
 vtcprodapi.maf.ae
 svchifi.svc
@@ -4908,6 +4899,8 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
+monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws

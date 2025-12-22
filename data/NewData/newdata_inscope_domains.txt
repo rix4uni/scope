@@ -1,3 +1,2 @@
-sb-console-api.fireblocks.io
-sb-mobile-api.fireblocks.io
-sandbox-api.fireblocks.io
+co.uk.getmondo
+monzo.com
