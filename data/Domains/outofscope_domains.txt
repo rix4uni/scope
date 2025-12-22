@@ -315,6 +315,7 @@ info.lululemon.com
 pnimage.lululemon.com
 pnimages.lululemon.com
 mirror.co
+americangirlmena.com
 opay.icbc.com
 opay.icbc.com.cn
 mgmchinaholdings.com
@@ -2952,6 +2953,10 @@ deezercommunity.com
 deezer-blog.com
 deezer-brandsolutions.com
 deezerjobs.com
+cdn.vlaanderen.be
+codex.opendata.api.vlaanderen.be
+vlaanderen.be
+natura2000.vlaanderen.be
 community.doctolib.com
 doctocommit.doctolib.fr
 doctolib.atlassian.net

@@ -621,6 +621,8 @@ booking.*.sqills.com
 *.usersnap.com
 *.gdata.com
 *.retarus.com
+*.vlaanderen.be
+*.omgeving.vlaanderen.be
 *.docker.dev
 *.gouv.fr
 *.ftp.infomaniak.com

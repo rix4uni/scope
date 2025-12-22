@@ -1131,6 +1131,7 @@ cf.*.aws.indriverapp
 *.dmcdn.net
 *.dm.gg
 *.captcha-delivery.com
+*.vlaanderen.be
 *.siilo.com
 *.expressvpn.com
 *.xvtest.net
@@ -1430,9 +1431,6 @@ careers.etsy.com
 help.etsy.com
 community.etsy.com
 financialforce.com
-sb-console-api.fireblocks.io
-sb-mobile-api.fireblocks.io
-sandbox-api.fireblocks.io
 fivetran.com
 flo.uri.sh
 flourish.studio
@@ -1658,6 +1656,17 @@ staging.luno.com
 ajax.staging.luno.com
 api.staging.luno.com
 app.staging.luno.com
+crateandbarrel.me
+api-prod.thatconceptstore.com
+thatconceptstore.com
+cb2.ae
+allsaints.me
+lululemon.me
+lapi.yellowblocks.me
+shiseido.me
+lego.me
+psychobunny.me
+fashion4less.me
 sharerewards.com
 vtcprodapi.maf.ae
 svchifi.svc
@@ -5184,6 +5193,11 @@ wellbeing.deezer.com
 wellbeing.dzcdn.net
 account.deezer.com
 pipe.deezer.com
+beta.gastwebsite-acm.burgerprofiel.ext-vlaanderen.be
+beta.gastwebsite.burgerprofiel.ext-vlaanderen.be
+beta.widgets.burgerprofiel.dev-vlaanderen.be
+burgerprofiel.beta-vlaanderen.be
+vo-gebruikersbeheer.vlaanderen.be
 pro.doctolib
 fr.doctolib.www
 expressvpn.jobs

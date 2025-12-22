@@ -1131,6 +1131,7 @@ cf.*.aws.indriverapp
 *.dmcdn.net
 *.dm.gg
 *.captcha-delivery.com
+*.vlaanderen.be
 *.siilo.com
 *.expressvpn.com
 *.xvtest.net
