@@ -463,6 +463,17 @@ staging.luno.com
 ajax.staging.luno.com
 api.staging.luno.com
 app.staging.luno.com
+crateandbarrel.me
+api-prod.thatconceptstore.com
+thatconceptstore.com
+cb2.ae
+allsaints.me
+lululemon.me
+lapi.yellowblocks.me
+shiseido.me
+lego.me
+psychobunny.me
+fashion4less.me
 sharerewards.com
 vtcprodapi.maf.ae
 svchifi.svc
