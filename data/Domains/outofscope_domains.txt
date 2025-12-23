@@ -2499,6 +2499,7 @@ jobs.exoscale.com
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
+hln.be
 parool.nl
 abonnement.parool.nl
 houseofhr.com
@@ -2831,6 +2832,7 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
+station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

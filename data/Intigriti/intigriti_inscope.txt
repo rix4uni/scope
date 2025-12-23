@@ -1,5 +1,4 @@
 app.aikido.dev
-github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -117,6 +116,7 @@ delen.be
 api.digitalocean.com
 cloud.digitalocean.com
 amd.digitalocean.com
+github.com
 marketplace.digitalocean.com
 *.snapshooter.com
 digitalocean.com
@@ -181,6 +181,9 @@ jaguar.here.com
 landrover.here.com
 *.here.com
 *.hereapi.com
+hln.be
+myaccount.hln.be
+*.hln.be
 myaccount.parool.nl
 shop.parool.nl
 webwinkel.parool.nl
@@ -495,6 +498,17 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+*.veriff.com
+developers.veriff.me
+veriff.com
 api.voiapp.io
 io.voiapp.voi
 mds.voiapp.io

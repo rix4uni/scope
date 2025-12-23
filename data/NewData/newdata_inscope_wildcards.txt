@@ -1,2 +1,2 @@
-*.monzo.com
-*.prod-ffs.io
+*.hln.be
+*.veriff.com
