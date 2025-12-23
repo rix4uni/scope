@@ -1007,7 +1007,6 @@ cf.*.aws.indriverapp
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
-*.challenge-1225.intigriti.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
