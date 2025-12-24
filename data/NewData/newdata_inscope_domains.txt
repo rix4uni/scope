@@ -1,1 +1,1 @@
-profiles-api.datacamp.com
+aikidosecurity.aikido
