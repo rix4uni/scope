@@ -1008,8 +1008,6 @@ cf.*.aws.indriverapp
 *.capital.com
 *.itcapital.io
 *.cloudways.com
-*.dpgmedia.be
-*.dpgmedia.nl
 *.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
@@ -4422,8 +4420,6 @@ ovo.id
 p.grabtaxi.com
 wiki.grab.com
 xtramile.grabpay.com
-moneybird.com
-moneybirdstorage.com
 support.dashlane.com
 api.dashlane.com
 app.dashlane.com
@@ -4766,6 +4762,7 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
+profiles-api.datacamp.com
 app.datacamp.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com
@@ -5009,8 +5006,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-aweb.suivo.com
-asupport.suivo.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl

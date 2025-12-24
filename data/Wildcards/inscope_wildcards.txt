@@ -1008,8 +1008,6 @@ cf.*.aws.indriverapp
 *.capital.com
 *.itcapital.io
 *.cloudways.com
-*.dpgmedia.be
-*.dpgmedia.nl
 *.datacamp.com
 *.demorgen.be
 *.volkskrant.nl

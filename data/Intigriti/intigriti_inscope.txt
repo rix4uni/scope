@@ -1,4 +1,5 @@
 app.aikido.dev
+github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -74,8 +75,7 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
-*.dpgmedia.be
-*.dpgmedia.nl
+profiles-api.datacamp.com
 app.datacamp.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com
@@ -116,7 +116,6 @@ delen.be
 api.digitalocean.com
 cloud.digitalocean.com
 amd.digitalocean.com
-github.com
 marketplace.digitalocean.com
 *.snapshooter.com
 digitalocean.com
@@ -397,8 +396,6 @@ socialdeal.nl
 whynot.com
 *.sqills.com
 *.sqills.team
-aweb.suivo.com
-asupport.suivo.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
