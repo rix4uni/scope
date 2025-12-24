@@ -1,2 +1,3 @@
-*.hln.be
-*.veriff.com
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
