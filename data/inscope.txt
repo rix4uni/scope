@@ -1008,6 +1008,8 @@ cf.*.aws.indriverapp
 *.capital.com
 *.itcapital.io
 *.cloudways.com
+*.dpgmedia.be
+*.dpgmedia.nl
 *.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
@@ -4712,8 +4714,6 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-aikidosecurity.aikido
-app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl

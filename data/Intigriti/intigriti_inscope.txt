@@ -1,6 +1,3 @@
-marketplace.visualstudio.com
-aikidosecurity.aikido
-app.aikido.dev
 github.com
 myaccount.ad.nl
 webwinkel.ad.nl
@@ -77,6 +74,8 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
+*.dpgmedia.be
+*.dpgmedia.nl
 profiles-api.datacamp.com
 app.datacamp.com
 assessment-api.datacamp.com

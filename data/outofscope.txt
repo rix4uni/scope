@@ -538,7 +538,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -562,6 +561,8 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl

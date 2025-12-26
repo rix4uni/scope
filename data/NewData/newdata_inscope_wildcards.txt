@@ -1,3 +1,2 @@
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.dpgmedia.be
+*.dpgmedia.nl

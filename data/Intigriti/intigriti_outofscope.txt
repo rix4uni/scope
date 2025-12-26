@@ -1,4 +1,3 @@
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -54,6 +53,8 @@ changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
 jobs.exoscale.com
+*.grafana.com
+*.grafana.net
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
