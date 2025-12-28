@@ -1164,6 +1164,9 @@ api.tidal.com
 *tidalhi.fi
 *.tdl.sh
 offer.tidal.com
+api.trello.com
+*.trello.services
+butlerfortrello.com
 api.production.cde.tamg.cloud
 partnerapi.tapayments.com
 partnerapi1.tapayments.com
