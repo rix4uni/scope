@@ -1,5 +1,10 @@
-cloudinary.com
-api.cloudinary.com
-res.cloudinary.com
-mediaflows.cloudinary.com
-dimensions.cloudinary.com
+api.coinmarketcap.com
+pro-api.coinmarketcap.com
+binance.com
+api.binance.com
+pro.coinmarketcap.com
+portal-api.coinmarketcap.com
+coinmarketcap.com
+3rdparty-apis.coinmarketcap.com
+binance.us
+binance.tr
