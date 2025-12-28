@@ -703,9 +703,6 @@ update.adsrvr.org
 openpath-login.thetradedesk.com
 developer.tidal.com
 embed.tidal.com
-e.trello.com
-help.trello.com
-trello-attachments.s3.amazonaws.com
 *.bokun.eu
 *.bokun.website
 *.bokun.tools
