@@ -119,9 +119,6 @@ casino.*.betmgm.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
-*.intercomassets.com
-*.intercomcdn.com
-*.mobile-messenger.intercom.com
 *.jora.com
 *.jora.xyz
 *.thuisbezorgd.nl
@@ -1071,7 +1068,6 @@ cf.*.aws.indriverapp
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
-*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
@@ -1491,14 +1487,6 @@ indeed.com
 apis.indeed.com
 resume.com
 wowjobs.ca
-developers.intercom.com
-api.intercom.com
-api.intercom.io
-app.intercom.com
-app.intercom.io
-intercom.com
-mcp.intercom.com
-api-iam.intercom.io
 carsdirect.com
 pets.webmd.com
 member.webmd.com
@@ -4975,8 +4963,6 @@ erpx.unit4cloud.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
-access.ripe.net
-lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com

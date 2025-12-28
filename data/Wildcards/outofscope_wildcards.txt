@@ -589,9 +589,6 @@ api.*.ec.ovotech
 *.unique.be
 *.uniqueselect.be
 *.usgprofessionals.be
-*.anchors.atlas.ripe.net
-*.probes.atlas.ripe.net
-*.ripe.net
 *.newyorkredbulls.com
 *.red.sqills.team
 booking.*.cloud.sqills
