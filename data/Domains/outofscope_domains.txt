@@ -174,6 +174,8 @@ meraki.cisco.com
 documentation.meraki.com
 wien.gv.at
 learn.clickhouse.com
+support.cloudinary.com
+wiki.cloudinary.com
 eqrs.cms.gov
 portal.cms.gov
 healthcare.gov

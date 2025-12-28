@@ -256,6 +256,11 @@ monster-customizer.classdojo.com
 *.doj.io
 *.dojo.me
 clickhou.se
+cloudinary.com
+api.cloudinary.com
+res.cloudinary.com
+mediaflows.cloudinary.com
+dimensions.cloudinary.com
 idm.cms.gov
 *qpp.cms.gov
 *eua.cms.gov
