@@ -116,14 +116,6 @@ mydirtyhobby.de
 it.mydirtyhobby.com
 es.mydirtyhobby.com
 fr.mydirtyhobby.com
-nutaku.com
-nutaku.net
-xnxx.nutaku.net
-xvideos.nutaku.net
-osapi.nutaku.com
-mobileapi.nutaku.com
-gateway-api.nutaku.net
-*.nutakupublishing.com
 mgpg2.probiller.com
 mgpg.probiller.com
 probiller.com

@@ -91,13 +91,6 @@ mydirtyhobby.de
 it.mydirtyhobby.com
 es.mydirtyhobby.com
 fr.mydirtyhobby.com
-nutaku.com
-nutaku.net
-xnxx.nutaku.net
-xvideos.nutaku.net
-osapi.nutaku.com
-mobileapi.nutaku.com
-gateway-api.nutaku.net
 mgpg2.probiller.com
 mgpg.probiller.com
 probiller.com
@@ -3506,6 +3499,9 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+myaccount.ad.nl
+webwinkel.ad.nl
+ad.nl
 politico.eu
 adtechnology.axelspringer.com
 bild.de

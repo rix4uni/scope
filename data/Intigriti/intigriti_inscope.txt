@@ -1,4 +1,8 @@
 github.com
+myaccount.ad.nl
+webwinkel.ad.nl
+ad.nl
+*.ad.nl
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
