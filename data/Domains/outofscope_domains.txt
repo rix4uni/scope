@@ -2554,6 +2554,8 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
+store.ninjakiwi.com
+support.ninjakiwi.com
 pol-dev.ovotech.org.uk
 prod.tardis.ovotech.org.uk
 pol.ovotech.org.uk
@@ -2813,6 +2815,17 @@ careers.sqills.com
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
+banks.truelayer.com
+careers.truelayer.com
+docs.truelayer.com
+docs.houston.truelayer.com
+truelayer.com
+index.truelayer.com
+info.truelayer.com
+signin.truelayer.com
+support.truelayer.com
+status.truelayer.com
+truelayer.zendesk.com
 elect.tweakers.net
 preview.redcap.gbiomed.kuleuven.be
 jobs.uzleuven.be
