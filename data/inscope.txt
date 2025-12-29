@@ -22,7 +22,6 @@ portalapi.*.afterpay.com
 *.seancody.com
 *.digitalplayground.com
 *.transangels.com
-*.tube8.com
 *.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
@@ -975,7 +974,6 @@ cf.*.aws.indriverapp
 *.vpn.hackerone.net
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
-*.ad.nl
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
@@ -1277,17 +1275,6 @@ probiller.realitykings.com
 probiller.seancody.com
 probiller.digitalplayground.com
 probiller.transangels.com
-pornhub.com
-mobile.pornhub.com
-api.pornhub.com
-pornhubpremium.com
-redtube.com
-redtubepremium.com
-youporn.com
-youpornpremium.com
-pornhub.mainhub.com
-tube8.com
-thumbzilla.com
 mydirtyhobby.com
 mydirtyhobby.de
 it.mydirtyhobby.com
@@ -4708,9 +4695,6 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-myaccount.ad.nl
-webwinkel.ad.nl
-ad.nl
 politico.eu
 adtechnology.axelspringer.com
 bild.de

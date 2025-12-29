@@ -1467,6 +1467,10 @@ support.bitmex.com
 *.azuredatabricks.net
 *.cloud.databricks.com
 *.gcp.databricks.com
+blog.thecoalition.com
+security.md
+help.thecoalition.com
+thecoalition.com
 *.elasticsearch.cn
 *.keephq.dev
 buy.elastic.co
