@@ -1,10 +1,3 @@
-coindesk.com
-uat.coindesk.com
-events.coindesk.com
-consensus2025.coindesk.com
-consensus-hongkong2025.coindesk.com
-data.coindesk.com
-developers.coindesk.com
 share.acorns.com
 grow.acorns.com
 store.acorns.com
@@ -183,8 +176,12 @@ cuidadodesalud.gov
 developer.cms.gov
 hourofcode.com
 advocacy.code.org
+uat.coindesk.com
+events.coindesk.com
 consensus2023.coindesk.com
 consensus2024.coindesk.com
+consensus2025.coindesk.com
+consensus-hongkong2025.coindesk.com
 uat.accounts.coindesk.com
 staging.coindesk.com
 admin.selectwifi.xfinity.com

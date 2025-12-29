@@ -1200,8 +1200,6 @@ cf.*.aws.indriverapp
 *.vidaxl.org
 *.vidaxl.io
 *.vidaxl.net
-data-api.coindesk.com
-tools-api.cryptocompare.com
 acorns.com
 graphql.acorns.com
 gohenry.com
