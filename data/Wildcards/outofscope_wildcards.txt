@@ -9,6 +9,17 @@
 *.pabbp.com
 *.contentabc.com
 *.adtng.com
+*.pornhub.com
+*.pronstore.com
+*.redtube.com
+*.redtubepremium.com
+*.pornhubpremium.com
+*.youporn.com
+*.youpornpremium.com
+*.pornmd.com
+*.thumbzilla.com
+*.pornhubapparel.com
+*.pornhub.org
 *.mydirtyhobby.com
 *.cross-promotion.nutaku.net
 *.nutaku.net
