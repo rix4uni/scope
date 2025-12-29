@@ -1,2 +1,7 @@
-data-api.coindesk.com
-tools-api.cryptocompare.com
+nutaku.com
+nutaku.net
+xnxx.nutaku.net
+xvideos.nutaku.net
+osapi.nutaku.com
+mobileapi.nutaku.com
+gateway-api.nutaku.net

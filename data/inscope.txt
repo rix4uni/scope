@@ -23,6 +23,7 @@ portalapi.*.afterpay.com
 *.digitalplayground.com
 *.transangels.com
 *.tube8.com
+*.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
@@ -1292,6 +1293,13 @@ mydirtyhobby.de
 it.mydirtyhobby.com
 es.mydirtyhobby.com
 fr.mydirtyhobby.com
+nutaku.com
+nutaku.net
+xnxx.nutaku.net
+xvideos.nutaku.net
+osapi.nutaku.com
+mobileapi.nutaku.com
+gateway-api.nutaku.net
 mgpg2.probiller.com
 mgpg.probiller.com
 probiller.com
