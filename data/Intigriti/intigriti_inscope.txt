@@ -392,6 +392,9 @@ erpx.unit4cloud.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
+access.ripe.net
+lirportal.ripe.net
+*.ripe.net
 business.rivian.com
 rivian.com
 *.rivian.com

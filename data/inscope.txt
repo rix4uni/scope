@@ -1082,6 +1082,7 @@ cf.*.aws.indriverapp
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
+*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
@@ -5010,6 +5011,8 @@ erpx.unit4cloud.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
+access.ripe.net
+lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
