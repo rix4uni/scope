@@ -613,11 +613,6 @@ openai.org
 openai.com
 platform.openai.com
 sora.chatgpt.com
-opensea.io
-wallet.opensea.io
-io.opensea
-mcp.opensea.io
-etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -1915,6 +1910,7 @@ tria.ge
 recordedfuture.com
 staking.consensys.io
 consensys.io
+etherscan.io
 access.app
 stripe.com
 api.bridge.xyz
