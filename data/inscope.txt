@@ -43,8 +43,6 @@ portalapi.*.afterpay.com
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
-*.cash.app
-*.cashstaging.app
 *.chimepayments.com
 *.chime.com
 *.1debit.com
@@ -1351,7 +1349,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cash.app
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
