@@ -1,1 +1,2 @@
-*.nutakupublishing.com
+*.cash.app
+*.cashstaging.app
