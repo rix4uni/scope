@@ -613,6 +613,11 @@ openai.org
 openai.com
 platform.openai.com
 sora.chatgpt.com
+opensea.io
+wallet.opensea.io
+io.opensea
+mcp.opensea.io
+etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -1910,7 +1915,6 @@ tria.ge
 recordedfuture.com
 staking.consensys.io
 consensys.io
-etherscan.io
 access.app
 stripe.com
 api.bridge.xyz
@@ -3791,13 +3795,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl

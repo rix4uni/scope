@@ -393,6 +393,7 @@ bus.*.indrive.com
 *.saitekforum.com
 *.wilife.com
 *.phunware.com
+*.ritzcarlton.com
 *.ritzcarltonyachtcollection.com
 *.marriott.com
 *.atlassian.net

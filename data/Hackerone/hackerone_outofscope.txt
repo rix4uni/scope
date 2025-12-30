@@ -1354,6 +1354,7 @@ shop.matomo.org
 *.saitekforum.com
 *.wilife.com
 *.phunware.com
+*.ritzcarlton.com
 *.ritzcarltonyachtcollection.com
 *.marriott.com
 apps.ritzcarlton.com
