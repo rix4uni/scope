@@ -238,6 +238,8 @@ educate.dell.com
 console.dell.com
 console-test.dell.com
 salesproductivity.dell.com
+*.dell.com
+*.delltechnologies.com
 directly.com
 resources.directly.com
 *.sandbox.directly.com
