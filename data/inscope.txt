@@ -2132,6 +2132,13 @@ vtxapp9p.underarmour.com
 vtxapp9q.underarmour.com
 vtxapp9d.underarmour.com
 vtxappd.underarmour.com
+id.unity.com
+api.unity.com
+cloud.unity.com
+store.unity.com
+pay.unity.com
+player-login.unity.com
+unity3d.com
 upwork.com
 api.upwork.com
 usaa.com
