@@ -194,6 +194,9 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
+cash.app
+*.cash.app
+*.cashstaging.app
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
@@ -907,8 +910,6 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 dashboard.pantheon.io
 devstaging.pcapcloud.com
-pexels.com
-*.pexels.com
 api.pinterest.com
 *.pinterest.com
 microsoftedge.microsoft.com

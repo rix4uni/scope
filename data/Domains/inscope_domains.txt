@@ -149,6 +149,7 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
+cash.app
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
@@ -680,7 +681,6 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 dashboard.pantheon.io
 devstaging.pcapcloud.com
-pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org

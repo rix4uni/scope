@@ -43,6 +43,8 @@ portalapi.*.afterpay.com
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
+*.cash.app
+*.cashstaging.app
 *.chimepayments.com
 *.chime.com
 *.1debit.com
@@ -225,7 +227,6 @@ np.*.lfscnp.com
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
-*.pexels.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
