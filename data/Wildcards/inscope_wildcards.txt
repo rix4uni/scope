@@ -43,8 +43,6 @@ portalapi.*.afterpay.com
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
-*.cash.app
-*.cashstaging.app
 *.chimepayments.com
 *.chime.com
 *.1debit.com

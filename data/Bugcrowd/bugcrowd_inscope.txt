@@ -194,9 +194,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cash.app
-*.cash.app
-*.cashstaging.app
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
