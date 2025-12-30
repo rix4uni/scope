@@ -41,8 +41,6 @@
 hsd1.*.comcast.net
 *business.comcast.com
 *.sys.comcast.net
-*.dell.com
-*.delltechnologies.com
 *.sandbox.directly.com
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
@@ -561,6 +559,8 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
