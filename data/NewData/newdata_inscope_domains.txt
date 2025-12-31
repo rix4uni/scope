@@ -1,2 +1,2 @@
-chainabuse-staging.com
-api.chainabuse-staging.com
+manager.trial.lsk.lightspeed.app
+hq.breadcrumb.com
