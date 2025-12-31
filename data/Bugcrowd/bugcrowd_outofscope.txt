@@ -362,8 +362,6 @@ t.latitudefinancial.com
 p.latitudefinancial.com
 payments.latitudefinancial.com
 payments-api.latitudefinancial.com
-lightspeedhq.com
-pos-admin.trial.lsk.lightspeed.app
 x-series-support.lightspeedhq.com
 vendhq.force.com
 vendimageuploadcdn.global.ssl.fastly.net
