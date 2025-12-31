@@ -1189,6 +1189,8 @@ rentals.tripadvisor.com
 marlo.ext.tripadvisor.com
 *.bokundemo.com
 *.bokuntest.com
+chainabuse-staging.com
+api.chainabuse-staging.com
 20min.ch
 coral.20min.ch
 cm.20min.ch
