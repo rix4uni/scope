@@ -624,6 +624,10 @@ library.simplisafe.com
 livechat.simplisafe.com
 press.simplisafe.com
 support.simplisafe.com
+*skybroadband.com
+*skybet.com
+*skynewsarabia.com
+*skynews.com.au
 skyscanner.net
 community.sophos.com
 sophos.atlassian.net

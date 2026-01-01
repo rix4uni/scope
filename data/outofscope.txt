@@ -129,6 +129,10 @@ auth.*.latitudefinancial.com
 *.realtor.com
 *.spacely.com.au
 *.flatmates.com.au
+*skybroadband.com
+*skybet.com
+*skynewsarabia.com
+*skynews.com.au
 *.afterpay.com
 *.cash.me
 *.tidal.com
