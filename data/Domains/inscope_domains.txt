@@ -3508,9 +3508,6 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 aikidosecurity.aikido
 app.aikido.dev
-myaccount.ad.nl
-webwinkel.ad.nl
-ad.nl
 politico.eu
 adtechnology.axelspringer.com
 bild.de
@@ -3791,13 +3788,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
