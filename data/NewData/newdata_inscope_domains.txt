@@ -1,5 +1,7 @@
-n8n-staging.k8s.dm.gg
-n8n.pub.k8s.dm.gg
-airflow-mcp.data.dailymotion.com
-bigquery-mcp.data.dailymotion.com
-mcp.datadoghq.eu
+7671800.bitstamp.net
+7671800.team.bitstamp.net
+16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
+domainconnect.bitstamp.net
+autodiscover.bitstamp.net
+bounces.bitstamp.net
+em1198.bitstamp.net
