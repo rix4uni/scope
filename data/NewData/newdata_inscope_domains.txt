@@ -1,2 +1,2 @@
-manager.trial.lsk.lightspeed.app
-hq.breadcrumb.com
+aikidosecurity.aikido
+app.aikido.dev
