@@ -66,9 +66,6 @@ portalapi.*.afterpay.com
 *.classdojo.co.uk
 *.doj.io
 *.dojo.me
-*qpp.cms.gov
-*eua.cms.gov
-*nsa-idr.cms.gov
 *.xfinity.com
 *.comcast.com
 *.xcal.tv

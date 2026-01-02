@@ -66,9 +66,6 @@ portalapi.*.afterpay.com
 *.classdojo.co.uk
 *.doj.io
 *.dojo.me
-*qpp.cms.gov
-*eua.cms.gov
-*nsa-idr.cms.gov
 *.xfinity.com
 *.comcast.com
 *.xcal.tv
@@ -1387,8 +1384,6 @@ api.cloudinary.com
 res.cloudinary.com
 mediaflows.cloudinary.com
 dimensions.cloudinary.com
-idm.cms.gov
-csscoperations.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 coindesk.com
