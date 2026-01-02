@@ -1,1 +1,1 @@
-*.pexels.com
+*.api.verily.com

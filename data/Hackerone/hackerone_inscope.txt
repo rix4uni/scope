@@ -87,6 +87,7 @@ thebrowser.company
 *.verily.com
 helix.verily.com
 verily.com
+*.api.verily.com
 *.verilyme.com
 console-stage.neon.build
 console.neon.tech

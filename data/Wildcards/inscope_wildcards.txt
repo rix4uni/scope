@@ -345,6 +345,7 @@ sip.*.twilio.com
 *.projectbaseline.com
 *.signalpath.com
 *.verily.com
+*.api.verily.com
 *.verilyme.com
 *.varonis.com
 *.varonis.io
