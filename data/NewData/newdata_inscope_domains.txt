@@ -1,16 +1,1 @@
-cas.tomorrowland.com
-belgium.tomorrowland.com
-brasil.tomorrowland.com
-globaljourney.tomorrowland.com
-my.tomorrowland.com
-sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
-tlbe.prod.tomorrowland.com
-tlbr.prod.tomorrowland.com
-tlfr.prod.tomorrowland.com
-winter.tomorrowland.com
-winterpackages.tomorrowland.com
-tomorrowland.com
-store.tomorrowland.com
-brasil-store.tomorrowland.com
-components.stag.tomorrowland.com
-components.tomorrowland.com
+consensus2024.sandbox.events.coindesk.com
