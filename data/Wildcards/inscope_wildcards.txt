@@ -1069,6 +1069,10 @@ cf.*.aws.indriverapp
 *.sbb.ch
 *.sqills.com
 *.sqills.team
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
 *.trouw.nl
 *.truelayer.cloud
 *.truelayer.com
