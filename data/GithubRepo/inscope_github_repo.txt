@@ -37,9 +37,9 @@ https://github.com/mattermost/mattermost-plugin-mscalendar
 https://github.com/mattermost/mattermost-plugin-msteams-meetings
 https://github.com/mattermost/mattermost-plugin-confluence
 https://github.com/mattermost/mattermost-plugin-msteams
+https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport
 https://github.com/pinterest
-https://github.com/electroneum/electroneum-sc
 https://github.com/tempus-ex
 https://github.com/transferwise
 https://github.com/circlefin/aptos-cctp

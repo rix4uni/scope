@@ -1,3 +1,1 @@
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.octopus.com

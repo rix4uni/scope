@@ -202,6 +202,7 @@ np.*.lfscnp.com
 *.nu.com.mx
 *.nu.com.co
 *.nuinvest.com.br
+*.octopus.com
 *.openai.org
 *.openai.com
 *.opera.software
@@ -1943,8 +1944,6 @@ skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
-blockexplorer.electroneum.com
-testnet-blockexplorer.electroneum.com
 snapnames.com
 namejet.com
 sophos.com
