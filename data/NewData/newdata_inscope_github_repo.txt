@@ -1,1 +1,1 @@
-https://github.com/electroneum/electroneum-sc
+https://github.com/OctopusDeploy

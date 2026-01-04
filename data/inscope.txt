@@ -202,6 +202,7 @@ np.*.lfscnp.com
 *.nu.com.mx
 *.nu.com.co
 *.nuinvest.com.br
+*.octopus.com
 *.openai.org
 *.openai.com
 *.opera.software
@@ -972,6 +973,7 @@ cf.*.aws.indriverapp
 *.vpn.hackerone.net
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
+*.ad.nl
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
@@ -4709,6 +4711,9 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+myaccount.ad.nl
+webwinkel.ad.nl
+ad.nl
 politico.eu
 adtechnology.axelspringer.com
 bild.de

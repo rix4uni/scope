@@ -81,6 +81,7 @@ auth.*.latitudefinancial.com
 *.lululemon.me
 *.nuinternational.com
 *.nat-a.nubank.com.br
+*.octopus.app
 *.okta.com
 *.trexcloud.com
 *.onetrust.com

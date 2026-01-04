@@ -202,6 +202,7 @@ np.*.lfscnp.com
 *.nu.com.mx
 *.nu.com.co
 *.nuinvest.com.br
+*.octopus.com
 *.openai.org
 *.openai.com
 *.opera.software
@@ -972,6 +973,7 @@ cf.*.aws.indriverapp
 *.vpn.hackerone.net
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
+*.ad.nl
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
