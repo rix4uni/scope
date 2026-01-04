@@ -1,2 +1,1 @@
-*.gov.bugcrowd.net
-*.bugcrowd.com
+*.statuspage.io

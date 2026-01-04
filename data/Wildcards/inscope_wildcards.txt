@@ -275,6 +275,7 @@ np.*.lfscnp.com
 *.services.repostnetwork.com
 *.square.com
 *.squareup.com
+*.statuspage.io
 *.api.t-mobile.com
 *.metrobyt-mobile.com
 *.t-mobile.com
