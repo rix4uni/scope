@@ -1,2 +1,2 @@
-aikidosecurity.aikido
-app.aikido.dev
+blockexplorer.electroneum.com
+testnet-blockexplorer.electroneum.com

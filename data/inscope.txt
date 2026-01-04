@@ -1941,6 +1941,8 @@ skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
+blockexplorer.electroneum.com
+testnet-blockexplorer.electroneum.com
 snapnames.com
 namejet.com
 sophos.com
