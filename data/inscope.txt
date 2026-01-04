@@ -70,6 +70,8 @@ portalapi.*.afterpay.com
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
+*.dell.com
+*.delltechnologies.com
 *.sandbox.directly.com
 casino.*.betmgm.com
 *.epam.com
@@ -1375,6 +1377,7 @@ coindesk.com
 business.comcast.com
 xfinity.com
 consensus2024.sandbox.events.coindesk.com
+console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
 docs.eazybi.com

@@ -228,6 +228,11 @@ hsd1.*.comcast.net
 admin.selectwifi.xfinity.com
 harvard.xfinity.com
 comcastbiz.net
+console.delltechnologies.com
+educate.dell.com
+console.dell.com
+console-test.dell.com
+salesproductivity.dell.com
 *.dell.com
 *.delltechnologies.com
 directly.com

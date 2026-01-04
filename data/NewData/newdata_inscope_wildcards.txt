@@ -1,1 +1,2 @@
-*.statuspage.io
+*.dell.com
+*.delltechnologies.com
