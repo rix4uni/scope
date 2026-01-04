@@ -270,6 +270,7 @@ coindesk.com
 *.sys.comcast.net
 business.comcast.com
 xfinity.com
+consensus2024.sandbox.events.coindesk.com
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com
