@@ -202,7 +202,6 @@ np.*.lfscnp.com
 *.nu.com.mx
 *.nu.com.co
 *.nuinvest.com.br
-*.octopus.com
 *.openai.org
 *.openai.com
 *.opera.software
