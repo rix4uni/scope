@@ -1070,6 +1070,9 @@ cf.*.aws.indriverapp
 *.sqills.com
 *.sqills.team
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net
