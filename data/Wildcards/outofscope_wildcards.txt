@@ -34,7 +34,6 @@
 *.efx.bitso.com
 *.test.bolt.eu
 *.test.taxify.eu
-*.freshdesk.com
 *.bullish.com
 *.cisco.com
 *.hfc.comcastbusiness.net
@@ -75,6 +74,7 @@ auth.*.latitudefinancial.com
 *.limeinternal.com
 *.lime.bike
 *.filestack.com
+*.freshdesk.com
 *.blstr.xyz
 *.blstr.co
 *.lululemon.cn

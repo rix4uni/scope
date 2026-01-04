@@ -172,14 +172,6 @@ taxify.eu
 *.taxify.eu
 bolt.eu
 *.bolt.eu
-docs.bugcrowd.com
-bugcrowd.com
-tracker.bugcrowd.com
-api.bugcrowd.com
-gov.bugcrowd.net
-*.gov.bugcrowd.net
-identity.bugcrowd.com
-*.bugcrowd.com
 bullish.com
 investor.bullish.com
 simnext.bullish-test.com
@@ -270,6 +262,7 @@ coindesk.com
 *.sys.comcast.net
 business.comcast.com
 xfinity.com
+consensus2024.sandbox.events.coindesk.com
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com

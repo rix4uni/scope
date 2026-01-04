@@ -134,12 +134,6 @@ api.blockchain.info
 ws.blockchain.info
 taxify.eu
 bolt.eu
-docs.bugcrowd.com
-bugcrowd.com
-tracker.bugcrowd.com
-api.bugcrowd.com
-gov.bugcrowd.net
-identity.bugcrowd.com
 bullish.com
 investor.bullish.com
 simnext.bullish-test.com
@@ -198,6 +192,7 @@ adhoc-bugcrowd-studio.cdn-code.org
 coindesk.com
 business.comcast.com
 xfinity.com
+consensus2024.sandbox.events.coindesk.com
 console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
