@@ -270,6 +270,7 @@ coindesk.com
 *.sys.comcast.net
 business.comcast.com
 xfinity.com
+consensus2024.sandbox.events.coindesk.com
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com
@@ -1053,8 +1054,6 @@ squareup.com
 *.squareup.com
 square.online
 weebly.com
-manage.statuspage.io
-*.statuspage.io
 account.t-mobile.com
 metrobyt-mobile.com
 sprint.com
