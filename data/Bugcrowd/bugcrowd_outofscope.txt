@@ -182,6 +182,18 @@ perps-test.bitstamp.net
 *.test.bolt.eu
 *.test.taxify.eu
 business-old.bolt.eu
+*.freshdesk.com
+blog.bugcrowd.com
+researcherdocs.bugcrowd.com
+pages.bugcrowd.com
+forum.bugcrowd.com
+email.bugcrowd.com
+email.forum.bugcrowd.com
+go.bugcrowd.com
+events.bugcrowd.com
+assetinventory.bugcrowd.com
+community.bugcrowd.com
+trust.bugcrowd.com
 *.bullish.com
 simnext.bullish-test.com
 cwingsfe.mafrservices.com
@@ -365,7 +377,6 @@ li.me
 filestack.com
 *.filestack.com
 freshdesk.com
-*.freshdesk.com
 blstr.xyz
 *.blstr.xyz
 blstr.co

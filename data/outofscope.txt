@@ -34,6 +34,7 @@
 *.efx.bitso.com
 *.test.bolt.eu
 *.test.taxify.eu
+*.freshdesk.com
 *.bullish.com
 *.cisco.com
 *.hfc.comcastbusiness.net
@@ -74,7 +75,6 @@ auth.*.latitudefinancial.com
 *.limeinternal.com
 *.lime.bike
 *.filestack.com
-*.freshdesk.com
 *.blstr.xyz
 *.blstr.co
 *.lululemon.cn
@@ -792,6 +792,17 @@ bitsohelp.zendesk.com
 support.bitso.com
 perps-test.bitstamp.net
 business-old.bolt.eu
+blog.bugcrowd.com
+researcherdocs.bugcrowd.com
+pages.bugcrowd.com
+forum.bugcrowd.com
+email.bugcrowd.com
+email.forum.bugcrowd.com
+go.bugcrowd.com
+events.bugcrowd.com
+assetinventory.bugcrowd.com
+community.bugcrowd.com
+trust.bugcrowd.com
 simnext.bullish-test.com
 cwingsfe.mafrservices.com
 subs.foreignaffairs.com

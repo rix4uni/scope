@@ -1,4 +1,2 @@
-*.weareone.world
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
+*.gov.bugcrowd.net
+*.bugcrowd.com
