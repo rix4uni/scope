@@ -70,8 +70,6 @@ portalapi.*.afterpay.com
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
-*.dell.com
-*.delltechnologies.com
 *.sandbox.directly.com
 casino.*.betmgm.com
 *.epam.com
