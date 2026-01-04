@@ -1,2 +1,1 @@
-*.dell.com
-*.delltechnologies.com
+*.octopus.com
