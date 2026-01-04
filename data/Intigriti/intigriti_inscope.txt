@@ -1,6 +1,3 @@
-marketplace.visualstudio.com
-aikidosecurity.aikido
-app.aikido.dev
 github.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl

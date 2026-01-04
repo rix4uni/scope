@@ -1,2 +1,3 @@
 blockexplorer.electroneum.com
 testnet-blockexplorer.electroneum.com
+chat.x.com

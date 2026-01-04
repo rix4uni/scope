@@ -763,6 +763,8 @@ skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
+blockexplorer.electroneum.com
+testnet-blockexplorer.electroneum.com
 snapnames.com
 namejet.com
 sophos.com
@@ -3438,6 +3440,7 @@ docs.gitlab.com
 registry.gitlab.com
 ai.x.grokapp
 ai.x.grok
+chat.x.com
 gnip.com
 grok.com
 x.com
@@ -3516,8 +3519,6 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-aikidosecurity.aikido
-app.aikido.dev
 politico.eu
 adtechnology.axelspringer.com
 bild.de
