@@ -459,16 +459,6 @@ wholelifeconversion.com
 *.nuinternational.com
 *.nat-a.nubank.com.br
 international.nubank.com.br
-*.octopus.app
-artifactorysample.octopus.com
-bamboosample.octopus.com
-jenkinssample.octopus.com
-teamcitysample.octopus.com
-nexussample.octopus.com
-myget.octopus.com
-partners.octopus.com
-trust.octopus.com
-i.octopus.com
 1.oktapreview.com
 2.oktapreview.com
 *.okta.com
