@@ -1,1 +1,2 @@
-console.delltechnologies.com
+aikidosecurity.aikido
+app.aikido.dev
