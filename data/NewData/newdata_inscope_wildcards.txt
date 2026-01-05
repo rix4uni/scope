@@ -1,2 +1,1 @@
-*.octopus.com
-*.ad.nl
+*.datacamp.com
