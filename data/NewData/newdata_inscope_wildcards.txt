@@ -1,13 +1,3 @@
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
-*.hellofax.com
-*.docsend.com
-*.reclaim.ai
-*.helloworks.com
-*.hellosign.com
-*.weareone.world
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
