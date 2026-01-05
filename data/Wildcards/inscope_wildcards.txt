@@ -573,6 +573,10 @@ cf.*.aws.indriverapp
 *.exodus.com
 *.exodus.io
 *.k8s.io
+*.gocardless-cicd.io
+*.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.mi.com
@@ -1007,7 +1011,6 @@ cf.*.aws.indriverapp
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com

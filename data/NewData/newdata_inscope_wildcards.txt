@@ -1,3 +1,4 @@
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
+*.gocardless-cicd.io
+*.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
