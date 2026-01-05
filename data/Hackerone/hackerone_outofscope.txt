@@ -1856,7 +1856,6 @@ zomatobook.com
 *.api-core.deriv.com
 *.home.deriv.com
 besquare.deriv.com
-ticktrade.binary.com
 community.deriv.com
 deriv.ae
 deriv.slack.com

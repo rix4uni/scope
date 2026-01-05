@@ -2192,7 +2192,6 @@ bugbounty.runnr.in
 success.zomato.com
 zomatobook.com
 besquare.deriv.com
-ticktrade.binary.com
 community.deriv.com
 deriv.ae
 deriv.slack.com
