@@ -2558,10 +2558,6 @@ tequila.kiwi.com
 *tequila-api.kiwi.com
 *api.tequila.kiwi.com
 try.discourse.org
-nft.io
-canary.nft.io
-platform.enjin.io
-platform.canary.enjin.io
 cdn.plaid.com
 dashboard.plaid.com
 demo.plaid.com

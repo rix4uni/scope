@@ -2777,15 +2777,6 @@ network.helium.com
 ota.helium.com
 whitepaper.helium.com
 zodiac.helium.com
-assets.enjin.io
-cdn.enjin.io
-cdn.nft.io
-docs.enjin.io
-enj.in
-enjin.io
-faucet.canary.enjin.io
-support.enjin.io
-support.nft.io
 advocates.semrush.com
 email.semrush.com
 brave.com
