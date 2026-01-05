@@ -687,13 +687,13 @@ module.thefork.com
 lafourchette.com
 investors.thetradedesk.com
 ask.thetradedesk.com
-openpath.thetradedesk.com
-stationery.thetradedesk.com
-bynder.thetradedesk.com
 thetradedeskedgeacademy.com
+openpass.thetradedesk.com
 unifiedid.com
 euid.eu
 argocd.*.uidapi.com
+stationery.thetradedesk.com
+bynder.thetradedesk.com
 *.skilljarapp.com
 *.smartling.com
 id.thetradedesk.com

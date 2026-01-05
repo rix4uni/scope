@@ -1193,12 +1193,12 @@ module.thefork.com
 lafourchette.com
 investors.thetradedesk.com
 ask.thetradedesk.com
-openpath.thetradedesk.com
-stationery.thetradedesk.com
-bynder.thetradedesk.com
 thetradedeskedgeacademy.com
+openpass.thetradedesk.com
 unifiedid.com
 euid.eu
+stationery.thetradedesk.com
+bynder.thetradedesk.com
 id.thetradedesk.com
 update.adsrvr.org
 openpath-login.thetradedesk.com
