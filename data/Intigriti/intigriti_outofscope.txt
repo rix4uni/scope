@@ -23,6 +23,7 @@ help.capital.com
 relocate-with-us.capital.com
 3cxby.itcapital.io
 texis.itcapital.io
+*.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
 *.digi-mobile.be

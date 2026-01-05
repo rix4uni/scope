@@ -554,6 +554,7 @@ g.*.slackhq.com
 *affiliates.backend-capital.com
 *eduapp.backend-capital.com
 *education.backend-capital.com
+*.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
 *.digi-mobile.be
