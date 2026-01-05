@@ -1413,6 +1413,7 @@ xvlivecams.com
 c21.hk
 century21.hk
 openmage.org
+moobidesk-main.vercel.app
 8x8.wavecell.com
 webmail.wavecell.com
 desktop.jitsi.org
@@ -2196,7 +2197,6 @@ community.deriv.com
 deriv.ae
 deriv.slack.com
 help.deriv.com
-admin.binary.com
 deriv.atlassian.net
 trade.mql5.com
 tradingview.deriv.com

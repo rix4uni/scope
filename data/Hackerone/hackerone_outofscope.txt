@@ -925,6 +925,10 @@ c21.hk
 century21.hk
 openmage.org
 *.bell.ca
+*.mavenlab.com
+*.moobicast.com
+*.moobidesk.com
+moobidesk-main.vercel.app
 *.msteams.8x8.com
 8x8.wavecell.com
 webmail.wavecell.com
@@ -1857,7 +1861,6 @@ community.deriv.com
 deriv.ae
 deriv.slack.com
 help.deriv.com
-admin.binary.com
 deriv.atlassian.net
 trade.mql5.com
 tradingview.deriv.com

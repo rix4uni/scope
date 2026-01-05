@@ -2711,7 +2711,6 @@ winecellar.zomato.com
 gitlab.torproject.org
 torproject.org
 umj4zbqdfcyevlkgqgpq6foxk3z75zzxsbgt5jqmfxofrbrjh3crbnad.onion
-*.binary.com
 *.deriv.cloud
 *.deriv.com
 *.derivws.com
