@@ -1122,6 +1122,7 @@ xvideos.red
 meet.jit.si
 beta.meet.jit.si
 *.jitsi.net
+alpha.jitsi.net
 moderated-pilot.jitsi.net
 *.p8t.us
 *.wavecell.com
