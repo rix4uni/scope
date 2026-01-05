@@ -1010,6 +1010,15 @@ cf.*.aws.indriverapp
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1072,6 +1081,10 @@ cf.*.aws.indriverapp
 *.sbb.ch
 *.sqills.com
 *.sqills.team
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
 *.trouw.nl
 *.truelayer.cloud
 *.truelayer.com
@@ -1088,7 +1101,6 @@ cf.*.aws.indriverapp
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com

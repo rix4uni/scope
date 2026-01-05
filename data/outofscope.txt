@@ -543,6 +543,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -3489,7 +3490,6 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
-station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
