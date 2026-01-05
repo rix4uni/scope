@@ -4135,6 +4135,7 @@ bma.bumble.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
+appdistribution.firebase.google.com
 corp.badoo.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
@@ -4144,7 +4145,6 @@ gateway.geneva-staging.com
 geneva-staging.chat
 go.geneva-staging.com
 hotornot.com
-appdistribution.firebase.google.com
 links.geneva-staging.chat
 links.geneva-staging.com
 m.badoo.com
