@@ -4128,6 +4128,7 @@ io.coda.codaapp
 settings.superhuman.com
 api.geneva-staging.com
 app.geneva-staging.chat
+app.geneva-staging.com
 badoo.com
 badoocdn.com
 bma.badoo.com
