@@ -1,1 +1,10 @@
-dashboard.pantheon.io
+kassa.gamma.be
+kassa.gamma.nl
+kassa.karwei.nl
+mijn.gamma.be
+mijn.gamma.nl
+mijn.karwei.nl
+gamma.be
+gamma.nl
+karwei.nl
+irmg.nl
