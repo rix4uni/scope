@@ -1,4 +1,1 @@
-*.gocardless-cicd.io
-*.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
+*.optus.com.au

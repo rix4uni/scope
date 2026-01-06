@@ -105,6 +105,15 @@ auth.*.latitudefinancial.com
 *.privacypedia.com
 *.esgiq.com
 *.trustweek2021.com
+*.optus.com.au
+*.nsw.optusnet.com.au
+*.vic.optusnet.com.au
+*.wa.optusnet.com.au
+*.sa.optusnet.com.au
+*.qld.optusnet.com.au
+*.nt.optusnet.com.au
+*.act.optusnet.com.au
+*.tas.optusnet.com.au
 *.empower-retirement.com
 *.personalcapital.com
 *.empower.com
