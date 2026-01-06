@@ -320,6 +320,7 @@ sip.*.twilio.com
 *.verisign-grs.com
 *.viatorinc.com
 *.viator.com
+*.volkswagen.de
 *.transferwise.com
 *.wise.com
 *signalservice.comcast.net
