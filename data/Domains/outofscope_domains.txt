@@ -800,6 +800,7 @@ help.ishosting.com
 coalition.nba.com
 dev.stats.2kleague.nba.com
 evergent.com
+leaguepass.wnba.com
 mindhealth.nba.com
 nbafoundation-dev.nba.com
 nbafoundation-qa.nba.com
