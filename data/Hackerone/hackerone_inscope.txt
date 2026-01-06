@@ -2477,6 +2477,7 @@ careers.quora.com
 business.quora.com
 poe.com
 account.brave.com
+api-dashboard.search.brave.com
 basicattentiontoken.org
 brave.com
 creators.basicattentiontoken.org
