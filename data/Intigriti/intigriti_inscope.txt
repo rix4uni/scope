@@ -523,6 +523,17 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+*.veriff.com
+developers.veriff.me
+veriff.com
 api.voiapp.io
 io.voiapp.voi
 mds.voiapp.io

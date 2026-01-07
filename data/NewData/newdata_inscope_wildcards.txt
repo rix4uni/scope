@@ -1,2 +1,1 @@
-*.staging.luno.com
-*staging.luno.com.ng
+*.veriff.com
