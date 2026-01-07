@@ -203,6 +203,7 @@ argocd.*.uidapi.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
+*.zdassets.com
 *.dashapi.com
 *.doorcrawl.com
 *.order.online

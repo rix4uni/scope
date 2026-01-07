@@ -203,6 +203,7 @@ argocd.*.uidapi.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
+*.zdassets.com
 *.dashapi.com
 *.doorcrawl.com
 *.order.online
@@ -1321,6 +1322,8 @@ app.ynab.com
 support.ynab.com
 develop-app.ynab.com
 learn.ynab.com
+support.zendesk.com
+zendesk.com
 zola.com
 homestore.zola.com
 vendor.zola.com
