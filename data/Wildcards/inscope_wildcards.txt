@@ -33,7 +33,6 @@ portalapi.*.afterpay.com
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
-*.bitstamp.net
 *.taxify.eu
 *.bolt.eu
 *.gov.bugcrowd.net

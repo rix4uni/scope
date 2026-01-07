@@ -33,7 +33,6 @@ portalapi.*.afterpay.com
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
-*.bitstamp.net
 *.taxify.eu
 *.bolt.eu
 *.gov.bugcrowd.net
@@ -1319,7 +1318,6 @@ blog.bitpanda.com
 bitso.com
 nvio.mx
 nvio.ar
-bitstamp.net
 blockchain.com
 api.blockchain.info
 ws.blockchain.info
@@ -2295,6 +2293,7 @@ net.bitstamp.app
 nummus.robinhood.com
 status.bitstamp.net
 url6884.team.bitstamp.net
+bitstamp.net
 tradepmr.com
 lb1.iris.cgophobb.com
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com

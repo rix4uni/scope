@@ -178,7 +178,6 @@ quetzal.bitso.com
 login.bitso.io
 bitsohelp.zendesk.com
 support.bitso.com
-perps-test.bitstamp.net
 *.test.bolt.eu
 *.test.taxify.eu
 business-old.bolt.eu

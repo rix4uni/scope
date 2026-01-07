@@ -144,7 +144,6 @@ quetzal.bitso.com
 login.bitso.io
 bitsohelp.zendesk.com
 support.bitso.com
-perps-test.bitstamp.net
 business-old.bolt.eu
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
