@@ -1245,6 +1245,8 @@ community.companyofheroes.com
 segashop.co.uk
 jobs.newegg.com
 sellingpilot.newegg.com
+community.fastly.com
+connect.fastly.com
 metabase.krisp.ai
 sdk-docs.krisp.ai
 url5145.krisp.ai

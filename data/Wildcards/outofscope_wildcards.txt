@@ -314,6 +314,7 @@ bus.*.indrive.com
 *.koho.ca
 *.line-of-credit.koho.ca
 *.neweggbusiness.com
+*.fastly.net
 *.krisp.ai
 *.profitect.com
 *.zebracard.com
