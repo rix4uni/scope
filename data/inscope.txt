@@ -182,6 +182,8 @@ np.*.lfscnp.com
 *.playlist.link
 *.mylink.page
 *.lululemon.com
+*.staging.luno.com
+*staging.luno.com.ng
 *.cloud.mattermost.com
 *.mgm.mo
 *.booking.mgm.mo
@@ -1647,7 +1649,7 @@ lululemon.co.nz
 lululemon.co.uk
 mobileapi.staging.luno.com
 staging.luno.com
-ajax.staging.luno.com
+staging.luno.com.ng
 api.staging.luno.com
 app.staging.luno.com
 crateandbarrel.me

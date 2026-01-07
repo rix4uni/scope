@@ -641,7 +641,9 @@ lululemon.co.nz
 lululemon.co.uk
 mobileapi.staging.luno.com
 staging.luno.com
-ajax.staging.luno.com
+*.staging.luno.com
+staging.luno.com.ng
+*staging.luno.com.ng
 api.staging.luno.com
 app.staging.luno.com
 crateandbarrel.me

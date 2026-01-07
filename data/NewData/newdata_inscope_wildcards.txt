@@ -1,1 +1,2 @@
-*.datacamp.com
+*.staging.luno.com
+*staging.luno.com.ng
