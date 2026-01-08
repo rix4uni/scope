@@ -1,1 +1,1 @@
-*.veriff.com
+*.platacard.mx

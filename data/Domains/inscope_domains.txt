@@ -1161,6 +1161,7 @@ status.bitstamp.net
 url6884.team.bitstamp.net
 bitstamp.net
 tradepmr.com
+dif.tech.plata
 lb1.iris.cgophobb.com
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com

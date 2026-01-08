@@ -336,6 +336,7 @@ sip.*.twilio.com
 *.robinhood.net
 *.say.rocks
 *.saytechnologies.com
+*.platacard.mx
 *.konghq.com
 *.api.konghq.com
 *.edge.gateways.konghq.com
