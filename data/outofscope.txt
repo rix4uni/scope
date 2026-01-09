@@ -367,6 +367,8 @@ bus.*.indrive.com
 *.travelguard.com
 *.fip.finra.org
 *.matic.network
+*.cvs.com
+*.walgreens.com
 *.hcltechsw.com
 *.atp-exodus.com
 *.mtnfootball.com

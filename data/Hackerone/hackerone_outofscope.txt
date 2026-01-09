@@ -989,6 +989,8 @@ grafana.cs.money
 old.cs.money
 or.id
 web.id
+*.cvs.com
+*.walgreens.com
 clientaccess.citrixcloud.navient.com
 filegateway.navient.com
 jobs.navient.com
