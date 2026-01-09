@@ -121,7 +121,6 @@ casino.*.betmgm.com
 *.jora.com
 *.jora.xyz
 *.thuisbezorgd.nl
-*.menulog.com.au
 *.takeaway.com
 *.skipthedishes.com
 *.just-eat.dk
@@ -1067,6 +1066,8 @@ ic3.*.indriverapp.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -1551,7 +1552,6 @@ api-skipthedishes.skipthedishes.com
 i18n.api.just-eat.io
 cw-api.takeaway.com
 thuisbezorgd.nl
-menulog.com.au
 takeaway.com
 skipthedishes.com
 just-eat.dk
@@ -4934,6 +4934,18 @@ mynexuz.be
 liquidfiles.nexuzhealth.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 login.prod.nube.tech
 mathem.se
 oda.com

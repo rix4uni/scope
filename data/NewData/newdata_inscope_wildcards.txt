@@ -1,3 +1,2 @@
-bid.*.aws.indriverapp
-ic3.*.indriverapp.com
-*.aws.indriverapp.com
+*.ninjakiwi.me
+*.nkstatic.com

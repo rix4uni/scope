@@ -478,8 +478,6 @@ i18n.api.just-eat.io
 cw-api.takeaway.com
 thuisbezorgd.nl
 *.thuisbezorgd.nl
-menulog.com.au
-*.menulog.com.au
 takeaway.com
 *.takeaway.com
 skipthedishes.com
