@@ -2124,7 +2124,6 @@ mobileidentity.8x8.com
 api.mobileidentity.8x8.com
 org.jitsi.meet
 supersite.8x8.com
-support-portal.8x8.com
 support.8x8.com
 vm.8x8.com
 8x8.com
