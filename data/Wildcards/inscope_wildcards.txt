@@ -1162,6 +1162,17 @@ ic3.*.indriverapp.com
 *.findaya.co.id
 *.gtflabs.io
 *.gov.sg
+*.jbl.com
+*.harmanaudio.com
+*.harmankardon.com
+*.support.jbl.com
+*.jbl.nl
+*.jbl.ru
+*.uk.jbl.com
+*.uk.harmanaudio.com
+*.de.jbl.com
+*.in.jbl.com
+*.jbl.com.br
 *.easy4ipcloud.com
 *.kdrive.infomaniak.com
 *.kchat.infomaniak.com

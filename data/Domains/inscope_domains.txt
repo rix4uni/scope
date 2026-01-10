@@ -3811,13 +3811,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
@@ -4104,6 +4097,13 @@ mokapos.com
 api.midtrans.com
 app.midtrans.com
 midtrans.com
+bowerswilkins.com
+denon.com
+marantz.com
+polkaudio.com
+definitivetechnology.com
+classeaudio.com
+bostonacoustics.com
 events.onecloud.harman.com
 ota.onecloud.harman.com
 apis.onecloud.harman.com
