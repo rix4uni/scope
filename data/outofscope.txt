@@ -3185,6 +3185,7 @@ demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
 driessen.nl
+docs.google.com
 changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
