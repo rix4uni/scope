@@ -2519,7 +2519,6 @@ demorgen.be
 abonnement.demorgen.be
 registry.digitalocean.com
 driessen.nl
-docs.google.com
 changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
@@ -2571,9 +2570,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be

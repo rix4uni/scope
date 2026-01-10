@@ -140,7 +140,6 @@ app.reclaim.ai
 *.reclaim.ai
 *.helloworks.com
 *.hellosign.com
-docs.google.com
 itscope.com
 *.itscope.com
 itscope.de
@@ -278,10 +277,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
