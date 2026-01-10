@@ -557,7 +557,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
