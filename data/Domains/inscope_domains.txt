@@ -3729,8 +3729,6 @@ mathem.se
 oda.com
 no.kolonial.tienda
 se.mathem.mathem
-associatie.kuleuven.be
-webwsp.aps.kuleuven.be
 app.pdq.com
 portal.pdq.com
 a.simplemdm.com
