@@ -140,7 +140,6 @@ app.reclaim.ai
 *.reclaim.ai
 *.helloworks.com
 *.hellosign.com
-docs.google.com
 itscope.com
 *.itscope.com
 itscope.de

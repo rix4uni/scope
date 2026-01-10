@@ -37,7 +37,6 @@ abonnement.demorgen.be
 *.ondigitalocean.app
 registry.digitalocean.com
 driessen.nl
-docs.google.com
 changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
