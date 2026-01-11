@@ -1,11 +1,1 @@
-*.jbl.com
-*.harmanaudio.com
-*.harmankardon.com
-*.support.jbl.com
-*.jbl.nl
-*.jbl.ru
-*.uk.jbl.com
-*.uk.harmanaudio.com
-*.de.jbl.com
-*.in.jbl.com
-*.jbl.com.br
+*.datacamp.com
