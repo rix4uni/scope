@@ -1,13 +1,5 @@
 https://github.com/Aiven-Open
 https://github.com/Aiven
-https://github.com/auth0/auth0.js
-https://github.com/auth0/lock
-https://github.com/auth0/auth0-spa-js
-https://github.com/auth0/Auth0.Net
-https://github.com/auth0/nextjs-auth0
-https://github.com/auth0/auth0-java
-https://github.com/auth0/react-native-auth0
-https://github.com/auth0/auth0-php
 https://github.com/trustwallet/wallet-core
 https://github.com/afterpay/sdk-ios
 https://github.com/afterpay/sdk-android
@@ -214,6 +206,7 @@ https://github.com/digitalocean/pydo
 https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/digitalocean/go-nbd
 https://github.com/digitalocean/do-markdownit
+https://github.com/grafana
 https://github.com/meshtastic/firmware
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core

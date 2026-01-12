@@ -14,7 +14,6 @@ portalapi.*.afterpay.com
 *.atlassian.net
 *.atlastunnel.com
 *.loom.com
-*.cic-bug-bounty.auth0app.com
 *.twistys.com
 *.brazzers.com
 *.mofos.com
