@@ -11,5 +11,3 @@ samltool.io
 webauthn.me
 openidconnect.net
 jwt.io
-aikidosecurity.aikido
-app.aikido.dev
