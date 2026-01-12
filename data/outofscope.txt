@@ -448,12 +448,6 @@ bus.*.indrive.com
 *.technology.skybettingandgaming.com
 *.us.betfair.com
 online.*.skybingo.com
-*.iovlabs.org
-*.rif.technology
-*.rifos.org
-*.rootstock.io
-*.rootstocklabs.com
-*.rsk.co
 *.azuredatabricks.net
 *.cloud.databricks.com
 *.gcp.databricks.com
@@ -2051,7 +2045,6 @@ theossteam.com
 theossteam.unanet-gc.biz
 uat1.acqcenter.com
 uat2.acqcenter.com
-rescan.io
 signin.costco.com
 consensys-solutions.net
 mesh.xyz
@@ -2567,7 +2560,6 @@ skyrgs.blueprintgaming.com
 support.developer.betfair.com
 technology.skybettingandgaming.com
 betfair.com.co
-bounty-node.rsk.co
 academy.bitmex.com
 affiliates.bitmex.com
 bitmex-org.freshworks.com

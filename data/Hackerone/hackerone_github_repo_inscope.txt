@@ -117,15 +117,6 @@ https://github.com/smartcontractkit/chainlink-solana
 https://github.com/smartcontractkit/external-adapters-js
 https://github.com/smartcontractkit/staking-v0.1
 https://github.com/pixiv/charcoal
-https://github.com/rsksmart/2wp-api
-https://github.com/rsksmart/2wp-app
-https://github.com/rsksmart/bridges-core-sdk
-https://github.com/rsksmart/flyover-sdk
-https://github.com/rsksmart/liquidity-bridge-contract
-https://github.com/rsksmart/liquidity-provider-server
-https://github.com/rsksmart/powpeg-node
-https://github.com/rsksmart/rsk-powhsm
-https://github.com/rsksmart/rskj
 https://github.com/backstage/backstage
 https://github.com/kiwicom
 https://github.com/discourse/discourse

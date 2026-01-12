@@ -1383,7 +1383,6 @@ theossteam.com
 theossteam.unanet-gc.biz
 uat1.acqcenter.com
 uat2.acqcenter.com
-rescan.io
 signin.costco.com
 consensys-solutions.net
 mesh.xyz
@@ -1899,7 +1898,6 @@ skyrgs.blueprintgaming.com
 support.developer.betfair.com
 technology.skybettingandgaming.com
 betfair.com.co
-bounty-node.rsk.co
 academy.bitmex.com
 affiliates.bitmex.com
 bitmex-org.freshworks.com

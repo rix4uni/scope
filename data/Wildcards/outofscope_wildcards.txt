@@ -448,12 +448,6 @@ bus.*.indrive.com
 *.technology.skybettingandgaming.com
 *.us.betfair.com
 online.*.skybingo.com
-*.iovlabs.org
-*.rif.technology
-*.rifos.org
-*.rootstock.io
-*.rootstocklabs.com
-*.rsk.co
 *.azuredatabricks.net
 *.cloud.databricks.com
 *.gcp.databricks.com
