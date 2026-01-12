@@ -47,6 +47,15 @@ trello.com
 blog.aurory.io
 docs.aurory.io
 sentry.io
+auth0.auth0.com
+manage.auth0.com
+accounts.auth0.com
+webtask.io
+phenix.rocks
+sharelock.io
+goextend.io
+support.auth0.com
+community.auth0.com
 seancodyapparel.com
 *.project1service.com
 *.project1content.com

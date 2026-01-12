@@ -14,6 +14,7 @@ portalapi.*.afterpay.com
 *.atlassian.net
 *.atlastunnel.com
 *.loom.com
+*.cic-bug-bounty.auth0app.com
 *.twistys.com
 *.brazzers.com
 *.mofos.com
@@ -1258,6 +1259,19 @@ trello.com
 app.aurory.io
 store.epicgames.com
 testflight.apple.com
+config.cic-bug-bounty.auth0app.com
+manage.cic-bug-bounty.auth0app.com
+marketplace.auth0.com
+dashboard.fga.dev
+api.us1.fga.dev
+customers.us1.fga.dev
+play.fga.dev
+auth0.net
+auth0.com
+samltool.io
+webauthn.me
+openidconnect.net
+jwt.io
 digitalplayground.com
 transangels.com
 probiller.twistys.com

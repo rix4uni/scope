@@ -1,3 +1,8 @@
-https://github.com/AikidoSec/firewall-node
-https://github.com/AikidoSec/firewall-php
-https://github.com/AikidoSec/firewall-python
+https://github.com/auth0/auth0.js
+https://github.com/auth0/lock
+https://github.com/auth0/auth0-spa-js
+https://github.com/auth0/Auth0.Net
+https://github.com/auth0/nextjs-auth0
+https://github.com/auth0/auth0-java
+https://github.com/auth0/react-native-auth0
+https://github.com/auth0/auth0-php
