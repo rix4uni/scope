@@ -314,6 +314,8 @@ no.kolonial.tienda
 se.mathem.mathem
 *.oda.com
 *.prod.nube.tech
+associatie.kuleuven.be
+webwsp.aps.kuleuven.be
 app.pdq.com
 portal.pdq.com
 a.simplemdm.com

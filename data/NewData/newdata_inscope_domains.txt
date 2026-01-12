@@ -11,3 +11,5 @@ samltool.io
 webauthn.me
 openidconnect.net
 jwt.io
+associatie.kuleuven.be
+webwsp.aps.kuleuven.be
