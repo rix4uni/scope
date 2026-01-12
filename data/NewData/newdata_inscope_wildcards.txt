@@ -1,1 +1,2 @@
-*.cic-bug-bounty.auth0app.com
+*.monzo.com
+*.prod-ffs.io
