@@ -4080,6 +4080,7 @@ capturingreality.com
 competitive.fortnite.com
 content-service-live-testing.bfda.live.use1a.on.epicgames.com
 content-service.bfda.live.use1a.on.epicgames.com
+cosmo.fdeb.live.use1a.on.epicgames.com
 create.fortnite.com
 fab.com
 fortnite.com
@@ -4093,6 +4094,9 @@ horizonchaseturbo.com
 nexus.live.ucs.on.epicgames.com
 urc-auth-uefn.live.ucs.on.epicgames.com
 urc-uefn.live.ucs.on.epicgames.com
+fn-commerce-live.eeef.live.use1a.on.epicgames.com
+fngw-svc-ds-livefn.ol.epicgames.net
+fngw-svc-gc-livefn.ol.epicgames.net
 innersloth.kidswebservices.com
 kidswebservices.com
 metahuman.unrealengine.com
@@ -4728,6 +4732,8 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+aikidosecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
