@@ -3816,6 +3816,7 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
+cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
@@ -3845,6 +3846,12 @@ store.tomorrowland.com
 brasil-store.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
