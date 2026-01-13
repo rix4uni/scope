@@ -267,6 +267,16 @@ klarnacdn.net
 portal.openbanking.playground.klarna.com
 pricerunner.com
 xs2a.banking.playground.klarna.com
+*.acesso.io
+*.cadastro.uat.unico.app
+devcenter.unico.io
+*.unico.io
+api.id.unico.app
+backend-sdk.prod.private.unico.run
+identity.acesso.io
+idpay.unico.io
+transactions.transactional.unico.app
+.acesso.io
 pay.wallet.tg
 wallet.tg
 walletbot.me
