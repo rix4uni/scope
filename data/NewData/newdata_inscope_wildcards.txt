@@ -1,1 +1,2 @@
-*.uat.unico.app
+*.monzo.com
+*.prod-ffs.io
