@@ -1068,6 +1068,8 @@ ic3.*.indriverapp.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -4922,6 +4924,18 @@ mynexuz.be
 liquidfiles.nexuzhealth.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 login.prod.nube.tech
 mathem.se
 oda.com
@@ -5541,6 +5555,9 @@ ru-yandex-api-app.vfsevisa.com
 udaanindia.com
 udaanindia.in
 mohesr.vfsglobal.com
+phlonline.vfsevisa.cn
+int2cruises.udaanindia.com
+phlportal.vfsevisa.cn
 vinci.com
 leonard.vinci.com
 castor.vinci.com

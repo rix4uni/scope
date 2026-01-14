@@ -1,1 +1,15 @@
-template.uat.foodstorm.com
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
+phlonline.vfsevisa.cn
+int2cruises.udaanindia.com
+phlportal.vfsevisa.cn
