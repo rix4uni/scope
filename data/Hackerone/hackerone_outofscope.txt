@@ -270,6 +270,7 @@ audiblehub.com
 newsletters.audible.com
 omtrdc.net
 audiblecareers.com
+partners.vectra.ai
 support.lighstpark.com
 *.dev.travix.com
 staging.travix.com
