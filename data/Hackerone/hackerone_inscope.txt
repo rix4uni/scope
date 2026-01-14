@@ -1483,6 +1483,7 @@ zelleservice.my.site.com
 shoppers.instacart.com
 admin.instacart.com
 api.instacart.com
+template.uat.foodstorm.com
 instacart.com
 *.carrentals.com
 dbmanalytics.carrentals.com

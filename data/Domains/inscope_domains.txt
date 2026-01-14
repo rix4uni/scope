@@ -2332,6 +2332,7 @@ zelleservice.my.site.com
 shoppers.instacart.com
 admin.instacart.com
 api.instacart.com
+template.uat.foodstorm.com
 instacart.com
 dbmanalytics.carrentals.com
 faq-lab.cheaptickets.com

@@ -1,7 +1,1 @@
-devcenter.unico.io
-api.id.unico.app
-backend-sdk.prod.private.unico.run
-identity.acesso.io
-idpay.unico.io
-transactions.transactional.unico.app
-.acesso.io
+template.uat.foodstorm.com
