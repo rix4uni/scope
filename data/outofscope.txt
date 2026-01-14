@@ -581,7 +581,6 @@ g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.nexuzhealth.pro
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
@@ -3250,9 +3249,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be
