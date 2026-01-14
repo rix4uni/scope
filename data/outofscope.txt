@@ -576,8 +576,6 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
-*.grafana.com
-*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
@@ -2123,9 +2121,6 @@ support.8x8.com
 vm.8x8.com
 8x8.com
 wavecell.com
-eflow.watsons.com.tw
-form.watsons.com.my
-watsons.com.my
 travel.aig.co.jp
 1008.aig.com
 corebridgefinancial.com
@@ -3546,6 +3541,7 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
+station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

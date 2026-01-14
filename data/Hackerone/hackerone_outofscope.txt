@@ -954,9 +954,6 @@ support.8x8.com
 vm.8x8.com
 8x8.com
 wavecell.com
-eflow.watsons.com.tw
-form.watsons.com.my
-watsons.com.my
 *.corebridgefinancial.com
 *.travelguard.com
 travel.aig.co.jp
