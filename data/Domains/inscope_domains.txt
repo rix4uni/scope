@@ -1380,8 +1380,12 @@ portal.openbanking.playground.klarna.com
 pricerunner.com
 xs2a.banking.playground.klarna.com
 devcenter.unico.io
-api.id.unico.app
-transactions.transactional.unico.app
+sdk-h1.unico.io
+accountshomolog.acesso.io
+backend-sdk.uat.private.unico.run
+crediariohomolog.acesso.io
+identityhomolog.acesso.io
+signhom.acesso.io
 pay.wallet.tg
 wallet.tg
 walletbot.me

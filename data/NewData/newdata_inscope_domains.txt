@@ -1,4 +1,6 @@
-nft.io
-canary.nft.io
-platform.enjin.io
-platform.canary.enjin.io
+sdk-h1.unico.io
+accountshomolog.acesso.io
+backend-sdk.uat.private.unico.run
+crediariohomolog.acesso.io
+identityhomolog.acesso.io
+signhom.acesso.io

@@ -1,1 +1,1 @@
-*.veriff.com
+*.uat.unico.app
