@@ -2861,6 +2861,7 @@ welcome.sqills.com
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
+trust.truelayer.com
 banks.truelayer.com
 careers.truelayer.com
 docs.truelayer.com
