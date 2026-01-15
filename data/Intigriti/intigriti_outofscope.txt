@@ -408,6 +408,7 @@ simscale.com
 booking.*.cloud.sqills
 booking.*.sqills.com
 careers.sqills.com
+welcome.sqills.com
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
