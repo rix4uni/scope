@@ -26,8 +26,6 @@ community.arlo.com
 survey.arlo.com
 research.arlo.com
 investor.arlo.com
-*.arubanetworks.com
-*.hpe.com
 asana.com
 *.integrations.asana.plus
 asana.okta.com
@@ -277,6 +275,8 @@ eu.app.gearset.com
 ap.app.gearest.com
 gearset.com
 carrinho.hostgator.com.br
+*.arubanetworks.com
+*.hpe.com
 myprotein.com.tr
 backend.ibotta.com
 ir.ibotta.com

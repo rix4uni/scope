@@ -1,7 +1,5 @@
 *.aiven.fi
 *.avns.net
-*.arubanetworks.com
-*.hpe.com
 *.integrations.asana.plus
 *.bitbucket.io
 *.project1service.com
@@ -47,6 +45,8 @@ hsd1.*.comcast.net
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
 *.db.fivetran.com
+*.arubanetworks.com
+*.hpe.com
 *dev.ibotta.com
 *.ecomanda.com.br
 *.ecomanda.app

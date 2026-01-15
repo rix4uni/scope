@@ -4,7 +4,6 @@ portalapi.*.afterpay.com
 *.arlo.com
 *.arloxcld.com
 *-prod.arlo.com
-*.central.arubanetworks.com
 *.asana.plus
 *.app.asana.com
 *.asana.biz
@@ -91,6 +90,7 @@ casino.*.betmgm.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it
+*.central.arubanetworks.com
 *.cultbeauty.co.uk
 *.lookfantastic.com
 *.myprotein.com
