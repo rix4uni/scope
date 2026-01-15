@@ -2504,6 +2504,10 @@ smarttrader.deriv.com
 *.fetlife.com
 fetlife.com
 fetlifemail.com
+*.algolia.net
+*.algolianet.com
+dashboard.algolia.com
+algolia.com
 *.grab-sure.com
 *.grab.co
 *.grab.com

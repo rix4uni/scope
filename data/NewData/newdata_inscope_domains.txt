@@ -1,2 +1,2 @@
-co.uk.getmondo
-monzo.com
+dashboard.algolia.com
+algolia.com

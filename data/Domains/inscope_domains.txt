@@ -3102,6 +3102,8 @@ secure-dfadmin.deriv.com
 smarttrader.deriv.com
 fetlife.com
 fetlifemail.com
+dashboard.algolia.com
+algolia.com
 appgallery.huawei.com
 api.grabpay.com
 gamma.grab.co
