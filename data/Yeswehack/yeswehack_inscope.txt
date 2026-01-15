@@ -167,8 +167,6 @@ pci.kindredgroup.com
 itunes.apple.com
 cdn.unicdn.net
 unibet.fr
-git.ffmpeg.org
-ffmpeg.git
 *.gojekapi.com
 api.gojek.co.id
 gofood.co.id
