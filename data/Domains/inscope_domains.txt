@@ -43,6 +43,7 @@ bitbucket.org
 atlassian.com
 atlassian.net
 support.atlassian.com
+mcp.atlassian.com
 marketplace.atlassian.com
 loom.com
 chromewebstore.google.com
@@ -944,6 +945,9 @@ careers.thetradedesk.com
 venturatvos.com
 opensincera.com
 edgeacademy.thetradedesk.com
+api.thousandeyes.com
+app.thousandeyes.com
+thousandeyes.com
 tidal.com
 api.tidal.com
 offer.tidal.com
@@ -1383,9 +1387,14 @@ devcenter.unico.io
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
-crediariohomolog.acesso.io
+blog.unico.io
+idcash-uat.unico.io
 identityhomolog.acesso.io
-signhom.acesso.io
+idpay-uat.unico.io
+issuer.idpay-uat.unico.io
+openfinance.unico.io
+secure.unico.io
+unico.io
 pay.wallet.tg
 wallet.tg
 walletbot.me

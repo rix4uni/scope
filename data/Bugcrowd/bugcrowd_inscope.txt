@@ -56,6 +56,7 @@ atlassian.net
 *.atl-paas.net
 *.atlassian.net
 support.atlassian.com
+mcp.atlassian.com
 marketplace.atlassian.com
 *.atlastunnel.com
 loom.com
@@ -1241,6 +1242,9 @@ careers.thetradedesk.com
 venturatvos.com
 opensincera.com
 edgeacademy.thetradedesk.com
+api.thousandeyes.com
+app.thousandeyes.com
+thousandeyes.com
 tidal.com
 *.tidal.com
 *.wimpmusic.com

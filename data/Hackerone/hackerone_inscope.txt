@@ -273,9 +273,14 @@ devcenter.unico.io
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
-crediariohomolog.acesso.io
+blog.unico.io
+idcash-uat.unico.io
 identityhomolog.acesso.io
-signhom.acesso.io
+idpay-uat.unico.io
+issuer.idpay-uat.unico.io
+openfinance.unico.io
+secure.unico.io
+unico.io
 pay.wallet.tg
 wallet.tg
 walletbot.me
