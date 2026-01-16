@@ -1772,9 +1772,6 @@ china.airasiago.com
 thailand.airasiago.com
 expediaagents.com
 expediapartnersolutions.com
-api-portal.etoro.com
-etorox.com
-templates.etoro.com
 answers.netlify.com
 docs.netlify.com
 webpop.com

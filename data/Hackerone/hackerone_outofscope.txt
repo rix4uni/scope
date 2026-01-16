@@ -1292,9 +1292,6 @@ china.airasiago.com
 thailand.airasiago.com
 expediaagents.com
 expediapartnersolutions.com
-api-portal.etoro.com
-etorox.com
-templates.etoro.com
 *.netlify.app
 *.netlify.com
 *.netlifycms.org
