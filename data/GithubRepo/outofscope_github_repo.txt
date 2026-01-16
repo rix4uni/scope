@@ -29,3 +29,4 @@ https://github.com/brave/browser-laptop
 https://github.com/brave/link-bubble
 https://github.com/brave/muon
 https://github.com/wordpress-mobile
+https://github.com/ImageMagick/ImageMagick
