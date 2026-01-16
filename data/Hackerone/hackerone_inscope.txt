@@ -270,7 +270,6 @@ xs2a.banking.playground.klarna.com
 *.cadastro.uat.unico.app
 devcenter.unico.io
 *.uat.unico.app
-*.unico.io
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
