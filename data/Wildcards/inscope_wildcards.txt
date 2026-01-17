@@ -71,6 +71,7 @@ portalapi.*.afterpay.com
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
+casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
 *.lab.epam.com
