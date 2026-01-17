@@ -107,10 +107,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-*.monzo.me
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 *.nexuzhealth.pro
