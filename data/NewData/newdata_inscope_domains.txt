@@ -1,3 +1,7 @@
-casino.partycasino.com
-casino.bwin.com
-casino.sportingbet.com
+quintoandar.com.br
+user.quintoandar.com.br
+financeiro.quintoandar.com.br
+apigw.prod.quintoandar.com.br
+finance.quintoandar.com.br
+trato-feito-api.quintoandar.com.br
+proprietario.quintoandar.com.br
