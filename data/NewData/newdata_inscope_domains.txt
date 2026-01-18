@@ -1,3 +1,4 @@
-casino.partycasino.com
-casino.bwin.com
-casino.sportingbet.com
+acorns.com
+graphql.acorns.com
+gohenry.com
+pixpay.fr
