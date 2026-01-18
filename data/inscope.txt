@@ -1,4 +1,3 @@
-*.acorns.com
 *.afterpay.com
 portalapi.*.afterpay.com
 *.arlo.com
@@ -71,6 +70,7 @@ portalapi.*.afterpay.com
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
+casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
 *.lab.epam.com
@@ -1174,10 +1174,6 @@ ic3.*.indriverapp.com
 *.vidaxl.net
 data-api.coindesk.com
 tools-api.cryptocompare.com
-acorns.com
-graphql.acorns.com
-gohenry.com
-pixpay.fr
 portal.afterpay.com
 afterpay.com
 mobileapi.afterpay.com
@@ -1385,9 +1381,12 @@ library.elementor.com
 elementor.careers
 activitylog.io
 send2.co
-partypoker.com
+casino.partycasino.com
+casino.bwin.com
+casino.sportingbet.com
 ladbrokes.com
 coral.co.uk
+partypoker.com
 galabingo.com
 partycasino.com
 bwin.com
