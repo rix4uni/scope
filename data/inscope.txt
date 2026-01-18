@@ -71,7 +71,6 @@ portalapi.*.afterpay.com
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
-casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
 *.lab.epam.com
@@ -1386,12 +1385,9 @@ library.elementor.com
 elementor.careers
 activitylog.io
 send2.co
-casino.partycasino.com
-casino.bwin.com
-casino.sportingbet.com
+partypoker.com
 ladbrokes.com
 coral.co.uk
-partypoker.com
 galabingo.com
 partycasino.com
 bwin.com
