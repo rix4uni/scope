@@ -211,9 +211,12 @@ library.elementor.com
 elementor.careers
 activitylog.io
 send2.co
-partypoker.com
+casino.partycasino.com
+casino.bwin.com
+casino.sportingbet.com
 ladbrokes.com
 coral.co.uk
+partypoker.com
 galabingo.com
 partycasino.com
 bwin.com
