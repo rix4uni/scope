@@ -850,6 +850,9 @@ theossteam.com
 theossteam.unanet-gc.biz
 uat1.acqcenter.com
 uat2.acqcenter.com
+globalpaymentsinc.com
+globalpayments.com
+remotesupport.heartland.us
 signin.costco.com
 consensys-solutions.net
 mesh.xyz
