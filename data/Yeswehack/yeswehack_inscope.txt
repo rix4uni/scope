@@ -28,6 +28,14 @@ github.com
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
+edge.blablacar
+co.uk
+auth.blablacar
+m.blablacar
+itunes.apple.com
+api.blablalines.com
+daily.blablacar.fr
+blablacardaily.com
 sncf-connect.com
 monidentifiant.sncf
 *.coindcx.com
@@ -44,7 +52,6 @@ cyberghost.app
 api.cyberghostvpn.com
 cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
-co.uk
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
 demarches-simplifiees.fr
@@ -164,7 +171,6 @@ vladcazino.ro
 payment.vladcazino.ro
 pci.kindredgroup.com
 32red.com
-itunes.apple.com
 cdn.unicdn.net
 unibet.fr
 *.gojekapi.com

@@ -4571,6 +4571,8 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+aikidosecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -5061,6 +5063,12 @@ gtw-b2capps.bforbank.com
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
+edge.blablacar
+auth.blablacar
+m.blablacar
+api.blablalines.com
+daily.blablacar.fr
+blablacardaily.com
 sncf-connect.com
 monidentifiant.sncf
 api.coindcx.com
