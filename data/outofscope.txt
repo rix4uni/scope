@@ -1329,6 +1329,7 @@ zola.com
 homestore.zola.com
 vendor.zola.com
 baby.zola.com
+andurilgear.com
 careersatdoordash.com
 consumer-mobile-bff.doordash.com
 doordash.com
