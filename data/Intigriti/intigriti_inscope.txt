@@ -120,10 +120,10 @@ delen.be
 api.digitalocean.com
 cloud.digitalocean.com
 amd.digitalocean.com
-github.com
 marketplace.digitalocean.com
-*.snapshooter.com
 digitalocean.com
+*.snapshooter.com
+github.com
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com

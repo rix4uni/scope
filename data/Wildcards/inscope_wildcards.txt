@@ -553,6 +553,7 @@ ic3.*.indriverapp.com
 *-s.a.exodus.io
 *.exodus.com
 *.exodus.io
+*.grateful.me
 *.k8s.io
 *.gocardless-cicd.io
 *.gocardless.com

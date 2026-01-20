@@ -1212,6 +1212,7 @@ bitcoin-s.a.exodus.io
 *.exodus.io
 exodus.io
 exodus.com
+*.grateful.me
 passkeys.foundation
 wallet.passkeys.foundation
 my.passkeys.network
