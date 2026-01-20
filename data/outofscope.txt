@@ -125,8 +125,6 @@ auth.*.latitudefinancial.com
 *.agent.realcommercial.com.au
 *.email.realcommercial.com.au
 *.mortgagechoice.com.au
-*.proptrack.com
-*.proptrack.com.au
 *.realtair.com
 *.campaignagent.com.au
 *.simpology.com.au
@@ -135,7 +133,9 @@ auth.*.latitudefinancial.com
 *.proptiger.com
 *.makaan.com
 *.easiloan.com
+*.proptrack.com.au
 *.realtor.com
+*.proptrack.com
 *.spacely.com.au
 *.flatmates.com.au
 *skybroadband.com

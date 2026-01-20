@@ -626,8 +626,6 @@ email.property.com.au
 help.property.com.au
 info.property.com.au
 *.mortgagechoice.com.au
-*.proptrack.com
-*.proptrack.com.au
 *.realtair.com
 *.campaignagent.com.au
 *.simpology.com.au
@@ -636,7 +634,9 @@ info.property.com.au
 *.proptiger.com
 *.makaan.com
 *.easiloan.com
+*.proptrack.com.au
 *.realtor.com
+*.proptrack.com
 *.spacely.com.au
 *.flatmates.com.au
 flatmates.com.au
