@@ -2,6 +2,8 @@ https://github.com/oktadev
 https://github.com/transferwise/pipelinewise
 https://github.com/supabase-community
 https://github.com/Netflix/dispatch
+https://github.com/moonpay/devops-challenge
+https://github.com/moonpay/moonpay-demo-integrations
 https://github.com/moonpay/moonpay-sign
 https://github.com/DopplerHQ/awesome-bots
 https://github.com/grindrlabs
