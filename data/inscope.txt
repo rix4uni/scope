@@ -4608,6 +4608,7 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
+challenge-0126.intigriti.io
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -5041,7 +5042,6 @@ alipayhk.com
 antbank.hk
 mysrc.group
 gitlab.isc.org
-gtw-b2capps.bforbank.com
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com

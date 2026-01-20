@@ -22,7 +22,6 @@ alipayhk.com
 antbank.hk
 mysrc.group
 gitlab.isc.org
-gtw-b2capps.bforbank.com
 github.com
 *.bitoasis.net
 bookbeat.com
