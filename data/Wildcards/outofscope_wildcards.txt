@@ -181,6 +181,7 @@ argocd.*.uidapi.com
 *.rc.viator.com
 *.sandbox.viator.com
 *.partner.viator.com
+*.rc.viatorinc.com
 *.web.com
 *.register.com
 *.networksolutions.com

@@ -534,4 +534,3 @@ co.uk.com
 *.vidaxl.io
 *.vidaxl.net
 parcelhubeurope.com
-vidaxlforwarding.com
