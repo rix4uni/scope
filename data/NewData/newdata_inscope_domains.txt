@@ -1,2 +1,14 @@
-aikidosecurity.aikido
-app.aikido.dev
+api.segment.io
+segment.com
+api.sendgrid.com
+api.twilio.com
+app.segment.com
+app.sendgrid.com
+help.twilio.com
+tsock.us1.twilio.com
+twilio.com
+authy.com
+mc.sendgrid.com
+sendgrid.com
+signup.sendgrid.com
+smtp.sendgrid.net
