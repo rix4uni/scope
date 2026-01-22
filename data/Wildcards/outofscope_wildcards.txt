@@ -8,6 +8,17 @@
 *.pabbp.com
 *.contentabc.com
 *.adtng.com
+*.pornhub.com
+*.pronstore.com
+*.redtube.com
+*.redtubepremium.com
+*.pornhubpremium.com
+*.youporn.com
+*.youpornpremium.com
+*.pornmd.com
+*.thumbzilla.com
+*.pornhubapparel.com
+*.pornhub.org
 *.mydirtyhobby.com
 *.cross-promotion.nutaku.net
 *.nutaku.net
@@ -358,6 +369,7 @@ bus.*.indrive.com
 *.travelguard.com
 *.fip.finra.org
 *.matic.network
+*.insight.ly
 *.cvs.com
 *.walgreens.com
 *.hcltechsw.com

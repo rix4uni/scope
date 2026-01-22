@@ -21,6 +21,7 @@ portalapi.*.afterpay.com
 *.seancody.com
 *.digitalplayground.com
 *.transangels.com
+*.tube8.com
 *.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
@@ -1055,6 +1056,8 @@ ic3.*.indriverapp.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
+*.swisspass.ch
+*.sbb.ch
 *.sqills.com
 *.sqills.team
 *.weareone.world
