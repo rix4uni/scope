@@ -1054,8 +1054,6 @@ ic3.*.indriverapp.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
-*.swisspass.ch
-*.sbb.ch
 *.sqills.com
 *.sqills.team
 *.weareone.world
@@ -4860,10 +4858,6 @@ lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
-sbb.ch
-elvetino.ch
-sbbcargo.com
-transsicura.ch
 cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl

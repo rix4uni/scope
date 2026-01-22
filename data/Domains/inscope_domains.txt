@@ -3676,10 +3676,6 @@ lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
-sbb.ch
-elvetino.ch
-sbbcargo.com
-transsicura.ch
 cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl

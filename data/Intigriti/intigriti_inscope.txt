@@ -382,12 +382,6 @@ business.rivian.com
 rivian.com
 *.rivian.com
 basecamp.rivian.com
-*.swisspass.ch
-sbb.ch
-*.sbb.ch
-elvetino.ch
-sbbcargo.com
-transsicura.ch
 cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl

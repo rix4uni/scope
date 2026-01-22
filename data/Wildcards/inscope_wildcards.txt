@@ -1054,8 +1054,6 @@ ic3.*.indriverapp.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
-*.swisspass.ch
-*.sbb.ch
 *.sqills.com
 *.sqills.team
 *.weareone.world
