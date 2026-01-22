@@ -1,5 +1,6 @@
 *.aiven.fi
 *.avns.net
+*.arlo.com
 *.integrations.asana.plus
 *.bitbucket.io
 *.project1service.com
@@ -582,7 +583,6 @@ g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.nexuzhealth.pro
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk

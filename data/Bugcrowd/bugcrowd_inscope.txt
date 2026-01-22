@@ -656,6 +656,9 @@ shiseido.me
 lego.me
 psychobunny.me
 fashion4less.me
+dashboard.magic.link
+auth.magic.link
+api.magic.link
 sharerewards.com
 vtcprodapi.maf.ae
 svchifi.svc
