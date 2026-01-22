@@ -8,17 +8,6 @@
 *.pabbp.com
 *.contentabc.com
 *.adtng.com
-*.pornhub.com
-*.pronstore.com
-*.redtube.com
-*.redtubepremium.com
-*.pornhubpremium.com
-*.youporn.com
-*.youpornpremium.com
-*.pornmd.com
-*.thumbzilla.com
-*.pornhubapparel.com
-*.pornhub.org
 *.mydirtyhobby.com
 *.cross-promotion.nutaku.net
 *.nutaku.net
@@ -583,6 +572,7 @@ g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
+*.monzo.me
 *.nexuzhealth.pro
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
