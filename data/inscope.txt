@@ -3246,8 +3246,6 @@ portal.polygon.technology
 staking-api.polygon.technology
 staking.polygon.technology
 accounts.insightly.com
-app.unbounce.com
-unbounce.com
 crm.na1.insightly.com
 api.insightly.com
 api.na1.insightly.com
