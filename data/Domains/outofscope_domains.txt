@@ -1894,6 +1894,7 @@ console-staging.pingone.com
 console.pingone.com
 desktop.pingone.com
 developer.pingidentity.com
+privilege.ort-one-pingone.com
 test-desktop.pingone.com
 test-sso.connect.pingidentity.com
 uploads-staging.pingone.com

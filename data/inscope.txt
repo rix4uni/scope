@@ -1132,7 +1132,6 @@ ic3.*.indriverapp.com
 *.gofoodmerchant.co.id
 *.grwtrading.com
 *.dropxl.com
-*.wholesalexl.com
 *.gopayapi.com
 *.go-pay.co.id
 *.gaming.gopayapi.com

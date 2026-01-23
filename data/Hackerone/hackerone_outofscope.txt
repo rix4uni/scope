@@ -1470,6 +1470,7 @@ desktop.pingone.com
 *.pingidentity.io
 *.pingidentity.net
 developer.pingidentity.com
+privilege.ort-one-pingone.com
 test-desktop.pingone.com
 test-sso.connect.pingidentity.com
 uploads-staging.pingone.com
