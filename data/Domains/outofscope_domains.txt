@@ -2896,6 +2896,8 @@ view.e.rivian.com
 simscale.com
 careers.sqills.com
 welcome.sqills.com
+elevate.pdm.sqills.team
+api.elevate.pdm.sqills.team
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
