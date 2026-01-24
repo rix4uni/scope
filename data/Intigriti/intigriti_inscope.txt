@@ -271,10 +271,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -306,11 +302,6 @@ se.mathem.mathem
 *.prod.nube.tech
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-app.pdq.com
-portal.pdq.com
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
 hstconboarding.peoplecert.org
 passport.peoplecert.org
 atv.peoplecert.org
