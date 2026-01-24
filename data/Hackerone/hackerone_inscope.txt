@@ -641,8 +641,6 @@ superbet.bet.br
 *.magiceden.io
 *.magiceden.workers.dev
 magiceden.io
-slingshot.app
-slingshot.finance
 *.boozt.com
 *.booztlet.com
 kronor.io

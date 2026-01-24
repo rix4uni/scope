@@ -1665,8 +1665,6 @@ ro.superbet.games
 ro.superbet.sport
 superbet.bet.br
 magiceden.io
-slingshot.app
-slingshot.finance
 kronor.io
 payment-gateway.kronor.io
 my.sheer.com
