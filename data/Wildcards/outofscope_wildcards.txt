@@ -143,6 +143,7 @@ auth.*.latitudefinancial.com
 *skybet.com
 *skynewsarabia.com
 *skynews.com.au
+*safetytraining.sky.it
 *.afterpay.com
 *.cash.me
 *.tidal.com
