@@ -1402,7 +1402,6 @@ kiwi.partner.viator.com
 selector.viator.com
 partnerhelp.viator.com
 *.viator.com
-*.volkswagen.de
 vwfs.de
 vwfs.com
 vwfs.pl
