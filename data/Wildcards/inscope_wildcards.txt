@@ -72,6 +72,17 @@ portalapi.*.afterpay.com
 *.delltechnologies.com
 *.sandbox.directly.com
 casino.*.betmgm.com
+*.epam.com
+*.projects.epam.com
+*.lab.epam.com
+*.opensource.epam.com
+*.emakina.nl
+*.emakina.group
+*.emakina.com
+*.emakina.ch
+*.emakina.fr
+*.emakina.us
+*.emakina.at
 *.etsy.com
 *.financialforce.com
 *.certinia.com
@@ -307,7 +318,6 @@ np.*.lfscnp.com
 *.verisign-grs.com
 *.viatorinc.com
 *.viator.com
-*.volkswagen.de
 *.transferwise.com
 *.wise.com
 *signalservice.comcast.net
