@@ -815,6 +815,9 @@ xbox.com
 recroom.com
 api.rec.net
 devportal.rec.net
+seekcdn.com
+graphql.seek.com
+auth.seek.com
 id.employer.staging.seek.com
 my.employer.staging.seek.com
 ph.employer.staging.seek.com
@@ -3547,6 +3550,16 @@ nz.co.vista.android.movie.mjrtheatres
 stage.landmarkcinemas.com
 userprofile-acc.landmarkcinemas.com
 kinepolis.biz
+app.lansweeper.com
+fb.lansweeper.com
+edge.lansweeper.com
+api.lansweeper.com
+backoffice.lansweeper.com
+lsagentrelay.lansweeper.com
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+lansweeper.com
 libelle.nl
 mobilevikings.be
 api.unleashed.be
