@@ -1,4 +1,7 @@
-epam.com
-projects.epam.com
-lab.epam.com
-opensource.epam.com
+co.uk.getmondo
+monzo.com
+app.pdq.com
+portal.pdq.com
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com

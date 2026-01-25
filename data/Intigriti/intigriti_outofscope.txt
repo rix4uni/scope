@@ -125,6 +125,10 @@ careers.kiwa.com
 qr.kiwa.com
 kiwa.com
 libelle.nl
+*.monzo.me
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 *.nexuzhealth.pro
@@ -369,6 +373,10 @@ testrailapp.ovoenergy.com
 thirdpartyassurance.ovoenergy.com
 tracking.ovo.com
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 personio.de
 personio.slack.com
 statuspage.personio.de

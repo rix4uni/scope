@@ -1,11 +1,2 @@
-*.epam.com
-*.projects.epam.com
-*.lab.epam.com
-*.opensource.epam.com
-*.emakina.nl
-*.emakina.group
-*.emakina.com
-*.emakina.ch
-*.emakina.fr
-*.emakina.us
-*.emakina.at
+*.monzo.com
+*.prod-ffs.io
