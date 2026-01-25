@@ -1,3 +1,5 @@
+canva.com
+api.canva.com
 auth.opera.com
 accounts.opera.com
 flow.opera.com
