@@ -1,10 +1,5 @@
 data-api.coindesk.com
 tools-api.cryptocompare.com
-acorns.com
-*.acorns.com
-graphql.acorns.com
-gohenry.com
-pixpay.fr
 portal.afterpay.com
 afterpay.com
 *.afterpay.com
