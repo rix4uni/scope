@@ -982,6 +982,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1892,6 +1893,7 @@ api-portal.originzero.com.au
 sign.originzero.com.au
 businessportal.origin.com.au
 api-businessportal.origin.com.au
+dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
 api.pinterest.com
@@ -4622,6 +4624,15 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
