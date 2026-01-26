@@ -796,8 +796,6 @@ about.espnbet.com
 campaignmanager.thescore.com
 espnbet.com
 careers.draken.aero
-blog.ishosting.com
-help.ishosting.com
 2kleague-dev.nba.com
 2kleague-qa.nba.com
 2kleague.nba.com
