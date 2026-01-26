@@ -2115,9 +2115,9 @@ support.malwarebytes.com
 service.malwarebytes.com
 binisoft.org
 threatdown.com
+support.threatdown.com
 cloud.malwarebytes.com
 oneview.threatdownstage.com
-support.threatdown.com
 dev-threatdown.com
 my.malwarebytes.com
 oneview.threatdown.com
