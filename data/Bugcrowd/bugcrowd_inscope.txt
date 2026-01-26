@@ -1,5 +1,10 @@
 data-api.coindesk.com
 tools-api.cryptocompare.com
+acorns.com
+*.acorns.com
+graphql.acorns.com
+gohenry.com
+pixpay.fr
 portal.afterpay.com
 afterpay.com
 *.afterpay.com
@@ -930,7 +935,6 @@ api-portal.originzero.com.au
 sign.originzero.com.au
 businessportal.origin.com.au
 api-businessportal.origin.com.au
-dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
 *.pexels.com
