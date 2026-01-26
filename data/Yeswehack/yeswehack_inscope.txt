@@ -99,6 +99,7 @@ wellbeing.deezer.com
 wellbeing.dzcdn.net
 account.deezer.com
 pipe.deezer.com
+ws.deezer.com
 *.vlaanderen.be
 beta.gastwebsite-acm.burgerprofiel.ext-vlaanderen.be
 beta.gastwebsite.burgerprofiel.ext-vlaanderen.be

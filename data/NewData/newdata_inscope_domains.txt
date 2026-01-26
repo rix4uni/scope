@@ -1,4 +1,1 @@
-acorns.com
-graphql.acorns.com
-gohenry.com
-pixpay.fr
+ws.deezer.com
