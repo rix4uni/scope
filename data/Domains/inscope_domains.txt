@@ -708,7 +708,6 @@ api-portal.originzero.com.au
 sign.originzero.com.au
 businessportal.origin.com.au
 api-businessportal.origin.com.au
-dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
 api.pinterest.com
@@ -3550,16 +3549,6 @@ nz.co.vista.android.movie.mjrtheatres
 stage.landmarkcinemas.com
 userprofile-acc.landmarkcinemas.com
 kinepolis.biz
-app.lansweeper.com
-fb.lansweeper.com
-edge.lansweeper.com
-api.lansweeper.com
-backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-lansweeper.com
 libelle.nl
 mobilevikings.be
 api.unleashed.be
