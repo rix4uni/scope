@@ -1409,8 +1409,11 @@ downloads-global.3cx.com
 debian-amd64-netinst-3cx.iso
 apps.microsoft.com
 portal.3cx.com
+api.privy.io
 auth.privy.io
 dashboard.privy.io
+home.privy.io
+recovery.privy.io
 netflix.com
 beacon.netflix.com
 customerevents.netflix.com

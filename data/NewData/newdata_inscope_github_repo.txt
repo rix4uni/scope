@@ -1,8 +1,3 @@
-https://github.com/jenkinsci/ldap-plugin
-https://github.com/jenkinsci/ssh-credentials-plugin
-https://github.com/jenkinsci/plain-credentials-plugin
-https://github.com/jenkinsci/matrix-auth-plugin
-https://github.com/jenkinsci/ssh-agents-plugin
-https://github.com/jenkinsci/git-plugin
-https://github.com/jenkinsci/git-client-plugin
-https://github.com/jenkinsci/workflow-scm-step-plugin
+https://github.com/AikidoSec/firewall-node
+https://github.com/AikidoSec/firewall-php
+https://github.com/AikidoSec/firewall-python
