@@ -183,6 +183,8 @@ portal.gofoodmerchant.co.id
 *.gojek.com
 *.golabs.io
 *.gofoodmerchant.co.id
+*.grwtrading.com
+*.dropxl.com
 *.gopayapi.com
 gopaymerchant.midtrans.com
 mokapos.com

@@ -1,13 +1,3 @@
-*.opera.software
-*.osp.opera.software
-*.opera.technology
-*.sec-tunnel.com
-*.opera.com
-*.opera-mini.net
-*.opera.news
-*.operanewsapp.com
-*.yoyogames.com
-*.apex-football.com
-*.operafootball.com
-*.feednews.com
-*.dailyadvent.com
+*.veriff.com
+*.grwtrading.com
+*.dropxl.com

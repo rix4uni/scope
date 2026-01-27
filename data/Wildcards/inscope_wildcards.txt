@@ -1080,6 +1080,7 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
@@ -1130,6 +1131,8 @@ ic3.*.indriverapp.com
 *.gojek.com
 *.golabs.io
 *.gofoodmerchant.co.id
+*.grwtrading.com
+*.dropxl.com
 *.gopayapi.com
 *.go-pay.co.id
 *.gaming.gopayapi.com

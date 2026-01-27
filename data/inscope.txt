@@ -1080,6 +1080,7 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
@@ -1130,6 +1131,8 @@ ic3.*.indriverapp.com
 *.gojek.com
 *.golabs.io
 *.gofoodmerchant.co.id
+*.grwtrading.com
+*.dropxl.com
 *.gopayapi.com
 *.go-pay.co.id
 *.gaming.gopayapi.com
@@ -4967,6 +4970,16 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+developers.veriff.me
+veriff.com
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com
