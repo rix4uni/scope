@@ -5,6 +5,17 @@
 *.allegrogroup.com
 *.axelspringer.com
 adtechnology.axelspringer.com
+*.info.buhlergroup.com
+*.learnhub.buhlergroup.com
+*.virtualworld-portal.buhlergroup.com
+*.virtualworld.buhlergroup.com
+*.webinars.buhlergroup.com
+bestbuy.buhlergroup.com
+channel.buhlergroup.com
+gitlab.buhler-datascience.ch
+imap.buhlergroup.cn
+pop.buhlergroup.cn
+smtp.buhlergroup.cn
 *affiliates.backend-capital.com
 *eduapp.backend-capital.com
 *education.backend-capital.com
