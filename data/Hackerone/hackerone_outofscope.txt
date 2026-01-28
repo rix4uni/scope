@@ -302,6 +302,7 @@ playground.travix.com
 *.development.travix.com
 *.playground.travix.com
 *.stg.travix.com
+*.tellocast.com
 tilismtechservices.com
 api-3.xverse.app
 api.xverse.app

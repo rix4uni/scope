@@ -271,6 +271,7 @@ db.*.supabase.co
 *.development.travix.com
 *.playground.travix.com
 *.stg.travix.com
+*.tellocast.com
 *.gobrightspeed.net
 *.thebodyshop.com.bh
 *.thebodyshop.com.kw
