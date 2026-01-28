@@ -1,6 +1,6 @@
-api.ryadom.kz
-job.ryadom.kz
-landing.ryadom.kz
-ryadom.kz
-sso.ryadom.kz
-web.ryadom.kz
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
