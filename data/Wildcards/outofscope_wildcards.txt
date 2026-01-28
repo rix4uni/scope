@@ -584,6 +584,7 @@ g.*.slackhq.com
 *.grafana.net
 *.swop.com
 *.configuratoren.nl
+*.cineramabios.nl
 *.monzo.me
 *.nexuzhealth.pro
 *.ec.ovotech.org.uk
