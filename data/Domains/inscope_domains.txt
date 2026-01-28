@@ -1452,6 +1452,7 @@ geocode-beta.bykea.net
 leaflet-map.bykea.net
 maps.bykea.net
 nominatim.bykea.net
+tomoe.bykea.net
 zara.com
 bershka.com
 oysho.com
