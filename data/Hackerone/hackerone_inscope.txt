@@ -658,6 +658,7 @@ portal.au.frontegg.com
 cf.*.aws.indriverapp
 ab-platform-api.eu-east-1.indriverapp.com
 alternativa.film
+api.ryadom.kz
 auroratechaward.com
 bid.*.aws.indriverapp
 blog.indrive.com
@@ -677,6 +678,8 @@ ingest.clairvoyance.indrive.tech
 *.eu-east-1.indriverapp.com
 intercity.indrive.com
 invisionu.education
+job.ryadom.kz
+landing.ryadom.kz
 media.indrive.com
 messenger.eu-east-1.indriverapp.com
 movie.indrive.com
@@ -684,12 +687,15 @@ new-order.eu-east-1.indriverapp.com
 oymyakon.indriver.io
 priority.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
+ryadom.kz
+sso.ryadom.kz
 *.aws.indriverapp.com
 teammate.indriver.io
 truck-api.eu-east-1.indriverapp.com
 url-checker.indrive.com
 volans.tech
 watchdocs.indriverapp.com
+web.ryadom.kz
 wga.volans.tech
 supernovas.indrive.com
 zerobounce.net
