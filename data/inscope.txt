@@ -285,6 +285,12 @@ np.*.lfscnp.com
 *.uscc.com
 *.uscellular.com
 *.assurancewireless.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.prod.uidapi.com
 *.thetradedesk.com
@@ -4297,13 +4303,6 @@ wiki.grab.com
 xtramile.grabpay.com
 moneybird.com
 moneybirdstorage.com
-support.dashlane.com
-api.dashlane.com
-app.dashlane.com
-console.dashlane.com
-dashlane.com
-logs.dashlane.com
-ws1.dashlane.com
 udemy.com
 yourcompany.udemy.com
 business.kayak.com
