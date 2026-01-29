@@ -1188,12 +1188,6 @@ tempus-ex.com
 docs.tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 manager.thefork.com
 secure.thefork.com
 payment.lafourchette.com

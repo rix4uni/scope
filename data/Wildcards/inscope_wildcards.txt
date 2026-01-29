@@ -285,12 +285,6 @@ np.*.lfscnp.com
 *.uscc.com
 *.uscellular.com
 *.assurancewireless.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.prod.uidapi.com
 *.thetradedesk.com

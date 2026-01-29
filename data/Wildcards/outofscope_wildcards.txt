@@ -152,7 +152,6 @@ auth.*.latitudefinancial.com
 *.mobile.uscc.net
 *.mobile.uscc.com
 *.moengage.com
-*.engage.tesla.com
 *.myfourchette.com
 *.lafourchette.rest
 argocd.*.uidapi.com
