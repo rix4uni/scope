@@ -1093,6 +1093,7 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
