@@ -354,7 +354,6 @@ redoxengine.atlassian.net
 redox.slack.com
 sso.redoxengine.com
 *.okg.com
-egress.com
 wisdomtree.com
 wisdomtree.eu
 defenceshare.mod.uk

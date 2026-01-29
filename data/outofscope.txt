@@ -1588,7 +1588,6 @@ dashboard.redoxengine.com
 redoxengine.atlassian.net
 redox.slack.com
 sso.redoxengine.com
-egress.com
 wisdomtree.com
 wisdomtree.eu
 defenceshare.mod.uk
