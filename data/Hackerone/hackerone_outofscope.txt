@@ -171,8 +171,6 @@ contactorcheck.com
 suppliercheck.com
 businesscreditfacts.com
 smallbusiness.experian.com
-*.eightfold.ai
-eightfold.ai
 bol.rwbaird.com
 clientdocs.rwbaird.com
 content.rwbaird.com
