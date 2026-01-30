@@ -115,6 +115,9 @@ casino.*.betmgm.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
+*.intercomassets.com
+*.intercomcdn.com
+*.mobile-messenger.intercom.com
 *.jora.com
 *.jora.xyz
 *.thuisbezorgd.nl
