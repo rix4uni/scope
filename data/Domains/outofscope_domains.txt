@@ -760,6 +760,7 @@ nbafoundation-dev.nba.com
 nbafoundation-qa.nba.com
 nbafoundation.nba.com
 payment.nba.com
+smm.events.nba.com
 stats.2kleague.nba.com
 totalhealth.nba.com
 api.supabase.com
