@@ -1,4 +1,6 @@
-github.com
+marketplace.visualstudio.com
+aikidosecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -120,6 +122,7 @@ amd.digitalocean.com
 marketplace.digitalocean.com
 digitalocean.com
 *.snapshooter.com
+github.com
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
