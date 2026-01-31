@@ -1,7 +1,6 @@
 marketplace.visualstudio.com
 aikidosecurity.aikido
 app.aikido.dev
-github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -123,6 +122,7 @@ amd.digitalocean.com
 marketplace.digitalocean.com
 digitalocean.com
 *.snapshooter.com
+github.com
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
@@ -413,13 +413,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 *.sqills.com
 *.sqills.team
 tempo-team.be
