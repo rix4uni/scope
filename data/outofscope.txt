@@ -2455,6 +2455,7 @@ vacations.marriott.com
 msg-gateway.marriott.com
 travelagents.marriott.com
 learn.acronis.com
+training.acronis.com
 blog.chain.link
 chainlinklabs.com
 create.smartcontract.com
