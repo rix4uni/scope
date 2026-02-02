@@ -2971,12 +2971,6 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 air.com.bitrhymes.bingo
-api.localizestaging.com
-help.localizejs.com
-api.localizejs.com
-app.localizestaging.com
-cdn.localizestaging.com
-localizestaging.com
 bbpress.org
 profiles.wordpress.org
 trac.wordpress.org

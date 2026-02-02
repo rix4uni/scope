@@ -2408,12 +2408,6 @@ social-trading.exness.com
 *.scopely.io
 *.withbuddies.com
 air.com.bitrhymes.bingo
-api.localizestaging.com
-help.localizejs.com
-api.localizejs.com
-app.localizestaging.com
-cdn.localizestaging.com
-localizestaging.com
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
