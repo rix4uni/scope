@@ -274,6 +274,17 @@ payoutapi.maya.ph
 op.paymaya.com
 connect.paymaya.com
 paymayabiller-prod.paymaya.com
+mediamarkt.de
+saturn.de
+mediamarkt.com.tr
+mediaworld.it
+mediamarkt.pl
+mediamarkt.ch
+mediamarkt.es
+mediamarkt.nl
+mediamarkt.be
+mediamarkt.hu
+mediamarkt.at
 bug-bounty-dfm.mementoblockchain.com
 api.dextf.com
 monespacesante.fr
