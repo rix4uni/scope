@@ -1,11 +1,6 @@
-mediamarkt.de
-saturn.de
-mediamarkt.com.tr
-mediaworld.it
-mediamarkt.pl
-mediamarkt.ch
-mediamarkt.es
-mediamarkt.nl
-mediamarkt.be
-mediamarkt.hu
-mediamarkt.at
+apix.vodafone.om
+om.vodafone.mva
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
+vodafone.om
