@@ -348,7 +348,6 @@ bus.*.indrive.com
 *.mtnfootball.com
 *.acordocerto.com.br
 *.sky.com.mx
-*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com

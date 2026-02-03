@@ -1204,7 +1204,6 @@ projectone.att.com
 rcloud.social
 thedirectvmarketingzone.com
 wf-projectone.att.com
-*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 community.dynatrace.com

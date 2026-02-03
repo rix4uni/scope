@@ -1,6 +1,7 @@
 marketplace.visualstudio.com
 aikidosecurity.aikido
 app.aikido.dev
+github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -122,7 +123,6 @@ amd.digitalocean.com
 marketplace.digitalocean.com
 digitalocean.com
 *.snapshooter.com
-github.com
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
@@ -619,6 +619,12 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
@@ -713,17 +719,6 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
-alchemy.veriff.com
-api.flamingo-eu.veriff.com
-api.us.veriff.me
-api.veriff.me
-louvre.veriff.me
-magic.veriff.me
-station.veriff.com
-stationapi.veriff.com
-*.veriff.com
-developers.veriff.me
-veriff.com
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com

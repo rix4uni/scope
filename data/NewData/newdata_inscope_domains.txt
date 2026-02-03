@@ -1,7 +1,6 @@
-support.dashlane.com
-api.dashlane.com
-app.dashlane.com
-console.dashlane.com
-dashlane.com
-logs.dashlane.com
-ws1.dashlane.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
