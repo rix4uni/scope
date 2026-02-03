@@ -429,8 +429,6 @@ booking.*.cloud.sqills
 booking.*.sqills.com
 careers.sqills.com
 welcome.sqills.com
-elevate.pdm.sqills.team
-api.elevate.pdm.sqills.team
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com

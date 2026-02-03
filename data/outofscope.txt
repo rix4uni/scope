@@ -1475,13 +1475,6 @@ dev.travix.com
 development.travix.com
 playground.travix.com
 tilismtechservices.com
-api-3.xverse.app
-api.xverse.app
-inscribe.xverse.app
-ord.xverse.app
-pool.xverse.app
-sponsor.xverse.app
-xverse.app
 support.wonder.com
 support.blueapron.com
 support.grubhub.com
@@ -3518,8 +3511,6 @@ view.e.rivian.com
 simscale.com
 careers.sqills.com
 welcome.sqills.com
-elevate.pdm.sqills.team
-api.elevate.pdm.sqills.team
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl

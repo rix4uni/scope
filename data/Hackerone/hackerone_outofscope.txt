@@ -227,13 +227,6 @@ playground.travix.com
 *.stg.travix.com
 *.tellocast.com
 tilismtechservices.com
-api-3.xverse.app
-api.xverse.app
-inscribe.xverse.app
-ord.xverse.app
-pool.xverse.app
-sponsor.xverse.app
-xverse.app
 support.wonder.com
 support.blueapron.com
 support.grubhub.com

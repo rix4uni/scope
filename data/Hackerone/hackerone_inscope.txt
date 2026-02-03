@@ -411,7 +411,6 @@ zarahome.cn
 pullandbear.cn
 massimodutti.cn
 static.zara.com
-chrome.google.com
 *.visamiddleeast.com
 aw.visa.com
 bb.visa.com
@@ -2877,6 +2876,7 @@ commerce.coinbase.com
 hackerone.app.box.com
 docs.custody.coinbase.com
 base.org
+chrome.google.com
 institutional.coinbase.com
 international.coinbase.com
 nft.coinbase.com
