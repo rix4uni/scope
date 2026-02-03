@@ -2553,6 +2553,14 @@ wiki.grab.com
 xtramile.grabpay.com
 moneybird.com
 moneybirdstorage.com
+support.dashlane.com
+chrome.google.com
+api.dashlane.com
+app.dashlane.com
+console.dashlane.com
+dashlane.com
+logs.dashlane.com
+ws1.dashlane.com
 udemy.com
 yourcompany.udemy.com
 *.kayak.com
@@ -2876,7 +2884,6 @@ commerce.coinbase.com
 hackerone.app.box.com
 docs.custody.coinbase.com
 base.org
-chrome.google.com
 institutional.coinbase.com
 international.coinbase.com
 nft.coinbase.com
