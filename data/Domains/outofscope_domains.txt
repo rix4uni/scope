@@ -891,6 +891,7 @@ blog.magiceden.io
 cdn.magiceden.dev
 eng.magiceden.dev
 eng.magiceden.io
+auth.magiceden.io
 ord-mirror.magiceden.dev
 img-cdn.magiceden.dev
 mainframe.magiceden.io
