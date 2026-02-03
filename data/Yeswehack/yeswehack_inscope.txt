@@ -536,7 +536,6 @@ sign.zivver.com
 owncloud.org
 toom.de
 api.toom.de
-prozentoomat.toom.de
 co.uk.com
 *.vidaxl.org
 *.vidaxl.io

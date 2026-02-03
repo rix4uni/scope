@@ -4005,8 +4005,6 @@ fortress.com.hk
 0.fortress.com.hk
 api.fortress.com.hk
 medias.fortress.com.hk
-moneyback.com.hk
-mapi.moneyback.com.hk
 watsons.com.tr
 app.watsons.com.tr
 api.watsons.com.tr
@@ -4033,6 +4031,8 @@ api.drogas.lt
 media.drogas.lv
 campaign.drogas.lt
 campaign.drogas.lv
+moneyback.com.hk
+mapi.moneyback.com.hk
 authentication.wolt.com
 corporate.wolt.com
 drive.wolt.com
@@ -4494,6 +4494,5 @@ sign.zivver.com
 owncloud.org
 toom.de
 api.toom.de
-prozentoomat.toom.de
 co.uk.com
 parcelhubeurope.com

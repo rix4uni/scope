@@ -831,9 +831,6 @@ fortress.com.hk
 api.fortress.com.hk
 medias.fortress.com.hk
 *.fortress.com.hk
-moneyback.com.hk
-mapi.moneyback.com.hk
-*.moneyback.com.hk
 watsons.com.tr
 app.watsons.com.tr
 api.watsons.com.tr
@@ -863,6 +860,9 @@ campaign.drogas.lt
 campaign.drogas.lv
 *.drogas.lt
 *.drogas.lv
+moneyback.com.hk
+mapi.moneyback.com.hk
+*.moneyback.com.hk
 authentication.wolt.com
 corporate.wolt.com
 drive.wolt.com

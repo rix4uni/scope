@@ -1095,17 +1095,6 @@ request-headers-no-proxy.moonpay.com
 request-headers.moonpay.com
 storefront.hypermint.com
 support.moonpay.com
-admit-it-win.cadbury.co.uk
-game.milka.bg
-halls.jp
-insights.mondelezinternationalfoodservice.com
-milka.es
-milka.it
-opaviahokej.cz
-oreoplayful.com
-snackworks.th12ty.com
-thebournvitaquiz.in
-zasasiadowani.pl
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
 enterpriseregistration.apnic.net
