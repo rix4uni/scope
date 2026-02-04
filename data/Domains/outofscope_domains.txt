@@ -41,6 +41,7 @@ trello.com
 blog.aurory.io
 docs.aurory.io
 sentry.io
+arbiscan.io
 auth0.auth0.com
 manage.auth0.com
 accounts.auth0.com
