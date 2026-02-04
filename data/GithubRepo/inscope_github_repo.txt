@@ -81,7 +81,6 @@ https://github.com/Chia-Network/chiavdf
 https://github.com/Chia-Network/clvm_rs
 https://github.com/netflix/consoleme
 https://github.com/netflix/weep
-https://github.com/buildonspark/lrc20
 https://github.com/buildonspark/spark
 https://github.com/lightsparkdev/go-sdk
 https://github.com/lightsparkdev/lightspark-rs

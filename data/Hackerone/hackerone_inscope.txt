@@ -365,7 +365,6 @@ app.uma.money
 api.lightspark.com
 app.lightspark.com
 link.uma.me
-lrc20.lightspark.com
 *.bybit.com
 *.bybit.eu
 *.bybit.tr

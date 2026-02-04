@@ -1384,7 +1384,6 @@ app.uma.money
 api.lightspark.com
 app.lightspark.com
 link.uma.me
-lrc20.lightspark.com
 testnet.bybit.eu
 bybit.com
 byreal.io
