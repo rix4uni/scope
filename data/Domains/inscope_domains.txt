@@ -1344,6 +1344,8 @@ unico.io
 pay.wallet.tg
 wallet.tg
 walletbot.me
+wallettg.com
+wallettg.net
 api.vault.chiatest.net
 vault.chiatest.net
 wordpress.org
