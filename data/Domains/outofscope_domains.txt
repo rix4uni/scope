@@ -173,6 +173,7 @@ community-staging.meraki.com
 meraki.cisco.com
 documentation.meraki.com
 wien.gv.at
+shop.classdojo.com
 learn.clickhouse.com
 support.cloudinary.com
 wiki.cloudinary.com
