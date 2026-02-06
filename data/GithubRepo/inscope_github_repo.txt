@@ -245,7 +245,6 @@ https://github.com/bigbluebutton/bbb-presentation-video
 https://github.com/bigbluebutton/bbb-playback
 https://github.com/tchapgouv
 https://github.com/expressvpn/lightway
-https://github.com/ImageMagick/ImageMagick
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/jenkinsci/jenkins
 https://github.com/jenkinsci/stapler
