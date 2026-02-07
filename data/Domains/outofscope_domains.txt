@@ -1294,14 +1294,6 @@ try.tenna.com
 us-central-1.r4.abc.expertconnect.support
 us-central-1.r4.xyz.expertconnect.support
 warehouse.tenna.com
-account-reader.tide.co
-admin.tide.co
-community.tide.co
-domains.tide.co
-mi.tide.co
-portaldesign.tide.co
-status.tide.co
-tidecharity.org.uk
 ceros.leafnow.com
 adpass.bisimulations.com
 bluechannel.bisimulations.com
@@ -2603,8 +2595,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
-store.ninjakiwi.com
-support.ninjakiwi.com
 pol-dev.ovotech.org.uk
 prod.tardis.ovotech.org.uk
 pol.ovotech.org.uk
@@ -2898,7 +2888,6 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
-station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

@@ -301,14 +301,6 @@ bus.*.indrive.com
 *.justfall.lol
 *.justplay.lol
 *.1v1.lol
-*.bo.tide.co
-*-staging.tide.co
-*-wip.tide.co
-*.staging.tide.co
-*.stg-tideplatform.in
-*.wip-tideplatform.in
-*.wip.tide.co
-*.tide.co
 *.offre-odrvet.fr
 *.petpaw.com
 *.royalcanin.am

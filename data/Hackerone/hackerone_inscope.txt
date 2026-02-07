@@ -976,10 +976,6 @@ net.supertreat.solitaire
 net.wooga.junes
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats
-*.tide.co
-api.tideplatform.in
-co.tide
-co.tide.tideplatform.in
 m.trendyol.com
 enm.trendyol.com
 trendyol.com

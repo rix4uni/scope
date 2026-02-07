@@ -500,7 +500,6 @@ ic3.*.indriverapp.com
 *.seriously.com
 *.slotomania.com
 *.wooga.com
-*.tide.co
 *.web3factory.consensys.net
 *.gethypr.com
 *.hypr.com
@@ -1081,8 +1080,6 @@ ic3.*.indriverapp.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -1133,7 +1130,6 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
