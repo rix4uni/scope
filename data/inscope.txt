@@ -1078,8 +1078,6 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -4915,8 +4913,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
