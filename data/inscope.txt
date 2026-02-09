@@ -5734,7 +5734,5 @@ downloads.zivver.com
 img.zivver.com
 sign.zivver.com
 owncloud.org
-toom.de
-api.toom.de
 co.uk.com
 parcelhubeurope.com
