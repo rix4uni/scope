@@ -1,2 +1,4 @@
-*.ninjakiwi.me
-*.nkstatic.com
+*.iciparisxl.lu
+*.iciparisxl.nl
+*.iciparisxl.be
+*.pourvous.nl
