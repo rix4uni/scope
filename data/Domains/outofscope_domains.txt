@@ -642,10 +642,6 @@ develop-app.ynab.com
 learn.ynab.com
 support.zendesk.com
 zendesk.com
-zola.com
-homestore.zola.com
-vendor.zola.com
-baby.zola.com
 andurilgear.com
 community.segment.com
 apjevents.twilio.com
@@ -2601,8 +2597,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
-store.ninjakiwi.com
-support.ninjakiwi.com
 pol-dev.ovotech.org.uk
 prod.tardis.ovotech.org.uk
 pol.ovotech.org.uk

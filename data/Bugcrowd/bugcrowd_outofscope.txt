@@ -851,7 +851,3 @@ learn.ynab.com
 support.zendesk.com
 zendesk.com
 *.zdassets.com
-zola.com
-homestore.zola.com
-vendor.zola.com
-baby.zola.com
