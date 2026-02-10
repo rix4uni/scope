@@ -117,6 +117,7 @@ collect.easyship.com
 claims.easyship.com
 auth.easyship.com
 *.expressvpn.com
+app.expressmailguard.com
 expressvpn.jobs
 xv-cp.apis-staging.xvtest.net
 cp.expressapisv2.net
