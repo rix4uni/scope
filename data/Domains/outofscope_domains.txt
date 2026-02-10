@@ -3026,6 +3026,8 @@ store.doctolib.com
 share.doctolib.net
 vettore.it
 siilo.com
+app.easyship.com
+api.easyship.com
 test.ys7.com
 pb.ys7.com
 ezcpcloudiot.eziot.com

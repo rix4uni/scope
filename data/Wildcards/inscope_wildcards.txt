@@ -1096,6 +1096,8 @@ ic3.*.indriverapp.com
 *.sbb.ch
 *.sqills.com
 *.sqills.team
+*.superdrug.com
+*.savers.co.uk
 *.theperfumeshop.com
 *.toasttab.com
 *.xtrachef.com

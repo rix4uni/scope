@@ -1,4 +1,2 @@
-*.iciparisxl.lu
-*.iciparisxl.nl
-*.iciparisxl.be
-*.pourvous.nl
+*.superdrug.com
+*.savers.co.uk
