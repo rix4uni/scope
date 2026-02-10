@@ -245,7 +245,6 @@ np.*.lfscnp.com
 *.accounts.realestate.com.au
 *.realestate.com.au
 *.realcommercial.com.au
-*.rec.net
 *.seek.com.au
 *.skinfra.xyz
 *.outfra.xyz

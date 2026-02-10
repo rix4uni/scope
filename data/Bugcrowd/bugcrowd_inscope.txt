@@ -996,16 +996,6 @@ realcommercial.com.au
 property.com.au
 next.flatmates.com.au
 api-next.flatmates.com.au
-rec.net
-store.steampowered.com
-oculus.com
-nintendo.com
-store.playstation.com
-xbox.com
-recroom.com
-*.rec.net
-api.rec.net
-devportal.rec.net
 *.seek.com.au
 seekcdn.com
 *.skinfra.xyz

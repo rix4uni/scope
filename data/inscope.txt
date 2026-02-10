@@ -245,7 +245,6 @@ np.*.lfscnp.com
 *.accounts.realestate.com.au
 *.realestate.com.au
 *.realcommercial.com.au
-*.rec.net
 *.seek.com.au
 *.skinfra.xyz
 *.outfra.xyz
@@ -2001,15 +2000,6 @@ realcommercial.com.au
 property.com.au
 next.flatmates.com.au
 api-next.flatmates.com.au
-rec.net
-store.steampowered.com
-oculus.com
-nintendo.com
-store.playstation.com
-xbox.com
-recroom.com
-api.rec.net
-devportal.rec.net
 seekcdn.com
 graphql.seek.com
 auth.seek.com
@@ -3332,6 +3322,7 @@ my.account.sony.com
 my.playstation.com
 ps5.np.playstation.net
 social.playstation.com
+store.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 asia-south1.truecaller.com
@@ -3951,6 +3942,7 @@ partner.steamgames.com
 partner.steampowered.com
 playartifact.com
 steamcommunity.com
+store.steampowered.com
 support.steampowered.com
 counter-strike.net
 dota2.com
