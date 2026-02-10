@@ -2036,6 +2036,7 @@ et.uber.com
 assets.uber.com
 brand.uber.com
 love.uber.com
+merchants.ubereats.com
 newsroom.uber.com
 people.uber.com
 *.uber.com
