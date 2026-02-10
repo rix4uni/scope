@@ -735,6 +735,7 @@ clientdocs.rwbaird.com
 content.rwbaird.com
 uatclientdocs.rwbaird.com
 rwbaird.com
+careers.msci.com
 docs.stripe.com
 okta.whoop.com
 connect.com
@@ -1062,6 +1063,11 @@ slack.moov.io
 support.moov.io
 tools.cards.moov.io
 tools.moov.io
+net-x-x-x-x.cust.dsl.vodafone.it
+smart.vodafone.com.eg
+voxxxxxxxx.mynet.vodafone.it
+vpn4.vodafone-us.com
+prg-x-xxx.static.adsl.vodafone.cz
 glide.com
 compass.com
 staebapp01.allegion.com

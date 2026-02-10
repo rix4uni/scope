@@ -100,6 +100,8 @@ clientdocs.rwbaird.com
 content.rwbaird.com
 uatclientdocs.rwbaird.com
 rwbaird.com
+*.msci.com.ar
+careers.msci.com
 *.hotmart.com
 *.teachable.com
 docs.stripe.com
@@ -486,6 +488,15 @@ slack.moov.io
 support.moov.io
 tools.cards.moov.io
 tools.moov.io
+*.ens.vodacom.co.za
+*.pools.vodafone-ip.de
+*.rev.vodafone.pt
+*.cust.vodafone.cz
+net-x-x-x-x.cust.dsl.vodafone.it
+smart.vodafone.com.eg
+voxxxxxxxx.mynet.vodafone.it
+vpn4.vodafone-us.com
+prg-x-xxx.static.adsl.vodafone.cz
 *.attorneyskeytitle.com
 *.chartwellescrow.com
 *.ctccal.com

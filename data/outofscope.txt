@@ -219,6 +219,7 @@ argocd.*.uidapi.com
 *.konghq.tech
 *.accdata.experian.co.uk
 *.smartbusinessreports.com
+*.msci.com.ar
 *.hotmart.com
 *.teachable.com
 *.hubspot.com
@@ -278,6 +279,10 @@ bus.*.indrive.com
 *.windstreamsmallbusiness.com
 *.chattest.deribit.com
 *.hiltonhotels.jp
+*.ens.vodacom.co.za
+*.pools.vodafone-ip.de
+*.rev.vodafone.pt
+*.cust.vodafone.cz
 *.attorneyskeytitle.com
 *.chartwellescrow.com
 *.ctccal.com
@@ -1363,6 +1368,7 @@ clientdocs.rwbaird.com
 content.rwbaird.com
 uatclientdocs.rwbaird.com
 rwbaird.com
+careers.msci.com
 docs.stripe.com
 okta.whoop.com
 connect.com
@@ -1690,6 +1696,11 @@ slack.moov.io
 support.moov.io
 tools.cards.moov.io
 tools.moov.io
+net-x-x-x-x.cust.dsl.vodafone.it
+smart.vodafone.com.eg
+voxxxxxxxx.mynet.vodafone.it
+vpn4.vodafone-us.com
+prg-x-xxx.static.adsl.vodafone.cz
 glide.com
 compass.com
 staebapp01.allegion.com
