@@ -29,6 +29,7 @@ dealer.prod.ps.axelspringer.de
 *.germany.politico.eu
 *.welt.de
 *.bild.de
+*.bild.design
 *.autobild.de
 *.bz-berlin.de
 *.spring-media.de
