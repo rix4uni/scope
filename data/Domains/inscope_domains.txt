@@ -3410,9 +3410,6 @@ campus.datacamp.com
 practice.datacamp.com
 projects.datacamp.com
 datacamp.com
-myaccount.demorgen.be
-shop.demorgen.be
-demorgen.be
 myaccount.volkskrant.nl
 shop.volkskrant.nl
 webwinkel.volkskrant.nl
