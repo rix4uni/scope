@@ -454,10 +454,6 @@ bid.*.aws.indriverapp
 ic3.*.indriverapp.com
 *.eu-east-1.indriverapp.com
 *.aws.indriverapp.com
-*.boredapeyachtclub.com
-*.otherside.xyz
-*.yuga.com
-*.yugalabs.io
 *.m-pesa.com
 *.api.cx.metamask.io
 *.metamask.io

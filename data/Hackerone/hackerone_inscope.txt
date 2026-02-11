@@ -763,11 +763,6 @@ app.dynamic.xyz
 dynamic.xyz
 demo.dynamic.xyz
 app.dynamicauth.com
-*.boredapeyachtclub.com
-*.otherside.xyz
-odk.otherside.xyz
-*.yuga.com
-*.yugalabs.io
 app.moderntreasury.com
 cdn.moderntreasury.com
 notion.so

@@ -1694,7 +1694,6 @@ app.dynamic.xyz
 dynamic.xyz
 demo.dynamic.xyz
 app.dynamicauth.com
-odk.otherside.xyz
 app.moderntreasury.com
 cdn.moderntreasury.com
 notion.so
