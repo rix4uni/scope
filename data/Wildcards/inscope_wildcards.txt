@@ -998,6 +998,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.datacamp.com
+*.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
@@ -1216,6 +1217,11 @@ ic3.*.indriverapp.com
 *.de.jbl.com
 *.in.jbl.com
 *.jbl.com.br
+*.roonlabs.com
+*.roonlabs.net
+*.roonessentials.com
+*.roonessentials.net
+*.roondrops.com
 *.easy4ipcloud.com
 *.kdrive.infomaniak.com
 *.kchat.infomaniak.com

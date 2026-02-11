@@ -223,6 +223,11 @@ classeaudio.com
 *.in.jbl.com
 *.jbl.com.br
 bostonacoustics.com
+*.roonlabs.com
+*.roonlabs.net
+*.roonessentials.com
+*.roonessentials.net
+*.roondrops.com
 events.onecloud.harman.com
 ota.onecloud.harman.com
 apis.onecloud.harman.com

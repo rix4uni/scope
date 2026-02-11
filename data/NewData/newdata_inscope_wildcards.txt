@@ -1,9 +1,6 @@
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
-*.hellofax.com
-*.docsend.com
-*.reclaim.ai
-*.helloworks.com
-*.hellosign.com
+*.demorgen.be
+*.roonlabs.com
+*.roonlabs.net
+*.roonessentials.com
+*.roonessentials.net
+*.roondrops.com

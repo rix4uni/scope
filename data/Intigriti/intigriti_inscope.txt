@@ -89,6 +89,10 @@ practice.datacamp.com
 projects.datacamp.com
 datacamp.com
 *.datacamp.com
+myaccount.demorgen.be
+shop.demorgen.be
+demorgen.be
+*.demorgen.be
 myaccount.volkskrant.nl
 shop.volkskrant.nl
 webwinkel.volkskrant.nl
@@ -532,13 +536,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 *.sqills.com
 *.sqills.team
 superdrug.com
@@ -609,12 +606,6 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl

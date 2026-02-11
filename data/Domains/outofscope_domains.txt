@@ -2521,6 +2521,8 @@ signature.datacamp.com
 status.datacamp.com
 support.datacamp.com
 talent-jobs-api.datacamp.com
+demorgen.be
+abonnement.demorgen.be
 anchor.digitalocean.com
 brand.digitalocean.com
 cloudsupport.digitalocean.com
