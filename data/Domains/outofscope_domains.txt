@@ -712,6 +712,14 @@ rooms.docusign.com
 accounts.britishairways.com
 holiday.britishairways.com
 regionstest.com
+affiliate-c.meesho.com
+agency.meesho.com
+atlas.valmo.in
+di-prd-superset.meesho.com
+farmiso.meeshosupply.com
+grocery-supplier.meesho.com
+investor.meesho.com
+warehouse.meesho.com
 lovable.app
 docs.konghq.com
 cloud.konghq.tech

@@ -73,6 +73,17 @@ accounts.britishairways.com
 holiday.britishairways.com
 regionstest.com
 *.tucows.com
+*.meesho.io
+*.meeshoaiservices.ai
+*.meeshogcp.in
+affiliate-c.meesho.com
+agency.meesho.com
+atlas.valmo.in
+di-prd-superset.meesho.com
+farmiso.meeshosupply.com
+grocery-supplier.meesho.com
+investor.meesho.com
+warehouse.meesho.com
 lovable.app
 *.edge.gateways.konghq.com
 *.gateways.konghq.com
