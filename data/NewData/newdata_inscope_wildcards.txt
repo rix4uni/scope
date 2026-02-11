@@ -1,6 +1,1 @@
-*.demorgen.be
-*.roonlabs.com
-*.roonlabs.net
-*.roonessentials.com
-*.roonessentials.net
-*.roondrops.com
+*.veriff.com
