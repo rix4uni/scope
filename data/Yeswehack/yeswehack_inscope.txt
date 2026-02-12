@@ -110,12 +110,6 @@ pro.doctolib
 play.google.com
 fr.doctolib.www
 *.siilo.com
-easyship.com
-supership.easyship.com
-trackmyshipment.co
-collect.easyship.com
-claims.easyship.com
-auth.easyship.com
 *.expressvpn.com
 app.expressmailguard.com
 expressvpn.jobs

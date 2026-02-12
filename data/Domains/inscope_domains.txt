@@ -4120,12 +4120,6 @@ burgerprofiel.beta-vlaanderen.be
 vo-gebruikersbeheer.vlaanderen.be
 pro.doctolib
 fr.doctolib.www
-easyship.com
-supership.easyship.com
-trackmyshipment.co
-collect.easyship.com
-claims.easyship.com
-auth.easyship.com
 app.expressmailguard.com
 expressvpn.jobs
 xv-cp.apis-staging.xvtest.net
