@@ -212,9 +212,13 @@ argocd.*.uidapi.com
 *.order.online
 *.account.docusign.com
 *.tucows.com
+*.meesho.com
 *.meesho.io
 *.meeshoaiservices.ai
+*.meeshoapi.com
 *.meeshogcp.in
+*.meeshosupply.com
+*.valmo.in
 *.edge.gateways.konghq.com
 *.gateways.konghq.com
 *.gateways.konggateway.com
