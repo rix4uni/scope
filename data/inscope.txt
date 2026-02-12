@@ -1230,6 +1230,8 @@ ic3.*.indriverapp.com
 *.piaservers.com
 *.piaservers.net
 *.app.spacelift.dev
+*.superbank.id
+*.super-id.net
 *.post.ch
 *.telenor.se
 *.bredbandsbolaget.se
@@ -5626,6 +5628,8 @@ vivre-avec-la-chaleur.fr
 tabac-info-service.fr
 my.sogexia.com
 spacelift.dev
+superbank.id
+ecosystem-experience.super-id.net
 api.swapcard.com
 chat-api.swapcard.com
 developer.swapcard.com

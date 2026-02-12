@@ -1230,6 +1230,8 @@ ic3.*.indriverapp.com
 *.piaservers.com
 *.piaservers.net
 *.app.spacelift.dev
+*.superbank.id
+*.super-id.net
 *.post.ch
 *.telenor.se
 *.bredbandsbolaget.se
