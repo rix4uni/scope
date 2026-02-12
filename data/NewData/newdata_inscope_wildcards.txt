@@ -1,2 +1,1 @@
-*.superbank.id
-*.super-id.net
+*.veriff.com

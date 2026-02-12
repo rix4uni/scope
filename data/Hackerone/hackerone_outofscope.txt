@@ -79,10 +79,12 @@ regionstest.com
 affiliate-c.meesho.com
 agency.meesho.com
 atlas.valmo.in
+console.valmo.in
 di-prd-superset.meesho.com
 farmiso.meeshosupply.com
 grocery-supplier.meesho.com
 investor.meesho.com
+log10-web-staging.valmo.in
 warehouse.meesho.com
 lovable.app
 *.edge.gateways.konghq.com

@@ -1351,10 +1351,12 @@ regionstest.com
 affiliate-c.meesho.com
 agency.meesho.com
 atlas.valmo.in
+console.valmo.in
 di-prd-superset.meesho.com
 farmiso.meeshosupply.com
 grocery-supplier.meesho.com
 investor.meesho.com
+log10-web-staging.valmo.in
 warehouse.meesho.com
 lovable.app
 docs.konghq.com
@@ -3535,6 +3537,7 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
+station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
