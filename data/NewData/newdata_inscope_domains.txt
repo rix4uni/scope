@@ -1,4 +1,1 @@
-api-dashboard.web3auth.io
-api-wallet.web3auth.io
-dashboard.web3auth.io
-wallet.web3auth.io
+wpscan.com
