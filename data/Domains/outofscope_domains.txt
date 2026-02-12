@@ -788,6 +788,7 @@ jobs.pricerunner.com
 locker.klarna.com
 nuji.com
 docs.wallet.tg
+toncenter.walletbot.me
 wallet.helpscoutdocs.com
 affiliates.fanduel.com
 api-dev.singlestore.com
