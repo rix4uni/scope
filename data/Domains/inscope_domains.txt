@@ -1711,6 +1711,9 @@ testing.md
 metamask.io
 docs.metamask.io
 snaps.metamask.io
+api-dashboard.web3auth.io
+api-wallet.web3auth.io
+dashboard.web3auth.io
 developer.metamask.io
 metamask.github.io
 user-storage.api.cx.metamask.io
@@ -1722,6 +1725,7 @@ diligence.security
 portfolio.metamask.io
 signature-insights.api.cx.metamask.io
 metamask-consensys.notion.site
+wallet.web3auth.io
 api-eu.floqast.app
 palantir.com
 palantir.tech
@@ -3048,8 +3052,6 @@ secure-dfadmin.deriv.com
 smarttrader.deriv.com
 fetlife.com
 fetlifemail.com
-dashboard.algolia.com
-algolia.com
 appgallery.huawei.com
 api.grabpay.com
 gamma.grab.co
