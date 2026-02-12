@@ -3673,6 +3673,7 @@ circle.logi.com
 developers.logitech.com
 gaming.logicool.co.jp
 id.logi.com
+logiq.logitech.io
 logitechg.com.cn
 sync.logitech.com
 astrogaming.com
