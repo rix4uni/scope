@@ -1,1 +1,4 @@
-*.veriff.com
+*.account.roon.app
+*.roon.app
+*.gotdrops.com
+*.gotdrops.cloud

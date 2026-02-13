@@ -222,6 +222,10 @@ bostonacoustics.com
 *.roonessentials.com
 *.roonessentials.net
 *.roondrops.com
+*.account.roon.app
+*.roon.app
+*.gotdrops.com
+*.gotdrops.cloud
 events.onecloud.harman.com
 ota.onecloud.harman.com
 apis.onecloud.harman.com

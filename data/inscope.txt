@@ -1217,6 +1217,10 @@ ic3.*.indriverapp.com
 *.roonessentials.com
 *.roonessentials.net
 *.roondrops.com
+*.account.roon.app
+*.roon.app
+*.gotdrops.com
+*.gotdrops.cloud
 *.easy4ipcloud.com
 *.kdrive.infomaniak.com
 *.kchat.infomaniak.com
