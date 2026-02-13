@@ -1,4 +1,2 @@
-*.account.roon.app
-*.roon.app
-*.gotdrops.com
-*.gotdrops.cloud
+*.ninjakiwi.me
+*.nkstatic.com
