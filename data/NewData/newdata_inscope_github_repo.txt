@@ -1,1 +1,1 @@
-https://github.com/Web3Auth/web3auth-web
+https://github.com/grafana
