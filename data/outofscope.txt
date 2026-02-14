@@ -556,7 +556,6 @@ g.*.slackhq.com
 *.grafana.net
 *.swop.com
 *.configuratoren.nl
-*.cineramabios.nl
 *.monzo.me
 *.nexuzhealth.pro
 *.ec.ovotech.org.uk
@@ -3224,15 +3223,6 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
-dev.kinepolis.com
-helpdesk.landmarkcinemas.com
-jobs.kinepolis.com
-l.kinepolis.com
-openx.kinepolis.com
-shop.kinepolis.be
-shop.kinepolis.es
-shop.kinepolis.fr
-shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
