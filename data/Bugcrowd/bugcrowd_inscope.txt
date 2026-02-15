@@ -968,7 +968,6 @@ apigw.prod.quintoandar.com.br
 finance.quintoandar.com.br
 trato-feito-api.quintoandar.com.br
 proprietario.quintoandar.com.br
-*.quizlet.com
 api.rapyd.net
 dashboard.rapyd.net
 verify.rapyd.net

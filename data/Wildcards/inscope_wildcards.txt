@@ -229,7 +229,6 @@ np.*.lfscnp.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
-*.quizlet.com
 *.rapyd.net
 *.neatcommerce.com
 *.korta.is

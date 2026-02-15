@@ -2403,7 +2403,6 @@ api-dashboard.search.brave.com
 basicattentiontoken.org
 brave.com
 creators.basicattentiontoken.org
-laptop-updates.brave.com
 search.brave.com
 talk.brave.com
 portswigger.net

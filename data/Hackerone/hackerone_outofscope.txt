@@ -1791,7 +1791,6 @@ support.enjin.io
 support.nft.io
 advocates.semrush.com
 email.semrush.com
-brave.com
 *.portswigger.net
 portswigger.net
 *.web-security-academy.net

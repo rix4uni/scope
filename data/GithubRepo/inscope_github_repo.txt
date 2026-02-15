@@ -191,15 +191,7 @@ https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
-https://github.com/brave-intl/bat-balance
-https://github.com/brave-intl/bat-client
-https://github.com/brave-intl/bat-go
-https://github.com/brave-intl/bat-ledger
-https://github.com/brave-intl/bat-publisher
-https://github.com/brave-intl/publishers
 https://github.com/brave/*,
-https://github.com/brave/brave-core
-https://github.com/brave/vault-updater
 https://github.com/nextcloud/collectives
 https://github.com/nextcloud/files_confidential
 https://github.com/nextcloud/tables

@@ -2952,7 +2952,6 @@ api-dashboard.search.brave.com
 basicattentiontoken.org
 brave.com
 creators.basicattentiontoken.org
-laptop-updates.brave.com
 search.brave.com
 talk.brave.com
 portswigger.net
@@ -3389,7 +3388,6 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
-justonweb.be
 profiles-api.datacamp.com
 app.datacamp.com
 assessment-api.datacamp.com
