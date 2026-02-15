@@ -577,6 +577,9 @@ manufacturers.solarquotes.com.au
 *.personalcapital.com
 *.empower.com
 *.retirementpartner.com
+api.quizlet.com
+help.quizlet.com
+get.quizlet.com
 community.rapyd.net
 support.rapyd.net
 docs.rapyd.net
