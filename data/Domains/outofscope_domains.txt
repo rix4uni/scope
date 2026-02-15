@@ -2599,8 +2599,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
-store.ninjakiwi.com
-support.ninjakiwi.com
 pol-dev.ovotech.org.uk
 prod.tardis.ovotech.org.uk
 pol.ovotech.org.uk
