@@ -69,6 +69,7 @@ capital.com
 open-api.capital.com
 *.capital.com
 *.itcapital.io
+challenge-0226.intigriti.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
@@ -549,6 +550,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 *.sqills.com
 *.sqills.team
 superdrug.com
