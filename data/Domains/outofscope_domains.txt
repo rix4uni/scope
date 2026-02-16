@@ -1275,7 +1275,6 @@ monitor.k8s.us-east-1.public.prd.cloud.tenna.com
 monitor.k8s.us-east-1.public.stg.cloud.tenna.com
 monitor.k8s.us-east-2.public.dv2.cloud.tenna.com
 monitor.k8s.us-east-2.public.qa1.cloud.tenna.com
-nearmiss.deere.com
 next-app.expertconnect.deere.com
 oidc.demo.cloud.tenna.com
 oidc.dv2.cloud.tenna.com
