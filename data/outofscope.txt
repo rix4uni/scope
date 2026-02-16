@@ -3497,6 +3497,8 @@ view.e.rivian.com
 simscale.com
 careers.sqills.com
 welcome.sqills.com
+kvadrat.no
+viavika.no
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
@@ -3672,12 +3674,6 @@ test.ys7.com
 pb.ys7.com
 ezcpcloudiot.eziot.com
 fcp.integ01.dev-franceconnect.fr
-cloud.cloud2.harmanaudio.com
-cloud.cloud1.harmanaudio.com
-cloud.cloud3.harmanaudio.com
-secondchance.jbl.com
-jp.harmanaudio.com
-jp.jbl.com
 api.pub1.infomaniak.cloud
 newsletter.infomaniak.com
 ov-xx.infomaniak.ch

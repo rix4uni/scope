@@ -417,6 +417,8 @@ booking.*.cloud.sqills
 booking.*.sqills.com
 careers.sqills.com
 welcome.sqills.com
+kvadrat.no
+viavika.no
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
