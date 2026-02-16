@@ -507,6 +507,7 @@ support.moov.io
 tools.cards.moov.io
 tools.moov.io
 *.ens.vodacom.co.za
+*.mynet.vodafone.it
 *.pool2.vodafone-ip.de
 *.pools.vodafone-ip.de
 *.rev.vodafone.pt

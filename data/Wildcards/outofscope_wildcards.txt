@@ -287,6 +287,7 @@ bus.*.indrive.com
 *.chattest.deribit.com
 *.hiltonhotels.jp
 *.ens.vodacom.co.za
+*.mynet.vodafone.it
 *.pool2.vodafone-ip.de
 *.pools.vodafone-ip.de
 *.rev.vodafone.pt
