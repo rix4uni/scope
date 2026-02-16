@@ -287,6 +287,7 @@ bus.*.indrive.com
 *.chattest.deribit.com
 *.hiltonhotels.jp
 *.ens.vodacom.co.za
+*.pool2.vodafone-ip.de
 *.pools.vodafone-ip.de
 *.rev.vodafone.pt
 *.cust.vodafone.cz
@@ -553,8 +554,11 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
 *.configuratoren.nl
+*.cineramabios.nl
 *.monzo.me
 *.nexuzhealth.pro
 *.ec.ovotech.org.uk
@@ -3221,6 +3225,15 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com

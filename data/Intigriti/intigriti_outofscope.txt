@@ -75,6 +75,8 @@ changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
 jobs.exoscale.com
+*.grafana.com
+*.grafana.net
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
@@ -109,6 +111,16 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
+*.cineramabios.nl
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
