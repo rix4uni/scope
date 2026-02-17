@@ -65,10 +65,6 @@ https://github.com/spiffe/spiffe
 https://github.com/spiffe/spire
 https://github.com/DopplerHQ/cli
 https://github.com/jitsi
-https://github.com/0xPolygon/auto-claim-service
-https://github.com/0xPolygon/chain-indexer-framework
-https://github.com/0xPolygon/lxly.js
-https://github.com/0xPolygon/static
 https://github.com/kubernetes-client
 https://github.com/kubernetes-security
 https://github.com/kubernetes/api

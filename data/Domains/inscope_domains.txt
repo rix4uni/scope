@@ -2010,7 +2010,6 @@ events.launchdarkly.com
 stream.launchdarkly.com
 api-gateway.polygon.technology
 api-polygon-tokens.polygon.technology
-balance-api.polygon.technology
 faucet-api.polygon.technology
 faucet.polygon.technology
 gasstation.polygon.technology
@@ -3825,6 +3824,12 @@ store.tomorrowland.com
 brasil-store.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
