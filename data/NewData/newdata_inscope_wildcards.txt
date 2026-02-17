@@ -1,1 +1,2 @@
-*.arlocloud.com
+*.ninjakiwi.me
+*.nkstatic.com
