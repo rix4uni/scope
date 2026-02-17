@@ -3,6 +3,7 @@
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
+*.axelspringer.com
 adtechnology.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
