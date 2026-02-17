@@ -77,6 +77,7 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+justonweb.be
 *.dpgmedia.be
 *.dpgmedia.nl
 profiles-api.datacamp.com
