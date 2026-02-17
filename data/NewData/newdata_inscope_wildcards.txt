@@ -1,2 +1,10 @@
-*.ninjakiwi.me
-*.nkstatic.com
+*.vinted.net
+*.vintedgo.com
+*.vinted.com
+*old.vinted.com
+*test-escalations.vintedgo.com
+*badger.it.vinted.com
+*careers.vinted.com
+*news.vinted.com
+*company.vinted.com
+*.vinted.fr

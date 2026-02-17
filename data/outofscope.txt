@@ -532,7 +532,6 @@ g.*.slackhq.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -593,6 +592,9 @@ booking.*.sqills.com
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
+*.homerr.com
+*.people.vinted
+*.vinted.ca
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net

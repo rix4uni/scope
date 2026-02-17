@@ -3,7 +3,6 @@
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
 adtechnology.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -468,6 +467,9 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 station.veriff.com
+*.homerr.com
+*.people.vinted
+*.vinted.ca
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
