@@ -202,6 +202,10 @@ https://github.com/cloudflare/workerd
 https://github.com/coinbase/cb-mpc
 https://github.com/slackhq/nebula
 https://github.com/rails/rails
+https://github.com/AikidoSec/firewall-node
+https://github.com/AikidoSec/firewall-ruby
+https://github.com/AikidoSec/firewall-php
+https://github.com/AikidoSec/firewall-python
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/droplet-agent
 https://github.com/digitalocean/doctl
