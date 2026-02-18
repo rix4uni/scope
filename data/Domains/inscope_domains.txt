@@ -3359,6 +3359,8 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+aikidosecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -4363,8 +4365,6 @@ vivre-avec-la-chaleur.fr
 tabac-info-service.fr
 my.sogexia.com
 spacelift.dev
-superbank.id
-ecosystem-experience.super-id.net
 api.swapcard.com
 chat-api.swapcard.com
 developer.swapcard.com

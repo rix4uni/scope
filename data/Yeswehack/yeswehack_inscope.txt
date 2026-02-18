@@ -389,10 +389,6 @@ tabac-info-service.fr
 my.sogexia.com
 spacelift.dev
 *.app.spacelift.dev
-*.superbank.id
-*.super-id.net
-superbank.id
-ecosystem-experience.super-id.net
 api.swapcard.com
 chat-api.swapcard.com
 developer.swapcard.com
