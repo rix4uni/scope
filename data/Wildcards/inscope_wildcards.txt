@@ -1138,8 +1138,6 @@ ic3.*.indriverapp.com
 *news.vinted.com
 *company.vinted.com
 *.vinted.fr
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
