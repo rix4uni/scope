@@ -779,6 +779,7 @@ auth.finnair.com
 x.com
 youtube.com
 advisoryworld.com
+claude.ai
 issue-management.iontrading.com
 api-stage.pricerunner.com
 api-us.pricerunner.com

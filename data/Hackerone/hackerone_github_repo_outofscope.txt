@@ -1,4 +1,5 @@
 https://github.com/supabase-community
+https://github.com/modelcontextprotocol
 https://github.com/netflix/consoleme
 https://github.com/Netflix/dispatch
 https://github.com/netflix/weep
