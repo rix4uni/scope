@@ -1,2 +1,2 @@
-*.voi.com
-*.voiscooters.com
+*.ninjakiwi.me
+*.nkstatic.com

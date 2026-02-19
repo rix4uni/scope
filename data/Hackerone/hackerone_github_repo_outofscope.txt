@@ -26,4 +26,5 @@ https://github.com/elastic/*
 https://github.com/swiftype/*
 https://github.com/EpicGames/UnrealTournament
 https://github.com/kiwicom/pytest-recording
+https://github.com/helium/helium-console-cli
 https://github.com/wordpress-mobile

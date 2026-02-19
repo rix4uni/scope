@@ -463,6 +463,9 @@ online.*.skybingo.com
 *sg.kiwi.com
 *kiwi.com
 *skypicker.com
+*.helium.foundation
+*.helium.io
+*.helium.wtf
 *.portswigger.net
 *.web-security-academy.net
 *.wordpress.com
@@ -552,6 +555,8 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.grafana.com
+*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
@@ -591,6 +596,7 @@ booking.*.sqills.com
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
+*vintedpay.com
 *.homerr.com
 *.people.vinted
 *.vinted.ca
