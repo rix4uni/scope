@@ -431,6 +431,7 @@ online.*.skybingo.com
 *.cloud.databricks.com
 *.gcp.databricks.com
 *.elasticsearch.cn
+*.kbndev.co
 *.keephq.dev
 *.communicatie.vennhypotheken.nl
 *.events.gs.com
@@ -555,8 +556,6 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
-*.grafana.com
-*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
