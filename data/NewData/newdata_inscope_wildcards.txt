@@ -1,1 +1,2 @@
 *.voi.com
+*.voiscooters.com
