@@ -597,10 +597,6 @@ booking.*.sqills.com
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
-*vintedpay.com
-*.homerr.com
-*.people.vinted
-*.vinted.ca
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
@@ -3532,8 +3528,6 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
-callbacks.prod.svc.vintedpay.com
-api.prod.svc.vintedpay.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
