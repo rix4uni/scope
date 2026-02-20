@@ -595,10 +595,6 @@ booking.*.sqills.com
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
-*vintedpay.com
-*.homerr.com
-*.people.vinted
-*.vinted.ca
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
