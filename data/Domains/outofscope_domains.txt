@@ -2885,6 +2885,8 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
+callbacks.prod.svc.vintedpay.com
+api.prod.svc.vintedpay.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
