@@ -1126,16 +1126,6 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.vinted.net
-*.vintedgo.com
-*.vinted.com
-*old.vinted.com
-*test-escalations.vintedgo.com
-*badger.it.vinted.com
-*careers.vinted.com
-*news.vinted.com
-*company.vinted.com
-*.vinted.fr
 *.voi.com
 *.voiscooters.com
 *.deliciousbrains.com
@@ -4178,10 +4168,6 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 try.discourse.org
-nft.io
-canary.nft.io
-platform.enjin.io
-platform.canary.enjin.io
 cdn.plaid.com
 dashboard.plaid.com
 demo.plaid.com
