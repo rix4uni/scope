@@ -590,6 +590,9 @@ api.*.ec.ovotech
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
@@ -3492,6 +3495,8 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
+careers.sqills.com
+welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl

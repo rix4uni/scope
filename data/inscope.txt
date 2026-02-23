@@ -1090,6 +1090,8 @@ ic3.*.indriverapp.com
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -4525,6 +4527,7 @@ ai.x.grok
 chat.x.com
 gnip.com
 grok.com
+grokipedia.com
 x.com
 support.cloudflare.com
 community.cloudflare.com

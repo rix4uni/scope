@@ -2848,6 +2848,8 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
+careers.sqills.com
+welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl
