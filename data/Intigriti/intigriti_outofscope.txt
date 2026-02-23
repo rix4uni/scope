@@ -3,7 +3,6 @@
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
 adtechnology.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -75,8 +74,6 @@ changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
 jobs.exoscale.com
-*.grafana.com
-*.grafana.net
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
@@ -424,11 +421,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
-careers.sqills.com
-welcome.sqills.com
 kvadrat.no
 viavika.no
 *.tempo-team.de

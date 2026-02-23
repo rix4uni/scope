@@ -933,6 +933,7 @@ support.8x8.com
 vm.8x8.com
 8x8.com
 wavecell.com
+developers.tiktok.com
 *.corebridgefinancial.com
 *.travelguard.com
 travel.aig.co.jp

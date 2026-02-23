@@ -536,7 +536,6 @@ g.*.slackhq.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -556,8 +555,6 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
-*.grafana.com
-*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
@@ -590,9 +587,6 @@ api.*.ec.ovotech
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com

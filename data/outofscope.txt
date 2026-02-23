@@ -536,7 +536,6 @@ g.*.slackhq.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -556,8 +555,6 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
-*.grafana.com
-*.grafana.net
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
@@ -590,9 +587,6 @@ api.*.ec.ovotech
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
@@ -2083,6 +2077,7 @@ support.8x8.com
 vm.8x8.com
 8x8.com
 wavecell.com
+developers.tiktok.com
 travel.aig.co.jp
 1008.aig.com
 corebridgefinancial.com
@@ -3490,8 +3485,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-careers.sqills.com
-welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl
@@ -3589,12 +3582,19 @@ gitlab.isc.org
 lists.isc.org
 blog.bitoasis.net
 dev.blablacar.com
-sncf-connect.com
+sncf-connect-tech.fr
+office-web-sncf-a.sips-services.com
 sncf.com
-tgvinoui.sncf
+groupe-sncf.com
+garesetconnexions.sncf
 sncf-voyageurs.com
+tgvinoui.sncf
+ter.sncf.com
+ouigo.com
 maxjeune-tgvinoui.sncf
 malocationavis.sncf-connect.com
+hiflow.sncf-connect.com
+sncf-connect.com
 coindcx.com
 info.coindcx.com
 otcdesk.coindcx.com
