@@ -463,10 +463,10 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
-callbacks.prod.svc.vintedpay.com
 api.prod.svc.vintedpay.com
-*vintedpay.com
+callbacks.prod.svc.vintedpay.com
 *.homerr.com
+*vintedpay.com
 *.people.vinted
 *.vinted.ca
 enterprise.vlerick.com

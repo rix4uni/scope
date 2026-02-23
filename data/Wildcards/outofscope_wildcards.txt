@@ -593,8 +593,8 @@ api.*.ec.ovotech
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
-*vintedpay.com
 *.homerr.com
+*vintedpay.com
 *.people.vinted
 *.vinted.ca
 *.zabka-snrs.zabka.pl

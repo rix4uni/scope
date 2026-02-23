@@ -1103,15 +1103,15 @@ ic3.*.indriverapp.com
 *.vtm.be
 *.vtmgo.be
 *.vinted.net
-*.vintedgo.com
 *.vinted.com
+*.vinted.fr
+*.vintedgo.com
 *old.vinted.com
 *test-escalations.vintedgo.com
 *badger.it.vinted.com
 *careers.vinted.com
 *news.vinted.com
 *company.vinted.com
-*.vinted.fr
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
