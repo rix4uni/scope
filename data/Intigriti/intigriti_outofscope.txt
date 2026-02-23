@@ -74,6 +74,8 @@ changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
 jobs.exoscale.com
+*.grafana.com
+*.grafana.net
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
@@ -461,6 +463,12 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
+callbacks.prod.svc.vintedpay.com
+api.prod.svc.vintedpay.com
+*vintedpay.com
+*.homerr.com
+*.people.vinted
+*.vinted.ca
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
