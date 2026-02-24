@@ -2175,7 +2175,6 @@ advocates.semrush.com
 email.semrush.com
 portswigger.net
 blog.rubygems.org
-changelog.md
 guide.rubygems.org
 help.rubygems.org
 rubygems.org

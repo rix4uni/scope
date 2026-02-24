@@ -1796,7 +1796,6 @@ email.semrush.com
 portswigger.net
 *.web-security-academy.net
 blog.rubygems.org
-changelog.md
 guide.rubygems.org
 help.rubygems.org
 rubygems.org
