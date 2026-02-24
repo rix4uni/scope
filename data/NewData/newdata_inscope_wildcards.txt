@@ -1,2 +1,3 @@
-*.sqills.com
-*.sqills.team
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io

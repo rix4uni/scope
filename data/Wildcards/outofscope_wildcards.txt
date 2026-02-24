@@ -598,8 +598,8 @@ booking.*.sqills.com
 *.ccnag.com
 *.homerr.com
 *vintedpay.com
-*.people.vinted
 *.vinted.ca
+*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
