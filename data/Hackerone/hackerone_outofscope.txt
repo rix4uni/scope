@@ -1675,6 +1675,7 @@ dl.oportun.com
 az-tools-p01.oportun.com
 ccos-cc-5541.dev.pfops.com
 progressfinservices.com
+jenkins.oportun.com
 jira.oportun.com
 juno-srs.oportun.com
 new.oportun.com
