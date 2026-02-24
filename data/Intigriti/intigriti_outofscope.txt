@@ -419,11 +419,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
-careers.sqills.com
-welcome.sqills.com
 kvadrat.no
 viavika.no
 *.tempo-team.de
