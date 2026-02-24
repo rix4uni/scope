@@ -94,15 +94,6 @@ bounty-server.dracoon.app
 *.retarus.com
 datadome.co
 app.datadome.co
-developers.deezer.com
-partners.deezer.com
-cdn-files.deezer.com
-cdn-content.deezer.com
-support.deezer.com
-deezercommunity.com
-deezer-blog.com
-deezer-brandsolutions.com
-deezerjobs.com
 *.vlaanderen.be
 cdn.vlaanderen.be
 codex.opendata.api.vlaanderen.be

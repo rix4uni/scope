@@ -501,8 +501,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-*.sqills.com
-*.sqills.team
 superdrug.com
 api.superdrug.com
 media.superdrug.com
