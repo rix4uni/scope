@@ -286,6 +286,7 @@ bus.*.indrive.com
 *.windstreamsmallbusiness.com
 *.chattest.deribit.com
 *.hiltonhotels.jp
+*.cust.vodafonedsl.it
 *.ens.vodacom.co.za
 *.mynet.vodafone.it
 *.pool2.vodafone-ip.de
@@ -588,6 +589,9 @@ api.*.ec.ovotech
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com

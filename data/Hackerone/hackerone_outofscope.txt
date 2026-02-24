@@ -507,6 +507,7 @@ slack.moov.io
 support.moov.io
 tools.cards.moov.io
 tools.moov.io
+*.cust.vodafonedsl.it
 *.ens.vodacom.co.za
 *.mynet.vodafone.it
 *.pool2.vodafone-ip.de
