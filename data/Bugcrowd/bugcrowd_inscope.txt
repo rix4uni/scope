@@ -174,8 +174,6 @@ services.chipotle.com
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
-meraki.cisco.com
-apps.meraki.io
 wien.gv.at
 *.wien.gv.at
 *.magwien.gv.at

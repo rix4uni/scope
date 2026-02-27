@@ -519,6 +519,7 @@ g.*.slackhq.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
+*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -532,6 +533,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -587,15 +589,6 @@ api.*.ec.ovotech
 *.cryptobox.com
 *.ercom.fr
 *.dana.id
-*.dracoon.com
-*.dracoon.net
-*.dracoon.team
-*.dracoon.app
-*.dracoon.io
-*.fp-sign.com
-*.usersnap.com
-*.gdata.com
-*.retarus.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
 *.docker.dev
@@ -621,5 +614,3 @@ api.*.ec.ovotech
 *.qzoneapp.com
 *.tencent.com
 *.ntpd-rs.pendulum-project.org
-*.owncloud.org
-*.owncloud.com

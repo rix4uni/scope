@@ -1,1 +1,11 @@
-https://github.com/grafana
+https://github.com/auth0/passport-wsfed-saml2
+https://github.com/circlefin/malachite
+https://github.com/jenkinsci/remoting
+https://github.com/jenkinsci/workflow-multibranch-plugin
+https://github.com/jenkinsci/github-plugin
+https://github.com/jenkinsci/github-branch-source-plugin
+https://github.com/jenkinsci/workflow-support-plugin
+https://github.com/jenkinsci/pipeline-stage-step-plugin
+https://github.com/jenkinsci/pipeline-input-step-plugin
+https://github.com/jenkinsci/pipeline-build-step-plugin
+https://github.com/jenkinsci/pipeline-groovy-lib-plugin

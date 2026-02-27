@@ -1664,6 +1664,8 @@ email.com
 prisma.fi
 *.flickr.com
 flickr.com
+modefestival.com
+whatismode.com
 plugins.matomo.org
 matomo.cloud
 username.matomo.cloud
@@ -1950,7 +1952,6 @@ ort-desktop.pingone.com
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
-*.bonne-terre-data-layer.com
 *.dibz.co.uk
 *.msgsvc.io
 *.operationstechnology.io

@@ -63,9 +63,6 @@ matrix.agent
 beta.tchap.gouv.fr
 matrix.i.tchap.gouv.fr
 matrix.e.tchap.gouv.fr
-bounty-cloud.dracoon.app
-0-2744452194.s3.nbg01.de.dracoon.io
-bounty-server.dracoon.app
 *.dailymotion.com
 *.api.dailymotion.com
 developer.dailymotion.com
@@ -495,13 +492,6 @@ svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
-app.zivver.com
-owa-v6.zivver.com
-collector.zivver.com
-downloads.zivver.com
-img.zivver.com
-sign.zivver.com
-owncloud.org
 co.uk.com
 *.vidaxl.org
 *.vidaxl.io

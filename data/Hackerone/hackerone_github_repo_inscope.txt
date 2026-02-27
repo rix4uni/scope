@@ -18,6 +18,7 @@ https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/evm-gateway-contracts
 https://github.com/circlefin/evm-xreserve-contracts
+https://github.com/circlefin/malachite
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/solana-gateway-contracts
