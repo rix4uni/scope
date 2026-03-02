@@ -1016,6 +1016,7 @@ exodus.atlassian.net
 exodusstore.blob.core.windows.net
 get.exodus
 exodus.com
+safeguard.a.exodus.io
 slack-invite.exodus.com
 support-helpers.a.exodus.io
 support.exodus.com
@@ -1495,7 +1496,7 @@ blog.thecoalition.com
 security.md
 help.thecoalition.com
 thecoalition.com
-*.ip.es.io
+*.es.io
 *.kbndev.co
 *.keephq.dev
 community.elastic.co

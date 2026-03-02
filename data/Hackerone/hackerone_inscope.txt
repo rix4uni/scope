@@ -2037,7 +2037,6 @@ dbc-9a3f8ed1-7608.cloud.databricks.com
 *.elasticsearch.wtf
 *.elstc.co
 *.eops.nl
-*.es.io
 *.estccdn.com
 *.found.io
 *.insight.io

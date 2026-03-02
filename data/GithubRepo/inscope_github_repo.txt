@@ -202,6 +202,7 @@ https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
 https://github.com/cdnjs/cdnjs
 https://github.com/cloudflare
+https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
 https://github.com/coinbase/cb-mpc
 https://github.com/slackhq/nebula

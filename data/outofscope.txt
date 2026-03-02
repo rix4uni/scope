@@ -413,7 +413,7 @@ online.*.skybingo.com
 *.azuredatabricks.net
 *.cloud.databricks.com
 *.gcp.databricks.com
-*.ip.es.io
+*.es.io
 *.kbndev.co
 *.keephq.dev
 *.communicatie.vennhypotheken.nl
@@ -514,7 +514,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -542,9 +541,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.nexuzhealth.pro
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk
@@ -2084,6 +2081,7 @@ exodus.atlassian.net
 exodusstore.blob.core.windows.net
 get.exodus
 exodus.com
+safeguard.a.exodus.io
 slack-invite.exodus.com
 support-helpers.a.exodus.io
 support.exodus.com
@@ -3195,18 +3193,6 @@ houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
-afspraakmaken.gamma.nl
-api.afspraakmaken.gamma.be
-api.afspraakmaken.gamma.nl
-api.maakafspraak.karwei.nl
-horrenconfigurator-fr.gamma.be
-horrenconfigurator-nl.gamma.be
-horrenconfigurator.karwei.nl
-karwei-2018.hetmooistegordijn.nl
-maakafspraak.karwei.nl
-mail.gamma.be
-mail.gamma.nl
-mail.karwei.nl
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
@@ -3223,9 +3209,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be

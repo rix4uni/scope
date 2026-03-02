@@ -413,7 +413,7 @@ online.*.skybingo.com
 *.azuredatabricks.net
 *.cloud.databricks.com
 *.gcp.databricks.com
-*.ip.es.io
+*.es.io
 *.kbndev.co
 *.keephq.dev
 *.communicatie.vennhypotheken.nl
@@ -514,7 +514,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -542,9 +541,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.nexuzhealth.pro
 *.ec.ovotech.org.uk
 *.nonprod.oot.ovotech.org.uk

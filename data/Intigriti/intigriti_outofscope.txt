@@ -1,4 +1,3 @@
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -90,19 +89,6 @@ houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
-*.configuratoren.nl
-afspraakmaken.gamma.nl
-api.afspraakmaken.gamma.be
-api.afspraakmaken.gamma.nl
-api.maakafspraak.karwei.nl
-horrenconfigurator-fr.gamma.be
-horrenconfigurator-nl.gamma.be
-horrenconfigurator.karwei.nl
-karwei-2018.hetmooistegordijn.nl
-maakafspraak.karwei.nl
-mail.gamma.be
-mail.gamma.nl
-mail.karwei.nl
 trismegistos.org
 *.cineramabios.nl
 dev.kinepolis.com
@@ -120,10 +106,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-*.monzo.me
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 *.nexuzhealth.pro
