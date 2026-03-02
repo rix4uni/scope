@@ -268,6 +268,7 @@ bus.*.indrive.com
 *.windstreamsmallbusiness.com
 *.chattest.deribit.com
 *.hiltonhotels.jp
+*.cust.dsl.vodafone.it
 *.cust.vodafonedsl.it
 *.ens.vodacom.co.za
 *.mynet.vodafone.it
@@ -538,17 +539,13 @@ g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.doserverless-dev3.io
 *.grafana.com
 *.grafana.net
 *.swop.com
 *.cineramabios.nl
+*.monzo.me
 *.nexuzhealth.pro
-*.ec.ovotech.org.uk
-*.nonprod.oot.ovotech.org.uk
-*.ovotech.org.uk
-api.*.ec.ovotech
-*.prod.oot.ovotech.org.uk
-*.oisl.gg
 *.vectus.in
 *.pdq.com
 *.pdq.tools

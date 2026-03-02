@@ -517,6 +517,7 @@ slack.moov.io
 support.moov.io
 tools.cards.moov.io
 tools.moov.io
+*.cust.dsl.vodafone.it
 *.cust.vodafonedsl.it
 *.ens.vodacom.co.za
 *.mynet.vodafone.it
@@ -1965,6 +1966,10 @@ mail.fetlife.com
 n2.fetlife.com
 status.fetlife.com
 *.qms.grab.com
+docs.clearme.com
+fieldsupport.clearme.com
+hub.clearme.com
+legal.clearme.com
 revive-adserver.com
 about.udemy.com
 affiliates.udemy.com
@@ -2038,6 +2043,8 @@ procurement.booking.com
 recruitmentsurveys.booking.com
 spadmin.booking.com
 welcomekit.booking.com
+workforce-dev.voicedqs.booking.com
+workforce.booking.com
 sustainability.booking.com
 staging.airtable.com
 airtable.com
