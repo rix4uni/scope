@@ -1009,6 +1009,7 @@ wsmb2bresv.navient.com
 adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
+investnext.com
 help.evernote.com
 *.hcltechsw.com
 *.atp-exodus.com

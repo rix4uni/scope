@@ -797,7 +797,6 @@ bugs.opera.com
 *.opera.technology
 gx.games
 create.gx.games
-loomi.tv
 features.opera-api.com
 cdn-store.opera-api.com
 *.sec-tunnel.com

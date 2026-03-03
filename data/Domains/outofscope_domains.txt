@@ -1462,6 +1462,7 @@ wsmb2bresv.navient.com
 adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
+investnext.com
 help.evernote.com
 atp-exodus.com
 exodus.atlassian.net
@@ -2586,6 +2587,18 @@ houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
+afspraakmaken.gamma.nl
+api.afspraakmaken.gamma.be
+api.afspraakmaken.gamma.nl
+api.maakafspraak.karwei.nl
+horrenconfigurator-fr.gamma.be
+horrenconfigurator-nl.gamma.be
+horrenconfigurator.karwei.nl
+karwei-2018.hetmooistegordijn.nl
+maakafspraak.karwei.nl
+mail.gamma.be
+mail.gamma.nl
+mail.karwei.nl
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
@@ -2795,6 +2808,10 @@ agora.beta.gouv.fr
 doc.demarches-simplifiees.fr
 beta.gouv.fr
 demarches-simplifiees.fr
+dracoon.com
+bounty-cloud.dracoon.app
+bounty-server.dracoon.app
+0-2744452194.s3.nbg01.de.dracoon.io
 datadome.co
 app.datadome.co
 cdn.vlaanderen.be
@@ -2866,4 +2883,6 @@ lafabriquedelacite.com
 wishes.vinci.com
 voeux.vinci.com
 castor.vinci.com
+hubspot.com
+chargebee.com
 systemd.io

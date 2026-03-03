@@ -543,6 +543,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
 *.monzo.me
 *.nexuzhealth.pro
@@ -583,6 +584,15 @@ g.*.slackhq.com
 *.cryptobox.com
 *.ercom.fr
 *.dana.id
+*.dracoon.com
+*.dracoon.net
+*.dracoon.team
+*.dracoon.app
+*.dracoon.io
+*.fp-sign.com
+*.usersnap.com
+*.gdata.com
+*.retarus.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
 *.docker.dev
@@ -608,3 +618,5 @@ g.*.slackhq.com
 *.qzoneapp.com
 *.tencent.com
 *.ntpd-rs.pendulum-project.org
+*.owncloud.org
+*.owncloud.com

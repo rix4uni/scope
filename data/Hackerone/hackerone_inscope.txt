@@ -354,7 +354,7 @@ mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
 store.23andme.com
-therapeutics.23andme.com
+23andme.com
 you.23andme.com
 *.audible.com
 *.audible.ca
