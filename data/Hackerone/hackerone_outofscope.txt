@@ -323,12 +323,15 @@ test-gw.epic.superbet.ro
 test.epic.superbet.ro
 blog.magiceden.io
 cdn.magiceden.dev
+docs.magiceden.io
 eng.magiceden.dev
 eng.magiceden.io
+help.dicey.com
 auth.magiceden.io
 ord-mirror.magiceden.dev
 img-cdn.magiceden.dev
 mainframe.magiceden.io
+staging.dicey.com
 *.pramericalife.in
 *.prudential.co.kr
 *.prudentialagf.cl

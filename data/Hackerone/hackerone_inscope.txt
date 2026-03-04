@@ -668,7 +668,6 @@ ro.superbet.sport
 superbet.bet.br
 *.magiceden.dev
 *.magiceden.io
-*.magiceden.workers.dev
 magiceden.io
 *.boozt.com
 *.booztlet.com
