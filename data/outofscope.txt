@@ -515,7 +515,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -534,7 +533,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -3160,18 +3158,6 @@ relocate-with-us.capital.com
 3cxby.itcapital.io
 texis.itcapital.io
 digicampus.digimobil.es
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 anchor.digitalocean.com
@@ -3307,7 +3293,6 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
-marketing.nitropack.io
 getflywheel.com
 wpengine.com
 aquawardsspatial.water-link.be

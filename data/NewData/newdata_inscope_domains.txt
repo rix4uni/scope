@@ -1,2 +1,1 @@
-aikidosecurity.aikido
-app.aikido.dev
+dicey.com
