@@ -33,6 +33,8 @@ hsd1.*.comcast.net
 *.ecomanda.app
 *.allin.movilepay.com
 *.starsoft.movilepay.com
+*.openfinance.ifood.com.br
+*.openfinance.ifoodpago.com.br
 *.godsunchained.com
 *.gogbackend.com
 *.dev.x.immutable.com

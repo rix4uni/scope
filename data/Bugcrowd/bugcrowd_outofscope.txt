@@ -231,6 +231,8 @@ blog-parceiros.ifood.com.br
 *.ecomanda.app
 *.allin.movilepay.com
 *.starsoft.movilepay.com
+*.openfinance.ifood.com.br
+*.openfinance.ifoodpago.com.br
 *.godsunchained.com
 *.gogbackend.com
 gogbackend.com
