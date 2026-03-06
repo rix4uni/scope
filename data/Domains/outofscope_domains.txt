@@ -2194,6 +2194,16 @@ network.helium.com
 ota.helium.com
 whitepaper.helium.com
 zodiac.helium.com
+assets.enjin.io
+cdn.enjin.io
+cdn.nft.io
+docs.enjin.io
+enj.in
+enjin.io
+faucet.canary.enjin.io
+platform.enjin.io
+support.enjin.io
+support.nft.io
 advocates.semrush.com
 email.semrush.com
 portswigger.net
@@ -2674,6 +2684,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 wpengine.com
 aquawardsspatial.water-link.be
