@@ -172,7 +172,6 @@ https://github.com/smartcontractkit/chainlink-evm
 https://github.com/smartcontractkit/chainlink-solana
 https://github.com/smartcontractkit/external-adapters-js
 https://github.com/smartcontractkit/staking-v0.1
-https://github.com/pixiv/charcoal
 https://github.com/cosmos/solidity-ibc-eureka
 https://github.com/cosmos/gaia
 https://github.com/cosmos/iavl

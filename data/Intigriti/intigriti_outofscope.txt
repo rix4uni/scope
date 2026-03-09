@@ -1,3 +1,4 @@
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -94,6 +95,10 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+*.monzo.me
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 *.nexuzhealth.pro
@@ -160,18 +165,6 @@ viavika.no
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
-trust.truelayer.com
-banks.truelayer.com
-careers.truelayer.com
-docs.truelayer.com
-docs.houston.truelayer.com
-truelayer.com
-index.truelayer.com
-info.truelayer.com
-signin.truelayer.com
-support.truelayer.com
-status.truelayer.com
-truelayer.zendesk.com
 elect.tweakers.net
 preview.redcap.gbiomed.kuleuven.be
 jobs.uzleuven.be
@@ -204,7 +197,6 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
-marketing.nitropack.io
 getflywheel.com
 wpengine.com
 aquawardsspatial.water-link.be

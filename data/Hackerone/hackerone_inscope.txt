@@ -746,7 +746,6 @@ collaboration.rei.com
 login.rei.com
 api.mergify.com
 dashboard.mergify.com
-zabbix.com
 coinhako.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
