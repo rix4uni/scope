@@ -3389,7 +3389,7 @@ redditforbusiness.com
 sh.reddit.com
 strapi.reddit.com
 ews-fusion.my.site.com
-zellepay.force.com
+zelleservice.my.salesforce.com
 zelleservice.my.site.com
 shoppers.instacart.com
 admin.instacart.com
@@ -4914,6 +4914,7 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
+cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com

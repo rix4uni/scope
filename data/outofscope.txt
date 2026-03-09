@@ -2333,6 +2333,7 @@ platform.cat.earlywarning.io
 platformtest.cat.earlywarning.io
 toolkit.zellepay.com
 zellepay.earlywarning.com
+zellepay.force.com
 brand.instacart.com
 careers.instacart.com
 carrotstore.instacart.com

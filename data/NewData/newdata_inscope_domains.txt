@@ -1,11 +1,2 @@
-aikidosecurity.aikido
-app.aikido.dev
-co.uk.getmondo
-monzo.com
-api.voiapp.io
-io.voiapp.voi
-fm.voiapp.io
-mds.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
+zelleservice.my.salesforce.com
+cz.skodaauto.myskoda

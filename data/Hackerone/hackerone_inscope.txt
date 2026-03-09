@@ -1411,7 +1411,7 @@ strapi.reddit.com
 *.zelle.com
 *.zellepay.com
 ews-fusion.my.site.com
-zellepay.force.com
+zelleservice.my.salesforce.com
 zelleservice.my.site.com
 *.instacart.com
 *.instacart.tools
