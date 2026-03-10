@@ -8,6 +8,7 @@ vdp.kahootz.com
 devops.cts.l3harris.com
 mirar.thorntontomasetti.com
 thread.thorntontomasetti.com
+recruitment.roke.co.uk
 software.cts.l3harris.com
 swarm.thorntontomasetti.com
 tms.l3commercialaviation.com
@@ -266,7 +267,6 @@ support.wonder.com
 support.blueapron.com
 support.grubhub.com
 support.seamless.com
-recruitment.roke.co.uk
 *.gobrightspeed.net
 dhcp.embarqhsd.net
 aboitiz.account.box.com

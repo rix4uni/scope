@@ -607,6 +607,7 @@ vdp.kahootz.com
 devops.cts.l3harris.com
 mirar.thorntontomasetti.com
 thread.thorntontomasetti.com
+recruitment.roke.co.uk
 software.cts.l3harris.com
 swarm.thorntontomasetti.com
 tms.l3commercialaviation.com
@@ -821,7 +822,6 @@ support.wonder.com
 support.blueapron.com
 support.grubhub.com
 support.seamless.com
-recruitment.roke.co.uk
 dhcp.embarqhsd.net
 aboitiz.account.box.com
 pri-webprd-apg.aboitiz.com
@@ -2609,6 +2609,15 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
