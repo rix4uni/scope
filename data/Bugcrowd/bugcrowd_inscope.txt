@@ -926,16 +926,11 @@ dashboard.rapyd.net
 verify.rapyd.net
 checkout.rapyd.net
 *.rapyd.net
-*.neatcommerce.com
 *.korta.is
-*.neattest.com
 jointhemoment.net
 *.rapyd.com
 *.rapyd.org
-*.neat.com.hk
 *.kortathjonustan.is
-*.neat.hk
-*.neat.wtf
 rea-group.com
 reastatic.net
 *.api.id.realestate.com.au

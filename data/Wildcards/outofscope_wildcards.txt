@@ -101,6 +101,11 @@ auth.*.latitudefinancial.com
 *.personalcapital.com
 *.empower.com
 *.retirementpartner.com
+*.neatcommerce.com
+*.neattest.com
+*.neat.com.hk
+*.neat.hk
+*.neat.wtf
 *.email.rea-group.com
 *.realestate.com.au
 *.propertypanel.realestate.com.au
@@ -517,7 +522,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -536,6 +540,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -569,6 +574,9 @@ g.*.slackhq.com
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com

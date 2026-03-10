@@ -1,3 +1,4 @@
+blawx.cdssandbox.xyz
 *.cas.l3harris.com
 *.cts.l3harris.com
 asterisk.thorntontomasetti.com
@@ -117,6 +118,7 @@ httpbin.org
 insomnia.rest
 konghq.com
 kuma.io
+accessibility.qinetiq.com
 *.accdata.experian.co.uk
 *.smartbusinessreports.com
 bi.experian.ie
