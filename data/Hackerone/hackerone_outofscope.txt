@@ -47,6 +47,10 @@ merchant-mobile-bff.doordash.com
 merchant-portal.doordash.com
 track.doordash.com
 unified-gateway.doordash.com
+7671800.bitstamp.net
+7671800.team.bitstamp.net
+16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
+domainconnect.bitstamp.net
 affiliates.robinhood.com
 api-sandbox.tradepmr.com
 api-validation.tradepmr.com
@@ -54,9 +58,16 @@ api.tradepmr.com
 auth-sandbox.tradepmr.com
 auth-validation.tradepmr.com
 auth.tradepmr.com
+autodiscover.bitstamp.net
+bounces.bitstamp.net
 careers.robinhood.com
 content.research.robinhood.com
 earlytalent.robinhood.com
+em1198.bitstamp.net
+em4296.team.bitstamp.net
+em9457.team.bitstamp.net
+enterpriseenrollment.bitstamp.net
+enterpriseregistration.bitstamp.net
 esg.robinhood.com
 events.robinhood.com
 fleet.infra.robinhood.net
@@ -73,7 +84,9 @@ roadshow.robinhood.com
 share.robinhood.com
 shop.robinhood.com
 startinvesting.robinhood.com
+status.bitstamp.net
 underthehoodpod.robinhood.com
+url6884.team.bitstamp.net
 vgs-api.robinhood.com
 weareallinvestors.robinhood.com
 sandbox.bitstamp.net
