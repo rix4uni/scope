@@ -1,2 +1,2 @@
-*.superdrug.com
-*.savers.co.uk
+*.voi.com
+*.voiscooters.com
