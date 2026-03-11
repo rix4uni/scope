@@ -261,13 +261,6 @@ freshdesk.com
 blstr.xyz
 blstr.co
 community.linktr.ee
-fr.shop.lululemon.com
-lululemon.me
-careers.lululemon.com
-info.lululemon.com
-pnimage.lululemon.com
-pnimages.lululemon.com
-mirror.co
 americangirlmena.com
 about.mattermost.com
 integrations.mattermost.com
@@ -2661,8 +2654,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-careers.sqills.com
-welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl

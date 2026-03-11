@@ -170,7 +170,6 @@ np.*.lfscnp.com
 *.pods.link
 *.playlist.link
 *.mylink.page
-*.lululemon.com
 *.staging.luno.com
 *staging.luno.com.ng
 *.cloud.mattermost.com
@@ -1004,15 +1003,6 @@ ic3.*.indriverapp.com
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
-*.hellofax.com
-*.docsend.com
-*.reclaim.ai
-*.helloworks.com
-*.hellosign.com
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1092,8 +1082,6 @@ ic3.*.indriverapp.com
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
-*.sqills.com
-*.sqills.team
 *.theperfumeshop.com
 *.toasttab.com
 *.xtrachef.com

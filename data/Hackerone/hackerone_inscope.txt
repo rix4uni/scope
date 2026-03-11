@@ -83,6 +83,7 @@ knowledge.hubspot.com
 *.hubapi.com
 *.hubspot.com
 chatspot.ai
+hubspot.net
 cloud.oppo.com
 drp.myoppo.com
 e.oppo.com
