@@ -2350,6 +2350,7 @@ partnerfeedback.booking.com
 procurement.booking.com
 recruitmentsurveys.booking.com
 spadmin.booking.com
+surveys.booking.com
 welcomekit.booking.com
 workforce-dev.voicedqs.booking.com
 workforce.booking.com
@@ -2581,18 +2582,6 @@ houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
-afspraakmaken.gamma.nl
-api.afspraakmaken.gamma.be
-api.afspraakmaken.gamma.nl
-api.maakafspraak.karwei.nl
-horrenconfigurator-fr.gamma.be
-horrenconfigurator-nl.gamma.be
-horrenconfigurator.karwei.nl
-karwei-2018.hetmooistegordijn.nl
-maakafspraak.karwei.nl
-mail.gamma.be
-mail.gamma.nl
-mail.karwei.nl
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com

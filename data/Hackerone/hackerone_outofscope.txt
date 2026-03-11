@@ -2035,6 +2035,7 @@ partnerfeedback.booking.com
 procurement.booking.com
 recruitmentsurveys.booking.com
 spadmin.booking.com
+surveys.booking.com
 welcomekit.booking.com
 workforce-dev.voicedqs.booking.com
 workforce.booking.com
