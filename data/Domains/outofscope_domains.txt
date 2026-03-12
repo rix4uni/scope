@@ -2616,9 +2616,7 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
+login.liferay.com
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be

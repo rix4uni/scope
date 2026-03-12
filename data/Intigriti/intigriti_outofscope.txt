@@ -1,3 +1,4 @@
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -120,10 +121,7 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-*.monzo.me
-community.monzo.com
-login.internal.monzo.com
-monzo.me
+login.liferay.com
 docs.moralis.io
 status.moralis.io
 *.nexuzhealth.pro

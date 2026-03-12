@@ -1,7 +1,4 @@
-api.voiapp.io
-io.voiapp.voi
-fm.voiapp.io
-mds.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
+fin.ai
+app.fin.ai
+aikidosecurity.aikido
+app.aikido.dev

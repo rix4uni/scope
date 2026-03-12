@@ -1070,8 +1070,6 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1128,8 +1126,6 @@ ic3.*.indriverapp.com
 *careers.vinted.com
 *news.vinted.com
 *company.vinted.com
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io

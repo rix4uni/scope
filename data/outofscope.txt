@@ -517,6 +517,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -547,7 +548,6 @@ g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
@@ -3240,9 +3240,7 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
+login.liferay.com
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be

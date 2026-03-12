@@ -380,6 +380,8 @@ intercom.com
 mcp.intercom.com
 api-iam.intercom.io
 *.mobile-messenger.intercom.com
+fin.ai
+app.fin.ai
 carsdirect.com
 pets.webmd.com
 member.webmd.com

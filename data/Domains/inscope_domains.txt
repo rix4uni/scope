@@ -270,6 +270,8 @@ app.intercom.io
 intercom.com
 mcp.intercom.com
 api-iam.intercom.io
+fin.ai
+app.fin.ai
 carsdirect.com
 pets.webmd.com
 member.webmd.com
@@ -3305,6 +3307,8 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+aikidosecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -3392,7 +3396,6 @@ digitaloceantest.com
 do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
-donorbox.org
 itscope.com
 itscope.de
 gripp.com
@@ -3599,8 +3602,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3835,13 +3836,6 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 testing.maventa.com
-api.voiapp.io
-io.voiapp.voi
-fm.voiapp.io
-mds.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com
