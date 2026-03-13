@@ -112,6 +112,8 @@ https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
 https://github.com/spiffe/spiffe
 https://github.com/spiffe/spire
+https://github.com/stripe/munkisrv
+https://github.com/stripe/smokescreen
 https://github.com/DopplerHQ/cli
 https://github.com/jitsi
 https://github.com/kubernetes-client
@@ -250,9 +252,6 @@ https://github.com/nextcloud/viewer
 https://github.com/nextcloud/android
 https://github.com/nextcloud/ios
 https://github.com/nextcloud/desktop
-https://github.com/pendulum-project/ntpd-rs
-https://github.com/pendulum-project/timestamped-socket
-https://github.com/pendulum-project/clock-steering
 https://github.com/owncloud/customgroups
 https://github.com/owncloud/guests
 https://github.com/owncloud/richdocuments

@@ -2863,6 +2863,7 @@ chat.x.com
 gnip.com
 grok.com
 grokipedia.com
+money.x.com
 x.com
 *.cloudflare.com
 support.cloudflare.com

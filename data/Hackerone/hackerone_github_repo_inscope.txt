@@ -64,6 +64,8 @@ https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
 https://github.com/spiffe/spiffe
 https://github.com/spiffe/spire
+https://github.com/stripe/munkisrv
+https://github.com/stripe/smokescreen
 https://github.com/DopplerHQ/cli
 https://github.com/jitsi
 https://github.com/kubernetes-client

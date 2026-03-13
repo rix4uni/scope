@@ -304,13 +304,6 @@ bus.*.indrive.com
 *.justfall.lol
 *.justplay.lol
 *.1v1.lol
-*.offre-odrvet.fr
-*.petpaw.com
-*.royalcanin.am
-*.royalcaninshop.com.ua
-*.solucionesrc.com.ar
-*.teile-deine-erfahrung-mit-royal-canin.com
-*.vet.petpaw.com
 *.who.int
 *.getbouncer.com
 *.grindrads.com
@@ -517,7 +510,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -546,7 +538,6 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
 *.nexuzhealth.pro
 *.vectus.in
@@ -619,6 +610,5 @@ g.*.slackhq.com
 *.telenor.com
 *.qzoneapp.com
 *.tencent.com
-*.ntpd-rs.pendulum-project.org
 *.owncloud.org
 *.owncloud.com
