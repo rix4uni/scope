@@ -1596,9 +1596,6 @@ mercadolibre.com.py
 mercadolibre.com.sv
 mercadolivre.com
 mercadopago.com.ec
-urbanclap.com
-urbancompany.com
-*partner.urbancompany.com
 *.dev.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
