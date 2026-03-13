@@ -1596,6 +1596,9 @@ mercadolibre.com.py
 mercadolibre.com.sv
 mercadolivre.com
 mercadopago.com.ec
+urbanclap.com
+urbancompany.com
+*partner.urbancompany.com
 *.dev.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
@@ -2068,7 +2071,6 @@ developer.gs.com
 goldmansachsindices.com
 marquee.gs.com
 research.gs.com
-fitvermogen.nl
 api.yoti.com
 ccloud.yoti.com
 code.yoti.com

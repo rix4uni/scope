@@ -360,6 +360,7 @@ bus.*.indrive.com
 *.gokangu.uy
 *.kangu.com.br
 *.kangu.tech
+*.urbanclap.com
 *.egadvertising.com
 *.expediaagents.com
 *.hoteis.com
@@ -527,6 +528,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co

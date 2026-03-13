@@ -1,2 +1,2 @@
-*.voi.com
-*.voiscooters.com
+*partner.urbancompany.com
+*.datacamp.com

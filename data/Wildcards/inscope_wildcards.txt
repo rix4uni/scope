@@ -613,6 +613,7 @@ ic3.*.indriverapp.com
 *.mercadopago.com.pe
 *.mercadopago.com.uy
 *.mlstatic.com
+*partner.urbancompany.com
 *.dev.remitly.com
 *.int.remitly.com
 *.flickr.com
@@ -997,6 +998,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com

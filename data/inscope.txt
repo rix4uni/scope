@@ -613,6 +613,7 @@ ic3.*.indriverapp.com
 *.mercadopago.com.pe
 *.mercadopago.com.uy
 *.mlstatic.com
+*partner.urbancompany.com
 *.dev.remitly.com
 *.int.remitly.com
 *.flickr.com
@@ -997,6 +998,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -3523,6 +3525,8 @@ mercadolibre.com.py
 mercadolibre.com.sv
 mercadolivre.com
 mercadopago.com.ec
+urbanclap.com
+urbancompany.com
 ablink.info.remitly.com
 access-sandbox.remitly.com
 access.remitly.com
@@ -3842,7 +3846,6 @@ developer.gs.com
 goldmansachsindices.com
 marquee.gs.com
 research.gs.com
-fitvermogen.nl
 api.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -4569,6 +4572,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
