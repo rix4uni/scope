@@ -298,6 +298,7 @@ issuer.idpay-uat.unico.io
 openfinance.unico.io
 secure.unico.io
 unico.io
+p2p.walletbot.me
 pay.wallet.tg
 wallet.tg
 walletbot.me
@@ -987,6 +988,10 @@ link.co
 link.com
 app.link.com
 support.link.com
+*.metronome.com
+metronome.com
+metronone.com
+docs.metronome.com
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com

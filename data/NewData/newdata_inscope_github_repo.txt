@@ -1,2 +1,4 @@
-https://github.com/stripe/munkisrv
-https://github.com/stripe/smokescreen
+https://github.com/AikidoSec/firewall-node
+https://github.com/AikidoSec/firewall-ruby
+https://github.com/AikidoSec/firewall-php
+https://github.com/AikidoSec/firewall-python
