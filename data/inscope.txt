@@ -4125,13 +4125,6 @@ help.quora.com
 careers.quora.com
 business.quora.com
 poe.com
-account.brave.com
-api-dashboard.search.brave.com
-basicattentiontoken.org
-brave.com
-creators.basicattentiontoken.org
-search.brave.com
-talk.brave.com
 portswigger.net
 ai.portswigger.net
 collections.portswigger.net
