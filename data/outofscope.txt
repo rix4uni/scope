@@ -508,6 +508,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -535,6 +536,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.cineramabios.nl
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
@@ -3189,6 +3191,15 @@ rebel.houseofhr.com
 humo.be
 abonnement.humo.be
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
