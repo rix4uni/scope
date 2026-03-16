@@ -2594,6 +2594,9 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be
@@ -2653,7 +2656,6 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
-station.veriff.com
 api.prod.svc.vintedpay.com
 callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com

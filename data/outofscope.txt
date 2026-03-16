@@ -508,7 +508,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -537,6 +536,7 @@ g.*.slackhq.com
 *.grafana.net
 *.swop.com
 *.cineramabios.nl
+*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
@@ -3207,6 +3207,9 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be
@@ -3266,7 +3269,6 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
-station.veriff.com
 api.prod.svc.vintedpay.com
 callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com
