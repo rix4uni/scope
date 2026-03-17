@@ -30,6 +30,19 @@ texis.itcapital.io
 *.digi-mobile.be
 *.insky.be
 digicampus.digimobil.es
+*.it.datacamp.com
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 anchor.digitalocean.com
@@ -52,6 +65,7 @@ segment.digitalocean.com
 status.digitalocean.com
 tracking.digitalocean.com
 waves.digitalocean.com
+github.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -196,6 +210,7 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
+station.veriff.com
 api.prod.svc.vintedpay.com
 callbacks.prod.svc.vintedpay.com
 *.homerr.com
