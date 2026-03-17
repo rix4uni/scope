@@ -1424,7 +1424,6 @@ yellowpepper.com
 developer.worldcoin.org
 getworldcoin.com
 docs.world.org
-id.worldcoin.org
 toolsforhumanity.com
 world.org
 worldcoin.org
@@ -1827,12 +1826,6 @@ api.stripe.com
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-yourdomain.freshcaller.com
-yourdomain.freshchat.com
-yourdomain.freshdesk.com
-yourdomain.freshrelease.com
-yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 bigcommerce-adapter.judge.me
 judge.me
 bigcommerce.com
@@ -3027,7 +3020,6 @@ basecamp.app
 basecamp.com
 hey.app
 hey.com
-fizzy.do
 snapcraft.io
 launchpad.37signals.com
 world.hey.com
@@ -3508,16 +3500,6 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 prijsmepper.nl
-app.lansweeper.com
-fb.lansweeper.com
-edge.lansweeper.com
-api.lansweeper.com
-backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-lansweeper.com
 libelle.nl
 marionnaud.fr
 app.marionnaud.fr

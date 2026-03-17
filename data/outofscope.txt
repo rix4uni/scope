@@ -1522,6 +1522,7 @@ sso.m-pesa.vm.co.mz
 sso.pr.m-pesa.vm.co.mz
 bigstockphoto.fr
 ofcourse.com
+onrender.com
 metamask.io
 metamask.github.io
 signature-insights.api.cx.metamask.io
@@ -1953,13 +1954,6 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 covid19app.who.int
-freshworks.atlassian.net
-yourdomain.myfreshworks.com
-wchat.freshchat.com
-freshworks.com
-yourdomain.freshping.io
-yourdomain.freshstatus.io
-yourdomain.freshsurvey.io
 corda.net
 r3.com
 community.doppler.com
@@ -3203,8 +3197,6 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 login.liferay.com
 community.monzo.com

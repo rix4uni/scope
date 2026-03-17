@@ -392,6 +392,7 @@ sso.pr.m-pesa.vm.co.mz
 *evobus.com
 bigstockphoto.fr
 ofcourse.com
+onrender.com
 metamask.io
 metamask.github.io
 signature-insights.api.cx.metamask.io
@@ -869,13 +870,6 @@ support.hypr.com
 *.who.int
 covid19app.who.int
 *.getbouncer.com
-freshworks.atlassian.net
-yourdomain.myfreshworks.com
-wchat.freshchat.com
-freshworks.com
-yourdomain.freshping.io
-yourdomain.freshstatus.io
-yourdomain.freshsurvey.io
 corda.net
 r3.com
 community.doppler.com
