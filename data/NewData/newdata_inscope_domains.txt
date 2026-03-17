@@ -1,4 +1,12 @@
-api.whatnot.com
-auction-service.whatnot.com
-live-service.whatnot.com
-whatnot.com
+aikidosecurity.aikido
+app.aikido.dev
+gamma.nl
+gamma.be
+karwei.nl
+kassa.gamma.nl
+kassa.gamma.be
+kassa.karwei.nl
+mijn.gamma.nl
+mijn.gamma.be
+mijn.karwei.nl
+irmg.nl

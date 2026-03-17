@@ -3294,6 +3294,8 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+aikidosecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -3429,6 +3431,16 @@ campagne.iciparisxl.lu
 campagne.iciparisxl.be
 servicenl.iciparisxl.be
 pourvous.nl
+gamma.nl
+gamma.be
+karwei.nl
+kassa.gamma.nl
+kassa.gamma.be
+kassa.karwei.nl
+mijn.gamma.nl
+mijn.gamma.be
+mijn.karwei.nl
+irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com

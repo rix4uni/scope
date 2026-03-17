@@ -511,6 +511,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -538,6 +539,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
 *.monzo.me
 *.nexuzhealth.pro
