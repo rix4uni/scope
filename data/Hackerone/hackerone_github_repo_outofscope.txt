@@ -1,4 +1,3 @@
-https://github.com/awslabs
 https://github.com/supabase-community
 https://github.com/modelcontextprotocol
 https://github.com/netflix/consoleme

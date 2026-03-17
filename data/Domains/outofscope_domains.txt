@@ -2106,6 +2106,7 @@ testuat.oportun.com
 webmail2.oportun.com
 webvpn.oportun.com
 blog.bumble.com
+brand.bumble.com
 honey.bumble.com
 shop.bumble.com
 thebeehive.bumble.com
