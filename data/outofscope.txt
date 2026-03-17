@@ -330,6 +330,9 @@ bus.*.indrive.com
 *.cvs.com
 *.walgreens.com
 *.hcltechsw.com
+*.chealth.io
+*.currenthealth.com
+*.snap40.com
 *.atp-exodus.com
 *.mtnfootball.com
 *.acordocerto.com.br
@@ -3270,7 +3273,6 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
-marketing.nitropack.io
 getflywheel.com
 wpengine.com
 aquawardsspatial.water-link.be

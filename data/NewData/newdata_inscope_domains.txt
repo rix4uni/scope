@@ -1,2 +1,4 @@
-co.uk.getmondo
-monzo.com
+api.whatnot.com
+auction-service.whatnot.com
+live-service.whatnot.com
+whatnot.com

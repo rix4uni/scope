@@ -914,6 +914,11 @@ download.krisp.ai
 krisp.ai
 teams.krisp.ai
 upld.krisp.ai
+*.whatnot.com
+api.whatnot.com
+auction-service.whatnot.com
+live-service.whatnot.com
+whatnot.com
 accounts.khealth.com
 ai.kanghealth
 api.khealth.com

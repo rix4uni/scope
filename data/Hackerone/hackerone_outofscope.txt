@@ -1011,6 +1011,9 @@ support.truecaller.com
 investnext.com
 help.evernote.com
 *.hcltechsw.com
+*.chealth.io
+*.currenthealth.com
+*.snap40.com
 api.lemlist.com
 api.taplio.com
 api.tweethunter.io
