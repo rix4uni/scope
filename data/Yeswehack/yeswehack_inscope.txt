@@ -266,6 +266,7 @@ sms.infomaniak.com
 developer.infomaniak.com
 invitation.infomaniak.com
 academy.infomaniak.com
+mail-builder.infomaniak.com
 yeswehack.staging.komoju.com
 multipay-staging.test.komoju.com
 doc.komoju.com
