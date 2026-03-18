@@ -1,5 +1,11 @@
 ## scope
-This repo maintain's in-scope and out-of-scope
+
+**scope** is a CLI tool and curated dataset for querying bug bounty program scopes across multiple platforms (Bugcrowd, HackerOne, Intigriti, YesWeHack). It helps security researchers quickly find which programs have specific domains or assets in scope.
+
+### What this repo contains:
+- **Automated data**: Scope data fetched and updated every 10 minutes from popular bug bounty platforms
+- **CLI tool**: A simple command to search programs by target (e.g., `scope *.tidal.com`)
+- **Categorized files**: Wildcards, domains, and GitHub repos separated by platform and scope type
 
 #### NewData:
 - #### Wildcards
@@ -72,3 +78,150 @@ You can improve these regex for more accurate data.
 - https://regex101.com/r/1z8v70/1
 - https://regex101.com/r/1z8v70/2
 - https://regex101.com/r/1z8v70/3
+
+## Installation
+
+Install the `scope` CLI tool with a single command:
+
+```console
+wget -q -O /usr/bin/scope https://raw.githubusercontent.com/rix4uni/scope/refs/heads/main/scope && chmod +x /usr/bin/scope
+```
+
+## Usage
+
+Search for bug bounty programs by domain, wildcard, or asset:
+
+```console
+▶ scope *.tidal.com
+{
+  "name": "TIDAL",
+  "url": "https://bugcrowd.com/engagements/tidal-bugbounty",
+  "allows_disclosure": true,
+  "managed_by_bugcrowd": true,
+  "safe_harbor": "full",
+  "max_payout": 5000,
+  "targets": {
+    "in_scope": [
+      {
+        "type": "website",
+        "target": "https://tidal.com/",
+        "uri": "https://tidal.com/",
+        "name": "*.tidal.com",
+        "ipAddress": null
+      },
+      {
+        "type": "website",
+        "target": "*.wimpmusic.com",
+        "uri": "",
+        "name": "*.wimpmusic.com",
+        "ipAddress": null
+      },
+      {
+        "type": "website",
+        "target": "*.tidalhifi.com",
+        "uri": "",
+        "name": "*.tidalhifi.com",
+        "ipAddress": null
+      },
+      {
+        "type": "api",
+        "target": "api.tidal.com",
+        "uri": "",
+        "name": "api.tidal.com",
+        "ipAddress": null
+      },
+      {
+        "type": "website",
+        "target": "*tidalhi.fi",
+        "uri": "",
+        "name": "*tidalhi.fi",
+        "ipAddress": null
+      },
+      {
+        "type": "website",
+        "target": "*.tdl.sh",
+        "uri": "",
+        "name": "*.tdl.sh",
+        "ipAddress": null
+      },
+      {
+        "type": "ios",
+        "target": "Tidal Client for iOS",
+        "uri": "",
+        "name": "Tidal Client for iOS",
+        "ipAddress": null
+      },
+      {
+        "type": "android",
+        "target": "Tidal Client for Android",
+        "uri": "",
+        "name": "Tidal Client for Android",
+        "ipAddress": null
+      },
+      {
+        "type": "other",
+        "target": "https://offer.tidal.com/download",
+        "uri": "https://offer.tidal.com/download",
+        "name": "Tidal Desktop Client",
+        "ipAddress": null
+      },
+      {
+        "type": "other",
+        "target": "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)",
+        "uri": "",
+        "name": "Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)",
+        "ipAddress": null
+      }
+    ],
+    "out_of_scope": [
+      {
+        "type": "other",
+        "target": "https://developer.tidal.com",
+        "uri": "https://developer.tidal.com",
+        "name": "developer.tidal.com",
+        "ipAddress": ""
+      },
+      {
+        "type": "other",
+        "target": "https://embed.tidal.com",
+        "uri": "https://embed.tidal.com",
+        "name": "embed.tidal.com",
+        "ipAddress": ""
+      }
+    ]
+  }
+}
+```
+
+```console
+▶ scope *.gov.sg
+{
+  "id": "govtech-vulnerability-disclosure-programme-policy",
+  "name": "GovTech - Vulnerability Disclosure Programme",
+  "public": true,
+  "disabled": false,
+  "managed": null,
+  "min_bounty": null,
+  "max_bounty": null,
+  "targets": {
+    "in_scope": [
+      {
+        "target": "*.gov.sg",
+        "type": "other"
+      },
+      {
+        "target": "Domains where GovTech is the registrar",
+        "type": "other"
+      }
+    ],
+    "out_of_scope": [
+      {
+        "target": "All domains or subdomains not listed in the above list of 'Scopes'",
+        "type": "other"
+      }
+    ]
+  }
+}
+```
+
+The tool searches across all supported platforms (Bugcrowd, HackerOne, Intigriti, YesWeHack) and returns complete program details including in-scope and out-of-scope targets.

@@ -1,0 +1,6 @@
+TARGET=$1
+
+curl -s "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/refs/heads/main/data/bugcrowd_data.json" | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r ".[] | select(.targets.in_scope[] | select(.name==\"$TARGET\" or .target==\"$TARGET\" or .uri==\"$TARGET\"))"
+curl -s "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/refs/heads/main/data/hackerone_data.json" | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r ".[] | select(.targets.in_scope[] | select(.eligible_for_bounty==true and (.asset_identifier==\"$TARGET\" or .instruction==\"$TARGET\")))"
+curl -s "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/refs/heads/main/data/intigriti_data.json" | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r ".[] | select(.targets.in_scope[] | select(.impact!=\"No Bounty\" and .endpoint==\"$TARGET\"))"
+curl -s "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/refs/heads/main/data/yeswehack_data.json" | grep -aEv "https://play.google.com/|https://apps.apple.com/" | jq -r ".[] | select(.targets.in_scope[].target==\"$TARGET\")"
