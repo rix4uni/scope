@@ -1,7 +1,4 @@
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
+*.aikido.dev
 *.axelspringer.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
@@ -105,6 +102,8 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 login.liferay.com
 *.monzo.me
