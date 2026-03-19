@@ -19,6 +19,12 @@ portal.clearpay.co.uk
 mobileapi.clearpay.com
 portalapi.eu.clearpay.co.uk
 api.clearpay.com
+aiven.io
+regatta.aiven.io
+console.aiven.io
+api.aiven.io
+github.com
+falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 api.anytask.com
 anytask.com
 api.anytask.thesecurityteam.rocks
@@ -72,7 +78,6 @@ dashboard.fga.dev
 api.us1.fga.dev
 customers.us1.fga.dev
 play.fga.dev
-github.com
 auth0.net
 auth0.com
 samltool.io
