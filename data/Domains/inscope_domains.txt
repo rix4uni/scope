@@ -3436,6 +3436,7 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+justonweb.be
 profiles-api.datacamp.com
 app.datacamp.com
 assessment-api.datacamp.com
@@ -3530,16 +3531,6 @@ campagne.iciparisxl.lu
 campagne.iciparisxl.be
 servicenl.iciparisxl.be
 pourvous.nl
-gamma.nl
-gamma.be
-karwei.nl
-kassa.gamma.nl
-kassa.gamma.be
-kassa.karwei.nl
-mijn.gamma.nl
-mijn.gamma.be
-mijn.karwei.nl
-irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
