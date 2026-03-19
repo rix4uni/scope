@@ -511,7 +511,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -530,6 +529,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
