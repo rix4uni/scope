@@ -932,6 +932,14 @@ realcommercial.com.au
 property.com.au
 next.flatmates.com.au
 api-next.flatmates.com.au
+recordedfuture.com
+tria.ge
+id.recordedfuture.com
+hatching.io
+geminiadvisory.io
+bgpview.io
+app.recordedfuture.com
+api.recordedfuture.com
 *.seek.com.au
 seekcdn.com
 *.skinfra.xyz
