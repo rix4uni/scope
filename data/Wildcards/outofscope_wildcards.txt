@@ -295,6 +295,7 @@ bus.*.indrive.com
 *.fastly.net
 *.krisp.ai
 *.profitect.com
+*.rwsofficedepot.reflexisinc.com
 *.zebracard.com
 *medialibrary.zebra.com
 *.clover.com
@@ -531,7 +532,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -541,9 +541,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
-*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com

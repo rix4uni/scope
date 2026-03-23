@@ -976,7 +976,6 @@ en.trendyol.com
 *.web3factory.consensys.net
 staking.consensys.io
 consensys.io
-etherscan.io
 *.gethypr.com
 *.hypr.com
 access.app
@@ -1909,6 +1908,7 @@ app.mona.co
 developer-api.crypto.com
 developer-platform-api.crypto.com
 developer.crypto.com
+etherscan.io
 js.crypto.com
 merchant.crypto.com
 nadex.com
@@ -2147,6 +2147,7 @@ horizonchaseturbo.com
 nexus.live.ucs.on.epicgames.com
 urc-auth-uefn.live.ucs.on.epicgames.com
 urc-uefn.live.ucs.on.epicgames.com
+urc-uefn.livetesting.ucs.on.epicgames.com
 communities.epicgames.com
 fn-commerce-live.eeef.live.use1a.on.epicgames.com
 fngw-svc-ds-livefn.ol.epicgames.net

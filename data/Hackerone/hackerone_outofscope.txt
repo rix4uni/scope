@@ -670,6 +670,7 @@ oe.travelproducts.jetblue.com
 prod.travelproducts.jetblue.com
 travelproducts.jetblue.com
 *.profitect.com
+*.rwsofficedepot.reflexisinc.com
 *.zebracard.com
 *medialibrary.zebra.com
 cmm01.sl.zebra.com
@@ -855,6 +856,7 @@ globalpayments.com
 remotesupport.heartland.us
 signin.costco.com
 consensys-solutions.net
+etherscan.io
 mesh.xyz
 events.on-running.com
 events.on.com

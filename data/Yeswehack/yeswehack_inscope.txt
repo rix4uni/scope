@@ -508,6 +508,8 @@ account.withings.com
 app.withings.com
 developer.withings.com
 scalews.withings.com
+preprod-xam.xelians.fr
+preprod-datahub.xelians.fr
 yeswehack.com
 api.yeswehack.com
 apps.yeswehack.com
