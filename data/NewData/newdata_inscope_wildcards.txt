@@ -1,6 +1,10 @@
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
+*.yadifa.eu
 *.gamma.nl
 *.gamma.be
 *.karwei.nl
