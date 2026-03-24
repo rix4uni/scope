@@ -2584,8 +2584,6 @@ mobile.clearme.com
 my.clearme.com
 scan.clearme.com
 web-edge.clearme.com
-moneybird.com
-moneybirdstorage.com
 udemy.com
 yourcompany.udemy.com
 *.kayak.com
