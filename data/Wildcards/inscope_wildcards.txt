@@ -1010,6 +1010,7 @@ ic3.*.indriverapp.com
 *.reclaim.ai
 *.helloworks.com
 *.hellosign.com
+*.dash.ai
 *.das.eu
 *.dns.eu
 *.eurid.eu
@@ -1042,16 +1043,6 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be

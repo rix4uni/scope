@@ -540,7 +540,6 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.cineramabios.nl
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
