@@ -706,9 +706,9 @@ tria.ge
 id.recordedfuture.com
 hatching.io
 geminiadvisory.io
-bgpview.io
 app.recordedfuture.com
 api.recordedfuture.com
+securitytrails.com
 seekcdn.com
 graphql.seek.com
 auth.seek.com
@@ -1052,6 +1052,7 @@ aiq-prod.codebig2.net
 staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
+sembcorp.com
 api.segment.io
 segment.com
 api.sendgrid.com
@@ -1119,8 +1120,11 @@ e.oppo.com
 gcsm.oppoit.com
 safe.heytap.com
 u.oppomobile.com
+coloros.com
 oppo.com
 opposhop.cn
+zhongbao-ear.heytap.com
+zhongbao.heytap.com
 id.heytap.com
 id.oppo.com
 bugbounty-ctf.1password.com
@@ -3374,7 +3378,6 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
-challenge-0326.intigriti.io
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -3771,6 +3774,14 @@ vrt.be
 myaccount.vtm.be
 vtm.be
 vtmgo.be
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com
@@ -4075,6 +4086,7 @@ developer.infomaniak.com
 invitation.infomaniak.com
 academy.infomaniak.com
 mail-builder.infomaniak.com
+newsletter.infomaniak.com
 yeswehack.staging.komoju.com
 multipay-staging.test.komoju.com
 doc.komoju.com

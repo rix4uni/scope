@@ -29,6 +29,7 @@ texis.itcapital.io
 *.digi-mobile.be
 *.insky.be
 digicampus.digimobil.es
+visitors.dpgmedia.be
 *.it.datacamp.com
 app.datacamp.com
 ast-viewer.datacamp.com
@@ -195,6 +196,7 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
+customerservice.vtm.be
 api.prod.svc.vintedpay.com
 callbacks.prod.svc.vintedpay.com
 *.homerr.com

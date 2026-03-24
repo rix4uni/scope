@@ -340,6 +340,7 @@ bus.*.indrive.com
 *.mtnfootball.com
 *.acordocerto.com.br
 *.sky.com.mx
+*tworks-att.com
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com
@@ -1212,6 +1213,14 @@ learn.ynab.com
 support.zendesk.com
 zendesk.com
 blawx.cdssandbox.xyz
+gonetzero.ai
+singaporemint.com
+sembcorp-fuzhou.com
+sembcorp.com
+sembcorpmyingyanipp.com
+sembcorppower.com
+sembcorpsalalah.com.om
+wiltoninternational.com
 asterisk.thorntontomasetti.com
 coresso.thorntontomasetti.com
 defenceshare.mod.uk
@@ -3162,6 +3171,7 @@ relocate-with-us.capital.com
 3cxby.itcapital.io
 texis.itcapital.io
 digicampus.digimobil.es
+visitors.dpgmedia.be
 app.datacamp.com
 ast-viewer.datacamp.com
 confluence.datacamp.com
@@ -3289,6 +3299,7 @@ wallet.uphold.com
 innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
+customerservice.vtm.be
 api.prod.svc.vintedpay.com
 callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com

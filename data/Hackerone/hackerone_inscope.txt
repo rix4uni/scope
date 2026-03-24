@@ -1,3 +1,4 @@
+sembcorp.com
 *.anduril.au
 *.anduril.com
 *.anduril.com.au
@@ -90,8 +91,11 @@ e.oppo.com
 gcsm.oppoit.com
 safe.heytap.com
 u.oppomobile.com
+coloros.com
 oppo.com
 opposhop.cn
+zhongbao-ear.heytap.com
+zhongbao.heytap.com
 id.heytap.com
 id.oppo.com
 bugbounty-ctf.1password.com

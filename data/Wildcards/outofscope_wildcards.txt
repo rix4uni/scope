@@ -340,6 +340,7 @@ bus.*.indrive.com
 *.mtnfootball.com
 *.acordocerto.com.br
 *.sky.com.mx
+*tworks-att.com
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com

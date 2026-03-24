@@ -937,9 +937,9 @@ tria.ge
 id.recordedfuture.com
 hatching.io
 geminiadvisory.io
-bgpview.io
 app.recordedfuture.com
 api.recordedfuture.com
+securitytrails.com
 *.seek.com.au
 seekcdn.com
 *.skinfra.xyz

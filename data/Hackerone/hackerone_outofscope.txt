@@ -1,4 +1,12 @@
 blawx.cdssandbox.xyz
+gonetzero.ai
+singaporemint.com
+sembcorp-fuzhou.com
+sembcorp.com
+sembcorpmyingyanipp.com
+sembcorppower.com
+sembcorpsalalah.com.om
+wiltoninternational.com
 *.cas.l3harris.com
 *.cts.l3harris.com
 asterisk.thorntontomasetti.com
@@ -1232,6 +1240,7 @@ development.forescoutcloud.net
 mgmtpod-1.development.forescoutcloud.net
 mgmtpod-10.development.forescoutcloud.net
 *.sky.com.mx
+*tworks-att.com
 mydirectv.com
 accbusinesspricing.att.com
 att.com
