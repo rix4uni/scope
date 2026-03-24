@@ -258,6 +258,7 @@ db.*.supabase.co
 bus.*.indrive.com
 *.daimler.com
 *.fuso.com
+*.mitsubishi-fuso.com
 *.thomasbuildbuses.com
 *evobus.com
 *.api.cx.metamask.io

@@ -396,6 +396,7 @@ sso.m-pesa.vm.co.mz
 sso.pr.m-pesa.vm.co.mz
 *.daimler.com
 *.fuso.com
+*.mitsubishi-fuso.com
 *.thomasbuildbuses.com
 *evobus.com
 bigstockphoto.fr
