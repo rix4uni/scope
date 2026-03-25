@@ -140,8 +140,6 @@ consensus2023.coindesk.com
 consensus2024.coindesk.com
 uat.accounts.coindesk.com
 staging.coindesk.com
-admin.selectwifi.xfinity.com
-harvard.xfinity.com
 comcastbiz.net
 console.delltechnologies.com
 educate.dell.com
@@ -586,6 +584,7 @@ docs.wise.com
 oauth.xfinity.com
 login.xfinity.com
 business.comcast.com
+admin.selectwifi.xfinity.com
 app.ynab.com
 support.ynab.com
 develop-app.ynab.com
@@ -2539,6 +2538,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 demorgen.be

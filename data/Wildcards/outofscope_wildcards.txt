@@ -16,10 +16,6 @@
 *.freshdesk.com
 *.bullish.com
 *.cisco.com
-*.hfc.comcastbusiness.net
-hsd1.*.comcast.net
-*business.comcast.com
-*.sys.comcast.net
 *.dell.com
 *.delltechnologies.com
 *.sandbox.directly.com
@@ -179,6 +175,8 @@ argocd.*.uidapi.com
 *.xerxessecure.com
 *.cimcontent.net
 *.identity.xfinity.com
+*.hfc.comcastbusiness.net
+hsd1.*.comcast.net
 *.pulseinsights.com
 *.wurfulcloud.com
 *.appcenter.ms
@@ -526,6 +524,9 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
