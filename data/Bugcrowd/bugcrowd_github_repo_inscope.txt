@@ -44,4 +44,3 @@ https://github.com/ProjectOpenSea/seaport
 https://github.com/pinterest
 https://github.com/electroneum/electroneum-sc
 https://github.com/tempus-ex
-https://github.com/transferwise

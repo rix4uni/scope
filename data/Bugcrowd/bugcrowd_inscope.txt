@@ -215,6 +215,9 @@ dimensions.cloudinary.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 coindesk.com
+*.xfinity.com
+*.comcast.com
+*.xcal.tv
 *.sys.comcast.net
 business.comcast.com
 xfinity.com
@@ -1335,10 +1338,6 @@ magicplanetmena.com
 networksolutions.com
 bluehost.com
 hostgator.com
-transferwise.com
-*.transferwise.com
-wise.com
-*.wise.com
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com
