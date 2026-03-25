@@ -1338,6 +1338,10 @@ magicplanetmena.com
 networksolutions.com
 bluehost.com
 hostgator.com
+transferwise.com
+*.transferwise.com
+wise.com
+*.wise.com
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com

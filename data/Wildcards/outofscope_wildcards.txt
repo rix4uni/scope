@@ -173,6 +173,9 @@ argocd.*.uidapi.com
 *.networksolutions.com
 *.bluehost.com
 *.hostgator.com
+*.tw.com
+*.tw.ee
+*.transferwise.tech
 *.xerxessecure.com
 *.cimcontent.net
 *.identity.xfinity.com
@@ -507,9 +510,6 @@ online.*.skybingo.com
 *.polishmywriting.com
 *.scrollkit.com
 *.blockspring.com
-*.concrete5.org
-*.concretecms.com
-*.concretecms.org
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
