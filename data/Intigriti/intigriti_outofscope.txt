@@ -1,3 +1,4 @@
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk

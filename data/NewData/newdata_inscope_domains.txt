@@ -1,13 +1,2 @@
-bugcrowd.charm.felixforus.ca
-bugcrowd.lucky.felixforus.ca
-gamma.nl
-gamma.be
-karwei.nl
-kassa.gamma.nl
-kassa.gamma.be
-kassa.karwei.nl
-mijn.gamma.nl
-mijn.gamma.be
-mijn.karwei.nl
-irmg.nl
-cz.skodaauto.myskoda
+aikidosecurity.aikido
+app.aikido.dev
