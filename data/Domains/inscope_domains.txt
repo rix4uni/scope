@@ -234,6 +234,8 @@ blog.etsy.com
 careers.etsy.com
 help.etsy.com
 community.etsy.com
+bugcrowd.charm.felixforus.ca
+bugcrowd.lucky.felixforus.ca
 financialforce.com
 sb-console-api.fireblocks.io
 sb-mobile-api.fireblocks.io
@@ -3523,6 +3525,16 @@ campagne.iciparisxl.lu
 campagne.iciparisxl.be
 servicenl.iciparisxl.be
 pourvous.nl
+gamma.nl
+gamma.be
+karwei.nl
+kassa.gamma.nl
+kassa.gamma.be
+kassa.karwei.nl
+mijn.gamma.nl
+mijn.gamma.be
+mijn.karwei.nl
+irmg.nl
 kruidvat.nl
 kruidvat.be
 kruidvatkids.nl
@@ -3712,6 +3724,7 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
+cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com

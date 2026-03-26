@@ -310,6 +310,8 @@ careers.etsy.com
 help.etsy.com
 community.etsy.com
 *.etsy.com
+bugcrowd.charm.felixforus.ca
+bugcrowd.lucky.felixforus.ca
 financialforce.com
 *.financialforce.com
 *.certinia.com

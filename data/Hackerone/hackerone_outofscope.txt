@@ -1244,6 +1244,8 @@ attsuppliers.com
 authkeysmx01.att.com.mx
 c2m-projectone.att.com
 clec.att.com
+plasma-coreapi.att.com
+plasma.att.com
 prod-taxexempt.att.com
 projectone.att.com
 rcloud.social
