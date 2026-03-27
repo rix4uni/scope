@@ -597,14 +597,6 @@ g.*.slackhq.com
 *.omgeving.vlaanderen.be
 *.docker.dev
 *.gouv.fr
-*.ftp.infomaniak.com
-*.vps.infomaniak.com
-*.myd.infomaniak.com
-*.jcloud.ik-server.com
-*.jpc.infomaniak.com
-*.jpe.infomaniak.com
-*.infomaniak.cloud
-*.dbaas.infomaniak.cloud
 *.louisvuitton.com
 *.osp.ovh.com
 *dev.swapcard.com

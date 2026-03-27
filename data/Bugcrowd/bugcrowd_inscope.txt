@@ -284,7 +284,6 @@ push-d-gw.cloud.etoro.com
 partners.etoro.com
 kyc.etoro.com
 kyc-src.etoro.com
-helpers.bullsheet.me
 etoropartners.com
 etorologsapi.etoro.com
 delta.app
@@ -293,7 +292,6 @@ cashier.etoro.com
 cashier-src.etoro.com
 candle.etoro.com
 candle-src.etoro.com
-bullsheet.me
 billing.etoro.com
 billing-pci.etoro.com
 api.etoro.com

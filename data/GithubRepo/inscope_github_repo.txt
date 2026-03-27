@@ -216,7 +216,6 @@ https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/rsyncit
 https://github.com/tchapgouv
 https://github.com/expressvpn/lightway
-https://github.com/Infomaniak/desktop-kDrive
 https://github.com/nextcloud/server
 https://github.com/nextcloud/activity
 https://github.com/nextcloud/bruteforcesettings
