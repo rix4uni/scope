@@ -544,6 +544,7 @@ g.*.slackhq.com
 *.grafana.net
 *.swop.com
 *.configuratoren.nl
+*.cineramabios.nl
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
@@ -566,9 +567,6 @@ g.*.slackhq.com
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
 *.tempo-team.de
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
@@ -2085,7 +2083,6 @@ wsmb2bresv.navient.com
 adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
-investnext.com
 help.evernote.com
 api.lemlist.com
 api.taplio.com
@@ -3230,6 +3227,15 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
@@ -3272,8 +3278,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-careers.sqills.com
-welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl
@@ -3320,6 +3324,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 wpengine.com
 aquawardsspatial.water-link.be
