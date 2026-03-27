@@ -1402,7 +1402,6 @@ via.rider
 *.xiaomi.net
 *.xiaomi.org
 *.xiaomiev.com
-*.xiaomimimo.com
 *.xiaomimobile.com
 *.xiaomiprint.com
 *.xiaomiwear.com
