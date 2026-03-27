@@ -1206,6 +1206,7 @@ learn.ynab.com
 support.zendesk.com
 zendesk.com
 blawx.cdssandbox.xyz
+strapi.cdssandbox.xyz
 asterisk.thorntontomasetti.com
 careers.draken.aero
 coresso.thorntontomasetti.com
@@ -3197,15 +3198,6 @@ houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
-autodiscover.innogames.de
-exchange.innogames.de
-igjam.eu
-jamf.innogames.com
-mail.innogames.com
-newsroom.innogames.com
-pn.innogames.com
-slack.innogames.de
-typingmind.innogames.de
 afspraakmaken.gamma.nl
 api.afspraakmaken.gamma.be
 api.afspraakmaken.gamma.nl

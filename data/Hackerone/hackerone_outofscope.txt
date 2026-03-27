@@ -1,4 +1,5 @@
 blawx.cdssandbox.xyz
+strapi.cdssandbox.xyz
 *.cas.l3harris.com
 *.cts.l3harris.com
 asterisk.thorntontomasetti.com
