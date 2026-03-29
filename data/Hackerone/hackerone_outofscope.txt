@@ -20,6 +20,7 @@ apjevents.twilio.com
 events.cdpweek.com
 segment.com
 twilio.com
+jobs.twilio.com
 lab.authy.com
 signal.twilio.com
 status.segment.com
