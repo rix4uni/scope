@@ -516,6 +516,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -534,6 +535,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -543,6 +545,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.cineramabios.nl
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
@@ -593,8 +596,6 @@ g.*.slackhq.com
 *.ondailymotion.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
-*.docker.dev
-*.gouv.fr
 *.louisvuitton.com
 *.osp.ovh.com
 *dev.swapcard.com

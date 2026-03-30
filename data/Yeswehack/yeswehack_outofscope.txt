@@ -112,9 +112,6 @@ siilo.com
 test.ys7.com
 pb.ys7.com
 ezcpcloudiot.eziot.com
-*.docker.dev
-*.gouv.fr
-fcp.integ01.dev-franceconnect.fr
 cloud.cloud2.harmanaudio.com
 cloud.cloud1.harmanaudio.com
 cloud.cloud3.harmanaudio.com

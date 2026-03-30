@@ -940,6 +940,8 @@ get8x8.com
 *.contactnow.8x8.com
 *.jitsi.org
 *.sameroom.io
+meet.jit.si
+8x8.vc
 investors.8x8.com
 mobileidentity.8x8.com
 api.mobileidentity.8x8.com

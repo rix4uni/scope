@@ -1,3 +1,11 @@
+*.datacamp.com
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
+*.yadifa.eu
 *.klubcinema.fr
 *.megatix.be
 *.kinepolis.be
@@ -8,9 +16,5 @@
 *.kinepolis.nl
 *.landmarkcinemas.com
 *.mjrtheatres.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
+*.ninjakiwi.me
+*.nkstatic.com

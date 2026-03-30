@@ -49,7 +49,6 @@ https://github.com/moonpay
 https://github.com/stripe/munkisrv
 https://github.com/stripe/smokescreen
 https://github.com/DopplerHQ/cli
-https://github.com/jitsi
 https://github.com/kubernetes-client
 https://github.com/kubernetes-security
 https://github.com/kubernetes/api
@@ -128,11 +127,9 @@ https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
 https://github.com/brave/*,
-https://github.com/rubygems/rubygems
 https://github.com/nextcloud/collectives
 https://github.com/nextcloud/files_confidential
 https://github.com/nextcloud/tables
-https://github.com/ruby/ruby
 https://github.com/Shopify
 https://github.com/mapbox
 https://github.com/contentauth/c2pa-js

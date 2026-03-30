@@ -1037,6 +1037,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1051,6 +1052,13 @@ ic3.*.indriverapp.com
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
+*.yadifa.eu
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1076,6 +1084,16 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1098,6 +1116,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.ninjakiwi.me
+*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de

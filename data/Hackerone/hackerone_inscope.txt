@@ -1196,6 +1196,7 @@ cs.money
 blog.cs.money
 support.cs.money
 wiki.cs.money
+agents.hostinger.com
 builder.hostinger.com
 cpanel.hostinger.com
 horizons.hostinger.com
