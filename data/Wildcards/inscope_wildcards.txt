@@ -1058,13 +1058,6 @@ ic3.*.indriverapp.com
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
-*.das.eu
-*.dns.eu
-*.eurid.eu
-*.nic.eu
-*.registry.eu
-*.whois.eu
-*.yadifa.eu
 *.itscope.com
 *.itscope.de
 *.gripp.com
