@@ -545,7 +545,9 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.configuratoren.nl
 *.cineramabios.nl
+*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
