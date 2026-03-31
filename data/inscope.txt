@@ -1058,6 +1058,13 @@ ic3.*.indriverapp.com
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
+*.yadifa.eu
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1998,6 +2005,7 @@ api-portal.originzero.com.au
 sign.originzero.com.au
 businessportal.origin.com.au
 api-businessportal.origin.com.au
+osl.com
 dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
@@ -4752,6 +4760,7 @@ replay.dropbox.com
 hellofax.com
 docsend.com
 app.reclaim.ai
+my.eurid.eu
 itscope.com
 itscope.de
 gripp.com

@@ -701,6 +701,7 @@ api-portal.originzero.com.au
 sign.originzero.com.au
 businessportal.origin.com.au
 api-businessportal.origin.com.au
+osl.com
 dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
@@ -3455,6 +3456,7 @@ replay.dropbox.com
 hellofax.com
 docsend.com
 app.reclaim.ai
+my.eurid.eu
 itscope.com
 itscope.de
 gripp.com

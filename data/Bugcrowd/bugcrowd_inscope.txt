@@ -923,6 +923,7 @@ api-portal.originzero.com.au
 sign.originzero.com.au
 businessportal.origin.com.au
 api-businessportal.origin.com.au
+osl.com
 dashboard.pantheon.io
 devstaging.pcapcloud.com
 pexels.com
