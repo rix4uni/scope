@@ -3260,8 +3260,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
-store.ninjakiwi.com
-support.ninjakiwi.com
 personio.de
 personio.slack.com
 statuspage.personio.de

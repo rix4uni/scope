@@ -1127,8 +1127,6 @@ ic3.*.indriverapp.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de

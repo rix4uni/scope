@@ -143,8 +143,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
-store.ninjakiwi.com
-support.ninjakiwi.com
 *.vectus.in
 *.pdq.com
 *.pdq.tools
