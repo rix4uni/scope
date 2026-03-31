@@ -8,7 +8,6 @@ https://github.com/moonpay/moonpay-demo-integrations
 https://github.com/moonpay/moonpay-sign
 https://github.com/DopplerHQ/awesome-bots
 https://github.com/grindrlabs
-https://github.com/jitsi
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/maticnetwork/bor
 https://github.com/maticnetwork/contracts

@@ -1,4 +1,3 @@
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -116,6 +115,16 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
+*.cineramabios.nl
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
@@ -147,6 +156,14 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
+future.portofantwerp.com
+future.portofantwerpbruges.com
+jobs.portofantwerp.com
+jobs.portofantwerpbruges.com
+media.portofantwerp.com
+media.portofantwerpbruges.com
+register.portofantwerp.com
+register.portofantwerpbruges.com
 *.brightplus.be
 *.career.be
 *.entrili.com

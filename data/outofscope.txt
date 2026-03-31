@@ -516,7 +516,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -546,6 +545,7 @@ g.*.slackhq.com
 *.grafana.net
 *.swop.com
 *.configuratoren.nl
+*.cineramabios.nl
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
@@ -1367,6 +1367,7 @@ api.supabase.com
 ctf.supabase.com
 supabase.dev
 supabase.productions
+supabase.sh
 auth.finnair.com
 x.com
 youtube.com
@@ -2012,8 +2013,6 @@ express.8x8.com
 feedback.wavecell.com
 canny.io
 get8x8.com
-meet.jit.si
-8x8.vc
 investors.8x8.com
 mobileidentity.8x8.com
 api.mobileidentity.8x8.com
@@ -3236,6 +3235,15 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
@@ -3260,6 +3268,14 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
+future.portofantwerp.com
+future.portofantwerpbruges.com
+jobs.portofantwerp.com
+jobs.portofantwerpbruges.com
+media.portofantwerp.com
+media.portofantwerpbruges.com
+register.portofantwerp.com
+register.portofantwerpbruges.com
 pen-app.entrili.com
 exams.ripe.net
 ripe.net
