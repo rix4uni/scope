@@ -1058,13 +1058,6 @@ ic3.*.indriverapp.com
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
-*.das.eu
-*.dns.eu
-*.eurid.eu
-*.nic.eu
-*.registry.eu
-*.whois.eu
-*.yadifa.eu
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1171,6 +1164,10 @@ ic3.*.indriverapp.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
+*.optimuscards.com
+*.topperpay.com
+*.uphodl.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.vinted.net
@@ -1245,8 +1242,6 @@ ic3.*.indriverapp.com
 *.gojek.com
 *.golabs.io
 *.gofoodmerchant.co.id
-*.grwtrading.com
-*.dropxl.com
 *.gopayapi.com
 *.go-pay.co.id
 *.gaming.gopayapi.com

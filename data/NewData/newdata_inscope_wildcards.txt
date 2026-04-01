@@ -1,7 +1,4 @@
-*.das.eu
-*.dns.eu
-*.eurid.eu
-*.nic.eu
-*.registry.eu
-*.whois.eu
-*.yadifa.eu
+*.optimuscards.com
+*.topperpay.com
+*.uphodl.com
+*.uphold.com
