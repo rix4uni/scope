@@ -187,7 +187,6 @@ https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
 https://github.com/coinbase/cb-mpc
 https://github.com/slackhq/nebula
-https://github.com/rails/rails
 https://github.com/grafana
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core

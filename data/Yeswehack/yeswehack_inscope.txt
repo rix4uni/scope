@@ -176,6 +176,8 @@ portal.gofoodmerchant.co.id
 *.gojek.com
 *.golabs.io
 *.gofoodmerchant.co.id
+*.grwtrading.com
+*.dropxl.com
 *.gopayapi.com
 gopaymerchant.midtrans.com
 mokapos.com
@@ -323,13 +325,13 @@ analytics.pinelabs.com
 myplutus.pinelabs.my
 trm.pinepaymentsolutions.com
 trm.pinelabs.ae
-pinelabs.ae
 letspaylater.ph
 credit.pinelabs.com
 plmcixt.pinelabs.com
 emistores.pinelabs.com
 pinelabs.com
 pinelabs.my
+pinelabs.ae
 pinelabs.us
 board.pinelabs.com
 nbs.pinelabs.com

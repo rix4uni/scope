@@ -14,7 +14,6 @@ webbshop.atg.se
 explore.alasco.com
 explore.alasco.de
 alasco.de
-logging.apache.org
 gitlab.isc.org
 lists.isc.org
 blog.bitoasis.net
@@ -131,7 +130,6 @@ keycloak.apps.otto.de
 help-okto.sprinklr.com
 checkout-service.paddle.com
 buy.paddle.com
-sequoia-pgp.org
 sogexia.com
 support.sogexia.com
 sogexiaclub.com
@@ -181,4 +179,3 @@ hubspot.com
 chargebee.com
 *.owncloud.org
 *.owncloud.com
-systemd.io

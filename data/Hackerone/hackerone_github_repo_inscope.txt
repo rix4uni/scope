@@ -140,4 +140,3 @@ https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
 https://github.com/coinbase/cb-mpc
 https://github.com/slackhq/nebula
-https://github.com/rails/rails

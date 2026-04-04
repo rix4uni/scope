@@ -1,4 +1,8 @@
-*.optimuscards.com
-*.topperpay.com
-*.uphodl.com
-*.uphold.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
+*.grwtrading.com
+*.dropxl.com

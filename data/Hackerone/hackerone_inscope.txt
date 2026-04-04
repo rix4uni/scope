@@ -39,6 +39,9 @@ nummus.robinhood.com
 bitstamp.net
 tradepmr.com
 github.com
+1w.cash
+1w.run
+1win.com
 *.platacard.mx
 dif.tech.plata
 lb1.iris.cgophobb.com
@@ -1424,6 +1427,7 @@ strapi.reddit.com
 *.zelle.com
 *.zellepay.com
 ews-fusion.my.site.com
+certos.com
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
 *.instacart.com
@@ -2487,8 +2491,6 @@ wordpressfoundation.org
 nextcloud.com
 it.niedermann.owncloud.notes
 it.twsweb.nextcloud
-onlyoffice.com
-support-contact-form.aspx
 collaboraoffice.com
 app.starbucks.com
 openapi.starbucks.com
@@ -2604,6 +2606,8 @@ mobile.clearme.com
 my.clearme.com
 scan.clearme.com
 web-edge.clearme.com
+moneybird.com
+moneybirdstorage.com
 udemy.com
 yourcompany.udemy.com
 *.kayak.com
