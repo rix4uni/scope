@@ -451,6 +451,17 @@ staging.luno.com
 staging.luno.com.ng
 api.staging.luno.com
 app.staging.luno.com
+crateandbarrel.me
+api-prod.thatconceptstore.com
+thatconceptstore.com
+cb2.ae
+allsaints.me
+lululemon.me
+lapi.yellowblocks.me
+shiseido.me
+lego.me
+psychobunny.me
+fashion4less.me
 dashboard.magic.link
 auth.magic.link
 api.magic.link
