@@ -516,6 +516,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
