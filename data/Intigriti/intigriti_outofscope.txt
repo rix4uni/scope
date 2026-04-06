@@ -22,6 +22,7 @@ digicampus.digimobil.es
 visitors.dpgmedia.be
 demorgen.be
 abonnement.demorgen.be
+github.com
 anchor.digitalocean.com
 brand.digitalocean.com
 cloudsupport.digitalocean.com
@@ -42,7 +43,6 @@ segment.digitalocean.com
 status.digitalocean.com
 tracking.digitalocean.com
 waves.digitalocean.com
-github.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
