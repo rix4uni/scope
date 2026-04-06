@@ -516,10 +516,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -566,6 +562,10 @@ g.*.slackhq.com
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
+*.homerr.com
+*vintedpay.com
+*.vinted.ca
+*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net

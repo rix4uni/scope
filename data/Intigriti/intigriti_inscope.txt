@@ -2,9 +2,6 @@ myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
 *.ad.nl
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 politico.eu
 adtechnology.axelspringer.com
 *.asadcdn.com
@@ -520,6 +517,16 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+*.vinted.net
+*.vinted.com
+*.vinted.fr
+*.vintedgo.com
+*old.vinted.com
+*test-escalations.vintedgo.com
+*badger.it.vinted.com
+*careers.vinted.com
+*news.vinted.com
+*company.vinted.com
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com
