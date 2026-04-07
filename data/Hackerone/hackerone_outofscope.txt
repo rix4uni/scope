@@ -1012,6 +1012,7 @@ rsa.citrixcloud.navient.com
 wsmb2bproxy.navient.com
 wsmb2bproxynp.navient.com
 wsmb2bresv.navient.com
+mqtt.myndr.net
 adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
