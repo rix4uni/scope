@@ -82,6 +82,7 @@ dailymotion.webflow.io
 business.dailymotion.com
 pro.dailymotion.com
 ray.dailymotion.com
+dailymotionadvertising.com
 bounty-nodejs.datashield.co
 bounty-fastly.datashield.co
 bounty-nginx.datashield.co

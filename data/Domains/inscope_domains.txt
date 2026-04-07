@@ -3634,6 +3634,9 @@ elvetino.ch
 sbbcargo.com
 transsicura.ch
 cz.skodaauto.myskoda
+app.nl.socialdeal
+socialdeal.nl
+whynot.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com
@@ -3907,6 +3910,7 @@ dailymotion.webflow.io
 business.dailymotion.com
 pro.dailymotion.com
 ray.dailymotion.com
+dailymotionadvertising.com
 bounty-nodejs.datashield.co
 bounty-fastly.datashield.co
 bounty-nginx.datashield.co
