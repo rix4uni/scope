@@ -1064,6 +1064,9 @@ ic3.*.indriverapp.com
 *.bouw7.nl
 *.horeko.com
 *.weclapp.com
+*exoscale.com
+*.exo.io
+*.internal.exoscale.ch
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
@@ -4720,6 +4723,9 @@ bouw7.nl
 horeko.com
 weclapp.com
 exact.com
+portal.exoscale.com
+exoscale.com
+community.exoscale.com
 service.fing.com
 app.fing.com
 jaguar.here.com
