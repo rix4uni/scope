@@ -214,6 +214,9 @@ us.app.gearset.com
 eu.app.gearset.com
 ap.app.gearest.com
 gearset.com
+app.clayton.io
+getclayton.com
+api.clayton.io
 carrinho.hostgator.com.br
 *.arubanetworks.com
 *.hpe.com

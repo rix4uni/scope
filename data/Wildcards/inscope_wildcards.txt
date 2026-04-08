@@ -80,6 +80,7 @@ casino.*.betmgm.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it
+*.staging.gearset.com
 *.central.arubanetworks.com
 *.cultbeauty.co.uk
 *.lookfantastic.com
