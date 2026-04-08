@@ -508,10 +508,6 @@ raywhitehomenow.com
 solarquotes.com.au
 manufacturers.solarquotes.com.au
 osl.com
-*.empower-retirement.com
-*.personalcapital.com
-*.empower.com
-*.retirementpartner.com
 api.quizlet.com
 help.quizlet.com
 get.quizlet.com

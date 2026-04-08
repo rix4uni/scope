@@ -60,6 +60,7 @@ https://github.com/vercel/turborepo
 https://github.com/vercel/vercel
 https://github.com/vercel/workflow
 https://github.com/circlefin/aptos-cctp
+https://github.com/circlefin/arc-node
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts

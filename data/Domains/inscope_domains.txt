@@ -704,7 +704,6 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 osl.com
 dashboard.pantheon.io
-devstaging.pcapcloud.com
 pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
@@ -1344,8 +1343,10 @@ api-sandbox.circle.com
 app.circle.com
 app-sandbox.circle.com
 console.circle.com
+rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
+rpc.testnet.arc.network
 portal.playground.klarna.com
 api.klarna.com
 app.klarna.com

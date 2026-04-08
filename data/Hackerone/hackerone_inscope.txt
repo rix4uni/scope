@@ -277,8 +277,10 @@ api-sandbox.circle.com
 app.circle.com
 app-sandbox.circle.com
 console.circle.com
+rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
+rpc.testnet.arc.network
 *.varonis.com
 *.varonis.io
 *.varonis.net
