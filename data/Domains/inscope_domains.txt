@@ -1344,6 +1344,8 @@ api-sandbox.circle.com
 app.circle.com
 app-sandbox.circle.com
 console.circle.com
+rpc.drpc.testnet.arc.network
+rpc.quicknode.testnet.arc.network
 portal.playground.klarna.com
 api.klarna.com
 app.klarna.com
