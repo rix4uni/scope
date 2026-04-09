@@ -202,6 +202,8 @@ argocd.*.uidapi.com
 *.meeshogcp.in
 *.meeshosupply.com
 *.valmo.in
+*.authanvil.com
+*.passly.com
 *.edge.gateways.konghq.com
 *.gateways.konghq.com
 *.gateways.konggateway.com

@@ -121,6 +121,8 @@ grocery-supplier.meesho.com
 investor.meesho.com
 log10-web-staging.valmo.in
 warehouse.meesho.com
+*.authanvil.com
+*.passly.com
 lovable.app
 *.edge.gateways.konghq.com
 *.gateways.konghq.com
