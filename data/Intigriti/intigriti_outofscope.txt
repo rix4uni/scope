@@ -74,7 +74,6 @@ waves.digitalocean.com
 registry.digitalocean.com
 *.doserverless-dev3.io
 driessen.nl
-docs.google.com
 changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com

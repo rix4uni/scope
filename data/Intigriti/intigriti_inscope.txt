@@ -122,7 +122,6 @@ app.reclaim.ai
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
-docs.google.com
 my.eurid.eu
 *.das.eu
 *.dns.eu

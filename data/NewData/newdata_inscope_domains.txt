@@ -1,2 +1,1 @@
-rpc.blockdaemon.testnet.arc.network
-rpc.testnet.arc.network
+wp.cloud

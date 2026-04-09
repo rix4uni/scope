@@ -4611,6 +4611,7 @@ waf.cumulusfire.net
 crowdsignal.com
 jetpack.com
 texts.com
+wp.cloud
 akismet.com
 api.tumblr.com
 assets.tumblr.com
