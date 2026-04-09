@@ -667,6 +667,7 @@ ro.superbet.sport
 superbet.bet.br
 *.magiceden.dev
 *.magiceden.io
+api.dicey.com
 dicey.com
 magiceden.io
 *.boozt.com

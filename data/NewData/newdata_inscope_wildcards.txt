@@ -1,1 +1,4 @@
-*.staging.gearset.com
+*.optimuscards.com
+*.topperpay.com
+*.uphodl.com
+*.uphold.com

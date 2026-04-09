@@ -1162,6 +1162,10 @@ ic3.*.indriverapp.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
+*.optimuscards.com
+*.topperpay.com
+*.uphodl.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.vinted.net
