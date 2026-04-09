@@ -3330,11 +3330,11 @@ gis2.water-link.be
 jobs.water-link.be
 acc.water-link.be
 dev.water-link.be
-blog.wolt.com
-gettest.wolt.com
-links.wolt.com
-press.wolt.com
 wolt.atlassian.net
+press.wolt.com
+links.wolt.com
+gettest.wolt.com
+blog.wolt.com
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
 vznkul.be
