@@ -514,10 +514,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
