@@ -3349,8 +3349,6 @@ webbshop.atg.se
 explore.alasco.com
 explore.alasco.de
 alasco.de
-gitlab.isc.org
-lists.isc.org
 blog.bitoasis.net
 dev.blablacar.com
 sncf-connect-tech.fr

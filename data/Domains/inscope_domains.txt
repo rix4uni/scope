@@ -3945,7 +3945,6 @@ anext.com.sg
 alipayhk.com
 antbank.hk
 mysrc.group
-gitlab.isc.org
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
