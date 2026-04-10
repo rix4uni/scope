@@ -1,4 +1,3 @@
-*.optimuscards.com
-*.topperpay.com
-*.uphodl.com
-*.uphold.com
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
