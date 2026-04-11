@@ -4745,8 +4745,6 @@ exact.com
 portal.exoscale.com
 exoscale.com
 community.exoscale.com
-service.fing.com
-app.fing.com
 jaguar.here.com
 landrover.here.com
 hln.be
