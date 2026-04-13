@@ -844,6 +844,7 @@ cashback.opera.com
 *.feednews.com
 *.dailyadvent.com
 api.gx.games
+*.apexnews.com
 *.apexscores.io
 *.opr.news
 *.osite99.com
