@@ -908,6 +908,16 @@ reicasting.com
 articles.mergify.com
 blog.mergify.com
 mergify.com
+academy.zabbix.com
+blog.zabbix.com
+cloud.zabbix.com
+exam.zabbix.com
+git.zabbix.com
+shop.zabbix.com
+space.zabbix.com
+support.zabbix.com
+translate.zabbix.com
+zabbix.com
 developer.arkoselabs.com
 status.arkoselabs.com
 careers.abb

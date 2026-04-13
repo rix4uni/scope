@@ -2995,6 +2995,7 @@ collaboration.rei.com
 login.rei.com
 api.mergify.com
 dashboard.mergify.com
+zabbix.com
 coinhako.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
@@ -3932,6 +3933,7 @@ merchant.crypto.com
 nadex.com
 og.com
 tax.crypto.com
+travel.crypto.com
 web.crypto.com
 goodrx.com
 m.goodrx.com
