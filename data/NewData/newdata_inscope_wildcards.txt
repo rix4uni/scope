@@ -1,1 +1,3 @@
-*.apexnews.com
+*exoscale.com
+*.exo.io
+*.internal.exoscale.ch

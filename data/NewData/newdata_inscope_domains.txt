@@ -1,2 +1,3 @@
-zabbix.com
-travel.crypto.com
+portal.exoscale.com
+exoscale.com
+community.exoscale.com
