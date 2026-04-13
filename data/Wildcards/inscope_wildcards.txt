@@ -1063,9 +1063,6 @@ ic3.*.indriverapp.com
 *.bouw7.nl
 *.horeko.com
 *.weclapp.com
-*exoscale.com
-*.exo.io
-*.internal.exoscale.ch
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com

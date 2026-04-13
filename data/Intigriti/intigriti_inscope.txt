@@ -125,12 +125,6 @@ horeko.com
 *.weclapp.com
 weclapp.com
 exact.com
-portal.exoscale.com
-*exoscale.com
-*.exo.io
-*.internal.exoscale.ch
-exoscale.com
-community.exoscale.com
 service.fing.com
 app.fing.com
 github.com

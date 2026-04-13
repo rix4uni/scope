@@ -2070,6 +2070,7 @@ grafana.cs.money
 old.cs.money
 or.id
 web.id
+fulfillment-platform.shutterfly.com
 clientaccess.citrixcloud.navient.com
 filegateway.navient.com
 jobs.navient.com
@@ -3194,10 +3195,6 @@ tracking.digitalocean.com
 waves.digitalocean.com
 registry.digitalocean.com
 driessen.nl
-changelog.exoscale.com
-exoscalestatus.com
-academy.exoscale.com
-jobs.exoscale.com
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com

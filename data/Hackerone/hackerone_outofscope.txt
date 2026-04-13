@@ -1010,6 +1010,7 @@ grafana.cs.money
 old.cs.money
 or.id
 web.id
+fulfillment-platform.shutterfly.com
 *.cvs.com
 *.walgreens.com
 clientaccess.citrixcloud.navient.com
