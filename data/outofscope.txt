@@ -3333,6 +3333,7 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
+station.veriff.com
 api.prod.svc.vintedpay.com
 callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com
