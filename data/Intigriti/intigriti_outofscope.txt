@@ -59,7 +59,6 @@ registry.digitalocean.com
 *.doserverless-dev3.io
 driessen.nl
 docs.google.com
-*.yadifa.eu
 changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com

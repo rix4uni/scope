@@ -536,7 +536,6 @@ g.*.slackhq.com
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
 *.doserverless-dev3.io
-*.yadifa.eu
 *.grafana.com
 *.grafana.net
 *.swop.com
