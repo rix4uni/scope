@@ -515,6 +515,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -535,9 +536,11 @@ g.*.slackhq.com
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
 *.doserverless-dev3.io
+*.yadifa.eu
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
@@ -3239,6 +3242,8 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
+store.ninjakiwi.com
+support.ninjakiwi.com
 personio.de
 personio.slack.com
 statuspage.personio.de

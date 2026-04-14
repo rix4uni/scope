@@ -1056,6 +1056,12 @@ ic3.*.indriverapp.com
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1105,6 +1111,8 @@ ic3.*.indriverapp.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -4665,6 +4673,8 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+aikidosecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -4729,6 +4739,7 @@ replay.dropbox.com
 hellofax.com
 docsend.com
 app.reclaim.ai
+my.eurid.eu
 itscope.com
 itscope.de
 gripp.com
@@ -4898,6 +4909,18 @@ mynexuz.be
 liquidfiles.nexuzhealth.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
 app.pdq.com

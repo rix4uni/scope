@@ -1,3 +1,4 @@
+*.aikido.dev
 *.axelspringer.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
@@ -58,6 +59,7 @@ registry.digitalocean.com
 *.doserverless-dev3.io
 driessen.nl
 docs.google.com
+*.yadifa.eu
 changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
@@ -91,6 +93,7 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+*.lxc.liferay.com
 login.liferay.com
 *.monzo.me
 community.monzo.com
@@ -103,6 +106,8 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
+store.ninjakiwi.com
+support.ninjakiwi.com
 *.vectus.in
 *.pdq.com
 *.pdq.tools

@@ -1,2 +1,8 @@
-*.voi.com
-*.voiscooters.com
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
+*.ninjakiwi.me
+*.nkstatic.com
