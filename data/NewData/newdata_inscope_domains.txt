@@ -1,3 +1,6 @@
-portal.exoscale.com
-exoscale.com
-community.exoscale.com
+api.voiapp.io
+fm.voiapp.io
+mds.voiapp.io
+repair.voiweb.net
+report.voi.com
+voi.com

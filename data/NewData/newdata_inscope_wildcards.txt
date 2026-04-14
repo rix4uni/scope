@@ -1,3 +1,2 @@
-*exoscale.com
-*.exo.io
-*.internal.exoscale.ch
+*.voi.com
+*.voiscooters.com
