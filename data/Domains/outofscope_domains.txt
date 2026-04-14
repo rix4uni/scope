@@ -613,6 +613,9 @@ software.cts.l3harris.com
 swarm.thorntontomasetti.com
 tms.l3commercialaviation.com
 andurilgear.com
+kyc.ondato.net
+kyc.api.ondato.net
+luminor.nyc3.digitaloceanspaces.com
 community.segment.com
 apjevents.twilio.com
 events.cdpweek.com
