@@ -1210,8 +1210,8 @@ builder.hostinger.com
 cpanel.hostinger.com
 horizons.hostinger.com
 hpanel.hostinger.com
-mail.hostinger.com
 payments.hostinger.com
+mail.hostinger.com
 reach.hostinger.com
 hostinger.com
 *.romwe.com
