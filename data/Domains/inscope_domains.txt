@@ -380,9 +380,6 @@ remove.bg
 designify.com
 kaleido.ai
 unscreen.com
-keepersecurity.com
-microsoft.com
-docs.keeper.io
 kohls.com
 kucoin.com
 lastpass.com
@@ -2693,6 +2690,7 @@ databricks.com
 dbc-9a3f8ed1-7608.cloud.databricks.com
 elastic.co
 docker.elastic.co
+microsoft.com
 cloud.elastic.co
 epr.elastic.co
 slsa.dev
@@ -3761,6 +3759,9 @@ elvetino.ch
 sbbcargo.com
 transsicura.ch
 cz.skodaauto.myskoda
+app.nl.socialdeal
+socialdeal.nl
+whynot.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com

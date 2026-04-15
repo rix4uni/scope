@@ -517,9 +517,6 @@ kaleido.ai
 *.kaleido.ai
 unscreen.com
 *.unscreen.com
-keepersecurity.com
-microsoft.com
-docs.keeper.io
 kohls.com
 kucoin.com
 *.kucoin.com
