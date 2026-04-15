@@ -1056,6 +1056,12 @@ ic3.*.indriverapp.com
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -4769,6 +4775,7 @@ replay.dropbox.com
 hellofax.com
 docsend.com
 app.reclaim.ai
+my.eurid.eu
 itscope.com
 itscope.de
 gripp.com
@@ -5375,8 +5382,6 @@ pprd.cybermalveillance.gouv.fr
 shoppingapp.decathlon.com
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
-demarches-simplifiees.fr
-static.demarches-simplifiees.fr
 identite-sandbox.proconnect.gouv.fr
 tchap.gouv.fr
 matrix.agent.tchap.gouv.fr

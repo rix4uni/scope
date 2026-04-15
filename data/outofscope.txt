@@ -536,6 +536,7 @@ g.*.slackhq.com
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
 *.doserverless-dev3.io
+*.yadifa.eu
 *.grafana.com
 *.grafana.net
 *.swop.com
@@ -3420,9 +3421,6 @@ techops.dana.id
 dm.dana.id
 encrypt.dana.id
 agora.beta.gouv.fr
-doc.demarches-simplifiees.fr
-beta.gouv.fr
-demarches-simplifiees.fr
 datadome.co
 app.datadome.co
 cdn.vlaanderen.be

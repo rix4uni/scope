@@ -131,6 +131,13 @@ app.reclaim.ai
 *.hellosign.com
 *.dash.ai
 docs.google.com
+my.eurid.eu
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
 itscope.com
 *.itscope.com
 itscope.de

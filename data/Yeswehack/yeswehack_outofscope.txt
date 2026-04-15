@@ -73,9 +73,6 @@ encrypt.dana.id
 *.dana.id
 agora.beta.gouv.fr
 github.com
-doc.demarches-simplifiees.fr
-beta.gouv.fr
-demarches-simplifiees.fr
 *.ondailymotion.com
 datadome.co
 app.datadome.co

@@ -3466,6 +3466,7 @@ replay.dropbox.com
 hellofax.com
 docsend.com
 app.reclaim.ai
+my.eurid.eu
 itscope.com
 itscope.de
 gripp.com
@@ -4072,8 +4073,6 @@ pprd.cybermalveillance.gouv.fr
 shoppingapp.decathlon.com
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
-demarches-simplifiees.fr
-static.demarches-simplifiees.fr
 identite-sandbox.proconnect.gouv.fr
 tchap.gouv.fr
 matrix.agent.tchap.gouv.fr

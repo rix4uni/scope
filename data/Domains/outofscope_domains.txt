@@ -2823,9 +2823,6 @@ techops.dana.id
 dm.dana.id
 encrypt.dana.id
 agora.beta.gouv.fr
-doc.demarches-simplifiees.fr
-beta.gouv.fr
-demarches-simplifiees.fr
 datadome.co
 app.datadome.co
 cdn.vlaanderen.be

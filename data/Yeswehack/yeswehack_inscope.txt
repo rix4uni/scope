@@ -52,14 +52,12 @@ pprd.cybermalveillance.gouv.fr
 shoppingapp.decathlon.com
 app.sandbox.agora.incubateur.net
 api.sandbox.agora.incubateur.net
-demarches-simplifiees.fr
-static.demarches-simplifiees.fr
-github.com
 identite-sandbox.proconnect.gouv.fr
 tchap.gouv.fr
 matrix.agent.tchap.gouv.fr
 matrix.agent
 *.tchap.gouv.fr
+github.com
 beta.tchap.gouv.fr
 matrix.i.tchap.gouv.fr
 matrix.e.tchap.gouv.fr
