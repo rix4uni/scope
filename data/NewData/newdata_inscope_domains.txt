@@ -1,3 +1,2 @@
-app.nl.socialdeal
-socialdeal.nl
-whynot.com
+keepersecurity.com
+docs.keeper.io

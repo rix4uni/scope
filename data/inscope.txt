@@ -1683,6 +1683,9 @@ remove.bg
 designify.com
 kaleido.ai
 unscreen.com
+keepersecurity.com
+microsoft.com
+docs.keeper.io
 kohls.com
 kucoin.com
 lastpass.com
@@ -3993,7 +3996,6 @@ databricks.com
 dbc-9a3f8ed1-7608.cloud.databricks.com
 elastic.co
 docker.elastic.co
-microsoft.com
 cloud.elastic.co
 epr.elastic.co
 slsa.dev
