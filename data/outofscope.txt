@@ -580,15 +580,6 @@ g.*.slackhq.com
 *.cryptobox.com
 *.ercom.fr
 *.dana.id
-*.dracoon.com
-*.dracoon.net
-*.dracoon.team
-*.dracoon.app
-*.dracoon.io
-*.fp-sign.com
-*.usersnap.com
-*.gdata.com
-*.retarus.com
 *.ondailymotion.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
@@ -604,8 +595,6 @@ g.*.slackhq.com
 *.telenor.com
 *.qzoneapp.com
 *.tencent.com
-*.owncloud.org
-*.owncloud.com
 coindesk.com
 uat.coindesk.com
 events.coindesk.com
@@ -815,7 +804,6 @@ docs-be.imperva.com
 k15t.com
 k15t.de
 help.k15t.com
-bugcrowd-pub.bounty.kiteworks.dev
 apply.kohls.com
 corporate.kohls.com
 productchampions.kohls.com
@@ -3435,10 +3423,6 @@ agora.beta.gouv.fr
 doc.demarches-simplifiees.fr
 beta.gouv.fr
 demarches-simplifiees.fr
-dracoon.com
-bounty-cloud.dracoon.app
-bounty-server.dracoon.app
-0-2744452194.s3.nbg01.de.dracoon.io
 datadome.co
 app.datadome.co
 cdn.vlaanderen.be
@@ -3508,5 +3492,3 @@ lafabriquedelacite.com
 wishes.vinci.com
 voeux.vinci.com
 castor.vinci.com
-hubspot.com
-chargebee.com

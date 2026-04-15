@@ -580,15 +580,6 @@ g.*.slackhq.com
 *.cryptobox.com
 *.ercom.fr
 *.dana.id
-*.dracoon.com
-*.dracoon.net
-*.dracoon.team
-*.dracoon.app
-*.dracoon.io
-*.fp-sign.com
-*.usersnap.com
-*.gdata.com
-*.retarus.com
 *.ondailymotion.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
@@ -604,5 +595,3 @@ g.*.slackhq.com
 *.telenor.com
 *.qzoneapp.com
 *.tencent.com
-*.owncloud.org
-*.owncloud.com

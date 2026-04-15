@@ -1686,7 +1686,6 @@ unscreen.com
 keepersecurity.com
 microsoft.com
 docs.keeper.io
-kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
 kucoin.com
 lastpass.com
@@ -5382,9 +5381,6 @@ matrix.agent
 beta.tchap.gouv.fr
 matrix.i.tchap.gouv.fr
 matrix.e.tchap.gouv.fr
-bounty-cloud.dracoon.app
-0-2744452194.s3.nbg01.de.dracoon.io
-bounty-server.dracoon.app
 n8n-staging.k8s.dm.gg
 n8n.pub.k8s.dm.gg
 airflow-mcp.data.dailymotion.com
@@ -5729,13 +5725,6 @@ svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
-app.zivver.com
-owa-v6.zivver.com
-collector.zivver.com
-downloads.zivver.com
-img.zivver.com
-sign.zivver.com
-owncloud.org
 toom.de
 api.toom.de
 co.uk.com
