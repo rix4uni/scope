@@ -1,3 +1,6 @@
+marketplace.visualstudio.com
+aikidosecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -51,12 +54,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-*.backend-capital.com
-capital.com
-open-api.capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
