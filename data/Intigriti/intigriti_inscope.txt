@@ -820,14 +820,6 @@ campaign.drogas.lv
 moneyback.com.hk
 mapi.moneyback.com.hk
 *.moneyback.com.hk
-authentication.wolt.com
-corporate.wolt.com
-drive.wolt.com
-merchant.wolt.com
-ops.wolt.com
-restaurant-api.wolt.com
-wolt.com
-*.wolt.com
 *.yacht.nl
 *.yahoo.com
 apis.mail.yahoo.com
