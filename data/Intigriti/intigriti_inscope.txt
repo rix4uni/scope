@@ -1,3 +1,7 @@
+marketplace.visualstudio.com
+aikidosecurity.aikido
+app.aikido.dev
+github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -158,7 +162,6 @@ exoscale.com
 community.exoscale.com
 service.fing.com
 app.fing.com
-github.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
@@ -389,10 +392,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
