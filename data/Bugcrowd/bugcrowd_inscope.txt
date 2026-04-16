@@ -1392,6 +1392,7 @@ wise.com
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com
+wyze.com
 home.xfinity.com
 internet.xfinity.com
 *signalservice.comcast.net

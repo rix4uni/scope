@@ -1,2 +1,4 @@
-aikidosecurity.aikido
-app.aikido.dev
+wyze.com
+payment.backend-capital.com
+capital.com
+open-api.capital.com

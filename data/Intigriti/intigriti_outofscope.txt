@@ -1,4 +1,3 @@
-*.aikido.dev
 *.axelspringer.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
@@ -13,6 +12,13 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -20,19 +26,6 @@ smtp.buhlergroup.cn
 *.insky.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
-*.it.datacamp.com
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 github.com
@@ -106,8 +99,6 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 *.lxc.liferay.com
 login.liferay.com
