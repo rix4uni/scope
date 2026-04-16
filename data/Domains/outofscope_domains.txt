@@ -1068,6 +1068,8 @@ smart.vodafone.com.eg
 voxxxxxxxx.mynet.vodafone.it
 vpn4.vodafone-us.com
 prg-x-xxx.static.adsl.vodafone.cz
+c21.hk
+century21.hk
 glide.com
 compass.com
 staebapp01.allegion.com
@@ -1405,8 +1407,6 @@ citrix.cloud.com
 launch.cloud.com
 xvcams.com
 xvlivecams.com
-c21.hk
-century21.hk
 openmage.org
 moobidesk-main.vercel.app
 8x8.wavecell.com
@@ -1427,6 +1427,7 @@ vm.8x8.com
 8x8.com
 wavecell.com
 developers.tiktok.com
+direct-carexcess.co.uk
 travel.aig.co.jp
 1008.aig.com
 corebridgefinancial.com
@@ -2633,6 +2634,9 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be
