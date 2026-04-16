@@ -2542,7 +2542,6 @@ res.hyattinclusivecollection.com
 res.secretsresorts.com
 res.skyteam.com
 res.southwestvacations.com
-res.treasureisland.globalbookingsolutions.com
 res.universalorlandovacations.com
 res.vacations.buschgardens.com
 res.vacations.discoverycove.com
@@ -3383,8 +3382,6 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-aikidosecurity.aikido
-app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
