@@ -4691,6 +4691,8 @@ mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+aikidosecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -4905,6 +4907,16 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 prijsmepper.nl
+app.lansweeper.com
+fb.lansweeper.com
+edge.lansweeper.com
+api.lansweeper.com
+backoffice.lansweeper.com
+lsagentrelay.lansweeper.com
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+lansweeper.com
 libelle.nl
 marionnaud.fr
 app.marionnaud.fr
@@ -5059,6 +5071,9 @@ elvetino.ch
 sbbcargo.com
 transsicura.ch
 cz.skodaauto.myskoda
+app.nl.socialdeal
+socialdeal.nl
+whynot.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com
