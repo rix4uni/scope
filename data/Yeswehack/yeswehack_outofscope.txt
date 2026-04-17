@@ -136,6 +136,9 @@ incamail-test.post.ch
 *.cust.bredbandsbolaget.se
 *.customers.ownit.se
 *.cust.ownit.se
+*.ownit.nu
+tc.ownit.se
+faq.vimla.se
 stage-vimla-se.vimla.io
 *.telenor.com
 *.qzoneapp.com

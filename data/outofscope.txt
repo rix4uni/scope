@@ -609,6 +609,7 @@ g.*.slackhq.com
 *.cust.bredbandsbolaget.se
 *.customers.ownit.se
 *.cust.ownit.se
+*.ownit.nu
 *.telenor.com
 *.qzoneapp.com
 *.tencent.com
@@ -3488,6 +3489,8 @@ login.swissid.ch
 account.post.ch
 incamail-dev.post.ch
 incamail-test.post.ch
+tc.ownit.se
+faq.vimla.se
 stage-vimla-se.vimla.io
 myqcloud.com
 cloud.tencent.com

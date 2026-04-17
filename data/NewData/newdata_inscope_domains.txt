@@ -1,7 +1,2 @@
-authentication.wolt.com
-corporate.wolt.com
-drive.wolt.com
-merchant.wolt.com
-ops.wolt.com
-restaurant-api.wolt.com
-wolt.com
+webmail.ownit.nu
+hosting.ownit.nu

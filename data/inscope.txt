@@ -5633,6 +5633,8 @@ teamviewer.com
 web.teamviewer.com
 account.teamviewer.com
 login.teamviewer.com
+webmail.ownit.nu
+hosting.ownit.nu
 en.security.tencent.com
 thueringer-foerderportal.eu
 login.aufbaubank.de

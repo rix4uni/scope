@@ -400,6 +400,8 @@ login.teamviewer.com
 *.vimla.io
 *.inpli.se
 *.telenorinpli.se
+webmail.ownit.nu
+hosting.ownit.nu
 en.security.tencent.com
 thueringer-foerderportal.eu
 login.aufbaubank.de

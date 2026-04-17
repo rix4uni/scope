@@ -609,6 +609,7 @@ g.*.slackhq.com
 *.cust.bredbandsbolaget.se
 *.customers.ownit.se
 *.cust.ownit.se
+*.ownit.nu
 *.telenor.com
 *.qzoneapp.com
 *.tencent.com
