@@ -228,7 +228,6 @@ imou.com
 glow.imoulife.com
 hg.easy4ipcloud.com
 yeswehack.staging.komoju.com
-multipay-staging.test.komoju.com
 doc.komoju.com
 louisvuitton.com
 *.api.louisvuitton.com
