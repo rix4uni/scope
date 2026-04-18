@@ -555,7 +555,6 @@ g.*.slackhq.com
 *.swop.com
 *.cineramabios.nl
 *.lxc.liferay.com
-*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
@@ -582,10 +581,6 @@ g.*.slackhq.com
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
-*.homerr.com
-*vintedpay.com
-*.vinted.ca
-*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
