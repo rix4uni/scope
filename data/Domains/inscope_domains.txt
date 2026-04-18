@@ -3453,16 +3453,6 @@ digitaloceantest.com
 do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
-dropbox.com
-sign.dropbox.com
-hellosign.com
-dash.ai
-dash.dropbox.com
-api.dropbox.com
-replay.dropbox.com
-hellofax.com
-docsend.com
-app.reclaim.ai
 itscope.com
 itscope.de
 gripp.com
@@ -3659,6 +3649,8 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
+monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws

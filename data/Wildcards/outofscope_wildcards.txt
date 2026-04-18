@@ -555,6 +555,7 @@ g.*.slackhq.com
 *.swop.com
 *.cineramabios.nl
 *.lxc.liferay.com
+*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com

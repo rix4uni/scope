@@ -1043,16 +1043,6 @@ ic3.*.indriverapp.com
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
-*.hellofax.com
-*.docsend.com
-*.reclaim.ai
-*.helloworks.com
-*.hellosign.com
-*.dash.ai
 *.itscope.com
 *.itscope.de
 *.gripp.com
@@ -1110,6 +1100,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
