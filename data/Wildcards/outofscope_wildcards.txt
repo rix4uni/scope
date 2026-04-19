@@ -435,6 +435,7 @@ online.*.skybingo.com
 *.cloud.databricks.com
 *.gcp.databricks.com
 *.es.io
+*.jina.ai
 *.kbndev.co
 *.keephq.dev
 *.communicatie.vennhypotheken.nl
@@ -582,6 +583,10 @@ g.*.slackhq.com
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
+*.homerr.com
+*vintedpay.com
+*.vinted.ca
+*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net

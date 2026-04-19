@@ -1555,6 +1555,7 @@ security.md
 help.thecoalition.com
 thecoalition.com
 *.es.io
+*.jina.ai
 *.kbndev.co
 *.keephq.dev
 community.elastic.co
