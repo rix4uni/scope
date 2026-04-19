@@ -277,16 +277,6 @@ folder.trekpleister.nl
 *.trekpleister.nl
 prijsmepper.nl
 *.prijsmepper.nl
-app.lansweeper.com
-fb.lansweeper.com
-edge.lansweeper.com
-api.lansweeper.com
-backoffice.lansweeper.com
-lsagentrelay.lansweeper.com
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-lansweeper.com
 libelle.nl
 *.libelle.nl
 marionnaud.fr
