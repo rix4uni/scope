@@ -71,16 +71,6 @@ cloudways.com
 css-tricks.com
 *.dpgmedia.be
 *.dpgmedia.nl
-profiles-api.datacamp.com
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
-*.datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
