@@ -1107,11 +1107,6 @@ tidal.com
 app.squareupstaging.com
 community.squareup.com
 itunes.apple.com
-abo.inscopedomain.ch
-login.inscopedomain.ch
-auth.inscopedomain.ch
-tgt.inscopedomain.ch
-shop.inscopedomain.ch
 employeefeedback.tesla.com
 energysupport.tesla.com
 bugbounty.zoho.com
