@@ -109,12 +109,12 @@ holiday.britishairways.com
 regionstest.com
 *.tucows.com
 *.meesho.com
-*.meesho.io
 *.meeshoaiservices.ai
 *.meeshoapi.com
 *.meeshogcp.in
 *.meeshosupply.com
 *.valmo.in
+admin.meesho.io
 affiliate-c.meesho.com
 agency.meesho.com
 atlas.valmo.in
@@ -122,7 +122,6 @@ console.valmo.in
 di-prd-superset.meesho.com
 farmiso.meeshosupply.com
 grocery-supplier.meesho.com
-investor.meesho.com
 log10-web-staging.valmo.in
 warehouse.meesho.com
 *.authanvil.com
@@ -250,6 +249,7 @@ demo.privy.io
 docs.privy.io
 privy.io
 dailypay.com
+iam.staging.dailypay.com
 ir.netflix.com
 ir.netflix.net
 netflixinvestor.com

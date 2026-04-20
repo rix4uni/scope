@@ -1138,6 +1138,7 @@ sitepixel.blis.com
 sitepixel.dev.blis.com
 wiki.atom-lens.com
 wmaudience.com
+tagesanzeiger.ch
 tempus-ex.com
 docs.tempus-ex.com
 infiniteathlete.ai

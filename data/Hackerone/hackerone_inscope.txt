@@ -47,6 +47,8 @@ dif.tech.plata
 lb1.iris.cgophobb.com
 admin.meeshosupply.com
 affiliate.meesho.com
+investor.meesho.com
+meesho.io
 prod.meeshoapi.com
 superstoreapp.meesho.com
 supplier.meesho.com
