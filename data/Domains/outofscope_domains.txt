@@ -1049,6 +1049,7 @@ dwss-ptp.disney.com
 hotstar.com
 kingdomhearts.com
 magicalfloralandgifts.com
+magicpass.com.mx
 star.com
 tokyodisneyresort.jp
 unclaimedproperty.disney.com
