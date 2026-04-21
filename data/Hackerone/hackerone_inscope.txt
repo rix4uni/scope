@@ -2300,16 +2300,10 @@ geneva-staging.com
 anchor.fm
 developer.spotify.com
 support.megaphone.fm
-closetheplaygap.com
 eyeofthestormers.com
 lifeatspotify.com
-play-portraits.com
-reviewvault.com
 sonalytic.com
-spotify-library.com
 spotify.design
-spotify.dev
-spotify.stackenterprise.co
 spotifycharts.com
 spotifycodes.com
 spotifycs.my.salesforce.com
@@ -2317,9 +2311,7 @@ spotifyforpartners.com
 spotifyforvendors.com
 spotifynewsroom.jp
 spotifyonstage.com
-spotifypodcastsummit.com
 spotifypremium.jp
-spotifysoundcheck.com
 spotifyvault.com
 timetoplayfair.com
 admin.podsights.com
