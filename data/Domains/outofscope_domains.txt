@@ -869,6 +869,7 @@ dashboard.redoxengine.com
 redoxengine.atlassian.net
 redox.slack.com
 sso.redoxengine.com
+dataspanapi.wisdomtree.com
 wisdomtree.com
 wisdomtree.eu
 affiliate.napoleongames.be
@@ -2633,6 +2634,8 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 login.liferay.com
 community.monzo.com

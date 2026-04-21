@@ -2223,6 +2223,7 @@ binisoft.org
 threatdown.com
 support.threatdown.com
 cloud.malwarebytes.com
+cloud.threatdown.com
 oneview.threatdownstage.com
 dev-threatdown.com
 my.malwarebytes.com
@@ -2496,10 +2497,6 @@ mercantile.wordpress.org
 woocommerce.com
 planet.wordpress.org
 wordpressfoundation.org
-nextcloud.com
-it.niedermann.owncloud.notes
-it.twsweb.nextcloud
-collaboraoffice.com
 app.starbucks.com
 openapi.starbucks.com
 secureui.starbucks.com

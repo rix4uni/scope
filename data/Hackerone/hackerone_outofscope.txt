@@ -330,6 +330,7 @@ redoxengine.atlassian.net
 redox.slack.com
 sso.redoxengine.com
 *.okg.com
+dataspanapi.wisdomtree.com
 wisdomtree.com
 wisdomtree.eu
 *.epic.superbet.ro

@@ -100,6 +100,8 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 *.lxc.liferay.com
 login.liferay.com
