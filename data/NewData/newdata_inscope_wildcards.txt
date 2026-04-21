@@ -1,2 +1,4 @@
-*nsa-idr.cms.gov
-*qpp.cms.gov
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
+*.datacamp.com

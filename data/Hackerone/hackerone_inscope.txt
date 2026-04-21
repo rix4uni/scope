@@ -30,14 +30,11 @@ doordash.com
 *.saytechnologies.com
 api.robinhood.com
 cashier.robinhood.com
-fusion.tradepmr.com
 identi.robinhood.com
-insight2.tradepmr.com
 minerva.robinhood.com
 net.bitstamp.app
 nummus.robinhood.com
 bitstamp.net
-tradepmr.com
 github.com
 1w.cash
 1w.run
