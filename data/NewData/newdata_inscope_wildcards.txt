@@ -1,3 +1,2 @@
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*nsa-idr.cms.gov
+*qpp.cms.gov

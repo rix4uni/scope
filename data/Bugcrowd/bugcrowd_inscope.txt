@@ -208,6 +208,13 @@ api.cloudinary.com
 res.cloudinary.com
 mediaflows.cloudinary.com
 dimensions.cloudinary.com
+eua.cms.gov
+portal.cms.gov
+cms.gov
+cmsnationaltrainingprogram.cms.gov
+*nsa-idr.cms.gov
+*qpp.cms.gov
+csscoperations.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
 coindesk.com
