@@ -1,4 +1,3 @@
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
-*.datacamp.com
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
