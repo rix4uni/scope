@@ -1948,6 +1948,7 @@ developer-api.crypto.com
 developer-platform-api.crypto.com
 developer.crypto.com
 etherscan.io
+explorer.cronos.org
 js.crypto.com
 merchant.crypto.com
 nadex.com
