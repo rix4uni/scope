@@ -600,6 +600,9 @@ g.*.slackhq.com
 *.ondailymotion.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
+*.doctolib.fr
+*.sslip.io
+*.nip.io
 *.louisvuitton.com
 *.osp.ovh.com
 *dev.swapcard.com
