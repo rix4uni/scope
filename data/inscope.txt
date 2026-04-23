@@ -2172,7 +2172,6 @@ tempus-ex.com
 docs.tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
-manager.thefork.com
 secure.thefork.com
 payment.lafourchette.com
 api.thefork.io
@@ -2463,6 +2462,7 @@ knowledge.hubspot.com
 chatspot.ai
 hubspot.net
 cloud.oppo.com
+developers.oppomobile.com
 drp.myoppo.com
 e.oppo.com
 gcsm.oppoit.com
@@ -3065,6 +3065,7 @@ signature-insights.api.cx.metamask.io
 metamask-consensys.notion.site
 wallet.web3auth.io
 api-eu.floqast.app
+verdaccio.security-eng.floqast.engineering
 palantir.com
 palantir.tech
 palantir.build
@@ -5025,13 +5026,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
-soundtrackyourbrand.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com

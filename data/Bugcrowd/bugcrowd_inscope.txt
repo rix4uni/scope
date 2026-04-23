@@ -1156,7 +1156,6 @@ platform.infiniteathlete.ai
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
-manager.thefork.com
 secure.thefork.com
 payment.lafourchette.com
 api.thefork.io

@@ -1,1 +1,2 @@
-explorer.cronos.org
+developers.oppomobile.com
+verdaccio.security-eng.floqast.engineering

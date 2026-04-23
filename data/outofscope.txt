@@ -1140,6 +1140,8 @@ myfourchette.com
 website.theforkmanager.com
 login.theforkmanager.com
 developer.thefork.io
+manager.thefork.com
+manager.thefork.it
 module.thefork.com
 lafourchette.com
 investors.thetradedesk.com

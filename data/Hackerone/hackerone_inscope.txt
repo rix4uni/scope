@@ -87,6 +87,7 @@ knowledge.hubspot.com
 chatspot.ai
 hubspot.net
 cloud.oppo.com
+developers.oppomobile.com
 drp.myoppo.com
 e.oppo.com
 gcsm.oppoit.com
@@ -801,6 +802,7 @@ wallet.web3auth.io
 *.floqast.app
 api-eu.floqast.app
 *.floqast.engineering
+verdaccio.security-eng.floqast.engineering
 palantir.com
 palantir.tech
 palantir.build
