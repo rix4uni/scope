@@ -659,6 +659,7 @@ rijksregister-nummer-generator.rsolution
 *.napoleonsports.be
 *.spinaway.com
 *.superbet.com
+*.superbet.gr
 *.superbet.pl
 *.superbet.ro
 superbet.ro
