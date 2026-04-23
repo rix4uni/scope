@@ -1,2 +1,10 @@
-developers.oppomobile.com
-verdaccio.security-eng.floqast.engineering
+gamma.nl
+gamma.be
+karwei.nl
+kassa.gamma.nl
+kassa.gamma.be
+kassa.karwei.nl
+mijn.gamma.nl
+mijn.gamma.be
+mijn.karwei.nl
+irmg.nl
