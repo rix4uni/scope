@@ -1,7 +1,6 @@
 marketplace.visualstudio.com
 aikidosecurity.aikido
 app.aikido.dev
-github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -166,6 +165,7 @@ exoscale.com
 community.exoscale.com
 service.fing.com
 app.fing.com
+github.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com

@@ -900,9 +900,6 @@ globalpaymentsinc.com
 globalpayments.com
 remotesupport.heartland.us
 signin.costco.com
-consensys-solutions.net
-etherscan.io
-mesh.xyz
 events.on-running.com
 events.on.com
 shz64n.on-running.com
@@ -995,6 +992,8 @@ developers.tiktok.com
 direct-carexcess.co.uk
 travel.aig.co.jp
 1008.aig.com
+180.aig.com
+280.aig.com
 corebridgefinancial.com
 *.fip.finra.org
 ews.finra.org

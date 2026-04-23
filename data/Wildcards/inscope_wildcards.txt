@@ -490,7 +490,6 @@ ic3.*.indriverapp.com
 *.seriously.com
 *.slotomania.com
 *.wooga.com
-*.web3factory.consensys.net
 *.gethypr.com
 *.hypr.com
 *.bridge.xyz

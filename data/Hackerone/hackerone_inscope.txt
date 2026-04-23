@@ -977,9 +977,6 @@ dolap.com
 tgoyemek.com
 trendyol-milla.com
 en.trendyol.com
-*.web3factory.consensys.net
-staking.consensys.io
-consensys.io
 *.gethypr.com
 *.hypr.com
 access.app

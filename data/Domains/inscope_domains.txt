@@ -1899,8 +1899,6 @@ dolap.com
 tgoyemek.com
 trendyol-milla.com
 en.trendyol.com
-staking.consensys.io
-consensys.io
 access.app
 stripe.com
 api.bridge.xyz
