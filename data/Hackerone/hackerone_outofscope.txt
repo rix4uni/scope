@@ -1353,9 +1353,7 @@ phpbb.com
 *.expediacruises.com
 socialhub.expediacruises.com
 bookus.expediacruises.com
-china.airasiago.com
 *.expedia.com
-thailand.airasiago.com
 expediaagents.com
 expediapartnersolutions.com
 *.netlify.app

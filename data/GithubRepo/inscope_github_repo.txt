@@ -145,7 +145,6 @@ https://github.com/kubernetes/sig-release
 https://github.com/kubernetes/test-infra
 https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
-https://github.com/curl/curl
 https://github.com/Dynatrace
 https://github.com/innocraft
 https://github.com/matomo-org

@@ -26,6 +26,8 @@ hsd1.*.comcast.net
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
 *.db.fivetran.com
+*.hostgator.com.br
+*.hostgator.mx
 *.arubanetworks.com
 *.hpe.com
 *dev.ibotta.com
@@ -125,6 +127,9 @@ auth.*.latitudefinancial.com
 *skynewsarabia.com
 *skynews.com.au
 *safetytraining.sky.it
+*.snapnames.com
+*.namejet.com
+*.buydomains.com
 *.afterpay.com
 *.cash.me
 *.tidal.com

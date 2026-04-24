@@ -220,6 +220,10 @@ app.clayton.io
 getclayton.com
 api.clayton.io
 carrinho.hostgator.com.br
+academy.hostgator.com
+hostgator.com.br
+*.hostgator.com.br
+*.hostgator.mx
 *.arubanetworks.com
 *.hpe.com
 myprotein.com.tr
@@ -597,6 +601,10 @@ support.simplisafe.com
 *skynews.com.au
 *safetytraining.sky.it
 skyscanner.net
+*.snapnames.com
+namejet.com
+*.namejet.com
+*.buydomains.com
 community.sophos.com
 sophos.atlassian.net
 blog.soundcloud.com

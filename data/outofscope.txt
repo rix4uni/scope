@@ -26,6 +26,8 @@ hsd1.*.comcast.net
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
 *.db.fivetran.com
+*.hostgator.com.br
+*.hostgator.mx
 *.arubanetworks.com
 *.hpe.com
 *dev.ibotta.com
@@ -125,6 +127,9 @@ auth.*.latitudefinancial.com
 *skynewsarabia.com
 *skynews.com.au
 *safetytraining.sky.it
+*.snapnames.com
+*.namejet.com
+*.buydomains.com
 *.afterpay.com
 *.cash.me
 *.tidal.com
@@ -815,6 +820,8 @@ app.clayton.io
 getclayton.com
 api.clayton.io
 carrinho.hostgator.com.br
+academy.hostgator.com
+hostgator.com.br
 myprotein.com.tr
 backend.ibotta.com
 ir.ibotta.com
@@ -1093,6 +1100,7 @@ livechat.simplisafe.com
 press.simplisafe.com
 support.simplisafe.com
 skyscanner.net
+namejet.com
 community.sophos.com
 sophos.atlassian.net
 blog.soundcloud.com
@@ -2394,8 +2402,6 @@ tech.instacart.com
 phpbb.com
 socialhub.expediacruises.com
 bookus.expediacruises.com
-china.airasiago.com
-thailand.airasiago.com
 expediaagents.com
 expediapartnersolutions.com
 answers.netlify.com
@@ -3226,6 +3232,7 @@ tracking.digitalocean.com
 waves.digitalocean.com
 registry.digitalocean.com
 driessen.nl
+20years.eurid.eu
 changelog.exoscale.com
 exoscalestatus.com
 academy.exoscale.com
