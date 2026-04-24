@@ -246,6 +246,12 @@ mijn.karwei.nl
 irmg.nl
 kruidvat.nl
 kruidvat.be
+api.kruidvat.nl
+api.kruidvat.be
+app.kruidvat.nl
+app.kruidvat.be
+media.kruidvat.nl
+media.kruidvat.be
 kruidvatkids.nl
 speelgoedfolder.kruidvat.nl
 depliantdejouets.kruidvat.be

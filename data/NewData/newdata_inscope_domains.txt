@@ -1,10 +1,6 @@
-gamma.nl
-gamma.be
-karwei.nl
-kassa.gamma.nl
-kassa.gamma.be
-kassa.karwei.nl
-mijn.gamma.nl
-mijn.gamma.be
-mijn.karwei.nl
-irmg.nl
+api.kruidvat.nl
+api.kruidvat.be
+app.kruidvat.nl
+app.kruidvat.be
+media.kruidvat.nl
+media.kruidvat.be
