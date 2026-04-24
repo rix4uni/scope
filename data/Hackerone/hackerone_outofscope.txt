@@ -925,12 +925,12 @@ support.doppler.com
 bucksense.com
 *.intomore.com
 blog.grindr.com
-squarespace.com
+bugcrowd.com
 go.grindr.com
 golinks.io
 grindr.atlassian.net
-bugcrowd.com
 grindrbloop.com
+squarespace.com
 grindrtogo.grindr.com
 help.grindr.com
 investors.grindr.com

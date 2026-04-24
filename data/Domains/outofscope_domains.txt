@@ -1392,11 +1392,11 @@ calendly.com
 support.doppler.com
 bucksense.com
 blog.grindr.com
-squarespace.com
 go.grindr.com
 golinks.io
 grindr.atlassian.net
 grindrbloop.com
+squarespace.com
 grindrtogo.grindr.com
 help.grindr.com
 investors.grindr.com
