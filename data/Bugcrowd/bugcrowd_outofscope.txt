@@ -174,9 +174,6 @@ console-test.dell.com
 salesproductivity.dell.com
 *.dell.com
 *.delltechnologies.com
-directly.com
-resources.directly.com
-*.sandbox.directly.com
 ethics.epam.com
 profile.epam.com
 carbon.epam.com

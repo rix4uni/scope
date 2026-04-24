@@ -150,8 +150,6 @@ educate.dell.com
 console.dell.com
 console-test.dell.com
 salesproductivity.dell.com
-directly.com
-resources.directly.com
 ethics.epam.com
 profile.epam.com
 carbon.epam.com
@@ -2574,10 +2572,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 demorgen.be

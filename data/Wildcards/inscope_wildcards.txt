@@ -62,7 +62,6 @@ portalapi.*.afterpay.com
 *.sys.comcast.net
 *.dell.com
 *.delltechnologies.com
-*.sandbox.directly.com
 casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
@@ -1041,9 +1040,6 @@ ic3.*.indriverapp.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl

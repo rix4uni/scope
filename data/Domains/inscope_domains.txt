@@ -164,8 +164,6 @@ business.comcast.com
 xfinity.com
 consensus2024.sandbox.events.coindesk.com
 console.delltechnologies.com
-app.sandbox.directly.com
-sandbox.directly.com
 docs.eazybi.com
 my.elementor.com
 go.elementor.com
@@ -180,12 +178,6 @@ casino.bwin.com
 casino.sportingbet.com
 ladbrokes.com
 coral.co.uk
-partypoker.com
-galabingo.com
-partycasino.com
-bwin.com
-media.itsfogo.com
-galacasino.com
 epam.com
 projects.epam.com
 lab.epam.com
@@ -3403,9 +3395,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-capital.com
-open-api.capital.com
 challenge-0426.intigriti.io
 api.cloudways.com
 developers.cloudways.com
