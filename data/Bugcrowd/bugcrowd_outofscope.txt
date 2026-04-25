@@ -131,7 +131,6 @@ assetinventory.bugcrowd.com
 community.bugcrowd.com
 trust.bugcrowd.com
 *.bullish.com
-simnext.bullish-test.com
 cwingsfe.mafrservices.com
 subs.foreignaffairs.com
 subscribe.foreignaffairs.com
