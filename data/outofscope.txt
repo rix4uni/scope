@@ -738,6 +738,7 @@ events.bugcrowd.com
 assetinventory.bugcrowd.com
 community.bugcrowd.com
 trust.bugcrowd.com
+simnext.bullish-test.com
 cwingsfe.mafrservices.com
 subs.foreignaffairs.com
 subscribe.foreignaffairs.com
