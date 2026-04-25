@@ -1,2 +1,3 @@
-bullish.com
-investor.bullish.com
+payment.backend-capital.com
+capital.com
+open-api.capital.com
