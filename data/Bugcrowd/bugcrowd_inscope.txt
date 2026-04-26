@@ -943,7 +943,6 @@ api.planethoster.net
 world.planethoster.net
 mg.n0c.com
 planethoster.com
-*.points.com
 dealflow.prosus.com
 dealflowapi.prosus.com
 analytics-admin.prosus.com
