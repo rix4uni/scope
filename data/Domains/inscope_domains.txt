@@ -1526,7 +1526,6 @@ visainfinite.ca
 visamiddleeast.com
 yellowpepper.com
 developer.worldcoin.org
-getworldcoin.com
 docs.world.org
 toolsforhumanity.com
 world.org
@@ -3411,6 +3410,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
@@ -4371,7 +4379,5 @@ svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
-toom.de
-api.toom.de
 co.uk.com
 parcelhubeurope.com

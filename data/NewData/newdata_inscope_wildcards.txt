@@ -1,7 +1,2 @@
-*.remove.bg
-*.designify.com
-*.kaleido.ai
-*.unscreen.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
+*.bancoplata.mx
+*.datacamp.com

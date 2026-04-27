@@ -39,6 +39,7 @@ github.com
 1w.cash
 1w.run
 1win.com
+*.bancoplata.mx
 *.platacard.mx
 dif.tech.plata
 lb1.iris.cgophobb.com
@@ -524,7 +525,6 @@ yellowpepper.com
 *.worldcoin.dev
 *.worldcoin.org
 developer.worldcoin.org
-getworldcoin.com
 docs.world.org
 toolsforhumanity.com
 world.org

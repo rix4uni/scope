@@ -333,6 +333,7 @@ sip.*.twilio.com
 *.robinhood.net
 *.say.rocks
 *.saytechnologies.com
+*.bancoplata.mx
 *.platacard.mx
 *.konghq.com
 *.api.konghq.com
@@ -1046,6 +1047,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
