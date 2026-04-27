@@ -93,10 +93,6 @@ lansweeper.com
 libelle.nl
 *.lxc.liferay.com
 login.liferay.com
-*.monzo.me
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 *.nexuzhealth.pro

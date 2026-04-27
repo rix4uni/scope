@@ -563,7 +563,6 @@ g.*.slackhq.com
 *.grafana.net
 *.swop.com
 *.lxc.liferay.com
-*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
@@ -3253,9 +3252,6 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be
