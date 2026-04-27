@@ -379,10 +379,6 @@ api.justeat-int.com
 yourdelivery.de
 just-data.io
 jet-external.com
-remove.bg
-designify.com
-kaleido.ai
-unscreen.com
 keepersecurity.com
 microsoft.com
 docs.keeper.io
@@ -3621,6 +3617,8 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
+monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
