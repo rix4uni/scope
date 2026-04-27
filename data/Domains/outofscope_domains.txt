@@ -706,6 +706,7 @@ rooms.docusign.com
 accounts.britishairways.com
 holiday.britishairways.com
 regionstest.com
+platacard.mx
 admin.meesho.io
 affiliate-c.meesho.com
 agency.meesho.com
@@ -2759,18 +2760,6 @@ explore.alasco.de
 alasco.de
 blog.bitoasis.net
 dev.blablacar.com
-sncf-connect-tech.fr
-office-web-sncf-a.sips-services.com
-sncf.com
-groupe-sncf.com
-garesetconnexions.sncf
-sncf-voyageurs.com
-tgvinoui.sncf
-ter.sncf.com
-ouigo.com
-maxjeune-tgvinoui.sncf
-malocationavis.sncf-connect.com
-hiflow.sncf-connect.com
 sncf-connect.com
 coindcx.com
 info.coindcx.com
