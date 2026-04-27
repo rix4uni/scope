@@ -132,6 +132,10 @@ casino.*.betmgm.com
 *.yourdelivery.de
 *.just-data.io
 *.jet-external.com
+*.remove.bg
+*.designify.com
+*.kaleido.ai
+*.unscreen.com
 *.kucoin.com
 *.28degreescard.com.au
 *.buyersedge.com.au
@@ -1036,6 +1040,9 @@ ic3.*.indriverapp.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1670,6 +1677,10 @@ api.justeat-int.com
 yourdelivery.de
 just-data.io
 jet-external.com
+remove.bg
+designify.com
+kaleido.ai
+unscreen.com
 keepersecurity.com
 microsoft.com
 docs.keeper.io
@@ -4688,6 +4699,9 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 challenge-0426.intigriti.io
 api.cloudways.com
 developers.cloudways.com

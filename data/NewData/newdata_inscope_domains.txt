@@ -1,2 +1,7 @@
-co.uk.getmondo
-monzo.com
+remove.bg
+designify.com
+kaleido.ai
+unscreen.com
+payment.backend-capital.com
+capital.com
+open-api.capital.com
