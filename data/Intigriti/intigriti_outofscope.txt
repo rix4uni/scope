@@ -186,7 +186,10 @@ limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
 elect.tweakers.net
-preview.redcap.gbiomed.kuleuven.be
+uz-laboboeken.web.app
+laboboeken.uzleuven.be
+boekentoy.firebaseio.com
+uz-laboboeken.firebaseio.com
 jobs.uzleuven.be
 uzleuven.atlassian.net
 vacatures.uzleuven.be

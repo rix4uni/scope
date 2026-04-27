@@ -1382,6 +1382,7 @@ espnbet.com
 2kleague-dev.nba.com
 2kleague-qa.nba.com
 2kleague.nba.com
+arcade.nba.com
 coalition.nba.com
 dev.stats.2kleague.nba.com
 evergent.com
@@ -3321,7 +3322,10 @@ limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
 elect.tweakers.net
-preview.redcap.gbiomed.kuleuven.be
+uz-laboboeken.web.app
+laboboeken.uzleuven.be
+boekentoy.firebaseio.com
+uz-laboboeken.firebaseio.com
 jobs.uzleuven.be
 uzleuven.atlassian.net
 vacatures.uzleuven.be
