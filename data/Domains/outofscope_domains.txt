@@ -1369,6 +1369,7 @@ theossteam.com
 theossteam.unanet-gc.biz
 uat1.acqcenter.com
 uat2.acqcenter.com
+swalesaerospace.com
 globalpaymentsinc.com
 globalpayments.com
 remotesupport.heartland.us
@@ -2576,6 +2577,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 app.datacamp.com

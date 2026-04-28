@@ -25,6 +25,7 @@ mysrc.group
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
+edge.bookbeat.com
 edge.blablacar
 co.uk
 auth.blablacar
