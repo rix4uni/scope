@@ -129,7 +129,6 @@ hellosign.com
 dash.ai
 dash.dropbox.com
 api.dropbox.com
-replay.dropbox.com
 hellofax.com
 docsend.com
 app.reclaim.ai
@@ -143,6 +142,7 @@ app.reclaim.ai
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+replay.dropbox.com
 docs.google.com
 my.eurid.eu
 *.das.eu

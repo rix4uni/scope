@@ -1263,6 +1263,7 @@ ic3.*.indriverapp.com
 *.roon.app
 *.gotdrops.com
 *.gotdrops.cloud
+*.harman.com
 *.easy4ipcloud.com
 *.api.louisvuitton.com
 *.soyoustart.com
