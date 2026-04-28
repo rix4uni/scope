@@ -406,6 +406,7 @@ sip.*.twilio.com
 *.pullandbear.cn
 *.massimodutti.cn
 *.inditexcareers.com
+*.prod.innovexperiments.com
 *.visamiddleeast.com
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
@@ -1047,7 +1048,6 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
