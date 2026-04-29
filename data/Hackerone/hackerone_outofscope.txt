@@ -2115,6 +2115,10 @@ dl.airtable.com
 dl.getforma.com
 guide.airtable.com
 support.airtable.com
+*.formassembly.com
+*.tfaforms.com
+*.tfaforms.net
+*.veerwest.com
 *.go.ubnt.com
 forum-es.ui.com
 forum-pt.ui.com
