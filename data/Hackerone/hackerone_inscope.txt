@@ -868,7 +868,11 @@ mongodb.mongodb
 defi.ripio.com
 auth.ripio.com
 app.ripio.com
+basescan.org
+bridge.ripio.com
+etherscan.io
 kyc.ripio.com
+worldscan.org
 sandbox-b2b.ripio.com
 trade.ripio.com
 *.deribit.com
@@ -1985,7 +1989,6 @@ app.mona.co
 developer-api.crypto.com
 developer-platform-api.crypto.com
 developer.crypto.com
-etherscan.io
 explorer.cronos.org
 js.crypto.com
 merchant.crypto.com

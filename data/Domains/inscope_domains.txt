@@ -1822,7 +1822,10 @@ mongodb.mongodb
 defi.ripio.com
 auth.ripio.com
 app.ripio.com
+basescan.org
+bridge.ripio.com
 kyc.ripio.com
+worldscan.org
 sandbox-b2b.ripio.com
 trade.ripio.com
 insights.deribit.com
@@ -3755,6 +3758,8 @@ wiki.portofantwerpbruges.com
 oursustainableport.com
 portofantwerpbruges.com
 erpx.unit4cloud.com
+iqoption.com
+quadcode.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
