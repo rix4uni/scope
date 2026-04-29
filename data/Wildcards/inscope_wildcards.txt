@@ -1094,6 +1094,16 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.gamma.nl
+*.gamma.be
+*.karwei.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.nl
+*.werkenbijgamma.be
+*.werkenbijkarwei.nl
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1163,8 +1173,6 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
