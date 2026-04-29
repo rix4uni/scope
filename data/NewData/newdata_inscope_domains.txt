@@ -1,3 +1,1 @@
-payment.backend-capital.com
-capital.com
-open-api.capital.com
+consensus2026.sandbox.events.coindesk.com
