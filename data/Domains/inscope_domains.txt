@@ -3438,9 +3438,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-capital.com
-open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -3560,16 +3557,6 @@ campagne.iciparisxl.lu
 campagne.iciparisxl.be
 servicenl.iciparisxl.be
 pourvous.nl
-gamma.nl
-gamma.be
-karwei.nl
-kassa.gamma.nl
-kassa.gamma.be
-kassa.karwei.nl
-mijn.gamma.nl
-mijn.gamma.be
-mijn.karwei.nl
-irmg.nl
 kruidvat.nl
 kruidvat.be
 api.kruidvat.nl
