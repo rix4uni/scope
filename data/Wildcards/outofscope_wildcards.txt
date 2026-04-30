@@ -553,7 +553,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -593,10 +592,6 @@ g.*.slackhq.com
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
-*.homerr.com
-*vintedpay.com
-*.vinted.ca
-*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net

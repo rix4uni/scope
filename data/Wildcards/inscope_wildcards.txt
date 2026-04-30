@@ -1048,7 +1048,6 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1173,16 +1172,6 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.vinted.net
-*.vinted.com
-*.vinted.fr
-*.vintedgo.com
-*old.vinted.com
-*test-escalations.vintedgo.com
-*badger.it.vinted.com
-*careers.vinted.com
-*news.vinted.com
-*company.vinted.com
 *.voi.com
 *.voiscooters.com
 *.deliciousbrains.com
