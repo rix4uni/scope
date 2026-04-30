@@ -827,6 +827,7 @@ bugs.opera.com
 *.opera.technology
 gx.games
 create.gx.games
+gx.me
 features.opera-api.com
 cdn-store.opera-api.com
 *.sec-tunnel.com
@@ -847,6 +848,7 @@ cashback.opera.com
 *.feednews.com
 *.dailyadvent.com
 api.gx.games
+api.gx.me
 *.apexnews.com
 *.apexscores.io
 *.opr.news
@@ -859,6 +861,8 @@ cms.adx.opera.com
 auth-adx.op-mobile.opera.com
 *.adx.opera.com
 operaneon.com
+api.neon.opera.com
+neon.opera.com
 app.opsgenie.com
 mobileapp.opsgenie.com
 *.opsgenie.com

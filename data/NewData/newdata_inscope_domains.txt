@@ -1,5 +1,4 @@
-basescan.org
-bridge.ripio.com
-worldscan.org
-iqoption.com
-quadcode.com
+gx.me
+api.gx.me
+api.neon.opera.com
+neon.opera.com
