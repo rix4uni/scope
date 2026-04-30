@@ -738,6 +738,7 @@ my.electroneum.com
 electroneum.com
 api.electroneum.com
 *.myfitnesspal.com
+app.navan.com
 secure.neogov.com
 login.neogov.com
 performance.neogov.com

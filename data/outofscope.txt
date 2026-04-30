@@ -553,7 +553,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -907,6 +906,7 @@ moneytree.jp
 getmoneytree.com
 community.myfitnesspal.com
 community-stage.myfitnesspal.com
+tripactions.com
 status.newrelic.com
 docs.newrelic.com
 iopipe.com
@@ -3219,18 +3219,6 @@ relocate-with-us.capital.com
 texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 anchor.digitalocean.com
