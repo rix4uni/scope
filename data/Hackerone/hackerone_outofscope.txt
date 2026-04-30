@@ -1,4 +1,8 @@
+ai-answers.alpha.canada.ca
+ai-answers.cdssandbox.xyz
 blawx.cdssandbox.xyz
+reponses-ia.alpha.canada.ca
+reponses-ia.cdssandbox.xyz
 strapi.cdssandbox.xyz
 *.cas.l3harris.com
 *.cts.l3harris.com

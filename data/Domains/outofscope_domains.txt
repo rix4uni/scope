@@ -602,7 +602,11 @@ develop-app.ynab.com
 learn.ynab.com
 support.zendesk.com
 zendesk.com
+ai-answers.alpha.canada.ca
+ai-answers.cdssandbox.xyz
 blawx.cdssandbox.xyz
+reponses-ia.alpha.canada.ca
+reponses-ia.cdssandbox.xyz
 strapi.cdssandbox.xyz
 asterisk.thorntontomasetti.com
 careers.draken.aero
