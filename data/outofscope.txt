@@ -593,6 +593,10 @@ g.*.slackhq.com
 *.crewconnect.coca-cola.com
 *.connect.coca-cola.com
 *.ccnag.com
+*.homerr.com
+*vintedpay.com
+*.vinted.ca
+*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
@@ -3293,10 +3297,10 @@ login.internal.monzo.com
 monzo.me
 docs.moralis.io
 status.moralis.io
-idp-contact.nexuzhealth.be
-media.nexuzhealth.be
-nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
+nexuzhealth.atlassian.net
+media.nexuzhealth.be
+idp-contact.nexuzhealth.be
 store.ninjakiwi.com
 support.ninjakiwi.com
 personio.de
@@ -3356,6 +3360,8 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
+api.prod.svc.vintedpay.com
+callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
