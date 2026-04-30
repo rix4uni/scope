@@ -245,9 +245,6 @@ db.*.supabase.co
 *.thebodyshop.com.tr
 *.thebodyshop.pl
 *.thebodyshop.qa
-*.envira.es
-*.eurofins-digitaltesting.com
-*.sgs.com
 *.truist.com
 *.sixidmobile.com
 *.stripchat.com
