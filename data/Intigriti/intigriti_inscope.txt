@@ -378,6 +378,8 @@ boomer2.ninjakiwi.com
 ct.ninjakiwi.com
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+associatie.kuleuven.be
+webwsp.aps.kuleuven.be
 app.pdq.com
 portal.pdq.com
 a.simplemdm.com
