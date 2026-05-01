@@ -563,7 +563,6 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
