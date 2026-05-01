@@ -687,6 +687,7 @@ developers.tenable.com
 docs.tenable.com
 fr.tenable.com
 go.tenable.com
+events.tenable.com
 login.tenable.com
 partners.tenable.com
 static.tenable.com
