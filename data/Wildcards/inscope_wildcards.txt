@@ -609,7 +609,6 @@ ic3.*.indriverapp.com
 *.xunkids.com
 *.youpin.cn
 *.zmifi.com
-*.memorable.io
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1172,8 +1171,6 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io

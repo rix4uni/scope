@@ -1331,6 +1331,7 @@ thinkmoney-idcheck.capitalone.co.uk
 travel-qa.capitalone.com
 travel.capitalone.com
 very-idcheck.capitalone.co.uk
+memorable.io
 reddit.secure.force.com
 *.clearxchange.com
 *bc.earlywarning.com
