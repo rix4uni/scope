@@ -1398,6 +1398,13 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 covid19app.who.int
+freshworks.atlassian.net
+yourdomain.myfreshworks.com
+wchat.freshchat.com
+freshworks.com
+yourdomain.freshping.io
+yourdomain.freshstatus.io
+yourdomain.freshsurvey.io
 corda.net
 r3.com
 community.doppler.com

@@ -927,6 +927,13 @@ support.hypr.com
 *.who.int
 covid19app.who.int
 *.getbouncer.com
+freshworks.atlassian.net
+yourdomain.myfreshworks.com
+wchat.freshchat.com
+freshworks.com
+yourdomain.freshping.io
+yourdomain.freshstatus.io
+yourdomain.freshsurvey.io
 corda.net
 r3.com
 community.doppler.com

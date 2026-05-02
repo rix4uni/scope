@@ -1,6 +1,6 @@
-api.voiapp.io
-fm.voiapp.io
-mds.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
+yourdomain.freshcaller.com
+yourdomain.freshchat.com
+yourdomain.freshdesk.com
+yourdomain.freshrelease.com
+yourdomain.freshservice.com
+yourdomain.myfreshworks.com
