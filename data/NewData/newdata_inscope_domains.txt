@@ -1,10 +1,4 @@
-dropbox.com
-sign.dropbox.com
-hellosign.com
-dash.ai
-dash.dropbox.com
-api.dropbox.com
-hellofax.com
-docsend.com
-app.reclaim.ai
-replay.dropbox.com
+idp-contact.nexuzhealth.be
+media.nexuzhealth.be
+hub.vznkul.be
+hubacc.vznkul.be
