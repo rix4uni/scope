@@ -367,6 +367,8 @@ be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 mynexuz.be
 liquidfiles.nexuzhealth.com
+idp-contact.nexuzhealth.be
+media.nexuzhealth.be
 analytics.ninjakiwi.com
 api.ninjakiwi.com
 guts.ninjakiwi.com
