@@ -880,6 +880,7 @@ extensions.stripchat.com
 stripchat.com
 pxl.stripchat.com
 support.stripchat.com
+websocket-apps.sc-apps.com
 wiki.stripchat.com
 api.redoxengine.com
 testapi.redoxengine.com
@@ -2714,6 +2715,18 @@ viavika.no
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
+trust.truelayer.com
+banks.truelayer.com
+careers.truelayer.com
+docs.truelayer.com
+docs.houston.truelayer.com
+truelayer.com
+index.truelayer.com
+info.truelayer.com
+signin.truelayer.com
+support.truelayer.com
+status.truelayer.com
+truelayer.zendesk.com
 elect.tweakers.net
 uz-laboboeken.web.app
 laboboeken.uzleuven.be

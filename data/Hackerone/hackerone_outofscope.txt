@@ -332,6 +332,7 @@ stripchat.com
 *.stripchat.com
 pxl.stripchat.com
 support.stripchat.com
+websocket-apps.sc-apps.com
 wiki.stripchat.com
 api.redoxengine.com
 testapi.redoxengine.com
