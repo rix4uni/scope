@@ -875,6 +875,8 @@ truist.com
 saferpay.com
 gnltn.com
 ldry.com
+ext.stripchat.com
+extensions.stripchat.com
 stripchat.com
 pxl.stripchat.com
 support.stripchat.com
@@ -2735,6 +2737,8 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
+api.prod.svc.vintedpay.com
+callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
