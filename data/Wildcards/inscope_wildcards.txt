@@ -1051,6 +1051,16 @@ ic3.*.indriverapp.com
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
+*.dash.ai
 *.das.eu
 *.dns.eu
 *.eurid.eu
@@ -1149,6 +1159,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net
