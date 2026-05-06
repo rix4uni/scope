@@ -756,6 +756,8 @@ geminiadvisory.io
 app.recordedfuture.com
 api.recordedfuture.com
 securitytrails.com
+refined.site
+refinedsites.refinedwiki.com
 seekcdn.com
 graphql.seek.com
 auth.seek.com

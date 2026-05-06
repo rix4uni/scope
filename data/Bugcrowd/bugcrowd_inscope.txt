@@ -996,6 +996,8 @@ geminiadvisory.io
 app.recordedfuture.com
 api.recordedfuture.com
 securitytrails.com
+refined.site
+refinedsites.refinedwiki.com
 *.seek.com.au
 seekcdn.com
 *.skinfra.xyz
