@@ -563,7 +563,6 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -589,9 +588,9 @@ g.*.slackhq.com
 *.ripe.net
 *.newyorkredbulls.com
 *.tempo-team.de
-*.crewconnect.coca-cola.com
-*.connect.coca-cola.com
 *.ccnag.com
+*.connect.coca-cola.com
+*.crewconnect.coca-cola.com
 *.homerr.com
 *vintedpay.com
 *.vinted.ca
