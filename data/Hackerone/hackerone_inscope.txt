@@ -760,7 +760,7 @@ autopush.stage.mozaws.net
 updates-autopush.stage.mozaws.net
 relay.firefox.com
 relay.allizom.org
-dev.fxprivaterelay.nonprod.cloudops.mozgcp.net
+mozilla.github.io
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.allizom.org
 sync.services.mozilla.com
