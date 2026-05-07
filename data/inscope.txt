@@ -2863,6 +2863,13 @@ leaflet-map.bykea.net
 maps.bykea.net
 nominatim.bykea.net
 tomoe.bykea.net
+docs.anthropic.com
+api-staging.anthropic.com
+claude.ai
+anthropic.atlassian.com
+api.anthropic.com
+console.anthropic.com
+support.anthropic.com
 inditex.com
 inditex.cn
 zara.com

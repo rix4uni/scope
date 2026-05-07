@@ -784,7 +784,6 @@ auth.finnair.com
 x.com
 youtube.com
 advisoryworld.com
-claude.ai
 issue-management.iontrading.com
 api-stage.pricerunner.com
 api-us.pricerunner.com
@@ -854,6 +853,7 @@ dev.travix.com
 development.travix.com
 playground.travix.com
 tilismtechservices.com
+claude.ai
 support.wonder.com
 support.blueapron.com
 support.grubhub.com

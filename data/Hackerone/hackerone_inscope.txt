@@ -523,6 +523,14 @@ leaflet-map.bykea.net
 maps.bykea.net
 nominatim.bykea.net
 tomoe.bykea.net
+docs.anthropic.com
+api-staging.anthropic.com
+claude.ai
+chromewebstore.google.com
+anthropic.atlassian.com
+api.anthropic.com
+console.anthropic.com
+support.anthropic.com
 inditex.com
 inditex.cn
 *.zara.com
@@ -785,7 +793,6 @@ redoxengine.com
 *.oklink.com
 *.okx.com
 okx.com
-chromewebstore.google.com
 microsoftedge.microsoft.com
 api.wisdomtreeprimeapp.com
 app.wisdomtreeconnect.com

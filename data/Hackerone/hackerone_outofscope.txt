@@ -216,7 +216,6 @@ youtube.com
 advisoryworld.com
 *.cyral.com
 *.varonis-preprod.com
-claude.ai
 issue-management.iontrading.com
 api-stage.pricerunner.com
 api-us.pricerunner.com
@@ -298,6 +297,7 @@ playground.travix.com
 *.stg.travix.com
 *.tellocast.com
 tilismtechservices.com
+claude.ai
 support.wonder.com
 support.blueapron.com
 support.grubhub.com
