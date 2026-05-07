@@ -759,7 +759,7 @@ updates.push.services.mozilla.com
 autopush.stage.mozaws.net
 updates-autopush.stage.mozaws.net
 relay.firefox.com
-stage.fxprivaterelay.nonprod.cloudops.mozgcp.net
+relay.allizom.org
 dev.fxprivaterelay.nonprod.cloudops.mozgcp.net
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.allizom.org
@@ -2119,6 +2119,7 @@ neoket.net
 novel.pixiv.net
 pastela.app
 payment.pixiv.net
+premium.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
 pixiv.net
