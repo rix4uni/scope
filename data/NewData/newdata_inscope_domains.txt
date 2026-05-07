@@ -1,4 +1,3 @@
-mozilla.github.io
 dropbox.com
 sign.dropbox.com
 hellosign.com
@@ -9,13 +8,5 @@ hellofax.com
 docsend.com
 app.reclaim.ai
 replay.dropbox.com
-gamma.nl
-gamma.be
-karwei.nl
-kassa.gamma.nl
-kassa.gamma.be
-kassa.karwei.nl
-mijn.gamma.nl
-mijn.gamma.be
-mijn.karwei.nl
-irmg.nl
+service.fing.com
+app.fing.com
