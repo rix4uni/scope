@@ -1294,11 +1294,6 @@ tiktok.com
 tiktokdata-us-open.tiktokw.us
 pangleglobal.com
 soundonw.us
-app.launchdarkly.com
-docs.launchdarkly.com
-launchdarkly.com
-events.launchdarkly.com
-stream.launchdarkly.com
 api-gateway.polygon.technology
 api-polygon-tokens.polygon.technology
 faucet-api.polygon.technology
