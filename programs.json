@@ -3657,33 +3657,6 @@
     "last_updated": "2026-05-08"
   },
   {
-    "name": "Monzo Public Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "GBP12500",
-    "inscope_domains": [
-      "*.monzo.com",
-      "*.prod-ffs.io",
-      "1052238659",
-      "co.uk.getmondo",
-      "www.monzo.com",
-      "monzo.com"
-    ],
-    "outofscope_domains": [
-      "*/p2p/*",
-      "*/contact-discovery/*",
-      "*/inbound-p2p/*",
-      "*.monzo.me",
-      "community.monzo.com",
-      "login.internal.monzo.com",
-      "monzo.me"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-08"
-  },
-  {
     "name": "Moralis VDP",
     "program_url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
