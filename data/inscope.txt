@@ -3387,6 +3387,7 @@ api.stripe.com
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
+mcp.stripe.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
