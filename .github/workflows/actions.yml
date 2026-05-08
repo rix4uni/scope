@@ -31,6 +31,7 @@ jobs:
     - name: Running scope_moniter.sh
       run: |
         bash scope_moniter.sh
+        bash update_program_list.sh
 
     - name: Commit and push changes if there are any
       run: |
