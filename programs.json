@@ -2582,6 +2582,48 @@
     "last_updated": "2026-05-08"
   },
   {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-08"
+  },
+  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3610,6 +3652,33 @@
       "forms.mobilevikings.be"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-08"
+  },
+  {
+    "name": "Monzo Public Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "GBP12500",
+    "inscope_domains": [
+      "*.monzo.com",
+      "*.prod-ffs.io",
+      "1052238659",
+      "co.uk.getmondo",
+      "www.monzo.com",
+      "monzo.com"
+    ],
+    "outofscope_domains": [
+      "*/p2p/*",
+      "*/contact-discovery/*",
+      "*/inbound-p2p/*",
+      "*.monzo.me",
+      "community.monzo.com",
+      "login.internal.monzo.com",
+      "monzo.me"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-08"
