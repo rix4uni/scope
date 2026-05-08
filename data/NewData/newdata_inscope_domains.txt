@@ -1,7 +1,2 @@
-docs.anthropic.com
-api-staging.anthropic.com
-claude.ai
-anthropic.atlassian.com
-api.anthropic.com
-console.anthropic.com
-support.anthropic.com
+co.uk.getmondo
+monzo.com
