@@ -8648,7 +8648,7 @@
     "platform": "Bugcrowd",
     "reward": "$7000",
     "inscope_domains": [
-      "https://matlab.mathworks.com/"
+      "█████████████████████████████████████████████"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -59108,6 +59108,7 @@
       "Okta",
       "Other Spotify websites",
       "Podsights",
+      "Save to Spotify CLI",
       "Sonantic",
       "Spotify SDKs",
       "Spotify desktop application (Windows and Mac)",

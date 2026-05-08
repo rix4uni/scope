@@ -1795,7 +1795,6 @@ masterpassteststore.com
 finicity.com
 consumer.finicityreports.com
 pioneer.truata.com
-matlab.mathworks.com
 mattermost.com
 mgm.mo
 booking.mgm.mo
@@ -4384,6 +4383,7 @@ ping.pdst.fm
 podcast-graph-dot-adaptive-growth.appspot.com
 podsights.com
 sink.pdst.fm
+clawhub.ai
 app.sonantic.io
 api.sonantic.io
 label-studio-public.sonantic.io
