@@ -1946,31 +1946,6 @@
     "last_updated": "2026-05-09"
   },
   {
-    "name": "Aikido Security: Zen by Aikido ",
-    "program_url": "https://www.intigriti.com/programs/aikido/aikidoruntime/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://github.com/AikidoSec/firewall-node#Vulnerability",
-      "https://github.com/AikidoSec/firewall-ruby#Vulnerability",
-      "https://github.com/AikidoSec/firewall-php#Vulnerability",
-      "https://github.com/AikidoSec/firewall-python#Vulnerability",
-      "https://github.com/AikidoSec/firewall-node#Detection Bypass",
-      "https://github.com/AikidoSec/firewall-ruby#Detection Bypass",
-      "https://github.com/AikidoSec/firewall-php#Detection Bypass",
-      "https://github.com/AikidoSec/firewall-python#Detection Bypass",
-      "https://github.com/AikidoSec/firewall-node#False Positive",
-      "https://github.com/AikidoSec/firewall-ruby#False Positive",
-      "https://github.com/AikidoSec/firewall-php#False Positive",
-      "https://github.com/AikidoSec/firewall-python#False Positive"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-09"
-  },
-  {
     "name": "Algemeen Dagblad",
     "program_url": "https://www.intigriti.com/programs/dpgm/algemeendagblad/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
