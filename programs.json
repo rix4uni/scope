@@ -2805,6 +2805,54 @@
     "last_updated": "2026-05-10"
   },
   {
+    "name": "Dropbox Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/dropbox/dropbox/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$15000",
+    "inscope_domains": [
+      "Dropbox.com",
+      "sign.dropbox.com",
+      "HelloSign.com",
+      "dash.ai",
+      "dash.dropbox.com",
+      "api.dropbox.com",
+      "Dropbox Desktop Application",
+      "327630330",
+      "6450553960",
+      "1080074001",
+      "com.dropbox.dash",
+      "com.dropbox.android",
+      "HelloFax.com",
+      "docsend.com",
+      "app.Reclaim.ai",
+      "dropbox.com/paper",
+      "*.dropbox.com",
+      "*.dropboxer.net",
+      "*.dropboxforum.com",
+      "*.dropboxpartners.com",
+      "*.hellofax.com",
+      "*.docsend.com",
+      "*.reclaim.ai",
+      "*.helloworks.com",
+      "*.hellosign.com",
+      "*.dash.ai",
+      "replay.dropbox.com"
+    ],
+    "outofscope_domains": [
+      "Boxcryptor",
+      "Formswift",
+      "Dropbox Passwords",
+      "Dropbox Capture Windows Desktop App",
+      "Dropbox Capture macOS Desktop App",
+      "com.dropbox.paper",
+      "1126623662"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-10"
+  },
+  {
     "name": "Dropbox Vulnerability Disclosure Program ",
     "program_url": "https://www.intigriti.com/programs/dropbox/dropbox-vdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4227,6 +4275,27 @@
       "nl.speakap.speakap"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-10"
+  },
+  {
+    "name": "Sqills",
+    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "*.sqills.com",
+      "*.sqills.team"
+    ],
+    "outofscope_domains": [
+      "*.red.sqills.team",
+      "booking.*.cloud.sqills.com",
+      "booking.*.sqills.com",
+      "careers.sqills.com",
+      "welcome.sqills.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-10"

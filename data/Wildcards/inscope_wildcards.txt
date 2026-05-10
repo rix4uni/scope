@@ -1051,6 +1051,16 @@ ic3.*.indriverapp.com
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
+*.dash.ai
 *.das.eu
 *.dns.eu
 *.eurid.eu
@@ -1118,6 +1128,8 @@ ic3.*.indriverapp.com
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
