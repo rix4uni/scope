@@ -124,6 +124,7 @@ digitaloceantest.com
 do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
+docs.google.com
 my.eurid.eu
 *.das.eu
 *.dns.eu
