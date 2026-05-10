@@ -75,7 +75,6 @@ waves.digitalocean.com
 registry.digitalocean.com
 *.doserverless-dev3.io
 driessen.nl
-docs.google.com
 20years.eurid.eu
 *.yadifa.eu
 changelog.exoscale.com

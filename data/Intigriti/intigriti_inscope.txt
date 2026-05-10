@@ -144,7 +144,6 @@ app.reclaim.ai
 *.hellosign.com
 *.dash.ai
 replay.dropbox.com
-docs.google.com
 my.eurid.eu
 *.das.eu
 *.dns.eu
