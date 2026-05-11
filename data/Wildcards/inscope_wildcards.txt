@@ -97,9 +97,6 @@ casino.*.betmgm.com
 *.zoop.ws
 *.minhaconta.zoop.com.br
 *.dash.zoop.com.br
-*.immutable.com
-*.imtbl.com
-*.testnet.immutable.com
 *.imperva.com
 *.cloudvector.com
 *.incapsula.com

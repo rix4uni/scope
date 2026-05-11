@@ -97,9 +97,6 @@ casino.*.betmgm.com
 *.zoop.ws
 *.minhaconta.zoop.com.br
 *.dash.zoop.com.br
-*.immutable.com
-*.imtbl.com
-*.testnet.immutable.com
 *.imperva.com
 *.cloudvector.com
 *.incapsula.com
@@ -1585,17 +1582,6 @@ minhaconta.zoop.com.br
 dash.zoop.com.br
 contadigital.ifoodpago.com.br
 portal.ifoodpago.com.br
-passport.immutable.com
-auth.immutable.com
-hub.immutable.com
-play.immutable.com
-api.immutable.com
-api.x.immutable.com
-testnet.immutable.com
-link.x.immutable.com
-market.immutable.com
-docs.immutable.com
-imx.community
 cloudvector.com
 supportportal.thalesgroup.com
 indeed.com

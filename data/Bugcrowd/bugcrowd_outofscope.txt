@@ -239,17 +239,6 @@ blog-parceiros.ifood.com.br
 *.starsoft.movilepay.com
 *.openfinance.ifood.com.br
 *.openfinance.ifoodpago.com.br
-*.godsunchained.com
-*.gogbackend.com
-gogbackend.com
-godsunchained.com
-*.dev.x.immutable.com
-*.sandbox.x.immutable.com
-*.sandbox.imtbl.com
-*.dev.imtbl.com
-*.ropsten.x.immutable.com
-ropsten.imx.community
-*.guildofguardians.com
 docs.imperva.com
 docs-be.imperva.com
 *.joralocal.com.au

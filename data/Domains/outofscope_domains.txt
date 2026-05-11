@@ -201,9 +201,6 @@ investors.ibotta.com
 sampling.ibotta.com
 blog-empresas.ifood.com.br
 blog-parceiros.ifood.com.br
-gogbackend.com
-godsunchained.com
-ropsten.imx.community
 docs.imperva.com
 docs-be.imperva.com
 k15t.com

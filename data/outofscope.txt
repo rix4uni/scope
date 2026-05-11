@@ -36,14 +36,6 @@ hsd1.*.comcast.net
 *.starsoft.movilepay.com
 *.openfinance.ifood.com.br
 *.openfinance.ifoodpago.com.br
-*.godsunchained.com
-*.gogbackend.com
-*.dev.x.immutable.com
-*.sandbox.x.immutable.com
-*.sandbox.imtbl.com
-*.dev.imtbl.com
-*.ropsten.x.immutable.com
-*.guildofguardians.com
 *.joralocal.com.au
 *.business.just-eat.co.uk
 *kohls.com
@@ -829,9 +821,6 @@ investors.ibotta.com
 sampling.ibotta.com
 blog-empresas.ifood.com.br
 blog-parceiros.ifood.com.br
-gogbackend.com
-godsunchained.com
-ropsten.imx.community
 docs.imperva.com
 docs-be.imperva.com
 k15t.com
