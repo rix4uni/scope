@@ -1942,10 +1942,6 @@ uptime.rubygems.org
 developers.files.com
 mail.files.com
 status.files.com
-bamboo.scopely.io
-confluence.scopely.io
-jira.scopely.io
-scopely.okta.com
 *.wordpress.com
 wordpress.com
 *wordpress.com

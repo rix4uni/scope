@@ -2260,10 +2260,6 @@ uptime.rubygems.org
 developers.files.com
 mail.files.com
 status.files.com
-bamboo.scopely.io
-confluence.scopely.io
-jira.scopely.io
-scopely.okta.com
 wordpress.com
 status.wordpress.org
 glotpress.blog
@@ -2587,6 +2583,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 app.datacamp.com

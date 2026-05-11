@@ -49,6 +49,12 @@ editorial.one
 technik.autobild.de
 technik.beta.autobild.de
 *.bmc.nl
+bmw-motorrad.de
+bmw.de
+mini.de
+configure.bmw.de
+configure.mini.de
+konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
 login.cm.com
 *.ticketing.cm.com
@@ -58,6 +64,12 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+*.backend-capital.com
+capital.com
+open-api.capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com

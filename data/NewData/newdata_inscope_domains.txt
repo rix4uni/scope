@@ -1,3 +1,9 @@
+bmw-motorrad.de
+bmw.de
+mini.de
+configure.bmw.de
+configure.mini.de
+konfigurator.bmw-motorrad.de
 payment.backend-capital.com
 capital.com
 open-api.capital.com

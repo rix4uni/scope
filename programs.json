@@ -2171,6 +2171,29 @@
     "last_updated": "2026-05-11"
   },
   {
+    "name": "BMW Group",
+    "program_url": "https://www.intigriti.com/programs/bmw/bmwgroup/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "www.bmw-motorrad.de",
+      "www.bmw.de",
+      "www.mini.de",
+      "configure.bmw.de",
+      "configure.mini.de",
+      "konfigurator.bmw-motorrad.de",
+      "Other BMW Domains"
+    ],
+    "outofscope_domains": [
+      "Automotive Security",
+      "Domains from independent BMW Dealers, Resellers or Fanclubs"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-11"
+  },
+  {
     "name": "BMW Group Automotive",
     "program_url": "https://www.intigriti.com/programs/bmw/bmwgroup-automotive/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2321,6 +2344,39 @@
       "com.canadapost.android"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-11"
+  },
+  {
+    "name": "Capital.com",
+    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "payment.backend-capital.com",
+      "*.backend-capital.com",
+      "capital.com/*",
+      "com.capital.trading",
+      "com.capital.trading",
+      "open-api.capital.com",
+      "*.capital.com",
+      "*.itcapital.io",
+      "aff.capital.com",
+      "go.capital.com",
+      "register.capital.com",
+      "careers.capital.com"
+    ],
+    "outofscope_domains": [
+      "*affiliates.backend-capital.com",
+      "*eduapp.backend-capital.com",
+      "*education.backend-capital.com",
+      "help.capital.com",
+      "relocate-with-us.capital.com",
+      "3cxby.itcapital.io",
+      "texis.itcapital.io"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-11"
@@ -9306,6 +9362,8 @@
       "https://www.opera.com/",
       "https://www.opera.com/computer/thanks?ni=stable&os=windows",
       "https://www.opera.com/computer/thanks?ni=eapgx&os=windows",
+      "https://www.operaneon.com",
+      "https://www.opera.com/computer/thanks?ni=opera_air&os=windows",
       "https://get.geo.opera.com",
       "https://play.google.com/store/apps/details?id=com.opera.mini.native",
       "https://play.google.com/store/apps/details?id=com.opera.app.sports",
@@ -13421,6 +13479,7 @@
     "inscope_domains": [
       "api.lovable.dev",
       "lovable.dev",
+      "mcp.lovable.dev",
       "oauth.lovable.dev"
     ],
     "outofscope_domains": [
@@ -59653,50 +59712,6 @@
       "social-trading.exness.com"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-11"
-  },
-  {
-    "name": "Scopely",
-    "program_url": "https://hackerone.com/scopely",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "*.scopely.com",
-      "*.scopely.io",
-      "*.withbuddies.com",
-      "Games Tier 1",
-      "Games Tier 2",
-      "Games Tier 3",
-      "air.com.bitrhymes.bingo",
-      "com.aqupepgames.projectpepe",
-      "com.aqupepgames.projectpepe",
-      "com.foxnextgames.m3",
-      "com.foxnextgames.m3",
-      "com.gsn.android.casino",
-      "com.gsn.android.tripeaks",
-      "com.gsn.grandcasino",
-      "com.kitkagames.fallbuddies",
-      "com.pieyel.scrabble",
-      "com.pieyel.scrabble",
-      "com.scopely.monopolygo",
-      "com.scopely.startrek",
-      "com.scopely.yux",
-      "com.scopely.yux",
-      "com.withbuddies.dice.free",
-      "com.withbuddies.dice.free",
-      "id1427744264",
-      "id1541153375",
-      "id1621328561"
-    ],
-    "outofscope_domains": [
-      "bamboo.scopely.io",
-      "confluence.scopely.io",
-      "jira.scopely.io",
-      "scopely.okta.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-11"

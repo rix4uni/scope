@@ -2661,10 +2661,6 @@ my.exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
-*.scopely.com
-*.scopely.io
-*.withbuddies.com
-air.com.bitrhymes.bingo
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
