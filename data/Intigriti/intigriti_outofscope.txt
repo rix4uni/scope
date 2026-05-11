@@ -17,13 +17,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-*affiliates.backend-capital.com
-*eduapp.backend-capital.com
-*education.backend-capital.com
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -176,11 +169,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
-careers.sqills.com
-welcome.sqills.com
 kvadrat.no
 viavika.no
 *.tempo-team.de

@@ -537,9 +537,6 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
-*affiliates.backend-capital.com
-*eduapp.backend-capital.com
-*education.backend-capital.com
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -580,9 +577,6 @@ g.*.slackhq.com
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
 *.tempo-team.de
 *.ccnag.com
 *.connect.coca-cola.com
@@ -3207,10 +3201,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 app.datacamp.com
@@ -3321,8 +3311,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-careers.sqills.com
-welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl

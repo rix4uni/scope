@@ -2587,10 +2587,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 app.datacamp.com
@@ -2701,8 +2697,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-careers.sqills.com
-welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl
