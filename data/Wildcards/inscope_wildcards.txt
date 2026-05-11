@@ -169,6 +169,7 @@ np.*.lfscnp.com
 *.pods.link
 *.playlist.link
 *.mylink.page
+*.lululemon.com
 *.staging.luno.com
 *staging.luno.com.ng
 *.cloud.mattermost.com

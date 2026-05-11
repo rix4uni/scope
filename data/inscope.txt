@@ -169,6 +169,7 @@ np.*.lfscnp.com
 *.pods.link
 *.playlist.link
 *.mylink.page
+*.lululemon.com
 *.staging.luno.com
 *staging.luno.com.ng
 *.cloud.mattermost.com
@@ -1719,6 +1720,17 @@ artist.link
 pods.link
 playlist.link
 mylink.page
+shop.lululemon.com
+lululemon.com.au
+lululemon.de
+lululemon.es
+eu.lululemon.com
+lululemon.fr
+lululemon.com.hk
+lululemon.co.jp
+lululemon.co.kr
+lululemon.co.nz
+lululemon.co.uk
 mobileapi.staging.luno.com
 staging.luno.com
 staging.luno.com.ng
