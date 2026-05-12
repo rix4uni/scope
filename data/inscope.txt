@@ -1119,7 +1119,6 @@ ic3.*.indriverapp.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
-*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
@@ -4125,8 +4124,6 @@ lavender.five
 user-images.githubusercontent.com
 docs.google.com
 ibc.cosmos.network
-integration.md
-yubihsm.rs
 releases.md
 sandbox.affirm.com
 crypto.com
@@ -5217,8 +5214,6 @@ quadcode.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
-access.ripe.net
-lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
