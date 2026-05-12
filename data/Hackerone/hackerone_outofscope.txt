@@ -1961,6 +1961,7 @@ sentry.nextcloud.com
 sentry.io
 try.nextcloud.com
 apply.starbucks.com
+athome.starbucks.com
 careers.starbucks.com
 lsstar.starbucks.com
 *.ruby-lang.org
