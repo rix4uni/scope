@@ -60,7 +60,6 @@ techops.dana.id
 dm.dana.id
 encrypt.dana.id
 *.dana.id
-*.ondailymotion.com
 datadome.co
 app.datadome.co
 *.vlaanderen.be

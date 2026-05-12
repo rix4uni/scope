@@ -1121,6 +1121,8 @@ ic3.*.indriverapp.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
+*.swisspass.ch
+*.sbb.ch
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -1196,13 +1198,6 @@ ic3.*.indriverapp.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.tchap.gouv.fr
-*.dailymotion.com
-*.api.dailymotion.com
-*.kube.dm.gg
-*.dm.gg
-*.dmxleo.com
-*.dmcdn.net
-*.dm-event.net
 *.captcha-delivery.com
 *.vlaanderen.be
 *.siilo.com

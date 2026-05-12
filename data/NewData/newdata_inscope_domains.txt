@@ -1,11 +1,4 @@
-shop.lululemon.com
-lululemon.com.au
-lululemon.de
-lululemon.es
-eu.lululemon.com
-lululemon.fr
-lululemon.com.hk
-lululemon.co.jp
-lululemon.co.kr
-lululemon.co.nz
-lululemon.co.uk
+sbb.ch
+elvetino.ch
+sbbcargo.com
+transsicura.ch
