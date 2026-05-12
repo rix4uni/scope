@@ -4155,29 +4155,6 @@
     "last_updated": "2026-05-12"
   },
   {
-    "name": "SBB - Swiss Federal Railways",
-    "program_url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6666",
-    "inscope_domains": [
-      " Mobile Apps",
-      "*.swisspass.ch",
-      "www.sbb.ch",
-      "*.sbb.ch",
-      "Mobile Apps",
-      "www.elvetino.ch",
-      "www.sbbcargo.com",
-      "www.transsicura.ch",
-      "All other Web and mobile APPs owned by SBB ",
-      "All other SBB owned IT assets"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-12"
-  },
-  {
     "name": "Signicat Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/signicat/signicatresponsibledisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -57681,24 +57658,6 @@
     "last_updated": "2026-05-12"
   },
   {
-    "name": "MariaDB",
-    "program_url": "https://hackerone.com/mariadb",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "MariaDB Server & Connectors  - Denial of Service",
-      "MariaDB Server & Connectors - Access control bypass",
-      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
-      "MariaDB Server & Connectors - Remote Code Execution",
-      "mariadb.org"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-12"
-  },
-  {
     "name": "Chaturbate",
     "program_url": "https://hackerone.com/chaturbate",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -60284,18 +60243,6 @@
     "last_updated": "2026-05-12"
   },
   {
-    "name": "CoinMate.io",
-    "program_url": "https://hackerone.com/coinmate",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-12"
-  },
-  {
     "name": "CLEAR",
     "program_url": "https://hackerone.com/clear",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -60744,6 +60691,7 @@
       "After Effects",
       "Animate",
       "Audition",
+      "Behance Freelance Job creation",
       "Bridge",
       "C2PA Tool",
       "Character Animator",
