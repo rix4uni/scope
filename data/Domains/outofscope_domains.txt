@@ -2831,7 +2831,6 @@ cmsdev.dana.id
 techops.dana.id
 dm.dana.id
 encrypt.dana.id
-agora.beta.gouv.fr
 datadome.co
 app.datadome.co
 cdn.vlaanderen.be

@@ -4229,9 +4229,6 @@ api.cyberghostvpn.com
 cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
 shoppingapp.decathlon.com
-app.sandbox.agora.incubateur.net
-api.sandbox.agora.incubateur.net
-identite-sandbox.proconnect.gouv.fr
 tchap.gouv.fr
 matrix.agent.tchap.gouv.fr
 matrix.agent

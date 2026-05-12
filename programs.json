@@ -383,43 +383,6 @@
     "last_updated": "2026-05-12"
   },
   {
-    "name": "DINUM - AGORA GOUV - Public Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/agora",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$5000",
-    "inscope_domains": [
-      "Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)",
-      "Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)",
-      "https://app.sandbox.agora.incubateur.net",
-      "https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)"
-    ],
-    "outofscope_domains": [
-      "All assets not listed as in scope must be considered as out of the scope of this program. Please note that the  Website \"agora.beta.gouv.fr\" is also out of scope.",
-      "Production environments are out of the scope of this program",
-      "Web application's Github repository (https://github.com/agora-gouv/agora-webapp), you may refer to the mobile app's repository"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-12"
-  },
-  {
-    "name": "DINUM - ProConnect Identité - Public Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/proconnect-identite",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$5000",
-    "inscope_domains": [
-      "https://identite-sandbox.proconnect.gouv.fr"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of \"Scopes\" are considered out of scope"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-12"
-  },
-  {
     "name": "DINUM - Tchap - Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/tchap-public",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",

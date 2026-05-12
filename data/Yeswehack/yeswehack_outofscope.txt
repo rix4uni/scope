@@ -60,8 +60,6 @@ techops.dana.id
 dm.dana.id
 encrypt.dana.id
 *.dana.id
-agora.beta.gouv.fr
-github.com
 *.ondailymotion.com
 datadome.co
 app.datadome.co
