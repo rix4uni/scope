@@ -6037,7 +6037,10 @@
       "explore.bitdefender.com",
       "explore-lb.bitdefender.com",
       "partner-marketing.bitdefender.com ",
-      "seems.gravityzone.bitdefender.com"
+      "seems.gravityzone.bitdefender.com",
+      "workflow.bitdefender.com",
+      "workflow-test.bitdefender.com",
+      "workflow-dev.bitdefender.com"
     ],
     "issues_reported": [],
     "scamhit": "",

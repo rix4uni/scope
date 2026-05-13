@@ -86,6 +86,9 @@ explore.bitdefender.com
 explore-lb.bitdefender.com
 partner-marketing.bitdefender.com
 seems.gravityzone.bitdefender.com
+workflow.bitdefender.com
+workflow-test.bitdefender.com
+workflow-dev.bitdefender.com
 central.bitdefender.com
 *.bitgo.com
 support.bitpanda.com
