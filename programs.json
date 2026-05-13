@@ -2618,6 +2618,38 @@
     "last_updated": "2026-05-13"
   },
   {
+    "name": "Delen Private Bank",
+    "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "api.digital.delen.be ",
+      "api.digital.delen.lu ",
+      "app.delen.be ",
+      "app.delen.ch ",
+      "app.delen.lu ",
+      "auth.digital.delen.be ",
+      "auth.digital.delen.lu ",
+      "be.delen.digital",
+      "delen/id1064839588",
+      "login.delen.be ",
+      "login.delen.ch ",
+      "login.delen.lu ",
+      "login.oyens.com",
+      "status.delen.be ",
+      "sts.delen.be ",
+      "www.cadelam.be ",
+      "www.cadelux.lu/en ",
+      "www.delen.bank",
+      "www.delen.be/en "
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-13"
+  },
+  {
     "name": "DigitalOcean",
     "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3571,33 +3603,6 @@
       "forms.mobilevikings.be"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-13"
-  },
-  {
-    "name": "Monzo Public Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "GBP12500",
-    "inscope_domains": [
-      "*.monzo.com",
-      "*.prod-ffs.io",
-      "1052238659",
-      "co.uk.getmondo",
-      "www.monzo.com",
-      "monzo.com"
-    ],
-    "outofscope_domains": [
-      "*/p2p/*",
-      "*/contact-discovery/*",
-      "*/inbound-p2p/*",
-      "*.monzo.me",
-      "community.monzo.com",
-      "login.internal.monzo.com",
-      "monzo.me"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-13"
@@ -27227,7 +27232,6 @@
       "Third Party Snaps",
       "api-wallet.web3auth.io",
       "https://*.metamask.io",
-      "https://github.com/Web3Auth/web3auth-web",
       "https://metamask.github.io/phishing-warning/<vX.Y.Z>",
       "io.metamask",
       "io.metamask.Metamask",
@@ -27249,6 +27253,7 @@
       "community.metamask.io",
       "dashboard.web3auth.io",
       "developer.metamask.io",
+      "https://github.com/Web3Auth/web3auth-web",
       "https://metamask.github.io/",
       "https://mmi-support.metamask.io/",
       "https://support.metamask.io/",
