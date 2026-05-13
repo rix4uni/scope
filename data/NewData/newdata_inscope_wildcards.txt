@@ -1,11 +1,3 @@
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
-*.ripe.net
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io

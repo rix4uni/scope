@@ -1388,6 +1388,8 @@ co.uk
 *.sheingsp.com
 api.faraday.ai
 app.faraday.ai
+buy.faraday.ai
+row.pro
 vault2.faraday.ai
 *.api.playstation.com
 *.playstation.net
