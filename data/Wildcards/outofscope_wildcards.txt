@@ -558,6 +558,7 @@ g.*.slackhq.com
 *.grafana.com
 *.grafana.net
 *.swop.com
+*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -578,6 +579,9 @@ g.*.slackhq.com
 *.unique.be
 *.uniqueselect.be
 *.usgprofessionals.be
+*.anchors.atlas.ripe.net
+*.probes.atlas.ripe.net
+*.ripe.net
 *.newyorkredbulls.com
 *.tempo-team.de
 *.ccnag.com

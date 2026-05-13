@@ -1087,6 +1087,16 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1119,6 +1129,7 @@ ic3.*.indriverapp.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
+*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
