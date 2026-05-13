@@ -11965,6 +11965,27 @@
     "last_updated": "2026-05-13"
   },
   {
+    "name": "McGraw Hill",
+    "program_url": "https://hackerone.com/mcgrawhill",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "boardsbeyond.com",
+      "mh.com",
+      "mhcampus.com",
+      "mheducation.com",
+      "mhhe.com",
+      "mhprofessional.com",
+      "simnetonline.com",
+      "tegrity.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-13"
+  },
+  {
     "name": "Clear Street Disclosure Program",
     "program_url": "https://hackerone.com/clear_street_vdp",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
