@@ -310,13 +310,6 @@ visayanelectric.com
 iflex.snaboitiz.com
 support.world.org
 support.worldcoin.com
-*.thebodyshop.com.bh
-*.thebodyshop.com.kw
-*.thebodyshop.com.tr
-*.thebodyshop.pl
-*.thebodyshop.qa
-crm.alshayamarketing.com
-thebodyshop.cz
 *.truist.com
 truist.com
 *.sixidmobile.com

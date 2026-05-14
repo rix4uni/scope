@@ -234,11 +234,6 @@ db.*.supabase.co
 *.stg.travix.com
 *.tellocast.com
 *.gobrightspeed.net
-*.thebodyshop.com.bh
-*.thebodyshop.com.kw
-*.thebodyshop.com.tr
-*.thebodyshop.pl
-*.thebodyshop.qa
 *.truist.com
 *.sixidmobile.com
 *.stripchat.com
