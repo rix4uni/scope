@@ -1,1 +1,4 @@
-releasor.payworks.com
+opensea.io
+wallet.opensea.io
+io.opensea
+mcp.opensea.io

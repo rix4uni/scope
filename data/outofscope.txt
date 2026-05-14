@@ -234,6 +234,11 @@ db.*.supabase.co
 *.stg.travix.com
 *.tellocast.com
 *.gobrightspeed.net
+*.thebodyshop.com.bh
+*.thebodyshop.com.kw
+*.thebodyshop.com.tr
+*.thebodyshop.pl
+*.thebodyshop.qa
 *.truist.com
 *.sixidmobile.com
 *.stripchat.com
@@ -1480,6 +1485,8 @@ visayanelectric.com
 iflex.snaboitiz.com
 support.world.org
 support.worldcoin.com
+crm.alshayamarketing.com
+thebodyshop.cz
 truist.com
 saferpay.com
 gnltn.com
