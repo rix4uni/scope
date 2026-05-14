@@ -1863,8 +1863,7 @@
     "reward": "€2500",
     "inscope_domains": [
       "app.aikido.dev",
-      "https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido",
-      "https://github.com/AikidoSec/safe-chain"
+      "https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido"
     ],
     "outofscope_domains": [
       "*.aikido.dev"
@@ -13520,6 +13519,7 @@
     "outofscope_domains": [
       "*.*.edge.gateways.konghq.com",
       "*.gateways.konghq.com",
+      "Kong Enterprise Gateway - Sandbox Functionality",
       "Non-Kong GitHub Repositories",
       "Non-Kong Plugins",
       "https://*.konghq.tech",
