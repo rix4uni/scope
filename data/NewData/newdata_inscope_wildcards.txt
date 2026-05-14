@@ -1,5 +1,2 @@
-*.seek.com
-*.employer.seek.com
-*.jobsdb.com
-*.jobstreet.com
-*.myseek.xyz
+*.kwsdose.be
+*.playuzleuven.be
