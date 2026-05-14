@@ -7130,6 +7130,27 @@
     "last_updated": "2026-05-14"
   },
   {
+    "name": "Elementor: Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/elementor",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$4000",
+    "inscope_domains": [
+      "https://my.elementor.com/",
+      "https://go.elementor.com/",
+      "https://translate.elementor.com/",
+      "https://developers.elementor.com/",
+      "https://library.elementor.com/",
+      "https://elementor.careers",
+      "http://activitylog.io/",
+      "https://send2.co/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-14"
+  },
+  {
     "name": "Elements",
     "program_url": "https://bugcrowd.com/engagements/elements",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -9237,28 +9258,6 @@
     "outofscope_domains": [
       "OpenAI models"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-14"
-  },
-  {
-    "name": "OpenSea Managed Bug Bounty Program",
-    "program_url": "https://bugcrowd.com/engagements/opensea",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$3000000",
-    "inscope_domains": [
-      "https://opensea.io/",
-      "http://wallet.opensea.io/",
-      "https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US",
-      "https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796",
-      "https://mcp.opensea.io",
-      "https://github.com/ProjectOpenSea/seaport#deployments",
-      "https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719",
-      "https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5",
-      "Broken Link"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-14"
