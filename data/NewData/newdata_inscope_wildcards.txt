@@ -1,3 +1,5 @@
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.seek.com
+*.employer.seek.com
+*.jobsdb.com
+*.jobstreet.com
+*.myseek.xyz
