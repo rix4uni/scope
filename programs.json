@@ -2532,6 +2532,48 @@
     "last_updated": "2026-05-15"
   },
   {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -6983,27 +7025,6 @@
     "last_updated": "2026-05-15"
   },
   {
-    "name": "Cloudinary",
-    "program_url": "https://bugcrowd.com/engagements/cloudinary",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$4000",
-    "inscope_domains": [
-      "https://cloudinary.com/console",
-      "https://api.cloudinary.com",
-      "https://res.cloudinary.com",
-      "https://mediaflows.cloudinary.com/",
-      "https://dimensions.cloudinary.com"
-    ],
-    "outofscope_domains": [
-      "https://support.cloudinary.com",
-      "wiki.cloudinary.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-15"
-  },
-  {
     "name": "Centers for Medicare & Medicaid Services - Public Bug Bounty Program 2026",
     "program_url": "https://bugcrowd.com/engagements/cms-bbpublic",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -9449,6 +9470,28 @@
     "outofscope_domains": [
       "OpenAI models"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "name": "OpenSea Managed Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/opensea",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$3000000",
+    "inscope_domains": [
+      "https://opensea.io/",
+      "http://wallet.opensea.io/",
+      "https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US",
+      "https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796",
+      "https://mcp.opensea.io",
+      "https://github.com/ProjectOpenSea/seaport#deployments",
+      "https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719",
+      "https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5",
+      "Broken Link"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-15"
@@ -16630,7 +16673,6 @@
       "*.eu.ibam.iongroup.com",
       "*.euroconverts.com",
       "*.euroconverts.net",
-      "*.eurocreditreview.com",
       "*.euroextract.com",
       "*.euroxtract.com",
       "*.euroxtract.net",
@@ -17369,7 +17411,6 @@
       "eu.ibam.iongroup.com",
       "euroconverts.com",
       "euroconverts.net",
-      "eurocreditreview.com",
       "euroextract.com",
       "euroxtract.com",
       "euroxtract.net",

@@ -1,1 +1,1 @@
-https://github.com/AikidoSec/safe-chain
+https://github.com/ProjectOpenSea/seaport

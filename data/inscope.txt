@@ -1034,6 +1034,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1905,6 +1906,11 @@ chat.openai.com
 openai.org
 openai.com
 platform.openai.com
+opensea.io
+wallet.opensea.io
+io.opensea
+mcp.opensea.io
+etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -3231,7 +3237,6 @@ auth.ripio.com
 app.ripio.com
 basescan.org
 bridge.ripio.com
-etherscan.io
 kyc.ripio.com
 worldscan.org
 sandbox-b2b.ripio.com
@@ -4912,6 +4917,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
