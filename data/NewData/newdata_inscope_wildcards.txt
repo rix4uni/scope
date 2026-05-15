@@ -1,2 +1,3 @@
+*.hel.io
 *.kwsdose.be
 *.playuzleuven.be

@@ -457,6 +457,7 @@ ic3.*.indriverapp.com
 *.sidefx.com
 *.wellsfargo.com
 *.payoneer.com
+*.hel.io
 *.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
@@ -1145,6 +1146,8 @@ ic3.*.indriverapp.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+*.kwsdose.be
+*.playuzleuven.be
 *.optimuscards.com
 *.topperpay.com
 *.uphodl.com
