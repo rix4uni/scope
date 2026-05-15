@@ -1913,6 +1913,24 @@
     "last_updated": "2026-05-15"
   },
   {
+    "name": "Altera",
+    "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$30000",
+    "inscope_domains": [
+      "Firmware",
+      "Hardware",
+      "FPGA Solution Development Tools and Utilities",
+      "Software",
+      "Non Altera Products"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
     "name": "Anaconda Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -10608,16 +10626,16 @@
     "platform": "Bugcrowd",
     "reward": "$2000",
     "inscope_domains": [
-      "https://dashboard.sendbird.com/",
-      "https://gate.sendbird.com",
-      "https://api-{app-id}.sendbird.com",
-      "https://ws-{app-id}.sendbird.com",
-      "https://desk-api-{region}.sendbird.com",
-      "https://ws-{app-id}.calls.sendbird.com",
-      "https://api-{app-id}.calls.sendbird.com",
-      "https://api-{app-id}.notifications.sendbird.com",
-      "https://sendbird.com/docs",
-      "https://sendbird.com"
+      "██████████████████████████████",
+      "█████████████████████████",
+      "█████████████████████████████████",
+      "████████████████████████████████",
+      "██████████████████████████████████████",
+      "██████████████████████████████████████",
+      "███████████████████████████████████████",
+      "███████████████████████████████████████████████",
+      "█████████████████████████",
+      "████████████████████"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -54662,6 +54680,7 @@
     "reward": "$$$",
     "inscope_domains": [
       "*.api.playstation.com",
+      "*.playstation.com",
       "*.playstation.net",
       "*.sonyentertainmentnetwork.com",
       "Android Playstation App",
@@ -54670,15 +54689,20 @@
       "api.direct.playstation.com",
       "ca.account.sony.com",
       "checkout.playstation.com",
+      "compete.playstation.com",
       "direct.playstation.com",
       "iOS Playstation App",
       "my.account.sony.com",
       "my.playstation.com",
+      "profile.playstation.com",
       "ps5.np.playstation.net",
+      "session-share.playstation.com",
       "social.playstation.com",
       "store.playstation.com",
       "transact.playstation.com",
-      "wallets.api.playstation.com"
+      "wallets.api.playstation.com",
+      "web.np.playstation.com",
+      "www.playstation.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

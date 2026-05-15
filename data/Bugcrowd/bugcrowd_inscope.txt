@@ -1008,11 +1008,6 @@ auth.seek.com
 *.jobapi.net
 *.sol-data.com
 *.aips-internal.com
-dashboard.sendbird.com
-gate.sendbird.com
-sendbird.com
-calls.sendbird.com
-notifications.sendbird.com
 bb1.simplisafe.com
 bb2.simplisafe.com
 cb.simplisafe.com
