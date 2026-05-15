@@ -2533,48 +2533,6 @@
     "last_updated": "2026-05-15"
   },
   {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-15"
-  },
-  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -7297,6 +7255,34 @@
     "last_updated": "2026-05-15"
   },
   {
+    "name": "Dell Technologies Application Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/dell-com",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$2500",
+    "inscope_domains": [
+      "*.dell.com/*",
+      "*.delltechnologies.com/* ",
+      "https://console.delltechnologies.com/nav/administration",
+      "https://console.delltechnologies.com/nav/invoice",
+      "https://console.delltechnologies.com/nav/billing",
+      "Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)\t"
+    ],
+    "outofscope_domains": [
+      "https://console.delltechnologies.com/ ",
+      "https://console.delltechnologies.com/nav/catalog",
+      "https://console.delltechnologies.com/nav/support",
+      "https://console.delltechnologies.com/nav/subscriptions",
+      "educate.dell.com",
+      "console.dell.com",
+      "console-test.dell.com",
+      "salesproductivity.dell.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
     "name": "Dell Technologies' Products Bug Bounty Program",
     "program_url": "https://bugcrowd.com/engagements/dell-product",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -11417,37 +11403,6 @@
     "outofscope_domains": [
       "https://developer.tidal.com",
       "https://embed.tidal.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-15"
-  },
-  {
-    "name": "Trello",
-    "program_url": "https://bugcrowd.com/engagements/trello",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$12000",
-    "inscope_domains": [
-      "trello.com",
-      "api.trello.com",
-      "*.trello.services",
-      "Trello Desktop Client",
-      "Trello Mobile App for Android",
-      "Trello Mobile App for iOS",
-      "https://butlerfortrello.com/",
-      "https://trello.com/power-ups/55a5d917446f517774210011/calendar-power-up",
-      "https://trello.com/power-ups/55a5d917446f517774210012/card-aging",
-      "https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits",
-      "https://trello.com/power-ups/55a5d917446f517774210013/voting",
-      "https://trello.com/power-ups/6052d130068a8c0de7b022b4",
-      "Trello Third Party Powerups"
-    ],
-    "outofscope_domains": [
-      "http://bugcrowd.com/atlassianapps",
-      "e.trello.com",
-      "help.trello.com",
-      "trello-attachments.s3.amazonaws.com"
     ],
     "issues_reported": [],
     "scamhit": "",

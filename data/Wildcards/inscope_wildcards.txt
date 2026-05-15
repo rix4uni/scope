@@ -284,7 +284,6 @@ np.*.lfscnp.com
 *.tidalhifi.com
 *tidalhi.fi
 *.tdl.sh
-*.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
 *.flipkey.com
@@ -1035,7 +1034,6 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
