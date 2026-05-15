@@ -1863,7 +1863,8 @@
     "reward": "€2500",
     "inscope_domains": [
       "app.aikido.dev",
-      "https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido"
+      "https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido",
+      "https://github.com/AikidoSec/safe-chain"
     ],
     "outofscope_domains": [
       "*.aikido.dev"
@@ -2276,6 +2277,39 @@
     "last_updated": "2026-05-15"
   },
   {
+    "name": "Capital.com",
+    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "payment.backend-capital.com",
+      "*.backend-capital.com",
+      "capital.com/*",
+      "com.capital.trading",
+      "com.capital.trading",
+      "open-api.capital.com",
+      "*.capital.com",
+      "*.itcapital.io",
+      "aff.capital.com",
+      "go.capital.com",
+      "register.capital.com",
+      "careers.capital.com"
+    ],
+    "outofscope_domains": [
+      "*affiliates.backend-capital.com",
+      "*eduapp.backend-capital.com",
+      "*education.backend-capital.com",
+      "help.capital.com",
+      "relocate-with-us.capital.com",
+      "3cxby.itcapital.io",
+      "texis.itcapital.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2493,6 +2527,48 @@
     ],
     "outofscope_domains": [
       "visitors.dpgmedia.be"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -2860,31 +2936,6 @@
     "last_updated": "2026-05-15"
   },
   {
-    "name": "Grafana Labs",
-    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanaossbbp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$15000",
-    "inscope_domains": [
-      "Grafana Loki",
-      "Grafana Mimir",
-      "Grafana OSS",
-      "Grafana Pyroscope",
-      "Grafana Tempo",
-      "https://github.com/grafana/*",
-      "Public Preview feature toggles in Tier 1 products",
-      "Reports utilising feature toggles",
-      "Non-Core Grafana Plugins"
-    ],
-    "outofscope_domains": [
-      "*.grafana.com",
-      "*.grafana.net"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-15"
-  },
-  {
     "name": "HRS Group VDP",
     "program_url": "https://www.intigriti.com/programs/hrsgroup/hrsgroupvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3138,6 +3189,66 @@
       "IT Infrastructure"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "name": "Intergamma",
+    "program_url": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5500",
+    "inscope_domains": [
+      "www.gamma.nl/*",
+      "www.gamma.be/*",
+      "www.karwei.nl/*",
+      "kassa.gamma.nl/*",
+      "kassa.gamma.be/*",
+      "kassa.karwei.nl/*",
+      "mijn.gamma.nl/*",
+      "mijn.gamma.be/*",
+      "mijn.karwei.nl/*",
+      "949829216",
+      "950693949",
+      "950680989",
+      "1558129454",
+      "nl.gamma.app.android",
+      "be.gamma.app.android",
+      "nl.karwei.app.android",
+      "*.gamma.nl/*",
+      "*.gamma.be/*",
+      "*.karwei.nl/*",
+      "*.intergamma.cloud",
+      "*.intergamma.nl/*",
+      "*.restintergamma.nl",
+      "*.intergamma-test.nl",
+      "*.werkenbijgamma.nl",
+      "*.werkenbijgamma.be",
+      "*.werkenbijkarwei.nl",
+      "irmg.nl",
+      "gammacademy.be",
+      "karwei-promotiepunt.nl",
+      "gammalokaal.nl",
+      "*.karweioutletstore.nl",
+      "nl.gamma.verf"
+    ],
+    "outofscope_domains": [
+      "*.configuratoren.nl/*",
+      "afspraakmaken.gamma.nl",
+      "api.afspraakmaken.gamma.be",
+      "api.afspraakmaken.gamma.nl",
+      "api.maakafspraak.karwei.nl",
+      "Everything related to configurators, both on primary as other domains",
+      "horrenconfigurator-fr.gamma.be",
+      "horrenconfigurator-nl.gamma.be",
+      "horrenconfigurator.karwei.nl",
+      "karwei-2018.hetmooistegordijn.nl",
+      "maakafspraak.karwei.nl",
+      "mail.gamma.be",
+      "mail.gamma.nl",
+      "mail.karwei.nl"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-15"
@@ -3527,6 +3638,33 @@
       "forms.mobilevikings.be"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "name": "Monzo Public Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "GBP12500",
+    "inscope_domains": [
+      "*.monzo.com",
+      "*.prod-ffs.io",
+      "1052238659",
+      "co.uk.getmondo",
+      "www.monzo.com",
+      "monzo.com"
+    ],
+    "outofscope_domains": [
+      "*/p2p/*",
+      "*/contact-discovery/*",
+      "*/inbound-p2p/*",
+      "*.monzo.me",
+      "community.monzo.com",
+      "login.internal.monzo.com",
+      "monzo.me"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-15"
@@ -4185,6 +4323,31 @@
     "last_updated": "2026-05-15"
   },
   {
+    "name": "Soundtrack Your Brand",
+    "program_url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "1114799709",
+      "1114800186",
+      "api.soundtrackyourbrand.com",
+      "billing.api.soundtrackyourbrand.com",
+      "builds.soundtrackyourbrand.com",
+      "business.soundtrackyourbrand.com",
+      "com.soundtrackyourbrand.soundtrack.player",
+      "https://auth.api.soundtrackyourbrand.com/",
+      "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest",
+      "https://radio.api.soundtrackyourbrand.com/",
+      "https://www.soundtrackyourbrand.com",
+      "macOS app"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
     "name": "Speakap Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4450,6 +4613,66 @@
       "trouw.nl/registreren",
       "trouw.nl/service",
       "abonnement.trouw.nl"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "name": "TrueLayer",
+    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "api.truelayer[-sandbox].com",
+      "api.mtls.truelayer[-sandbox].com",
+      "auth.truelayer[-sandbox].com",
+      "auth.mtls.truelayer[-sandbox].com",
+      "app.truelayer[-sandbox].com",
+      "login-api.truelayer[-sandbox].com",
+      "login.truelayer[-sandbox].com",
+      "onboarding-api.truelayer.com",
+      "pay-api.truelayer[-sandbox].com",
+      "pay.truelayer[-sandbox].com",
+      "paydirect.truelayer[-sandbox].com",
+      "payment.truelayer[-sandbox].com",
+      "payments-experience-api.truelayer[-sandbox].com",
+      "user-authentication-api.truelayer[-sandbox].com",
+      "users-api.truelayer.com",
+      "C# SDK",
+      "console-backend.truelayer[-sandbox].com",
+      "console.truelayer[-sandbox].com",
+      "sftp.reports.truelayer.com",
+      "Java SDK",
+      "PHP SDK",
+      "TrueLayer for Magento (Magento plugin)",
+      "TrueLayer for WooCommerce (WordPress plugin)",
+      "shopify-admin.truelayer.com",
+      "shop-pay-app-api.truelayer.com",
+      "truelayer-signing",
+      "webhooks.truelayer[-sandbox].com",
+      "*.truelayer.cloud",
+      "*.truelayer.com",
+      "*.truelayer.io",
+      "iOS SDK",
+      "React Native SDK",
+      "Web SDK",
+      "Rust SDK"
+    ],
+    "outofscope_domains": [
+      "trust.truelayer.com",
+      "banks.truelayer.com",
+      "careers.truelayer.com",
+      "docs.truelayer.com",
+      "docs.houston.truelayer.com",
+      "https://truelayer.com/contact/",
+      "index.truelayer.com",
+      "info.truelayer.com",
+      "signin.truelayer.com",
+      "support.truelayer.com",
+      "status.truelayer.com",
+      "truelayer.zendesk.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -4748,6 +4971,41 @@
     "last_updated": "2026-05-15"
   },
   {
+    "name": "Vinted - Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2300",
+    "inscope_domains": [
+      "*.vinted.net",
+      "*.vinted.com",
+      "*.vinted.fr",
+      "*.vintedgo.com",
+      "Vinted: Shop & sell pre-loved",
+      "Vinted: Shop & sell pre-loved",
+      "*sandbox*.vintedgo.com",
+      "*sandbox*.vinted.com",
+      "*old.vinted.com",
+      "*test-escalations.vintedgo.com",
+      "*badger.it.vinted.com",
+      "*careers.vinted.com",
+      "*news.vinted.com",
+      "*company.vinted.com",
+      "Scam"
+    ],
+    "outofscope_domains": [
+      "api.prod.svc.vintedpay.com",
+      "callbacks.prod.svc.vintedpay.com",
+      "*.homerr.com",
+      "*vintedpay.com",
+      "*.vinted.ca ",
+      "*.people.vinted.*"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
     "name": "Visma",
     "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4816,6 +5074,29 @@
       "https://vlerick.myshopify.com/",
       "https://webform.vlerick.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "name": "Voi Scooters",
+    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "Voi – e-scooters & e-bikes",
+      "https://api.voiapp.io/",
+      "Voi – e-scooter & e-bike hire",
+      "fm.voiapp.io",
+      "mds.voiapp.io",
+      "*.voi.com",
+      "https://repair.voiweb.net",
+      "*.voiscooters.com",
+      "report.voi.com",
+      "voi.com"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-15"
