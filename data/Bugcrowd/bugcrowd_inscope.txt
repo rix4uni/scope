@@ -1035,6 +1035,8 @@ gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
 *.skyscanner.net
+blockexplorer.electroneum.com
+testnet-blockexplorer.electroneum.com
 snapnames.com
 namejet.com
 sophos.com

@@ -1,4 +1,2 @@
-opensea.io
-wallet.opensea.io
-io.opensea
-mcp.opensea.io
+blockexplorer.electroneum.com
+testnet-blockexplorer.electroneum.com

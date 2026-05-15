@@ -7297,20 +7297,6 @@
     "last_updated": "2026-05-15"
   },
   {
-    "name": "Fireblocks MPC Managed Bug Bounty Engagement",
-    "program_url": "https://bugcrowd.com/engagements/fireblocks-mbb-og2",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$250000",
-    "inscope_domains": [
-      "https://github.com/fireblocks/mpc-lib"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-15"
-  },
-  {
     "name": "FIS",
     "program_url": "https://bugcrowd.com/engagements/fis",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10506,6 +10492,22 @@
     "outofscope_domains": [
       "Corporate Email (*@skyscanner.net)"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "name": "Electroneum Smart Chain (ETN-SC) — EVM-Compatible Blockchain",
+    "program_url": "https://bugcrowd.com/engagements/smartchain-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$12000",
+    "inscope_domains": [
+      "https://github.com/electroneum/electroneum-sc/",
+      "https://blockexplorer.electroneum.com",
+      "https://testnet-blockexplorer.electroneum.com"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-15"
