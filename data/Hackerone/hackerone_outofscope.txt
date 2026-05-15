@@ -625,6 +625,7 @@ skuad.io
 tracks.payoneer.com
 dunnhumby.com
 tescobank.responsibledisclosure.com
+*.hel.io
 *.plexlabs.io
 clicks.moonpay.com
 dev.moonpay.com

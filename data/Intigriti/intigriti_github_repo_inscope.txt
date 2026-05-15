@@ -1,4 +1,3 @@
-https://github.com/AikidoSec/safe-chain
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
 https://github.com/RIPE-NCC/whois

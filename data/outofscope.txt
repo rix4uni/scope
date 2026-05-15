@@ -299,6 +299,7 @@ bus.*.indrive.com
 *.sothebysrealty.com
 *.sqstitle.com
 *.trgc.com
+*.hel.io
 *.plexlabs.io
 *.koho.ca
 *.line-of-credit.koho.ca
@@ -1163,6 +1164,9 @@ blog.thousandeyes.com
 app.thousandeyes.com
 developer.tidal.com
 embed.tidal.com
+e.trello.com
+help.trello.com
+trello-attachments.s3.amazonaws.com
 ir.tripadvisor.com
 spotlight-dev.tripadvisor.com
 spotlight.tripadvisor

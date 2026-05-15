@@ -1863,8 +1863,7 @@
     "reward": "€2500",
     "inscope_domains": [
       "app.aikido.dev",
-      "https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido",
-      "https://github.com/AikidoSec/safe-chain"
+      "https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido"
     ],
     "outofscope_domains": [
       "*.aikido.dev"
@@ -3843,11 +3842,11 @@
     "platform": "Intigriti",
     "reward": "€3500",
     "inscope_domains": [
-      "https://app.pdq.com/",
-      "https://portal.pdq.com/",
       "https://a.simplemdm.com/",
       "https://auth2.pdq.com/",
-      "https://library.pdq.com/"
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
     ],
     "outofscope_domains": [
       "https://*.pdq.com/",
@@ -7222,34 +7221,6 @@
       "https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-15"
-  },
-  {
-    "name": "Dell Technologies Application Bug Bounty",
-    "program_url": "https://bugcrowd.com/engagements/dell-com",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$2500",
-    "inscope_domains": [
-      "*.dell.com/*",
-      "*.delltechnologies.com/* ",
-      "https://console.delltechnologies.com/nav/administration",
-      "https://console.delltechnologies.com/nav/invoice",
-      "https://console.delltechnologies.com/nav/billing",
-      "Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)\t"
-    ],
-    "outofscope_domains": [
-      "https://console.delltechnologies.com/ ",
-      "https://console.delltechnologies.com/nav/catalog",
-      "https://console.delltechnologies.com/nav/support",
-      "https://console.delltechnologies.com/nav/subscriptions",
-      "educate.dell.com",
-      "console.dell.com",
-      "console-test.dell.com",
-      "salesproductivity.dell.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-15"
@@ -11403,6 +11374,37 @@
     "outofscope_domains": [
       "https://developer.tidal.com",
       "https://embed.tidal.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-15"
+  },
+  {
+    "name": "Trello",
+    "program_url": "https://bugcrowd.com/engagements/trello",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$12000",
+    "inscope_domains": [
+      "trello.com",
+      "api.trello.com",
+      "*.trello.services",
+      "Trello Desktop Client",
+      "Trello Mobile App for Android",
+      "Trello Mobile App for iOS",
+      "https://butlerfortrello.com/",
+      "https://trello.com/power-ups/55a5d917446f517774210011/calendar-power-up",
+      "https://trello.com/power-ups/55a5d917446f517774210012/card-aging",
+      "https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits",
+      "https://trello.com/power-ups/55a5d917446f517774210013/voting",
+      "https://trello.com/power-ups/6052d130068a8c0de7b022b4",
+      "Trello Third Party Powerups"
+    ],
+    "outofscope_domains": [
+      "http://bugcrowd.com/atlassianapps",
+      "e.trello.com",
+      "help.trello.com",
+      "trello-attachments.s3.amazonaws.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -28552,7 +28554,6 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
-      "*.hel.io",
       "*.hypermint.com",
       "*.moonpay.com",
       "*.moonpaycloud.com",
@@ -28569,6 +28570,7 @@
       "web3.moonpay.com"
     ],
     "outofscope_domains": [
+      "*.hel.io",
       "*.plexlabs.io",
       "clicks.moonpay.com",
       "dev.moonpay.com",
@@ -29418,14 +29420,13 @@
     "platform": "HackerOne",
     "reward": "-",
     "inscope_domains": [
-      "admin.particlehealth.com",
       "api.particlehealth.com",
       "carequality.particlehealth.com",
       "ehealthexchange.particlehealth.com",
       "ia.particlehealth.com",
       "management.particlehealth.com",
       "partner.particlehealth.com",
-      "portal.particlehealth.com",
+      "patients.particlehealth.com",
       "sandbox.particlehealth.com"
     ],
     "outofscope_domains": [],
@@ -42494,7 +42495,6 @@
       "www.wirtgen-group-auf-der-bauma.de",
       "www.wirtgen-group-bauma.com",
       "www.wirtgen-group-bauma.de",
-      "www.wirtgen-group-jobs.de",
       "www.wirtgen-group.com",
       "www.wirtgen-group.de",
       "www.wirtgen-group.hu",

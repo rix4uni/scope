@@ -284,6 +284,7 @@ np.*.lfscnp.com
 *.tidalhifi.com
 *tidalhi.fi
 *.tdl.sh
+*.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
 *.flipkey.com
@@ -456,7 +457,6 @@ ic3.*.indriverapp.com
 *.sidefx.com
 *.wellsfargo.com
 *.payoneer.com
-*.hel.io
 *.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
@@ -2216,6 +2216,8 @@ thousandeyes.com
 tidal.com
 api.tidal.com
 offer.tidal.com
+api.trello.com
+butlerfortrello.com
 api.production.cde.tamg.cloud
 partnerapi.tapayments.com
 partnerapi1.tapayments.com
@@ -5198,11 +5200,11 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-app.pdq.com
-portal.pdq.com
 a.simplemdm.com
 auth2.pdq.com
 library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 passport.peoplecert.org
 atv.peoplecert.org

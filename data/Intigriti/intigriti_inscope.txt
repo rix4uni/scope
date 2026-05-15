@@ -1,7 +1,6 @@
 app.aikido.dev
 marketplace.visualstudio.com
 aikidosecurity.aikido
-github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -455,11 +454,11 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-app.pdq.com
-portal.pdq.com
 a.simplemdm.com
 auth2.pdq.com
 library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 passport.peoplecert.org
 atv.peoplecert.org
@@ -531,6 +530,7 @@ app.qualified-dev.com
 qualified.com
 api.qualified.com
 access.ripe.net
+github.com
 lirportal.ripe.net
 *.ripe.net
 business.rivian.com

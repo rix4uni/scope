@@ -284,6 +284,7 @@ np.*.lfscnp.com
 *.tidalhifi.com
 *tidalhi.fi
 *.tdl.sh
+*.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
 *.flipkey.com
@@ -456,7 +457,6 @@ ic3.*.indriverapp.com
 *.sidefx.com
 *.wellsfargo.com
 *.payoneer.com
-*.hel.io
 *.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
