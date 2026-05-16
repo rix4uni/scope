@@ -7332,27 +7332,6 @@
     "last_updated": "2026-05-16"
   },
   {
-    "name": "Elementor: Bug Bounty Program",
-    "program_url": "https://bugcrowd.com/engagements/elementor",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$4000",
-    "inscope_domains": [
-      "https://my.elementor.com/",
-      "https://go.elementor.com/",
-      "https://translate.elementor.com/",
-      "https://developers.elementor.com/",
-      "https://library.elementor.com/",
-      "https://elementor.careers",
-      "http://activitylog.io/",
-      "https://send2.co/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-16"
-  },
-  {
     "name": "Elements",
     "program_url": "https://bugcrowd.com/engagements/elements",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -8498,6 +8477,24 @@
       "https://legacy-blockexplorer.electroneum.com"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-16"
+  },
+  {
+    "name": "Lightspeed Hospitality",
+    "program_url": "https://bugcrowd.com/engagements/lightspeed-hospitality",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$2000",
+    "inscope_domains": [
+      "https://manager.trial.lsk.lightspeed.app/",
+      "https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/"
+    ],
+    "outofscope_domains": [
+      "https://lightspeedhq.com/trial ",
+      "https://pos-admin.trial.lsk.lightspeed.app"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-16"

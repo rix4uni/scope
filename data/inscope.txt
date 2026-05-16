@@ -1467,14 +1467,6 @@ xfinity.com
 consensus2026.sandbox.events.coindesk.com
 console.delltechnologies.com
 docs.eazybi.com
-my.elementor.com
-go.elementor.com
-translate.elementor.com
-developers.elementor.com
-library.elementor.com
-elementor.careers
-activitylog.io
-send2.co
 casino.partycasino.com
 casino.bwin.com
 casino.sportingbet.com
@@ -3434,7 +3426,6 @@ contacts.8x8.com
 converse.8x8.com
 8x8.vc
 webrtc.8x8.com
-org.vom8x8.sipua
 pay.8x8.com
 platform.8x8.com
 platform.8x8pilot.com
