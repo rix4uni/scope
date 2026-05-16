@@ -1,5 +1,8 @@
-compete.playstation.com
-profile.playstation.com
-session-share.playstation.com
-web.np.playstation.com
-playstation.com
+my.elementor.com
+go.elementor.com
+translate.elementor.com
+developers.elementor.com
+library.elementor.com
+elementor.careers
+activitylog.io
+send2.co

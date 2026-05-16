@@ -7332,6 +7332,27 @@
     "last_updated": "2026-05-16"
   },
   {
+    "name": "Elementor: Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/elementor",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$4000",
+    "inscope_domains": [
+      "https://my.elementor.com/",
+      "https://go.elementor.com/",
+      "https://translate.elementor.com/",
+      "https://developers.elementor.com/",
+      "https://library.elementor.com/",
+      "https://elementor.careers",
+      "http://activitylog.io/",
+      "https://send2.co/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-16"
+  },
+  {
     "name": "Elements",
     "program_url": "https://bugcrowd.com/engagements/elements",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -11488,21 +11509,6 @@
       "travelermail.com",
       "*.bokunmobile.website"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-16"
-  },
-  {
-    "name": "TRM Labs Public Bug Bounty Engagement",
-    "program_url": "https://bugcrowd.com/engagements/trm-labs-public-mbb",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$1000",
-    "inscope_domains": [
-      "chainabuse-staging.com",
-      "api.chainabuse-staging.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-16"
