@@ -1,8 +1,2 @@
-my.elementor.com
-go.elementor.com
-translate.elementor.com
-developers.elementor.com
-library.elementor.com
-elementor.careers
-activitylog.io
-send2.co
+chainabuse-staging.com
+api.chainabuse-staging.com
