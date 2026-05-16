@@ -6356,6 +6356,42 @@
     "last_updated": "2026-05-16"
   },
   {
+    "name": "Bugcrowd",
+    "program_url": "https://bugcrowd.com/engagements/bugcrowd",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$10000",
+    "inscope_domains": [
+      "https://docs.bugcrowd.com/",
+      "https://bugcrowd.com/programs",
+      "https://tracker.bugcrowd.com",
+      "https://api.bugcrowd.com",
+      "https://gov.bugcrowd.net",
+      "https://*.gov.bugcrowd.net",
+      "https://identity.bugcrowd.com/",
+      "*.bugcrowd.com/auth/*"
+    ],
+    "outofscope_domains": [
+      "bugcrowd*.freshdesk.com",
+      "https://www.bugcrowd.com",
+      "blog.bugcrowd.com",
+      "researcherdocs.bugcrowd.com",
+      "pages.bugcrowd.com",
+      "forum.bugcrowd.com",
+      "email.bugcrowd.com",
+      "email.forum.bugcrowd.com",
+      "https://go.bugcrowd.com",
+      "events.bugcrowd.com",
+      "https://assetinventory.bugcrowd.com",
+      "https://community.bugcrowd.com",
+      "trust.bugcrowd.com",
+      "Social Engineering"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-16"
+  },
+  {
     "name": "Bullish.com",
     "program_url": "https://bugcrowd.com/engagements/bullish",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -8186,6 +8222,21 @@
     "last_updated": "2026-05-16"
   },
   {
+    "name": "Electroneum Legacy Blockchain: EOL",
+    "program_url": "https://bugcrowd.com/engagements/legacy-blockchain-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$12000",
+    "inscope_domains": [
+      "https://github.com/electroneum/electroneum/",
+      "https://legacy-blockexplorer.electroneum.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-16"
+  },
+  {
     "name": "Lightspeed Hospitality",
     "program_url": "https://bugcrowd.com/engagements/lightspeed-hospitality",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -8948,34 +8999,6 @@
       "https://octopus.com/downloads"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-16"
-  },
-  {
-    "name": "Octopus",
-    "program_url": "https://bugcrowd.com/engagements/octopus-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$6000",
-    "inscope_domains": [
-      "*.octopus.com",
-      "https://github.com/OctopusDeploy",
-      "https://octopus.com"
-    ],
-    "outofscope_domains": [
-      " partners.octopus.com",
-      "*.octopus.app",
-      "artifactorysample.octopus.com",
-      "bamboosample.octopus.com",
-      "jenkinssample.octopus.com",
-      "teamcitysample.octopus.com",
-      "nexussample.octopus.com",
-      "myget.octopus.com",
-      "trust.octopus.com",
-      "i.octopus.com",
-      "ir.octopus.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-16"
@@ -10949,46 +10972,6 @@
       "██████████████████████████████████████████",
       "██████████████████",
       "████████████████████████████"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-16"
-  },
-  {
-    "name": "TheFork Managed Bug Bounty Engagement",
-    "program_url": "https://bugcrowd.com/engagements/thefork-mbb-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$3500",
-    "inscope_domains": [
-      "https://secure.thefork.com",
-      "https://payment.lafourchette.com",
-      "https://api.thefork.io",
-      "https://widget.thefork.com",
-      "https://www.theforkmanager.com",
-      "https://www.thefork.com",
-      "https://m.thefork.com",
-      "https://api.thefork.com",
-      "https://blog.thefork.com/",
-      "https://apps.apple.com/app/thefork-restaurants-bookings/id424850908",
-      "https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette",
-      "https://*.tools.thefork.tech",
-      "https://www.restaurant-information.com"
-    ],
-    "outofscope_domains": [
-      "*.myfourchette.com",
-      "www.myfourchette.com",
-      "website.theforkmanager.com",
-      "*.lafourchette.rest ",
-      "login.theforkmanager.com",
-      "developer.thefork.io",
-      "https://manager.thefork.com",
-      "https://apps.apple.com/app/thefork-manager-neo/id1295795281",
-      "https://play.google.com/store/apps/details?id=com.lafourchette.tfm3",
-      "https://*.eltenedor.*",
-      "https://www.thefork.*",
-      "module.thefork.com",
-      "https://www.lafourchette.com"
     ],
     "issues_reported": [],
     "scamhit": "",

@@ -1,2 +1,2 @@
-*.dell.com
-*.delltechnologies.com
+*.gov.bugcrowd.net
+*.bugcrowd.com

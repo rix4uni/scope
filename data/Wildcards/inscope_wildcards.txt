@@ -24,6 +24,8 @@ portalapi.*.afterpay.com
 *.bitgo.com
 *.taxify.eu
 *.bolt.eu
+*.gov.bugcrowd.net
+*.bugcrowd.com
 *.canva.com
 *.canva-apps.com
 *.canva.tech
