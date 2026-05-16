@@ -556,7 +556,6 @@ g.*.slackhq.com
 *.doserverless-dev3.io
 *.yadifa.eu
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me

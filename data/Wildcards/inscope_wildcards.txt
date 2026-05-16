@@ -60,8 +60,6 @@ portalapi.*.afterpay.com
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
-*.dell.com
-*.delltechnologies.com
 casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
@@ -1079,16 +1077,6 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
-*.gamma.nl
-*.gamma.be
-*.karwei.nl
-*.intergamma.cloud
-*.intergamma.nl
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.nl
-*.werkenbijgamma.be
-*.werkenbijkarwei.nl
 *.klubcinema.fr
 *.megatix.be
 *.kinepolis.be
