@@ -60,6 +60,8 @@ portalapi.*.afterpay.com
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
+*.dell.com
+*.delltechnologies.com
 casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
@@ -1144,9 +1146,6 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net

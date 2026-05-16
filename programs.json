@@ -3779,29 +3779,6 @@
     "last_updated": "2026-05-16"
   },
   {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-16"
-  },
-  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4513,66 +4490,6 @@
       "trouw.nl/registreren",
       "trouw.nl/service",
       "abonnement.trouw.nl"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-16"
-  },
-  {
-    "name": "TrueLayer",
-    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "api.truelayer[-sandbox].com",
-      "api.mtls.truelayer[-sandbox].com",
-      "auth.truelayer[-sandbox].com",
-      "auth.mtls.truelayer[-sandbox].com",
-      "app.truelayer[-sandbox].com",
-      "login-api.truelayer[-sandbox].com",
-      "login.truelayer[-sandbox].com",
-      "onboarding-api.truelayer.com",
-      "pay-api.truelayer[-sandbox].com",
-      "pay.truelayer[-sandbox].com",
-      "paydirect.truelayer[-sandbox].com",
-      "payment.truelayer[-sandbox].com",
-      "payments-experience-api.truelayer[-sandbox].com",
-      "user-authentication-api.truelayer[-sandbox].com",
-      "users-api.truelayer.com",
-      "C# SDK",
-      "console-backend.truelayer[-sandbox].com",
-      "console.truelayer[-sandbox].com",
-      "sftp.reports.truelayer.com",
-      "Java SDK",
-      "PHP SDK",
-      "TrueLayer for Magento (Magento plugin)",
-      "TrueLayer for WooCommerce (WordPress plugin)",
-      "shopify-admin.truelayer.com",
-      "shop-pay-app-api.truelayer.com",
-      "truelayer-signing",
-      "webhooks.truelayer[-sandbox].com",
-      "*.truelayer.cloud",
-      "*.truelayer.com",
-      "*.truelayer.io",
-      "iOS SDK",
-      "React Native SDK",
-      "Web SDK",
-      "Rust SDK"
-    ],
-    "outofscope_domains": [
-      "trust.truelayer.com",
-      "banks.truelayer.com",
-      "careers.truelayer.com",
-      "docs.truelayer.com",
-      "docs.houston.truelayer.com",
-      "https://truelayer.com/contact/",
-      "index.truelayer.com",
-      "info.truelayer.com",
-      "signin.truelayer.com",
-      "support.truelayer.com",
-      "status.truelayer.com",
-      "truelayer.zendesk.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -6256,25 +6173,6 @@
     "last_updated": "2026-05-16"
   },
   {
-    "name": "Appliances - Barracuda Networks, Inc.",
-    "program_url": "https://bugcrowd.com/engagements/barracuda",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$null",
-    "inscope_domains": [
-      "https://www.barracuda.com/products/messagearchiver",
-      "https://www.barracuda.com/products/websecuritygateway",
-      "https://www.barracuda.com/products/loadbalancer?utm_source=google&utm_medium=search_cpc&utm_campaign=387189501&utm_adgroup=116181947964&utm_term=&utm_position=&utm_matchtype=b&utm_device=c&utm_content=484352050459&_bt=484352050459&_bk=&_bm=b&_bn=g&_bg=116181947964&gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPFtfKELYb2ysp1O29NyBMwStaYpYAxq1oso9BaXpcPo9yrcy13uuc0aAtQDEALw_wcB",
-      "https://www.barracuda.com/products/webapplicationfirewall",
-      "https://www.barracuda.com/products/emailsecuritygateway",
-      "https://www.barracuda.com/products/cloudgenfirewall"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-16"
-  },
-  {
     "name": "Binance",
     "program_url": "https://bugcrowd.com/engagements/binance",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7183,6 +7081,34 @@
       "https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-16"
+  },
+  {
+    "name": "Dell Technologies Application Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/dell-com",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$2500",
+    "inscope_domains": [
+      "*.dell.com/*",
+      "*.delltechnologies.com/* ",
+      "https://console.delltechnologies.com/nav/administration",
+      "https://console.delltechnologies.com/nav/invoice",
+      "https://console.delltechnologies.com/nav/billing",
+      "Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)\t"
+    ],
+    "outofscope_domains": [
+      "https://console.delltechnologies.com/ ",
+      "https://console.delltechnologies.com/nav/catalog",
+      "https://console.delltechnologies.com/nav/support",
+      "https://console.delltechnologies.com/nav/subscriptions",
+      "educate.dell.com",
+      "console.dell.com",
+      "console-test.dell.com",
+      "salesproductivity.dell.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-16"
