@@ -13,7 +13,6 @@
 *.efx.bitso.com
 *.test.bolt.eu
 *.test.taxify.eu
-*.freshdesk.com
 *.bullish.com
 *.cisco.com
 *.hfc.comcastbusiness.net
@@ -51,6 +50,7 @@ auth.*.latitudefinancial.com
 *.limeinternal.com
 *.lime.bike
 *.filestack.com
+*.freshdesk.com
 *.blstr.xyz
 *.blstr.co
 *.lululemon.cn
@@ -553,7 +553,6 @@ g.*.slackhq.com
 *.doserverless-dev3.io
 *.yadifa.eu
 *.swop.com
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -716,17 +715,6 @@ login.bitso.io
 bitsohelp.zendesk.com
 support.bitso.com
 business-old.bolt.eu
-blog.bugcrowd.com
-researcherdocs.bugcrowd.com
-pages.bugcrowd.com
-forum.bugcrowd.com
-email.bugcrowd.com
-email.forum.bugcrowd.com
-go.bugcrowd.com
-events.bugcrowd.com
-assetinventory.bugcrowd.com
-community.bugcrowd.com
-trust.bugcrowd.com
 simnext.bullish-test.com
 cwingsfe.mafrservices.com
 subs.foreignaffairs.com
@@ -3255,15 +3243,6 @@ pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
 trismegistos.org
-dev.kinepolis.com
-helpdesk.landmarkcinemas.com
-jobs.kinepolis.com
-l.kinepolis.com
-openx.kinepolis.com
-shop.kinepolis.be
-shop.kinepolis.es
-shop.kinepolis.fr
-shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
