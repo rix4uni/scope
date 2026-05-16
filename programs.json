@@ -7594,20 +7594,6 @@
     "last_updated": "2026-05-16"
   },
   {
-    "name": "Fireblocks MPC Managed Bug Bounty Engagement",
-    "program_url": "https://bugcrowd.com/engagements/fireblocks-mbb-og2",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$250000",
-    "inscope_domains": [
-      "https://github.com/fireblocks/mpc-lib"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-16"
-  },
-  {
     "name": "FIS",
     "program_url": "https://bugcrowd.com/engagements/fis",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10212,6 +10198,29 @@
     "reward": "$1500",
     "inscope_domains": [
       "https://marketplace.atlassian.com/apps/1213146/risk-register?hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-16"
+  },
+  {
+    "name": "Prosus",
+    "program_url": "https://bugcrowd.com/engagements/prosus-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1250",
+    "inscope_domains": [
+      "https://dealflow.prosus.com",
+      "https://dealflowapi.prosus.com",
+      "https://analytics-admin.prosus.com",
+      "http://analytics.prosus.com",
+      "https://data.prosus.com/",
+      "https://hr.prosus.com/",
+      "https://tracker.naspers.com/",
+      "https://cfc.naspers.com/",
+      "https://peopleview.naspers.com",
+      "http://nav.naspers.com/"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
