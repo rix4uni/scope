@@ -9140,28 +9140,6 @@
     "last_updated": "2026-05-17"
   },
   {
-    "name": "OpenSea Managed Bug Bounty Program",
-    "program_url": "https://bugcrowd.com/engagements/opensea",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$3000000",
-    "inscope_domains": [
-      "https://opensea.io/",
-      "http://wallet.opensea.io/",
-      "https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US",
-      "https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796",
-      "https://mcp.opensea.io",
-      "https://github.com/ProjectOpenSea/seaport#deployments",
-      "https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719",
-      "https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5",
-      "Broken Link"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-17"
-  },
-  {
     "name": "Opera Public Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/opera",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10493,6 +10471,22 @@
     "outofscope_domains": [
       "Corporate Email (*@skyscanner.net)"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-17"
+  },
+  {
+    "name": "Electroneum Smart Chain (ETN-SC) — EVM-Compatible Blockchain",
+    "program_url": "https://bugcrowd.com/engagements/smartchain-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$12000",
+    "inscope_domains": [
+      "https://github.com/electroneum/electroneum-sc/",
+      "https://blockexplorer.electroneum.com",
+      "https://testnet-blockexplorer.electroneum.com"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-17"

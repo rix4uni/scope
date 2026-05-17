@@ -603,11 +603,6 @@ chat.openai.com
 openai.org
 openai.com
 platform.openai.com
-opensea.io
-wallet.opensea.io
-io.opensea
-mcp.opensea.io
-etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -1929,6 +1924,7 @@ auth.ripio.com
 app.ripio.com
 basescan.org
 bridge.ripio.com
+etherscan.io
 kyc.ripio.com
 worldscan.org
 sandbox-b2b.ripio.com
