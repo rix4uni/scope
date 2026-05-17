@@ -3623,6 +3623,21 @@
     "last_updated": "2026-05-17"
   },
   {
+    "name": "Online enrollment for students Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050",
+      "https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-17"
+  },
+  {
     "name": "Orbia Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/orbia/orbiavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
