@@ -376,7 +376,6 @@ keepersecurity.com
 docs.keeper.io
 microsoft.com
 kohls.com
-kucoin.com
 lastpass.com
 support.lastpass.com
 blog.lastpass.com
@@ -926,8 +925,6 @@ gwapi1.tripadvisor.com
 gwapi2.tripadvisor.com
 rentals.tripadvisor.com
 marlo.ext.tripadvisor.com
-chainabuse-staging.com
-api.chainabuse-staging.com
 20min.ch
 coral.20min.ch
 cm.20min.ch

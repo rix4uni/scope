@@ -133,7 +133,6 @@ casino.*.betmgm.com
 *.designify.com
 *.kaleido.ai
 *.unscreen.com
-*.kucoin.com
 *.28degreescard.com.au
 *.buyersedge.com.au
 *.carecredit.com.au

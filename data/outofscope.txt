@@ -41,8 +41,6 @@ hsd1.*.comcast.net
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
-*-sdb.kucoin.com
-*-sandbox.kucoin.com
 auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
@@ -837,13 +835,6 @@ kconnect.kohls.com
 connection.kohls.com
 kohlsmerch.kohls.com
 b2b.kohls.com
-support.kucoin.plus
-store.kucoin.com
-docs.kucoin.com
-intro.kucoin.com
-cert.kucoin.com
-sandbox.kucoin.com
-passport.kucoin.com
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
