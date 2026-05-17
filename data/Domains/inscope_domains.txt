@@ -3845,6 +3845,11 @@ boomer2.ninjakiwi.com
 ct.ninjakiwi.com
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 passport.peoplecert.org
 atv.peoplecert.org

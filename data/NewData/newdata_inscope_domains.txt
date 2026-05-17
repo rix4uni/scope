@@ -1,3 +1,5 @@
-kucoin.com
-chainabuse-staging.com
-api.chainabuse-staging.com
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
