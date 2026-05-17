@@ -31,8 +31,6 @@ portalapi.*.afterpay.com
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
-*.cash.app
-*.cashstaging.app
 *.chimepayments.com
 *.chime.com
 *.1debit.com
@@ -269,6 +267,12 @@ np.*.lfscnp.com
 *.uscc.com
 *.uscellular.com
 *.assurancewireless.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.prod.uidapi.com
 *.thetradedesk.com
@@ -1378,7 +1382,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cash.app
 cfr.org
 thinkglobalhealth.org
 education.cfr.org

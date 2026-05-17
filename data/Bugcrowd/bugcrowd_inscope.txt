@@ -143,9 +143,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cash.app
-*.cash.app
-*.cashstaging.app
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
@@ -1128,6 +1125,12 @@ tempus-ex.com
 docs.tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 secure.thefork.com
 payment.lafourchette.com
 api.thefork.io
