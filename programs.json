@@ -1913,24 +1913,6 @@
     "last_updated": "2026-05-17"
   },
   {
-    "name": "Altera",
-    "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$30000",
-    "inscope_domains": [
-      "Firmware",
-      "Hardware",
-      "FPGA Solution Development Tools and Utilities",
-      "Software",
-      "Non Altera Products"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-17"
-  },
-  {
     "name": "Anaconda Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
