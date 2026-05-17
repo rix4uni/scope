@@ -799,6 +799,11 @@ openai.org
 openai.com
 *.openai.com
 platform.openai.com
+opensea.io
+wallet.opensea.io
+io.opensea
+mcp.opensea.io
+etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -1123,12 +1128,6 @@ tempus-ex.com
 docs.tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 secure.thefork.com
 payment.lafourchette.com
 api.thefork.io

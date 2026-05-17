@@ -131,7 +131,6 @@ auth.*.latitudefinancial.com
 *.mobile.uscc.net
 *.mobile.uscc.com
 *.moengage.com
-*.engage.tesla.com
 *.myfourchette.com
 *.lafourchette.rest
 argocd.*.uidapi.com
@@ -1124,19 +1123,6 @@ login.inscopedomain.ch
 auth.inscopedomain.ch
 tgt.inscopedomain.ch
 shop.inscopedomain.ch
-employeefeedback.tesla.com
-energysupport.tesla.com
-bugbounty.zoho.com
-engage.tesla.com
-feedback.tesla.com
-feedback.teslamotors.com
-ir.tesla.com
-ir.teslamotors.com
-mkto.teslamotors.com
-shop.eu.teslamotors.com
-service.tesla.com
-service.tesla.cn
-maxwell.com
 myfourchette.com
 website.theforkmanager.com
 login.theforkmanager.com
