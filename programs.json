@@ -5437,6 +5437,57 @@
     "last_updated": "2026-05-17"
   },
   {
+    "name": "Arlo Cash Rewards",
+    "program_url": "https://bugcrowd.com/engagements/arlo",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$4500",
+    "inscope_domains": [
+      "Arlo Safe Android App",
+      "Arlo Safe iOS App",
+      "Arlo Secure Android App",
+      "Arlo Secure iOS App",
+      "Arlo All-In-One Sensor (Home Security System)",
+      "Arlo Base Station",
+      "Arlo Cellular & Battery Backup (Home Security System)",
+      "Arlo Chime 2",
+      "Arlo Essential 2 & 3 (indoor & outdoor camera, doorbell)",
+      "Arlo Wired Floodlight",
+      "Arlo Go v2",
+      "Arlo Home Security System",
+      "Arlo Pro 3 Floodlight",
+      "Arlo Pro SmartHub",
+      "Arlo Pro 5S",
+      "Arlo Pro 6",
+      "Arlo Safe Button",
+      "Arlo Ultra 2",
+      "Arlo Wireless Video Doorbell",
+      "Arlo Wire-Free Outdoor Siren (Home Security System)",
+      "*.arlo.com (subdomains impacting customer-facing services)",
+      "*.arloxcld.com",
+      "https://*-prod.arlo.com",
+      "https://beta.arlo.com",
+      "https://mcs.arlo.com",
+      "https://my.arlo.com",
+      "https://myapi.arlo.com",
+      "https://www.arlo.com",
+      "https://updates.arlo.com",
+      "https://partnerapi.arlo.com",
+      "*.arlocloud.com"
+    ],
+    "outofscope_domains": [
+      "https://*streaming*.arlo.com",
+      "cvrstreaming*.arlo.com",
+      "http://community.arlo.com/",
+      "https://investor.arlo.com",
+      "http://research.arlo.com/",
+      "http://survey.arlo.com/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-17"
+  },
+  {
     "name": "Asana",
     "program_url": "https://bugcrowd.com/engagements/asana",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -6426,6 +6477,23 @@
     "outofscope_domains": [
       "https://cwingsfe.mafrservices.com/login"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-17"
+  },
+  {
+    "name": "Cash App",
+    "program_url": "https://bugcrowd.com/engagements/cashapp",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$18000",
+    "inscope_domains": [
+      "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
+      "https://play.google.com/store/apps/details?id=com.squareup.cash",
+      "https://cash.app",
+      "*.cashstaging.app"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-17"
@@ -9676,20 +9744,6 @@
     "last_updated": "2026-05-17"
   },
   {
-    "name": "Pexels",
-    "program_url": "https://bugcrowd.com/engagements/pexels",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$6000",
-    "inscope_domains": [
-      "https://www.pexels.com/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-17"
-  },
-  {
     "name": "Pinterest",
     "program_url": "https://bugcrowd.com/engagements/pinterest",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10840,45 +10894,6 @@
       "https://platform.infiniteathlete.ai"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-17"
-  },
-  {
-    "name": "Tesla",
-    "program_url": "https://bugcrowd.com/engagements/tesla",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$100000",
-    "inscope_domains": [
-      "*.tesla.cn",
-      "*.tesla.services",
-      "https://apps.apple.com/us/app/tesla/id582007913",
-      "*.tesla.com",
-      "*.teslamotors.com",
-      "Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)",
-      "*.solarcity.com",
-      "*.teslainsuranceservices.com",
-      "https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US",
-      "Tesla Energy hardware you own",
-      "Tesla vehicle hardware that you own"
-    ],
-    "outofscope_domains": [
-      "employeefeedback.tesla.com",
-      "energysupport.tesla.com (you can report vulnerabilities to bugbounty.zoho.com)",
-      "https://engage.tesla.com/",
-      "*.engage.tesla.com",
-      "feedback.tesla.com",
-      "feedback.teslamotors.com",
-      "ir.tesla.com",
-      "ir.teslamotors.com",
-      "mkto.teslamotors.com",
-      "shop.eu.teslamotors.com",
-      "service.tesla.com/docs/*",
-      "service.tesla.cn/docs/*",
-      "Any domains from acquisitions, such as maxwell.com",
-      "Any other third-party websites hosted by non-Tesla entities"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-17"
