@@ -6040,50 +6040,6 @@
     "last_updated": "2026-05-17"
   },
   {
-    "name": "Binance",
-    "program_url": "https://bugcrowd.com/engagements/binance",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$10000",
-    "inscope_domains": [
-      "api.coinmarketcap.com",
-      "pro-api.coinmarketcap.com",
-      "https://www.binance.com/",
-      "Binance Desktop Application",
-      "Binance Mobile Application for Android",
-      "Binance Mobile Application for iOS",
-      "api.binance.com",
-      "Binance macOS Application",
-      "pro.coinmarketcap.com",
-      "CoinMarketCap Android app",
-      "Trustwallet Android App",
-      "Trustwallet iOS App",
-      "https://github.com/trustwallet/wallet-core/",
-      "CoinMarketCap iOS app",
-      "portal-api.coinmarketcap.com",
-      "coinmarketcap.com",
-      "3rdparty-apis.coinmarketcap.com",
-      "https://www.binance.us/",
-      "https://binance.tr",
-      "Trustwallet Chrome Extension"
-    ],
-    "outofscope_domains": [
-      "jobs.coinmarketcap.com",
-      "support.binance.*",
-      "binance.sg",
-      "*.trustwallet.com",
-      "*.trustwalletapp.com",
-      "*.binance.org",
-      "blog.coinmarketcap.com",
-      "support.coinmarketcap.com",
-      "blockchain.coinmarketcap.com",
-      "*.coinmarketcap.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-17"
-  },
-  {
     "name": "Bitdefender",
     "program_url": "https://bugcrowd.com/engagements/bitdefender",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -8055,6 +8011,33 @@
       "connection.kohls.com",
       "kohlsmerch.kohls.com/",
       "http://www.b2b.kohls.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-17"
+  },
+  {
+    "name": "KuCoin Managed Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/kucoin",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$15000",
+    "inscope_domains": [
+      "https://kucoin.com",
+      "https://kucoin.com",
+      "https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8",
+      "https://play.google.com/store/apps/details?id=com.kubi.kucoin"
+    ],
+    "outofscope_domains": [
+      "support.kucoin.plus",
+      "store.kucoin.com",
+      "docs.kucoin.com",
+      "intro.kucoin.com",
+      "cert.kucoin.com",
+      "sandbox.kucoin.com",
+      "passport.kucoin.com",
+      "*-sdb.kucoin.com",
+      "*-sandbox.kucoin.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -10967,46 +10950,6 @@
     "last_updated": "2026-05-17"
   },
   {
-    "name": "TheFork Managed Bug Bounty Engagement",
-    "program_url": "https://bugcrowd.com/engagements/thefork-mbb-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$3500",
-    "inscope_domains": [
-      "https://secure.thefork.com",
-      "https://payment.lafourchette.com",
-      "https://api.thefork.io",
-      "https://widget.thefork.com",
-      "https://www.theforkmanager.com",
-      "https://www.thefork.com",
-      "https://m.thefork.com",
-      "https://api.thefork.com",
-      "https://blog.thefork.com/",
-      "https://apps.apple.com/app/thefork-restaurants-bookings/id424850908",
-      "https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette",
-      "https://*.tools.thefork.tech",
-      "https://www.restaurant-information.com"
-    ],
-    "outofscope_domains": [
-      "*.myfourchette.com",
-      "www.myfourchette.com",
-      "website.theforkmanager.com",
-      "*.lafourchette.rest ",
-      "login.theforkmanager.com",
-      "developer.thefork.io",
-      "https://manager.thefork.com",
-      "https://apps.apple.com/app/thefork-manager-neo/id1295795281",
-      "https://play.google.com/store/apps/details?id=com.lafourchette.tfm3",
-      "https://*.eltenedor.*",
-      "https://www.thefork.*",
-      "module.thefork.com",
-      "https://www.lafourchette.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-17"
-  },
-  {
     "name": "The Trade Desk",
     "program_url": "https://bugcrowd.com/engagements/thetradedesk-mbb",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -11214,6 +11157,21 @@
       "travelermail.com",
       "*.bokunmobile.website"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-17"
+  },
+  {
+    "name": "TRM Labs Public Bug Bounty Engagement",
+    "program_url": "https://bugcrowd.com/engagements/trm-labs-public-mbb",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1000",
+    "inscope_domains": [
+      "chainabuse-staging.com",
+      "api.chainabuse-staging.com"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-17"
