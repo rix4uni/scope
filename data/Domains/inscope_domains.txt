@@ -707,6 +707,7 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 osl.com
 dashboard.pantheon.io
+pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org

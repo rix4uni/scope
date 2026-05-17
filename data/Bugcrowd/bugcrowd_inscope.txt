@@ -930,6 +930,8 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 osl.com
 dashboard.pantheon.io
+pexels.com
+*.pexels.com
 api.pinterest.com
 *.pinterest.com
 microsoftedge.microsoft.com
