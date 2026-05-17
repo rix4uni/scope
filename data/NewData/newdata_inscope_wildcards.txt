@@ -1,2 +1,2 @@
-*.gov.bugcrowd.net
-*.bugcrowd.com
+*.binance.com
+*.binance.us

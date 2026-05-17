@@ -4634,27 +4634,6 @@
     "last_updated": "2026-05-17"
   },
   {
-    "name": "Venly",
-    "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "api-wallet.venly.io",
-      "api.arkane.network",
-      "connect.arkane.network ",
-      "connect.venly.io",
-      "login.arkane.network",
-      "login.venly.io",
-      "wallet.venly.io",
-      "api-wallet-sandbox.venly.io"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-17"
-  },
-  {
     "name": "Vinted - Bug Bounty Program",
     "program_url": "https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4758,29 +4737,6 @@
       "https://vlerick.myshopify.com/",
       "https://webform.vlerick.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-17"
-  },
-  {
-    "name": "Voi Scooters",
-    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "Voi – e-scooters & e-bikes",
-      "https://api.voiapp.io/",
-      "Voi – e-scooter & e-bike hire",
-      "fm.voiapp.io",
-      "mds.voiapp.io",
-      "*.voi.com",
-      "https://repair.voiweb.net",
-      "*.voiscooters.com",
-      "report.voi.com",
-      "voi.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-17"
@@ -6035,6 +5991,50 @@
       "https://www.barracuda.com/products/cloudgenfirewall"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-17"
+  },
+  {
+    "name": "Binance",
+    "program_url": "https://bugcrowd.com/engagements/binance",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$10000",
+    "inscope_domains": [
+      "api.coinmarketcap.com",
+      "pro-api.coinmarketcap.com",
+      "https://www.binance.com/",
+      "Binance Desktop Application",
+      "Binance Mobile Application for Android",
+      "Binance Mobile Application for iOS",
+      "api.binance.com",
+      "Binance macOS Application",
+      "pro.coinmarketcap.com",
+      "CoinMarketCap Android app",
+      "Trustwallet Android App",
+      "Trustwallet iOS App",
+      "https://github.com/trustwallet/wallet-core/",
+      "CoinMarketCap iOS app",
+      "portal-api.coinmarketcap.com",
+      "coinmarketcap.com",
+      "3rdparty-apis.coinmarketcap.com",
+      "https://www.binance.us/",
+      "https://binance.tr",
+      "Trustwallet Chrome Extension"
+    ],
+    "outofscope_domains": [
+      "jobs.coinmarketcap.com",
+      "support.binance.*",
+      "binance.sg",
+      "*.trustwallet.com",
+      "*.trustwalletapp.com",
+      "*.binance.org",
+      "blog.coinmarketcap.com",
+      "support.coinmarketcap.com",
+      "blockchain.coinmarketcap.com",
+      "*.coinmarketcap.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-17"
@@ -7656,31 +7656,6 @@
       "https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731",
       "https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef",
       "Any host/web property/mobile app verified to be owned by Indeed"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-17"
-  },
-  {
-    "name": "Intercom",
-    "program_url": "https://bugcrowd.com/engagements/intercom",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$6000",
-    "inscope_domains": [
-      "https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios",
-      "https://api.intercom.com",
-      "https://app.intercom.com",
-      "*.intercomassets.com / *.intercomcdn.com",
-      "https://app.intercom.io/",
-      "https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android",
-      "https://www.intercom.com/",
-      "http://mcp.intercom.com",
-      "https://api-iam.intercom.io",
-      "https://*.mobile-messenger.intercom.com",
-      "https://fin.ai/",
-      "https://app.fin.ai/"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

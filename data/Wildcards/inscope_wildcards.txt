@@ -17,6 +17,8 @@ portalapi.*.afterpay.com
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
+*.binance.com
+*.binance.us
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
@@ -1153,8 +1155,6 @@ ic3.*.indriverapp.com
 *careers.vinted.com
 *news.vinted.com
 *company.vinted.com
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io

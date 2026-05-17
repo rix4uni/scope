@@ -3,6 +3,10 @@
 *.arlo.com
 *.integrations.asana.plus
 *.bitbucket.io
+*.trustwallet.com
+*.trustwalletapp.com
+*.binance.org
+*.coinmarketcap.com
 *.bitgo.com
 *.exchange.bitpanda.com
 *.otc.bitso.com
@@ -656,6 +660,12 @@ sharelock.io
 goextend.io
 support.auth0.com
 community.auth0.com
+jobs.coinmarketcap.com
+support.binance
+binance.sg
+blog.coinmarketcap.com
+support.coinmarketcap.com
+blockchain.coinmarketcap.com
 businessinsights.bitdefender.com
 businessemail.bitdefender.com
 businessresources.bitdefender.com
