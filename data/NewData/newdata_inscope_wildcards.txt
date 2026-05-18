@@ -1,1 +1,3 @@
-*.pexels.com
+*.intercomassets.com
+*.intercomcdn.com
+*.mobile-messenger.intercom.com
