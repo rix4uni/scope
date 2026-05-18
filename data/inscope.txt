@@ -133,6 +133,7 @@ casino.*.betmgm.com
 *.designify.com
 *.kaleido.ai
 *.unscreen.com
+*.kucoin.com
 *.28degreescard.com.au
 *.buyersedge.com.au
 *.carecredit.com.au
@@ -1167,6 +1168,8 @@ ic3.*.indriverapp.com
 *careers.vinted.com
 *news.vinted.com
 *company.vinted.com
+*.voi.com
+*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
@@ -1662,6 +1665,7 @@ keepersecurity.com
 docs.keeper.io
 microsoft.com
 kohls.com
+kucoin.com
 lastpass.com
 support.lastpass.com
 blog.lastpass.com
@@ -5352,6 +5356,14 @@ vrt.be
 myaccount.vtm.be
 vtm.be
 vtmgo.be
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 ai-testing.maventa.com
@@ -5370,6 +5382,12 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 testing.maventa.com
+api.voiapp.io
+fm.voiapp.io
+mds.voiapp.io
+repair.voiweb.net
+report.voi.com
+voi.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com
