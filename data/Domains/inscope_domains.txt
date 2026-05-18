@@ -65,16 +65,6 @@ openidconnect.net
 jwt.io
 backblaze.com
 barracuda.com
-api.coinmarketcap.com
-pro-api.coinmarketcap.com
-binance.com
-api.binance.com
-pro.coinmarketcap.com
-portal-api.coinmarketcap.com
-coinmarketcap.com
-3rdparty-apis.coinmarketcap.com
-binance.us
-binance.tr
 bitdefender.com
 app.bitgo.com
 app.bitgo-test.com
