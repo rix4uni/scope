@@ -41,8 +41,6 @@ hsd1.*.comcast.net
 *kohls.com
 *kohlsecommerce.com
 *.kohls.com
-*-sdb.kucoin.com
-*-sandbox.kucoin.com
 auth.*.latitudefinancial.com
 *.latitudefs.com
 *.my.latitudepay.com
@@ -540,6 +538,9 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -553,6 +554,7 @@ g.*.slackhq.com
 *.doserverless-dev3.io
 *.yadifa.eu
 *.swop.com
+*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -841,13 +843,6 @@ kconnect.kohls.com
 connection.kohls.com
 kohlsmerch.kohls.com
 b2b.kohls.com
-support.kucoin.plus
-store.kucoin.com
-docs.kucoin.com
-intro.kucoin.com
-cert.kucoin.com
-sandbox.kucoin.com
-passport.kucoin.com
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
@@ -3207,6 +3202,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 demorgen.be
@@ -3258,6 +3257,15 @@ pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com

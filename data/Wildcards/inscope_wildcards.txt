@@ -133,7 +133,6 @@ casino.*.betmgm.com
 *.designify.com
 *.kaleido.ai
 *.unscreen.com
-*.kucoin.com
 *.28degreescard.com.au
 *.buyersedge.com.au
 *.carecredit.com.au
@@ -1028,6 +1027,9 @@ ic3.*.indriverapp.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1076,6 +1078,16 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
