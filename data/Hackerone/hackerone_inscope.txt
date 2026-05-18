@@ -138,6 +138,7 @@ community.oppo.com
 communityin.oppo.com
 developers.oppomobile.com
 drp.myoppo.com
+e-global.heytap.com
 e.oppo.com
 gcsm.oppoit.com
 safe.heytap.com
