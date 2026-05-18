@@ -428,8 +428,6 @@ sip.*.twilio.com
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
-*.magiceden.dev
-*.magiceden.io
 *.boozt.com
 *.booztlet.com
 *.indrive.com

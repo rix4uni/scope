@@ -919,6 +919,7 @@ help.dicey.com
 auth.magiceden.io
 ord-mirror.magiceden.dev
 img-cdn.magiceden.dev
+magiceden.io
 mainframe.magiceden.io
 staging.dicey.com
 afphabitat.cl

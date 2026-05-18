@@ -244,6 +244,9 @@ db.*.supabase.co
 *.stripchat.com
 *.okg.com
 *.epic.superbet.ro
+*.magiceden.dev
+*.magiceden.io
+*.magiceden.workers.dev
 *.pramericalife.in
 *.prudential.co.kr
 *.prudentialagf.cl
@@ -311,7 +314,6 @@ bus.*.indrive.com
 *.rwsofficedepot.reflexisinc.com
 *.zebracard.com
 *medialibrary.zebra.com
-*.clover.com
 *.firstdata.com
 *.fiserv.com
 *.awards.slotomania.com

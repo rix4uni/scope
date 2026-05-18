@@ -428,8 +428,6 @@ sip.*.twilio.com
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
-*.magiceden.dev
-*.magiceden.io
 *.boozt.com
 *.booztlet.com
 *.indrive.com
@@ -2355,6 +2353,7 @@ bluehost.com
 hostgator.com
 transferwise.com
 wise.com
+wise-sandbox.com
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com
@@ -3084,7 +3083,6 @@ ro.superbet.sport
 superbet.bet.br
 api.dicey.com
 dicey.com
-magiceden.io
 kronor.io
 payment-gateway.kronor.io
 my.sheer.com

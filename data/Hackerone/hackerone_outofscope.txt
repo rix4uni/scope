@@ -358,6 +358,9 @@ lp.superbet.ro
 lp.superbet.rs
 test-gw.epic.superbet.ro
 test.epic.superbet.ro
+*.magiceden.dev
+*.magiceden.io
+*.magiceden.workers.dev
 blog.magiceden.io
 cdn.magiceden.dev
 docs.magiceden.io
@@ -367,6 +370,7 @@ help.dicey.com
 auth.magiceden.io
 ord-mirror.magiceden.dev
 img-cdn.magiceden.dev
+magiceden.io
 mainframe.magiceden.io
 staging.dicey.com
 *.pramericalife.in
@@ -749,7 +753,6 @@ matrox.com
 multispectral.com
 wherenet.com
 zebra.cn
-*.clover.com
 *.firstdata.com
 *.fiserv.com
 blog.playtronics.com

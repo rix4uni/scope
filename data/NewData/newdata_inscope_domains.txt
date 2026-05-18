@@ -1,15 +1,1 @@
-kucoin.com
-api-wallet.venly.io
-api.arkane.network
-connect.arkane.network
-connect.venly.io
-login.arkane.network
-login.venly.io
-wallet.venly.io
-api-wallet-sandbox.venly.io
-api.voiapp.io
-fm.voiapp.io
-mds.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
+wise-sandbox.com
