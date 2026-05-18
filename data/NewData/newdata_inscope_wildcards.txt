@@ -1,3 +1,2 @@
-*.kucoin.com
-*.voi.com
-*.voiscooters.com
+*.binance.com
+*.binance.us
