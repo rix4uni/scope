@@ -753,6 +753,7 @@ matrox.com
 multispectral.com
 wherenet.com
 zebra.cn
+*.clover.com
 *.firstdata.com
 *.fiserv.com
 blog.playtronics.com

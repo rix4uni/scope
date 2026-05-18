@@ -314,6 +314,7 @@ bus.*.indrive.com
 *.rwsofficedepot.reflexisinc.com
 *.zebracard.com
 *medialibrary.zebra.com
+*.clover.com
 *.firstdata.com
 *.fiserv.com
 *.awards.slotomania.com
