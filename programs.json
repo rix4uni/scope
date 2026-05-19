@@ -1836,6 +1836,23 @@
     "last_updated": "2026-05-19"
   },
   {
+    "name": "toom Baumarkt GmbH - Webshop",
+    "program_url": "https://yeswehack.com/programs/toom-baumarkt-gmbh-bug-bounty-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$3000",
+    "inscope_domains": [
+      "https://toom.de",
+      "https://api.toom.de"
+    ],
+    "outofscope_domains": [
+      "All domains or subdomains not listed in the above list of 'Scopes'."
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-19"
+  },
+  {
     "name": "vidaXL Services - Open Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/vidaxl-services-open-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -3826,29 +3843,6 @@
       "1584170510",
       "com.loyaltyworks.wavinapp",
       "*.vectus.in"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-19"
-  },
-  {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
     ],
     "issues_reported": [],
     "scamhit": "",
