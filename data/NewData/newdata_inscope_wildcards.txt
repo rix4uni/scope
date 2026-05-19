@@ -1,1 +1,1 @@
-*.datacamp.com
+*.wise-sandbox.com

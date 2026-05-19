@@ -1374,6 +1374,7 @@ transferwise.com
 wise.com
 *.wise.com
 wise-sandbox.com
+*.wise-sandbox.com
 auth.wyze.com
 my.wyze.com
 api.wyzecam.com
