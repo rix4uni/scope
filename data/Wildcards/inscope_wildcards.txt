@@ -1207,7 +1207,6 @@ ic3.*.indriverapp.com
 *.contentsquare.com
 *.cyberghostvpn.com
 *.cyberghost.com
-*.tchap.gouv.fr
 *.captcha-delivery.com
 *.vlaanderen.be
 *.siilo.com

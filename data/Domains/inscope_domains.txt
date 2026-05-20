@@ -4249,12 +4249,6 @@ api.cyberghostvpn.com
 cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
 shoppingapp.decathlon.com
-tchap.gouv.fr
-matrix.agent.tchap.gouv.fr
-matrix.agent
-beta.tchap.gouv.fr
-matrix.i.tchap.gouv.fr
-matrix.e.tchap.gouv.fr
 bounty-nodejs.datashield.co
 bounty-fastly.datashield.co
 bounty-nginx.datashield.co

@@ -51,14 +51,6 @@ api.cyberghostvpn.com
 cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
 shoppingapp.decathlon.com
-tchap.gouv.fr
-matrix.agent.tchap.gouv.fr
-matrix.agent
-*.tchap.gouv.fr
-github.com
-beta.tchap.gouv.fr
-matrix.i.tchap.gouv.fr
-matrix.e.tchap.gouv.fr
 bounty-nodejs.datashield.co
 bounty-fastly.datashield.co
 bounty-nginx.datashield.co
@@ -116,6 +108,7 @@ gh-mail.expressvpn.com
 corp.polymoon.it
 networkguard.com
 expressvpn.com
+github.com
 ezviz.com
 api.ezvizlife.com
 open.ys7.com

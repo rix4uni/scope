@@ -383,32 +383,6 @@
     "last_updated": "2026-05-20"
   },
   {
-    "name": "DINUM - Tchap - Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/tchap-public",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$20000",
-    "inscope_domains": [
-      "https://www.tchap.gouv.fr",
-      "https://matrix.agent.tchap.gouv.fr",
-      "https://matrix.agent.*.tchap.gouv.fr",
-      "https://github.com/tchapgouv",
-      "https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr",
-      "https://apps.apple.com/fr/app/tchap/id1446253779",
-      "https://www.beta.tchap.gouv.fr",
-      "https://matrix.i.tchap.gouv.fr",
-      "https://matrix.e.tchap.gouv.fr",
-      "Specific scenarios (see program description)"
-    ],
-    "outofscope_domains": [
-      "Everything that not listed as in scope is to be considered as out of scope of this program",
-      "Please note that Tchap is hosted by a third party and thus vulnerabilities related to the host are out of the scope"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-20"
-  },
-  {
     "name": "DataDome Bot Bounty",
     "program_url": "https://yeswehack.com/programs/datadome-bot-bounty",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
