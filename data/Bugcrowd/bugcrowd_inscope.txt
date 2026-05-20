@@ -249,8 +249,8 @@ partycasino.com
 bwin.com
 media.itsfogo.com
 galacasino.com
-*.epam.com
 epam.com
+*.epam.com
 projects.epam.com
 *.projects.epam.com
 lab.epam.com
