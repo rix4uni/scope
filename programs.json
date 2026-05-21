@@ -29521,6 +29521,7 @@
     "inscope_domains": [
       "acintra.appslatam.com",
       "airtalk.appslatam.com",
+      "chat.latamairlines.com",
       "crew-wallet.intg.appslatam.com",
       "http://*.appslatam.com",
       "http://*.lan.com",
