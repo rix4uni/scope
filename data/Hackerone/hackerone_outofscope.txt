@@ -837,7 +837,6 @@ api.clover.com
 api.eu.clover.com
 lws.fdcbusinessservices.com
 partner.clover.com
-scl.clover.com
 secure-algonquinstatebank.com
 secure-cooprincon.com
 secure-ecoop.com

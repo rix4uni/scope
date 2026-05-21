@@ -1287,7 +1287,6 @@ api.clover.com
 api.eu.clover.com
 lws.fdcbusinessservices.com
 partner.clover.com
-scl.clover.com
 secure-algonquinstatebank.com
 secure-cooprincon.com
 secure-ecoop.com
@@ -2643,10 +2642,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 app.datacamp.com
