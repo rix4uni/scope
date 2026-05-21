@@ -3605,6 +3605,9 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 challenge-0526.intigriti.io
 api.cloudways.com
 developers.cloudways.com
@@ -4109,6 +4112,12 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 testing.maventa.com
+api.voiapp.io
+fm.voiapp.io
+mds.voiapp.io
+repair.voiweb.net
+report.voi.com
+voi.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com
