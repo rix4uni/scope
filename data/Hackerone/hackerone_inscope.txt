@@ -2662,7 +2662,6 @@ exnessaffiliates.com
 my.exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
-social-trading.exness.com
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org

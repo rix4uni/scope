@@ -3173,7 +3173,6 @@ exnessaffiliates.com
 my.exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
-social-trading.exness.com
 bbpress.org
 profiles.wordpress.org
 trac.wordpress.org
@@ -3605,6 +3604,9 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 challenge-0526.intigriti.io
 api.cloudways.com
 developers.cloudways.com
