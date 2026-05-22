@@ -2575,38 +2575,6 @@
     "last_updated": "2026-05-22"
   },
   {
-    "name": "Delen Private Bank",
-    "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€15000",
-    "inscope_domains": [
-      "api.digital.delen.be ",
-      "api.digital.delen.lu ",
-      "app.delen.be ",
-      "app.delen.ch ",
-      "app.delen.lu ",
-      "auth.digital.delen.be ",
-      "auth.digital.delen.lu ",
-      "be.delen.digital",
-      "delen/id1064839588",
-      "login.delen.be ",
-      "login.delen.ch ",
-      "login.delen.lu ",
-      "login.oyens.com",
-      "status.delen.be ",
-      "sts.delen.be ",
-      "www.cadelam.be ",
-      "www.cadelux.lu/en ",
-      "www.delen.bank",
-      "www.delen.be/en "
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-22"
-  },
-  {
     "name": "DigitalOcean",
     "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4777,41 +4745,6 @@
       "api-wallet-sandbox.venly.io"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-22"
-  },
-  {
-    "name": "Vinted - Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2300",
-    "inscope_domains": [
-      "*.vinted.net",
-      "*.vinted.com",
-      "*.vinted.fr",
-      "*.vintedgo.com",
-      "Vinted: Shop & sell pre-loved",
-      "Vinted: Shop & sell pre-loved",
-      "*sandbox*.vintedgo.com",
-      "*sandbox*.vinted.com",
-      "*old.vinted.com",
-      "*test-escalations.vintedgo.com",
-      "*badger.it.vinted.com",
-      "*careers.vinted.com",
-      "*news.vinted.com",
-      "*company.vinted.com",
-      "Scam"
-    ],
-    "outofscope_domains": [
-      "api.prod.svc.vintedpay.com",
-      "callbacks.prod.svc.vintedpay.com",
-      "*.homerr.com",
-      "*vintedpay.com",
-      "*.vinted.ca ",
-      "*.people.vinted.*"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-22"
