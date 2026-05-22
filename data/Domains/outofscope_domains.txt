@@ -348,6 +348,7 @@ myget.octopus.com
 trust.octopus.com
 i.octopus.com
 ir.octopus.com
+personal.trexcloud.com
 1.oktapreview.com
 2.oktapreview.com
 login.okta.com
@@ -2643,10 +2644,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 app.datacamp.com

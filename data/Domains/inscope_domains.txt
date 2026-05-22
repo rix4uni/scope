@@ -584,7 +584,6 @@ nubank.com.mx
 nubank.com.co
 nuinvest.com.br
 octopus.com
-personal.trexcloud.com
 oktapreview.com
 pam.oktapreview.com
 workflows.oktapreview.com
@@ -3604,9 +3603,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-capital.com
-open-api.capital.com
 challenge-0526.intigriti.io
 api.cloudways.com
 developers.cloudways.com
