@@ -3489,34 +3489,6 @@
     "last_updated": "2026-05-23"
   },
   {
-    "name": "Nexuzhealth",
-    "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "be.nexuzhealth.mobile.cpv",
-      "be.nexuzhealth.mobile.kws",
-      "be.nexuzhealth.mobile.mynexuz",
-      "kws-companion/id1342124012",
-      "mynexuz.be",
-      "mynexuzhealth/id1459856321",
-      "liquidfiles.nexuzhealth.com",
-      "*.nexuzhealth.*"
-    ],
-    "outofscope_domains": [
-      "pro.nexuzhealth.hn",
-      "nexuzhealth.atlassian.net",
-      "nexuzhealth-pro/id1623165353",
-      "media.nexuzhealth.be",
-      "idp-contact.nexuzhealth.be",
-      "*.nexuzhealth.pro"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-23"
-  },
-  {
     "name": "Nexuzhealth VDP",
     "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4693,29 +4665,6 @@
       "https://vlerick.myshopify.com/",
       "https://webform.vlerick.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-23"
-  },
-  {
-    "name": "Voi Scooters",
-    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "Voi – e-scooters & e-bikes",
-      "https://api.voiapp.io/",
-      "Voi – e-scooter & e-bike hire",
-      "fm.voiapp.io",
-      "mds.voiapp.io",
-      "*.voi.com",
-      "https://repair.voiweb.net",
-      "*.voiscooters.com",
-      "report.voi.com",
-      "voi.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-23"
