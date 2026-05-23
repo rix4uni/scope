@@ -7644,6 +7644,31 @@
     "last_updated": "2026-05-23"
   },
   {
+    "name": "Intercom",
+    "program_url": "https://bugcrowd.com/engagements/intercom",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$6000",
+    "inscope_domains": [
+      "https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios",
+      "https://api.intercom.com",
+      "https://app.intercom.com",
+      "*.intercomassets.com / *.intercomcdn.com",
+      "https://app.intercom.io/",
+      "https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android",
+      "https://www.intercom.com/",
+      "http://mcp.intercom.com",
+      "https://api-iam.intercom.io",
+      "https://*.mobile-messenger.intercom.com",
+      "https://fin.ai/",
+      "https://app.fin.ai/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-23"
+  },
+  {
     "name": "Internet Brands Public",
     "program_url": "https://bugcrowd.com/engagements/internetbrands-public",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7741,25 +7766,6 @@
       "https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-23"
-  },
-  {
-    "name": "Jora",
-    "program_url": "https://bugcrowd.com/engagements/jora",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$2500",
-    "inscope_domains": [
-      "*.jora.com",
-      "*.jora.xyz",
-      "https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665\t",
-      "https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US\t"
-    ],
-    "outofscope_domains": [
-      "*.joralocal.com.au\t"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-23"
