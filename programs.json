@@ -4933,37 +4933,6 @@
     "last_updated": "2026-05-24"
   },
   {
-    "name": "Wolt",
-    "program_url": "https://www.intigriti.com/programs/wolt/wolt/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "authentication.wolt.com",
-      "corporate.wolt.com",
-      "drive.wolt.com",
-      "merchant.wolt.com",
-      "ops.wolt.com",
-      "restaurant-api.wolt.com",
-      "wolt.com",
-      "*.wolt.com",
-      "Wolt Courier Partner",
-      "Wolt Delivery: Food and more",
-      "Wolt Delivery: Food and more",
-      "Wolt Courier Partner"
-    ],
-    "outofscope_domains": [
-      "wolt.atlassian.net",
-      "press.wolt.com",
-      "links.wolt.com",
-      "gettest.wolt.com",
-      "blog.wolt.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-24"
-  },
-  {
     "name": "Wärtsilä Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/wartsila/wartsila-vdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
