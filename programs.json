@@ -2533,6 +2533,38 @@
     "last_updated": "2026-05-25"
   },
   {
+    "name": "Delen Private Bank",
+    "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "api.digital.delen.be ",
+      "api.digital.delen.lu ",
+      "app.delen.be ",
+      "app.delen.ch ",
+      "app.delen.lu ",
+      "auth.digital.delen.be ",
+      "auth.digital.delen.lu ",
+      "be.delen.digital",
+      "delen/id1064839588",
+      "login.delen.be ",
+      "login.delen.ch ",
+      "login.delen.lu ",
+      "login.oyens.com",
+      "status.delen.be ",
+      "sts.delen.be ",
+      "www.cadelam.be ",
+      "www.cadelux.lu/en ",
+      "www.delen.bank",
+      "www.delen.be/en "
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-25"
+  },
+  {
     "name": "DigitalOcean",
     "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2697,25 +2729,6 @@
     ],
     "outofscope_domains": [
       "Third-party systems or domains referencing Dropbox"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-25"
-  },
-  {
-    "name": "Dstny",
-    "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2425",
-    "inscope_domains": [
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238"
-    ],
-    "outofscope_domains": [
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -3094,6 +3107,81 @@
     "last_updated": "2026-05-25"
   },
   {
+    "name": "Kinepolis Group",
+    "program_url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "*.klubcinema.fr",
+      "*.megatix.be  ",
+      "booking.mjrtheatres.com",
+      "extras.landmarkcinemas.com",
+      "identityserver.landmarkcinemas.com",
+      "kinepolis.megatix.be",
+      "luxfilmfestfilms.megatix.be",
+      "luxfilmfestproducts.megatix.be",
+      "luxfilmfesttickets.megatix.be",
+      "movieapi.kinepolis.megatix.be",
+      "tickets.kinepolis.be",
+      "tickets.kinepolis.ch",
+      "tickets.kinepolis.es",
+      "tickets.kinepolis.fr",
+      "tickets.kinepolis.lu",
+      "tickets.kinepolis.nl",
+      "userprofile-ui.landmarkcinemas.com",
+      "www.kinepolis.be ",
+      "www.kinepolis.ch ",
+      "www.kinepolis.com ",
+      "www.kinepolis.es ",
+      "www.kinepolis.fr ",
+      "www.kinepolis.lu ",
+      "www.kinepolis.nl ",
+      "www.landmarkcinemas.com",
+      "www.mjrtheatres.com",
+      "business.kinepolis.be",
+      "business.kinepolis.lu",
+      "business.kinepolis.nl",
+      "com.inthepocket.kinepolis",
+      "extras-acc.landmarkcinemas.com",
+      "https://movieclub-int.kinepolis.com",
+      "https://movienow-int.kinepolis.be/admin",
+      "https://shop-acc.kinepolis.be/",
+      "identityserver-acc.landmarkcinemas.com",
+      "kinepolis-studio.be",
+      "kinepolis/id368204284",
+      "nz.co.vista.android.movie.mjrtheatres",
+      "stage.landmarkcinemas.com",
+      "userprofile-acc.landmarkcinemas.com",
+      "www.kinepolis.biz",
+      "*.kinepolis.be",
+      "*.kinepolis.ch",
+      "*.kinepolis.com",
+      "*.kinepolis.fr",
+      "*.kinepolis.lu",
+      "*.kinepolis.nl",
+      "*.landmarkcinemas.com",
+      "*.mjrtheatres.com",
+      "522089287",
+      "egaming.kinepolis.es"
+    ],
+    "outofscope_domains": [
+      "*.cineramabios.nl",
+      "dev.kinepolis.com",
+      "helpdesk.landmarkcinemas.com",
+      "jobs.kinepolis.com",
+      "l.kinepolis.com",
+      "openx.kinepolis.com",
+      "shop.kinepolis.be ",
+      "shop.kinepolis.es",
+      "shop.kinepolis.fr ",
+      "shop.kinepolis.lu"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-25"
+  },
+  {
     "name": "Kiwa Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3447,6 +3535,34 @@
     "last_updated": "2026-05-25"
   },
   {
+    "name": "Nexuzhealth",
+    "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "be.nexuzhealth.mobile.cpv",
+      "be.nexuzhealth.mobile.kws",
+      "be.nexuzhealth.mobile.mynexuz",
+      "kws-companion/id1342124012",
+      "mynexuz.be",
+      "mynexuzhealth/id1459856321",
+      "liquidfiles.nexuzhealth.com",
+      "*.nexuzhealth.*"
+    ],
+    "outofscope_domains": [
+      "pro.nexuzhealth.hn",
+      "nexuzhealth.atlassian.net",
+      "nexuzhealth-pro/id1623165353",
+      "media.nexuzhealth.be",
+      "idp-contact.nexuzhealth.be",
+      "*.nexuzhealth.pro"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-25"
+  },
+  {
     "name": "Nexuzhealth VDP",
     "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3566,6 +3682,29 @@
       "1584170510",
       "com.loyaltyworks.wavinapp",
       "*.vectus.in"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -4886,6 +5025,37 @@
       "*.moneyback.com.hk"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-25"
+  },
+  {
+    "name": "Wolt",
+    "program_url": "https://www.intigriti.com/programs/wolt/wolt/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "authentication.wolt.com",
+      "corporate.wolt.com",
+      "drive.wolt.com",
+      "merchant.wolt.com",
+      "ops.wolt.com",
+      "restaurant-api.wolt.com",
+      "wolt.com",
+      "*.wolt.com",
+      "Wolt Courier Partner",
+      "Wolt Delivery: Food and more",
+      "Wolt Delivery: Food and more",
+      "Wolt Courier Partner"
+    ],
+    "outofscope_domains": [
+      "wolt.atlassian.net",
+      "press.wolt.com",
+      "links.wolt.com",
+      "gettest.wolt.com",
+      "blog.wolt.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-25"
@@ -53946,8 +54116,6 @@
     "inscope_domains": [
       "*.gocardless-cicd.io",
       "*.gocardless-lab.io",
-      "*.gocardless-staging.io",
-      "*.gocardless.com",
       "*.gocardless.dev",
       "*.gocardless.io,*.gocardless-banking.io",
       "api-sandbox.gocardless.com",
@@ -53964,6 +54132,7 @@
       "www.gocardless.com"
     ],
     "outofscope_domains": [
+      "*.gocardless-staging.io",
       "api-staging.gocardless.com",
       "api.gocardless.com",
       "brand.gocardless.com",
@@ -53972,7 +54141,6 @@
       "gocardless-status.com, status.gocardless.com",
       "gocardless.atlassian.net",
       "learn.gocardless.com",
-      "manage.gocardless-staging.io",
       "manage.gocardless.com",
       "oauth-staging.gocardless.com",
       "oauth.gocardless.com",

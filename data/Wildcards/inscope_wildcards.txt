@@ -551,10 +551,6 @@ ic3.*.indriverapp.com
 *.exodus.com
 *.exodus.io
 *.k8s.io
-*.gocardless-cicd.io
-*.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.airstar-finance.com
@@ -1075,6 +1071,16 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1165,6 +1171,7 @@ ic3.*.indriverapp.com
 *.drogas.lt
 *.drogas.lv
 *.moneyback.com.hk
+*.wolt.com
 *.yacht.nl
 *.yahoo.com
 *.pwn.intigriti.rocks

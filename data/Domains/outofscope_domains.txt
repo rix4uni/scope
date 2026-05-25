@@ -1738,7 +1738,6 @@ status.gocardless.com
 incident.io
 gocardless.atlassian.net
 learn.gocardless.com
-manage.gocardless-staging.io
 manage.gocardless.com
 oauth-staging.gocardless.com
 oauth.gocardless.com
@@ -2695,6 +2694,15 @@ pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
@@ -2704,6 +2712,10 @@ libelle.nl
 login.liferay.com
 docs.moralis.io
 status.moralis.io
+pro.nexuzhealth.hn
+nexuzhealth.atlassian.net
+media.nexuzhealth.be
+idp-contact.nexuzhealth.be
 store.ninjakiwi.com
 support.ninjakiwi.com
 personio.de
@@ -2785,6 +2797,11 @@ gis2.water-link.be
 jobs.water-link.be
 acc.water-link.be
 dev.water-link.be
+wolt.atlassian.net
+press.wolt.com
+links.wolt.com
+gettest.wolt.com
+blog.wolt.com
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
 vznkul.be
