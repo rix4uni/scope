@@ -3366,14 +3366,6 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
-future.portofantwerp.com
-future.portofantwerpbruges.com
-jobs.portofantwerp.com
-jobs.portofantwerpbruges.com
-media.portofantwerp.com
-media.portofantwerpbruges.com
-register.portofantwerp.com
-register.portofantwerpbruges.com
 pen-app.entrili.com
 exams.ripe.net
 ripe.net
@@ -3439,11 +3431,6 @@ gis2.water-link.be
 jobs.water-link.be
 acc.water-link.be
 dev.water-link.be
-wolt.atlassian.net
-press.wolt.com
-links.wolt.com
-gettest.wolt.com
-blog.wolt.com
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
 vznkul.be
