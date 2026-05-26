@@ -1221,6 +1221,7 @@ helix.verily.com
 verily.com
 console-stage.neon.build
 console.neon.tech
+wearehackerone.com
 bumba.global
 cart.starbucks.co.jp
 gift.starbucks.co.jp
@@ -1235,7 +1236,6 @@ api.syfe.com
 mark8.syfe.com
 uat-bugbounty.nonprod.syfe.com
 syfe.com
-wearehackerone.com
 aces-dev.wnba.com
 aces-qa.wnba.com
 aces-qa2.wnba.com
@@ -3979,6 +3979,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com
