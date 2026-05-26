@@ -63,7 +63,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-challenge-0526.intigriti.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
