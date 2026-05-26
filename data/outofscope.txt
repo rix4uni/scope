@@ -589,10 +589,6 @@ g.*.slackhq.com
 *.lxc.liferay.com
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com
