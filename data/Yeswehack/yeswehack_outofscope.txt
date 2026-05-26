@@ -133,6 +133,7 @@ jp.jbl.com
 devicedb.roonlabs.net
 *.louisvuitton.com
 paymaya.com
+api.moneyboxapp.com
 otto.de
 keycloak.apps.otto.de
 *.osp.ovh.com
