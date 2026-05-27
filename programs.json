@@ -2254,6 +2254,39 @@
     "last_updated": "2026-05-27"
   },
   {
+    "name": "Capital.com",
+    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "payment.backend-capital.com",
+      "*.backend-capital.com",
+      "capital.com/*",
+      "com.capital.trading",
+      "com.capital.trading",
+      "open-api.capital.com",
+      "*.capital.com",
+      "*.itcapital.io",
+      "aff.capital.com",
+      "go.capital.com",
+      "register.capital.com",
+      "careers.capital.com"
+    ],
+    "outofscope_domains": [
+      "*affiliates.backend-capital.com",
+      "*eduapp.backend-capital.com",
+      "*education.backend-capital.com",
+      "help.capital.com",
+      "relocate-with-us.capital.com",
+      "3cxby.itcapital.io",
+      "texis.itcapital.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-27"
+  },
+  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2473,48 +2506,6 @@
     ],
     "outofscope_domains": [
       "visitors.dpgmedia.be"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-05-27"
-  },
-  {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -2875,6 +2866,24 @@
       "app.fing.com",
       "Fing desktop",
       "www.fing.com*"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-27"
+  },
+  {
+    "name": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$0",
+    "inscope_domains": [
+      "Grafana OSS",
+      "Grafana Tempo",
+      "Grafana Pyroscope",
+      "Grafana Loki",
+      "Grafana Mimir"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -4851,6 +4860,41 @@
       "api-wallet-sandbox.venly.io"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-27"
+  },
+  {
+    "name": "Vinted - Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2300",
+    "inscope_domains": [
+      "*.vinted.net",
+      "*.vinted.com",
+      "*.vinted.fr",
+      "*.vintedgo.com",
+      "Vinted: Shop & sell pre-loved",
+      "Vinted: Shop & sell pre-loved",
+      "*sandbox*.vintedgo.com",
+      "*sandbox*.vinted.com",
+      "*old.vinted.com",
+      "*test-escalations.vintedgo.com",
+      "*badger.it.vinted.com",
+      "*careers.vinted.com",
+      "*news.vinted.com",
+      "*company.vinted.com",
+      "Scam"
+    ],
+    "outofscope_domains": [
+      "api.prod.svc.vintedpay.com",
+      "callbacks.prod.svc.vintedpay.com",
+      "*.homerr.com",
+      "*vintedpay.com",
+      "*.vinted.ca ",
+      "*.people.vinted.*"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-27"
@@ -12155,6 +12199,35 @@
     "last_updated": "2026-05-27"
   },
   {
+    "name": "Gogo VDP",
+    "program_url": "https://hackerone.com/gogo_vdp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "https://gogo.aero",
+      "https://gogo.to",
+      "https://gosatcom.net",
+      "https://satcomdirect.com.br",
+      "https://satcomsimple.com",
+      "https://satcomtest.com",
+      "https://www.sdgov.gogoair.com",
+      "www.*gogo*.com",
+      "www.*gogo.com",
+      "www.aeroxr.com",
+      "www.gogo*.*",
+      "www.gogo*.com",
+      "www.gogoair.com"
+    ],
+    "outofscope_domains": [
+      "www.gogocloud.net",
+      "www.gogocommercialaviation.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-27"
+  },
+  {
     "name": "Coupang Taiwan",
     "program_url": "https://hackerone.com/coupang_tw",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -19273,6 +19346,7 @@
       "sandbox.authorize.net",
       "sandbox.secure.checkout.visa.com",
       "sap.api-xperience.com",
+      "survey.visa.com",
       "test.payworks.io",
       "testbank.xs2a.com",
       "usa.visa.com",
@@ -39431,6 +39505,7 @@
       "connections.deere.com",
       "contact.bluerivertechnology.com",
       "contest.deere.com",
+      "copaamarela.com",
       "core.surefireag.com",
       "core.surepointag.com",
       "corp-dev.wirtgen-group.com",
@@ -59990,7 +60065,6 @@
       "https://gitlab.com/gitlab-org/gitlab-runner",
       "https://gitlab.com/gitlab-org/gitlab-shell",
       "https://gitlab.com/gitlab-org/gitlab-vscode-extension",
-      "https://gitlab.com/gitlab-org/opstrace/opstrace",
       "registry.gitlab.com"
     ],
     "outofscope_domains": [
@@ -60008,6 +60082,7 @@
       "gitlabsandbox.net",
       "gitlabtraining.cloud",
       "https://gitlab.com/gitlab-org/cli/",
+      "https://gitlab.com/gitlab-org/opstrace/opstrace",
       "https://gitlab.com/gitlab-org/opstrace/opstrace-ui",
       "ir.gitlab.com",
       "levelup.gitlab.com",
@@ -60043,6 +60118,7 @@
       "com.atebits.Tweetie2",
       "com.twitter.android",
       "gnip.com",
+      "grok-build-cli",
       "grok.com",
       "grokipedia.com",
       "money.x.com",

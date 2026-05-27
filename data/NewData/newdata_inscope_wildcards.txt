@@ -1,3 +1,6 @@
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.vinted.net
 *.vinted.com
 *.vinted.fr
