@@ -8607,6 +8607,25 @@
     "last_updated": "2026-05-27"
   },
   {
+    "name": "Marvelution",
+    "program_url": "https://bugcrowd.com/engagements/marvelutionbv",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=server&tab=overview",
+      "https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1221134/jenkins-integration-for-jira-lite?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1234756/jenkins-for-compass?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1236248/jenkins-for-confluence/?tab=overview&hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-05-27"
+  },
+  {
     "name": "Mastercard Public Bug Bounty ",
     "program_url": "https://bugcrowd.com/engagements/mastercard",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -56485,7 +56504,6 @@
       "CosmWasm",
       "Cosmos SDK",
       "Hermes Relayer",
-      "Horcrux",
       "Solidity IBC Eureka",
       "https://github.com/cosmos/gaia",
       "https://github.com/cosmos/iavl",
@@ -56494,7 +56512,9 @@
       "ibc-go",
       "www.github.com/cosmos/evm"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "Horcrux"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-05-27"

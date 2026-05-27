@@ -2591,6 +2591,10 @@ support.chaturbate.com
 ads.pixiv.net
 factory.pixiv.net
 accounts.pixiv.net
+en.wikipedia.org
+launch-all.sh
+lavender.five
+user-images.githubusercontent.com
 investors.goodrx.com
 sso.identity.goodrx.com
 support.goodrx.com

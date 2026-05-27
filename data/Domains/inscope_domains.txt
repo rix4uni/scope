@@ -2828,11 +2828,6 @@ readme.md
 prometheus.io
 hermes.informal.systems
 crates.io
-en.wikipedia.org
-launch-all.sh
-lavender.five
-user-images.githubusercontent.com
-docs.google.com
 ibc.cosmos.network
 releases.md
 sandbox.affirm.com
@@ -3653,6 +3648,7 @@ hellofax.com
 docsend.com
 app.reclaim.ai
 replay.dropbox.com
+docs.google.com
 my.eurid.eu
 itscope.com
 itscope.de
