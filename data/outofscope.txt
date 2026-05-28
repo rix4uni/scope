@@ -592,6 +592,7 @@ g.*.slackhq.com
 *.configuratoren.nl
 *.cineramabios.nl
 *.lxc.liferay.com
+*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
@@ -618,10 +619,6 @@ g.*.slackhq.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
-*.homerr.com
-*vintedpay.com
-*.vinted.ca
-*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
@@ -3384,6 +3381,9 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 pro.nexuzhealth.hn
@@ -3450,8 +3450,6 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
-api.prod.svc.vintedpay.com
-callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
