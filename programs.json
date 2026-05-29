@@ -1293,25 +1293,8 @@
     "platform": "YesWeHack",
     "reward": "$3000",
     "inscope_domains": [
-      "https://reptox.cnesst.gouv.qc.ca/",
-      "https://auth.pentest.clicsante.ca/",
-      "https://profile.pentest.clicsante.ca/",
-      "https://clients3.pentest.clicsante.ca/",
-      "https://portal3.pentest.clicsante.ca/",
-      "https://api3.pentest.clicsante.ca/",
-      "https://admin3.pentest.clicsante.ca/",
-      "https://auth.pentest.clicsante.ca/",
       "https://poc-op-ywh.it.authentification.si.gouv.qc.ca/",
-      "https://auth-ywh.it.authentification.si.gouv.qc.ca/",
-      "https://www.cyber.gouv.qc.ca/",
-      "https://gap.citizenportal-test.bugbounty.akinox.dev/",
-      "https://test.m4sv.bugbounty.akinox.dev/",
-      "https://pbgq.upac.gouv.qc.ca/",
-      "https://pbgq-pes.upac.gouv.qc.ca/denonciation/",
-      "https://pbgq-pes.upac.gouv.qc.ca/nous-joindre/",
-      "https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/",
-      "https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/",
-      "https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions/"
+      "https://auth-ywh.it.authentification.si.gouv.qc.ca/"
     ],
     "outofscope_domains": [
       "All domains not listed In-Scope."
