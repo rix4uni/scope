@@ -2132,7 +2132,6 @@ apps.8x8.com
 cloud8.8x8.com
 campaign.wavecell.com
 contacts.8x8.com
-converse.8x8.com
 8x8.vc
 webrtc.8x8.com
 pay.8x8.com
@@ -2144,7 +2143,6 @@ uc.8x8pilot.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 vcc-na30.8x8.com
-video-agent.8x8.com
 voapi.8x8.com
 voapi-au.8x8.com
 voapi-uk.8x8.com
@@ -3595,6 +3593,9 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -3962,7 +3963,6 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
-cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
