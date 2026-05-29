@@ -1,3 +1,10 @@
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
+*.gamma.nl
+*.gamma.be
+*.karwei.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.nl
+*.werkenbijgamma.be
+*.werkenbijkarwei.nl

@@ -612,6 +612,8 @@ learn.ynab.com
 support.zendesk.com
 zendesk.com
 gogo750.com
+gpden.gogoair.com
+gpmlb.gogoair.com
 gogocloud.net
 gogocommercialaviation.com
 ai-answers.alpha.canada.ca
@@ -983,6 +985,8 @@ firmagaver.boozt.com
 kronor.io
 api.frontegg.com
 portal.frontegg.com
+smallbusiness.comerica.com
+smallbusinessuat.comerica.com
 servicos.indrive.com
 sinet.startup.indriver
 super-services.indriverapp.com
@@ -1988,6 +1992,10 @@ public.bitmex.com
 research.bitmex.com
 status.bitmex.com
 support.bitmex.com
+blog.thecoalition.com
+security.md
+help.thecoalition.com
+thecoalition.com
 community.elastic.co
 discuss.elastic.co
 learn.elastic.co
@@ -2715,6 +2723,18 @@ newsroom.innogames.com
 pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
+afspraakmaken.gamma.nl
+api.afspraakmaken.gamma.be
+api.afspraakmaken.gamma.nl
+api.maakafspraak.karwei.nl
+horrenconfigurator-fr.gamma.be
+horrenconfigurator-nl.gamma.be
+horrenconfigurator.karwei.nl
+karwei-2018.hetmooistegordijn.nl
+maakafspraak.karwei.nl
+mail.gamma.be
+mail.gamma.nl
+mail.karwei.nl
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
@@ -2732,9 +2752,6 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 pro.nexuzhealth.hn

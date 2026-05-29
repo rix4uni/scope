@@ -3716,6 +3716,16 @@ campagne.iciparisxl.lu
 campagne.iciparisxl.be
 servicenl.iciparisxl.be
 pourvous.nl
+gamma.nl
+gamma.be
+karwei.nl
+kassa.gamma.nl
+kassa.gamma.be
+kassa.karwei.nl
+mijn.gamma.nl
+mijn.gamma.be
+mijn.karwei.nl
+irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -3862,8 +3872,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
