@@ -1,3 +1,4 @@
-projects.dev
-crypto.link.com
-cz.skodaauto.myskoda
+sgnl.ai
+sgnl.cloud
+sgnl.team
+sgnlapis.cloud
