@@ -1162,6 +1162,8 @@ apollo.io
 docs.stripe.com
 checkout.stripe.com
 dashboard.stripe.com
+projects.dev
+crypto.link.com
 api.stripe.com
 api.taxjar.com
 app.taxjar.com

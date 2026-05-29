@@ -581,7 +581,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.db.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
@@ -595,10 +594,6 @@ g.*.slackhq.com
 *.lxc.liferay.com
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com
@@ -1261,6 +1256,7 @@ zendesk.com
 gogo750.com
 gpden.gogoair.com
 gpmlb.gogoair.com
+gogo.to
 gogocloud.net
 gogocommercialaviation.com
 ai-answers.alpha.canada.ca
@@ -3310,18 +3306,6 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 anchor.digitalocean.com
