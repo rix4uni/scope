@@ -20,7 +20,7 @@ bettrfinancing.com
 anext.com.sg
 alipayhk.com
 antbank.hk
-mysrc.group
+security-en.alipay.com
 *.bitoasis.net
 bookbeat.com
 api.bookbeat.com

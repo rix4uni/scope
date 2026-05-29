@@ -3715,16 +3715,6 @@ campagne.iciparisxl.lu
 campagne.iciparisxl.be
 servicenl.iciparisxl.be
 pourvous.nl
-gamma.nl
-gamma.be
-karwei.nl
-kassa.gamma.nl
-kassa.gamma.be
-kassa.karwei.nl
-mijn.gamma.nl
-mijn.gamma.be
-mijn.karwei.nl
-irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -4222,7 +4212,7 @@ bettrfinancing.com
 anext.com.sg
 alipayhk.com
 antbank.hk
-mysrc.group
+security-en.alipay.com
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
