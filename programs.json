@@ -2817,23 +2817,6 @@
     "last_updated": "2026-06-01"
   },
   {
-    "name": "Fing Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/fing/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "service.fing.com",
-      "app.fing.com",
-      "Fing desktop",
-      "www.fing.com*"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-01"
-  },
-  {
     "name": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
     "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
