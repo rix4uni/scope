@@ -2215,6 +2215,39 @@
     "last_updated": "2026-06-01"
   },
   {
+    "name": "Capital.com",
+    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "payment.backend-capital.com",
+      "*.backend-capital.com",
+      "capital.com/*",
+      "com.capital.trading",
+      "com.capital.trading",
+      "open-api.capital.com",
+      "*.capital.com",
+      "*.itcapital.io",
+      "aff.capital.com",
+      "go.capital.com",
+      "register.capital.com",
+      "careers.capital.com"
+    ],
+    "outofscope_domains": [
+      "*affiliates.backend-capital.com",
+      "*eduapp.backend-capital.com",
+      "*education.backend-capital.com",
+      "help.capital.com",
+      "relocate-with-us.capital.com",
+      "3cxby.itcapital.io",
+      "texis.itcapital.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-01"
+  },
+  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2476,6 +2509,38 @@
       "www.volkskrant.nl",
       "www.volkskrant.nl/abonnementen",
       "*.volkskrant.nl"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "name": "Delen Private Bank",
+    "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "api.digital.delen.be ",
+      "api.digital.delen.lu ",
+      "app.delen.be ",
+      "app.delen.ch ",
+      "app.delen.lu ",
+      "auth.digital.delen.be ",
+      "auth.digital.delen.lu ",
+      "be.delen.digital",
+      "delen/id1064839588",
+      "login.delen.be ",
+      "login.delen.ch ",
+      "login.delen.lu ",
+      "login.oyens.com",
+      "status.delen.be ",
+      "sts.delen.be ",
+      "www.cadelam.be ",
+      "www.cadelux.lu/en ",
+      "www.delen.bank",
+      "www.delen.be/en "
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -12051,10 +12116,12 @@
       "www.gogoair.com"
     ],
     "outofscope_domains": [
+      "gogo705.com",
       "gogo750.com",
       "http://gpden.gogoair.com",
       "http://gpmlb.gogoair.com",
       "https://gogo.to",
+      "www.gogo574.com",
       "www.gogocloud.net",
       "www.gogocommercialaviation.com"
     ],
@@ -12474,11 +12541,11 @@
     "platform": "HackerOne",
     "reward": "-",
     "inscope_domains": [
+      "1040.com",
       "drakesoftware.com",
       "taxact.com"
     ],
     "outofscope_domains": [
-      "1040.com",
       "securefilepro.com",
       "taxactonline.com",
       "taxwell.com",
@@ -15732,6 +15799,7 @@
       "arcade.nba.com",
       "coalition.nba.com",
       "dev.stats.2kleague.nba.com",
+      "events.bal.nba.com",
       "evergent.com",
       "leaguepass.wnba.com",
       "mindhealth.nba.com",
@@ -29487,7 +29555,8 @@
       "https://recognizeme.appslatam.com/",
       "https://skills-manager.dev.appslatam.com",
       "https://srtlatam.appslatam.com/",
-      "https://wtm.intg.appslatam.com"
+      "https://wtm.intg.appslatam.com",
+      "smcloud.appslatam.com"
     ],
     "outofscope_domains": [
       "http://dc-cert.latam.com",
@@ -52936,11 +53005,14 @@
     "inscope_domains": [
       "*.aig.co.jp",
       "*.aig.com",
+      "aig.com.br",
+      "glatfelters.com",
       "http://*.aig.ie",
       "https://mall.aig.com.cn/efapiao/",
       "services.aig.co.il",
       "wwip.aig.com",
       "www-1p.aig.com",
+      "www.aig.",
       "www.aig.co.il",
       "www.aig.com.br",
       "www.aigportal.de",
@@ -53378,22 +53450,6 @@
       "*www.marinahospital.com"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-01"
-  },
-  {
-    "name": "N45HT",
-    "program_url": "https://hackerone.com/n45ht",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "n45ht.or.id"
-    ],
-    "outofscope_domains": [
-      "Any assets not listed"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-01"
@@ -57000,24 +57056,6 @@
     "last_updated": "2026-06-01"
   },
   {
-    "name": "MariaDB",
-    "program_url": "https://hackerone.com/mariadb",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "MariaDB Server & Connectors  - Denial of Service",
-      "MariaDB Server & Connectors - Access control bypass",
-      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
-      "MariaDB Server & Connectors - Remote Code Execution",
-      "mariadb.org"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-01"
-  },
-  {
     "name": "Chaturbate",
     "program_url": "https://hackerone.com/chaturbate",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -58867,6 +58905,24 @@
       "com.quora.android",
       "com.quora.app.mobile",
       "http://poe.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

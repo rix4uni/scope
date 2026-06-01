@@ -1,4 +1,3 @@
-*.mortgagechoice.com.au
-*.demo.bp.mortgagechoice.com.au
-*.smartline.com.au
-*.mclead.com.au
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
