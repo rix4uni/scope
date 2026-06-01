@@ -1,10 +1,4 @@
-*.gamma.nl
-*.gamma.be
-*.karwei.nl
-*.intergamma.cloud
-*.intergamma.nl
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.nl
-*.werkenbijgamma.be
-*.werkenbijkarwei.nl
+*.mortgagechoice.com.au
+*.demo.bp.mortgagechoice.com.au
+*.smartline.com.au
+*.mclead.com.au

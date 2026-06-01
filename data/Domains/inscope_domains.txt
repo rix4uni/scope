@@ -745,6 +745,10 @@ realcommercial.com.au
 property.com.au
 next.flatmates.com.au
 api-next.flatmates.com.au
+developersites.com.au
+scripts.developersites.com.au
+ftp.developersites.com.au
+agent-contact.realestate.com.au
 recordedfuture.com
 tria.ge
 id.recordedfuture.com

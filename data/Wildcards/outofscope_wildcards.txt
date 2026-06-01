@@ -101,7 +101,6 @@ auth.*.latitudefinancial.com
 *.realtair.realestate.com.au
 *.agent.realcommercial.com.au
 *.email.realcommercial.com.au
-*.mortgagechoice.com.au
 *.realtair.com
 *.campaignagent.com.au
 *.simpology.com.au
@@ -115,6 +114,15 @@ auth.*.latitudefinancial.com
 *.proptrack.com
 *.spacely.com.au
 *.flatmates.com.au
+*.apps.mortgagechoice.com.au
+*.bp.mortgagechoice.com.au
+*.bpm.mortgagechoice.com.au
+*.mortgagechoice.com
+*.primeuat.mortgagechoice.com.au
+*.prime.mortgagechoice.com.au
+awverify.*.mortgagechoice.com
+*.mortgagechoice.com.au
+*.leads.developersites.com.au
 *skybroadband.com
 *skybet.com
 *skynewsarabia.com
