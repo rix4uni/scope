@@ -1852,28 +1852,6 @@
     "last_updated": "2026-06-01"
   },
   {
-    "name": "Allegro",
-    "program_url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4000",
-    "inscope_domains": [
-      "*.allegro.cz.allegrosandbox.pl",
-      "*.allegro.pl.allegrosandbox.pl",
-      "*.allegro.sk.allegrosandbox.pl"
-    ],
-    "outofscope_domains": [
-      "*.allegro.cz",
-      "*.allegro.pl",
-      "*.allegro.sk",
-      "*.allegrogroup.com",
-      "Any production website owned by Allegro not listed in Domains"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-01"
-  },
-  {
     "name": "Anaconda Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3659,6 +3637,29 @@
       "1584170510",
       "com.loyaltyworks.wavinapp",
       "*.vectus.in"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-01"
+  },
+  {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -10118,10 +10119,11 @@
       "https://help.flatmates.com.au",
       "email.flatmates.com.au",
       "https://sasinator.flatmates.com.au",
+      "*.lendingtoolkit.mortgagechoice.com.au",
       "*.apps.mortgagechoice.com.au",
       "*.bp.mortgagechoice.com.au",
       "*.bpm.mortgagechoice.com.au",
-      "*.myhub*.mortgagechoice.com",
+      "*myhub*.mortgagechoice.com.au",
       "*.primeuat.mortgagechoice.com.au",
       "*.prime.mortgagechoice.com.au",
       "awverify.*.mortgagechoice.com.au",

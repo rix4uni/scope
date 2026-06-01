@@ -1,8 +1,4 @@
 *.aikido.dev
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 *.axelspringer.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
@@ -113,6 +109,10 @@ idp-contact.nexuzhealth.be
 store.ninjakiwi.com
 support.ninjakiwi.com
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 personio.de
 personio.slack.com
 statuspage.personio.de
