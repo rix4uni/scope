@@ -2064,6 +2064,7 @@ try.nextcloud.com
 apply.starbucks.com
 athome.starbucks.com
 careers.starbucks.com
+istarbucks.co.kr
 lsstar.starbucks.com
 *.ruby-lang.org
 anomotion.com
