@@ -2175,6 +2175,7 @@ ort-desktop.pingone.com
 *.paddypower.com
 *.paddypower.it
 *.platformservices.io
+*.ppb.com
 *.ppbdev.com
 *.sbgcdn.com
 *.sbgcore.com

@@ -862,6 +862,77 @@
     "last_updated": "2026-06-02"
   },
   {
+    "name": "Infomaniak Bug Bounty program",
+    "program_url": "https://yeswehack.com/programs/infomaniak-bug-bounty-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$7000",
+    "inscope_domains": [
+      "ksuite.infomaniak.com",
+      "*.kdrive.infomaniak.com",
+      "api.infomaniak.com",
+      "login.infomaniak.com",
+      "manager.infomaniak.com/v3/*",
+      "admin2.infomaniak.com",
+      "shop.infomaniak.com",
+      "*.kchat.infomaniak.com",
+      "calendar.infomaniak.com",
+      "contacts.infomaniak.com",
+      "etickets.infomaniak.com",
+      "mail.infomaniak.com",
+      "swiss-backup*.infomaniak.com",
+      "vod.infomaniak.com",
+      "*.vod2.infomaniak.com",
+      "player-radio.infomaniak.com",
+      "welcome.infomaniak.com",
+      "www.swisstransfer.com",
+      "www.infomaniak.com",
+      "chk.infomaniak.com",
+      "ai-tools.infomaniak.com",
+      "kmeet.infomaniak.com",
+      "kpaste.infomaniak.com",
+      "sync.infomaniak.com",
+      "storage*.infomaniak.com",
+      "euria.infomaniak.com",
+      "https://play.google.com/store/apps/details?id=com.infomaniak.drive",
+      "https://apps.apple.com/app/infomaniak-kdrive/id1482778676",
+      "https://github.com/Infomaniak/desktop-kDrive",
+      "https://apps.apple.com/fr/app/infomaniak-mail/id1622596573",
+      "https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US",
+      "mail-builder.infomaniak.com/",
+      "ix2smbdyjt.infomaniak.site",
+      "5k8vrbdyje.infomaniak.site",
+      "fv3lfbdyjh.infomaniak.site",
+      "l75pvbdyjo.infomaniak.site",
+      "infomaniak.events",
+      "sms.infomaniak.com",
+      "developer.infomaniak.com",
+      "invitation.infomaniak.com",
+      "academy.infomaniak.com",
+      "newsletter.infomaniak.com",
+      "hosting-ik.com"
+    ],
+    "outofscope_domains": [
+      "Assets not listed in the in scope section are to be considered as out of the scope of this program and won't be eligible for reward",
+      "https://api.pub1.infomaniak.cloud",
+      "We do not manage Open Stack dashboard which is therefore out of scope",
+      "ov-XX.infomaniak.ch and od-XX.infomaniak.ch sub domains",
+      "This domain https://drive.infomaniak.com/app/office/:folder:/:file: is out of scope. This is only office application, an external app to open MS office documents.",
+      "FTP credentials from our customers, like *.ftp.infomaniak.com",
+      "VPS instances from our customers, like *.vps.infomaniak.com",
+      "MySQL credentials from our customers, like *.myd.infomaniak.com",
+      "Jelastic subdomains : *.jcloud.ik-server.com, *.jpc.infomaniak.com, *.jpe.infomaniak.com",
+      "User email verification",
+      "Websocket IPS-public credentials. Public identifiers that do not allow access to information outside the scope of the user's profile.",
+      "S3 credentials from our customers, like s3.pub*.infomaniak.cloud",
+      "Database service instances from customers, like *.dbaas.infomaniak.cloud",
+      "acronis.infomaniak.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-02"
+  },
+  {
     "name": "KOMOJU - Public Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/komoju-public-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -1852,6 +1923,28 @@
     "last_updated": "2026-06-02"
   },
   {
+    "name": "Allegro",
+    "program_url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4000",
+    "inscope_domains": [
+      "*.allegro.cz.allegrosandbox.pl",
+      "*.allegro.pl.allegrosandbox.pl",
+      "*.allegro.sk.allegrosandbox.pl"
+    ],
+    "outofscope_domains": [
+      "*.allegro.cz",
+      "*.allegro.pl",
+      "*.allegro.sk",
+      "*.allegrogroup.com",
+      "Any production website owned by Allegro not listed in Domains"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-02"
+  },
+  {
     "name": "Anaconda Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2215,39 +2308,6 @@
     "last_updated": "2026-06-02"
   },
   {
-    "name": "Capital.com",
-    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€15000",
-    "inscope_domains": [
-      "payment.backend-capital.com",
-      "*.backend-capital.com",
-      "capital.com/*",
-      "com.capital.trading",
-      "com.capital.trading",
-      "open-api.capital.com",
-      "*.capital.com",
-      "*.itcapital.io",
-      "aff.capital.com",
-      "go.capital.com",
-      "register.capital.com",
-      "careers.capital.com"
-    ],
-    "outofscope_domains": [
-      "*affiliates.backend-capital.com",
-      "*eduapp.backend-capital.com",
-      "*education.backend-capital.com",
-      "help.capital.com",
-      "relocate-with-us.capital.com",
-      "3cxby.itcapital.io",
-      "texis.itcapital.io"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-02"
-  },
-  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2467,6 +2527,48 @@
     ],
     "outofscope_domains": [
       "visitors.dpgmedia.be"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -3477,6 +3579,33 @@
       "forms.mobilevikings.be"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "name": "Monzo Public Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "GBP12500",
+    "inscope_domains": [
+      "*.monzo.com",
+      "*.prod-ffs.io",
+      "1052238659",
+      "co.uk.getmondo",
+      "www.monzo.com",
+      "monzo.com"
+    ],
+    "outofscope_domains": [
+      "*/p2p/*",
+      "*/contact-discovery/*",
+      "*/inbound-p2p/*",
+      "*.monzo.me",
+      "community.monzo.com",
+      "login.internal.monzo.com",
+      "monzo.me"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-02"
@@ -4692,6 +4821,41 @@
       "api-wallet-sandbox.venly.io"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "name": "Vinted - Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2300",
+    "inscope_domains": [
+      "*.vinted.net",
+      "*.vinted.com",
+      "*.vinted.fr",
+      "*.vintedgo.com",
+      "Vinted: Shop & sell pre-loved",
+      "Vinted: Shop & sell pre-loved",
+      "*sandbox*.vintedgo.com",
+      "*sandbox*.vinted.com",
+      "*old.vinted.com",
+      "*test-escalations.vintedgo.com",
+      "*badger.it.vinted.com",
+      "*careers.vinted.com",
+      "*news.vinted.com",
+      "*company.vinted.com",
+      "Scam"
+    ],
+    "outofscope_domains": [
+      "api.prod.svc.vintedpay.com",
+      "callbacks.prod.svc.vintedpay.com",
+      "*.homerr.com",
+      "*vintedpay.com",
+      "*.vinted.ca ",
+      "*.people.vinted.*"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-02"
@@ -57040,6 +57204,24 @@
     "last_updated": "2026-06-02"
   },
   {
+    "name": "MariaDB",
+    "program_url": "https://hackerone.com/mariadb",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "MariaDB Server & Connectors  - Denial of Service",
+      "MariaDB Server & Connectors - Access control bypass",
+      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
+      "MariaDB Server & Connectors - Remote Code Execution",
+      "mariadb.org"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-02"
+  },
+  {
     "name": "Chaturbate",
     "program_url": "https://hackerone.com/chaturbate",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -57319,6 +57501,7 @@
       "*.paddypower.com",
       "*.paddypower.it",
       "*.platformservices.io",
+      "*.ppb.com",
       "*.ppbdev.com",
       "*.sbgcdn.com",
       "*.sbgcore.com",

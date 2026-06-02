@@ -1,1 +1,1 @@
-https://github.com/brave/*,
+https://github.com/Infomaniak/desktop-kDrive
