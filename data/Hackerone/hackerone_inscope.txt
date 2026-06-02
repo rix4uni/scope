@@ -1155,6 +1155,7 @@ metronome.com
 metronone.com
 docs.metronome.com
 apollo.io
+signup.metronome.com
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
