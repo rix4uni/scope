@@ -598,7 +598,6 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
-*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
