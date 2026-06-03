@@ -597,6 +597,7 @@ g.*.slackhq.com
 *.doserverless-dev3.io
 *.yadifa.eu
 *.swop.com
+*.cineramabios.nl
 *.lxc.liferay.com
 *.nexuzhealth.pro
 *.vectus.in
