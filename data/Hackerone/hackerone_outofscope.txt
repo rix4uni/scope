@@ -644,6 +644,7 @@ magicpass.com.mx
 star.com
 tokyodisneyresort.jp
 unclaimedproperty.disney.com
+disneyexibidor.com.br
 enchantedfinejewelry.com
 waltdisney.org
 *.hiltonhotels.jp
@@ -914,6 +915,7 @@ ingestion-tfa-dv3.tmp-nonprd.tenna.com
 ingestion-tfa-prd.tmp-prd.tenna.com
 ingestion-tfa-qa1.tmp-nonprd.tenna.com
 ingestion-tfa-stg.tmp-prd.tenna.com
+johndeereclassic.com
 learn.tenna.com
 login.tenna.com
 monitor.k8s.us-east-1.public.demo.cloud.tenna.com
@@ -942,6 +944,7 @@ services.api.prd.cloud.tenna.com
 services.api.qa1.cloud.tenna.com
 services.api.stg.cloud.tenna.com
 services.api.us-east-1.public.prd.cloud.tenna.com
+staging.johndeereclassic.com
 stg-warehouse.nonprod.tenna.com
 stg.nonprod.tenna.com
 store.tenna.com

@@ -2326,6 +2326,39 @@
     "last_updated": "2026-06-03"
   },
   {
+    "name": "Capital.com",
+    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "payment.backend-capital.com",
+      "*.backend-capital.com",
+      "capital.com/*",
+      "com.capital.trading",
+      "com.capital.trading",
+      "open-api.capital.com",
+      "*.capital.com",
+      "*.itcapital.io",
+      "aff.capital.com",
+      "go.capital.com",
+      "register.capital.com",
+      "careers.capital.com"
+    ],
+    "outofscope_domains": [
+      "*affiliates.backend-capital.com",
+      "*eduapp.backend-capital.com",
+      "*education.backend-capital.com",
+      "help.capital.com",
+      "relocate-with-us.capital.com",
+      "3cxby.itcapital.io",
+      "texis.itcapital.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-03"
+  },
+  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -7044,6 +7077,22 @@
     "last_updated": "2026-06-03"
   },
   {
+    "name": "DevAcrobats",
+    "program_url": "https://bugcrowd.com/engagements/devacrobats-market",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1234873/user-activity-timeline-history-for-jira?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-03"
+  },
+  {
     "name": "Directly",
     "program_url": "https://bugcrowd.com/engagements/directly",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7267,31 +7316,6 @@
       "https://api-portal.etoro.com"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-03"
-  },
-  {
-    "name": "Etsy",
-    "program_url": "https://bugcrowd.com/engagements/etsy",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$10000",
-    "inscope_domains": [
-      "https://www.etsy.com",
-      "https://www.etsy.com/mobile",
-      "https://www.etsy.com/mobile",
-      "https://www.etsy.com/developers/documentation/getting_started/api_basics",
-      "https://etsypayments.com",
-      "https://blog.etsy.com",
-      "https://careers.etsy.com",
-      "https://help.etsy.com",
-      "https://community.etsy.com",
-      "*.etsy.com"
-    ],
-    "outofscope_domains": [
-      "icht.etsysecure.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-03"
@@ -8022,6 +8046,30 @@
       "https://www.designify.com",
       "https://www.kaleido.ai",
       "https://www.unscreen.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-03"
+  },
+  {
+    "name": "Kantega SSO",
+    "program_url": "https://bugcrowd.com/engagements/kantega",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira",
+      "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence",
+      "https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket",
+      "https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo",
+      "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru",
+      "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira",
+      "https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira",
+      "https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence",
+      "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -10880,6 +10928,26 @@
       "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
       "Any vulnerabilities found in Third-party software"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-03"
+  },
+  {
+    "name": "STAGIL Marketplace Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/stagil",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1213893/stagil-issue-templates-schedule-create-and-link?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1215311/stagil-assets-advanced-links-data-model-matrix-structure?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1215391/stagil-incoming-links?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1219099/stagil-tables-todo-checklists-reports-statistics?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1232798/fillchecker-timesheet-checks-and-reports-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1217026/stagil-tasks-jira-issues-tables-macro-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1211243/timetracker-time-tracking-timesheet-reporting-for-jira?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-03"
@@ -15090,6 +15158,17 @@
       "smartfood.com",
       "snacks.com",
       "sobe.com",
+      "sodastream.co.nz",
+      "sodastream.co.za",
+      "sodastream.com.ar",
+      "sodastream.com.br",
+      "sodastream.com.tw",
+      "sodastream.cz",
+      "sodastream.it",
+      "sodastream.jp",
+      "sodastream.kr",
+      "sodastream.sg",
+      "sodastreammexico.com",
       "stacyssnacks.com",
       "stubbornsoda.com",
       "sunchips.com",
@@ -28041,6 +28120,7 @@
       "star.com",
       "tokyodisneyresort.jp",
       "unclaimedproperty.disney.com",
+      "www.disneyexibidor.com.br",
       "www.enchantedfinejewelry.com",
       "www.waltdisney.org"
     ],
@@ -41243,7 +41323,6 @@
       "staging-sandbox.spark.ai",
       "staging.core.surepointag.com",
       "staging.harvestprofit.com",
-      "staging.johndeereclassic.com",
       "staging.marksman.surefireag.com",
       "staging.marksman.surepointag.com",
       "staging.pixel-patch.sentera.com",
@@ -41794,6 +41873,7 @@
       "ingestion-tfa-prd.tmp-prd.tenna.com",
       "ingestion-tfa-qa1.tmp-nonprd.tenna.com",
       "ingestion-tfa-stg.tmp-prd.tenna.com",
+      "johndeereclassic.com",
       "learn.tenna.com",
       "login.tenna.com",
       "monitor.k8s.us-east-1.public.demo.cloud.tenna.com",
@@ -41822,6 +41902,7 @@
       "services.api.qa1.cloud.tenna.com",
       "services.api.stg.cloud.tenna.com",
       "services.api.us-east-1.public.prd.cloud.tenna.com",
+      "staging.johndeereclassic.com",
       "stg-warehouse.nonprod.tenna.com",
       "stg.nonprod.tenna.com",
       "store.tenna.com",

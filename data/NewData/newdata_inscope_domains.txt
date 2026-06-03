@@ -1,5 +1,3 @@
-app.launchdarkly.com
-events.launchdarkly.com
-stream.launchdarkly.com
-docs.launchdarkly.com
-launchdarkly.com
+payment.backend-capital.com
+capital.com
+open-api.capital.com
