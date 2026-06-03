@@ -2326,39 +2326,6 @@
     "last_updated": "2026-06-03"
   },
   {
-    "name": "Capital.com",
-    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€15000",
-    "inscope_domains": [
-      "payment.backend-capital.com",
-      "*.backend-capital.com",
-      "capital.com/*",
-      "com.capital.trading",
-      "com.capital.trading",
-      "open-api.capital.com",
-      "*.capital.com",
-      "*.itcapital.io",
-      "aff.capital.com",
-      "go.capital.com",
-      "register.capital.com",
-      "careers.capital.com"
-    ],
-    "outofscope_domains": [
-      "*affiliates.backend-capital.com",
-      "*eduapp.backend-capital.com",
-      "*education.backend-capital.com",
-      "help.capital.com",
-      "relocate-with-us.capital.com",
-      "3cxby.itcapital.io",
-      "texis.itcapital.io"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-03"
-  },
-  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -7330,6 +7297,31 @@
     "last_updated": "2026-06-03"
   },
   {
+    "name": "Etsy",
+    "program_url": "https://bugcrowd.com/engagements/etsy",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$10000",
+    "inscope_domains": [
+      "https://www.etsy.com",
+      "https://www.etsy.com/mobile",
+      "https://www.etsy.com/mobile",
+      "https://www.etsy.com/developers/documentation/getting_started/api_basics",
+      "https://etsypayments.com",
+      "https://blog.etsy.com",
+      "https://careers.etsy.com",
+      "https://help.etsy.com",
+      "https://community.etsy.com",
+      "*.etsy.com"
+    ],
+    "outofscope_domains": [
+      "icht.etsysecure.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-03"
+  },
+  {
     "name": "Felix Health Managed Bug Bounty Engagement",
     "program_url": "https://bugcrowd.com/engagements/felix-health-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -8266,6 +8258,32 @@
       "https://t.latitudefinancial.com/*",
       "https://p.latitudefinancial.com",
       "https://payments.latitudefinancial.com/hosted/*,https://payments.latitudefinancial.com/embed/*,https://payments-api.latitudefinancial.com/*"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-03"
+  },
+  {
+    "name": "LaunchDarkly Managed Bug Bounty Engagement",
+    "program_url": "https://bugcrowd.com/engagements/launchdarkly-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$7500",
+    "inscope_domains": [
+      "app.launchdarkly.com",
+      "events.launchdarkly.com",
+      "stream.launchdarkly.com",
+      "LaunchDarkly Open Source SDKs",
+      "docs.launchdarkly.com",
+      "https://launchdarkly.com/docs"
+    ],
+    "outofscope_domains": [
+      "blog.launchdarkly.com",
+      "launchdarkly.com",
+      "sandbox.launchdarkly.com",
+      "slack.launchdarkly.com",
+      "status.launchdarkly.com",
+      "https://launchdarkly.atlassian.net"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -10862,26 +10880,6 @@
       "https://itunes.apple.com/us/app/cash-app/id711923939?mt=8",
       "Any vulnerabilities found in Third-party software"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-03"
-  },
-  {
-    "name": "STAGIL Marketplace Bug Bounty",
-    "program_url": "https://bugcrowd.com/engagements/stagil",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$1500",
-    "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1213893/stagil-issue-templates-schedule-create-and-link?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1215311/stagil-assets-advanced-links-data-model-matrix-structure?tab=overview&hosting=cloud",
-      "https://marketplace.atlassian.com/apps/1215391/stagil-incoming-links?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1219099/stagil-tables-todo-checklists-reports-statistics?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1232798/fillchecker-timesheet-checks-and-reports-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1217026/stagil-tasks-jira-issues-tables-macro-for-confluence?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1211243/timetracker-time-tracking-timesheet-reporting-for-jira?hosting=cloud&tab=overview"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-03"
@@ -47731,7 +47729,6 @@
       "mergepermissionsmanagement.cbre.com",
       "metabase.dealiq.cbre.com",
       "metrics.trammellcrow.com",
-      "metview.cbre.com",
       "mexico.preview.cbre.com",
       "mfa.cbre.com",
       "mfadr.cbre.com",
@@ -51580,7 +51577,6 @@
       "www.media.h2m.se",
       "www.media1.h2m.se",
       "www.meet.cbre.at",
-      "www.metview.cbre.com",
       "www.mfa.cbre.com",
       "www.michaelhorwitz.com",
       "www.mobicontrol.cbre.com",

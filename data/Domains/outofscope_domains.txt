@@ -246,6 +246,12 @@ t.latitudefinancial.com
 p.latitudefinancial.com
 payments.latitudefinancial.com
 payments-api.latitudefinancial.com
+blog.launchdarkly.com
+launchdarkly.com
+sandbox.launchdarkly.com
+slack.launchdarkly.com
+status.launchdarkly.com
+launchdarkly.atlassian.net
 lightspeedhq.com
 pos-admin.trial.lsk.lightspeed.app
 x-series-support.lightspeedhq.com
@@ -2707,10 +2713,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es

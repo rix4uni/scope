@@ -1028,9 +1028,6 @@ ic3.*.indriverapp.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1676,6 +1673,11 @@ latitudeinfinity.com.au
 umiloans.com.au
 images.latitudepayapps.com
 app.latitudepayapps.com
+app.launchdarkly.com
+events.launchdarkly.com
+stream.launchdarkly.com
+docs.launchdarkly.com
+launchdarkly.com
 legacy-blockexplorer.electroneum.com
 manager.trial.lsk.lightspeed.app
 hq.breadcrumb.com
@@ -4880,9 +4882,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-capital.com
-open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
