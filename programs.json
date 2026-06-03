@@ -7797,6 +7797,20 @@
     "last_updated": "2026-06-03"
   },
   {
+    "name": "Inprowiser Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/inprowiser",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1218151/capacity-tracker?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-03"
+  },
+  {
     "name": "Intercom",
     "program_url": "https://bugcrowd.com/engagements/intercom",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10447,6 +10461,26 @@
       "bugbounty-refined-test-<bugcrowd-name>.refined.site\t",
       "https://marketplace.atlassian.com/apps/1236998/refined-ui-toolkit-for-confluence-page-builder-navigation?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1211136/refined-macro-toolkit-content-formatting-macros?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-03"
+  },
+  {
+    "name": "Release Management (by Y2 ENGR)",
+    "program_url": "https://bugcrowd.com/engagements/releasemanagement",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1221946/release-management-roadmap-jira-cloud?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223487/gadgets-for-release-management-roadmap?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223487/gadgets-for-release-management-roadmap?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223487/gadgets-for-release-management-roadmap?hosting=server&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223877/advanced-agile-boards?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1222474/work-status-time-tracking-calendar-for-jira?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1228657/easy-peasy-roadmap-for-jira?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -29879,7 +29913,6 @@
       "*.cvsltc.reflexisinc.com",
       "*.dnacloud.zebra.com",
       "*.elotouch.com",
-      "*.fetchcore-cloud.com",
       "*.hartsystems.com",
       "*.jpmc.reflexisinc.com",
       "*.knlbobs.reflexisinc.com/mywork",
@@ -29930,6 +29963,7 @@
       "zebrasoftware.com"
     ],
     "outofscope_domains": [
+      "*.fetchcore-cloud.com",
       "*.mobicontrolcloud.com",
       "*.profitect.com",
       "*.rwsofficedepot.reflexisinc.com",

@@ -824,6 +824,7 @@ jbdealsfeed-stgnew.jetblue.com
 oe.travelproducts.jetblue.com
 prod.travelproducts.jetblue.com
 travelproducts.jetblue.com
+*.fetchcore-cloud.com
 *.mobicontrolcloud.com
 *.profitect.com
 *.rwsofficedepot.reflexisinc.com

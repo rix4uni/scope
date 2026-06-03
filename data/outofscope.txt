@@ -346,6 +346,7 @@ bus.*.indrive.com
 *.neweggbusiness.com
 *.fastly.net
 *.krisp.ai
+*.fetchcore-cloud.com
 *.mobicontrolcloud.com
 *.profitect.com
 *.rwsofficedepot.reflexisinc.com
