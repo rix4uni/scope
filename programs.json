@@ -1923,28 +1923,6 @@
     "last_updated": "2026-06-04"
   },
   {
-    "name": "Allegro",
-    "program_url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4000",
-    "inscope_domains": [
-      "*.allegro.cz.allegrosandbox.pl",
-      "*.allegro.pl.allegrosandbox.pl",
-      "*.allegro.sk.allegrosandbox.pl"
-    ],
-    "outofscope_domains": [
-      "*.allegro.cz",
-      "*.allegro.pl",
-      "*.allegro.sk",
-      "*.allegrogroup.com",
-      "Any production website owned by Allegro not listed in Domains"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-04"
-  },
-  {
     "name": "Altera",
     "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2326,6 +2304,39 @@
     "last_updated": "2026-06-04"
   },
   {
+    "name": "Capital.com",
+    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "payment.backend-capital.com",
+      "*.backend-capital.com",
+      "capital.com/*",
+      "com.capital.trading",
+      "com.capital.trading",
+      "open-api.capital.com",
+      "*.capital.com",
+      "*.itcapital.io",
+      "aff.capital.com",
+      "go.capital.com",
+      "register.capital.com",
+      "careers.capital.com"
+    ],
+    "outofscope_domains": [
+      "*affiliates.backend-capital.com",
+      "*eduapp.backend-capital.com",
+      "*education.backend-capital.com",
+      "help.capital.com",
+      "relocate-with-us.capital.com",
+      "3cxby.itcapital.io",
+      "texis.itcapital.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-04"
+  },
+  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2629,38 +2640,6 @@
       "www.volkskrant.nl",
       "www.volkskrant.nl/abonnementen",
       "*.volkskrant.nl"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-04"
-  },
-  {
-    "name": "Delen Private Bank",
-    "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€15000",
-    "inscope_domains": [
-      "api.digital.delen.be ",
-      "api.digital.delen.lu ",
-      "app.delen.be ",
-      "app.delen.ch ",
-      "app.delen.lu ",
-      "auth.digital.delen.be ",
-      "auth.digital.delen.lu ",
-      "be.delen.digital",
-      "delen/id1064839588",
-      "login.delen.be ",
-      "login.delen.ch ",
-      "login.delen.lu ",
-      "login.oyens.com",
-      "status.delen.be ",
-      "sts.delen.be ",
-      "www.cadelam.be ",
-      "www.cadelux.lu/en ",
-      "www.delen.bank",
-      "www.delen.be/en "
     ],
     "outofscope_domains": [],
     "issues_reported": [],
