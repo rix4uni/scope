@@ -20222,14 +20222,14 @@
       "Mac OS Executable",
       "OKX Android APK",
       "OKX Wallet Chrome Extension",
-      "OKX Wallet Core Open Source",
       "OKX Wallet Edge Add-ons",
       "OKX Wallet Safari Extension",
       "OKX iOS APP",
       "Windows OS Executable"
     ],
     "outofscope_domains": [
-      "*.okg.com"
+      "*.okg.com",
+      "https://github.com/okx"
     ],
     "issues_reported": [],
     "scamhit": "",
