@@ -112,7 +112,6 @@ casino.*.betmgm.com
 *.thuisbezorgd.nl
 *.takeaway.com
 *.skipthedishes.com
-*.just-eat.dk
 *.lieferando.de
 *.pyszne.pl
 *.bistro.sk
@@ -121,14 +120,15 @@ casino.*.betmgm.com
 *.just-eat.ch
 *.10bis.co.il
 *.scoober.com
+*.jet-external.com
 *.just-eat.com
 *.skippayments.com
-*.justeattakeaway.com
 *.just-eat.io
+*.just-eat.co.il
+*.justeattakeaway.com
 *.justeat-int.com
 *.yourdelivery.de
 *.just-data.io
-*.jet-external.com
 *.remove.bg
 *.designify.com
 *.kaleido.ai
@@ -1101,6 +1101,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
