@@ -1,3 +1,1 @@
-*.just-eat.co.il
-*.monzo.com
-*.prod-ffs.io
+*.datacamp.com

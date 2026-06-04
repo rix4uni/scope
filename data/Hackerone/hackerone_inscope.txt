@@ -1081,10 +1081,7 @@ auction-service.whatnot.com
 live-service.whatnot.com
 whatnot.com
 accounts.khealth.com
-ai.kanghealth
 api.khealth.com
-app.khealth.com
-kaccount.khealth.com
 ask.khealth.com
 auth.hhc247.org
 eligibility.khealth.com
@@ -1092,11 +1089,9 @@ auth.khealth.com
 clinical-quality.khealth.com
 *.khealth.com
 *.khealth.io
+kaccount.khealth.com
 org.hartfordhealthcare.hhc
-salesforce.khealth.com
-start.khealth.com
 treatments.khealth.com
-kpharmacyllc.com
 api.smtp2go.com
 apidoc.smtp2go.com
 app.smtp2go.com
