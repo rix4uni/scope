@@ -1923,6 +1923,28 @@
     "last_updated": "2026-06-05"
   },
   {
+    "name": "Allegro",
+    "program_url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4000",
+    "inscope_domains": [
+      "*.allegro.cz.allegrosandbox.pl",
+      "*.allegro.pl.allegrosandbox.pl",
+      "*.allegro.sk.allegrosandbox.pl"
+    ],
+    "outofscope_domains": [
+      "*.allegro.cz",
+      "*.allegro.pl",
+      "*.allegro.sk",
+      "*.allegrogroup.com",
+      "Any production website owned by Allegro not listed in Domains"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-05"
+  },
+  {
     "name": "Altera",
     "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2523,6 +2545,48 @@
     ],
     "outofscope_domains": [
       "visitors.dpgmedia.be"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -3443,33 +3507,6 @@
       "forms.mobilevikings.be"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-05"
-  },
-  {
-    "name": "Monzo Public Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "GBP12500",
-    "inscope_domains": [
-      "*.monzo.com",
-      "*.prod-ffs.io",
-      "1052238659",
-      "co.uk.getmondo",
-      "www.monzo.com",
-      "monzo.com"
-    ],
-    "outofscope_domains": [
-      "*/p2p/*",
-      "*/contact-discovery/*",
-      "*/inbound-p2p/*",
-      "*.monzo.me",
-      "community.monzo.com",
-      "login.internal.monzo.com",
-      "monzo.me"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-05"
@@ -19736,6 +19773,7 @@
       "cloud.havelockone.com",
       "cloudconnect.havelockone.com",
       "com.chipotle.mena",
+      "com.starbucks.tr",
       "coms.carrier.alshaya.com",
       "comsuat.carrier.alshaya.com",
       "customercare.alshaya.com",
@@ -19769,6 +19807,7 @@
       "sa.hm.com",
       "sa.shopjustice.me",
       "sbuxopsassist.shaya.com.tr",
+      "starbucks-t%C3%BCrkiye/id1100698915?l=tr",
       "starbucks.az",
       "suppliertraining.alshaya.com",
       "victoriassecret.cz",
