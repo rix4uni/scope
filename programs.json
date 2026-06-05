@@ -6710,7 +6710,8 @@
       "Cisco Meraki MS Switches",
       "Cisco Meraki MR Access Points",
       "Cisco Meraki MV Smart Cameras",
-      "Cisco Meraki MG Fixed Wireless Access Devices"
+      "Cisco Meraki MG Fixed Wireless Access Devices",
+      "https://ops-portal.sandbox.meraki.com/"
     ],
     "outofscope_domains": [
       "merakipartners.com",
@@ -49113,6 +49114,7 @@
       "resume.gallileo-frankfurt.com",
       "retail-rent.cbre.es",
       "retail.cbre.com",
+      "retailinsights-cbrekorea.com",
       "retailinvestments.com.au",
       "retailproperties.cbre.us",
       "retailtxok.cbre.us",
@@ -60140,6 +60142,7 @@
       "*.shopifycloud.com",
       "*.shopifycs.com",
       "*.shopifykloud.com",
+      "Identity",
       "Shopify Developed Apps",
       "Shopify Mobile Applications",
       "Shopify Third Party Apps",
