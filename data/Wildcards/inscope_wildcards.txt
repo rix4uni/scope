@@ -1028,6 +1028,9 @@ ic3.*.indriverapp.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1095,10 +1098,6 @@ ic3.*.indriverapp.com
 *.marionnaud.cz
 *.marionnaud.ro
 *.marionnaud.sk
-*.mas.mobilevikings.be
-*.mobilevikings.be
-*.prd-pub.mobilevikings.be
-*.prd.mobilevikings.be
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
