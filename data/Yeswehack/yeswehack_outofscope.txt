@@ -154,6 +154,7 @@ keycloak.apps.otto.de
 help-okto.sprinklr.com
 checkout-service.paddle.com
 buy.paddle.com
+poc-op-ywh.it.authentification.si.gouv.qc.ca
 sogexia.com
 support.sogexia.com
 sogexiaclub.com
