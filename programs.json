@@ -926,7 +926,8 @@
       "Websocket IPS-public credentials. Public identifiers that do not allow access to information outside the scope of the user's profile.",
       "S3 credentials from our customers, like s3.pub*.infomaniak.cloud",
       "Database service instances from customers, like *.dbaas.infomaniak.cloud",
-      "acronis.infomaniak.com"
+      "acronis.infomaniak.com",
+      "partner program : pages about finding partner and sending offer"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -2629,6 +2630,38 @@
       "www.volkskrant.nl",
       "www.volkskrant.nl/abonnementen",
       "*.volkskrant.nl"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-05"
+  },
+  {
+    "name": "Delen Private Bank",
+    "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "api.digital.delen.be ",
+      "api.digital.delen.lu ",
+      "app.delen.be ",
+      "app.delen.ch ",
+      "app.delen.lu ",
+      "auth.digital.delen.be ",
+      "auth.digital.delen.lu ",
+      "be.delen.digital",
+      "delen/id1064839588",
+      "login.delen.be ",
+      "login.delen.ch ",
+      "login.delen.lu ",
+      "login.oyens.com",
+      "status.delen.be ",
+      "sts.delen.be ",
+      "www.cadelam.be ",
+      "www.cadelux.lu/en ",
+      "www.delen.bank",
+      "www.delen.be/en "
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -59268,7 +59301,9 @@
       "pay.ibex.exchange",
       "pwapi.ex2b.com"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "stat.* (e.g. stat.exnessaffiliates.com)"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-05"

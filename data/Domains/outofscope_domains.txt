@@ -2395,6 +2395,7 @@ uptime.rubygems.org
 developers.files.com
 mail.files.com
 status.files.com
+stat.exnessaffiliates.com
 wordpress.com
 status.wordpress.org
 glotpress.blog
