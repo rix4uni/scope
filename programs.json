@@ -1926,28 +1926,6 @@
     "last_updated": "2026-06-06"
   },
   {
-    "name": "Allegro",
-    "program_url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4000",
-    "inscope_domains": [
-      "*.allegro.cz.allegrosandbox.pl",
-      "*.allegro.pl.allegrosandbox.pl",
-      "*.allegro.sk.allegrosandbox.pl"
-    ],
-    "outofscope_domains": [
-      "*.allegro.cz",
-      "*.allegro.pl",
-      "*.allegro.sk",
-      "*.allegrogroup.com",
-      "Any production website owned by Allegro not listed in Domains"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-06"
-  },
-  {
     "name": "Altera",
     "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3541,34 +3519,6 @@
     "last_updated": "2026-06-06"
   },
   {
-    "name": "Nexuzhealth",
-    "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "be.nexuzhealth.mobile.cpv",
-      "be.nexuzhealth.mobile.kws",
-      "be.nexuzhealth.mobile.mynexuz",
-      "kws-companion/id1342124012",
-      "mynexuz.be",
-      "mynexuzhealth/id1459856321",
-      "liquidfiles.nexuzhealth.com",
-      "*.nexuzhealth.*"
-    ],
-    "outofscope_domains": [
-      "pro.nexuzhealth.hn",
-      "nexuzhealth.atlassian.net",
-      "nexuzhealth-pro/id1623165353",
-      "media.nexuzhealth.be",
-      "idp-contact.nexuzhealth.be",
-      "*.nexuzhealth.pro"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-06"
-  },
-  {
     "name": "Nexuzhealth VDP",
     "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4680,41 +4630,6 @@
       "api-wallet-sandbox.venly.io"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-06"
-  },
-  {
-    "name": "Vinted - Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2300",
-    "inscope_domains": [
-      "*.vinted.net",
-      "*.vinted.com",
-      "*.vinted.fr",
-      "*.vintedgo.com",
-      "Vinted: Shop & sell pre-loved",
-      "Vinted: Shop & sell pre-loved",
-      "*sandbox*.vintedgo.com",
-      "*sandbox*.vinted.com",
-      "*old.vinted.com",
-      "*test-escalations.vintedgo.com",
-      "*badger.it.vinted.com",
-      "*careers.vinted.com",
-      "*news.vinted.com",
-      "*company.vinted.com",
-      "Scam"
-    ],
-    "outofscope_domains": [
-      "api.prod.svc.vintedpay.com",
-      "callbacks.prod.svc.vintedpay.com",
-      "*.homerr.com",
-      "*vintedpay.com",
-      "*.vinted.ca ",
-      "*.people.vinted.*"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-06"

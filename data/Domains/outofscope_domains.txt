@@ -2792,10 +2792,6 @@ libelle.nl
 login.liferay.com
 docs.moralis.io
 status.moralis.io
-pro.nexuzhealth.hn
-nexuzhealth.atlassian.net
-media.nexuzhealth.be
-idp-contact.nexuzhealth.be
 store.ninjakiwi.com
 support.ninjakiwi.com
 personio.de
@@ -2856,8 +2852,6 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
-api.prod.svc.vintedpay.com
-callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

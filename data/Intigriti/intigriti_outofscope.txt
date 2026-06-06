@@ -1,8 +1,4 @@
 *.aikido.dev
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 *.axelspringer.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
@@ -106,11 +102,6 @@ libelle.nl
 login.liferay.com
 docs.moralis.io
 status.moralis.io
-pro.nexuzhealth.hn
-nexuzhealth.atlassian.net
-media.nexuzhealth.be
-idp-contact.nexuzhealth.be
-*.nexuzhealth.pro
 store.ninjakiwi.com
 support.ninjakiwi.com
 *.vectus.in
@@ -196,12 +187,6 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
-api.prod.svc.vintedpay.com
-callbacks.prod.svc.vintedpay.com
-*.homerr.com
-*vintedpay.com
-*.vinted.ca
-*.people.vinted
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
