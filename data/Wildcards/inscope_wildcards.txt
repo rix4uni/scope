@@ -1111,7 +1111,6 @@ ic3.*.indriverapp.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
-*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch

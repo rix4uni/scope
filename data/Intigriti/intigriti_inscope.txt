@@ -379,10 +379,6 @@ quadcode.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
-access.ripe.net
-github.com
-lirportal.ripe.net
-*.ripe.net
 business.rivian.com
 rivian.com
 *.rivian.com
@@ -509,6 +505,7 @@ docs.api.enterprise.uphold.com
 docs.optimuscards.com
 docs.topperpay.com
 docs.uphold.com
+github.com
 status.uphold.com
 support-sandbox.uphold.com
 support-staging.topperpay.com
