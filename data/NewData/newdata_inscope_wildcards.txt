@@ -1,9 +1,3 @@
-*.csconnect.org
-*.hhc247.org
-*.hmh247.org
-*.khealth-test.com
-*.mgbcareconnect.org
-*.northwellprimarycarenow.com
-*.novanthealthvirtualprimarycare.org
-*.pennmedicine.connect-visit.com
-*.primarycareondemand.mayoclinic.org
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl

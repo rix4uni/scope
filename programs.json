@@ -1926,6 +1926,28 @@
     "last_updated": "2026-06-06"
   },
   {
+    "name": "Allegro",
+    "program_url": "https://www.intigriti.com/programs/allegro/allegrobugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4000",
+    "inscope_domains": [
+      "*.allegro.cz.allegrosandbox.pl",
+      "*.allegro.pl.allegrosandbox.pl",
+      "*.allegro.sk.allegrosandbox.pl"
+    ],
+    "outofscope_domains": [
+      "*.allegro.cz",
+      "*.allegro.pl",
+      "*.allegro.sk",
+      "*.allegrogroup.com",
+      "Any production website owned by Allegro not listed in Domains"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-06"
+  },
+  {
     "name": "Altera",
     "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
