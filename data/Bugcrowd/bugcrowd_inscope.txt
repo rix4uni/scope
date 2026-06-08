@@ -170,7 +170,6 @@ services.chipotle.com
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
-ops-portal.sandbox.meraki.com
 wien.gv.at
 *.wien.gv.at
 *.magwien.gv.at
