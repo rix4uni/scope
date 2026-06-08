@@ -412,6 +412,8 @@ thebodyshop.cz
 *.truist.com
 truist.com
 *.sixidmobile.com
+providerhub.six-group.com
+six-structured-products.com
 saferpay.com
 gnltn.com
 ldry.com
@@ -470,6 +472,7 @@ staging.dicey.com
 *.prudentialagf.cl
 *.prudentialplc.com
 afphabitat.cl
+brand.prudential.com
 pramericalife.in
 prudentialagf.cl
 analytics.boozt.com
@@ -2298,6 +2301,7 @@ priceline.com
 *.ubertransit.io
 *scaledsolutions.uber.com
 bizblog.uber.com
+central-beta.uber.com
 drive.uber.com
 eng.uber.com
 et.uber.com

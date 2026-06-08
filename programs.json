@@ -2277,6 +2277,39 @@
     "last_updated": "2026-06-08"
   },
   {
+    "name": "CM.com",
+    "program_url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "login.cm.com",
+      "*.ticketing.cm.com",
+      "api.cm.com",
+      "api.cmtelecom.com",
+      "cm.com/[locale]/app/*",
+      "cm.com/[locale]/register",
+      "appmiral.com",
+      "building-blocks.com",
+      "cm.com/app/messagingtrial/",
+      "cmcom.atlassian.net",
+      "www.cm.com",
+      "*.appmiral.com",
+      "*.cm.com",
+      "*.cmtelecom.com",
+      "1199521324",
+      "1579530451",
+      "com.cm.cashregister",
+      "com.ticketflow.ticketscanner",
+      "demo.globalticket.com/*",
+      "https://github.com/cmdotcom"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
     "name": "Canada Post - Responsible Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/innovapost/innovapost/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2554,6 +2587,48 @@
     "last_updated": "2026-06-08"
   },
   {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2793,6 +2868,25 @@
     ],
     "outofscope_domains": [
       "Third-party systems or domains referencing Dropbox"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "name": "Dstny",
+    "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2425",
+    "inscope_domains": [
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238"
+    ],
+    "outofscope_domains": [
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -3280,6 +3374,37 @@
     "last_updated": "2026-06-08"
   },
   {
+    "name": "Lansweeper Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "Lansweeper Discovery",
+      "app.lansweeper.com",
+      "fb.lansweeper.com",
+      "edge.lansweeper.com",
+      "api.lansweeper.com",
+      "backoffice.lansweeper.com",
+      "https://lsagentrelay.lansweeper.com/",
+      "app.lansweeper.com/trial",
+      "autoupdateapi.lansweeper.com",
+      "docs.lansweeper.com",
+      "login.lansweeper.com",
+      "on-premises software",
+      "www.lansweeper.com",
+      "*.lansweeper.com"
+    ],
+    "outofscope_domains": [
+      " lsrunase2.0 and lsencrypt2.0 ",
+      "careers.lansweeper.com",
+      "www.lansweeper.com/forum"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
     "name": "Libelle",
     "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3424,6 +3549,33 @@
     "last_updated": "2026-06-08"
   },
   {
+    "name": "Monzo Public Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "GBP12500",
+    "inscope_domains": [
+      "*.monzo.com",
+      "*.prod-ffs.io",
+      "1052238659",
+      "co.uk.getmondo",
+      "www.monzo.com",
+      "monzo.com"
+    ],
+    "outofscope_domains": [
+      "*/p2p/*",
+      "*/contact-discovery/*",
+      "*/inbound-p2p/*",
+      "*.monzo.me",
+      "community.monzo.com",
+      "login.internal.monzo.com",
+      "monzo.me"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
     "name": "Moralis VDP",
     "program_url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3475,6 +3627,34 @@
       "*.nestle.com"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "name": "Nexuzhealth",
+    "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "be.nexuzhealth.mobile.cpv",
+      "be.nexuzhealth.mobile.kws",
+      "be.nexuzhealth.mobile.mynexuz",
+      "kws-companion/id1342124012",
+      "mynexuz.be",
+      "mynexuzhealth/id1459856321",
+      "liquidfiles.nexuzhealth.com",
+      "*.nexuzhealth.*"
+    ],
+    "outofscope_domains": [
+      "pro.nexuzhealth.hn",
+      "nexuzhealth.atlassian.net",
+      "nexuzhealth-pro/id1623165353",
+      "media.nexuzhealth.be",
+      "idp-contact.nexuzhealth.be",
+      "*.nexuzhealth.pro"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-08"
@@ -3975,6 +4155,27 @@
     "last_updated": "2026-06-08"
   },
   {
+    "name": "Sqills",
+    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "*.sqills.com",
+      "*.sqills.team"
+    ],
+    "outofscope_domains": [
+      "*.red.sqills.team",
+      "booking.*.cloud.sqills.com",
+      "booking.*.sqills.com",
+      "careers.sqills.com",
+      "welcome.sqills.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
     "name": "Storebrand Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4222,6 +4423,66 @@
       "trouw.nl/registreren",
       "trouw.nl/service",
       "abonnement.trouw.nl"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "name": "TrueLayer",
+    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "api.truelayer[-sandbox].com",
+      "api.mtls.truelayer[-sandbox].com",
+      "auth.truelayer[-sandbox].com",
+      "auth.mtls.truelayer[-sandbox].com",
+      "app.truelayer[-sandbox].com",
+      "login-api.truelayer[-sandbox].com",
+      "login.truelayer[-sandbox].com",
+      "onboarding-api.truelayer.com",
+      "pay-api.truelayer[-sandbox].com",
+      "pay.truelayer[-sandbox].com",
+      "paydirect.truelayer[-sandbox].com",
+      "payment.truelayer[-sandbox].com",
+      "payments-experience-api.truelayer[-sandbox].com",
+      "user-authentication-api.truelayer[-sandbox].com",
+      "users-api.truelayer.com",
+      "C# SDK",
+      "console-backend.truelayer[-sandbox].com",
+      "console.truelayer[-sandbox].com",
+      "sftp.reports.truelayer.com",
+      "Java SDK",
+      "PHP SDK",
+      "TrueLayer for Magento (Magento plugin)",
+      "TrueLayer for WooCommerce (WordPress plugin)",
+      "shopify-admin.truelayer.com",
+      "shop-pay-app-api.truelayer.com",
+      "truelayer-signing",
+      "webhooks.truelayer[-sandbox].com",
+      "*.truelayer.cloud",
+      "*.truelayer.com",
+      "*.truelayer.io",
+      "iOS SDK",
+      "React Native SDK",
+      "Web SDK",
+      "Rust SDK"
+    ],
+    "outofscope_domains": [
+      "trust.truelayer.com",
+      "banks.truelayer.com",
+      "careers.truelayer.com",
+      "docs.truelayer.com",
+      "docs.houston.truelayer.com",
+      "https://truelayer.com/contact/",
+      "index.truelayer.com",
+      "info.truelayer.com",
+      "signin.truelayer.com",
+      "support.truelayer.com",
+      "status.truelayer.com",
+      "truelayer.zendesk.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -4515,6 +4776,41 @@
       "api-wallet-sandbox.venly.io"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
+    "name": "Vinted - Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2300",
+    "inscope_domains": [
+      "*.vinted.net",
+      "*.vinted.com",
+      "*.vinted.fr",
+      "*.vintedgo.com",
+      "Vinted: Shop & sell pre-loved",
+      "Vinted: Shop & sell pre-loved",
+      "*sandbox*.vintedgo.com",
+      "*sandbox*.vinted.com",
+      "*old.vinted.com",
+      "*test-escalations.vintedgo.com",
+      "*badger.it.vinted.com",
+      "*careers.vinted.com",
+      "*news.vinted.com",
+      "*company.vinted.com",
+      "Scam"
+    ],
+    "outofscope_domains": [
+      "api.prod.svc.vintedpay.com",
+      "callbacks.prod.svc.vintedpay.com",
+      "*.homerr.com",
+      "*vintedpay.com",
+      "*.vinted.ca ",
+      "*.people.vinted.*"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-08"
@@ -19731,6 +20027,8 @@
       "193.109.229.71",
       "194.98.112.0/24",
       "213.41.106.0/24",
+      "https://providerhub.six-group.com/",
+      "https://www.six-structured-products.com/",
       "saferpay.com"
     ],
     "issues_reported": [],
@@ -20135,6 +20433,7 @@
       "*.prudentialplc.com",
       "Prudential Joint Ventures",
       "afphabitat.cl",
+      "brand.prudential.com",
       "pramericalife.in",
       "prudentialagf.cl"
     ],
@@ -58875,6 +59174,24 @@
     "last_updated": "2026-06-08"
   },
   {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-08"
+  },
+  {
     "name": "PortSwigger Web Security",
     "program_url": "https://hackerone.com/portswigger",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -60373,6 +60690,7 @@
       "*scaledsolutions.uber.com",
       "Fraud Reports",
       "bizblog.uber.com",
+      "central-beta.uber.com",
       "drive.uber.com",
       "eng.uber.com",
       "et.uber.com",
