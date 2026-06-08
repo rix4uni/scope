@@ -2764,6 +2764,7 @@
       "*.ondigitalocean.app",
       "registry.digitalocean.com/*",
       "*.doserverless-dev3.io",
+      "*.ondbaasdev.com",
       "Assets created by other DigitalOcean customers",
       "Marketplace Apps and Add-Ons",
       "Other DigitalOcean open source projects not listed"
@@ -18153,7 +18154,9 @@
       "secure.unico.io",
       "unico.io"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "uconf.uat.unico.app"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-08"

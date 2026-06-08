@@ -597,6 +597,7 @@ g.*.slackhq.com
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
 *.doserverless-dev3.io
+*.ondbaasdev.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com

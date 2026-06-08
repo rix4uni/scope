@@ -316,6 +316,7 @@ app.klarna.com
 jobs.pricerunner.com
 locker.klarna.com
 nuji.com
+uconf.uat.unico.app
 docs.wallet.tg
 toncenter.walletbot.me
 wallet.helpscoutdocs.com

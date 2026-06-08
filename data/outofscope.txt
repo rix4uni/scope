@@ -597,6 +597,7 @@ g.*.slackhq.com
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
 *.doserverless-dev3.io
+*.ondbaasdev.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
@@ -1582,6 +1583,7 @@ app.klarna.com
 jobs.pricerunner.com
 locker.klarna.com
 nuji.com
+uconf.uat.unico.app
 docs.wallet.tg
 toncenter.walletbot.me
 wallet.helpscoutdocs.com
