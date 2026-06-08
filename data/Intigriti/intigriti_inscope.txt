@@ -55,6 +55,12 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
+payment.backend-capital.com
+*.backend-capital.com
+capital.com
+open-api.capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
@@ -368,6 +374,10 @@ quadcode.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
+access.ripe.net
+github.com
+lirportal.ripe.net
+*.ripe.net
 business.rivian.com
 rivian.com
 *.rivian.com
@@ -494,7 +504,6 @@ docs.api.enterprise.uphold.com
 docs.optimuscards.com
 docs.topperpay.com
 docs.uphold.com
-github.com
 status.uphold.com
 support-sandbox.uphold.com
 support-staging.topperpay.com

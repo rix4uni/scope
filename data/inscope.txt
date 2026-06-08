@@ -1037,6 +1037,9 @@ ic3.*.indriverapp.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.bmc.nl
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1111,6 +1114,7 @@ ic3.*.indriverapp.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
+*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
@@ -4813,6 +4817,9 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -5052,6 +5059,8 @@ quadcode.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
+access.ripe.net
+lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com

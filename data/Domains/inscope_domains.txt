@@ -3544,6 +3544,9 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -3783,6 +3786,8 @@ quadcode.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
+access.ripe.net
+lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
