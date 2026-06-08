@@ -1310,7 +1310,6 @@
       "https://trm.pinelabs.ae",
       "https://www.letspaylater.ph",
       "https://credit.pinelabs.com",
-      "https://plmcixt.pinelabs.com",
       "https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz",
       "https://emistores.pinelabs.com",
       "https://www.pinelabs.com",
@@ -52326,6 +52325,7 @@
     "reward": "$$$",
     "inscope_domains": [
       "*.pipopay.com",
+      "*.soundon.global",
       "*.tiktok.com",
       "*.tiktokcdn.com",
       "*.tiktokpublishers.com",
@@ -52363,6 +52363,7 @@
       "tiktok.com",
       "tiktokdata-us-open.tiktokw.us",
       "www.pangleglobal.com",
+      "www.soundon.global",
       "www.soundonw.us"
     ],
     "outofscope_domains": [

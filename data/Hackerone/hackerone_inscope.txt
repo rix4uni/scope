@@ -1262,6 +1262,7 @@ voapi-uk.8x8.com
 work-staging.8x8.com
 work.8x8.com
 *.pipopay.com
+*.soundon.global
 *.tiktok.com
 *.tiktokcdn.com
 *.tiktokpublishers.com
@@ -1288,6 +1289,7 @@ starling-ttp.lemon8-app.us
 tiktok.com
 tiktokdata-us-open.tiktokw.us
 pangleglobal.com
+soundon.global
 soundonw.us
 api-gateway.polygon.technology
 api-polygon-tokens.polygon.technology

@@ -2125,6 +2125,7 @@ starling-ttp.lemon8-app.us
 tiktok.com
 tiktokdata-us-open.tiktokw.us
 pangleglobal.com
+soundon.global
 soundonw.us
 api-gateway.polygon.technology
 api-polygon-tokens.polygon.technology
@@ -4302,7 +4303,6 @@ trm.pinepaymentsolutions.com
 trm.pinelabs.ae
 letspaylater.ph
 credit.pinelabs.com
-plmcixt.pinelabs.com
 emistores.pinelabs.com
 pinelabs.com
 pinelabs.my

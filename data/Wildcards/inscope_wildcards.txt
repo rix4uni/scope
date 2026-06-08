@@ -521,6 +521,7 @@ ic3.*.indriverapp.com
 *.wavecell.com
 *.packet8.net
 *.pipopay.com
+*.soundon.global
 *.tiktok.com
 *.tiktokcdn.com
 *.tiktokpublishers.com
