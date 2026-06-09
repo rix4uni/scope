@@ -1,1 +1,1 @@
-*.ticketing.cm.com
+*.ripe.net

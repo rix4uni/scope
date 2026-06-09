@@ -3946,6 +3946,41 @@
     "last_updated": "2026-06-09"
   },
   {
+    "name": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "access.ripe.net",
+      "https://github.com/RIPE-NCC/rpki-commons",
+      "https://github.com/RIPE-NCC/rpki-core",
+      "https://github.com/RIPE-NCC/whois",
+      "lirportal.ripe.net",
+      "*.ripe.net",
+      "193.0.0.0/19 and 2001:67c:2e8::/48",
+      "https://github.com/RIPE-NCC/rpki-monitoring",
+      "https://github.com/RIPE-NCC/rpki-publication-server",
+      "https://github.com/RIPE-NCC/rpki-ta-0",
+      "https://github.com/RIPE-NCC/rsyncit",
+      "Assets owned by RIPE NCC"
+    ],
+    "outofscope_domains": [
+      "*.anchors.atlas.ripe.net",
+      "*.probes.atlas.ripe.net",
+      "193.0.0.160/27",
+      "2001:67c:2e8:3::/64",
+      "Any *.ripe.net host that is located outside of the in-scope IP ranges ",
+      "Any of the beta/dev environments",
+      "exams.ripe.net",
+      "RIPE Meeting network (2001:67c:64::/48 and 193.0.24.0/21)",
+      "ripe(1to87).ripe.net"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-09"
+  },
+  {
     "name": "Randstad",
     "program_url": "https://www.intigriti.com/programs/randstad/randstad/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4367,6 +4402,26 @@
       "*.tomorrowland.com",
       "components.stag.tomorrowland.com",
       "components.tomorrowland.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-09"
+  },
+  {
+    "name": "Torfs",
+    "program_url": "https://www.intigriti.com/programs/torfs/torfs/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6500",
+    "inscope_domains": [
+      "winkels.torfs.be",
+      "www.schoenentorfs.be",
+      "www.schoenentorfs.nl ",
+      "www.torfs.be",
+      "www.torfs.nl",
+      "www.samenfittorfs.be",
+      "Any related Torfs domain"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -12458,6 +12513,7 @@
       "http://wip.skipper.thorntontomasetti.com",
       "http://www.inzpire.com",
       "https://cloud157-pri.ms-010.versanow.net",
+      "https://mdmproject.thorntontomasetti.com/",
       "https://pip-azu1-sec-paf-001-mgmt.uksouth.cloudapp.azure.com/",
       "https://pip-azu1-sec-paf-002-mgmt.uksouth.cloudapp.azure.com/",
       "https://pip-azu1-sec-pan-001.uksouth.cloudapp.azure.com/",
@@ -12887,7 +12943,6 @@
       "*.dylon.se",
       "*.easy-qote.com",
       "*.easyqote.com",
-      "*.ecorend.co.uk",
       "*.esalon.com",
       "*.eshop-henkel-adhesives.cn",
       "*.fester.com.mx",
@@ -13058,7 +13113,6 @@
       "*.vernel.com",
       "*.wc-frisch.{de,ch}",
       "*.wechat-henkel-adhesives.cn",
-      "*.wethertex.co.uk",
       "*.wippexpress.es",
       "*.zotos.com",
       "*.zotosprofessional.com",

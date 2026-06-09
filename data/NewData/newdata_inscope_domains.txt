@@ -1,8 +1,8 @@
-id.portswigger.net
-login.cm.com
-api.cm.com
-api.cmtelecom.com
-cm.com
-appmiral.com
-building-blocks.com
-cmcom.atlassian.net
+access.ripe.net
+lirportal.ripe.net
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be

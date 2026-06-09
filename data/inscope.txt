@@ -1118,6 +1118,7 @@ ic3.*.indriverapp.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
+*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
@@ -5106,6 +5107,8 @@ personio.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
+access.ripe.net
+lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
@@ -5164,6 +5167,12 @@ store.tomorrowland.com
 brasil-store.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
