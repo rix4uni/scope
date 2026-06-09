@@ -373,6 +373,7 @@ audible.targetcircle.com
 audible.ca
 audible.com
 help.audible.com
+acx-horizonte.audible.com
 adobedtm.com
 demdex.net
 audiblehub.com
@@ -641,6 +642,7 @@ taxseason.fidelity.com
 testjobs.fidelity.com
 fidelityworkplace.com
 myfidelitysolutions.com
+affiliate.disney.espn.co
 dolimg.com
 dwss-ptp.disney.com
 hotstar.com

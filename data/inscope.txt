@@ -4607,6 +4607,7 @@ fareharbor.com
 staging.airtable.com
 api-staging.airtable.com
 airtable.com
+mcp.staging.airtable.com
 account.adobe.com
 account.magento.com
 adobeid-na1.services.adobe.com
@@ -5114,6 +5115,7 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
+cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com

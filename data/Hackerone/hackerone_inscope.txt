@@ -2928,6 +2928,7 @@ fareharbor.com
 staging.airtable.com
 api-staging.airtable.com
 airtable.com
+mcp.staging.airtable.com
 *.acrobat.adobe.com
 *.lightroom.adobe.com
 account.adobe.com

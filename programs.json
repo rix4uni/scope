@@ -4123,6 +4123,21 @@
     "last_updated": "2026-06-09"
   },
   {
+    "name": "Skoda Auto Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
+      "cz.skodaauto.myskoda"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-09"
+  },
+  {
     "name": "Social Deal",
     "program_url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -18747,6 +18762,7 @@
       "Affiliate Programs",
       "All Audible blogs across marketplaces",
       "All help centers across marketplaces",
+      "acx-horizonte.audible.com/",
       "adobedtm.com",
       "demdex.net",
       "https://www.audible.com/ep/podcast-development-program",
@@ -28107,6 +28123,7 @@
       "www.shanghaidisneyresort.com.cn"
     ],
     "outofscope_domains": [
+      "affiliate.disney.espn.co",
       "dolimg.com",
       "dwss-ptp.disney.com",
       "espnbet.com",
@@ -60274,6 +60291,8 @@
       "*.staging.airtable.com",
       "airtable.js SDK (https://www.npmjs.com/package/airtable)",
       "api-staging.airtable.com",
+      "https://www.npmjs.com/package/@airtable/mcp-cli",
+      "mcp.staging.airtable.com",
       "staging.airtable.com"
     ],
     "outofscope_domains": [
