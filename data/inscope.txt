@@ -1037,6 +1037,7 @@ ic3.*.indriverapp.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.bmc.nl
+*.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
@@ -1117,7 +1118,6 @@ ic3.*.indriverapp.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
-*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
@@ -4396,6 +4396,7 @@ portswigger.net
 ai.portswigger.net
 collections.portswigger.net
 http1mustdie.com
+id.portswigger.net
 links.portswigger.net
 share.portswigger.net
 files.com
@@ -4831,6 +4832,13 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
+login.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com
+appmiral.com
+building-blocks.com
+cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
@@ -5095,13 +5103,9 @@ community.personio.com
 hug.personio.com
 personio.de
 personio.com
-iqoption.com
-quadcode.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
-access.ripe.net
-lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com

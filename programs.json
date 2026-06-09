@@ -2277,6 +2277,39 @@
     "last_updated": "2026-06-09"
   },
   {
+    "name": "CM.com",
+    "program_url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "login.cm.com",
+      "*.ticketing.cm.com",
+      "api.cm.com",
+      "api.cmtelecom.com",
+      "cm.com/[locale]/app/*",
+      "cm.com/[locale]/register",
+      "appmiral.com",
+      "building-blocks.com",
+      "cm.com/app/messagingtrial/",
+      "cmcom.atlassian.net",
+      "www.cm.com",
+      "*.appmiral.com",
+      "*.cm.com",
+      "*.cmtelecom.com",
+      "1199521324",
+      "1579530451",
+      "com.cm.cashregister",
+      "com.ticketflow.ticketscanner",
+      "demo.globalticket.com/*",
+      "https://github.com/cmdotcom"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-09"
+  },
+  {
     "name": "Canada Post - Responsible Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/innovapost/innovapost/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3850,10 +3883,14 @@
     "platform": "Intigriti",
     "reward": "€0",
     "inscope_domains": [
-      "iqoption.com",
-      "quadcode.com"
+      "Trading Scope",
+      "Main Scope",
+      "Corporate Scope",
+      "Asset, Data & Secret Exposure"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "*.cpa.iqoption.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-09"
@@ -3903,41 +3940,6 @@
       "*.uniqueselect.be",
       "*.usgprofessionals.be",
       "https://pen-app.entrili.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-09"
-  },
-  {
-    "name": "RIPE NCC",
-    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "access.ripe.net",
-      "https://github.com/RIPE-NCC/rpki-commons",
-      "https://github.com/RIPE-NCC/rpki-core",
-      "https://github.com/RIPE-NCC/whois",
-      "lirportal.ripe.net",
-      "*.ripe.net",
-      "193.0.0.0/19 and 2001:67c:2e8::/48",
-      "https://github.com/RIPE-NCC/rpki-monitoring",
-      "https://github.com/RIPE-NCC/rpki-publication-server",
-      "https://github.com/RIPE-NCC/rpki-ta-0",
-      "https://github.com/RIPE-NCC/rsyncit",
-      "Assets owned by RIPE NCC"
-    ],
-    "outofscope_domains": [
-      "*.anchors.atlas.ripe.net",
-      "*.probes.atlas.ripe.net",
-      "193.0.0.160/27",
-      "2001:67c:2e8:3::/64",
-      "Any *.ripe.net host that is located outside of the in-scope IP ranges ",
-      "Any of the beta/dev environments",
-      "exams.ripe.net",
-      "RIPE Meeting network (2001:67c:64::/48 and 193.0.24.0/21)",
-      "ripe(1to87).ripe.net"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -59114,6 +59116,7 @@
       "ai.portswigger.net",
       "collections.portswigger.net",
       "http1mustdie.com",
+      "id.portswigger.net",
       "links.portswigger.net",
       "portswigger.net",
       "share.portswigger.net"

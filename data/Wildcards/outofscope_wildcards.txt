@@ -608,6 +608,7 @@ g.*.slackhq.com
 *.pdq.tools
 *.simplemdm.com
 *.smartdeploy.com
+*.cpa.iqoption.com
 *.brightplus.be
 *.career.be
 *.entrili.com
@@ -620,9 +621,6 @@ g.*.slackhq.com
 *.unique.be
 *.uniqueselect.be
 *.usgprofessionals.be
-*.anchors.atlas.ripe.net
-*.probes.atlas.ripe.net
-*.ripe.net
 *.newyorkredbulls.com
 *.red.sqills.team
 booking.*.cloud.sqills

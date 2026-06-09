@@ -1037,6 +1037,7 @@ ic3.*.indriverapp.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.bmc.nl
+*.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
@@ -1117,7 +1118,6 @@ ic3.*.indriverapp.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
-*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch
