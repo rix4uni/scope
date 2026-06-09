@@ -13484,9 +13484,11 @@
       "https://www.tucows.com"
     ],
     "outofscope_domains": [
+      "*.partners.wavelo.com",
       "*.tucows.com",
       "Third Party Credential Listing",
-      "Third Party Support Sites"
+      "Third Party Support Sites",
+      "partners.wavelo.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -29772,9 +29774,7 @@
       "1180400838",
       "ai.kanghealth",
       "app.khealth.com",
-      "https://khealth.com/careers",
       "salesforce.khealth.com",
-      "start.khealth.com",
       "www.kpharmacyllc.com"
     ],
     "issues_reported": [],
@@ -49904,8 +49904,6 @@
       "the-great-room-hong-kong.officernd",
       "the-great-room-singapore.officernd.com",
       "the-great-room-thailand.officernd.com",
-      "theaap.au",
-      "theaap.com.au",
       "thebayamersfoort.com",
       "thebevenden.com",
       "thebevendenlettings.com",

@@ -201,6 +201,7 @@ argocd.*.uidapi.com
 *.doorcrawl.com
 *.order.online
 *.account.docusign.com
+*.partners.wavelo.com
 *.tucows.com
 *.meesho.com
 *.meeshoaiservices.ai

@@ -201,6 +201,7 @@ argocd.*.uidapi.com
 *.doorcrawl.com
 *.order.online
 *.account.docusign.com
+*.partners.wavelo.com
 *.tucows.com
 *.meesho.com
 *.meeshoaiservices.ai
@@ -1454,6 +1455,7 @@ rooms.docusign.com
 accounts.britishairways.com
 holiday.britishairways.com
 regionstest.com
+partners.wavelo.com
 bancoplata.mx
 platacard.mx
 admin.meesho.io
@@ -1996,9 +1998,7 @@ dcci-cert.latam.com
 ai.kanghealth
 app.khealth.com
 kaccount.khealth.com
-khealth.com
 salesforce.khealth.com
-start.khealth.com
 kpharmacyllc.com
 support.smtp2go.com
 bluesky.cl
