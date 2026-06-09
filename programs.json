@@ -4160,27 +4160,6 @@
     "last_updated": "2026-06-09"
   },
   {
-    "name": "Sqills",
-    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "*.sqills.com",
-      "*.sqills.team"
-    ],
-    "outofscope_domains": [
-      "*.red.sqills.team",
-      "booking.*.cloud.sqills.com",
-      "booking.*.sqills.com",
-      "careers.sqills.com",
-      "welcome.sqills.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-09"
-  },
-  {
     "name": "Storebrand Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
