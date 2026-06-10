@@ -923,7 +923,7 @@
       "MySQL credentials from our customers, like *.myd.infomaniak.com",
       "Jelastic subdomains : *.jcloud.ik-server.com, *.jpc.infomaniak.com, *.jpe.infomaniak.com",
       "User email verification",
-      "Websocket IPS-public credentials. Public identifiers that do not allow access to information outside the scope of the user's profile.",
+      "Websocket IPS-public credentials (MQTT, info-mq, IPS_RABBIT, ips-public). Public identifiers that do not allow access to information outside the scope of the user's profile.",
       "S3 credentials from our customers, like s3.pub*.infomaniak.cloud",
       "Database service instances from customers, like *.dbaas.infomaniak.cloud",
       "acronis.infomaniak.com",
@@ -54329,20 +54329,6 @@
     "last_updated": "2026-06-10"
   },
   {
-    "name": "JNJ Mobile",
-    "program_url": "https://hackerone.com/jnj_mobile",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "com.jnj.mocospace.android"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-10"
-  },
-  {
     "name": "MTN Group",
     "program_url": "https://hackerone.com/mtn_group",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -58666,18 +58652,6 @@
     "outofscope_domains": [
       "*.guilded.gg"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-10"
-  },
-  {
-    "name": "Stellar.org",
-    "program_url": "https://hackerone.com/stellar",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-10"
