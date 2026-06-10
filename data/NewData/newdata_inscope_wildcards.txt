@@ -1,1 +1,1 @@
-*.ripe.net
+*.cyber.gouv.qc.ca

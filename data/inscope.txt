@@ -1108,8 +1108,6 @@ ic3.*.indriverapp.com
 *.marionnaud.cz
 *.marionnaud.ro
 *.marionnaud.sk
-*.monzo.com
-*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
@@ -1265,6 +1263,7 @@ ic3.*.indriverapp.com
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
+*.cyber.gouv.qc.ca
 *.post.ch
 *.telenor.se
 *.bredbandsbolaget.se
@@ -5062,8 +5061,6 @@ marionnaud.sk
 media.marionnaud.sk
 app.marionnaud.sk
 api.marionnaud.sk
-co.uk.getmondo
-monzo.com
 nvidia.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
@@ -5642,7 +5639,6 @@ pinepg.in
 pluralcheckout.pinepg.in
 api.privateinternetaccess.com
 privateinternetaccess.com
-cyber.gouv.qc.ca
 auth-ywh.it.authentification.si.gouv.qc.ca
 qwant.com
 api.qwant.com

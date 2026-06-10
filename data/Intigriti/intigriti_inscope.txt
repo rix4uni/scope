@@ -357,10 +357,6 @@ media.marionnaud.sk
 app.marionnaud.sk
 api.marionnaud.sk
 *.marionnaud.sk
-*.monzo.com
-*.prod-ffs.io
-co.uk.getmondo
-monzo.com
 nvidia.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be

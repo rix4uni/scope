@@ -3775,8 +3775,6 @@ marionnaud.sk
 media.marionnaud.sk
 app.marionnaud.sk
 api.marionnaud.sk
-co.uk.getmondo
-monzo.com
 nvidia.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
@@ -4355,7 +4353,6 @@ pinepg.in
 pluralcheckout.pinepg.in
 api.privateinternetaccess.com
 privateinternetaccess.com
-cyber.gouv.qc.ca
 auth-ywh.it.authentification.si.gouv.qc.ca
 qwant.com
 api.qwant.com

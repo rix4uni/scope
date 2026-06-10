@@ -602,7 +602,6 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
-*.monzo.me
 *.vectus.in
 *.pdq.com
 *.pdq.tools

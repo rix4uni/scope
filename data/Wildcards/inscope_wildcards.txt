@@ -1108,8 +1108,6 @@ ic3.*.indriverapp.com
 *.marionnaud.cz
 *.marionnaud.ro
 *.marionnaud.sk
-*.monzo.com
-*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
@@ -1265,6 +1263,7 @@ ic3.*.indriverapp.com
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
+*.cyber.gouv.qc.ca
 *.post.ch
 *.telenor.se
 *.bredbandsbolaget.se

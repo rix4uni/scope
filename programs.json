@@ -1364,7 +1364,7 @@
     "platform": "YesWeHack",
     "reward": "$3000",
     "inscope_domains": [
-      "https://www.cyber.gouv.qc.ca/",
+      "*.cyber.gouv.qc.ca/",
       "https://auth-ywh.it.authentification.si.gouv.qc.ca/"
     ],
     "outofscope_domains": [
@@ -3545,33 +3545,6 @@
       "*.marionnaud.sk"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-10"
-  },
-  {
-    "name": "Monzo Public Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "GBP12500",
-    "inscope_domains": [
-      "*.monzo.com",
-      "*.prod-ffs.io",
-      "1052238659",
-      "co.uk.getmondo",
-      "www.monzo.com",
-      "monzo.com"
-    ],
-    "outofscope_domains": [
-      "*/p2p/*",
-      "*/contact-discovery/*",
-      "*/inbound-p2p/*",
-      "*.monzo.me",
-      "community.monzo.com",
-      "login.internal.monzo.com",
-      "monzo.me"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-10"
