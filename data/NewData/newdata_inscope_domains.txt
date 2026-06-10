@@ -1,2 +1,2 @@
-mcp.staging.airtable.com
-cz.skodaauto.myskoda
+co.uk.getmondo
+monzo.com

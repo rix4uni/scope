@@ -602,6 +602,7 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
+*.monzo.me
 *.vectus.in
 *.pdq.com
 *.pdq.tools
@@ -3461,6 +3462,9 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 store.ninjakiwi.com
