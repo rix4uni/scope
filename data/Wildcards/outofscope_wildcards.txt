@@ -194,6 +194,10 @@ argocd.*.uidapi.com
 *.adnxs.com
 *.fwmrm.net
 *.zdassets.com
+*.bandcamp.com
+*.corp.bandcamp.com
+*.popjam.com
+*.rukkaz.com
 *.superawesome.com
 *.superawesome.tv
 *.cas.l3harris.com
@@ -485,11 +489,8 @@ online.*.skybingo.com
 *.rocaton.com
 *.scripts.vennhypotheken.nl
 *.subscriptions.gs.com
-*.bandcamp.com
 *.bcbits.com
 *.jellychat.com
-*.popjam.com
-*.rukkaz.com
 *.superbeatsports.com
 *.teston.io
 *.usertesting.com
@@ -628,6 +629,9 @@ g.*.slackhq.com
 *.probes.atlas.ripe.net
 *.ripe.net
 *.newyorkredbulls.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
 *.tempo-team.de
 *.ccnag.com
 *.connect.coca-cola.com

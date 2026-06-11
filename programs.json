@@ -4147,6 +4147,27 @@
     "last_updated": "2026-06-11"
   },
   {
+    "name": "Sqills",
+    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "*.sqills.com",
+      "*.sqills.team"
+    ],
+    "outofscope_domains": [
+      "*.red.sqills.team",
+      "booking.*.cloud.sqills.com",
+      "booking.*.sqills.com",
+      "careers.sqills.com",
+      "welcome.sqills.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-11"
+  },
+  {
     "name": "Storebrand Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -12227,11 +12248,8 @@
       "*.amplitude-game.com",
       "*.artstation.com",
       "*.audicagame.com",
-      "*.bandcamp.com",
-      "*.bandcamp.com",
       "*.bcbits.com",
       "*.bcbits.com",
-      "*.corp.bandcamp.com",
       "*.cubicmotion.com",
       "*.dancecentral.com",
       "*.dropmix.com",
@@ -12249,13 +12267,11 @@
       "*.jellychat.com",
       "*.mediatonic.co.uk",
       "*.oncatapult.com",
-      "*.popjam.com",
       "*.psynet.gg",
       "*.psyonix.com",
       "*.quixel.com",
       "*.rockbandvr.com",
       "*.rocketleague.com",
-      "*.rukkaz.com",
       "*.singspacegame.com",
       "*.sketchfab.com",
       "*.superbeatsports.com",
@@ -12292,9 +12308,7 @@
       "Miscellaneous Research",
       "Other Fortnite Assets",
       "Player Support Chatbot",
-      "Popjam Android application",
       "Recent Acquisitions",
-      "Rukkaz Android application",
       "Sketchfab Store (paid asset marketplace)",
       "Sketchfab ripping\" 3D model / mesh / texture / etc. content out of the 3D web viewer",
       "Third-party games or apps distributed through the mobile stores",
@@ -12323,8 +12337,15 @@
       "autodiscover.harmonixmusic.com"
     ],
     "outofscope_domains": [
+      "*.bandcamp.com",
+      "*.bandcamp.com",
+      "*.corp.bandcamp.com",
+      "*.popjam.com",
+      "*.rukkaz.com",
       "*.superawesome.com",
-      "*.superawesome.tv"
+      "*.superawesome.tv",
+      "Popjam Android application",
+      "Rukkaz Android application"
     ],
     "issues_reported": [],
     "scamhit": "",

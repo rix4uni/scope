@@ -1,3 +1,7 @@
+*.bandcamp.com
+*.corp.bandcamp.com
+*.popjam.com
+*.rukkaz.com
 *.superawesome.com
 *.superawesome.tv
 gogo-cards.com
@@ -1729,11 +1733,8 @@ valvestore.forfansbyfans.com
 store.valvesoftware.com
 steamgames.com
 steampowered.com
-*.bandcamp.com
 *.bcbits.com
 *.jellychat.com
-*.popjam.com
-*.rukkaz.com
 *.superbeatsports.com
 fortniteclient-mac-shipping.app
 admin-dev.harmonixmusic.com

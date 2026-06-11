@@ -1,2 +1,2 @@
-*.monzo.com
-*.prod-ffs.io
+*.sqills.com
+*.sqills.team
