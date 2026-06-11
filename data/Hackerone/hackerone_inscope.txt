@@ -858,7 +858,6 @@ bid.*.aws.indriverapp
 blog.indrive.com
 careers.indrive.com
 cargo.indrive.com
-coaching.supernovas.indrive.com
 couriers.indrive.com
 debug.clairvoyance.indrive.tech
 delivery-webview.indrive.com
@@ -891,7 +890,6 @@ volans.tech
 watchdocs.indriverapp.com
 web.ryadom.kz
 wga.volans.tech
-supernovas.indrive.com
 a4k.amazon.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -1174,6 +1172,7 @@ judge.me
 bigcommerce.com
 cache.judge.me
 support.judge.me
+insights.judgeme.dev
 apps.shopify.com
 shop.judge.me
 woocommerce-adapter.judge.me
@@ -1751,6 +1750,7 @@ mercadopago.com.mx
 mercadopago.cl
 mercadopago.com.br
 mercadopago.com.ar
+academy.mercadoads.com
 api.mercadolibre.com
 developers.mercadolibre.com.ar
 api.mercadopago.com
@@ -1765,13 +1765,18 @@ logistica.redelcom.cl
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
+mercadobackoffice.com
+mercadoenvios.com.ve
 mercadolibreexperience.cl
 mercadolivreexperience.com.br
+mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
 mercadoplay.com.uy
 mercadoplay.pe
 mercadoplay.uy
+mpago.la
+mpago.li
 portalinmobiliario.cl
 portalinmobiliario.com
 sustentabilidadmercadolibre.com
@@ -2719,6 +2724,7 @@ gist.github.com
 npmjs.org
 *.simpletax.ca
 *.wealthsimple.com
+signin-hackerone.hbstaging.website
 *.district.in
 *.edition.in
 *.eternal.com

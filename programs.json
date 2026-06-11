@@ -2672,6 +2672,38 @@
     "last_updated": "2026-06-11"
   },
   {
+    "name": "Delen Private Bank",
+    "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "api.digital.delen.be ",
+      "api.digital.delen.lu ",
+      "app.delen.be ",
+      "app.delen.ch ",
+      "app.delen.lu ",
+      "auth.digital.delen.be ",
+      "auth.digital.delen.lu ",
+      "be.delen.digital",
+      "delen/id1064839588",
+      "login.delen.be ",
+      "login.delen.ch ",
+      "login.delen.lu ",
+      "login.oyens.com",
+      "status.delen.be ",
+      "sts.delen.be ",
+      "www.cadelam.be ",
+      "www.cadelux.lu/en ",
+      "www.delen.bank",
+      "www.delen.be/en "
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-11"
+  },
+  {
     "name": "DigitalOcean",
     "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -20802,7 +20834,6 @@
       "co-cf.*.aws.indriverapp.com",
       "co-gw-cf.*.aws.indriverapp.com",
       "co-in-gw-cf.*.aws.indriverapp.com",
-      "coaching.supernovas.indrive.com",
       "courier-cf.*.aws.indriverapp.com",
       "couriers.indrive.com",
       "debug.clairvoyance.indrive.tech",
@@ -20893,14 +20924,15 @@
       "wd2*.indriverapp.com",
       "web.ryadom.kz",
       "wga.volans.tech",
-      "wlr-cf.*.aws.indriverapp.com",
-      "www.supernovas.indrive.com"
+      "wlr-cf.*.aws.indriverapp.com"
     ],
     "outofscope_domains": [
       "bus.*.indrive.com",
+      "coaching.supernovas.indrive.com",
       "servicos.indrive.com",
       "sinet.startup.inDriver",
-      "super-services.indriverapp.com"
+      "super-services.indriverapp.com",
+      "www.supernovas.indrive.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -43642,6 +43674,7 @@
       "bigcommerce-adapter.judge.me",
       "cache.judge.me",
       "https://judge.me/reviews",
+      "insights.judgeme.dev",
       "judge.me",
       "shop.judge.me",
       "woocommerce-adapter.judge.me"
@@ -56494,6 +56527,7 @@
       "Leaked Credentials",
       "Point Smart",
       "Tier 3",
+      "academy.mercadoads.com",
       "api.mercadolibre.com",
       "api.mercadopago.com",
       "biolibre.ar",
@@ -56515,13 +56549,18 @@
       "meliplay.com.ar",
       "meliplay.com.pe",
       "meliplay.com.uy",
+      "mercadobackoffice.com",
+      "mercadoenvios.com.ve",
       "mercadolibreexperience.cl",
       "mercadolivreexperience.com.br/",
+      "mercadopago.com.ve",
       "mercadoplay.co",
       "mercadoplay.com.pe",
       "mercadoplay.com.uy",
       "mercadoplay.pe",
       "mercadoplay.uy",
+      "mpago.la",
+      "mpago.li",
       "portalinmobiliario.cl",
       "portalinmobiliario.com",
       "sustentabilidadmercadolibre.com/",
@@ -59676,6 +59715,24 @@
       "support.wealthsimple.com",
       "tldr-archive.wealthsimple.com",
       "work.wealthsimple.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-11"
+  },
+  {
+    "name": "Home Bargains",
+    "program_url": "https://hackerone.com/homebargains",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "https://signin-hackerone.hbstaging.website/"
+    ],
+    "outofscope_domains": [
+      "*.home.bargains",
+      "*.homebargains.co.uk",
+      "*.tjmorris.co.uk"
     ],
     "issues_reported": [],
     "scamhit": "",

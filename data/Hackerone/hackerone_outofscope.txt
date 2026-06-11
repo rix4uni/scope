@@ -490,9 +490,11 @@ portal.frontegg.com
 smallbusiness.comerica.com
 smallbusinessuat.comerica.com
 bus.*.indrive.com
+coaching.supernovas.indrive.com
 servicos.indrive.com
 sinet.startup.indriver
 super-services.indriverapp.com
+supernovas.indrive.com
 engineering.rei.com
 rei.gladly.com
 reicasting.com
@@ -2094,6 +2096,9 @@ help.wealthsimple.com
 support.wealthsimple.com
 tldr-archive.wealthsimple.com
 work.wealthsimple.com
+*.home.bargains
+*.homebargains.co.uk
+*.tjmorris.co.uk
 *.ali.zomans.com
 *.bstro.io
 *.zomatoportugal.com
