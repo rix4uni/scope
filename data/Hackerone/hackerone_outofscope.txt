@@ -1,3 +1,5 @@
+*.superawesome.com
+*.superawesome.tv
 gogo-cards.com
 gogo-tours.fr
 gogo.mw
@@ -1730,8 +1732,6 @@ steampowered.com
 *.jellychat.com
 *.popjam.com
 *.rukkaz.com
-*.superawesome.com
-*.superawesome.tv
 *.superbeatsports.com
 fortniteclient-mac-shipping.app
 admin-dev.harmonixmusic.com

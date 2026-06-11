@@ -194,6 +194,8 @@ argocd.*.uidapi.com
 *.adnxs.com
 *.fwmrm.net
 *.zdassets.com
+*.superawesome.com
+*.superawesome.tv
 *.cas.l3harris.com
 *.cts.l3harris.com
 *.ondato.net
@@ -488,8 +490,6 @@ online.*.skybingo.com
 *.jellychat.com
 *.popjam.com
 *.rukkaz.com
-*.superawesome.com
-*.superawesome.tv
 *.superbeatsports.com
 *.teston.io
 *.usertesting.com

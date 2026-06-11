@@ -2672,38 +2672,6 @@
     "last_updated": "2026-06-11"
   },
   {
-    "name": "Delen Private Bank",
-    "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€15000",
-    "inscope_domains": [
-      "api.digital.delen.be ",
-      "api.digital.delen.lu ",
-      "app.delen.be ",
-      "app.delen.ch ",
-      "app.delen.lu ",
-      "auth.digital.delen.be ",
-      "auth.digital.delen.lu ",
-      "be.delen.digital",
-      "delen/id1064839588",
-      "login.delen.be ",
-      "login.delen.ch ",
-      "login.delen.lu ",
-      "login.oyens.com",
-      "status.delen.be ",
-      "sts.delen.be ",
-      "www.cadelam.be ",
-      "www.cadelux.lu/en ",
-      "www.delen.bank",
-      "www.delen.be/en "
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-11"
-  },
-  {
     "name": "DigitalOcean",
     "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -6367,6 +6335,29 @@
     "last_updated": "2026-06-11"
   },
   {
+    "name": "Broken Build Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/brokenbuild",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1215768/agile-velocity-chart-gadget?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1214373/subcomponents-for-jira-cloud?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1235338/cycle-time-gadgets-time-in-status-trend-reports-for-jira?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1236240/burnup-burndown-chart-gadget-forecast-on-jira-dashboard?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/2785074762/cumulative-flow-diagrams-cfd-for-jira-agile-charts-gadgets?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/3709319691/monte-carlo-simulations-for-scrum-kanban-agile-gadgets?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/2501894527/throughput-charts-for-scrum-kanban-agile-gadgets-reports?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanban-safe-gadgets-reports?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for-jira-agile-gadgets-reports?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-11"
+  },
+  {
     "name": "Bugcrowd",
     "program_url": "https://bugcrowd.com/engagements/bugcrowd",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7075,6 +7066,20 @@
     "last_updated": "2026-06-11"
   },
   {
+    "name": "Dutch Beginners ZZP Marketplace Managed Bug Bounty Engagement",
+    "program_url": "https://bugcrowd.com/engagements/dutch-beginners-market",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1220001/visualize-openapi-swagger-documentation?hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-11"
+  },
+  {
     "name": "eazyBI",
     "program_url": "https://bugcrowd.com/engagements/eazybi",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7454,6 +7459,22 @@
       "https://marketplace.atlassian.com/apps/1222714/scio-search-crawler-for-confluence?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1222715/scio-search-crawler-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1229003/glean-activity-plugin-for-jira-cloud?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-11"
+  },
+  {
+    "name": "Gliffy",
+    "program_url": "https://bugcrowd.com/engagements/gliffy",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=server&tab=overview ",
+      "https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=datacenter&tab=overview "
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -7860,6 +7881,20 @@
       "https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=server&tab=overview",
       "https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=datacenter",
       "https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-11"
+  },
+  {
+    "name": "J-Tricks - Marketplace Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/j-tricks",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/31399/jql-tricks-plugin?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -12191,8 +12226,6 @@
       "*.rukkaz.com",
       "*.singspacegame.com",
       "*.sketchfab.com",
-      "*.superawesome.com",
-      "*.superawesome.tv",
       "*.superbeatsports.com",
       "*.twinmotion.com",
       "*.unrealengine.com",
@@ -12257,7 +12290,10 @@
       "audica-prod-api.hmxwebservices.com",
       "autodiscover.harmonixmusic.com"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "*.superawesome.com",
+      "*.superawesome.tv"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-11"
