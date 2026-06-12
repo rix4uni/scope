@@ -1693,7 +1693,8 @@
       "phlonline.vfsevisa.cn",
       "phlportal.vfsevisa.cn",
       "evisa.gov.mz",
-      "https://vfsforms.mioot.com/forms/EIAT/"
+      "https://vfsforms.mioot.com/forms/EIAT/",
+      "https://uketa.vfsglobal.com/forms/UKETA/"
     ],
     "outofscope_domains": [
       "All other VFS assets that are not listed above as in scope are automatically out of scope",
