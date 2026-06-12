@@ -59766,6 +59766,7 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
+      "https://hackerone-m1rtuq8orz.hbstaging.website/",
       "https://signin-hackerone.hbstaging.website/"
     ],
     "outofscope_domains": [
