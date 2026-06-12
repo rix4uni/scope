@@ -1829,7 +1829,7 @@
     "platform": "YesWeHack",
     "reward": "$null",
     "inscope_domains": [
-      "https://dojo-yeswehack.com/challenge-of-the-month/dojo-51"
+      "https://dojo-yeswehack.com/challenge-of-the-month/dojo-52"
     ],
     "outofscope_domains": [
       "Everything that's out of the scope root URL"
@@ -13306,6 +13306,10 @@
       "factory.qr-henkel-a.cn",
       "fc-qa.henkel-consumer-brands.cn",
       "fc.henkel-consumer-brands.cn",
+      "henkeldev.service-now.com",
+      "henkelprod.service-now.com",
+      "henkelsand.service-now.com",
+      "henkeltest.service-now.com",
       "ipad.shrndconsumer.henkel-consumer-brands.cn",
       "k2r-products.cn",
       "md.rebate-henkel-adhesives.cn",
