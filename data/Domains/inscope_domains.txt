@@ -2448,7 +2448,6 @@ mercadopago.com.mx
 mercadopago.cl
 mercadopago.com.br
 mercadopago.com.ar
-academy.mercadoads.com
 api.mercadolibre.com
 developers.mercadolibre.com.ar
 api.mercadopago.com
