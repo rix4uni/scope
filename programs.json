@@ -6907,6 +6907,31 @@
     "last_updated": "2026-06-13"
   },
   {
+    "name": "CoinDesk.com",
+    "program_url": "https://bugcrowd.com/engagements/coindesk-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$7500",
+    "inscope_domains": [
+      "https://www.coindesk.com/"
+    ],
+    "outofscope_domains": [
+      "https://uat.coindesk.com/indices",
+      "https://uat.coindesk.com/events",
+      "https://events.coindesk.com",
+      "https://consensus2023.coindesk.com/",
+      "https://consensus2024.coindesk.com/",
+      "https://consensus2025.coindesk.com/",
+      "https://consensus-hongkong2025.coindesk.com/",
+      "https://uat.coindesk.com/",
+      "https://uat.accounts.coindesk.com",
+      "https://staging.coindesk.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-13"
+  },
+  {
     "name": "CoinDesk Mobile",
     "program_url": "https://bugcrowd.com/engagements/coindesk-mobile-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7916,28 +7941,6 @@
       "https://media.irobot.com",
       "https://investor.irobot.com",
       "https://answers.irobot.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-13"
-  },
-  {
-    "name": "Izymes",
-    "program_url": "https://bugcrowd.com/engagements/izymes",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$2500",
-    "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=datacenter",
-      "https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=server",
-      "https://marketplace.atlassian.com/apps/1215843/global-pull-request-organizr?hosting=datacenter",
-      "https://marketplace.atlassian.com/apps/1215843/global-pull-request-organizr?hosting=server",
-      "https://marketplace.atlassian.com/apps/1224025/ai-insights-for-jira-service-management?hosting=cloud",
-      "https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=cloud",
-      "https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=server&tab=overview",
-      "https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=datacenter",
-      "https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
