@@ -159,6 +159,10 @@ eqrs.cms.gov
 eua.cms.gov
 hourofcode.com
 advocacy.code.org
+consensus2023.coindesk.com
+consensus2024.coindesk.com
+uat.accounts.coindesk.com
+staging.coindesk.com
 *.hfc.comcastbusiness.net
 hsd1.*.comcast.net
 *business.comcast.com
@@ -166,9 +170,6 @@ hsd1.*.comcast.net
 admin.selectwifi.xfinity.com
 harvard.xfinity.com
 comcastbiz.net
-uat.accounts.coindesk.com
-consensus2023.coindesk.com
-consensus2024.coindesk.com
 console.delltechnologies.com
 educate.dell.com
 console.dell.com
