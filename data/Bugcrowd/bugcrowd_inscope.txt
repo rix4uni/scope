@@ -217,7 +217,6 @@ cmsnationaltrainingprogram.cms.gov
 csscoperations.com
 adhoc-bugcrowd.cdn-code.org
 adhoc-bugcrowd-studio.cdn-code.org
-coindesk.com
 *.xfinity.com
 *.comcast.com
 *.xcal.tv
