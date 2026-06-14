@@ -79,7 +79,6 @@ registry.digitalocean.com
 *.doserverless-dev3.io
 *.ondbaasdev.com
 driessen.nl
-docs.google.com
 20years.eurid.eu
 *.yadifa.eu
 changelog.exoscale.com
