@@ -2363,6 +2363,20 @@
     "last_updated": "2026-06-15"
   },
   {
+    "name": "Challenge 0626",
+    "program_url": "https://www.intigriti.com/programs/intigriti/challenge0626/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "https://challenge-0626.intigriti.io"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-15"
+  },
+  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2870,6 +2884,25 @@
     ],
     "outofscope_domains": [
       "Third-party systems or domains referencing Dropbox"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "name": "Dstny",
+    "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1697",
+    "inscope_domains": [
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238"
+    ],
+    "outofscope_domains": [
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -3758,29 +3791,6 @@
       "1584170510",
       "com.loyaltyworks.wavinapp",
       "*.vectus.in"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-15"
-  },
-  {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -9971,10 +9981,15 @@
     "program_url": "https://bugcrowd.com/engagements/plugin-people",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$1800",
+    "reward": "$1500",
     "inscope_domains": [
       "https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=datacenter&tab=overview"
+      "https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-cloud-jemhc-and-dc?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/133/custom-space-user-management-csum-for-dc-and-cloud?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/133/custom-space-user-management-csum-for-dc-and-cloud?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/207/latex-and-mathjax?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/5043/switch-user-su-for-jira?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -57496,6 +57511,18 @@
       "IBM Tokens & Secrets",
       "IBM Websites"
     ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "name": "arkadiyt-projects",
+    "program_url": "https://hackerone.com/arkadiyt-projects",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",

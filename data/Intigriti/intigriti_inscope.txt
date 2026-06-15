@@ -69,6 +69,7 @@ capital.com
 open-api.capital.com
 *.capital.com
 *.itcapital.io
+challenge-0626.intigriti.io
 *.cloudways.com
 api.cloudways.com
 developers.cloudways.com
@@ -149,6 +150,7 @@ app.reclaim.ai
 *.hellosign.com
 *.dash.ai
 replay.dropbox.com
+docs.google.com
 my.eurid.eu
 *.das.eu
 *.dns.eu
@@ -379,11 +381,6 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org

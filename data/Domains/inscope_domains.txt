@@ -3559,6 +3559,7 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
+challenge-0626.intigriti.io
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -3621,6 +3622,7 @@ hellofax.com
 docsend.com
 app.reclaim.ai
 replay.dropbox.com
+docs.google.com
 my.eurid.eu
 itscope.com
 itscope.de
@@ -3798,11 +3800,6 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org

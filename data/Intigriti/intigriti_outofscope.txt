@@ -79,6 +79,7 @@ registry.digitalocean.com
 *.doserverless-dev3.io
 *.ondbaasdev.com
 driessen.nl
+docs.google.com
 20years.eurid.eu
 *.yadifa.eu
 changelog.exoscale.com
@@ -123,10 +124,6 @@ status.moralis.io
 store.ninjakiwi.com
 support.ninjakiwi.com
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 personio.de
 personio.slack.com
 statuspage.personio.de
