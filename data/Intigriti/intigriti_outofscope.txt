@@ -110,6 +110,8 @@ trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 *.lxc.liferay.com
 login.liferay.com
@@ -132,14 +134,6 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
-future.portofantwerp.com
-future.portofantwerpbruges.com
-jobs.portofantwerp.com
-jobs.portofantwerpbruges.com
-media.portofantwerp.com
-media.portofantwerpbruges.com
-register.portofantwerp.com
-register.portofantwerpbruges.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
