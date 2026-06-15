@@ -2030,10 +2030,8 @@ multispectral.com
 wherenet.com
 zebra.cn
 blog.playtronics.com
-api.clover.com
 api.eu.clover.com
 lws.fdcbusinessservices.com
-partner.clover.com
 scl.clover.com
 secure-algonquinstatebank.com
 secure-cooprincon.com
@@ -2045,7 +2043,6 @@ secure-maunacooppr.com
 secure-med5cu.com
 secure-piedmontfederal.com
 sundancestate.onlinebank.com
-token.clover.com
 clover.com
 cloversecurity.com
 1v1.lol
