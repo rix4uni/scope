@@ -1151,7 +1151,6 @@ ic3.*.indriverapp.com
 *.playuzleuven.be
 *.optimuscards.com
 *.topperpay.com
-*.uphodl.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be

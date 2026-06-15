@@ -608,6 +608,10 @@ g.*.slackhq.com
 *.lxc.liferay.com
 *.monzo.me
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -629,6 +633,7 @@ g.*.slackhq.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
+*.uphodl.com
 *.homerr.com
 *vintedpay.com
 *.vinted.ca

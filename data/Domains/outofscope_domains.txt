@@ -2802,8 +2802,6 @@ trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 login.liferay.com
 community.monzo.com
@@ -2819,6 +2817,14 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
+future.portofantwerp.com
+future.portofantwerpbruges.com
+jobs.portofantwerp.com
+jobs.portofantwerpbruges.com
+media.portofantwerp.com
+media.portofantwerpbruges.com
+register.portofantwerp.com
+register.portofantwerpbruges.com
 pen-app.entrili.com
 exams.ripe.net
 ripe.net
@@ -2851,6 +2857,9 @@ vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
+support-sandbox.uphold.com
+support-staging.topperpay.com
+uphodl.com
 api.topperpay.com
 api.uphold.com
 app.topperpay.com
