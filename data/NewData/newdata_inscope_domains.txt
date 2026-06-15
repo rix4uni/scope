@@ -1,1 +1,2 @@
-docs.google.com
+mylightspeed.app
+developers.retail.lightspeed.app
