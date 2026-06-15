@@ -753,6 +753,7 @@ seems.gravityzone.bitdefender.com
 workflow.bitdefender.com
 workflow-test.bitdefender.com
 workflow-dev.bitdefender.com
+trust.bitdefender.com
 central.bitdefender.com
 support.bitpanda.com
 maintenance.bitpanda.com

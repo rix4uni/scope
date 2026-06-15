@@ -2876,25 +2876,6 @@
     "last_updated": "2026-06-15"
   },
   {
-    "name": "Dstny",
-    "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2425",
-    "inscope_domains": [
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238"
-    ],
-    "outofscope_domains": [
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-15"
-  },
-  {
     "name": "EURid",
     "program_url": "https://www.intigriti.com/programs/eurid/eurid/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -6180,7 +6161,8 @@
       "seems.gravityzone.bitdefender.com",
       "workflow.bitdefender.com",
       "workflow-test.bitdefender.com",
-      "workflow-dev.bitdefender.com"
+      "workflow-dev.bitdefender.com",
+      "trust.bitdefender.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -19868,6 +19850,7 @@
       "*.bathandbodyworks.ro",
       "*.bebabelkuwait.com/",
       "*.bouchonbakeryme.com",
+      "*.bouchonbakeryme.com/",
       "*.carrier.alshaya.com",
       "*.debenhams.ae",
       "*.debenhams.com.kw",
@@ -19945,6 +19928,7 @@
       "ae.cosstores.com",
       "ae.hm.com",
       "ae.shopjustice.me",
+      "apigw.dev.alshaya.com",
       "apps.havelockone.com",
       "bakimonarim.shaya.com.tr",
       "bn.boots.com",
@@ -19973,6 +19957,10 @@
       "kw.cosstores.com",
       "kw.hm.com",
       "kw.shopjustice.me",
+      "media.bathandbodyworks.ro",
+      "media.victoriassecret.cz",
+      "mft.dev.alshaya.com",
+      "odi.dev.alshaya.com",
       "onlinepos.shaya.com.tr",
       "onlinestaffstore.alshaya.com",
       "opsassistbrandedsolutions.shaya.com.tr",
@@ -19989,9 +19977,11 @@
       "sa.hm.com",
       "sa.shopjustice.me",
       "sbuxopsassist.shaya.com.tr",
+      "soa.dev.alshaya.com",
       "starbucks-t%C3%BCrkiye/id1100698915?l=tr",
       "starbucks.az",
       "suppliertraining.alshaya.com",
+      "tracking.victoriassecret.cz",
       "victoriassecret.cz",
       "victoriassecret.ro/",
       "victoriassecretbeauty.ro",
@@ -19999,15 +19989,21 @@
       "www.ahwetzeitounakuwait.com",
       "www.amitinoura.com",
       "www.babelkwt.com",
+      "www.bathandbodyworks.ro",
       "www.bebabelkuwait.com",
       "www.bouchonbakeryme.com",
+      "www.customercare.alshaya.com",
+      "www.dev.alshaya.com",
       "www.havelockone.com",
       "www.lepainquotidienme.com",
       "www.pfchangsme.com",
       "www.pinkberryme.com",
       "www.pizzaexpresskw.com",
       "www.raisingcanesme.com",
-      "www.shayakahve.com.tr/"
+      "www.shayakahve.com.tr",
+      "www.shayakahve.com.tr/",
+      "www.starbucks.az",
+      "www.victoriassecretbeauty.ro"
     ],
     "outofscope_domains": [
       "*.thebodyshop.com.bh",
