@@ -1,3 +1,4 @@
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
+*.mas.mobilevikings.be
+*.mobilevikings.be
+*.prd-pub.mobilevikings.be
+*.prd.mobilevikings.be

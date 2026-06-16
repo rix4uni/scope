@@ -3514,6 +3514,37 @@
     "last_updated": "2026-06-16"
   },
   {
+    "name": "Mobile Vikings",
+    "program_url": "https://www.intigriti.com/programs/mv/mobilevikings/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "mobilevikings.be",
+      "api.unleashed.be",
+      "jimmobile.be",
+      "uwa.mobilevikings.be",
+      "vpn.mobilevikings.be",
+      "*.mas.mobilevikings.be",
+      "*.mobilevikings.be",
+      "*.prd-pub.mobilevikings.be",
+      "*.prd.mobilevikings.be",
+      "mgm.mobilevikings.be",
+      "vikingco.be",
+      "vikingdeals.be",
+      "*.acc-pub.mobilevikings.be",
+      "*.acc.mobilevikings.be",
+      "*.dev-pub.mobilevikings.be",
+      "*.dev.mobilevikings.be",
+      "vikinglab.be",
+      "forms.mobilevikings.be"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-16"
+  },
+  {
     "name": "Monzo Public Bug Bounty Program",
     "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4744,13 +4775,10 @@
       "564141518",
       "accountsettings.connect.identity.stagaws.visma.com",
       "admin.stage.vismaonline.com",
-      "ai-testing.maventa.com",
       "aiassistant.stage.vismaonline.com",
       "api.workbox.dk",
       "app.workbox.dk",
       "authz.workbox.dk",
-      "autointerface.stag.visma.net",
-      "ax-stage.maventa.com",
       "com.visma.blue",
       "connect.identity.stagaws.visma.com",
       "eaccounting.stage.vismaonline.com",
@@ -4759,8 +4787,7 @@
       "myservices-api.stage.vismaonline.com",
       "myservices.stage.vismaonline.com",
       "oauth.developers.stagaws.visma.com",
-      "photoservice.stage.vismaonline.com",
-      "testing.maventa.com"
+      "photoservice.stage.vismaonline.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -12836,10 +12863,10 @@
     "inscope_domains": [
       "1040.com",
       "drakesoftware.com",
+      "securefilepro.com",
       "taxact.com"
     ],
     "outofscope_domains": [
-      "securefilepro.com",
       "taxactonline.com",
       "taxwell.com",
       "taxwell.org"
@@ -40147,6 +40174,7 @@
       "advertising.deere.com",
       "advertising.deere.com",
       "adzone.deere.com",
+      "adzonetest.deere.com",
       "agile.deere.com",
       "agprograms.deere.com",
       "agrisync.com",
@@ -40786,6 +40814,7 @@
       "jdset.deere.com",
       "jdsn-cart-qual.deere.com",
       "jdsn-creditmemo.deere.com",
+      "jdsn-crs.deere.com",
       "jdsn-tcs.deere.com",
       "jdsn.deere.com",
       "jduetc.deere.com",
