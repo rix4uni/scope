@@ -185,26 +185,6 @@
     "last_updated": "2026-06-16"
   },
   {
-    "name": "Bug Bounty SNCF Connect",
-    "program_url": "https://yeswehack.com/programs/bug-bounty-sncf-connect-1",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$10000",
-    "inscope_domains": [
-      "https://www.sncf-connect.com",
-      "https://sncf-connect.com",
-      "https//monidentifiant.sncf",
-      "https://www.sncf-connect.com/bff"
-    ],
-    "outofscope_domains": [
-      "All domains and subdomains that are not listed within the scope of the Bug Bounty program.",
-      "The SNCF Connect mobile applications (Android and Apple) are out of scope even if the web services they use are in scope (accessible through paths beginning by 'https://www.sncf-connect.com/bff')."
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-16"
-  },
-  {
     "name": "Coindcx - Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/coindcx-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -3766,6 +3746,29 @@
     "last_updated": "2026-06-16"
   },
   {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-16"
+  },
+  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4353,6 +4356,26 @@
       "*.tomorrowland.com",
       "components.stag.tomorrowland.com",
       "components.tomorrowland.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-16"
+  },
+  {
+    "name": "Torfs",
+    "program_url": "https://www.intigriti.com/programs/torfs/torfs/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6500",
+    "inscope_domains": [
+      "winkels.torfs.be",
+      "www.schoenentorfs.be",
+      "www.schoenentorfs.nl ",
+      "www.torfs.be",
+      "www.torfs.nl",
+      "www.samenfittorfs.be",
+      "Any related Torfs domain"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

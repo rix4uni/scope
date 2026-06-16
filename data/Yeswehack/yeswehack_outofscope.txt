@@ -16,7 +16,6 @@ explore.alasco.de
 alasco.de
 blog.bitoasis.net
 dev.blablacar.com
-sncf-connect.com
 coindcx.com
 info.coindcx.com
 otcdesk.coindcx.com

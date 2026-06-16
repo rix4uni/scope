@@ -371,6 +371,11 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
@@ -477,6 +482,12 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl

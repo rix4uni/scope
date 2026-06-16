@@ -34,8 +34,6 @@ itunes.apple.com
 api.blablalines.com
 daily.blablacar.fr
 blablacardaily.com
-sncf-connect.com
-monidentifiant.sncf
 *.coindcx.com
 api.coindcx.com
 *.contentsquare.com

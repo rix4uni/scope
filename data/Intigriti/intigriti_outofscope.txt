@@ -122,6 +122,10 @@ status.moralis.io
 store.ninjakiwi.com
 support.ninjakiwi.com
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 personio.de
 personio.slack.com
 statuspage.personio.de

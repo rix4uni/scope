@@ -3790,6 +3790,11 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
@@ -3865,6 +3870,12 @@ store.tomorrowland.com
 brasil-store.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
@@ -4071,8 +4082,6 @@ m.blablacar
 api.blablalines.com
 daily.blablacar.fr
 blablacardaily.com
-sncf-connect.com
-monidentifiant.sncf
 api.coindcx.com
 mobile-production.content-square.net
 m.csqtrk.net
