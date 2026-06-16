@@ -608,10 +608,6 @@ g.*.slackhq.com
 *.lxc.liferay.com
 *.monzo.me
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -3473,8 +3469,6 @@ trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 login.liferay.com
 community.monzo.com
