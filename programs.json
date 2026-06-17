@@ -4501,6 +4501,26 @@
     "last_updated": "2026-06-17"
   },
   {
+    "name": "Torfs",
+    "program_url": "https://www.intigriti.com/programs/torfs/torfs/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6500",
+    "inscope_domains": [
+      "winkels.torfs.be",
+      "www.schoenentorfs.be",
+      "www.schoenentorfs.nl ",
+      "www.torfs.be",
+      "www.torfs.nl",
+      "www.samenfittorfs.be",
+      "Any related Torfs domain"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-17"
+  },
+  {
     "name": "Trouw",
     "program_url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -11073,12 +11093,9 @@
     "platform": "Bugcrowd",
     "reward": "$1500",
     "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1213893/stagil-issue-templates-schedule-create-and-link?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1215311/stagil-assets-advanced-links-data-model-matrix-structure?tab=overview&hosting=cloud",
-      "https://marketplace.atlassian.com/apps/1215391/stagil-incoming-links?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1219099/stagil-tables-todo-checklists-reports-statistics?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1232798/fillchecker-timesheet-checks-and-reports-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1217026/stagil-tasks-jira-issues-tables-macro-for-confluence?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1211243/timetracker-time-tracking-timesheet-reporting-for-jira?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
@@ -40442,6 +40459,7 @@
       "catalogorepuestos.pla.com.ar",
       "ccms.deere.com",
       "ccmscert.deere.com",
+      "ccmssearch-mfe-ext.apps-prod-vpn.us.e06.c01.johndeerecloud.com",
       "ccmssearchspa.apps-prod-vpn.us.e06.c01.johndeerecloud.com",
       "cdp.services.wirtgen-group.com",
       "cert.harvestprofit.com",
