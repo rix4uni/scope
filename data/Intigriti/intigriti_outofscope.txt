@@ -142,6 +142,7 @@ media.portofantwerp.com
 media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
+oursustainableport.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be

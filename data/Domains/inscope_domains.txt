@@ -79,7 +79,6 @@ bitdefender.com
 app.bitgo.com
 app.bitgo-test.com
 bitgo.ae
-wbtc.network
 usdstandard.com
 web.bitpanda.com
 bitpanda.com
@@ -3868,7 +3867,6 @@ wiki-accpt.portofantwerp.com
 wiki-accpt.portofantwerpbruges.com
 wiki.portofantwerp.com
 wiki.portofantwerpbruges.com
-oursustainableport.com
 portofantwerpbruges.com
 erpx.unit4cloud.com
 app.qualified-dev.com
