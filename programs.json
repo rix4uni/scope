@@ -3545,37 +3545,6 @@
     "last_updated": "2026-06-17"
   },
   {
-    "name": "Mobile Vikings",
-    "program_url": "https://www.intigriti.com/programs/mv/mobilevikings/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "mobilevikings.be",
-      "api.unleashed.be",
-      "jimmobile.be",
-      "uwa.mobilevikings.be",
-      "vpn.mobilevikings.be",
-      "*.mas.mobilevikings.be",
-      "*.mobilevikings.be",
-      "*.prd-pub.mobilevikings.be",
-      "*.prd.mobilevikings.be",
-      "mgm.mobilevikings.be",
-      "vikingco.be",
-      "vikingdeals.be",
-      "*.acc-pub.mobilevikings.be",
-      "*.acc.mobilevikings.be",
-      "*.dev-pub.mobilevikings.be",
-      "*.dev.mobilevikings.be",
-      "vikinglab.be",
-      "forms.mobilevikings.be"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-17"
-  },
-  {
     "name": "Monzo Public Bug Bounty Program",
     "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -28379,6 +28348,7 @@
     ],
     "outofscope_domains": [
       "*.hiltonhotels.jp",
+      "a1.hilton.com",
       "eis.hilton.com",
       "guestfeedback.hilton.com",
       "hgv.com",
@@ -41213,6 +41183,7 @@
       "partrelease.deere.com",
       "parts-auth.services.wirtgen-group.com",
       "parts-dev.wirtgen-group.com",
+      "parts-partsapienablem-zforge-devl.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com",
       "parts-shop-cons-colas.services.wirtgen-group.com",
       "parts-shop-cons-peab.services.wirtgen-group.com",
       "parts-shop-cons-strabag.services.wirtgen-group.com",

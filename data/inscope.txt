@@ -1108,10 +1108,6 @@ ic3.*.indriverapp.com
 *.marionnaud.cz
 *.marionnaud.ro
 *.marionnaud.sk
-*.mas.mobilevikings.be
-*.mobilevikings.be
-*.prd-pub.mobilevikings.be
-*.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
 *.ninjakiwi.me
@@ -5080,14 +5076,6 @@ marionnaud.sk
 media.marionnaud.sk
 app.marionnaud.sk
 api.marionnaud.sk
-mobilevikings.be
-api.unleashed.be
-jimmobile.be
-uwa.mobilevikings.be
-vpn.mobilevikings.be
-mgm.mobilevikings.be
-vikingco.be
-vikingdeals.be
 co.uk.getmondo
 monzo.com
 nvidia.com

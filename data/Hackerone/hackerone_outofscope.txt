@@ -650,6 +650,7 @@ disneyexibidor.com.br
 enchantedfinejewelry.com
 waltdisney.org
 *.hiltonhotels.jp
+a1.hilton.com
 eis.hilton.com
 guestfeedback.hilton.com
 hgv.com

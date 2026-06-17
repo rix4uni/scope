@@ -1108,10 +1108,6 @@ ic3.*.indriverapp.com
 *.marionnaud.cz
 *.marionnaud.ro
 *.marionnaud.sk
-*.mas.mobilevikings.be
-*.mobilevikings.be
-*.prd-pub.mobilevikings.be
-*.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
 *.ninjakiwi.me
