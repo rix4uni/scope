@@ -1592,12 +1592,8 @@ docs.wallet.tg
 toncenter.walletbot.me
 wallet.helpscoutdocs.com
 affiliates.fanduel.com
-api-dev.singlestore.com
-authsvc-staging.singlestore.com
-backend-dev.singlestore.com
 bifrost.singlestore.com
 docs.singlestore.com
-portal-staging.dev.helios.singlestore.com
 login.internal.singlestore.com
 status.singlestore.com
 studio.singlestore.com
@@ -1688,7 +1684,9 @@ wisdomtree.eu
 affiliate.napoleongames.be
 affiliates.superbet.com
 affiliates.superbet.rs
+abc.superbet.rs
 surveys.superbet.com
+afiliados.superbet.com
 legacy-web.superbet.ro
 retail.prod.incubator.superbet.ro
 lp.superbet.bet.br
