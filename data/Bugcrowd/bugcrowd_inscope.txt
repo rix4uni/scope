@@ -1,5 +1,6 @@
 data-api.coindesk.com
 tools-api.cryptocompare.com
+marketplace.atlassian.com
 acorns.com
 *.acorns.com
 graphql.acorns.com
@@ -19,7 +20,6 @@ portal.clearpay.co.uk
 mobileapi.clearpay.com
 portalapi.eu.clearpay.co.uk
 api.clearpay.com
-marketplace.atlassian.com
 aiven.io
 regatta.aiven.io
 console.aiven.io
@@ -227,6 +227,7 @@ consensus2026.sandbox.events.coindesk.com
 *.dell.com
 *.delltechnologies.com
 console.delltechnologies.com
+easyagile.com
 docs.eazybi.com
 my.elementor.com
 go.elementor.com

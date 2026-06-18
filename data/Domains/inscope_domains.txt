@@ -1,5 +1,6 @@
 data-api.coindesk.com
 tools-api.cryptocompare.com
+marketplace.atlassian.com
 acorns.com
 graphql.acorns.com
 gohenry.com
@@ -16,7 +17,6 @@ portal.clearpay.co.uk
 mobileapi.clearpay.com
 portalapi.eu.clearpay.co.uk
 api.clearpay.com
-marketplace.atlassian.com
 aiven.io
 regatta.aiven.io
 console.aiven.io
@@ -163,6 +163,7 @@ business.comcast.com
 xfinity.com
 consensus2026.sandbox.events.coindesk.com
 console.delltechnologies.com
+easyagile.com
 docs.eazybi.com
 my.elementor.com
 go.elementor.com
@@ -1055,6 +1056,7 @@ aiq-prod.codebig2.net
 staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
+agoda.com
 ads-partners.tw.coupang.com
 cart-front-api.tw.coupang.com
 cart.tw.coupang.com
