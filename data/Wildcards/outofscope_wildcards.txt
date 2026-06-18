@@ -256,6 +256,7 @@ argocd.*.uidapi.com
 *.msci.com.ar
 *.hotmart.com
 *.teachable.com
+*.buildstaging.com
 *.hubspot.com
 *.agilebits.com
 *.zipbooks.com

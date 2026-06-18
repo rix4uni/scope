@@ -256,6 +256,7 @@ argocd.*.uidapi.com
 *.msci.com.ar
 *.hotmart.com
 *.teachable.com
+*.buildstaging.com
 *.hubspot.com
 *.agilebits.com
 *.zipbooks.com
@@ -1231,6 +1232,7 @@ tidal.com
 app.squareupstaging.com
 community.squareup.com
 itunes.apple.com
+appointments.uscellular.com
 abo.inscopedomain.ch
 login.inscopedomain.ch
 auth.inscopedomain.ch
@@ -3466,6 +3468,8 @@ trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 login.liferay.com
 community.monzo.com
@@ -3510,18 +3514,6 @@ viavika.no
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
-trust.truelayer.com
-banks.truelayer.com
-careers.truelayer.com
-docs.truelayer.com
-docs.houston.truelayer.com
-truelayer.com
-index.truelayer.com
-info.truelayer.com
-signin.truelayer.com
-support.truelayer.com
-status.truelayer.com
-truelayer.zendesk.com
 elect.tweakers.net
 boekentoy.uzleuven.be
 uz-laboboeken.web.app

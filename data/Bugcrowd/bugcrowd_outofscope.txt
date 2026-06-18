@@ -698,6 +698,7 @@ itunes.apple.com
 *.mobile.uscc.net
 *.mobile.uscc.com
 *.moengage.com
+appointments.uscellular.com
 abo.inscopedomain.ch
 login.inscopedomain.ch
 auth.inscopedomain.ch

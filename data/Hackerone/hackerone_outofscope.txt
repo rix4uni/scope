@@ -267,6 +267,7 @@ rwbaird.com
 careers.msci.com
 *.hotmart.com
 *.teachable.com
+*.buildstaging.com
 docs.stripe.com
 okta.whoop.com
 connect.com
