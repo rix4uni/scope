@@ -3652,6 +3652,37 @@
     "last_updated": "2026-06-18"
   },
   {
+    "name": "Nexo",
+    "program_url": "https://www.intigriti.com/programs/nexo/nexo/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$4800",
+    "inscope_domains": [
+      "https://platform.nexo.com/api/1/create_recurring_payment",
+      "https://platform.nexo.com/api/1/exchange_order",
+      "https://platform.nexo.com/api/1/exchange_request_quote",
+      "https://platform.nexo.com/api/1/get_pay_to_card_fee",
+      "https://platform.nexo.com/api/1/request_bwc_quote",
+      "https://platform.nexo.com/api/1/request_capture_payment",
+      "https://platform.nexo.com/api/1/request_crypto_withdrawal",
+      "https://platform.nexo.com/api/1/request_pay_to_card",
+      "https://platform.nexo.com/api/1/term/deposits/user/create",
+      "https://platform.nexo.com/api/platform/exchange/v1/booster/quotes",
+      "https://platform.nexo.com/api/platform/exchange/v2/booster/orders",
+      "https://platform.nexo.com/api/platform/exchange/v2/exchange/orders",
+      "https://platform.nexo.com/api/trading/advanced/facade/api/v1/deposit",
+      "https://platform.nexo.com/api/trading/advanced/facade/api/v1/fees",
+      "https://platform.nexo.com/api/trading/advanced/facade/api/v1/order/futures",
+      "https://platform.nexo.com/api/trading/advanced/facade/api/v1/withdraw",
+      "https://nexo.com/",
+      "https://platform.nexo.com/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-18"
+  },
+  {
     "name": "Nexuzhealth VDP",
     "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -20697,7 +20728,6 @@
     "outofscope_domains": [
       "analytics.boozt.com",
       "bmp.boozt.com",
-      "firmagaver.boozt.com",
       "www.kronor.io"
     ],
     "issues_reported": [],
