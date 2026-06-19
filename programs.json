@@ -3548,6 +3548,37 @@
     "last_updated": "2026-06-19"
   },
   {
+    "name": "Mobile Vikings",
+    "program_url": "https://www.intigriti.com/programs/mv/mobilevikings/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "mobilevikings.be",
+      "api.unleashed.be",
+      "jimmobile.be",
+      "uwa.mobilevikings.be",
+      "vpn.mobilevikings.be",
+      "*.mas.mobilevikings.be",
+      "*.mobilevikings.be",
+      "*.prd-pub.mobilevikings.be",
+      "*.prd.mobilevikings.be",
+      "mgm.mobilevikings.be",
+      "vikingco.be",
+      "vikingdeals.be",
+      "*.acc-pub.mobilevikings.be",
+      "*.acc.mobilevikings.be",
+      "*.dev-pub.mobilevikings.be",
+      "*.dev.mobilevikings.be",
+      "vikinglab.be",
+      "forms.mobilevikings.be"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-19"
+  },
+  {
     "name": "Monzo Public Bug Bounty Program",
     "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4851,6 +4882,34 @@
       "api-wallet-sandbox.venly.io"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "name": "Veriff Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "1467907532",
+      "alchemy.veriff.com",
+      "api.flamingo-eu.veriff.com",
+      "api.us.veriff.me",
+      "api.veriff.me",
+      "com.veriff.demo",
+      "louvre.veriff.me",
+      "magic.veriff.me",
+      "station.veriff.com",
+      "stationapi.veriff.com",
+      "*.veriff.com",
+      "developers.veriff.me",
+      "www.veriff.com"
+    ],
+    "outofscope_domains": [
+      "https://station.veriff.com/config/"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-19"
