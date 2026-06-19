@@ -882,6 +882,9 @@ sm-php-smid.slotomania.com
 sm-php-smid-va2.slotomania.com
 vs-fb-php-p1.playtika.com
 sm-php.playtika.com
+advertising.deere.com
+adzone.deere.com
+adzonetest.deere.com
 api.demo.nonprod.tenna.com
 api.dv2.nonprod.tenna.com
 api.dv3.nonprod.tenna.com
