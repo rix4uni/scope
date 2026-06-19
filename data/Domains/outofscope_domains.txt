@@ -522,13 +522,6 @@ em8918.mortgagechoice.com.au
 cloudhq.mortgagechoice.com.au
 cloudhqforms.mortgagechoice.com.au
 developersites.com.au
-auth.simplisafe.com
-careers.simplisafe.com
-clicks.simplisafe.com
-library.simplisafe.com
-livechat.simplisafe.com
-press.simplisafe.com
-support.simplisafe.com
 skyscanner.net
 namejet.com
 community.sophos.com

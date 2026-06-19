@@ -647,13 +647,6 @@ cloudhq.mortgagechoice.com.au
 cloudhqforms.mortgagechoice.com.au
 *.leads.developersites.com.au
 developersites.com.au
-auth.simplisafe.com
-careers.simplisafe.com
-clicks.simplisafe.com
-library.simplisafe.com
-livechat.simplisafe.com
-press.simplisafe.com
-support.simplisafe.com
 *skybroadband.com
 *skybet.com
 *skynewsarabia.com
