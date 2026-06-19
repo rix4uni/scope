@@ -163,7 +163,6 @@ business.comcast.com
 xfinity.com
 consensus2026.sandbox.events.coindesk.com
 console.delltechnologies.com
-easyagile.com
 docs.eazybi.com
 my.elementor.com
 go.elementor.com

@@ -71,6 +71,7 @@ status.digitalocean.com
 tracking.digitalocean.com
 waves.digitalocean.com
 *.db.ondigitalocean.com
+*.db1.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
@@ -78,6 +79,7 @@ waves.digitalocean.com
 registry.digitalocean.com
 *.doserverless-dev3.io
 *.ondbaasdev.com
+*.onstagingocean.app
 driessen.nl
 docs.google.com
 20years.eurid.eu

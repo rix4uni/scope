@@ -598,12 +598,14 @@ g.*.slackhq.com
 *.insky.be
 *.it.datacamp.com
 *.db.ondigitalocean.com
+*.db1.ondigitalocean.com
 *.digitaloceanspaces.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
 *.doserverless-dev3.io
 *.ondbaasdev.com
+*.onstagingocean.app
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
