@@ -123,6 +123,11 @@ login.internal.monzo.com
 monzo.me
 docs.moralis.io
 status.moralis.io
+pro.nexuzhealth.hn
+nexuzhealth.atlassian.net
+media.nexuzhealth.be
+idp-contact.nexuzhealth.be
+*.nexuzhealth.pro
 store.ninjakiwi.com
 support.ninjakiwi.com
 *.vectus.in
@@ -132,6 +137,15 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
+future.portofantwerp.com
+future.portofantwerpbruges.com
+jobs.portofantwerp.com
+jobs.portofantwerpbruges.com
+media.portofantwerp.com
+media.portofantwerpbruges.com
+register.portofantwerp.com
+register.portofantwerpbruges.com
+oursustainableport.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be

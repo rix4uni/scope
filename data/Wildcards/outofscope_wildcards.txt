@@ -400,7 +400,6 @@ bus.*.indrive.com
 *.snap40.com
 *.atp-exodus.com
 *.mtnfootball.com
-*.gocardless-staging.io
 *.acordocerto.com.br
 *.sky.com.mx
 *tworks-att.com
@@ -610,6 +609,7 @@ g.*.slackhq.com
 *.swop.com
 *.lxc.liferay.com
 *.monzo.me
+*.nexuzhealth.pro
 *.vectus.in
 *.cpa.iqoption.com
 *.brightplus.be
