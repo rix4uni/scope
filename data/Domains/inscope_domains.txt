@@ -1715,7 +1715,7 @@ ui.stage.lando.nonprod.cloudops.mozgcp.net
 api.dev.lando.nonprod.cloudops.mozgcp.net
 api.stage.lando.nonprod.cloudops.mozgcp.net
 merino.services.mozilla.com
-stage.merino.nonprod.cloudops.mozgcp.net
+merino.services.allizom.org
 monitor.mozilla.org
 phabricator.allizom.org
 phabricator-dev.allizom.org
@@ -4470,6 +4470,7 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 evisa.gov.mz
 uketa.vfsglobal.com
+vfsglobalcustomerexperience.com
 vinci.com
 leonard.vinci.com
 castor.vinci.com

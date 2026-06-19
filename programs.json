@@ -1674,7 +1674,8 @@
       "phlportal.vfsevisa.cn",
       "evisa.gov.mz",
       "https://vfsforms.mioot.com/forms/EIAT/",
-      "https://uketa.vfsglobal.com/forms/UKETA/"
+      "https://uketa.vfsglobal.com/forms/UKETA/",
+      "https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index"
     ],
     "outofscope_domains": [
       "All other VFS assets that are not listed above as in scope are automatically out of scope",
