@@ -1119,8 +1119,6 @@ net.supertreat.solitaire
 net.wooga.junes
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats
-m.trendyol.com
-enm.trendyol.com
 trendyol.com
 dolap.com
 tgoyemek.com
