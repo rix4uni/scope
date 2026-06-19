@@ -23,6 +23,8 @@ gogocommercialaviation.com
 ai-answers.alpha.canada.ca
 ai-answers.cdssandbox.xyz
 blawx.cdssandbox.xyz
+feedback-collection.cdssandbox.xyz
+feedback-viewer.cdssandbox.xyz
 reponses-ia.alpha.canada.ca
 reponses-ia.cdssandbox.xyz
 strapi.cdssandbox.xyz

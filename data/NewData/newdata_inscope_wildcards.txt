@@ -1,5 +1,5 @@
-*.mas.mobilevikings.be
-*.mobilevikings.be
-*.prd-pub.mobilevikings.be
-*.prd.mobilevikings.be
-*.veriff.com
+*.prd.cam.simplisafe.com
+*.prd.platform.simplisafe.com
+*.prd.services.simplisafe.com
+*.prd.aser.simplisafe.com
+*.prd.webapps.simplisafe.com

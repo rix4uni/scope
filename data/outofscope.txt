@@ -608,7 +608,6 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
-*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.cpa.iqoption.com
@@ -1195,6 +1194,13 @@ em8918.mortgagechoice.com.au
 cloudhq.mortgagechoice.com.au
 cloudhqforms.mortgagechoice.com.au
 developersites.com.au
+auth.simplisafe.com
+careers.simplisafe.com
+clicks.simplisafe.com
+library.simplisafe.com
+livechat.simplisafe.com
+press.simplisafe.com
+support.simplisafe.com
 skyscanner.net
 namejet.com
 community.sophos.com
@@ -1346,6 +1352,8 @@ gogocommercialaviation.com
 ai-answers.alpha.canada.ca
 ai-answers.cdssandbox.xyz
 blawx.cdssandbox.xyz
+feedback-collection.cdssandbox.xyz
+feedback-viewer.cdssandbox.xyz
 reponses-ia.alpha.canada.ca
 reponses-ia.cdssandbox.xyz
 strapi.cdssandbox.xyz
@@ -3439,9 +3447,6 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 pro.nexuzhealth.hn

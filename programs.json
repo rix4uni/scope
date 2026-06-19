@@ -3117,20 +3117,6 @@
     "last_updated": "2026-06-19"
   },
   {
-    "name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "https://www.kuleuven.be/sapredir/huisvesting"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-19"
-  },
-  {
     "name": "Humo",
     "program_url": "https://www.intigriti.com/programs/dpgm/humo/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3574,33 +3560,6 @@
       "forms.mobilevikings.be"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-19"
-  },
-  {
-    "name": "Monzo Public Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "GBP12500",
-    "inscope_domains": [
-      "*.monzo.com",
-      "*.prod-ffs.io",
-      "1052238659",
-      "co.uk.getmondo",
-      "www.monzo.com",
-      "monzo.com"
-    ],
-    "outofscope_domains": [
-      "*/p2p/*",
-      "*/contact-discovery/*",
-      "*/inbound-p2p/*",
-      "*.monzo.me",
-      "community.monzo.com",
-      "login.internal.monzo.com",
-      "monzo.me"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-19"
@@ -9566,32 +9525,6 @@
     "last_updated": "2026-06-19"
   },
   {
-    "name": "OpenAI",
-    "program_url": "https://bugcrowd.com/engagements/openai",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$6500",
-    "inscope_domains": [
-      "https://api.openai.com",
-      "https://chat.openai.com",
-      "https://chat.openai.com",
-      "Third Party Targets",
-      "OpenAI API Keys",
-      "https://*.openai.org",
-      "https://*.openai.org",
-      "https://openai.com/",
-      "*.openai.com",
-      "https://platform.openai.com/playground",
-      "Other",
-      "Atlas",
-      "Codex Desktop"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-19"
-  },
-  {
     "name": "Safety Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/openai-safety",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10914,6 +10847,51 @@
       "█████████████████"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-19"
+  },
+  {
+    "name": "SimpliSafe Managed Bug Bounty Engagement",
+    "program_url": "https://bugcrowd.com/engagements/simplisafe",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$6000",
+    "inscope_domains": [
+      "https://bb1.simplisafe.com",
+      "https://bb2.simplisafe.com",
+      "https://cb.simplisafe.com",
+      "api.simplisafe.com (HSP Endpoints)",
+      "api.services.simplisafe.com (HSP Endpoints)",
+      "*.prd.cam.simplisafe.com (HSP Endpoints)",
+      "*.prd.platform.simplisafe.com (HSP Endpoints)",
+      "*.prd.services.simplisafe.com (HSP Endpoints)",
+      "https://webapp.simplisafe.com",
+      "https://webapp.simplisafe.co.uk",
+      "https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051",
+      "https://play.google.com/store/search?q=simplisafe&c=apps",
+      "mfa.simplisafe.com",
+      "*.prd.aser.simplisafe.com",
+      "*.prd.webapps.simplisafe.com",
+      "api.simplisafe.com (App Endpoints)",
+      "api.services.simplisafe.com (App Endpoints)",
+      "*.prd.services.simplisafe.com (App Endpoints)",
+      "*.prd.platform.simplisafe.com (App Endpoints)",
+      "media.simplisafe.com",
+      "*.prd.cam.simplisafe.com (App Endpoints)",
+      "https://simplisafe.com",
+      "https://simplisafe.co.uk",
+      "api.prd.commerce.simplisafe.com"
+    ],
+    "outofscope_domains": [
+      "auth.simplisafe.com",
+      "careers.simplisafe.com",
+      "clicks.simplisafe.com",
+      "library.simplisafe.com",
+      "livechat.simplisafe.com",
+      "press.simplisafe.com",
+      "support.simplisafe.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-19"
@@ -12793,6 +12771,8 @@
       "ai-answers.alpha.canada.ca",
       "ai-answers.cdssandbox.xyz",
       "blawx.cdssandbox.xyz",
+      "feedback-collection.cdssandbox.xyz",
+      "feedback-viewer.cdssandbox.xyz",
       "reponses-ia.alpha.canada.ca",
       "reponses-ia.cdssandbox.xyz",
       "strapi.cdssandbox.xyz"

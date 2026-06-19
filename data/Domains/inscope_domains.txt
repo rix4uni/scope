@@ -729,6 +729,18 @@ refinedsites.refinedwiki.com
 seekcdn.com
 graphql.seek.com
 auth.seek.com
+bb1.simplisafe.com
+bb2.simplisafe.com
+cb.simplisafe.com
+api.simplisafe.com
+api.services.simplisafe.com
+webapp.simplisafe.com
+webapp.simplisafe.co.uk
+mfa.simplisafe.com
+media.simplisafe.com
+simplisafe.com
+simplisafe.co.uk
+api.prd.commerce.simplisafe.com
 skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
@@ -3629,7 +3641,6 @@ myaccount.parool.nl
 shop.parool.nl
 webwinkel.parool.nl
 parool.nl
-kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
@@ -3773,8 +3784,6 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
-co.uk.getmondo
-monzo.com
 nvidia.com
 platform.nexo.com
 nexo.com
