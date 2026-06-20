@@ -608,7 +608,6 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
-*.nexuzhealth.pro
 *.vectus.in
 *.cpa.iqoption.com
 *.brightplus.be
@@ -3449,10 +3448,6 @@ libelle.nl
 login.liferay.com
 docs.moralis.io
 status.moralis.io
-pro.nexuzhealth.hn
-nexuzhealth.atlassian.net
-media.nexuzhealth.be
-idp-contact.nexuzhealth.be
 store.ninjakiwi.com
 support.ninjakiwi.com
 personio.de

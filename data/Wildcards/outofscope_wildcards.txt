@@ -608,7 +608,6 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
-*.nexuzhealth.pro
 *.vectus.in
 *.cpa.iqoption.com
 *.brightplus.be
