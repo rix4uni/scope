@@ -2655,8 +2655,6 @@ edgewall.com
 meta.git.wordpress.org
 *.wordcamp.org
 *.wordpress.net
-wordpress.net
-jobs.wordpress.net
 *.wordpress.org
 login.wordpress.org
 developer.wordpress.org
