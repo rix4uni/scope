@@ -631,10 +631,6 @@ g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.uphodl.com
-*.homerr.com
-*vintedpay.com
-*.vinted.ca
-*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net

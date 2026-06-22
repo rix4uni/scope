@@ -1158,16 +1158,6 @@ ic3.*.indriverapp.com
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
-*.vinted.net
-*.vinted.com
-*.vinted.fr
-*.vintedgo.com
-*old.vinted.com
-*test-escalations.vintedgo.com
-*badger.it.vinted.com
-*careers.vinted.com
-*news.vinted.com
-*company.vinted.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io

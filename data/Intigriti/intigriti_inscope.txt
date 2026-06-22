@@ -578,16 +578,6 @@ stationapi.veriff.com
 *.veriff.com
 developers.veriff.me
 veriff.com
-*.vinted.net
-*.vinted.com
-*.vinted.fr
-*.vintedgo.com
-*old.vinted.com
-*test-escalations.vintedgo.com
-*badger.it.vinted.com
-*careers.vinted.com
-*news.vinted.com
-*company.vinted.com
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 aiassistant.stage.vismaonline.com
