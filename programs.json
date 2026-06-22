@@ -4212,6 +4212,31 @@
     "last_updated": "2026-06-22"
   },
   {
+    "name": "Soundtrack Technologies",
+    "program_url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://soundtrack.io",
+      "1114799709",
+      "1114800186",
+      "api.soundtrackyourbrand.com",
+      "billing.api.soundtrackyourbrand.com",
+      "builds.soundtrackyourbrand.com",
+      "business.soundtrackyourbrand.com",
+      "com.soundtrackyourbrand.soundtrack.player",
+      "https://auth.api.soundtrackyourbrand.com/",
+      "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest",
+      "https://radio.api.soundtrackyourbrand.com/",
+      "macOS app"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-22"
+  },
+  {
     "name": "Speakap Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4731,16 +4756,18 @@
     "reward": "€2000",
     "inscope_domains": [
       "API's",
-      "cds.vrt.radio",
+      "Sockets",
       "Mobile Applications",
       "player.vrt.be",
       "profiel.vrt.be",
       "sporza.be",
+      "vrt.be/interactie/121-chat/",
       "vrt.be/vrtmax",
       "vrt.be/vrtnws",
       "Brand Sites"
     ],
     "outofscope_domains": [
+      "cds.vrt.radio",
       "innovatie.vrt.be",
       "shop.*.be"
     ],
@@ -7176,7 +7203,8 @@
       "https://marketplace.atlassian.com/apps/1238286/ai-ticket-assistant?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1237787?tab=overview&hosting=cloud",
       "https://marketplace.atlassian.com/apps/1220477/entra-id-azure-ad-attributes-sync-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview"
+      "https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -8182,17 +8210,15 @@
     "platform": "Bugcrowd",
     "reward": "$1500",
     "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira",
-      "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence",
-      "https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket",
-      "https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo",
-      "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru",
-      "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira",
-      "https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira",
+      "https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview",
+      "https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter",
       "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=datacenter&tab=overview",
-      "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence",
-      "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter"
+      "https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -41116,6 +41142,7 @@
       "nswh-witos.wirtgen-group.com",
       "ntrip-admin.starfirenetwork.com",
       "ntrip-ws.starfirenetwork.com",
+      "nui.channel-warranty-systems-devl-vpn2.use1.e06.c01.johndeerecloud.com",
       "nuxeoprod.pdp-ekvnextgen-prod-vpn.us.e20.c01.johndeerecloud.com",
       "oauth-dev.services.wirtgen-group.com",
       "oauth.services.wirtgen-group.com",
