@@ -200,6 +200,7 @@ argocd.*.uidapi.com
 *.rukkaz.com
 *.superawesome.com
 *.superawesome.tv
+*.cdssandbox.xyz
 *.cas.l3harris.com
 *.cts.l3harris.com
 *.ondato.net
@@ -608,7 +609,13 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
+*.monzo.me
+*.nexuzhealth.pro
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be

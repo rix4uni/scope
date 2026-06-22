@@ -917,11 +917,6 @@ verify.arkoselabs.com
 arkoselabs.com
 sandbox-royal.securegateway.com
 sandbox.securegateway.com
-app.dynamic-preprod.xyz
-app.dynamic.xyz
-dynamic.xyz
-demo.dynamic.xyz
-app.dynamicauth.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 notion.so

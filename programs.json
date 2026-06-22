@@ -3565,6 +3565,33 @@
     "last_updated": "2026-06-22"
   },
   {
+    "name": "Monzo Public Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "GBP12500",
+    "inscope_domains": [
+      "*.monzo.com",
+      "*.prod-ffs.io",
+      "1052238659",
+      "co.uk.getmondo",
+      "www.monzo.com",
+      "monzo.com"
+    ],
+    "outofscope_domains": [
+      "*/p2p/*",
+      "*/contact-discovery/*",
+      "*/inbound-p2p/*",
+      "*.monzo.me",
+      "community.monzo.com",
+      "login.internal.monzo.com",
+      "monzo.me"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-22"
+  },
+  {
     "name": "Moralis VDP",
     "program_url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3671,6 +3698,34 @@
       "https://platform.nexo.com/"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-22"
+  },
+  {
+    "name": "Nexuzhealth",
+    "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "be.nexuzhealth.mobile.cpv",
+      "be.nexuzhealth.mobile.kws",
+      "be.nexuzhealth.mobile.mynexuz",
+      "kws-companion/id1342124012",
+      "mynexuz.be",
+      "mynexuzhealth/id1459856321",
+      "liquidfiles.nexuzhealth.com",
+      "*.nexuzhealth.*"
+    ],
+    "outofscope_domains": [
+      "pro.nexuzhealth.hn",
+      "nexuzhealth.atlassian.net",
+      "nexuzhealth-pro/id1623165353",
+      "media.nexuzhealth.be",
+      "idp-contact.nexuzhealth.be",
+      "*.nexuzhealth.pro"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-22"
@@ -3795,6 +3850,29 @@
       "1584170510",
       "com.loyaltyworks.wavinapp",
       "*.vectus.in"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-22"
+  },
+  {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -4712,34 +4790,6 @@
       "api-wallet-sandbox.venly.io"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-22"
-  },
-  {
-    "name": "Veriff Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "1467907532",
-      "alchemy.veriff.com",
-      "api.flamingo-eu.veriff.com",
-      "api.us.veriff.me",
-      "api.veriff.me",
-      "com.veriff.demo",
-      "louvre.veriff.me",
-      "magic.veriff.me",
-      "station.veriff.com",
-      "stationapi.veriff.com",
-      "*.veriff.com",
-      "developers.veriff.me",
-      "www.veriff.com"
-    ],
-    "outofscope_domains": [
-      "https://station.veriff.com/config/"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-22"
@@ -12460,46 +12510,6 @@
     "last_updated": "2026-06-22"
   },
   {
-    "name": "Gogo VDP",
-    "program_url": "https://hackerone.com/gogo_vdp",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "gogogenius.stage.gogoair.cloud",
-      "https://gogo.aero",
-      "https://gosatcom.net",
-      "https://satcomdirect.com.br",
-      "https://satcomsimple.com",
-      "https://satcomtest.com",
-      "https://www.sdgov.gogoair.com",
-      "www.*.gogoair.*.com",
-      "www.aeroxr.com",
-      "www.gogoair.com"
-    ],
-    "outofscope_domains": [
-      "gogo-cards.com",
-      "gogo-tours.fr",
-      "gogo.mw",
-      "gogo705.com",
-      "gogo750.com",
-      "gogomuseumcafe.com",
-      "gogosqueez.com",
-      "gogotelugo.com",
-      "gogotours.ca",
-      "http://gpden.gogoair.com",
-      "http://gpmlb.gogoair.com",
-      "https://gogo.to",
-      "legacy.gogoair.com",
-      "www.gogo574.com",
-      "www.gogocloud.net",
-      "www.gogocommercialaviation.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-22"
-  },
-  {
     "name": "Coupang Taiwan",
     "program_url": "https://hackerone.com/coupang_tw",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -12587,7 +12597,6 @@
     "reward": "-",
     "inscope_domains": [
       "*.cds-snc.ca",
-      "*.cdssandbox.xyz",
       "*.digital.canada.ca",
       "*.notification.canada.ca",
       "*.numerique.canada.ca",
@@ -12603,6 +12612,7 @@
       "talent.canada.ca"
     ],
     "outofscope_domains": [
+      "*.cdssandbox.xyz",
       "All other assets",
       "ai-answers.alpha.canada.ca",
       "ai-answers.cdssandbox.xyz",
@@ -22229,24 +22239,6 @@
       "*.lacity.org"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-22"
-  },
-  {
-    "name": "Dynamic Labs",
-    "program_url": "https://hackerone.com/dynamic_labs",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "app.dynamic-preprod.xyz",
-      "app.dynamic.xyz",
-      "demo.dynamic.xyz"
-    ],
-    "outofscope_domains": [
-      "billing.dynamic.xyz"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-22"
@@ -40233,6 +40225,7 @@
       "aia-dev.witos.wirtgen-group.com",
       "aia.witos.wirtgen-group.com",
       "aibelts.com",
+      "aiops.deere.com",
       "aiproducts.com",
       "all.arcgis-cert-new-276364979.us-east-1.elb.amazonaws.com",
       "all.arcgis-prod-new-1191849026.us-east-1.elb.amazonaws.com",
@@ -59231,6 +59224,24 @@
       "com.quora.android",
       "com.quora.app.mobile",
       "http://poe.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-22"
+  },
+  {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
