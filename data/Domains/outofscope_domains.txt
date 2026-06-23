@@ -1411,6 +1411,7 @@ ingestion-tfa-dv3.tmp-nonprd.tenna.com
 ingestion-tfa-prd.tmp-prd.tenna.com
 ingestion-tfa-qa1.tmp-nonprd.tenna.com
 ingestion-tfa-stg.tmp-prd.tenna.com
+jd-icrm-integrations.azurewebsites.net
 johndeereclassic.com
 learn.tenna.com
 login.tenna.com

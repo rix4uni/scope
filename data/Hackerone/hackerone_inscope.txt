@@ -918,6 +918,11 @@ verify.arkoselabs.com
 arkoselabs.com
 sandbox-royal.securegateway.com
 sandbox.securegateway.com
+*.boredapeyachtclub.com
+*.otherside.xyz
+odk.otherside.xyz
+*.yuga.com
+*.yugalabs.io
 app.moderntreasury.com
 cdn.moderntreasury.com
 notion.so
@@ -1853,10 +1858,6 @@ rewire.com
 site.rewire.com
 travelcash.money
 whyisend.com
-api.s-kaupat.fi
-s-kaupat.fi
-api.sokos.fi
-sokos.fi
 digili.s-cloud.fi
 s-pankki.fi
 s-kanava.fi
@@ -1866,10 +1867,6 @@ fi.spankki
 crosskey.io
 mobile.s-pankki.fi
 online.s-pankki.fi
-tunnistus.s-ryhma.fi
-firstname.lastname
-email.com
-prisma.fi
 *.flickr.com
 flickr.com
 modefestival.com

@@ -1,2 +1,4 @@
-*.monzo.com
-*.prod-ffs.io
+*.boredapeyachtclub.com
+*.otherside.xyz
+*.yuga.com
+*.yugalabs.io

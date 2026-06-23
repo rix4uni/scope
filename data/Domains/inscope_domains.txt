@@ -104,8 +104,6 @@ bullish.com
 investor.bullish.com
 simnext.bullish-test.com
 api.simnext.bullish-test.com
-canva.com
-api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
@@ -1843,6 +1841,7 @@ verify.arkoselabs.com
 arkoselabs.com
 sandbox-royal.securegateway.com
 sandbox.securegateway.com
+odk.otherside.xyz
 app.moderntreasury.com
 cdn.moderntreasury.com
 notion.so
@@ -2553,10 +2552,6 @@ rewire.com
 site.rewire.com
 travelcash.money
 whyisend.com
-api.s-kaupat.fi
-s-kaupat.fi
-api.sokos.fi
-sokos.fi
 digili.s-cloud.fi
 s-pankki.fi
 s-kanava.fi
@@ -2566,10 +2561,6 @@ fi.spankki
 crosskey.io
 mobile.s-pankki.fi
 online.s-pankki.fi
-tunnistus.s-ryhma.fi
-firstname.lastname
-email.com
-prisma.fi
 flickr.com
 modefestival.com
 whatismode.com
@@ -3866,13 +3857,6 @@ transsicura.ch
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-soundtrack.io
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com
