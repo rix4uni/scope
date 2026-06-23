@@ -1,1 +1,2 @@
-odk.otherside.xyz
+canva.com
+api.canva.com

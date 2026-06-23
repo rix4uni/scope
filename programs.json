@@ -6558,6 +6558,37 @@
     "last_updated": "2026-06-23"
   },
   {
+    "name": "Canva",
+    "program_url": "https://bugcrowd.com/engagements/canva",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$15000",
+    "inscope_domains": [
+      "https://www.canva.com",
+      "https://www.canva.com/developers/",
+      "Apps SDK Sandboxing",
+      "https://api.canva.com",
+      "*.canva.com",
+      "*.canva-apps.com",
+      "https://*.canva.tech",
+      "https://www.canva.com/en_au/help/chatgpt-templates/",
+      "https://www.canva.com/integrations/slack/",
+      "Canva Desktop (macOS / Windows)",
+      "Canva (iOS)",
+      "Canva (Android)",
+      "Canva (Chrome Extension)",
+      "*.canva.cn",
+      "*.canva-apps.cn",
+      "Leaked Credentials and Secrets (Canva Employee/Contractor)",
+      "Leaked Credentials and Secrets (Canva User)",
+      "3rd-Party Provider Vulnerability"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-23"
+  },
+  {
     "name": "Majid Al Futtaim Retail",
     "program_url": "https://bugcrowd.com/engagements/carrefour",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7123,22 +7154,6 @@
       "Dell Digital Delivery",
       "Dell Enterprise Hub"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-23"
-  },
-  {
-    "name": "DevAcrobats",
-    "program_url": "https://bugcrowd.com/engagements/devacrobats-market",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$1500",
-    "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=datacenter&tab=overview",
-      "https://marketplace.atlassian.com/apps/1234873/user-activity-timeline-history-for-jira?hosting=cloud&tab=overview"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-23"
@@ -18880,7 +18895,6 @@
       "familysecuritytoday.com",
       "fraudarmorservice.com",
       "fraudscout.com",
-      "go.cyberidlock.com",
       "goezshield.com",
       "grangeidentitytheft.com",
       "guac-1.aws3.ezshield.ws",
@@ -18904,7 +18918,6 @@
       "myidmanager.ca",
       "myidmanager.com",
       "mytrueidentity.com",
-      "news.cyberidlock.com",
       "newsroom.transunion.com.br",
       "newsroom.transunioncentralamerica.com",
       "newsroom.transunioncibil.com",
@@ -40882,6 +40895,7 @@
       "isgcareers.deere.com",
       "it-recertification.services.wirtgen-group.com",
       "it.smartapply.com",
+      "jd-icrm-integrations.azurewebsites.net",
       "jd-order-status-cons.services.wirtgen-group.com",
       "jd-order-status.services.wirtgen-group.com",
       "jd.starfirenetwork.com",
@@ -42086,7 +42100,6 @@
       "ingestion-tfa-prd.tmp-prd.tenna.com",
       "ingestion-tfa-qa1.tmp-nonprd.tenna.com",
       "ingestion-tfa-stg.tmp-prd.tenna.com",
-      "jd-icrm-integrations.azurewebsites.net",
       "johndeereclassic.com",
       "learn.tenna.com",
       "login.tenna.com",
