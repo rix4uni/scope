@@ -2344,20 +2344,6 @@
     "last_updated": "2026-06-23"
   },
   {
-    "name": "Challenge 0626",
-    "program_url": "https://www.intigriti.com/programs/intigriti/challenge0626/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "https://challenge-0626.intigriti.io"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-23"
-  },
-  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -8185,15 +8171,17 @@
     "platform": "Bugcrowd",
     "reward": "$1500",
     "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket?hosting=datacenter",
-      "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview",
-      "https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview",
+      "https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter",
       "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=datacenter&tab=overview",
-      "https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter",
-      "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=cloud&tab=overview"
+      "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -58350,7 +58338,8 @@
       "*.mwbsys.com",
       "*.threatdown.com",
       "AdwCleaner",
-      "Any other Malwarebytes and ThreatDown asset",
+      "Any other Malwarebytes asset",
+      "Any other ThreatDown asset",
       "BrowserGuard (Firefox/Chrome/Safari browser extension)",
       "Malwarebytes Anti-Exploit",
       "Malwarebytes Privacy (VPN)",
@@ -61116,7 +61105,6 @@
       "SSL/TLS",
       "Spectrum",
       "Stream",
-      "Turnstile",
       "Vectorize",
       "WARP Mobile Apps",
       "WARP desktop client",
@@ -61135,6 +61123,7 @@
     ],
     "outofscope_domains": [
       "172.65.0.0/16 ",
+      "Turnstile",
       "community.cloudflare.com",
       "events.www.cloudflare.com",
       "https://github.com/cloudflare/vinext-private",
