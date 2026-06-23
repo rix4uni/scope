@@ -702,6 +702,7 @@ prd-ring-web-us.prd.rings.solutions
 publicsafety.ring.com
 secure.tkfweb.com
 *.bmeinntech.es
+disclosure-test.six-exchange-regulation.com
 secure-test.six-swiss-exchange.com
 web3.sdx.com
 sdx.com

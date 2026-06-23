@@ -112,8 +112,6 @@ trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 *.lxc.liferay.com
 login.liferay.com
@@ -123,11 +121,6 @@ login.internal.monzo.com
 monzo.me
 docs.moralis.io
 status.moralis.io
-pro.nexuzhealth.hn
-nexuzhealth.atlassian.net
-media.nexuzhealth.be
-idp-contact.nexuzhealth.be
-*.nexuzhealth.pro
 store.ninjakiwi.com
 support.ninjakiwi.com
 *.vectus.in

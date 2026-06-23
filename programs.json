@@ -2654,6 +2654,38 @@
     "last_updated": "2026-06-23"
   },
   {
+    "name": "Delen Private Bank",
+    "program_url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "api.digital.delen.be ",
+      "api.digital.delen.lu ",
+      "app.delen.be ",
+      "app.delen.ch ",
+      "app.delen.lu ",
+      "auth.digital.delen.be ",
+      "auth.digital.delen.lu ",
+      "be.delen.digital",
+      "delen/id1064839588",
+      "login.delen.be ",
+      "login.delen.ch ",
+      "login.delen.lu ",
+      "login.oyens.com",
+      "status.delen.be ",
+      "sts.delen.be ",
+      "www.cadelam.be ",
+      "www.cadelux.lu/en ",
+      "www.delen.bank",
+      "www.delen.be/en "
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-23"
+  },
+  {
     "name": "DigitalOcean",
     "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3071,6 +3103,20 @@
     "last_updated": "2026-06-23"
   },
   {
+    "name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "https://www.kuleuven.be/sapredir/huisvesting"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-23"
+  },
+  {
     "name": "Humo",
     "program_url": "https://www.intigriti.com/programs/dpgm/humo/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3308,37 +3354,6 @@
       "*.prijsmepper.nl"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-23"
-  },
-  {
-    "name": "Lansweeper Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "Lansweeper Discovery",
-      "app.lansweeper.com",
-      "fb.lansweeper.com",
-      "edge.lansweeper.com",
-      "api.lansweeper.com",
-      "backoffice.lansweeper.com",
-      "https://lsagentrelay.lansweeper.com/",
-      "app.lansweeper.com/trial",
-      "autoupdateapi.lansweeper.com",
-      "docs.lansweeper.com",
-      "login.lansweeper.com",
-      "on-premises software",
-      "www.lansweeper.com",
-      "*.lansweeper.com"
-    ],
-    "outofscope_domains": [
-      " lsrunase2.0 and lsencrypt2.0 ",
-      "careers.lansweeper.com",
-      "www.lansweeper.com/forum"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-23"
@@ -3652,34 +3667,6 @@
       "https://platform.nexo.com/"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-23"
-  },
-  {
-    "name": "Nexuzhealth",
-    "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "be.nexuzhealth.mobile.cpv",
-      "be.nexuzhealth.mobile.kws",
-      "be.nexuzhealth.mobile.mynexuz",
-      "kws-companion/id1342124012",
-      "mynexuz.be",
-      "mynexuzhealth/id1459856321",
-      "liquidfiles.nexuzhealth.com",
-      "*.nexuzhealth.*"
-    ],
-    "outofscope_domains": [
-      "pro.nexuzhealth.hn",
-      "nexuzhealth.atlassian.net",
-      "nexuzhealth-pro/id1623165353",
-      "media.nexuzhealth.be",
-      "idp-contact.nexuzhealth.be",
-      "*.nexuzhealth.pro"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-23"
@@ -4235,6 +4222,31 @@
       "http://www.whynot.com/",
       "https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/",
       "www.socialdeal.nl"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-23"
+  },
+  {
+    "name": "Soundtrack Technologies",
+    "program_url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://soundtrack.io",
+      "1114799709",
+      "1114800186",
+      "api.soundtrackyourbrand.com",
+      "billing.api.soundtrackyourbrand.com",
+      "builds.soundtrackyourbrand.com",
+      "business.soundtrackyourbrand.com",
+      "com.soundtrackyourbrand.soundtrack.player",
+      "https://auth.api.soundtrackyourbrand.com/",
+      "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest",
+      "https://radio.api.soundtrackyourbrand.com/",
+      "macOS app"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -12543,6 +12555,46 @@
     "last_updated": "2026-06-23"
   },
   {
+    "name": "Gogo VDP",
+    "program_url": "https://hackerone.com/gogo_vdp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "gogogenius.stage.gogoair.cloud",
+      "https://gogo.aero",
+      "https://gosatcom.net",
+      "https://satcomdirect.com.br",
+      "https://satcomsimple.com",
+      "https://satcomtest.com",
+      "https://www.sdgov.gogoair.com",
+      "www.*.gogoair.*.com",
+      "www.aeroxr.com",
+      "www.gogoair.com"
+    ],
+    "outofscope_domains": [
+      "gogo-cards.com",
+      "gogo-tours.fr",
+      "gogo.mw",
+      "gogo705.com",
+      "gogo750.com",
+      "gogomuseumcafe.com",
+      "gogosqueez.com",
+      "gogotelugo.com",
+      "gogotours.ca",
+      "http://gpden.gogoair.com",
+      "http://gpmlb.gogoair.com",
+      "https://gogo.to",
+      "legacy.gogoair.com",
+      "www.gogo574.com",
+      "www.gogocloud.net",
+      "www.gogocommercialaviation.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-23"
+  },
+  {
     "name": "Coupang Taiwan",
     "program_url": "https://hackerone.com/coupang_tw",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -14117,7 +14169,7 @@
     "last_updated": "2026-06-23"
   },
   {
-    "name": "Kraken Tech",
+    "name": "Kraken Tech (VDP)",
     "program_url": "https://hackerone.com/kraken-tech",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
@@ -20166,6 +20218,7 @@
       "https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871",
       "https://apps.apple.com/mx/app/six-id/id1620496931",
       "https://apps.apple.com/us/app/bme-conecta/id6443938949",
+      "https://disclosure-test.six-exchange-regulation.com/",
       "https://play.google.com/store/apps/details?id=com.sixgroup.debixplus",
       "https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1",
       "https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta",
@@ -20182,6 +20235,7 @@
       "193.109.229.71",
       "194.98.112.0/24",
       "213.41.106.0/24",
+      "https://disclosure.six-exchange-regulation.com/",
       "https://providerhub.six-group.com/",
       "https://www.six-structured-products.com/",
       "saferpay.com"
