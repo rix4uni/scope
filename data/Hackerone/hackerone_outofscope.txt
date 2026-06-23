@@ -2214,6 +2214,7 @@ dl.getforma.com
 guide.airtable.com
 support.airtable.com
 behance.net
+contentcredentials.org
 *.formassembly.com
 *.tfaforms.com
 *.tfaforms.net

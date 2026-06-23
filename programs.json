@@ -12952,12 +12952,14 @@
     "platform": "HackerOne",
     "reward": "-",
     "inscope_domains": [
+      "*.cognition.ai",
+      "*.cognition.com",
       "*.devin.ai",
-      "Windsurf IDE",
+      "*.windsurf.com",
+      "Devin CLI",
+      "Devin Desktop",
       "Windsurf Plugins",
-      "cognition.ai",
-      "deepwiki.com",
-      "http://windsurf.com"
+      "deepwiki.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -60614,7 +60616,6 @@
       "fonts.adobe.com",
       "http://federatedid-na1.services.adobe.com",
       "http://ims-na1.adobelogin.com",
-      "https://contentcredentials.org/",
       "learningmanagerstage4.adobe.com",
       "magento.com",
       "net.s2stagehance.com",
@@ -60628,7 +60629,8 @@
     "outofscope_domains": [
       "Magento 1 Enterprise (Commerce) and Community (Open Source) Editions",
       "Tier 3 (AI Bonus Tier)",
-      "behance.net"
+      "behance.net",
+      "https://contentcredentials.org/"
     ],
     "issues_reported": [],
     "scamhit": "",
