@@ -62,6 +62,7 @@ portalapi.*.afterpay.com
 *.sys.comcast.net
 *.dell.com
 *.delltechnologies.com
+casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
 *.lab.epam.com

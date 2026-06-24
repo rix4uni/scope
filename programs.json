@@ -6699,37 +6699,6 @@
     "last_updated": "2026-06-24"
   },
   {
-    "name": "Canva",
-    "program_url": "https://bugcrowd.com/engagements/canva",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$15000",
-    "inscope_domains": [
-      "https://www.canva.com",
-      "https://www.canva.com/developers/",
-      "Apps SDK Sandboxing",
-      "https://api.canva.com",
-      "*.canva.com",
-      "*.canva-apps.com",
-      "https://*.canva.tech",
-      "https://www.canva.com/en_au/help/chatgpt-templates/",
-      "https://www.canva.com/integrations/slack/",
-      "Canva Desktop (macOS / Windows)",
-      "Canva (iOS)",
-      "Canva (Android)",
-      "Canva (Chrome Extension)",
-      "*.canva.cn",
-      "*.canva-apps.cn",
-      "Leaked Credentials and Secrets (Canva Employee/Contractor)",
-      "Leaked Credentials and Secrets (Canva User)",
-      "3rd-Party Provider Vulnerability"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-24"
-  },
-  {
     "name": "Majid Al Futtaim Retail",
     "program_url": "https://bugcrowd.com/engagements/carrefour",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7450,6 +7419,25 @@
       "https://marketplace.atlassian.com/apps/1229459/elements-overview-custom-display-for-related-issues?hosting=cloud",
       "https://marketplace.atlassian.com/apps/1232142/elements-connect-helper-app?hosting=cloud",
       "https://marketplace.atlassian.com/apps/1234289/elements-pulse-customer-experience-insights-for-jsm?hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-24"
+  },
+  {
+    "name": "Entain Game Logic Flaws Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/entain-glf-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$6500",
+    "inscope_domains": [
+      "https://casino.partycasino.com",
+      "https://casino.bwin.com",
+      "https://casino.sportingbet.com",
+      "https://www.ladbrokes.com/en/games",
+      "https://www.coral.co.uk/en/games",
+      "https://casino.*.betmgm.com/en/games (read \"Find a Game to test on our targets\")"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

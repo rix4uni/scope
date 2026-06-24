@@ -1,5 +1,1 @@
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
-*.voi.com
-*.voiscooters.com
+casino.*.betmgm.com
