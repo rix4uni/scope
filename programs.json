@@ -28544,10 +28544,12 @@
       "203.79.37.2/29",
       "62.216.152.46/29",
       "82.196.42.196/28",
+      "Hilton Franchised Properties",
       "hilton.com",
       "hilton.io",
       "hiltonbusinessonline.com",
-      "hiltonlocalbiz.com"
+      "hiltonlocalbiz.com",
+      "id635150066"
     ],
     "outofscope_domains": [
       "*.hiltonhotels.jp",
