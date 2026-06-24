@@ -7295,16 +7295,16 @@
     "platform": "Bugcrowd",
     "reward": "$5000",
     "inscope_domains": [
-      "Actively Supported, Bounty Eligible Dell Products",
-      "Actively Supported, Non-Reward Eligible Dell Products"
+      "█████████████████████████████████████████████████",
+      "█████████████████████████████████████████████████████"
     ],
     "outofscope_domains": [
-      "*.dell.com/*",
-      "*.delltechnologies.com/*",
-      "Virtual Appliance (vApp) Manager",
-      "Dell ObjectScale",
-      "Dell Digital Delivery",
-      "Dell Enterprise Hub"
+      "████████████",
+      "████████████████████████",
+      "████████████████████████████████",
+      "████████████████",
+      "█████████████████████",
+      "███████████████████"
     ],
     "issues_reported": [],
     "scamhit": "",
