@@ -3359,6 +3359,20 @@
     "last_updated": "2026-06-24"
   },
   {
+    "name": "LeakyJar Challenge",
+    "program_url": "https://www.intigriti.com/programs/intigriti/challengeleakyjar/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "https://leakyjar.intigriti.io"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-24"
+  },
+  {
     "name": "Libelle",
     "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
