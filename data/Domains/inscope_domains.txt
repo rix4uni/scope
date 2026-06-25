@@ -172,12 +172,9 @@ library.elementor.com
 elementor.careers
 activitylog.io
 send2.co
-casino.partycasino.com
-casino.bwin.com
-casino.sportingbet.com
+partypoker.com
 ladbrokes.com
 coral.co.uk
-partypoker.com
 galabingo.com
 partycasino.com
 bwin.com
@@ -726,6 +723,13 @@ portal.riskrecon.eu
 mcp.recordedfuture.com
 refined.site
 refinedsites.refinedwiki.com
+app.requirementyogi.com
+api.requirementyogi.com
+auth.requirementyogi.com
+confluence.requirementyogi.com
+jira.requirementyogi.com
+ww1.requirementyogi.cloud
+ww2.requirementyogi.cloud
 seekcdn.com
 graphql.seek.com
 auth.seek.com

@@ -1,3 +1,7 @@
-casino.partycasino.com
-casino.bwin.com
-casino.sportingbet.com
+app.requirementyogi.com
+api.requirementyogi.com
+auth.requirementyogi.com
+confluence.requirementyogi.com
+jira.requirementyogi.com
+ww1.requirementyogi.cloud
+ww2.requirementyogi.cloud

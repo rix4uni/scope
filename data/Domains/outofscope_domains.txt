@@ -522,6 +522,7 @@ em8918.mortgagechoice.com.au
 cloudhq.mortgagechoice.com.au
 cloudhqforms.mortgagechoice.com.au
 developersites.com.au
+docs.requirementyogi.com
 auth.simplisafe.com
 careers.simplisafe.com
 clicks.simplisafe.com
