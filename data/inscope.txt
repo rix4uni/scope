@@ -62,6 +62,7 @@ portalapi.*.afterpay.com
 *.sys.comcast.net
 *.dell.com
 *.delltechnologies.com
+casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
 *.lab.epam.com
@@ -1048,6 +1049,7 @@ ic3.*.indriverapp.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1461,9 +1463,12 @@ library.elementor.com
 elementor.careers
 activitylog.io
 send2.co
-partypoker.com
+casino.partycasino.com
+casino.bwin.com
+casino.sportingbet.com
 ladbrokes.com
 coral.co.uk
+partypoker.com
 galabingo.com
 partycasino.com
 bwin.com
@@ -4833,6 +4838,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
