@@ -1,5 +1,1 @@
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
-mynexuz.be
-liquidfiles.nexuzhealth.com
+cz.skodaauto.myskoda
