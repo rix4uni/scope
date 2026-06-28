@@ -853,6 +853,3 @@ app.ynab.com
 support.ynab.com
 develop-app.ynab.com
 learn.ynab.com
-support.zendesk.com
-zendesk.com
-*.zdassets.com

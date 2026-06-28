@@ -1283,7 +1283,6 @@ shop.tiktok.com
 tiktok.com
 pangleglobal.com
 soundon.global
-soundonw.us
 api-gateway.polygon.technology
 api-polygon-tokens.polygon.technology
 faucet-api.polygon.technology
@@ -2571,10 +2570,6 @@ dysoncanada.ca
 fi.dyson.com
 gr.dyson.com
 sa.dyson.com
-*.nordvpn.com
-nordpass.com
-nordvpn.com
-app.nordpass.com
 *.lyst.co
 *.lyst.com
 *.lystit.com

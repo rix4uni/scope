@@ -2118,20 +2118,6 @@
     "last_updated": "2026-06-28"
   },
   {
-    "name": "BMC",
-    "program_url": "https://www.intigriti.com/programs/randstad/bmc/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "*.bmc.nl"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
     "name": "BMW Group",
     "program_url": "https://www.intigriti.com/programs/bmw/bmwgroup/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2826,10 +2812,10 @@
       "*.reclaim.ai",
       "*.helloworks.com",
       "*.hellosign.com",
-      "*.dash.ai",
-      "replay.dropbox.com"
+      "*.dash.ai"
     ],
     "outofscope_domains": [
+      "replay.dropbox.com",
       "Boxcryptor",
       "Formswift",
       "Dropbox Passwords",
@@ -3359,37 +3345,6 @@
     "last_updated": "2026-06-28"
   },
   {
-    "name": "Lansweeper Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "Lansweeper Discovery",
-      "app.lansweeper.com",
-      "fb.lansweeper.com",
-      "edge.lansweeper.com",
-      "api.lansweeper.com",
-      "backoffice.lansweeper.com",
-      "https://lsagentrelay.lansweeper.com/",
-      "app.lansweeper.com/trial",
-      "autoupdateapi.lansweeper.com",
-      "docs.lansweeper.com",
-      "login.lansweeper.com",
-      "on-premises software",
-      "www.lansweeper.com",
-      "*.lansweeper.com"
-    ],
-    "outofscope_domains": [
-      " lsrunase2.0 and lsencrypt2.0 ",
-      "careers.lansweeper.com",
-      "www.lansweeper.com/forum"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
     "name": "LeakyJar Challenge",
     "program_url": "https://www.intigriti.com/programs/intigriti/challengeleakyjar/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3579,33 +3534,6 @@
     "last_updated": "2026-06-28"
   },
   {
-    "name": "Monzo Public Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "GBP12500",
-    "inscope_domains": [
-      "*.monzo.com",
-      "*.prod-ffs.io",
-      "1052238659",
-      "co.uk.getmondo",
-      "www.monzo.com",
-      "monzo.com"
-    ],
-    "outofscope_domains": [
-      "*/p2p/*",
-      "*/contact-discovery/*",
-      "*/inbound-p2p/*",
-      "*.monzo.me",
-      "community.monzo.com",
-      "login.internal.monzo.com",
-      "monzo.me"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
     "name": "Moralis VDP",
     "program_url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3712,34 +3640,6 @@
       "https://platform.nexo.com/"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
-    "name": "Nexuzhealth",
-    "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "be.nexuzhealth.mobile.cpv",
-      "be.nexuzhealth.mobile.kws",
-      "be.nexuzhealth.mobile.mynexuz",
-      "kws-companion/id1342124012",
-      "mynexuz.be",
-      "mynexuzhealth/id1459856321",
-      "liquidfiles.nexuzhealth.com",
-      "*.nexuzhealth.*"
-    ],
-    "outofscope_domains": [
-      "pro.nexuzhealth.hn",
-      "nexuzhealth.atlassian.net",
-      "nexuzhealth-pro/id1623165353",
-      "media.nexuzhealth.be",
-      "idp-contact.nexuzhealth.be",
-      "*.nexuzhealth.pro"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-28"
@@ -3870,29 +3770,6 @@
     "last_updated": "2026-06-28"
   },
   {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3939,82 +3816,6 @@
       "support.personio.de",
       "www.personio.com",
       "www.personio.es"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
-    "name": "Port of Antwerp-Bruges",
-    "program_url": "https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4500",
-    "inscope_domains": [
-      "188.118.8.0/25",
-      "94.107.237.192/26",
-      " login-test.portofantwerpbruges.com/",
-      "api-accpt.portofantwerp.com",
-      "api-accpt.portofantwerpbruges.com",
-      "api.portofantwerp.com",
-      "api.portofantwerpbruges.com",
-      "apps-accpt.portofantwerp.com",
-      "apps-accpt.portofantwerpbruges.com",
-      "apps.portofantwerp.com",
-      "apps.portofantwerpbruges.com",
-      "as2-accpt.portofantwerp.com",
-      "as2-accpt.portofantwerpbruges.com",
-      "as2.portofantwerp.com",
-      "as2.portofantwerpbruges.com",
-      "digitalspecs.portofantwerpbruges.com",
-      "login-accpt.portofantwerpbruges.com",
-      "maximo-accpt.portofantwerp.com",
-      "maximo-accpt.portofantwerpbruges.com",
-      "maximo.portofantwerp.com",
-      "maximo.portofantwerpbruges.com",
-      "maximo.portofantwerpbruges.com",
-      "my-accpt.portofantwerp.com",
-      "my-accpt.portofantwerpbruges.com",
-      "my.portofantwerp.com",
-      "my.portofantwerpbruges.com",
-      "notula-accpt.portofantwerpbruges.com",
-      "oprc.portofantwerpbruges.com",
-      "register-accpt.portofantwerp.com",
-      "register-accpt.portofantwerpbruges.com",
-      "servicedesk-accpt.portofantwerp.com",
-      "servicedesk-accpt.portofantwerpbruges.com",
-      "servicedesk.portofantwerp.com",
-      "servicedesk.portofantwerpbruges.com",
-      "share-accpt.portofantwerp.com",
-      "share-accpt.portofantwerpbruges.com",
-      "share.portofantwerp.com",
-      "share.portofantwerpbruges.com",
-      "webapps-accpt.portofantwerp.com",
-      "webapps-accpt.portofantwerpbruges.com",
-      "webapps-test.portofantwerpbruges.com/xui",
-      "webapps.portofantwerp.com",
-      "webapps.portofantwerpbruges.com",
-      "wiki-accpt.portofantwerp.com",
-      "wiki-accpt.portofantwerpbruges.com",
-      "wiki.portofantwerp.com",
-      "wiki.portofantwerpbruges.com",
-      "www.portofantwerpbruges.com",
-      "erpx.unit4cloud.com/u4erx_pab_acp1",
-      "erpx.unit4cloud.com/u4erx_pab_prev",
-      "erpx.unit4cloud.com/u4erx_pab_prod",
-      "*.portofantwerp.com",
-      "*.portofantwerpbruges.com"
-    ],
-    "outofscope_domains": [
-      "future.portofantwerp.com",
-      "future.portofantwerpbruges.com",
-      "jobs.portofantwerp.com",
-      "jobs.portofantwerpbruges.com",
-      "media.portofantwerp.com",
-      "media.portofantwerpbruges.com",
-      "register.portofantwerp.com",
-      "register.portofantwerpbruges.com",
-      "www.oursustainableport.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -4100,41 +3901,6 @@
       "*.uniqueselect.be",
       "*.usgprofessionals.be",
       "https://pen-app.entrili.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
-    "name": "RIPE NCC",
-    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "access.ripe.net",
-      "https://github.com/RIPE-NCC/rpki-commons",
-      "https://github.com/RIPE-NCC/rpki-core",
-      "https://github.com/RIPE-NCC/whois",
-      "lirportal.ripe.net",
-      "*.ripe.net",
-      "193.0.0.0/19 and 2001:67c:2e8::/48",
-      "https://github.com/RIPE-NCC/rpki-monitoring",
-      "https://github.com/RIPE-NCC/rpki-publication-server",
-      "https://github.com/RIPE-NCC/rpki-ta-0",
-      "https://github.com/RIPE-NCC/rsyncit",
-      "Assets owned by RIPE NCC"
-    ],
-    "outofscope_domains": [
-      "*.anchors.atlas.ripe.net",
-      "*.probes.atlas.ripe.net",
-      "193.0.0.160/27",
-      "2001:67c:2e8:3::/64",
-      "Any *.ripe.net host that is located outside of the in-scope IP ranges ",
-      "Any of the beta/dev environments",
-      "exams.ripe.net",
-      "RIPE Meeting network (2001:67c:64::/48 and 193.0.24.0/21)",
-      "ripe(1to87).ripe.net"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -4485,26 +4251,6 @@
     "last_updated": "2026-06-28"
   },
   {
-    "name": "Tempo-Team ",
-    "program_url": "https://www.intigriti.com/programs/randstad/tempo-team/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "*.tempo-team.*",
-      "Any related Tempo-Team domain",
-      "www.tempo-team.be",
-      "www.tempo-team.com",
-      "www.tempo-team.nl"
-    ],
-    "outofscope_domains": [
-      "*.tempo-team.de"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
     "name": "The Coca-Cola Company Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/tccc/coca-cola/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4663,66 +4409,6 @@
     "last_updated": "2026-06-28"
   },
   {
-    "name": "TrueLayer",
-    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "api.truelayer[-sandbox].com",
-      "api.mtls.truelayer[-sandbox].com",
-      "auth.truelayer[-sandbox].com",
-      "auth.mtls.truelayer[-sandbox].com",
-      "app.truelayer[-sandbox].com",
-      "login-api.truelayer[-sandbox].com",
-      "login.truelayer[-sandbox].com",
-      "onboarding-api.truelayer.com",
-      "pay-api.truelayer[-sandbox].com",
-      "pay.truelayer[-sandbox].com",
-      "paydirect.truelayer[-sandbox].com",
-      "payment.truelayer[-sandbox].com",
-      "payments-experience-api.truelayer[-sandbox].com",
-      "user-authentication-api.truelayer[-sandbox].com",
-      "users-api.truelayer.com",
-      "C# SDK",
-      "console-backend.truelayer[-sandbox].com",
-      "console.truelayer[-sandbox].com",
-      "sftp.reports.truelayer.com",
-      "Java SDK",
-      "PHP SDK",
-      "TrueLayer for Magento (Magento plugin)",
-      "TrueLayer for WooCommerce (WordPress plugin)",
-      "shopify-admin.truelayer.com",
-      "shop-pay-app-api.truelayer.com",
-      "truelayer-signing",
-      "webhooks.truelayer[-sandbox].com",
-      "*.truelayer.cloud",
-      "*.truelayer.com",
-      "*.truelayer.io",
-      "iOS SDK",
-      "React Native SDK",
-      "Web SDK",
-      "Rust SDK"
-    ],
-    "outofscope_domains": [
-      "trust.truelayer.com",
-      "banks.truelayer.com",
-      "careers.truelayer.com",
-      "docs.truelayer.com",
-      "docs.houston.truelayer.com",
-      "https://truelayer.com/contact/",
-      "index.truelayer.com",
-      "info.truelayer.com",
-      "signin.truelayer.com",
-      "support.truelayer.com",
-      "status.truelayer.com",
-      "truelayer.zendesk.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
     "name": "Trusted Firmware",
     "program_url": "https://www.intigriti.com/programs/arm/trustedfirmware/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4733,20 +4419,6 @@
       "Mbed TLS & TF-PSA-Crypto",
       "TrustedFirmware-A (TF-A)",
       "TrustedFirmware-M (TF-M)"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
-    "name": "Twago",
-    "program_url": "https://www.intigriti.com/programs/randstad/twago/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "*.itprojects.talent-community.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -5411,20 +5083,6 @@
     "inscope_domains": [
       "*.wartsila.com",
       "Any Wartsila related domain "
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
-    "name": "Yacht",
-    "program_url": "https://www.intigriti.com/programs/randstad/yacht/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "*.yacht.nl"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -11024,24 +10682,6 @@
     "last_updated": "2026-06-28"
   },
   {
-    "name": "Shipwire",
-    "program_url": "https://bugcrowd.com/engagements/shipwire",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$null",
-    "inscope_domains": [
-      "████████████████",
-      "████████████████",
-      "████████████████",
-      "█████████████████████",
-      "█████████████████"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
     "name": "SimpliSafe Managed Bug Bounty Engagement",
     "program_url": "https://bugcrowd.com/engagements/simplisafe",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -12582,32 +12222,6 @@
     "last_updated": "2026-06-28"
   },
   {
-    "name": "Zendesk Managed Bug Bounty Engagement",
-    "program_url": "https://bugcrowd.com/engagements/zendesk",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$50000",
-    "inscope_domains": [
-      "Zendesk AI",
-      "Zendesk Front End",
-      "Zendesk Suite",
-      "Zendesk Mobile Applications",
-      "Zendesk Public Repositories",
-      "Zendesk Marketplace Apps created by Zendesk"
-    ],
-    "outofscope_domains": [
-      "support.zendesk.com ",
-      "www.zendesk.com",
-      "\\*.zdassets.com  ",
-      "Zendesk for Sales or Zendesk Sell ",
-      "Zendesk supply chain, vendors and contractors ",
-      "Already public vulnerabilities (i.e. CVE’s) in infrastructure, frameworks or libraries we use"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
     "name": "Zola Managed Bug Bounty ",
     "program_url": "https://bugcrowd.com/engagements/zola-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -12624,6 +12238,20 @@
       "███████████████████████",
       "█████████████████████████████████████████"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-28"
+  },
+  {
+    "name": "Bugcrowd Bug Bounty",
+    "program_url": "https://gov.bugcrowd.net/engagements/bugcrowd-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$20",
+    "inscope_domains": [
+      "████████████"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-28"
@@ -41556,6 +41184,7 @@
       "permcropstaging.sentera.com",
       "permcropstaging2.sentera.com",
       "persistent-header.deere.com",
+      "personalize.deere.com",
       "phpmv.monosem-inc.com",
       "phpmyvisites.monosem-inc.com",
       "piwik.monosem-inc.com",
@@ -53263,8 +52892,7 @@
       "shop.tiktok.com",
       "tiktok.com",
       "www.pangleglobal.com",
-      "www.soundon.global",
-      "www.soundonw.us"
+      "www.soundon.global"
     ],
     "outofscope_domains": [
       "https://developers.tiktok.com/minis/"
@@ -54933,20 +54561,6 @@
       "www.outpost.co",
       "www.teamoutpost.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
-    "name": "Overloop",
-    "program_url": "https://hackerone.com/overloop",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "app.overloop.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-28"
@@ -59389,36 +59003,6 @@
     "last_updated": "2026-06-28"
   },
   {
-    "name": "Nord Security",
-    "program_url": "https://hackerone.com/nordsecurity",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "*.nordvpn.com",
-      "1486322860",
-      "905953485",
-      "All Mobile Assets",
-      "NordPass - Linux Executable",
-      "NordPass - MacOS Executable",
-      "NordPass - Windows Executable",
-      "NordVPN - Linux Executable",
-      "NordVPN - MacOS Executable",
-      "NordVPN - Windows Executable",
-      "NordVPN Browser Extension",
-      "Saily - Android",
-      "Saily - iOS",
-      "app.nordpass.com",
-      "com.nordpass.android.app.password.manager",
-      "com.nordvpn.android",
-      "com.nordvpn.android"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
     "name": "Lyst",
     "program_url": "https://hackerone.com/lyst",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -59634,24 +59218,6 @@
       "com.quora.android",
       "com.quora.app.mobile",
       "http://poe.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-28"
-  },
-  {
-    "name": "Brave Software",
-    "program_url": "https://hackerone.com/brave",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Brave Browser Desktop",
-      "Brave websites",
-      "com.brave.browser",
-      "com.brave.ios.browser",
-      "https://github.com/brave/*, https://github.com/brave-intl/*"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

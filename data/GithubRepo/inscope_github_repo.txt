@@ -174,7 +174,6 @@ https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
-https://github.com/brave/*,
 https://github.com/Shopify
 https://github.com/mapbox
 https://github.com/cdnjs/cdnjs
@@ -183,12 +182,5 @@ https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
 https://github.com/coinbase/cb-mpc
 https://github.com/slackhq/nebula
-https://github.com/RIPE-NCC/rpki-commons
-https://github.com/RIPE-NCC/rpki-core
-https://github.com/RIPE-NCC/whois
-https://github.com/RIPE-NCC/rpki-monitoring
-https://github.com/RIPE-NCC/rpki-publication-server
-https://github.com/RIPE-NCC/rpki-ta-0
-https://github.com/RIPE-NCC/rsyncit
 https://github.com/expressvpn/lightway
 https://github.com/Infomaniak/desktop-kDrive

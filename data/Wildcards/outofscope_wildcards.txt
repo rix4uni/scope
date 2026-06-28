@@ -191,7 +191,6 @@ argocd.*.uidapi.com
 *.adobedtm.com
 *.adnxs.com
 *.fwmrm.net
-*.zdassets.com
 *.bandcamp.com
 *.corp.bandcamp.com
 *.popjam.com
@@ -607,13 +606,7 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
-*.monzo.me
-*.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -627,11 +620,7 @@ g.*.slackhq.com
 *.unique.be
 *.uniqueselect.be
 *.usgprofessionals.be
-*.anchors.atlas.ripe.net
-*.probes.atlas.ripe.net
-*.ripe.net
 *.newyorkredbulls.com
-*.tempo-team.de
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
