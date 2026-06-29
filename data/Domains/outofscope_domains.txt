@@ -2778,6 +2778,9 @@ qr.kiwa.com
 kiwa.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 store.ninjakiwi.com
@@ -2789,6 +2792,8 @@ support.personio.de
 personio.com
 personio.es
 pen-app.entrili.com
+exams.ripe.net
+ripe.net
 apps.randstad.in
 cz.randstad.com
 workplace.randstad.in

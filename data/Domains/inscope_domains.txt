@@ -964,6 +964,7 @@ pay.unity.com
 player-login.unity.com
 unity3d.com
 services.unity.com
+unity.com
 upwork.com
 api.upwork.com
 api.usaa.com
@@ -3761,6 +3762,8 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+co.uk.getmondo
+monzo.com
 nvidia.com
 platform.nexo.com
 nexo.com
@@ -3799,6 +3802,8 @@ personio.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
+access.ripe.net
+lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com

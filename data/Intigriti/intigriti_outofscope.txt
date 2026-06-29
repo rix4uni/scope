@@ -103,6 +103,10 @@ kiwa.com
 libelle.nl
 *.lxc.liferay.com
 login.liferay.com
+*.monzo.me
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 store.ninjakiwi.com
@@ -132,6 +136,11 @@ personio.es
 *.uniqueselect.be
 *.usgprofessionals.be
 pen-app.entrili.com
+*.anchors.atlas.ripe.net
+*.probes.atlas.ripe.net
+*.ripe.net
+exams.ripe.net
+ripe.net
 apps.randstad.in
 cz.randstad.com
 workplace.randstad.in

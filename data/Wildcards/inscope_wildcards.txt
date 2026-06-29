@@ -1115,6 +1115,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
@@ -1123,6 +1125,7 @@ ic3.*.indriverapp.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
+*.ripe.net
 *.rivian.com
 *.swisspass.ch
 *.sbb.ch

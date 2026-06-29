@@ -615,6 +615,7 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
+*.monzo.me
 *.vectus.in
 *.pdq.com
 *.pdq.tools
@@ -633,6 +634,9 @@ g.*.slackhq.com
 *.unique.be
 *.uniqueselect.be
 *.usgprofessionals.be
+*.anchors.atlas.ripe.net
+*.probes.atlas.ripe.net
+*.ripe.net
 *.newyorkredbulls.com
 *.ccnag.com
 *.connect.coca-cola.com
