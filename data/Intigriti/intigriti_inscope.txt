@@ -652,7 +652,6 @@ bettersearchreplace.com
 makeshift.film
 studiopress.blog
 torquemag.io
-velocitize.com
 desktop.water-link.be
 pit.water-link.be
 *.water-link.be
