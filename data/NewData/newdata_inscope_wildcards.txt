@@ -1,2 +1,1 @@
-casino.*.betmgm.com
-*.datacamp.com
+*.report.uat.proptrack.com

@@ -205,6 +205,9 @@ investors.ibotta.com
 sampling.ibotta.com
 blog-empresas.ifood.com.br
 blog-parceiros.ifood.com.br
+gogbackend.com
+godsunchained.com
+ropsten.imx.community
 docs.imperva.com
 docs-be.imperva.com
 k15t.com
@@ -522,6 +525,11 @@ em8918.mortgagechoice.com.au
 cloudhq.mortgagechoice.com.au
 cloudhqforms.mortgagechoice.com.au
 developersites.com.au
+website.proptrack.com.au
+developer.proptrack.com.au
+proptrack.com.au
+widgets-api-sit.uat.proptrack.com
+avm-sit.uat.proptrack.com
 docs.requirementyogi.com
 auth.simplisafe.com
 careers.simplisafe.com
@@ -1582,6 +1590,13 @@ vm.8x8.com
 8x8.com
 wavecell.com
 developers.tiktok.com
+p16-bg.tiktokcdn-us.com
+p16-sign.tiktokcdn-us.com
+p16-webcast.tiktokcdn-us.com
+p19-sign.tiktokcdn-us.com
+p19-webcast.tiktokcdn-us.com
+usds.tiktok.com
+usdsjv.tiktok.com
 direct-carexcess.co.uk
 travel.aig.co.jp
 1008.aig.com

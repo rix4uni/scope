@@ -326,7 +326,9 @@
     "platform": "YesWeHack",
     "reward": "$3000",
     "inscope_domains": [
-      "Core Product"
+      "https://play.google.com/store/apps/details?id=id.dana&hl=en",
+      "https://apps.apple.com/id/app/dana/id1437123008",
+      "m.dana.id"
     ],
     "outofscope_domains": [
       "webdev.dana.id",
@@ -3722,6 +3724,29 @@
       "1584170510",
       "com.loyaltyworks.wavinapp",
       "*.vectus.in"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-29"
+  },
+  {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -7701,23 +7726,23 @@
     "platform": "Bugcrowd",
     "reward": "$10000",
     "inscope_domains": [
-      "█████████████████████████████████████████████",
-      "████████████████████████████████████████████████████",
-      "████████████",
-      "█████████████████████████████████",
-      "█████████████████████████████████",
-      "█████████████████████████",
-      "████████████████████████████"
+      "https://passport.immutable.com/",
+      "https://auth.immutable.com",
+      "https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/",
+      "https://hub.immutable.com/",
+      "https://play.immutable.com",
+      "https://api.immutable.com",
+      "https://api.x.immutable.com/"
     ],
     "outofscope_domains": [
-      "███████████████████",
-      "████████████████",
-      "██████████████",
-      "█████████████████",
-      "██████████████████████████████████████████",
-      "█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
-      "██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
-      "██████████████████████"
+      "*.godsunchained.com",
+      "*.gogbackend.com",
+      "gogbackend.com",
+      "godsunchained.com",
+      "Anything that does not belong to Immutable",
+      "Any data exposure bug that are classified as Public Data such as Ethereum Wallet Address, NFT Purchase activity, or other public blockchain activity.",
+      "*.dev.x.immutable.com, *.sandbox.x.immutable.com, *.dev.x.immutable.com, *.sandbox.imtbl.com, *.dev.imtbl.com, *.ropsten.x.immutable.com, ropsten.imx.community (see brief for exceptions)",
+      "*.guildofguardians.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -10237,9 +10262,9 @@
       "https://apps.apple.com/au/app/realestate-com-au-property/id404667893",
       "*.realestate.com.au",
       "https://www.realcommercial.com.au/",
-      "https://property.com.au",
       "https://next.flatmates.com.au",
       "https://api-next.flatmates.com.au",
+      "https://property.com.au",
       "*.mortgagechoice.com.au",
       "*.demo.bp.mortgagechoice.com.au",
       "*.smartline.com.au",
@@ -10248,7 +10273,16 @@
       "https://www.developersites.com.au/testing-2505-houston/",
       "scripts.developersites.com.au",
       "sftp://ftp.developersites.com.au:45875",
-      "https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e"
+      "https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e",
+      "https://*.report.uat.proptrack.com",
+      "https://access-sit.uat.proptrack.com",
+      "https://desktop-sit.uat.proptrack.com",
+      "https://explore-sit.uat.proptrack.com",
+      "https://one-sit.uat.proptrack.com/",
+      "https://portfolio-manager-sit.uat.proptrack.com/",
+      "https://valuations-sit.uat.proptrack.com",
+      "https://www.proptrack.com",
+      "https://www.proptrack.com.au"
     ],
     "outofscope_domains": [
       "*.email.rea-group.com",
@@ -10309,9 +10343,7 @@
       "*.proptiger.com",
       "*.makaan.com",
       "*.easiloan.com",
-      "*.proptrack.com.au",
       "*.realtor.com",
-      "*.proptrack.com",
       "*.spacely.com.au",
       "*.flatmates.com.au",
       "https://www.flatmates.com.au",
@@ -10374,7 +10406,14 @@
       "cloudhq.mortgagechoice.com.au",
       "cloudhqforms.mortgagechoice.com.au",
       "*.leads.developersites.com.au",
-      "www.developersites.com.au/*"
+      "www.developersites.com.au/*",
+      "*.proptrack.com.au",
+      "*.proptrack.com",
+      "website.proptrack.com.au",
+      "https://developer.proptrack.com.au",
+      "https://www.proptrack.com.au/contact-us/*",
+      "https://widgets-api-sit.uat.proptrack.com",
+      "https://avm-sit.uat.proptrack.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -52853,7 +52892,16 @@
       "www.soundon.global"
     ],
     "outofscope_domains": [
-      "https://developers.tiktok.com/minis/"
+      "*tiktokv.us",
+      "*us.tiktokv.com",
+      "https://developers.tiktok.com/minis/",
+      "p16-bg.tiktokcdn-us.com",
+      "p16-sign.tiktokcdn-us.com",
+      "p16-webcast.tiktokcdn-us.com",
+      "p19-sign.tiktokcdn-us.com",
+      "p19-webcast.tiktokcdn-us.com",
+      "usds.tiktok.com",
+      "usdsjv.tiktok.com"
     ],
     "issues_reported": [],
     "scamhit": "",
