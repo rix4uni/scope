@@ -327,6 +327,8 @@ app.klarna.com
 jobs.pricerunner.com
 locker.klarna.com
 nuji.com
+*.cadastro.uat.unico.app
+devcenter.unico.io
 uconf.uat.unico.app
 docs.wallet.tg
 toncenter.walletbot.me

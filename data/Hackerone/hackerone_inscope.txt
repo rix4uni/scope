@@ -409,13 +409,12 @@ klarnacdn.net
 portal.openbanking.playground.klarna.com
 pricerunner.com
 xs2a.banking.playground.klarna.com
-*.cadastro.uat.unico.app
-devcenter.unico.io
 *.uat.unico.app
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
 blog.unico.io
+devcenter.unico.io
 idcash-uat.unico.io
 identityhomolog.acesso.io
 idpay-uat.unico.io

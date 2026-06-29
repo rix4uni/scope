@@ -272,6 +272,7 @@ db.*.supabase.co
 *.supabase.co
 *.cyral.com
 *.varonis-preprod.com
+*.cadastro.uat.unico.app
 *.ito.singlestore.com
 *.labs.singlestore.com
 *.rentals.rei.com
