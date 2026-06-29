@@ -1196,7 +1196,6 @@ ic3.*.indriverapp.com
 *.worldfirst.com
 *.bitoasis.net
 *.coindcx.com
-*.contentsquare.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
@@ -5419,9 +5418,6 @@ api.blablalines.com
 daily.blablacar.fr
 blablacardaily.com
 api.coindcx.com
-mobile-production.content-square.net
-m.csqtrk.net
-s.contentsquare.net
 bounty.cryptobox.com
 cyberghost.com
 cyberghost.app

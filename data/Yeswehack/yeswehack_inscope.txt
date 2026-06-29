@@ -36,10 +36,6 @@ daily.blablacar.fr
 blablacardaily.com
 *.coindcx.com
 api.coindcx.com
-*.contentsquare.com
-mobile-production.content-square.net
-m.csqtrk.net
-s.contentsquare.net
 bounty.cryptobox.com
 *.cyberghostvpn.com
 *.cyberghost.com

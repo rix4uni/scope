@@ -647,7 +647,6 @@ g.*.slackhq.com
 *.intigriti.io
 *.intigriti.net
 *.intercom.io
-*.contentsquare.com
 *.cryptobox.com
 *.ercom.fr
 *.dana.id
