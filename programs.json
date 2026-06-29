@@ -668,23 +668,6 @@
     "last_updated": "2026-06-29"
   },
   {
-    "name": "GovTech - Vulnerability Disclosure Programme",
-    "program_url": "https://yeswehack.com/programs/govtech-vulnerability-disclosure-programme-policy",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$null",
-    "inscope_domains": [
-      "*.gov.sg",
-      "Domains where GovTech is the registrar"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-29"
-  },
-  {
     "name": "HARMAN International - Web Applications",
     "program_url": "https://yeswehack.com/programs/harman-international-web-applications",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
