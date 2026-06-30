@@ -3716,7 +3716,6 @@ autoupdateapi.lansweeper.com
 docs.lansweeper.com
 login.lansweeper.com
 lansweeper.com
-leakyjar.intigriti.io
 libelle.nl
 marionnaud.fr
 app.marionnaud.fr
