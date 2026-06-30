@@ -4045,27 +4045,6 @@
     "last_updated": "2026-06-30"
   },
   {
-    "name": "Randstad",
-    "program_url": "https://www.intigriti.com/programs/randstad/randstad/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "*.randstad.*",
-      "*.randstadrisesmart.*",
-      "*.risesmart.*",
-      "Any related Randstad domain"
-    ],
-    "outofscope_domains": [
-      "apps.randstad.in",
-      "cz.randstad.com",
-      "workplace.randstad.in"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-30"
-  },
-  {
     "name": "Red Bull",
     "program_url": "https://www.intigriti.com/programs/redbull/redbull/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4078,6 +4057,20 @@
     "outofscope_domains": [
       "*.newyorkredbulls.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-30"
+  },
+  {
+    "name": "Revolut VDP",
+    "program_url": "https://www.intigriti.com/programs/revolut/revolutvdp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "GBP0",
+    "inscope_domains": [
+      "All domains of Revolut"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-06-30"
