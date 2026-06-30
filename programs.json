@@ -668,23 +668,6 @@
     "last_updated": "2026-06-30"
   },
   {
-    "name": "GovTech - Vulnerability Disclosure Programme",
-    "program_url": "https://yeswehack.com/programs/govtech-vulnerability-disclosure-programme-policy",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$null",
-    "inscope_domains": [
-      "*.gov.sg",
-      "Domains where GovTech is the registrar"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-30"
-  },
-  {
     "name": "HARMAN International - Web Applications",
     "program_url": "https://yeswehack.com/programs/harman-international-web-applications",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -4221,31 +4204,6 @@
       "http://www.whynot.com/",
       "https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/",
       "www.socialdeal.nl"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-30"
-  },
-  {
-    "name": "Soundtrack Technologies",
-    "program_url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://soundtrack.io",
-      "1114799709",
-      "1114800186",
-      "api.soundtrackyourbrand.com",
-      "billing.api.soundtrackyourbrand.com",
-      "builds.soundtrackyourbrand.com",
-      "business.soundtrackyourbrand.com",
-      "com.soundtrackyourbrand.soundtrack.player",
-      "https://auth.api.soundtrackyourbrand.com/",
-      "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest",
-      "https://radio.api.soundtrackyourbrand.com/",
-      "macOS app"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -56009,20 +55967,6 @@
       "Other Trellix Websites",
       "Skyhigh Security products",
       "Trellix Products"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-30"
-  },
-  {
-    "name": "curl",
-    "program_url": "https://hackerone.com/curl",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "https://github.com/curl/curl"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

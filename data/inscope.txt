@@ -1229,7 +1229,6 @@ ic3.*.indriverapp.com
 *.findaya.com
 *.findaya.co.id
 *.gtflabs.io
-*.gov.sg
 *.jbl.com
 *.harmanaudio.com
 *.harmankardon.com
