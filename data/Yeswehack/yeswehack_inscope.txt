@@ -166,6 +166,7 @@ midtrans.com
 *.findaya.com
 *.findaya.co.id
 *.gtflabs.io
+*.gov.sg
 *.jbl.com
 bowerswilkins.com
 denon.com
