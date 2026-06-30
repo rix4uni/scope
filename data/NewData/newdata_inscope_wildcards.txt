@@ -1,1 +1,1 @@
-*.gov.sg
+*.datacamp.com

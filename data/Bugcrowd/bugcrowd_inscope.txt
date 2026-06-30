@@ -684,6 +684,7 @@ research.monash.edu
 researchmgt.monash.edu
 move.monash.edu
 collections.monash.edu
+equella.monash.edu
 mix-qat.monash.edu
 mix-dev.monash.edu
 -staging.moneytree.jp
