@@ -3649,6 +3649,34 @@
     "last_updated": "2026-06-30"
   },
   {
+    "name": "Nexuzhealth",
+    "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "be.nexuzhealth.mobile.cpv",
+      "be.nexuzhealth.mobile.kws",
+      "be.nexuzhealth.mobile.mynexuz",
+      "kws-companion/id1342124012",
+      "mynexuz.be",
+      "mynexuzhealth/id1459856321",
+      "liquidfiles.nexuzhealth.com",
+      "*.nexuzhealth.*"
+    ],
+    "outofscope_domains": [
+      "pro.nexuzhealth.hn",
+      "nexuzhealth.atlassian.net",
+      "nexuzhealth-pro/id1623165353",
+      "media.nexuzhealth.be",
+      "idp-contact.nexuzhealth.be",
+      "*.nexuzhealth.pro"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-06-30"
+  },
+  {
     "name": "Nexuzhealth VDP",
     "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -14665,9 +14693,11 @@
       "testpromoplatform2024.ferreropromo.it",
       "www.aldi-sommerfreude.de",
       "www.eatnatural-promo.de",
+      "www.fanniemay.com",
       "www.ferrero-genussmomente.de",
       "www.ferrero-rocher.co.il",
-      "www.spookiezoocash.com"
+      "www.spookiezoocash.com",
+      "www.thorntons.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -16100,12 +16130,12 @@
       "https://github.com/kubernetes-sigs/aws-fsx-csi-driver",
       "https://github.com/kubernetes-sigs/aws-iam-authenticator",
       "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
-      "https://github.com/kubernetes-sigs/cluster-api-provider-aws",
       "node.e2ro.com/*",
       "www.awseducate.com"
     ],
     "outofscope_domains": [
-      "https://*.amazonaws.com/*"
+      "https://*.amazonaws.com/*",
+      "https://github.com/kubernetes-sigs/cluster-api-provider-aws"
     ],
     "issues_reported": [],
     "scamhit": "",

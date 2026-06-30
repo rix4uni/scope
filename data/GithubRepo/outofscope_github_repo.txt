@@ -1,6 +1,7 @@
 https://github.com/auth0/passport-wsfed-saml2
 https://github.com/oktadev
 https://github.com/transferwise/pipelinewise
+https://github.com/kubernetes-sigs/cluster-api-provider-aws
 https://github.com/supabase-community
 https://github.com/netflix/consoleme
 https://github.com/Netflix/dispatch
