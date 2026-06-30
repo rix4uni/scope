@@ -4083,20 +4083,6 @@
     "last_updated": "2026-06-30"
   },
   {
-    "name": "Revolut VDP",
-    "program_url": "https://www.intigriti.com/programs/revolut/revolutvdp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "GBP0",
-    "inscope_domains": [
-      "All domains of Revolut"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-06-30"
-  },
-  {
     "name": "Rivian Bug Bounty",
     "program_url": "https://www.intigriti.com/programs/rivian/rivianbugbounty/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
