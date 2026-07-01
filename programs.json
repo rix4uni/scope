@@ -3180,12 +3180,13 @@
     "last_updated": "2026-07-01"
   },
   {
-    "name": "KU Leuven Responsible Disclosure Program",
+    "name": "KU Leuven Vulnerability Disclosure Program (VDP)",
     "program_url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
     "reward": "€0",
     "inscope_domains": [
+      "www.kuleuven.be",
       "IPv4: 134.58.0.0/16",
       "IPv6: 2a02:2c40::/32"
     ],
@@ -3471,8 +3472,8 @@
     "inscope_domains": [
       "mobilevikings.be",
       "api.unleashed.be",
-      "jimmobile.be",
       "uwa.mobilevikings.be",
+      "jimmobile.be",
       "vpn.mobilevikings.be",
       "*.mas.mobilevikings.be",
       "*.mobilevikings.be",
