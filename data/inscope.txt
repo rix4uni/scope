@@ -22,6 +22,7 @@ portalapi.*.afterpay.com
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
+*.blofin.com
 *.taxify.eu
 *.bolt.eu
 *.gov.bugcrowd.net
@@ -1384,6 +1385,8 @@ nvio.ar
 blockchain.com
 api.blockchain.info
 ws.blockchain.info
+blofin.com
+wallet.blofin.com
 taxify.eu
 bolt.eu
 docs.bugcrowd.com

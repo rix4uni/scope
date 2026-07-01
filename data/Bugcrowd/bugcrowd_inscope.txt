@@ -116,6 +116,9 @@ nvio.ar
 blockchain.com
 api.blockchain.info
 ws.blockchain.info
+*.blofin.com
+blofin.com
+wallet.blofin.com
 taxify.eu
 *.taxify.eu
 bolt.eu
