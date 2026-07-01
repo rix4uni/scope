@@ -616,7 +616,6 @@ g.*.slackhq.com
 *.onstagingocean.app
 *.yadifa.eu
 *.swop.com
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
