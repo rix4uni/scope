@@ -520,8 +520,6 @@ ic3.*.indriverapp.com
 *.8x8staging.com
 *.chalet.8x8.com
 *.8x8.com
-*.jit.si
-*.jitsi.net
 *.p8t.us
 *.wavecell.com
 *.packet8.net

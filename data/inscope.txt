@@ -520,8 +520,6 @@ ic3.*.indriverapp.com
 *.8x8staging.com
 *.chalet.8x8.com
 *.8x8.com
-*.jit.si
-*.jitsi.net
 *.p8t.us
 *.wavecell.com
 *.packet8.net
@@ -3380,10 +3378,6 @@ xnxx.com
 xnxx.gold
 xvideos.com
 xvideos.red
-meet.jit.si
-beta.meet.jit.si
-alpha.jitsi.net
-moderated-pilot.jitsi.net
 connect.8x8.com
 developer.8x8.com
 sms.8x8.com
