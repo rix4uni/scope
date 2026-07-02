@@ -53076,6 +53076,7 @@
     ],
     "outofscope_domains": [
       "*tiktokv.us",
+      "*us.tiktok.com",
       "*us.tiktokv.com",
       "https://developers.tiktok.com/minis/",
       "p16-bg.tiktokcdn-us.com",

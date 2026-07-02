@@ -1118,6 +1118,7 @@ vm.8x8.com
 8x8.com
 wavecell.com
 *tiktokv.us
+*us.tiktok.com
 *us.tiktokv.com
 developers.tiktok.com
 p16-bg.tiktokcdn-us.com

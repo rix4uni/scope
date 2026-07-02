@@ -395,6 +395,7 @@ bus.*.indrive.com
 *.jitsi.org
 *.sameroom.io
 *tiktokv.us
+*us.tiktok.com
 *us.tiktokv.com
 *.corebridgefinancial.com
 *.travelguard.com
