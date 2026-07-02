@@ -1,1 +1,3 @@
-*.attentia.be
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
