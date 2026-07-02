@@ -175,7 +175,6 @@ us.api.konghq.tech
 httpbin.konghq.com
 httpbin.org
 insomnia.rest
-konghq.com
 kuma.io
 accessibility.qinetiq.com
 *.blog.thenorthface.com.br
