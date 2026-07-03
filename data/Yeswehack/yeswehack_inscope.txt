@@ -45,6 +45,7 @@ api.cyberghostvpn.com
 cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
 m.dana.id
+mgs.dana.id
 shoppingapp.decathlon.com
 bounty-nodejs.datashield.co
 bounty-fastly.datashield.co

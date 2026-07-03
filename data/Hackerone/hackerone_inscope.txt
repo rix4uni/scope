@@ -2684,8 +2684,6 @@ gist.github.com
 npmjs.org
 *.simpletax.ca
 *.wealthsimple.com
-hackerone-m1rtuq8orz.hbstaging.website
-signin-hackerone.hbstaging.website
 *.district.in
 *.edition.in
 *.eternal.com

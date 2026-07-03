@@ -3170,8 +3170,6 @@ classroom.github.com
 education.github.com
 gist.github.com
 npmjs.org
-hackerone-m1rtuq8orz.hbstaging.website
-signin-hackerone.hbstaging.website
 api.grofers.com
 api2.grofers.com
 bistro-api.blinkit.com
@@ -3634,7 +3632,6 @@ myaccount.parool.nl
 shop.parool.nl
 webwinkel.parool.nl
 parool.nl
-kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
@@ -3878,13 +3875,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-soundtrack.io
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com
@@ -4171,6 +4161,7 @@ api.cyberghostvpn.com
 cyberghostvpn.com
 pprd.cybermalveillance.gouv.fr
 m.dana.id
+mgs.dana.id
 shoppingapp.decathlon.com
 bounty-nodejs.datashield.co
 bounty-fastly.datashield.co
