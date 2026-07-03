@@ -555,6 +555,7 @@ online.*.skybingo.com
 *scaledsolutions.uber.com
 *.uber.com
 *.uber.com.cn
+*.yelp-support.com
 *.boost.livestream.com
 *.cdn.magisto.com
 *.dev.magisto.com

@@ -979,7 +979,6 @@ ic3.*.indriverapp.com
 *.uberinternal.com
 *ubereats.com
 *.ubereats.com
-*.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
 *.cloud.vimeo.com

@@ -2302,9 +2302,10 @@ people.uber.com
 uber.com.cn
 *.uber.com.cn
 uber.onelogin.com
+*.yelp-support.com
+salesforce.com
 blog.yelp.com
 cloud.e.yelp-business.com
-salesforce.com
 engineeringblog.yelp.com
 yelp-ir.com
 yelp-press.com

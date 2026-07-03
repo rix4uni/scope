@@ -2612,9 +2612,9 @@ newsroom.uber.com
 people.uber.com
 uber.com.cn
 uber.onelogin.com
+salesforce.com
 blog.yelp.com
 cloud.e.yelp-business.com
-salesforce.com
 engineeringblog.yelp.com
 yelp-ir.com
 yelp-press.com

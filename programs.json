@@ -60970,7 +60970,6 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
-      "*.yelp-support.com",
       "*.yelp.com",
       "*.yelpwifi.com",
       "284910350",
@@ -60981,6 +60980,7 @@
       "yelptop100.com"
     ],
     "outofscope_domains": [
+      "*.yelp-support.com",
       "blog.yelp.com",
       "cloud.e.yelp-business.com",
       "engineeringblog.yelp.com",
