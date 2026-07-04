@@ -617,7 +617,6 @@ g.*.slackhq.com
 *.swop.com
 *.lxc.liferay.com
 *.monzo.me
-*.nexuzhealth.pro
 *.vectus.in
 *.pdq.com
 *.pdq.tools
@@ -3476,10 +3475,6 @@ login.internal.monzo.com
 monzo.me
 docs.moralis.io
 status.moralis.io
-pro.nexuzhealth.hn
-nexuzhealth.atlassian.net
-media.nexuzhealth.be
-idp-contact.nexuzhealth.be
 store.ninjakiwi.com
 support.ninjakiwi.com
 personio.de
