@@ -1164,12 +1164,6 @@ ic3.*.indriverapp.com
 *.vtmgo.be
 *.voi.com
 *.voiscooters.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
 *.water-link.be
 *.watsons.com.hk
 *.watsons.co.th

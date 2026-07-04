@@ -4962,39 +4962,6 @@
     "last_updated": "2026-07-04"
   },
   {
-    "name": "WP Engine Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "https://app.getflywheel.com",
-      "https://getflywheel.com",
-      "https://my.wpengine.com",
-      "https://payments.wpengine.com",
-      "https://wpengine.com",
-      "*. advancedcustomfields.com",
-      "*. bettersearchreplace.com",
-      "*.deliciousbrains.com",
-      "*.localwp.com",
-      "*.nitropack.io",
-      "*.studiopress.com",
-      "*.wpengine.io",
-      "*.wpesvc.net",
-      "WP Engine-developed WordPress Plugins and Themes",
-      "https://makeshift.film",
-      "https://studiopress.blog",
-      "https://torquemag.io",
-      "https://velocitize.com"
-    ],
-    "outofscope_domains": [
-      "marketing.nitropack.io"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-04"
-  },
-  {
     "name": "WP Engine VDP",
     "program_url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
