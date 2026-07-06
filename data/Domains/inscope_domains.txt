@@ -3545,9 +3545,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-capital.com
-open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -4439,6 +4436,9 @@ teamviewer.com
 web.teamviewer.com
 account.teamviewer.com
 login.teamviewer.com
+telenor.se
+vimla.se
+ownit.se
 en.security.tencent.com
 thueringer-foerderportal.eu
 login.aufbaubank.de

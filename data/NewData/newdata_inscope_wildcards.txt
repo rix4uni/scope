@@ -1,6 +1,11 @@
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
+*.signin.telenor.se
+*.profile.telenor.se
+*.apis.telenor.se
+*.api-app.telenor.se
+*.mitt.vimla.se
+*.api.vimla.se
+*.foretagsportalen.telenor.se
+*.mittforetag.telenor.se
+*.stream.telenor.se
+*.tv.telenor.se
+*.play.ownit.se
