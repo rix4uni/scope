@@ -3632,6 +3632,7 @@ myaccount.parool.nl
 shop.parool.nl
 webwinkel.parool.nl
 parool.nl
+kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
@@ -3780,6 +3781,11 @@ monzo.com
 nvidia.com
 platform.nexo.com
 nexo.com
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
+mynexuz.be
+liquidfiles.nexuzhealth.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 analytics.ninjakiwi.com
