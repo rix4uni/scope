@@ -1,3 +1,6 @@
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
