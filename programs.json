@@ -3624,34 +3624,6 @@
     "last_updated": "2026-07-07"
   },
   {
-    "name": "Nexuzhealth",
-    "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "be.nexuzhealth.mobile.cpv",
-      "be.nexuzhealth.mobile.kws",
-      "be.nexuzhealth.mobile.mynexuz",
-      "kws-companion/id1342124012",
-      "mynexuz.be",
-      "mynexuzhealth/id1459856321",
-      "liquidfiles.nexuzhealth.com",
-      "*.nexuzhealth.*"
-    ],
-    "outofscope_domains": [
-      "pro.nexuzhealth.hn",
-      "nexuzhealth.atlassian.net",
-      "nexuzhealth-pro/id1623165353",
-      "media.nexuzhealth.be",
-      "idp-contact.nexuzhealth.be",
-      "*.nexuzhealth.pro"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-07"
-  },
-  {
     "name": "Nexuzhealth VDP",
     "program_url": "https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -28531,6 +28503,7 @@
       "82.196.42.196/28",
       "Hilton Franchised Properties",
       "Hilton Third Party Applications",
+      "Managed Property Assets",
       "com.hilton.android.hhonors",
       "hilton.com",
       "hilton.io",
@@ -29987,27 +29960,6 @@
       "*.zurichseguros.com.ec",
       "Farmer's Insurance",
       "Zurich Insurance "
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-07"
-  },
-  {
-    "name": "Particle Health VDP",
-    "program_url": "https://hackerone.com/particle-health-vdp",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "api.particlehealth.com",
-      "carequality.particlehealth.com",
-      "ehealthexchange.particlehealth.com",
-      "ia.particlehealth.com",
-      "management.particlehealth.com",
-      "partner.particlehealth.com",
-      "patients.particlehealth.com",
-      "sandbox.particlehealth.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
