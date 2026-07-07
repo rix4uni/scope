@@ -502,8 +502,6 @@ online.*.skybingo.com
 *.bcbits.com
 *.jellychat.com
 *.superbeatsports.com
-*.teston.io
-*.usertesting.com
 *.guilded.gg
 *.dynsystem.kr
 *central.dyson.com

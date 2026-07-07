@@ -2210,9 +2210,6 @@ payment-profile-gateway.oc.autodesk.com
 payment-profile-gateway.ocstg.autodesk.com
 profile-stg.autodesk.com
 stg-manage.autodesk.com
-help.usertesting.com
-usertesting.com
-qa.usertesting.com
 admincloud.oportun.com
 betaesxi.oportun.com
 blog.oportun.com
