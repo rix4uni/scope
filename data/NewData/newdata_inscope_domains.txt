@@ -1,6 +1,3 @@
-kuleuven.be
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
-mynexuz.be
-liquidfiles.nexuzhealth.com
+jeux-concours.marionnaud.fr
+campaign.marionnaud.ro
+campaign.marionnaud.sk
