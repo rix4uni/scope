@@ -20953,6 +20953,7 @@
       "co-cf.*.aws.indriverapp.com",
       "co-gw-cf.*.aws.indriverapp.com",
       "co-in-gw-cf.*.aws.indriverapp.com",
+      "coaching.supernovas.indrive.com",
       "courier-cf.*.aws.indriverapp.com",
       "couriers.indrive.com",
       "debug.clairvoyance.indrive.tech",
@@ -21043,15 +21044,14 @@
       "wd2*.indriverapp.com",
       "web.ryadom.kz",
       "wga.volans.tech",
-      "wlr-cf.*.aws.indriverapp.com"
+      "wlr-cf.*.aws.indriverapp.com",
+      "www.supernovas.indrive.com"
     ],
     "outofscope_domains": [
       "bus.*.indrive.com",
-      "coaching.supernovas.indrive.com",
       "servicos.indrive.com",
       "sinet.startup.inDriver",
-      "super-services.indriverapp.com",
-      "www.supernovas.indrive.com"
+      "super-services.indriverapp.com"
     ],
     "issues_reported": [],
     "scamhit": "",
