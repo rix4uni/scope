@@ -747,6 +747,8 @@ storefront.hypermint.com
 support.moonpay.com
 *.koho.ca
 *.line-of-credit.koho.ca
+bot.cadburygifting.in
+cadburygifting.in
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
 enterpriseregistration.apnic.net

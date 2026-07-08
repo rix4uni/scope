@@ -8299,10 +8299,10 @@
     "platform": "Bugcrowd",
     "reward": "$25000",
     "inscope_domains": [
-      "█████████████████████████████████████████████"
+      "https://kw-bugcrowd-pub.bounty.kiteworks.dev/"
     ],
     "outofscope_domains": [
-      "█████████████████████████████████████████"
+      "https://bugcrowd-pub.bounty.kiteworks.dev"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -29359,14 +29359,12 @@
       "loteria7days.pl",
       "loteriamilka.pl",
       "loteriaoreo.pl",
-      "lu.fr",
       "lubakery.co.uk",
       "lubiscuits.eu",
       "lumeabarni.ro",
       "lusingingpacks.nl",
       "marabou.com",
       "matt-pokora.milka.com",
-      "mavieencouleurs.fr",
       "mdlzcollaboration.com",
       "mdlzcusthelp.ca",
       "mdlzcusthelp.com",
@@ -29567,7 +29565,10 @@
       "ygeiaspavlides.gr"
     ],
     "outofscope_domains": [
-      "Leaked Credentials"
+      "Leaked Credentials",
+      "bot.cadburygifting.in",
+      "https://cadburygifting.in",
+      "www.cadburygifting.in"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -61252,6 +61253,8 @@
       "Turnstile",
       "community.cloudflare.com",
       "events.www.cloudflare.com",
+      "https://github.com/cloudflare/moq-rs",
+      "https://github.com/cloudflare/privacy-gateway-server-go",
       "https://github.com/cloudflare/vinext-private",
       "support.cloudflare.com",
       "support.cloudflarewarp.com"
