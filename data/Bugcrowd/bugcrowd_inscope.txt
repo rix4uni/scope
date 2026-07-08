@@ -279,6 +279,7 @@ community.etsy.com
 *.etsy.com
 bugcrowd.charm.felixforus.ca
 bugcrowd.lucky.felixforus.ca
+actionableagile.55degrees-apps.net
 financialforce.com
 *.financialforce.com
 *.certinia.com

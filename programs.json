@@ -5579,6 +5579,26 @@
     "last_updated": "2026-07-08"
   },
   {
+    "name": "AppLiger",
+    "program_url": "https://bugcrowd.com/engagements/appliger",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1219112/easy-templates-for-jira-issues?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1236389/easy-progress-hill-charts-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1236512/easy-action-items-checklist-templates-and-automation?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-confluence?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [
+      "https://appliger.com/",
+      "https://appliger.atlassian.net"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-08"
+  },
+  {
     "name": "Appsvio Marketplace Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/appsvio",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7544,6 +7564,33 @@
       "https://bugcrowd.lucky.felixforus.ca"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-08"
+  },
+  {
+    "name": "55 Degrees",
+    "program_url": "https://bugcrowd.com/engagements/fiftyfivedegrees",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1216661/actionableagile-for-jira-agile-metrics?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1216661/actionableagile-for-jira-agile-metrics?hosting=server&tab=overview",
+      "https://marketplace.atlassian.com/apps/1216661/actionableagile-for-jira-agile-metrics?hosting=datacenter&tab=overview",
+      "Anything related to the actionableagile.55degrees-apps.net subdomain is in scope. ",
+      "https://marketplace.atlassian.com/apps/1216661/actionableagile-for-jira-agile-metrics?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1216661/actionableagile-for-jira-agile-metrics?hosting=server",
+      "https://marketplace.atlassian.com/apps/1216661/actionableagile-for-jira-agile-metrics?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1220160/issue-analyzer-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224766/portfolio-forecaster?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224766/portfolio-forecaster?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1227773/klar-issue-refinement-for-jira?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [
+      "Any other subdomains on 55degrees-apps.net or any other domains owned by 55 Degrees AB is out of scope. ",
+      "https://marketplace.atlassian.com/*"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-08"

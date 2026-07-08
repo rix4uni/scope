@@ -20,6 +20,8 @@ events.aiven.io
 ideas.aiven.io
 aivenhelp.zendesk.com
 support.aiven.io
+appliger.com
+appliger.atlassian.net
 community.arlo.com
 investor.arlo.com
 research.arlo.com
@@ -175,6 +177,7 @@ customersupport.epam.com
 supportnow.epam.com
 anywhere.epam.com
 icht.etsysecure.com
+55degrees-apps.net
 gslink.financialforce.com
 apuat-aaa.fisglobal.com
 testing-datalake.fivetran.com

@@ -1,5 +1,1 @@
-accounts.hytale.com
-store.hytale.com
-hytale.com
-hytale.dev
-arcanitegames.ca
+actionableagile.55degrees-apps.net
