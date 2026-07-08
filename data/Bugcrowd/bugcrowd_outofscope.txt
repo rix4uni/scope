@@ -740,7 +740,6 @@ website.theforkmanager.com
 *.lafourchette.rest
 login.theforkmanager.com
 developer.thefork.io
-manager.thefork.com
 module.thefork.com
 lafourchette.com
 investors.thetradedesk.com

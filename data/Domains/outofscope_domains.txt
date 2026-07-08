@@ -590,7 +590,6 @@ myfourchette.com
 website.theforkmanager.com
 login.theforkmanager.com
 developer.thefork.io
-manager.thefork.com
 module.thefork.com
 lafourchette.com
 investors.thetradedesk.com
