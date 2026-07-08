@@ -322,6 +322,11 @@ illamasqua.com
 matalan.co.uk
 enjoyselfish.com
 *.enjoyselfish.com
+accounts.hytale.com
+store.hytale.com
+hytale.com
+hytale.dev
+arcanitegames.ca
 chrome.google.com
 market.android.com
 content-server.ibotta.com
