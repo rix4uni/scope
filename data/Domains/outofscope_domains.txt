@@ -2671,6 +2671,7 @@ status.io
 developers.cloudflare.com
 community.cloudflare.com
 events.cloudflare.com
+saffron.git
 support.cloudflare.com
 support.cloudflarewarp.com
 afterthedeadline.com

@@ -4472,6 +4472,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 npmjs.org
+hackerone-m1rtuq8orz.hbstaging.website
+signin-hackerone.hbstaging.website
 api.grofers.com
 api2.grofers.com
 bistro-api.blinkit.com
@@ -5162,13 +5164,6 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
-soundtrack.io
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com

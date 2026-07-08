@@ -2082,6 +2082,9 @@ help.wealthsimple.com
 support.wealthsimple.com
 tldr-archive.wealthsimple.com
 work.wealthsimple.com
+*.home.bargains
+*.homebargains.co.uk
+*.tjmorris.co.uk
 *.ali.zomans.com
 *.bstro.io
 *.zomatoportugal.com
@@ -2373,6 +2376,7 @@ status.io
 developers.cloudflare.com
 community.cloudflare.com
 events.cloudflare.com
+saffron.git
 support.cloudflare.com
 support.cloudflarewarp.com
 *.crowdsignal.net
