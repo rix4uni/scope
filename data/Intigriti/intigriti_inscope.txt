@@ -78,6 +78,7 @@ cloudways.com
 css-tricks.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dashlane.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be

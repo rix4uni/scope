@@ -1,1 +1,2 @@
-kw-bugcrowd-pub.bounty.kiteworks.dev
+api.codacy.com
+app.codacy.com
