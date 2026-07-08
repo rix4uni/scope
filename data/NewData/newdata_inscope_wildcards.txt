@@ -1,1 +1,1 @@
-*.dashlane.com
+*.datacamp.com

@@ -1047,6 +1047,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1131,19 +1132,6 @@ ic3.*.indriverapp.com
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
-*.toasttab.com
-*.xtrachef.com
-*.getsling.com
-*.delphidisplay.com
-*.toasttakeout.com
-*.phrasingpro3.com
-*.rallyforrestaurants.com
-*.estratex.com
-*.toast.org
-*.rallyforrestaurants.org
-*.rallyforrestaurant.com
-*.ibizdna.com
-*.rallyforestaurants.com
 *.weareone.world
 *.stag.tomorrowland.com
 *.stag.weareone.world
