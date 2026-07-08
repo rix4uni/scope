@@ -10036,6 +10036,23 @@
     "last_updated": "2026-07-08"
   },
   {
+    "name": "Opus Guard Marketplace Managed Bug Bounty Engagement",
+    "program_url": "https://bugcrowd.com/engagements/opus-guard-market",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1233769/content-retention-manager-for-confluence?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1234057/content-retention-manager-for-jira?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1237739?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1237740?tab=overview&hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-08"
+  },
+  {
     "name": "Orderly Network: Bug Bounty Program",
     "program_url": "https://bugcrowd.com/engagements/orderlynetwork-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10825,6 +10842,27 @@
     "outofscope_domains": [
       "https://docs.requirementyogi.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-08"
+  },
+  {
+    "name": "RV Softwares Marketplace Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/rv-softwares",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1223200/agile-tools-epic-tree-links-tree-time-in-status-worklogs?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1226187/time-in-status-reports?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1230243/worklogs-time-tracking-timesheets?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1228019/issue-hierarchy-structure?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223200/agile-tools-epic-tree-links-tree-time-in-status-worklogs?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1226187/time-in-status-reports?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1230243/worklogs-time-tracking-timesheets?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1228019/issue-hierarchy-structure?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-08"
