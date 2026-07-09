@@ -12547,20 +12547,6 @@
     "last_updated": "2026-07-09"
   },
   {
-    "name": "Bugcrowd Bug Bounty",
-    "program_url": "https://gov.bugcrowd.net/engagements/bugcrowd-mbb-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$20",
-    "inscope_domains": [
-      "████████████"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-09"
-  },
-  {
     "name": "Agoda Public",
     "program_url": "https://hackerone.com/agoda-public",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
