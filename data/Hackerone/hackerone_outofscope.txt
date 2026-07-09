@@ -418,6 +418,7 @@ thebodyshop.cz
 *.truist.com
 truist.com
 *.sixidmobile.com
+ibt.six-group.com
 disclosure.six-exchange-regulation.com
 providerhub.six-group.com
 six-structured-products.com

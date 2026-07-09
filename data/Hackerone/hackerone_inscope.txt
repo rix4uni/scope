@@ -484,6 +484,7 @@ you.23andme.com
 *.audible.it
 *.audible.de
 tax.audible.com
+ads.temu.com
 seller.temu.com
 temu.com
 app.uma.money
@@ -696,6 +697,7 @@ prd-ring-web-us.prd.rings.solutions
 publicsafety.ring.com
 secure.tkfweb.com
 *.bmeinntech.es
+ibt-test.six-group.com
 disclosure-test.six-exchange-regulation.com
 secure-test.six-swiss-exchange.com
 web3.sdx.com
