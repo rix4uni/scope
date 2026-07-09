@@ -1,2 +1,1 @@
-ads.temu.com
-ibt-test.six-group.com
+inference.do-ai.run

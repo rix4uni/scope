@@ -3603,6 +3603,7 @@ delen.be
 api.digitalocean.com
 cloud.digitalocean.com
 amd.digitalocean.com
+inference.do-ai.run
 marketplace.digitalocean.com
 digitalocean.com
 digitaloceanmirrors.com
