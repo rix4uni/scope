@@ -2108,7 +2108,6 @@ admin.8x8.com
 apps.8x8.com
 campaign.wavecell.com
 contacts.8x8.com
-8x8.vc
 webrtc.8x8.com
 pay.8x8.com
 platform.8x8.com

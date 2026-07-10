@@ -12775,6 +12775,21 @@
     "last_updated": "2026-07-10"
   },
   {
+    "name": "Discover VDP",
+    "program_url": "https://hackerone.com/discover-vdp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "*.discover.com",
+      "*.discoverfinancial.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-10"
+  },
+  {
     "name": "Gogo VDP",
     "program_url": "https://hackerone.com/gogo_vdp",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -30303,11 +30318,13 @@
       "checkin.jetblue.com",
       "experience.jetblue.com",
       "help.jetblue.com",
+      "jetbluevacations.com",
       "magnolia.jetblue.com",
       "mobile.jetblue.com",
       "movil.jetblue.com",
       "paisly.jetblue.com",
-      "www.jetblue.com"
+      "www.jetblue.com",
+      "www.truebluetravel.com/"
     ],
     "outofscope_domains": [
       "Vendor/Partner",
@@ -40622,6 +40639,7 @@
       "api-qual-casemanagement-financeconnect.deere.com",
       "api.agrisync.com",
       "api.contest.deere.com",
+      "api.creditapplication-devl-floating.us.e10.c01.johndeerecloud.com",
       "api.creditapplication-prod-floating.us.e10.c01.johndeerecloud.com",
       "api.expertconnect.deere.com",
       "api.mfg-manufacturing-center-prod-vpn.use1.e11.c01.johndeerecloud.com/",
