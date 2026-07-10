@@ -1,1 +1,3 @@
-inference.do-ai.run
+client-api.getpocket.com
+admin-api.getpocket.com
+curation-admin-tools.readitlater.com

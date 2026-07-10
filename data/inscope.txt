@@ -2979,6 +2979,9 @@ sdx.com
 bolsasymercados.es
 six-group.com
 us.eufy.com
+client-api.getpocket.com
+admin-api.getpocket.com
+curation-admin-tools.readitlater.com
 ads.mozilla.org
 mars.prod.ads.prod.webservices.mozgcp.net
 ads.allizom.org
@@ -2991,7 +2994,6 @@ spocs.getpocket.com
 spocs.getpocket.dev
 spocs.mozilla.net
 spocs.allizom.net
-support.mozilla.org
 archive.mozilla.org
 download.mozilla.org
 download-installer.cdn.mozilla.net
@@ -3007,11 +3009,9 @@ addons.allizom.org
 services.addons.allizom.org
 versioncheck-bg.addons.allizom.org
 versioncheck.addons.allizom.org
-api.profiler.firefox.com
 aus5.mozilla.org
 bugzilla.mozilla.org
 bugzilla-dev.allizom.org
-community-tc.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
 developer.mozilla.org
@@ -3034,15 +3034,10 @@ monitor.mozilla.org
 phabricator.allizom.org
 phabricator-dev.allizom.org
 pontoon.allizom.org
-profiler.firefox.com
-push.services.mozilla.com
-updates.push.services.mozilla.com
-autopush.stage.mozaws.net
-updates-autopush.stage.mozaws.net
 relay.firefox.com
 relay.allizom.org
 mozilla.github.io
-stage.taskcluster.nonprod.cloudops.mozgcp.net
+support.mozilla.org
 support.allizom.org
 sync.services.mozilla.com
 token.services.mozilla.com
