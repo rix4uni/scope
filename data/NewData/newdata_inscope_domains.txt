@@ -1,3 +1,10 @@
-client-api.getpocket.com
-admin-api.getpocket.com
-curation-admin-tools.readitlater.com
+app.lansweeper.com
+fb.lansweeper.com
+edge.lansweeper.com
+api.lansweeper.com
+backoffice.lansweeper.com
+lsagentrelay.lansweeper.com
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+lansweeper.com
