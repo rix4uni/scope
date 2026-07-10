@@ -12695,6 +12695,7 @@
     "reward": "-",
     "inscope_domains": [
       "business.phonepe.com",
+      "developer.indusappstore.com",
       "https://apps.apple.com/in/app/phonepe-business-merchant-app/id1463742453",
       "https://apps.apple.com/in/app/phonepe-secure-payments-app/id1170055821",
       "https://apps.apple.com/in/app/share-market-stock-trading-app/id6444640366",
@@ -12702,6 +12703,7 @@
       "https://play.google.com/store/apps/details?id=com.phonepe.app.business&pcampaignid=web_share",
       "https://play.google.com/store/apps/details?id=com.phonepe.stockbroking&pcampaignid=web_share",
       "support.phonepe.com",
+      "www.indusappstore.com",
       "www.share.market"
     ],
     "outofscope_domains": [],
