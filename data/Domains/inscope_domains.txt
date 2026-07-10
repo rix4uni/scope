@@ -1216,7 +1216,6 @@ zhongbao-ear.heytap.com
 zhongbao.heytap.com
 id.heytap.com
 id.oppo.com
-bugbounty-ctf.1password.com
 1password.com
 events.1password.com
 arc.net
