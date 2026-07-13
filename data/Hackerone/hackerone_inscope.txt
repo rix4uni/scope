@@ -2455,6 +2455,7 @@ app.codacy.com
 *.withspotify.com
 anchor.fm
 developer.spotify.com
+backstage.io
 support.megaphone.fm
 eyeofthestormers.com
 lifeatspotify.com
@@ -2488,7 +2489,6 @@ spotify.com
 api-partner.spotify.com
 api.spotify.com
 assets.spotify.com
-backstage.io
 whosampled.com
 *.ra.roblox.com
 *.rbx.com
