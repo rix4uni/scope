@@ -2436,11 +2436,9 @@ send.zomato.com
 bugbounty.runnr.in
 success.zomato.com
 zomatobook.com
-besquare.deriv.com
 community.deriv.com
 deriv.ae
 deriv.slack.com
-help.deriv.com
 deriv.atlassian.net
 trade.mql5.com
 tradingview.deriv.com
