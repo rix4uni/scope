@@ -240,6 +240,8 @@ servicenl.iciparisxl.be
 *.iciparisxl.be
 pourvous.nl
 *.pourvous.nl
+*.latchapp.com
+app.ivo.ai
 kruidvat.nl
 kruidvat.be
 api.kruidvat.nl

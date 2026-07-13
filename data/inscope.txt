@@ -1082,6 +1082,7 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.latchapp.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -4935,6 +4936,7 @@ campagne.iciparisxl.lu
 campagne.iciparisxl.be
 servicenl.iciparisxl.be
 pourvous.nl
+app.ivo.ai
 kruidvat.nl
 kruidvat.be
 api.kruidvat.nl

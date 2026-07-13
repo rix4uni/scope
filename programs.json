@@ -3235,6 +3235,23 @@
     "last_updated": "2026-07-13"
   },
   {
+    "name": "Ivo: AI VDP",
+    "program_url": "https://www.intigriti.com/programs/ivoai/ivovulnerabilitydisclosureprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$0",
+    "inscope_domains": [
+      "*.latchapp.com",
+      "https://app.ivo.ai/*",
+      "All Ivo public APIs",
+      "Ivo Microsoft Word add-in"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-13"
+  },
+  {
     "name": "KU Leuven Vulnerability Disclosure Program (VDP)",
     "program_url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",

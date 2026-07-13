@@ -1,1 +1,1 @@
-*.datacamp.com
+*.latchapp.com
