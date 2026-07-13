@@ -148,8 +148,6 @@ consensus2023.coindesk.com
 consensus2024.coindesk.com
 uat.accounts.coindesk.com
 staging.coindesk.com
-admin.selectwifi.xfinity.com
-harvard.xfinity.com
 comcastbiz.net
 console.delltechnologies.com
 educate.dell.com
@@ -664,9 +662,6 @@ status.wise.com
 status.transferwise.com
 tech.transferwise.com
 docs.wise.com
-oauth.xfinity.com
-login.xfinity.com
-business.comcast.com
 app.ynab.com
 support.ynab.com
 develop-app.ynab.com
