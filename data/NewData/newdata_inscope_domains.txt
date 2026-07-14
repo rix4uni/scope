@@ -1,1 +1,11 @@
-app.simple-reports.com
+cloud.langfuse.com
+api-sandbox.gocardless.com
+manage.gocardless
+connect-sandbox.gocardless.com
+developer.gocardless.com
+manage-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+ob.gocardless.com
+pay-sandbox.gocardless.com
+payer-details-sandbox.gocardless.com
+gocardless.com

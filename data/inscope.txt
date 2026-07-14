@@ -1419,6 +1419,7 @@ ticket.multiplayer.classdojo.com
 clients.multiplayer.classdojo.com
 monster-customizer.classdojo.com
 clickhou.se
+cloud.langfuse.com
 cloudinary.com
 api.cloudinary.com
 res.cloudinary.com
@@ -3494,6 +3495,16 @@ gcr.io
 kubernetes.io
 prow.k8s.io
 coinspot.com.au
+api-sandbox.gocardless.com
+manage.gocardless
+connect-sandbox.gocardless.com
+developer.gocardless.com
+manage-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+ob.gocardless.com
+pay-sandbox.gocardless.com
+payer-details-sandbox.gocardless.com
+gocardless.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 cloud.forescout.com

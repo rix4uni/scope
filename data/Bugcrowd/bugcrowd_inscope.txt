@@ -207,6 +207,7 @@ monster-customizer.classdojo.com
 *.doj.io
 *.dojo.me
 clickhou.se
+cloud.langfuse.com
 cloudinary.com
 api.cloudinary.com
 res.cloudinary.com

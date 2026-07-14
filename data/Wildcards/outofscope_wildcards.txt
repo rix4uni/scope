@@ -391,6 +391,7 @@ bus.*.indrive.com
 *.snap40.com
 *.atp-exodus.com
 *.mtnfootball.com
+*.gocardless-staging.io
 *.acordocerto.com.br
 *.sky.com.mx
 *tworks-att.com

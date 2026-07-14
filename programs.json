@@ -6860,7 +6860,8 @@
     "inscope_domains": [
       "https://clickhou.se/bugcrowd",
       "ClickHouse Cloud environment hosted by ClickHouse",
-      "https://github.com/ClickHouse/ClickHouse"
+      "https://github.com/ClickHouse/ClickHouse",
+      "https://cloud.langfuse.com/"
     ],
     "outofscope_domains": [
       "New support cases, Chat, Request new integration form",
@@ -55607,6 +55608,60 @@
       "www.coinspot.com.au"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-14"
+  },
+  {
+    "name": "GoCardless Bug Bounty Program",
+    "program_url": "https://hackerone.com/gocardless_bbp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "*.gocardless-cicd.io",
+      "*.gocardless-lab.io",
+      "*.gocardless.dev",
+      "*.gocardless.io,*.gocardless-banking.io",
+      "api-sandbox.gocardless.com",
+      "auth0.gocardless.com",
+      "bankaccountdata.gocardless.com",
+      "connect-sandbox.gocardless.com",
+      "developer.gocardless.com",
+      "http://sso-demo.gocardless-staging.io",
+      "https://ob-sandbox.gocardless.io",
+      "manage-sandbox.gocardless.com",
+      "oauth-sandbox.gocardless.com",
+      "ob.gocardless.com",
+      "pay-sandbox.gocardless.com",
+      "payer-details-sandbox.gocardless.com",
+      "www.gocardless.com"
+    ],
+    "outofscope_domains": [
+      "*.gocardless-staging.io",
+      "api-staging.gocardless.com",
+      "api.gocardless.com",
+      "brand.gocardless.com",
+      "connect.gocardless.com",
+      "gc4x-api-sandbox.gocardless.com",
+      "gocardless-status.com, status.gocardless.com",
+      "gocardless.atlassian.net",
+      "learn.gocardless.com",
+      "manage.gocardless.com",
+      "oauth-staging.gocardless.com",
+      "oauth.gocardless.com",
+      "outgrow.gocardless.com",
+      "partnerportal.gocardless.com, gocardless.my.site.com",
+      "pay.gocardless.com",
+      "payer-details.gocardless.com",
+      "privacy.gocardless.com",
+      "qbo-api.gocardless.com",
+      "storybook.gocardless.io",
+      "support.gocardless.com",
+      "xero-sandbox.gocardless.com",
+      "xero-staging.gocardless.com",
+      "xero.gocardless.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-14"
