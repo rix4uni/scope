@@ -1,5 +1,3 @@
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
+payment.backend-capital.com
+capital.com
+open-api.capital.com

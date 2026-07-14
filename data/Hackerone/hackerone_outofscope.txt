@@ -1585,6 +1585,7 @@ clmagtest.marriott.com
 element-hotels.marriott.com
 eswebdev.marriott.com
 fe.emergingtech-btsales.marriott.com
+gdstest.marriott.com
 gis.marriott.com
 hotelexcellence.marriott.com
 latinoamerica.marriott.com

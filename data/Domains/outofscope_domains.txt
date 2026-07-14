@@ -1994,6 +1994,7 @@ clmagtest.marriott.com
 element-hotels.marriott.com
 eswebdev.marriott.com
 fe.emergingtech-btsales.marriott.com
+gdstest.marriott.com
 gis.marriott.com
 hotelexcellence.marriott.com
 latinoamerica.marriott.com
@@ -2736,6 +2737,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
