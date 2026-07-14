@@ -2657,6 +2657,7 @@ eswebdev.marriott.com
 fe.emergingtech-btsales.marriott.com
 gdstest.marriott.com
 gis.marriott.com
+globaldesign.marriott.com
 hotelexcellence.marriott.com
 latinoamerica.marriott.com
 llmgw.codefest2026.marriott.com

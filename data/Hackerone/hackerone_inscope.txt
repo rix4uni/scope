@@ -1898,7 +1898,6 @@ efast.marriott.com
 eidhelp.marriott.com
 esupplier.marriott.com
 gifts.marriott.com
-globaldesign.marriott.com
 help.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
