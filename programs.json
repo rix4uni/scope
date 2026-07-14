@@ -8099,7 +8099,10 @@
       "https://openapitest.pulsepoint.com"
     ],
     "outofscope_domains": [
-      "See PDF"
+      "See PDF",
+      "https://www.powerpak.com/selectsurvey/",
+      "https://www.medjobnetwork.com",
+      "https://checkout.webmd.com"
     ],
     "issues_reported": [],
     "scamhit": "",
