@@ -1,1 +1,1 @@
-*.latchapp.com
+*app.simple-reports.com
