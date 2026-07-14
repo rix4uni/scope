@@ -1030,14 +1030,10 @@ ic3.*.indriverapp.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.ticketing.cm.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
