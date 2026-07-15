@@ -2396,6 +2396,7 @@ gateway.superhuman.com
 id.superhuman.com
 io.coda
 io.coda.codaapp
+mail.superhuman.com
 settings.superhuman.com
 api.geneva-staging.com
 app.geneva-staging.chat
@@ -3041,7 +3042,6 @@ api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
 one.dash.cloudflare.com
-waf.cumulusfire.net
 *.srvcs.tumblr.com
 *.tumblr.com
 crowdsignal.com
