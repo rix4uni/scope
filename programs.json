@@ -3314,37 +3314,6 @@
     "last_updated": "2026-07-15"
   },
   {
-    "name": "Lansweeper Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "Lansweeper Discovery",
-      "app.lansweeper.com",
-      "fb.lansweeper.com",
-      "edge.lansweeper.com",
-      "api.lansweeper.com",
-      "backoffice.lansweeper.com",
-      "https://lsagentrelay.lansweeper.com/",
-      "app.lansweeper.com/trial",
-      "autoupdateapi.lansweeper.com",
-      "docs.lansweeper.com",
-      "login.lansweeper.com",
-      "on-premises software",
-      "www.lansweeper.com",
-      "*.lansweeper.com"
-    ],
-    "outofscope_domains": [
-      " lsrunase2.0 and lsencrypt2.0 ",
-      "careers.lansweeper.com",
-      "www.lansweeper.com/forum"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-15"
-  },
-  {
     "name": "Libelle",
     "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3808,29 +3777,6 @@
       "1584170510",
       "com.loyaltyworks.wavinapp",
       "*.vectus.in"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-15"
-  },
-  {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -4763,27 +4709,6 @@
       "shop.vtm.be",
       "customerservice.vtm.be"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-15"
-  },
-  {
-    "name": "Venly",
-    "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "api-wallet.venly.io",
-      "api.arkane.network",
-      "connect.arkane.network ",
-      "connect.venly.io",
-      "login.arkane.network",
-      "login.venly.io",
-      "wallet.venly.io",
-      "api-wallet-sandbox.venly.io"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-15"
