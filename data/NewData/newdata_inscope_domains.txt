@@ -8,3 +8,8 @@ autoupdateapi.lansweeper.com
 docs.lansweeper.com
 login.lansweeper.com
 lansweeper.com
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com

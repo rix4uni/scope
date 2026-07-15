@@ -2437,8 +2437,6 @@ us1.badoo.com
 web.geneva-staging.com
 bumble.com
 geneva-staging.com
-api.codacy.com
-app.codacy.com
 *.atspotify.com
 *.avecspotify.com
 *.byspotify.com

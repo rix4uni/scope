@@ -3314,6 +3314,37 @@
     "last_updated": "2026-07-15"
   },
   {
+    "name": "Lansweeper Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "Lansweeper Discovery",
+      "app.lansweeper.com",
+      "fb.lansweeper.com",
+      "edge.lansweeper.com",
+      "api.lansweeper.com",
+      "backoffice.lansweeper.com",
+      "https://lsagentrelay.lansweeper.com/",
+      "app.lansweeper.com/trial",
+      "autoupdateapi.lansweeper.com",
+      "docs.lansweeper.com",
+      "login.lansweeper.com",
+      "on-premises software",
+      "www.lansweeper.com",
+      "*.lansweeper.com"
+    ],
+    "outofscope_domains": [
+      " lsrunase2.0 and lsencrypt2.0 ",
+      "careers.lansweeper.com",
+      "www.lansweeper.com/forum"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-15"
+  },
+  {
     "name": "Libelle",
     "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3777,6 +3808,29 @@
       "1584170510",
       "com.loyaltyworks.wavinapp",
       "*.vectus.in"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -9011,13 +9065,13 @@
     "platform": "Bugcrowd",
     "reward": "$12000",
     "inscope_domains": [
-      "https://my.thesecurityteam.rocks",
-      "https://api.thesecurityteam.rocks",
-      "https://my.electroneum.com/",
-      "https://electroneum.com/",
-      "https://api.electroneum.com/",
-      "https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US",
-      "https://apps.apple.com/us/app/electroneum/id1270774992"
+      "████████████████████████",
+      "█████████████████████████",
+      "███████████████████████████",
+      "████████████████████████",
+      "████████████████████████████",
+      "███████████████████████",
+      "███████████████████"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -58977,21 +59031,6 @@
       "shop.bumble.com",
       "thebeehive.bumble.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-15"
-  },
-  {
-    "name": "Codacy",
-    "program_url": "https://hackerone.com/codacy",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "api.codacy.com",
-      "app.codacy.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-15"
