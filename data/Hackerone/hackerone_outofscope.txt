@@ -652,6 +652,7 @@ unclaimedproperty.disney.com
 disneyexibidor.com.br
 enchantedfinejewelry.com
 waltdisney.org
+*.hamptonhotels.com.cn
 *.hiltonhotels.jp
 a1.hilton.com
 eis.hilton.com

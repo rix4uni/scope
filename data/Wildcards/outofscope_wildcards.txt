@@ -302,6 +302,7 @@ bus.*.indrive.com
 *.windstreamoffers.com
 *.windstreamsmallbusiness.com
 *.chattest.deribit.com
+*.hamptonhotels.com.cn
 *.hiltonhotels.jp
 *.cust.dsl.vodafone.it
 *.cust.vodafonedsl.it
