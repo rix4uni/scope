@@ -2402,7 +2402,9 @@ us-federal-gitlab.com
 status.twitter.com
 status.io
 developers.cloudflare.com
+api.staging.realtime.cloudflare.com
 community.cloudflare.com
+demo.realtime.cloudflare.com
 events.cloudflare.com
 saffron.git
 support.cloudflare.com

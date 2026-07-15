@@ -61298,7 +61298,9 @@
     "outofscope_domains": [
       "172.65.0.0/16 ",
       "Turnstile",
+      "api.staging.realtime.cloudflare.com",
       "community.cloudflare.com",
+      "demo.realtime.cloudflare.com",
       "events.www.cloudflare.com",
       "https://github.com/cloudflare/moq-rs",
       "https://github.com/cloudflare/privacy-gateway-server-go",
