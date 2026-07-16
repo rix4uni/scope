@@ -1883,6 +1883,24 @@
     "last_updated": "2026-07-16"
   },
   {
+    "name": "Altera",
+    "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$30000",
+    "inscope_domains": [
+      "Firmware",
+      "Hardware",
+      "FPGA Solution Development Tools and Utilities",
+      "Software",
+      "Non Altera Products"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-16"
+  },
+  {
     "name": "Anaconda Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -13862,6 +13880,8 @@
       "*.ba.com",
       "*.britishairways.com",
       "Security vulnerabilities that are identified in digital properties owned, operated, or controlled by British Airways are considered in scope.",
+      "com.ba.mobile",
+      "com.britishairways.BAFlights",
       "http://www.britishairways.com/nx",
       "www.britishairways.com"
     ],
