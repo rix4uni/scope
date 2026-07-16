@@ -6399,6 +6399,23 @@
     "last_updated": "2026-07-16"
   },
   {
+    "name": "BOJA Consulting Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/boja",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1223298/agile-risk-management-for-jira-cloud?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1226195/align-okr-with-roadmap?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218036/agile-project-forecast-metrics-roadmap-portfolio?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218555/easy-pdf-html-word-export-to-custom-documents?hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-16"
+  },
+  {
     "name": "Bolt Technology OÜ",
     "program_url": "https://bugcrowd.com/engagements/bolt-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
