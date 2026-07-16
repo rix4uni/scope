@@ -3314,37 +3314,6 @@
     "last_updated": "2026-07-16"
   },
   {
-    "name": "Lansweeper Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "Lansweeper Discovery",
-      "app.lansweeper.com",
-      "fb.lansweeper.com",
-      "edge.lansweeper.com",
-      "api.lansweeper.com",
-      "backoffice.lansweeper.com",
-      "https://lsagentrelay.lansweeper.com/",
-      "app.lansweeper.com/trial",
-      "autoupdateapi.lansweeper.com",
-      "docs.lansweeper.com",
-      "login.lansweeper.com",
-      "on-premises software",
-      "www.lansweeper.com",
-      "*.lansweeper.com"
-    ],
-    "outofscope_domains": [
-      " lsrunase2.0 and lsencrypt2.0 ",
-      "careers.lansweeper.com",
-      "www.lansweeper.com/forum"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-16"
-  },
-  {
     "name": "Libelle",
     "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
