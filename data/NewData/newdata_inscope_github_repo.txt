@@ -1,3 +1,5 @@
-https://github.com/mapbox/mapbox-gl-js
-https://github.com/mapbox/mapbox-maps-android
-https://github.com/mapbox/mapbox-maps-ios
+https://github.com/mapbox/mapbox-maps-flutter
+https://github.com/mapbox/mapbox-navigation-android
+https://github.com/mapbox/mapbox-navigation-ios
+https://github.com/mapbox/mapbox-search-android
+https://github.com/mapbox/mapbox-search-ios
