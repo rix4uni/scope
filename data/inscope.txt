@@ -4525,8 +4525,8 @@ shop.app
 shopify.plus
 shopifyinbox.com
 your-store.myshopify.com
-api.mapbox.com
 docs.mapbox.com
+api.mapbox.com
 mapbox.com
 studio.mapbox.com
 account.mapbox.com
