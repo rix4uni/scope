@@ -1,3 +1,14 @@
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.datacamp.com
+*.toasttab.com
+*.xtrachef.com
+*.getsling.com
+*.delphidisplay.com
+*.toasttakeout.com
+*.phrasingpro3.com
+*.rallyforrestaurants.com
+*.estratex.com
+*.toast.org
+*.rallyforrestaurants.org
+*.rallyforrestaurant.com
+*.ibizdna.com
+*.rallyforestaurants.com
