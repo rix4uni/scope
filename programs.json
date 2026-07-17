@@ -22770,38 +22770,6 @@
     "last_updated": "2026-07-17"
   },
   {
-    "name": "M-Pesa Africa Limited",
-    "program_url": "https://hackerone.com/mpesa",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "*.m-pesa.com",
-      "1442121355",
-      "1502222766",
-      "com.vodafone.mpesa.drc",
-      "com.vodafone.mpesa.ls",
-      "com.vodafone.mpesa.mozambique",
-      "m-pesa.africa",
-      "mpa.ekyc.backoffice.m-pesa.com",
-      "mpa.ekyc.selfregister.m-pesa.com",
-      "mpa.qr.web.m-pesa.com",
-      "openapi.m-pesa.com",
-      "openapiportal.m-pesa.com"
-    ],
-    "outofscope_domains": [
-      "business.m-pesa.com",
-      "com.vodacom.mpesa.ls.business",
-      "mz.m-pesa.com",
-      "ra.ls.m-pesa.com",
-      "sso.m-pesa.vm.co.mz",
-      "sso.pr.m-pesa.vm.co.mz"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-17"
-  },
-  {
     "name": "Daimler Truck",
     "program_url": "https://hackerone.com/daimler_truck",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -40760,6 +40728,7 @@
       "bancojohndeere.com.br",
       "bantotal-ar-cert.deere.com",
       "bantotal-ar-prod.deere.com",
+      "barcode.johndeereandco.com",
       "beaconx.deere.com",
       "bearflagrobotics.com",
       "beneficios-feria.com",

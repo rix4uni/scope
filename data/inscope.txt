@@ -447,7 +447,6 @@ ic3.*.indriverapp.com
 *.otherside.xyz
 *.yuga.com
 *.yugalabs.io
-*.m-pesa.com
 *.api.cx.metamask.io
 *.metamask.io
 *.eu.floqast.app
@@ -3163,12 +3162,6 @@ api.notion.com
 calendar.notion.so
 mail.notion.so
 notion.id
-m-pesa.africa
-mpa.ekyc.backoffice.m-pesa.com
-mpa.ekyc.selfregister.m-pesa.com
-mpa.qr.web.m-pesa.com
-openapi.m-pesa.com
-openapiportal.m-pesa.com
 metamask.io
 docs.metamask.io
 snaps.metamask.io
