@@ -1,5 +1,4 @@
-https://github.com/mapbox/mapbox-maps-flutter
-https://github.com/mapbox/mapbox-navigation-android
-https://github.com/mapbox/mapbox-navigation-ios
-https://github.com/mapbox/mapbox-search-android
-https://github.com/mapbox/mapbox-search-ios
+https://github.com/mapbox/mcp-devkit-server
+https://github.com/mapbox/mcp-docs-server
+https://github.com/mapbox/mapbox-gl-geocoder
+https://github.com/mapbox/mcp-server

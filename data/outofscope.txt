@@ -3179,10 +3179,6 @@ invoices.shopify.cn
 invoices.shopify.de
 invoices.shopify.fr
 invoices.shopify.jp
-status.mapbox.com
-email.mapbox.com
-docs.mapbox.com
-mapbox.com
 geojson.io
 geojson.net
 admin.demo.urbandoor.com

@@ -60590,7 +60590,11 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
+      "Mapbox DevKit MCP Server",
+      "Mapbox Docs MCP Server",
+      "Mapbox GL Geocoder",
       "Mapbox GL JS",
+      "Mapbox MCP Server",
       "Maps SDK for Android",
       "Maps SDK for Flutter",
       "Maps SDK for iOS",
@@ -60600,12 +60604,11 @@
       "Search SDK for iOS",
       "api.mapbox.com",
       "https://docs.mapbox.com/",
-      "https://github.com/mapbox",
       "www.mapbox.com"
     ],
     "outofscope_domains": [
-      "Submissions on out-of-scope assets listed below will be closed as N/A ",
-      "geojson.io"
+      "geojson.io",
+      "https://github.com/mapbox"
     ],
     "issues_reported": [],
     "scamhit": "",
