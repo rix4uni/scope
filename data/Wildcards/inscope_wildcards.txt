@@ -1269,7 +1269,6 @@ ic3.*.indriverapp.com
 *.europolitan.se
 *.vfsevisa.com
 *.onevasco.com
-*.vascoworldwide.net
 *.directverify.in
 *.docswallet.com
 *.vfsglobal.by
