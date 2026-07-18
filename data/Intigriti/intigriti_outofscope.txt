@@ -114,8 +114,6 @@ nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
 *.nexuzhealth.pro
-store.ninjakiwi.com
-support.ninjakiwi.com
 *.vectus.in
 *.pdq.com
 *.pdq.tools
