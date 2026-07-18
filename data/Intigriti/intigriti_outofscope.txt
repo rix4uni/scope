@@ -3,7 +3,6 @@
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
 puml.devops.buhlergroup.com
