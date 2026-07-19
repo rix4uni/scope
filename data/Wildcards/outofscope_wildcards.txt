@@ -352,10 +352,6 @@ bus.*.indrive.com
 *.clover.com
 *.firstdata.com
 *.fiserv.com
-*.awards.slotomania.com
-*.justfall.lol
-*.justplay.lol
-*.1v1.lol
 *.who.int
 *.getbouncer.com
 *.grindrads.com

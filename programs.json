@@ -40207,14 +40207,7 @@
       "net.wooga.switchcraft.googleplay",
       "net.wooga.tropicats_tropical_cats_puzzle_paradise"
     ],
-    "outofscope_domains": [
-      "*.awards.slotomania.com",
-      "*.justfall.lol,*.justplay.lol,*.1v1.lol",
-      "1v1.lol",
-      "com.youdagames.gop3multiplayer",
-      "id877638937",
-      "sm-php-smid-dsa.slotomania.com,sm-php-smid.slotomania.com,sm-php-smid-va2.slotomania.com,vs-fb-php-p1.playtika.com,sm-php.playtika.com"
-    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-19"

@@ -352,10 +352,6 @@ bus.*.indrive.com
 *.clover.com
 *.firstdata.com
 *.fiserv.com
-*.awards.slotomania.com
-*.justfall.lol
-*.justplay.lol
-*.1v1.lol
 *.who.int
 *.getbouncer.com
 *.grindrads.com
@@ -2029,12 +2025,6 @@ secure-piedmontfederal.com
 sundancestate.onlinebank.com
 clover.com
 cloversecurity.com
-1v1.lol
-sm-php-smid-dsa.slotomania.com
-sm-php-smid.slotomania.com
-sm-php-smid-va2.slotomania.com
-vs-fb-php-p1.playtika.com
-sm-php.playtika.com
 advertising.deere.com
 adzone.deere.com
 api.demo.nonprod.tenna.com
