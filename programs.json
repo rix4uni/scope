@@ -9087,26 +9087,6 @@
     "last_updated": "2026-07-20"
   },
   {
-    "name": "Electroneum Wallet: Gateway to the ETN Cryptocurrency",
-    "program_url": "https://bugcrowd.com/engagements/myapp-mbb-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$12000",
-    "inscope_domains": [
-      "████████████████████████",
-      "█████████████████████████",
-      "███████████████████████████",
-      "████████████████████████",
-      "████████████████████████████",
-      "███████████████████████",
-      "███████████████████"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-20"
-  },
-  {
     "name": "MyFitnessPal Managed Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/myfitnesspal-mbb",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -16217,18 +16197,11 @@
       "https://github.com/aws/aws-sdk",
       "https://github.com/aws/s2n-tls",
       "https://github.com/awslabs/*",
-      "https://github.com/kubernetes-sigs/aws-ebs-csi-driver",
-      "https://github.com/kubernetes-sigs/aws-efs-csi-driver",
-      "https://github.com/kubernetes-sigs/aws-encryption-provider",
-      "https://github.com/kubernetes-sigs/aws-fsx-csi-driver",
-      "https://github.com/kubernetes-sigs/aws-iam-authenticator",
-      "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
       "node.e2ro.com/*",
       "www.awseducate.com"
     ],
     "outofscope_domains": [
-      "https://*.amazonaws.com/*",
-      "https://github.com/kubernetes-sigs/cluster-api-provider-aws"
+      "https://*.amazonaws.com/*"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -20865,26 +20838,6 @@
     "inscope_domains": [
       "my.sheer.com",
       "www.sheer.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-20"
-  },
-  {
-    "name": "Vodafone Oman",
-    "program_url": "https://hackerone.com/vodafone_oman",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "1589071345",
-      "apix.vodafone.om",
-      "om.vodafone.mva",
-      "vfo01.vodafone.om",
-      "vfo02.vodafone.om",
-      "vfo03.vodafone.om",
-      "www.vodafone.om"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -44960,7 +44913,6 @@
       "bulgaria.preview.cbre.com",
       "bulkedit.miq.cbre.com",
       "bulkeditprocessor.miq.cbre.com",
-      "bunningsinvestments.com.au",
       "bunningsportfolio.com.au",
       "bureau.cbre.fr",
       "bureaux.cbre.fr",
@@ -48236,7 +48188,6 @@
       "mediaassets-qa.nonprod.cbre.com",
       "mediaassets-uat.nonprod.cbre.com",
       "mediaassets.cbre.com",
-      "medicalinvestments.com.au",
       "meet.cbre.at",
       "meet.gallileo-frankfurt.com",
       "meet.intego.dk",
@@ -49498,7 +49449,6 @@
       "retail-rent.cbre.es",
       "retail.cbre.com",
       "retailinsights-cbrekorea.com",
-      "retailinvestments.com.au",
       "retailproperties.cbre.us",
       "retailtxok.cbre.us",
       "rise.cbre.com.au",

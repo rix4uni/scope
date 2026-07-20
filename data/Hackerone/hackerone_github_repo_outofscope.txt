@@ -1,4 +1,3 @@
-https://github.com/kubernetes-sigs/cluster-api-provider-aws
 https://github.com/supabase-community
 https://github.com/netflix/consoleme
 https://github.com/Netflix/dispatch
