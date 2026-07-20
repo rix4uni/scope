@@ -9978,6 +9978,7 @@
       "https://auth.api.originenergy.com.au/**",
       "https://origin-energy.formstack.com/**",
       "https://ssu.myconnect.com.au/**",
+      "https://reneweclipse.originenergy.com.au/*",
       "https://www.compareandconnect.com.au/",
       "https://agent.compareandconnect.com.au/",
       "https://fastconnect.co.nz",

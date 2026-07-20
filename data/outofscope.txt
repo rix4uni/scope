@@ -1084,6 +1084,7 @@ originenergy.com.au
 auth.api.originenergy.com.au
 origin-energy.formstack.com
 ssu.myconnect.com.au
+reneweclipse.originenergy.com.au
 compareandconnect.com.au
 agent.compareandconnect.com.au
 fastconnect.co.nz
