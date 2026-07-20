@@ -3634,6 +3634,39 @@
     "last_updated": "2026-07-20"
   },
   {
+    "name": "Ninja Kiwi Games Bug Bounty program",
+    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4125",
+    "inscope_domains": [
+      "analytics.ninjakiwi.com",
+      "api.ninjakiwi.com",
+      "guts.ninjakiwi.com",
+      "*.ninjakiwi.me",
+      "*.nkstatic.com",
+      "battles.tv",
+      "data.ninjakiwi.com",
+      "ninja.kiwi",
+      "ninjakiwi.com",
+      "alerts.ninjakiwi.com",
+      "boomer2.ninjakiwi.com",
+      "ct.ninjakiwi.com",
+      "mynk-dash.ninjakiwi.com",
+      "mynk.ninjakiwi.com",
+      "*.souparea.com",
+      "rancher.ninjakiwi.com",
+      "rancher.ninjakiwi.me"
+    ],
+    "outofscope_domains": [
+      "store.ninjakiwi.com",
+      "support.ninjakiwi.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-20"
+  },
+  {
     "name": "Online enrollment for students Bug Bounty Program",
     "program_url": "https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -59269,7 +59302,6 @@
       "com.skypicker.Skypicker",
       "com.skypicker.main",
       "http://www.kiwi.com/stories",
-      "https://github.com/kiwicom/flask-ninja",
       "https://github.com/kiwicom/js-iam-middleware",
       "https://github.com/kiwicom/k8s-vault-operator",
       "https://github.com/kiwicom/kiwi-cache",

@@ -168,7 +168,6 @@ https://github.com/cosmos/ics23
 https://github.com/cosmos/ledger-cosmos
 https://github.com/nodejs/node
 https://github.com/backstage/backstage
-https://github.com/kiwicom/flask-ninja
 https://github.com/kiwicom/js-iam-middleware
 https://github.com/kiwicom/k8s-vault-operator
 https://github.com/kiwicom/kiwi-cache
