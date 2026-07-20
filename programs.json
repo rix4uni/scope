@@ -4715,6 +4715,27 @@
     "last_updated": "2026-07-20"
   },
   {
+    "name": "Venly",
+    "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "api-wallet.venly.io",
+      "api.arkane.network",
+      "connect.arkane.network ",
+      "connect.venly.io",
+      "login.arkane.network",
+      "login.venly.io",
+      "wallet.venly.io",
+      "api-wallet-sandbox.venly.io"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-20"
+  },
+  {
     "name": "Visma",
     "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
