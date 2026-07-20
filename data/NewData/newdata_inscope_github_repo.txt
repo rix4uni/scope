@@ -1,4 +1,1 @@
-https://github.com/mapbox/mcp-devkit-server
-https://github.com/mapbox/mcp-docs-server
-https://github.com/mapbox/mapbox-gl-geocoder
-https://github.com/mapbox/mcp-server
+https://github.com/brave/*,
