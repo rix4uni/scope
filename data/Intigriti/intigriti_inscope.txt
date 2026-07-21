@@ -749,3 +749,4 @@ hubacc.vznkul.be
 intigriti.com
 *.intigriti.me
 vpn.intigriti.rocks
+metabase.pwn.intigriti.rocks

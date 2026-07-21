@@ -5264,7 +5264,8 @@
       "*.pwn.intigriti.rocks",
       "www.intigriti.com",
       "*.intigriti.me",
-      "https://vpn.intigriti.rocks/*"
+      "https://vpn.intigriti.rocks/*",
+      "https://metabase.pwn.intigriti.rocks/"
     ],
     "outofscope_domains": [
       "*.intigriti.io",

@@ -4072,6 +4072,7 @@ hub.vznkul.be
 hubacc.vznkul.be
 intigriti.com
 vpn.intigriti.rocks
+metabase.pwn.intigriti.rocks
 cockpit-eu-west-2.outscale.com
 fcu.eu-west-2.outscale.com
 lbu.eu-west-2.outscale.com
