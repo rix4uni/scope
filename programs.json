@@ -20856,6 +20856,26 @@
     "last_updated": "2026-07-21"
   },
   {
+    "name": "Vodafone Oman",
+    "program_url": "https://hackerone.com/vodafone_oman",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "1589071345",
+      "apix.vodafone.om",
+      "om.vodafone.mva",
+      "vfo01.vodafone.om",
+      "vfo02.vodafone.om",
+      "vfo03.vodafone.om",
+      "www.vodafone.om"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-21"
+  },
+  {
     "name": "Frontegg",
     "program_url": "https://hackerone.com/frontegg",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -60044,19 +60064,20 @@
       "api.deriv.com",
       "app.deriv.com",
       "cashier.deriv.com",
+      "core-api.deriv.com",
       "ct.deriv.com",
       "deriv.partners",
       "derivws.com",
       "github.com/binary-com",
       "github.com/deriv-com",
+      "home.deriv.com",
+      "https://api-core.deriv.com",
       "oauth.deriv.com",
       "partners.deriv.com",
       "secure-dfadmin.deriv.com",
       "smarttrader.deriv.com"
     ],
     "outofscope_domains": [
-      "*.api-core.deriv.com",
-      "*.home.deriv.com",
       "Any 3rd party managed domain",
       "community.deriv.com",
       "deriv.ae",

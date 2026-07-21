@@ -2104,8 +2104,6 @@ send.zomato.com
 bugbounty.runnr.in
 success.zomato.com
 zomatobook.com
-*.api-core.deriv.com
-*.home.deriv.com
 community.deriv.com
 deriv.ae
 deriv.slack.com

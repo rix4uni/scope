@@ -1792,6 +1792,12 @@ kronor.io
 payment-gateway.kronor.io
 my.sheer.com
 sheer.com
+apix.vodafone.om
+om.vodafone.mva
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
+vodafone.om
 api.au.frontegg.com
 portal.au.frontegg.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -3162,7 +3168,10 @@ umj4zbqdfcyevlkgqgpq6foxk3z75zzxsbgt5jqmfxofrbrjh3crbnad.onion
 api.deriv.com
 app.deriv.com
 cashier.deriv.com
+core-api.deriv.com
 derivws.com
+home.deriv.com
+api-core.deriv.com
 oauth.deriv.com
 secure-dfadmin.deriv.com
 smarttrader.deriv.com
