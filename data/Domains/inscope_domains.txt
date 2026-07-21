@@ -2138,6 +2138,7 @@ mobileapi.na1.insightly.com
 outlook.insightly.com
 figma.slack.com
 figma.com
+weavy.ai
 appsource.microsoft.com
 api.figma.com
 amazon.speech.sim
