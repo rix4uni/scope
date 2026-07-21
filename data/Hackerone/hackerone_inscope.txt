@@ -910,6 +910,10 @@ verify.arkoselabs.com
 arkoselabs.com
 sandbox-royal.securegateway.com
 sandbox.securegateway.com
+abercrombie.com
+anfcorp.com
+corporate.abercrombie.com
+hollisterco.com
 *.boredapeyachtclub.com
 *.otherside.xyz
 odk.otherside.xyz
@@ -1923,7 +1927,6 @@ psp.marriott.com
 reservations.all-inclusive.marriott.com
 smetrics.marriott.com
 splunk-phantom-nlb.marriott.com
-ssm-marriottms.saviyntcloud.com
 sso.marriott.com
 travelagents.marriott.com
 traveler.marriott.com

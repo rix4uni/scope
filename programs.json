@@ -1143,25 +1143,6 @@
     "last_updated": "2026-07-21"
   },
   {
-    "name": "OneDoc",
-    "program_url": "https://yeswehack.com/programs/onedoc-sa-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$5000",
-    "inscope_domains": [
-      "https://www.onedoc.ch",
-      "https://pro.onedoc.ch",
-      "https://api.onedoc.ch",
-      "https://telehealth.onedoc.ch"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-21"
-  },
-  {
     "name": "Ooredoo QPSC - Customer Portal Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -18688,6 +18669,7 @@
       "lowes.com"
     ],
     "outofscope_domains": [
+      "http://myfbm.com",
       "www.lowesprosupply.com/"
     ],
     "issues_reported": [],
@@ -22439,6 +22421,30 @@
       "sandbox.securegateway.com"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-21"
+  },
+  {
+    "name": "Abercrombie & Fitch Bug Bounty",
+    "program_url": "https://hackerone.com/abercrombie_fitch_bbp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "339041767",
+      "383915209",
+      "abercrombie.com",
+      "anfcorp.com",
+      "com.abercrombie.abercrombie",
+      "com.abercrombie.hollister",
+      "corporate.abercrombie.com",
+      "hollisterco.com"
+    ],
+    "outofscope_domains": [
+      "applications.abercrombie.com/",
+      "http://nonmerchvendorprofile.anfcorp.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-21"
@@ -57354,7 +57360,6 @@
       "reservations.all-inclusive.marriott.com",
       "smetrics.marriott.com",
       "splunk-phantom-nlb.marriott.com",
-      "ssm-marriottms.saviyntcloud.com",
       "sso.marriott.com",
       "travelagents.marriott.com/",
       "traveler.marriott.com",
@@ -57394,6 +57399,7 @@
       "milux.marriott.com",
       "ofhub.marriott.com",
       "springhillsuites.marriott.com",
+      "ssm-marriottms.saviyntcloud.com",
       "towneplacesuites.marriott.com",
       "vacations.marriott.com",
       "www.github.com",

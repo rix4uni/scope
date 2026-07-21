@@ -319,10 +319,6 @@ retail-api.otto.de
 api.ovh.com
 ovh.com
 *.soyoustart.com
-onedoc.ch
-pro.onedoc.ch
-api.onedoc.ch
-telehealth.onedoc.ch
 ooredoo.qa
 mobile.ooredoo.qa
 selfcare.ooredoo.qa

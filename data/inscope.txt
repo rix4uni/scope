@@ -3147,6 +3147,10 @@ verify.arkoselabs.com
 arkoselabs.com
 sandbox-royal.securegateway.com
 sandbox.securegateway.com
+abercrombie.com
+anfcorp.com
+corporate.abercrombie.com
+hollisterco.com
 odk.otherside.xyz
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -3920,7 +3924,6 @@ psp.marriott.com
 reservations.all-inclusive.marriott.com
 smetrics.marriott.com
 splunk-phantom-nlb.marriott.com
-ssm-marriottms.saviyntcloud.com
 sso.marriott.com
 travelagents.marriott.com
 traveler.marriott.com
@@ -5605,10 +5608,6 @@ supplier-connect.otto.de
 retail-api.otto.de
 api.ovh.com
 ovh.com
-onedoc.ch
-pro.onedoc.ch
-api.onedoc.ch
-telehealth.onedoc.ch
 ooredoo.qa
 mobile.ooredoo.qa
 selfcare.ooredoo.qa

@@ -937,6 +937,7 @@ status.singlestore.com
 studio.singlestore.com
 support.singlestore.com
 training.singlestore.com
+myfbm.com
 lowesprosupply.com
 desktop.rei.com
 destinations.rei.com
@@ -1073,6 +1074,8 @@ status.arkoselabs.com
 careers.abb
 hub.electrification.us.abb.com
 stringsizer.abb.com
+applications.abercrombie.com
+nonmerchvendorprofile.anfcorp.com
 docs.moderntreasury.com
 help.moderntreasury.com
 ph.moderntreasury.com
@@ -2001,6 +2004,7 @@ mi.bookmarriott.com
 milux.marriott.com
 ofhub.marriott.com
 springhillsuites.marriott.com
+ssm-marriottms.saviyntcloud.com
 towneplacesuites.marriott.com
 vacations.marriott.com
 msg-gateway.marriott.com
