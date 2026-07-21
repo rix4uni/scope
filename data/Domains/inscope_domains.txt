@@ -1930,6 +1930,7 @@ eis.hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+resmax.hilton.com
 compass.com
 connect.secure.wellsfargo.com
 wellsfargo.com
@@ -1951,7 +1952,6 @@ ca.koho
 api.koho.ca
 usercontent.koho.ca
 web.koho.ca
-webgateway.koho.ca
 koho.ca
 api.stg.inspectorio.com
 app.stg.inspectorio.com

@@ -19075,6 +19075,7 @@
       "solutions.transunion.co.uk",
       "sompoh-crivoapi.crivo.com.br",
       "srp-idtheft.com",
+      "treinamento-crivoapi.crivo.com.br",
       "treinamento-ead-workflow.crivo.com.br",
       "usub.cibil.com",
       "valueyouridentity.com",
@@ -28543,7 +28544,8 @@
       "hilton.io",
       "hiltonbusinessonline.com",
       "hiltonlocalbiz.com",
-      "id635150066"
+      "id635150066",
+      "resmax.hilton.com"
     ],
     "outofscope_domains": [
       "*.hamptonhotels.com.cn",
@@ -29185,7 +29187,6 @@
       "http://api.koho.ca/partner",
       "usercontent.koho.ca",
       "web.koho.ca",
-      "webgateway.koho.ca",
       "www.koho.ca"
     ],
     "outofscope_domains": [
