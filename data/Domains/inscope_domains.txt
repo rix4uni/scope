@@ -2052,8 +2052,11 @@ moonpay.com
 sell.moonpay.com
 web3.moonpay.com
 app.koho.ca
+assets.koho.ca
 ca.koho
+clicks.koho.ca
 api.koho.ca
+login.koho.ca
 usercontent.koho.ca
 web.koho.ca
 koho.ca
@@ -3634,13 +3637,6 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
-login.cm.com
-api.cm.com
-api.cmtelecom.com
-cm.com
-appmiral.com
-building-blocks.com
-cmcom.atlassian.net
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com

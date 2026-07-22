@@ -1034,7 +1034,6 @@ ic3.*.indriverapp.com
 *.techbook.de
 *.travelbook.de
 *.wissen-sie-mehr.de
-*.ticketing.cm.com
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl

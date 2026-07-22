@@ -1,4 +1,3 @@
-api.glassdoor.com
-glassdoor.com
-fishbowlapp.com
-api.fishbowlapp.com
+assets.koho.ca
+clicks.koho.ca
+login.koho.ca
