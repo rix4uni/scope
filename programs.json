@@ -79,10 +79,17 @@
       "explore.alasco.com",
       "explore.alasco.de",
       "www.alasco.de",
+      "www.alasco.com",
       "alasco.de",
+      "alasco.com",
+      "lp.alasco.de",
+      "lp.alasco.com",
+      "support.alasco.de",
+      "support.alasco.com",
       "Please note that all non-authenticated areas of our systems are in scope for this program. This means that any vulnerability discovered in a system or service that does not require a login to access is eligible for a reward.",
       "However, any vulnerability discovered in a system or service that requires a login to access is outside the scope of this program.",
-      "Alasco will not provide access credentials to any system, not for testing and also not for issue validation."
+      "Alasco will not provide access credentials to any system, not for testing and also not for issue validation.",
+      "Attention: Third-party managed infrastructure (e.g. HubSpot, Salesforce, or other SaaS platforms) where Alasco has no ability to remediate vulnerabilities at the infrastructure or platform level, regardless of the subdomain."
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -20392,6 +20399,7 @@
       "194.98.112.0/24",
       "213.41.106.0/24",
       "http://ibt.six-group.com",
+      "https://bmefx.es/",
       "https://disclosure.six-exchange-regulation.com/",
       "https://providerhub.six-group.com/",
       "https://www.six-structured-products.com/",
@@ -20598,8 +20606,7 @@
       "Windows OS Executable"
     ],
     "outofscope_domains": [
-      "*.okg.com",
-      "https://github.com/okx"
+      "*.okg.com"
     ],
     "issues_reported": [],
     "scamhit": "",
