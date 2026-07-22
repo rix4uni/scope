@@ -2906,12 +2906,6 @@ shop.app
 shopify.plus
 shopifyinbox.com
 your-store.myshopify.com
-docs.mapbox.com
-api.mapbox.com
-mapbox.com
-studio.mapbox.com
-account.mapbox.com
-console.mapbox.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnb.org

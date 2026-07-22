@@ -2177,8 +2177,6 @@ invoices.shopify.cn
 invoices.shopify.de
 invoices.shopify.fr
 invoices.shopify.jp
-geojson.io
-geojson.net
 admin.demo.urbandoor.com
 demo.urbandoor.com
 luckey.app

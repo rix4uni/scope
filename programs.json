@@ -60587,37 +60587,6 @@
     "last_updated": "2026-07-22"
   },
   {
-    "name": "Mapbox",
-    "program_url": "https://hackerone.com/mapbox",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Mapbox DevKit MCP Server",
-      "Mapbox Docs MCP Server",
-      "Mapbox GL Geocoder",
-      "Mapbox GL JS",
-      "Mapbox MCP Server",
-      "Maps SDK for Android",
-      "Maps SDK for Flutter",
-      "Maps SDK for iOS",
-      "Navigation SDK for Android",
-      "Navigation SDK for iOS",
-      "Search SDK for Android",
-      "Search SDK for iOS",
-      "api.mapbox.com",
-      "https://docs.mapbox.com/",
-      "www.mapbox.com"
-    ],
-    "outofscope_domains": [
-      "geojson.io",
-      "https://github.com/mapbox"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-22"
-  },
-  {
     "name": "Invision Power Services, Inc.",
     "program_url": "https://hackerone.com/ips",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
