@@ -1,1 +1,4 @@
-solarwinds.com
+api.glassdoor.com
+glassdoor.com
+fishbowlapp.com
+api.fishbowlapp.com

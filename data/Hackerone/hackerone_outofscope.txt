@@ -401,10 +401,6 @@ playground.travix.com
 *.tellocast.com
 tilismtechservices.com
 claude.ai
-support.wonder.com
-support.blueapron.com
-support.grubhub.com
-support.seamless.com
 *.gobrightspeed.net
 dhcp.embarqhsd.net
 support.world.org

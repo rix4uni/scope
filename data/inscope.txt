@@ -1502,6 +1502,10 @@ staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com
 staging.claytonapp.com
+api.glassdoor.com
+glassdoor.com
+fishbowlapp.com
+api.fishbowlapp.com
 app.glean.com
 bug-bounty-be.glean.com
 hostgator.com.br
