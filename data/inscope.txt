@@ -742,7 +742,6 @@ ic3.*.indriverapp.com
 *.skypoker.com
 *.skyvegas.com
 *.sportinglife.com
-*.bitmex.com
 *.adaptive-shield.com
 *.bionic.ai
 *.crowdstrike.com
@@ -4192,8 +4191,6 @@ ort-desktop.pingone.com
 itv7.itv.com
 rafflee.co.uk
 super6.skysports.com
-testnet.bitmex.com
-bitmex.com
 apps.apple.com
 falcon-sandbox.com
 hybrid-analysis.com

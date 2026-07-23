@@ -742,7 +742,6 @@ ic3.*.indriverapp.com
 *.skypoker.com
 *.skyvegas.com
 *.sportinglife.com
-*.bitmex.com
 *.adaptive-shield.com
 *.bionic.ai
 *.crowdstrike.com
