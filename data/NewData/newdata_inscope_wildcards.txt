@@ -1,6 +1,1 @@
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.ticketing.cm.com

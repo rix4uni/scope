@@ -1,3 +1,7 @@
-assets.koho.ca
-clicks.koho.ca
-login.koho.ca
+login.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com
+appmiral.com
+building-blocks.com
+cmcom.atlassian.net

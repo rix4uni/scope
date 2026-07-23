@@ -3631,6 +3631,13 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
+login.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com
+appmiral.com
+building-blocks.com
+cmcom.atlassian.net
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
