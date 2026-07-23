@@ -4346,6 +4346,7 @@ vod.infomaniak.com
 player-radio.infomaniak.com
 welcome.infomaniak.com
 swisstransfer.com
+swisstransfer.infomaniak.com
 infomaniak.com
 chk.infomaniak.com
 ai-tools.infomaniak.com
