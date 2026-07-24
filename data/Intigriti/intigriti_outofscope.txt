@@ -49,6 +49,7 @@ support.datacamp.com
 talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
+*.snapshooter.com
 github.com
 anchor.digitalocean.com
 brand.digitalocean.com

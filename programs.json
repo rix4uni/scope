@@ -2646,7 +2646,6 @@
       "inference.do-ai.run",
       "marketplace.digitalocean.com",
       "www.digitalocean.com",
-      "*.snapshooter.com",
       "digitaloceanmirrors.com",
       "digitaloceanpartners.com",
       "digitaloceanstatus.com",
@@ -2660,6 +2659,7 @@
       "https://github.com/digitalocean/doctl"
     ],
     "outofscope_domains": [
+      "*.snapshooter.com",
       "https://github.com/digitalocean/action-doctl",
       "https://github.com/digitalocean/godo",
       "https://github.com/digitalocean/pydo",
@@ -40956,6 +40956,7 @@
       "edge.machinefinder.com",
       "edge.om-machinefinder-prod-vpn.us.e26.c01.johndeerecloud.com",
       "edi-self-service.deere.com",
+      "edl-nlq.ae-edl-ingest-prod-vpn.us.e18.c01.johndeerecloud.com",
       "edl.services.wirtgen-group.com",
       "elink.surefireag.com",
       "email.bearflagrobotics.com",

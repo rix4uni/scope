@@ -582,6 +582,7 @@ g.*.slackhq.com
 *.digi-mobile.be
 *.insky.be
 *.it.datacamp.com
+*.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
 *.digitaloceanspaces.com
