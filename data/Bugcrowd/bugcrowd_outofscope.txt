@@ -677,6 +677,13 @@ support.simplisafe.com
 *skynews.com.au
 *safetytraining.sky.it
 skyscanner.net
+help.skyscanner.net
+carhirehelp.skyscanner.net
+hotelshelp.skyscanner.net
+support.business.skyscanner.net
+partners.skyscanner.net
+creators.skyscanner.net
+preferences.skyscanner.net
 *.snapnames.com
 namejet.com
 *.namejet.com
