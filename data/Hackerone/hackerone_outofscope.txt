@@ -1,3 +1,9 @@
+blog.wolt.com
+wpengine.com
+gettest.wolt.com
+links.wolt.com
+press.wolt.com
+wolt.atlassian.net
 *.bandcamp.com
 *.corp.bandcamp.com
 *.popjam.com
@@ -1607,10 +1613,6 @@ support.chaturbate.com
 ads.pixiv.net
 factory.pixiv.net
 accounts.pixiv.net
-en.wikipedia.org
-launch-all.sh
-lavender.five
-user-images.githubusercontent.com
 *.affirm.com
 itunes.apple.com
 investors.goodrx.com

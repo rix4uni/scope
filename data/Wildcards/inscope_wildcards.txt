@@ -317,6 +317,7 @@ np.*.lfscnp.com
 *.transferwise.com
 *.wise.com
 *.wise-sandbox.com
+*.wolt.com
 *.anduril.au
 *.anduril.com
 *.anduril.com.au
@@ -1034,11 +1035,13 @@ ic3.*.indriverapp.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1151,6 +1154,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net

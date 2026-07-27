@@ -1,3 +1,11 @@
+*.wolt.com
+wolt.com
+authentication.wolt.com
+corporate.wolt.com
+drive.wolt.com
+merchant.wolt.com
+ops.wolt.com
+restaurant-api.wolt.com
 agoda.com
 ads-partners.tw.coupang.com
 cart-front-api.tw.coupang.com
@@ -2170,15 +2178,6 @@ premium.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
 pixiv.net
-cosmwasm.com
-docs.cosmos.network
-cosmos.network
-readme.md
-prometheus.io
-hermes.informal.systems
-crates.io
-ibc.cosmos.network
-releases.md
 sandbox.affirm.com
 *.crypto.com
 crypto.com

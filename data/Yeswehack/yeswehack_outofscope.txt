@@ -20,7 +20,6 @@ lp.alasco.com
 support.alasco.de
 support.alasco.com
 blog.bitoasis.net
-dev.blablacar.com
 coindcx.com
 info.coindcx.com
 otcdesk.coindcx.com

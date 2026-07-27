@@ -182,7 +182,6 @@
       "https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288"
     ],
     "outofscope_domains": [
-      "Please note that https://dev.blablacar.com is hosted by a third party and thus is out of scope.",
       "Any website that is not listed explicitly in the scope.",
       "However, though listed in the out-of-scope list, if you really feel that a bug will leave an impact on our platform, please come up with a convincing and working POC. If that convinces us to change our code, we will reward you with a bounty.",
       "Finally, fraud related reports are out-of-scope if they do not exploit a security vulnerability. Therefore, fraud activity enabled by bug or incomplete business rules enforcement are out-of-scope.  However, a fraud activity enabled by a CSRF exploit for example is valid."
@@ -2014,6 +2013,7 @@
     "platform": "Intigriti",
     "reward": "€2500",
     "inscope_domains": [
+      "newsos.com",
       "politico.eu",
       "adtechnology.axelspringer.com",
       "*.asadcdn.com",
@@ -2253,6 +2253,39 @@
       "com.canadapost.android"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-27"
+  },
+  {
+    "name": "Capital.com",
+    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "payment.backend-capital.com",
+      "*.backend-capital.com",
+      "capital.com/*",
+      "com.capital.trading",
+      "com.capital.trading",
+      "open-api.capital.com",
+      "*.capital.com",
+      "*.itcapital.io",
+      "aff.capital.com",
+      "go.capital.com",
+      "register.capital.com",
+      "careers.capital.com"
+    ],
+    "outofscope_domains": [
+      "*affiliates.backend-capital.com",
+      "*eduapp.backend-capital.com",
+      "*education.backend-capital.com",
+      "help.capital.com",
+      "relocate-with-us.capital.com",
+      "3cxby.itcapital.io",
+      "texis.itcapital.io"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-27"
@@ -2511,48 +2544,6 @@
       "Out of Scope"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-27"
-  },
-  {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-27"
@@ -3057,6 +3048,20 @@
     "last_updated": "2026-07-27"
   },
   {
+    "name": "Housing Application (huisvestingsapp) Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "https://www.kuleuven.be/sapredir/huisvesting"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-27"
+  },
+  {
     "name": "Humo",
     "program_url": "https://www.intigriti.com/programs/dpgm/humo/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3391,7 +3396,7 @@
     "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
-    "reward": "€5000",
+    "reward": "€2000",
     "inscope_domains": [
       "Lansweeper Discovery",
       "app.lansweeper.com",
@@ -3404,7 +3409,6 @@
       "autoupdateapi.lansweeper.com",
       "docs.lansweeper.com",
       "login.lansweeper.com",
-      "on-premises software",
       "www.lansweeper.com",
       "*.lansweeper.com"
     ],
@@ -3811,11 +3815,11 @@
       "ct.ninjakiwi.com",
       "mynk-dash.ninjakiwi.com",
       "mynk.ninjakiwi.com",
-      "*.souparea.com",
-      "rancher.ninjakiwi.com",
-      "rancher.ninjakiwi.me"
+      "*.souparea.com"
     ],
     "outofscope_domains": [
+      "rancher.ninjakiwi.com",
+      "rancher.ninjakiwi.me",
       "store.ninjakiwi.com",
       "support.ninjakiwi.com"
     ],
@@ -4623,6 +4627,66 @@
       "trouw.nl/registreren",
       "trouw.nl/service",
       "abonnement.trouw.nl"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-27"
+  },
+  {
+    "name": "TrueLayer",
+    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "api.truelayer[-sandbox].com",
+      "api.mtls.truelayer[-sandbox].com",
+      "auth.truelayer[-sandbox].com",
+      "auth.mtls.truelayer[-sandbox].com",
+      "app.truelayer[-sandbox].com",
+      "login-api.truelayer[-sandbox].com",
+      "login.truelayer[-sandbox].com",
+      "onboarding-api.truelayer.com",
+      "pay-api.truelayer[-sandbox].com",
+      "pay.truelayer[-sandbox].com",
+      "paydirect.truelayer[-sandbox].com",
+      "payment.truelayer[-sandbox].com",
+      "payments-experience-api.truelayer[-sandbox].com",
+      "user-authentication-api.truelayer[-sandbox].com",
+      "users-api.truelayer.com",
+      "C# SDK",
+      "console-backend.truelayer[-sandbox].com",
+      "console.truelayer[-sandbox].com",
+      "sftp.reports.truelayer.com",
+      "Java SDK",
+      "PHP SDK",
+      "TrueLayer for Magento (Magento plugin)",
+      "TrueLayer for WooCommerce (WordPress plugin)",
+      "shopify-admin.truelayer.com",
+      "shop-pay-app-api.truelayer.com",
+      "truelayer-signing",
+      "webhooks.truelayer[-sandbox].com",
+      "*.truelayer.cloud",
+      "*.truelayer.com",
+      "*.truelayer.io",
+      "iOS SDK",
+      "React Native SDK",
+      "Web SDK",
+      "Rust SDK"
+    ],
+    "outofscope_domains": [
+      "trust.truelayer.com",
+      "banks.truelayer.com",
+      "careers.truelayer.com",
+      "docs.truelayer.com",
+      "docs.houston.truelayer.com",
+      "https://truelayer.com/contact/",
+      "index.truelayer.com",
+      "info.truelayer.com",
+      "signin.truelayer.com",
+      "support.truelayer.com",
+      "status.truelayer.com",
+      "truelayer.zendesk.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -9689,6 +9753,7 @@
       "https://github.com/ProjectOpenSea/seaport#deployments",
       "https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719",
       "https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5",
+      "Agent SDKs",
       "Broken Link"
     ],
     "outofscope_domains": [],
@@ -12630,6 +12695,37 @@
       "████████████████████████████",
       "███████████████████████",
       "█████████████████████████████████████████"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-27"
+  },
+  {
+    "name": "Wolt",
+    "program_url": "https://hackerone.com/wolt",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "*.wolt.com",
+      "1477299281",
+      "943905271",
+      "authentication.wolt.com",
+      "com.wolt.android",
+      "com.wolt.courierapp",
+      "corporate.wolt.com",
+      "drive.wolt.com",
+      "merchant.wolt.com",
+      "ops.wolt.com",
+      "restaurant-api.wolt.com",
+      "wolt.com"
+    ],
+    "outofscope_domains": [
+      "blog.wolt.com",
+      "gettest.wolt.com",
+      "links.wolt.com",
+      "press.wolt.com",
+      "wolt.atlassian.net"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -40457,6 +40553,7 @@
       "ccmssearchspa.apps-prod-vpn.us.e06.c01.johndeerecloud.com",
       "cdp.services.wirtgen-group.com",
       "cert.harvestprofit.com",
+      "cert.myvirtualsuper.com",
       "certifiedanalytics.deere.com",
       "certifieddigital-staging.deere.com",
       "certifieddigital.deere.com",
@@ -57569,32 +57666,6 @@
     "reward": "-",
     "inscope_domains": [],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-27"
-  },
-  {
-    "name": "Cosmos",
-    "program_url": "https://hackerone.com/cosmos",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "CometBFT",
-      "CosmWasm",
-      "Cosmos SDK",
-      "Hermes Relayer",
-      "Solidity IBC Eureka",
-      "https://github.com/cosmos/gaia",
-      "https://github.com/cosmos/iavl",
-      "https://github.com/cosmos/ics23",
-      "https://github.com/cosmos/ledger-cosmos",
-      "ibc-go",
-      "www.github.com/cosmos/evm"
-    ],
-    "outofscope_domains": [
-      "Horcrux"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-27"

@@ -1,10 +1,7 @@
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
+*.wolt.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
