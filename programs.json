@@ -2549,6 +2549,48 @@
     "last_updated": "2026-07-27"
   },
   {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-27"
+  },
+  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5075,6 +5117,39 @@
     ],
     "outofscope_domains": [
       "Third-party systems or domains referencing Voi"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-27"
+  },
+  {
+    "name": "WP Engine Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "https://app.getflywheel.com",
+      "https://getflywheel.com",
+      "https://my.wpengine.com",
+      "https://payments.wpengine.com",
+      "https://wpengine.com",
+      "*. advancedcustomfields.com",
+      "*. bettersearchreplace.com",
+      "*.deliciousbrains.com",
+      "*.localwp.com",
+      "*.nitropack.io",
+      "*.studiopress.com",
+      "*.wpengine.io",
+      "*.wpesvc.net",
+      "WP Engine-developed WordPress Plugins and Themes",
+      "https://makeshift.film",
+      "https://studiopress.blog",
+      "https://torquemag.io",
+      "https://velocitize.com"
+    ],
+    "outofscope_domains": [
+      "marketing.nitropack.io"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -8935,7 +9010,7 @@
     "program_url": "https://bugcrowd.com/engagements/lululemon",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$4000",
+    "reward": "$8000",
     "inscope_domains": [
       "https://shop.lululemon.com",
       "*.lululemon.com",
