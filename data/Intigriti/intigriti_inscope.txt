@@ -707,13 +707,13 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 api.voiapp.io
-fm.voiapp.io
 mds.voiapp.io
-*.voi.com
+fm.voiapp.io
 repair.voiweb.net
-*.voiscooters.com
 report.voi.com
 voi.com
+*.voi.com
+*.voiscooters.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com

@@ -5077,15 +5077,15 @@
     "reward": "€3500",
     "inscope_domains": [
       "Voi – e-scooters & e-bikes",
-      "https://api.voiapp.io/",
       "Voi – e-scooter & e-bike hire",
-      "fm.voiapp.io",
+      "https://api.voiapp.io/",
       "mds.voiapp.io",
-      "*.voi.com",
+      "fm.voiapp.io",
       "https://repair.voiweb.net",
-      "*.voiscooters.com",
       "report.voi.com",
-      "voi.com"
+      "voi.com",
+      "*.voi.com",
+      "*.voiscooters.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
