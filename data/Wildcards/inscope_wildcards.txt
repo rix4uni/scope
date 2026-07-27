@@ -1034,9 +1034,6 @@ ic3.*.indriverapp.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.ticketing.cm.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1087,6 +1084,16 @@ ic3.*.indriverapp.com
 *.iciparisxl.be
 *.pourvous.nl
 *.latchapp.com
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be

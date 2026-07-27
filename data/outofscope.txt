@@ -573,9 +573,6 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
-*affiliates.backend-capital.com
-*eduapp.backend-capital.com
-*education.backend-capital.com
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -594,6 +591,7 @@ g.*.slackhq.com
 *.onstagingocean.app
 *.yadifa.eu
 *.swop.com
+*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -618,6 +616,7 @@ g.*.slackhq.com
 *.anchors.atlas.ripe.net
 *.probes.atlas.ripe.net
 *.ripe.net
+*ripe.net
 *.newyorkredbulls.com
 *.ccnag.com
 *.connect.coca-cola.com
@@ -3375,10 +3374,6 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
-help.capital.com
-relocate-with-us.capital.com
-3cxby.itcapital.io
-texis.itcapital.io
 digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
@@ -3445,9 +3440,20 @@ pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 login.liferay.com
 community.monzo.com
