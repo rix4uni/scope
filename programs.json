@@ -1366,6 +1366,26 @@
     "last_updated": "2026-07-27"
   },
   {
+    "name": "Superbank - Public Bug Bounty Program",
+    "program_url": "https://yeswehack.com/programs/superbank-public-bug-bounty-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$2000",
+    "inscope_domains": [
+      "https://apps.apple.com/id/app/superbank/id6444720285",
+      "https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en",
+      "api.super-id.net",
+      "ecosystem-experience.super-id.net",
+      "superbank.id"
+    ],
+    "outofscope_domains": [
+      "Applications, URLs, or data that are not listed on this page are considered out of scope."
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-27"
+  },
+  {
     "name": "Swapcard",
     "program_url": "https://yeswehack.com/programs/swapcard",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
