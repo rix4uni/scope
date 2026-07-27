@@ -2258,6 +2258,39 @@
     "last_updated": "2026-07-27"
   },
   {
+    "name": "Capital.com",
+    "program_url": "https://www.intigriti.com/programs/capitalcom/capitalcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€15000",
+    "inscope_domains": [
+      "payment.backend-capital.com",
+      "*.backend-capital.com",
+      "capital.com/*",
+      "com.capital.trading",
+      "com.capital.trading",
+      "open-api.capital.com",
+      "*.capital.com",
+      "*.itcapital.io",
+      "aff.capital.com",
+      "go.capital.com",
+      "register.capital.com",
+      "careers.capital.com"
+    ],
+    "outofscope_domains": [
+      "*affiliates.backend-capital.com",
+      "*eduapp.backend-capital.com",
+      "*education.backend-capital.com",
+      "help.capital.com",
+      "relocate-with-us.capital.com",
+      "3cxby.itcapital.io",
+      "texis.itcapital.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-27"
+  },
+  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2497,6 +2530,48 @@
       "Out of Scope"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-27"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-27"
@@ -21285,23 +21360,6 @@
       "blog.mergify.com",
       "mergify.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-27"
-  },
-  {
-    "name": "Coinhako",
-    "program_url": "https://hackerone.com/coinhako",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "com.coinhako",
-      "com.coinhako.app",
-      "help.coinhako.com",
-      "www.coinhako.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-27"
@@ -53021,6 +53079,7 @@
       "8x8 Communication APIs",
       "8x8 Partner Portal",
       "8x8-work",
+      "8x8.cloud",
       "8x8.my.site.com",
       "ASN: AS10976",
       "ASN: AS133144",
@@ -53063,6 +53122,7 @@
       "https://github.com/jitsi",
       "https://webrtc.8x8.com/",
       "https://www.npmjs.com/package/@8x8/pui-partner-comm",
+      "maestro.8x8.cloud",
       "mcp.8x8.com",
       "org.vom8x8.sipua",
       "pay.8x8.com",

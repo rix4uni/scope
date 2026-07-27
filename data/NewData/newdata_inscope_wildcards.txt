@@ -1,3 +1,4 @@
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
+*.datacamp.com
