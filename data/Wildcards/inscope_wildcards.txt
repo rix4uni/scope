@@ -1173,7 +1173,6 @@ ic3.*.indriverapp.com
 *.drogas.lt
 *.drogas.lv
 *.moneyback.com.hk
-*.wolt.com
 *.yahoo.com
 *.pwn.intigriti.rocks
 *.intigriti.me
