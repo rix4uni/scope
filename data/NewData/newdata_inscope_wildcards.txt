@@ -1,1 +1,1 @@
-*.mijnwater-link.be
+*.datacamp.com

@@ -7,3 +7,4 @@ campus.datacamp.com
 practice.datacamp.com
 projects.datacamp.com
 datacamp.com
+kuleuven.be
