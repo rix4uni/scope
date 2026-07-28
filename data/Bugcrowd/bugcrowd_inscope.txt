@@ -653,6 +653,7 @@ masterpassteststore.com
 finicity.com
 consumer.finicityreports.com
 pioneer.truata.com
+matlab.mathworks.com
 mattermost.com
 *.cloud.mattermost.com
 mgm.mo
