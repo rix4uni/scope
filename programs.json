@@ -4609,10 +4609,10 @@
     "platform": "Intigriti",
     "reward": "$20000",
     "inscope_domains": [
-      "OP-TEE",
-      "Mbed TLS & TF-PSA-Crypto",
       "TrustedFirmware-A (TF-A)",
-      "TrustedFirmware-M (TF-M)"
+      "TrustedFirmware-M (TF-M)",
+      "TF-PSA-Crypto",
+      "OP-TEE"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
