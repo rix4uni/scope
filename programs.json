@@ -983,7 +983,10 @@
     ],
     "outofscope_domains": [
       "All domains or subdomains not listed in the above list of 'Scopes'.",
-      "Smart contracts."
+      "Smart contracts.",
+      "API authentication vulnerabilities",
+      "Session-related issues on APIs",
+      "Any vulnerability type tied to the current authentication flow"
     ],
     "issues_reported": [],
     "scamhit": "",
