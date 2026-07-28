@@ -1175,8 +1175,8 @@ ic3.*.indriverapp.com
 *.studiopress.com
 *.wpengine.io
 *.wpesvc.net
-*.mijnwater-link.be
 *.water-link.be
+*.mijnwater-link.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw

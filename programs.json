@@ -5140,10 +5140,10 @@
     "platform": "Intigriti",
     "reward": "€5000",
     "inscope_domains": [
-      "*.mijnwater-link.be",
       "https://desktop.water-link.be/",
       "https://pit.water-link.be/",
       "*.water-link.be/",
+      "*.mijnwater-link.be",
       "https://www.water-link-jaarverslag.be",
       "https://www.water-link.be",
       "https://www.waterstoring.be/"

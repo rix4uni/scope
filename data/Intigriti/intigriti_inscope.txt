@@ -720,10 +720,10 @@ bettersearchreplace.com
 makeshift.film
 studiopress.blog
 torquemag.io
-*.mijnwater-link.be
 desktop.water-link.be
 pit.water-link.be
 *.water-link.be
+*.mijnwater-link.be
 water-link-jaarverslag.be
 water-link.be
 waterstoring.be
