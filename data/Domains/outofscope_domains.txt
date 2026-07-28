@@ -2809,6 +2809,7 @@ rancher.ninjakiwi.com
 rancher.ninjakiwi.me
 store.ninjakiwi.com
 support.ninjakiwi.com
+icarusadmin.ninjakiwi.com
 personio.de
 personio.slack.com
 statuspage.personio.de

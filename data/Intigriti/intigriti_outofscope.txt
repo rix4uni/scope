@@ -134,6 +134,7 @@ rancher.ninjakiwi.com
 rancher.ninjakiwi.me
 store.ninjakiwi.com
 support.ninjakiwi.com
+icarusadmin.ninjakiwi.com
 *.vectus.in
 *.pdq.com
 *.pdq.tools
