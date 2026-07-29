@@ -1563,6 +1563,10 @@ rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
+downloads.varonis.com
+licensemgmt.varonis.com
+my.varonis.com
+support.varonis.com
 portal.playground.klarna.com
 api.klarna.com
 app.klarna.com
@@ -2049,10 +2053,14 @@ myaccount-cn.payoneer.com
 myaccount.payoneer.com
 payoneer.com.cn
 api.moonpay.com
+api.moonx-dev.com
+api.paybox.sh
 app.moonpay.com
+app.paybox.sh
 auth.moonpay.com
 buy.moonpay.com
 hypermint.com
+iframe.moonx-dev.com
 moonpay.com
 sell.moonpay.com
 web3.moonpay.com

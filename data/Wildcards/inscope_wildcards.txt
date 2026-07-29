@@ -349,7 +349,6 @@ sip.*.twilio.com
 *.verilyme.com
 *.varonis.com
 *.varonis.io
-*.varonis.net
 *.uat.unico.app
 *.nflxext.com
 *.nflximg.net
