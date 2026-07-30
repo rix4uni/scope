@@ -7183,7 +7183,7 @@
     "last_updated": "2026-07-30"
   },
   {
-    "name": "Code.org",
+    "name": "CodeAI",
     "program_url": "https://bugcrowd.com/engagements/codeorg",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
@@ -40717,6 +40717,7 @@
       "apisecurity.deere.com",
       "apistaging.sentera.com",
       "apistaging2.sentera.com",
+      "app-pulse.deere.com",
       "app.agrisync.com",
       "app.expertconnect.deere.com",
       "app.smartapply.com",
@@ -41777,6 +41778,7 @@
       "sbc1-wi.wirtgen-group.com",
       "sbc1.kleemann.info",
       "sbc2.kleemann.info",
+      "scedevl.deere.com",
       "sdicert.deere.com",
       "sdo.applications.wirtgen-group.com",
       "secureaccessba01.bluerivertech.com",
