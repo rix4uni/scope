@@ -4501,8 +4501,6 @@ mediamarkt.nl
 mediamarkt.be
 mediamarkt.hu
 mediamarkt.at
-bug-bounty-dfm.mementoblockchain.com
-api.dextf.com
 monespacesante.fr
 admincms.monespacesante.fr
 adminstore.monespacesante.fr

@@ -971,28 +971,6 @@
     "last_updated": "2026-07-30"
   },
   {
-    "name": "Memento - Public Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/memento-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$4000",
-    "inscope_domains": [
-      "https://bug-bounty-dfm.mementoblockchain.com/",
-      "https://api.dextf.com/dd/",
-      "https://api.dextf.com/dcd/"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'.",
-      "Smart contracts.",
-      "API authentication vulnerabilities",
-      "Session-related issues on APIs",
-      "Any vulnerability type tied to the current authentication flow"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-07-30"
-  },
-  {
     "name": "Mon Espace Santé (MES)",
     "program_url": "https://yeswehack.com/programs/mon-espace-sante-mes",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
