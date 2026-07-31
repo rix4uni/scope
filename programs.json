@@ -9084,7 +9084,20 @@
       "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693",
       "https://api.mafshoppingmalls.com/",
       "https://partnerconnect.maf.ae/",
-      "https://ecoupon.maf.ae/"
+      "https://ecoupon.maf.ae/",
+      "https://citycentredeira.com/",
+      "https://www.mycitycentrealbarsha.com/",
+      "https://www.tilalalghaf.com/en",
+      "https://atjunction.com/",
+      "https://www.ghafwoods.com/en",
+      "https://www.majidalfuttaimproperties.com/en",
+      "https://smbu.mafcms.com/Sitefinity/adminapp/renderer/dashboard",
+      "https://apps.apple.com/us/app/belong-by-maf/id6443736108",
+      "https://play.google.com/store/apps/details?id=com.maf.communities&hl=en-US",
+      "https://maf-properties-prod.apigee.net",
+      "https://api.mafshoppingmalls.com",
+      "https://smbu-api.maf.ae/",
+      "https://www.citycentremalls.com/en"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -12734,6 +12747,21 @@
       "███████████████████████",
       "█████████████████████████████████████████"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-31"
+  },
+  {
+    "name": "Demo-EU-admin-PublicMBB-1",
+    "program_url": "https://eu.bugcrowd.net/engagements/eu-public-1",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$4500",
+    "inscope_domains": [
+      "https://tracker.eu.bugcrowd.net/",
+      "https://temp-target.ai"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-07-31"

@@ -465,6 +465,16 @@ malloftheemirates.com
 api.mafshoppingmalls.com
 partnerconnect.maf.ae
 ecoupon.maf.ae
+citycentredeira.com
+mycitycentrealbarsha.com
+tilalalghaf.com
+atjunction.com
+ghafwoods.com
+majidalfuttaimproperties.com
+smbu.mafcms.com
+maf-properties-prod.apigee.net
+smbu-api.maf.ae
+citycentremalls.com
 mastercard.us
 mastercard.ch
 mastercard.com.au
@@ -1093,6 +1103,8 @@ wyze.com
 staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
+tracker.eu.bugcrowd.net
+temp-target.ai
 wolt.com
 authentication.wolt.com
 corporate.wolt.com
