@@ -1,1 +1,1 @@
-*.datacamp.com
+*.veriff.com

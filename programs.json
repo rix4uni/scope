@@ -4941,6 +4941,34 @@
     "last_updated": "2026-07-31"
   },
   {
+    "name": "Veriff Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "1467907532",
+      "alchemy.veriff.com",
+      "api.flamingo-eu.veriff.com",
+      "api.us.veriff.me",
+      "api.veriff.me",
+      "com.veriff.demo",
+      "louvre.veriff.me",
+      "magic.veriff.me",
+      "station.veriff.com",
+      "stationapi.veriff.com",
+      "*.veriff.com",
+      "developers.veriff.me",
+      "www.veriff.com"
+    ],
+    "outofscope_domains": [
+      "https://station.veriff.com/config/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-07-31"
+  },
+  {
     "name": "Visma",
     "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
