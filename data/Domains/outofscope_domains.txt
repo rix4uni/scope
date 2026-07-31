@@ -1319,8 +1319,6 @@ static.tenable.com
 suggestions.tenable.com
 university.tenable.com
 tenable.com
-community.companyofheroes.com
-segashop.co.uk
 jobs.newegg.com
 sellingpilot.newegg.com
 community.fastly.com

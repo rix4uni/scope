@@ -801,8 +801,6 @@ static.tenable.com
 suggestions.tenable.com
 university.tenable.com
 tenable.com
-community.companyofheroes.com
-segashop.co.uk
 *.neweggbusiness.com
 jobs.newegg.com
 sellingpilot.newegg.com
