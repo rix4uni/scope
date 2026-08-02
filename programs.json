@@ -2530,48 +2530,6 @@
     "last_updated": "2026-08-02"
   },
   {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-02"
-  },
-  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3861,29 +3819,6 @@
     "last_updated": "2026-08-02"
   },
   {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-02"
-  },
-  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4941,34 +4876,6 @@
     "last_updated": "2026-08-02"
   },
   {
-    "name": "Veriff Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "1467907532",
-      "alchemy.veriff.com",
-      "api.flamingo-eu.veriff.com",
-      "api.us.veriff.me",
-      "api.veriff.me",
-      "com.veriff.demo",
-      "louvre.veriff.me",
-      "magic.veriff.me",
-      "station.veriff.com",
-      "stationapi.veriff.com",
-      "*.veriff.com",
-      "developers.veriff.me",
-      "www.veriff.com"
-    ],
-    "outofscope_domains": [
-      "https://station.veriff.com/config/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-02"
-  },
-  {
     "name": "Visma",
     "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5135,38 +5042,6 @@
     "outofscope_domains": [
       " https://getflywheel.com/schedule-a-demo/",
       "https://wpengine.com/contact/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-02"
-  },
-  {
-    "name": "Water-Link",
-    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "https://desktop.water-link.be/",
-      "https://pit.water-link.be/",
-      "*.water-link.be/",
-      "*.mijnwater-link.be",
-      "https://www.water-link-jaarverslag.be",
-      "https://www.water-link.be",
-      "https://www.waterstoring.be/"
-    ],
-    "outofscope_domains": [
-      "aquawardsspatial.water-link.be",
-      "gisacc(*).water-link.be",
-      "https://aquawardsoperate.water-link.be/",
-      "https://aquawardsoperateacc.water-link.be",
-      "https://feedback.water-link.be",
-      "https://gis.water-link.be",
-      "https://gis1.water-link.be",
-      "https://gis2.water-link.be",
-      "https://jobs.water-link.be",
-      "https://wl_acc.water-link.be/",
-      "https://wl_dev.water-link.be/"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -7140,7 +7015,7 @@
     "program_url": "https://bugcrowd.com/engagements/codeorg",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$2500",
+    "reward": "$null",
     "inscope_domains": [
       "https://adhoc-bugcrowd.cdn-code.org",
       "https://adhoc-bugcrowd-studio.cdn-code.org"
@@ -59579,24 +59454,6 @@
       "com.quora.android",
       "com.quora.app.mobile",
       "http://poe.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-02"
-  },
-  {
-    "name": "Brave Software",
-    "program_url": "https://hackerone.com/brave",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Brave Browser Desktop",
-      "Brave websites",
-      "com.brave.browser",
-      "com.brave.ios.browser",
-      "https://github.com/brave/*, https://github.com/brave-intl/*"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

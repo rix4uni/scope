@@ -1041,7 +1041,6 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1154,7 +1153,6 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.deliciousbrains.com
@@ -1163,8 +1161,6 @@ ic3.*.indriverapp.com
 *.studiopress.com
 *.wpengine.io
 *.wpesvc.net
-*.water-link.be
-*.mijnwater-link.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
