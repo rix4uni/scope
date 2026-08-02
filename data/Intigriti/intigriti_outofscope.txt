@@ -117,11 +117,6 @@ nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
 *.nexuzhealth.pro
-rancher.ninjakiwi.com
-rancher.ninjakiwi.me
-store.ninjakiwi.com
-support.ninjakiwi.com
-icarusadmin.ninjakiwi.com
 *.vectus.in
 personio.de
 personio.slack.com
