@@ -1529,8 +1529,9 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 covid19app.who.int
-freshworks.atlassian.net
+marketplace.freshworks.com
 yourdomain.myfreshworks.com
+freshworks.atlassian.net
 wchat.freshchat.com
 freshworks.com
 yourdomain.freshping.io

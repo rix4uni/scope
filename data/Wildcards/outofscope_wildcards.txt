@@ -354,6 +354,7 @@ bus.*.indrive.com
 *.fiserv.com
 *.who.int
 *.getbouncer.com
+*.freshworks.com
 *.grindrads.com
 *.intomore.com
 *.browser.cloud.com

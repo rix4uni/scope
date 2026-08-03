@@ -313,8 +313,8 @@
       "https://apps.apple.com/fr/app/decathlon-shopping/id1168607403",
       "https://play.google.com/store/apps/details?id=com.decathlon.app",
       "https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*",
-      "https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/",
-      "https://www.decathlon.(hu|pl|ro|cz|com.tr)/"
+      "https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/",
+      "https://www.decathlon.(hu|ro|com.tr)/"
     ],
     "outofscope_domains": [
       "All domains, subdomains, apps not listed in-scope"
@@ -1533,9 +1533,10 @@
     "program_url": "https://yeswehack.com/programs/tencent-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
     "platform": "YesWeHack",
-    "reward": "$6425",
+    "reward": "$5000",
     "inscope_domains": [
-      "In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)"
+      "Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)",
+      "Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)"
     ],
     "outofscope_domains": [
       "Please note that the vulnerabilities reported for the following assets will not be eligible for bounties.",
@@ -20824,7 +20825,6 @@
       "com.security.BatteryCam",
       "com.security.care",
       "eufyMake E1",
-      "eufyMake Studio software",
       "https://us.eufy.com/products/e8213181",
       "https://us.eufy.com/products/t8410121",
       "https://us.eufy.com/products/t88511d1",
@@ -43999,7 +43999,6 @@
       "Freshcaller-iOS-App",
       "Freshchat-iOS-App",
       "Freshdesk-iOS-App",
-      "Freshservice Discovery Agent and Probe",
       "Freshservice-Intune-iOS-App",
       "Freshservice-iOS-App",
       "com.freshchat.agent.android",
@@ -44016,6 +44015,7 @@
     ],
     "outofscope_domains": [
       "Freshsales-iOS-App",
+      "Marketplace Apps",
       "com.freshdesk.freshsales.mobile",
       "freshworks.atlassian.net",
       "http://yourdomain.myfreshworks.com/crm/marketer",
@@ -56189,6 +56189,20 @@
     "last_updated": "2026-08-03"
   },
   {
+    "name": "curl",
+    "program_url": "https://hackerone.com/curl",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "https://github.com/curl/curl"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-03"
+  },
+  {
     "name": "Dynatrace",
     "program_url": "https://hackerone.com/dynatrace",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -59331,9 +59345,7 @@
     "reward": "$$$",
     "inscope_domains": [
       "*.enjinusercontent.com",
-      "Enjin - Ethereum ERC-1155 Contract",
       "Enjin Blockchain",
-      "Enjin Coin - Ethereum ERC-20 Contract",
       "com.enjin.mobile.wallet",
       "com.enjin.mobile.wallet",
       "nft.io"
