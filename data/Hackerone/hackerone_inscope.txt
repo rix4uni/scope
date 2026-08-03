@@ -1582,6 +1582,7 @@ passkeys.foundation
 wallet.passkeys.foundation
 my.passkeys.network
 exodus-movement.exodus
+pay.exodus.io
 kubernetes-csi.github.io
 k8s.io
 *.k8s.io
