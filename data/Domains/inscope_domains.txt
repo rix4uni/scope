@@ -2435,7 +2435,10 @@ passkeys.foundation
 wallet.passkeys.foundation
 my.passkeys.network
 exodus-movement.exodus
+login.exodus.com
+pay-admin.exodus.io
 pay.exodus.io
+turing.exodus.io
 kubernetes-csi.github.io
 k8s.io
 storage.googleapis.com

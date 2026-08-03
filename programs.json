@@ -41793,6 +41793,7 @@
       "sa-admin.smartapply.com",
       "sa.smartapply.com",
       "safesite.bhp.myvirtualsuper.com",
+      "safetymetrics.deere.com",
       "salescenter.deere.com",
       "salestraining-wirtgen.applications.wirtgen-group.com",
       "salestraining.applications.wirtgen-group.com",
@@ -53369,7 +53370,6 @@
     ],
     "outofscope_domains": [
       "*tiktokv.us",
-      "*us.tiktok.com",
       "*us.tiktokv.com",
       "https://developers.tiktok.com/minis/",
       "p16-bg.tiktokcdn-us.com",
@@ -54924,7 +54924,10 @@
       "https://apps.apple.com/us/app/grateful-by-exodus/id6754093889",
       "https://play.google.com/store/apps/details?id=com.exodus.grateful",
       "https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN",
-      "pay.exodus.io"
+      "login.exodus.com",
+      "pay-admin.exodus.io",
+      "pay.exodus.io",
+      "turing.exodus.io"
     ],
     "outofscope_domains": [
       "*.atp-exodus.com",
