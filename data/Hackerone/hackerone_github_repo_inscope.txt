@@ -5,6 +5,8 @@ https://github.com/vercel-labs/agent-skills
 https://github.com/vercel-labs/skills
 https://github.com/vercel/ai
 https://github.com/vercel/async-sema
+https://github.com/vercel/chat
+https://github.com/vercel/eve
 https://github.com/vercel/flags
 https://github.com/vercel/ms
 https://github.com/vercel/next.js
