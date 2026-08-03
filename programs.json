@@ -603,7 +603,7 @@
     "program_url": "https://yeswehack.com/programs/gojek-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
     "platform": "YesWeHack",
-    "reward": "$5000",
+    "reward": "$3500",
     "inscope_domains": [
       "*.gojekapi.com",
       "api.gojek.co.id",
@@ -616,7 +616,11 @@
       "portal.gofoodmerchant.co.id",
       "*.gojek.com",
       "*.golabs.io",
-      "*.gofoodmerchant.co.id"
+      "*.gofoodmerchant.co.id",
+      "gocorp.gojek.com",
+      "https://play.google.com/store/apps/details?id=com.gojek.resto",
+      "https://apps.apple.com/sg/app/gojek-driver/id1573529788",
+      "https://play.google.com/store/apps/details?id=com.gojek.partner"
     ],
     "outofscope_domains": [
       "Any staging environment will be out of scope (staging domain could be indicated by words like test/integration/staging, etc)",
@@ -648,7 +652,7 @@
     "program_url": "https://yeswehack.com/programs/goto-financial-public-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
     "platform": "YesWeHack",
-    "reward": "$7000",
+    "reward": "$5000",
     "inscope_domains": [
       "https://apps.apple.com/id/app/gopay-transfer-pulsa-bills/id6446321594",
       "https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id",
@@ -660,10 +664,10 @@
       "app.midtrans.com",
       "www.midtrans.com",
       "*.gaming.gopayapi.com",
-      "*.gofin.io",
       "*.findaya.com",
       "*.findaya.co.id",
-      "*.gtflabs.io"
+      "*.gtflabs.io",
+      "*.mab.co.id"
     ],
     "outofscope_domains": [
       "- Any staging environment will be out of scope (staging domain could be indicated by words like test/integration/staging, etc)",
@@ -3820,6 +3824,29 @@
     "last_updated": "2026-08-03"
   },
   {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-03"
+  },
+  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4202,6 +4229,49 @@
       "www.transsicura.ch",
       "All other Web and mobile APPs owned by SBB ",
       "All other SBB owned IT assets"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-03"
+  },
+  {
+    "name": "Salto Vulnerability Disclosure ",
+    "program_url": "https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.baeder-suite.de",
+      "*.cognitec.com",
+      "*.cognitec-systems.de",
+      "*.danalock.com",
+      "*.danalock.dk",
+      "*.danalock.eu",
+      "*.dejoris.de",
+      "*.envisio.io",
+      "*.enviso.shop",
+      "*.gantner.be",
+      "*.gantner.com",
+      "*.gantnercloud.com",
+      "*.gantnerindia.com",
+      "*.guidemylock.dk",
+      "*.my-clay.com",
+      "*.mylock.dk",
+      "*.mysmartlock.com",
+      "*poly-control.com",
+      "*.polycontrol.dk",
+      "*.poly-control.dk",
+      "*.poly-lock.dk",
+      "*.recreatex.be",
+      "*.saltoapis.com",
+      "*.saltoks.com",
+      "*.salto-orion.app",
+      "*.saltosystems.com",
+      "*.saltowecosystem.com",
+      "*.vintia.cloud",
+      "*.vintia.com",
+      "*.wecosystem.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -8984,9 +9054,9 @@
     "reward": "$2500",
     "inscope_domains": [
       "https://www.malloftheemirates.com",
-      "https://play.google.com/store/apps/details?id=com.belongi.moe",
-      "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693",
       "https://api.mafshoppingmalls.com/",
+      "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693",
+      "https://play.google.com/store/apps/details?id=com.belongi.moe",
       "https://partnerconnect.maf.ae/",
       "https://ecoupon.maf.ae/",
       "https://citycentredeira.com/",
@@ -9001,7 +9071,13 @@
       "https://maf-properties-prod.apigee.net",
       "https://api.mafshoppingmalls.com",
       "https://smbu-api.maf.ae/",
-      "https://www.citycentremalls.com/en"
+      "https://www.citycentremalls.com/en",
+      "https://play.google.com/store/search?q=mall+of+emirates&c=apps&hl=en_IN",
+      "https://apps.apple.com/in/app/mall-of-the-emirates-moe/id1449578693",
+      "https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105",
+      "https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105",
+      "https://apps.apple.com/in/app/city-centres/id1448471823",
+      "https://play.google.com/store/apps/details?id=com.belongi.citycenter&hl=en_IN"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
