@@ -1,6 +1,5 @@
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
-gocorp.gojek.com
+desktop.water-link.be
+pit.water-link.be
+water-link-jaarverslag.be
+water-link.be
+waterstoring.be

@@ -4667,6 +4667,24 @@
     "last_updated": "2026-08-03"
   },
   {
+    "name": "TrueLayer VDP",
+    "program_url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.staging.zimpler.net",
+      "*.sandbox.zimpler.net",
+      "*.zimpler.net",
+      "*.truelayer-sandbox.com",
+      "*.truelayer.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-03"
+  },
+  {
     "name": "Trusted Firmware",
     "program_url": "https://www.intigriti.com/programs/arm/trustedfirmware/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5113,6 +5131,38 @@
     "outofscope_domains": [
       " https://getflywheel.com/schedule-a-demo/",
       "https://wpengine.com/contact/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-03"
+  },
+  {
+    "name": "Water-Link",
+    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "https://desktop.water-link.be/",
+      "https://pit.water-link.be/",
+      "*.water-link.be/",
+      "*.mijnwater-link.be",
+      "https://www.water-link-jaarverslag.be",
+      "https://www.water-link.be",
+      "https://www.waterstoring.be/"
+    ],
+    "outofscope_domains": [
+      "aquawardsspatial.water-link.be",
+      "gisacc(*).water-link.be",
+      "https://aquawardsoperate.water-link.be/",
+      "https://aquawardsoperateacc.water-link.be",
+      "https://feedback.water-link.be",
+      "https://gis.water-link.be",
+      "https://gis1.water-link.be",
+      "https://gis2.water-link.be",
+      "https://jobs.water-link.be",
+      "https://wl_acc.water-link.be/",
+      "https://wl_dev.water-link.be/"
     ],
     "issues_reported": [],
     "scamhit": "",

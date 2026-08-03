@@ -1173,6 +1173,11 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.staging.zimpler.net
+*.sandbox.zimpler.net
+*.zimpler.net
+*.truelayer-sandbox.com
+*.truelayer.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
@@ -1191,6 +1196,8 @@ ic3.*.indriverapp.com
 *.studiopress.com
 *.wpengine.io
 *.wpesvc.net
+*.water-link.be
+*.mijnwater-link.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
@@ -5551,6 +5558,11 @@ bettersearchreplace.com
 makeshift.film
 studiopress.blog
 torquemag.io
+desktop.water-link.be
+pit.water-link.be
+water-link-jaarverslag.be
+water-link.be
+waterstoring.be
 watsons.com.hk
 0.watsons.com.hk
 api.watsons.com.hk
