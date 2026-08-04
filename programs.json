@@ -43977,6 +43977,7 @@
       "com.hypr.one"
     ],
     "outofscope_domains": [
+      "demo.hypr.com",
       "help.hypr.com",
       "partners.hypr.com",
       "support.hypr.com"

@@ -1021,6 +1021,7 @@ onward.on.com
 partners.on-running.com
 partners.on.com
 shz64n.on.com
+demo.hypr.com
 help.hypr.com
 partners.hypr.com
 support.hypr.com
