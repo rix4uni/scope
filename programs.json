@@ -3020,20 +3020,6 @@
     "last_updated": "2026-08-04"
   },
   {
-    "name": "Housing Application (huisvestingsapp) Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "https://www.kuleuven.be/sapredir/huisvesting"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-04"
-  },
-  {
     "name": "Humo",
     "program_url": "https://www.intigriti.com/programs/dpgm/humo/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4310,7 +4296,7 @@
       "*.danalock.dk",
       "*.danalock.eu",
       "*.dejoris.de",
-      "*.envisio.io",
+      "*.enviso.io",
       "*.enviso.shop",
       "*.gantner.be",
       "*.gantner.com",

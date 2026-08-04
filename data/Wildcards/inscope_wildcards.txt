@@ -1139,7 +1139,7 @@ ic3.*.indriverapp.com
 *.danalock.dk
 *.danalock.eu
 *.dejoris.de
-*.envisio.io
+*.enviso.io
 *.enviso.shop
 *.gantner.be
 *.gantner.com
