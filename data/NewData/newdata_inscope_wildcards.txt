@@ -1,1 +1,4 @@
-*.enviso.io
+*.danalockapps.com
+*.danalockservices.com
+*.poly-control.com
+*.saltohomesolution.com
