@@ -1,4 +1,1 @@
-*.danalockapps.com
-*.danalockservices.com
-*.poly-control.com
-*.saltohomesolution.com
+*.datacamp.com
