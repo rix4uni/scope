@@ -302,6 +302,7 @@ coalition.nba.com
 dev.stats.2kleague.nba.com
 events.bal.nba.com
 evergent.com
+jr.nba.com
 leaguepass.wnba.com
 mediacentral.nba.com
 mindhealth.nba.com
