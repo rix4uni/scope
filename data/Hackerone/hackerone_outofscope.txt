@@ -303,6 +303,7 @@ dev.stats.2kleague.nba.com
 events.bal.nba.com
 evergent.com
 leaguepass.wnba.com
+mediacentral.nba.com
 mindhealth.nba.com
 nbafoundation-dev.nba.com
 nbafoundation-qa.nba.com
