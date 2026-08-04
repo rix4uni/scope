@@ -2277,20 +2277,6 @@
     "last_updated": "2026-08-04"
   },
   {
-    "name": "Challenge 0726",
-    "program_url": "https://www.intigriti.com/programs/intigriti/challenge0726/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "https://challenge-0726.intigriti.io"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-04"
-  },
-  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -21029,6 +21015,7 @@
       "com.security.BatteryCam",
       "com.security.care",
       "eufyMake E1",
+      "eufyMake Studio(2D UV)",
       "https://us.eufy.com/products/e8213181",
       "https://us.eufy.com/products/t8410121",
       "https://us.eufy.com/products/t88511d1",

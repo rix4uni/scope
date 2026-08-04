@@ -898,6 +898,7 @@ web3.sdx.com
 sdx.com
 bolsasymercados.es
 six-group.com
+eufymake.com
 us.eufy.com
 *.e2ro.com
 *.eero.com
