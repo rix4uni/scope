@@ -1,1 +1,2 @@
-*.datacamp.com
+*.kwsdose.be
+*.playuzleuven.be
