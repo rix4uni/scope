@@ -13647,13 +13647,12 @@
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
-    "inscope_domains": [
+    "inscope_domains": [],
+    "outofscope_domains": [
       "1040.com",
       "drakesoftware.com",
       "securefilepro.com",
-      "taxact.com"
-    ],
-    "outofscope_domains": [
+      "taxact.com",
       "taxactonline.com",
       "taxwell.com",
       "taxwell.org"
