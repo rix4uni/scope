@@ -5726,7 +5726,8 @@
       "https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/3780102417/sprintpoker-free-planning-poker-async-estimation?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/3684126567/laya-workflowos-ai-automation-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/4076194710/laya-export-studio-for-jira-and-confluence?hosting=cloud&tab=overview"
+      "https://marketplace.atlassian.com/apps/4076194710/laya-export-studio-for-jira-and-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/3402280988/laya-board?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -55012,6 +55013,8 @@
       "*.exodus.io",
       "Exodus Desktop Wallet",
       "Passkey Wallet",
+      "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd",
+      "Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
       "api-p.xoswap.com",
       "api.passkeys.network",
       "api.xoswap.com",
