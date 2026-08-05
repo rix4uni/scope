@@ -61630,6 +61630,7 @@
       "events.www.cloudflare.com",
       "examples.realtime.cloudflare.com",
       "files.plugins.realtime.cloudflare.com",
+      "https://github.com/cloudflare/computer",
       "https://github.com/cloudflare/moq-rs",
       "https://github.com/cloudflare/privacy-gateway-server-go",
       "https://github.com/cloudflare/realtimekit-web-examples ",
