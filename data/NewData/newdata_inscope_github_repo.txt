@@ -1,2 +1,3 @@
-https://github.com/vercel/chat
-https://github.com/vercel/eve
+https://github.com/ExodusOSS/bytes
+https://github.com/ExodusOSS/crypto
+https://github.com/ExodusOSS/hydra

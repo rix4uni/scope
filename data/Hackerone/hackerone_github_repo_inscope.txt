@@ -60,6 +60,9 @@ https://github.com/moonpay
 https://github.com/stripe/munkisrv
 https://github.com/stripe/smokescreen
 https://github.com/DopplerHQ/cli
+https://github.com/ExodusOSS/bytes
+https://github.com/ExodusOSS/crypto
+https://github.com/ExodusOSS/hydra
 https://github.com/kubernetes-client
 https://github.com/kubernetes-security
 https://github.com/kubernetes/api
