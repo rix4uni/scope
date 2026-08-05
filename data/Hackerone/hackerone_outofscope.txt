@@ -1214,6 +1214,8 @@ safeguard.a.exodus.io
 slack-invite.exodus.com
 support-helpers.a.exodus.io
 support.exodus.com
+xoswap-graphql-p.a.exodus.io
+xoswap-graphql.a.exodus.io
 gmelius.com
 api.outpost.co
 app.outpost.co

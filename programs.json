@@ -55041,9 +55041,7 @@
       "pay.exodus.io",
       "relay.passkeys.foundation",
       "turing.exodus.io",
-      "wallet.passkeys.foundation",
-      "xoswap-graphql-p.a.exodus.io",
-      "xoswap-graphql.a.exodus.io"
+      "wallet.passkeys.foundation"
     ],
     "outofscope_domains": [
       "*.atp-exodus.com",
@@ -55066,7 +55064,9 @@
       "slack-invite.exodus.com",
       "support-helpers.a.exodus.io",
       "support.exodus.com",
-      "www.exodus.com/job-application/*"
+      "www.exodus.com/job-application/*",
+      "xoswap-graphql-p.a.exodus.io",
+      "xoswap-graphql.a.exodus.io"
     ],
     "issues_reported": [],
     "scamhit": "",

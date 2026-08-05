@@ -2459,8 +2459,6 @@ pay-admin.exodus.io
 pay.exodus.io
 relay.passkeys.foundation
 turing.exodus.io
-xoswap-graphql-p.a.exodus.io
-xoswap-graphql.a.exodus.io
 kubernetes-csi.github.io
 k8s.io
 storage.googleapis.com
