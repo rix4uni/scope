@@ -1842,6 +1842,23 @@
     "last_updated": "2026-08-06"
   },
   {
+    "name": "toom Baumarkt GmbH - Webshop",
+    "program_url": "https://yeswehack.com/programs/toom-baumarkt-gmbh-bug-bounty-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$3000",
+    "inscope_domains": [
+      "https://toom.de",
+      "https://api.toom.de"
+    ],
+    "outofscope_domains": [
+      "All domains or subdomains not listed in the above list of 'Scopes'."
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-06"
+  },
+  {
     "name": "vidaXL Services - Open Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/vidaxl-services-open-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -3477,22 +3494,6 @@
     "last_updated": "2026-08-06"
   },
   {
-    "name": "Liferay DXP",
-    "program_url": "https://www.intigriti.com/programs/liferay/liferaydxp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$2000",
-    "inscope_domains": [
-      "Liferay DXP 2026.Q1",
-      "Liferay DXP 2025.Q1",
-      "Liferay DXP 2024.Q1"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-06"
-  },
-  {
     "name": "Liferay VDP",
     "program_url": "https://www.intigriti.com/programs/liferay/liferay-vdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5082,27 +5083,6 @@
       "shop.vtm.be",
       "customerservice.vtm.be"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-06"
-  },
-  {
-    "name": "Venly",
-    "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "api-wallet.venly.io",
-      "api.arkane.network",
-      "connect.arkane.network ",
-      "connect.venly.io",
-      "login.arkane.network",
-      "login.venly.io",
-      "wallet.venly.io",
-      "api-wallet-sandbox.venly.io"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-08-06"
