@@ -2546,6 +2546,7 @@ attpurchasing.com
 attsuppliers.com
 authkeysmx01.att.com.mx
 c2m-projectone.att.com
+dna-uat.az.cloud.att.com
 clec.att.com
 plasma-coreapi.att.com
 plasma.att.com
