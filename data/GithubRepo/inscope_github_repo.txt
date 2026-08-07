@@ -185,6 +185,8 @@ https://github.com/cdnjs/cdnjs
 https://github.com/cloudflare
 https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
+https://github.com/base
+https://github.com/coinbase
 https://github.com/coinbase/cb-mpc
 https://github.com/slackhq/nebula
 https://github.com/grafana/grafana

@@ -996,6 +996,7 @@ ic3.*.indriverapp.com
 *.teams.cloudflare.com
 *.srvcs.tumblr.com
 *.tumblr.com
+*.base.app
 *.base.org
 *.cbhq.net
 *.coinbase-corp.com

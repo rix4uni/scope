@@ -555,7 +555,7 @@ online.*.skybingo.com
 *.learnboost.com
 *.polishmywriting.com
 *.scrollkit.com
-*.blockspring.com
+status.*.coinbase.com
 *.concrete5.org
 *.concretecms.com
 *.concretecms.org

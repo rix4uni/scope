@@ -1,3 +1,2 @@
-https://github.com/ExodusOSS/bytes
-https://github.com/ExodusOSS/crypto
-https://github.com/ExodusOSS/hydra
+https://github.com/base
+https://github.com/coinbase

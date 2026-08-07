@@ -2704,14 +2704,7 @@ scrollkit.com
 try.pressable.com
 my.pressable.com
 pressable.com
-blog.coinbase.com
-developers.coinbase.com
-engineering.coinbase.com
-paradex.io
 status.coinbase.com
-support.coinbase.com
-support.pro.coinbase.com
-tagomi.com
 concrete5.org
 concretecms.com
 concretecms.org
