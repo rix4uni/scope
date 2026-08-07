@@ -593,7 +593,6 @@ g.*.slackhq.com
 *.onstagingocean.app
 *.yadifa.eu
 *.swop.com
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -1656,7 +1655,6 @@ newsletters.audible.com
 omtrdc.net
 audiblecareers.com
 partners.vectra.ai
-support.lighstpark.com
 staging.travix.com
 stg.travix.com
 dev.travix.com
@@ -3451,15 +3449,6 @@ pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
 trismegistos.org
-dev.kinepolis.com
-helpdesk.landmarkcinemas.com
-jobs.kinepolis.com
-l.kinepolis.com
-openx.kinepolis.com
-shop.kinepolis.be
-shop.kinepolis.es
-shop.kinepolis.fr
-shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
@@ -3472,6 +3461,7 @@ login.internal.monzo.com
 monzo.me
 docs.moralis.io
 status.moralis.io
+static.nexuzhealth.com
 pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be

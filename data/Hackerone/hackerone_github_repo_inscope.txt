@@ -41,10 +41,6 @@ https://github.com/Chia-Network/chia_rs
 https://github.com/Chia-Network/chiapos
 https://github.com/Chia-Network/chiavdf
 https://github.com/Chia-Network/clvm_rs
-https://github.com/buildonspark/spark
-https://github.com/lightsparkdev/go-sdk
-https://github.com/lightsparkdev/lightspark-rs
-https://github.com/lightsparkdev/python-sdk
 https://github.com/worldcoin
 https://github.com/worldcoin/orb-core
 https://github.com/worldcoin/orb-firmware

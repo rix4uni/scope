@@ -680,10 +680,6 @@ tax.audible.com
 ads.temu.com
 seller.temu.com
 temu.com
-app.uma.money
-api.lightspark.com
-app.lightspark.com
-link.uma.me
 *.bybit.com
 *.bybit.eu
 *.bybit.tr
