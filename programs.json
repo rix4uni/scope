@@ -1730,33 +1730,6 @@
     "last_updated": "2026-08-08"
   },
   {
-    "name": "Withings",
-    "program_url": "https://yeswehack.com/programs/withings-public-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$3000",
-    "inscope_domains": [
-      "https://wbsapi.withings.net",
-      "https://healthmate.withings.com",
-      "https://account.withings.com",
-      "https://app.withings.com",
-      "https://developer.withings.com/dashboard/",
-      "https://scalews.withings.com",
-      "Body Scan scale",
-      "Body Comp scale",
-      "Scanwatch Light",
-      "Scanwatch 2",
-      "Scanwatch Nova",
-      "Scanwatch"
-    ],
-    "outofscope_domains": [
-      "All domains, devices and mobile Apps not listed In-Scope."
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-08"
-  },
-  {
     "name": "Xelians - Blackbox program",
     "program_url": "https://yeswehack.com/programs/xelians-blackbox-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
