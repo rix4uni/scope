@@ -1,7 +1,2 @@
-login.cm.com
-api.cm.com
-api.cmtelecom.com
-cm.com
-appmiral.com
-building-blocks.com
-cmcom.atlassian.net
+app.spacelift.dev
+spacelift.dev

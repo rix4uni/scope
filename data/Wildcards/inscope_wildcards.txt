@@ -1153,6 +1153,7 @@ ic3.*.indriverapp.com
 *.vintia.cloud
 *.vintia.com
 *.wecosystem.com
+*.app.spacelift.dev
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com

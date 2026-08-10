@@ -4405,6 +4405,22 @@
     "last_updated": "2026-08-10"
   },
   {
+    "name": "Spacelift VDP",
+    "program_url": "https://www.intigriti.com/programs/spacelift/spaceliftvdp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$0",
+    "inscope_domains": [
+      "*.app.spacelift.dev",
+      "app.spacelift.dev",
+      "spacelift.dev"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-10"
+  },
+  {
     "name": "Speakap Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
