@@ -1198,6 +1198,7 @@ lemcal.com
 lemlist.com
 *.atp-exodus.com
 atp-exodus.com
+*.grateful.me
 api-p.xoswap.com
 api.passkeys.network
 api.xoswap.com

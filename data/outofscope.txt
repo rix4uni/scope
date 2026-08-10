@@ -387,6 +387,7 @@ bus.*.indrive.com
 *.currenthealth.com
 *.snap40.com
 *.atp-exodus.com
+*.grateful.me
 *.mtnfootball.com
 *.gocardless-staging.io
 *.acordocerto.com.br
