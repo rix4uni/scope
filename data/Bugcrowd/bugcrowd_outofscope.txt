@@ -525,6 +525,7 @@ auth.api.originenergy.com.au
 origin-energy.formstack.com
 ssu.myconnect.com.au
 reneweclipse.originenergy.com.au
+api.rx.originenergy.com.au
 compareandconnect.com.au
 agent.compareandconnect.com.au
 fastconnect.co.nz
