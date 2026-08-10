@@ -2437,12 +2437,7 @@ upload.box.com
 bitcoin-s.a.exodus.io
 exodus.io
 exodus.com
-passkeys.foundation
-wallet.passkeys.foundation
-my.passkeys.network
-api.passkeys.network
 ctr.a.exodus.io
-embedded.passkeys.foundation
 exodus-movement.exodus
 fiat-p.a.exodus.io
 fiat-prod-fallback.a.exodus.io
@@ -2453,7 +2448,6 @@ nexotrack-p.exodus.io
 nexotrack.exodus.io
 pay-admin.exodus.io
 pay.exodus.io
-relay.passkeys.foundation
 turing.exodus.io
 kubernetes-csi.github.io
 k8s.io
@@ -4098,6 +4092,13 @@ app.nl.socialdeal
 socialdeal.nl
 whynot.com
 solarwinds.com
+soundtrack.io
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
 superdrug.com
 api.superdrug.com
 media.superdrug.com
@@ -4208,6 +4209,10 @@ myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
+ai-testing.maventa.com
+ax-stage.maventa.com
+autointerface.stag.visma.net
+testing.maventa.com
 api.voiapp.io
 mds.voiapp.io
 fm.voiapp.io

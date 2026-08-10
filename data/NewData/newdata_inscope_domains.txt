@@ -1,2 +1,11 @@
-toom.de
-api.toom.de
+soundtrack.io
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+ai-testing.maventa.com
+ax-stage.maventa.com
+autointerface.stag.visma.net
+testing.maventa.com

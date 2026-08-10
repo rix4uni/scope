@@ -2326,9 +2326,11 @@ lemcal.com
 lemlist.com
 atp-exodus.com
 api-p.xoswap.com
+api.passkeys.network
 api.xoswap.com
 dashboard-p.xoswap.com
 dashboard.xoswap.com
+embedded.passkeys.foundation
 exchange-p.exodus.io
 exchange-server-p.exodus.io
 exchange-server.exodus.io
@@ -2336,10 +2338,14 @@ exodus.atlassian.net
 exodusstore.blob.core.windows.net
 get.exodus
 exodus.com
+my.passkeys.network
+passkeys.foundation
+relay.passkeys.foundation
 safeguard.a.exodus.io
 slack-invite.exodus.com
 support-helpers.a.exodus.io
 support.exodus.com
+wallet.passkeys.foundation
 xoswap-graphql-p.a.exodus.io
 xoswap-graphql.a.exodus.io
 gmelius.com
@@ -3476,6 +3482,7 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
+developer.posti.com
 posti.fi
 pen-app.entrili.com
 exams.ripe.net

@@ -1584,12 +1584,7 @@ bitcoin-s.a.exodus.io
 *.exodus.io
 exodus.io
 exodus.com
-passkeys.foundation
-wallet.passkeys.foundation
-my.passkeys.network
-api.passkeys.network
 ctr.a.exodus.io
-embedded.passkeys.foundation
 exodus-movement.exodus
 fiat-p.a.exodus.io
 fiat-prod-fallback.a.exodus.io
@@ -1600,7 +1595,6 @@ nexotrack-p.exodus.io
 nexotrack.exodus.io
 pay-admin.exodus.io
 pay.exodus.io
-relay.passkeys.foundation
 turing.exodus.io
 kubernetes-csi.github.io
 k8s.io

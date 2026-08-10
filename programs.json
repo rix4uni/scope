@@ -4003,6 +4003,7 @@
       "yhteystietoni.posti.fi"
     ],
     "outofscope_domains": [
+      "https://developer.posti.com/support-request",
       "www.posti.fi/henkiloasiakkaat/lomakkeet/tuotantohairiot.html"
     ],
     "issues_reported": [],
@@ -4339,6 +4340,31 @@
     "reward": "$0",
     "inscope_domains": [
       "Any product available on https://www.solarwinds.com/products"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-10"
+  },
+  {
+    "name": "Soundtrack Technologies",
+    "program_url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://soundtrack.io",
+      "1114799709",
+      "1114800186",
+      "api.soundtrackyourbrand.com",
+      "billing.api.soundtrackyourbrand.com",
+      "builds.soundtrackyourbrand.com",
+      "business.soundtrackyourbrand.com",
+      "com.soundtrackyourbrand.soundtrack.player",
+      "https://auth.api.soundtrackyourbrand.com/",
+      "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest",
+      "https://radio.api.soundtrackyourbrand.com/",
+      "macOS app"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -4949,7 +4975,11 @@
       "myservices-api.stage.vismaonline.com",
       "myservices.stage.vismaonline.com",
       "oauth.developers.stagaws.visma.com",
-      "photoservice.stage.vismaonline.com"
+      "photoservice.stage.vismaonline.com",
+      "ai-testing.maventa.com",
+      "ax-stage.maventa.com",
+      "autointerface.stag.visma.net",
+      "testing.maventa.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -54820,12 +54850,9 @@
       "*.exodus.com",
       "*.exodus.io",
       "Exodus Desktop Wallet",
-      "Passkey Wallet",
       "Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd",
       "Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y",
-      "api.passkeys.network",
       "ctr.a.exodus.io",
-      "embedded.passkeys.foundation",
       "exodus-movement.exodus",
       "fiat-p.a.exodus.io",
       "fiat-prod-fallback.a.exodus.io",
@@ -54843,23 +54870,22 @@
       "https://www.npmjs.com/package/@exodus/sentry-client",
       "kyc.a.exodus.io",
       "login.exodus.com",
-      "my.passkeys.network",
       "nexotrack-p.exodus.io",
       "nexotrack.exodus.io",
-      "passkeys.foundation",
       "pay-admin.exodus.io",
       "pay.exodus.io",
-      "relay.passkeys.foundation",
-      "turing.exodus.io",
-      "wallet.passkeys.foundation"
+      "turing.exodus.io"
     ],
     "outofscope_domains": [
       "*.atp-exodus.com",
       "Exodus Browser Extension",
+      "Passkey Wallet",
       "api-p.xoswap.com",
+      "api.passkeys.network",
       "api.xoswap.com",
       "dashboard-p.xoswap.com",
       "dashboard.xoswap.com",
+      "embedded.passkeys.foundation",
       "exchange-p.exodus.io",
       "exchange-server-p.exodus.io",
       "exchange-server.exodus.io",
@@ -54870,10 +54896,14 @@
       "http://exodus.com/keybase.txt",
       "http://www.exodus.com/contact-support",
       "https://exodus.atlassian.net",
+      "my.passkeys.network",
+      "passkeys.foundation",
+      "relay.passkeys.foundation",
       "safeguard.a.exodus.io",
       "slack-invite.exodus.com",
       "support-helpers.a.exodus.io",
       "support.exodus.com",
+      "wallet.passkeys.foundation",
       "www.exodus.com/job-application/*",
       "xoswap-graphql-p.a.exodus.io",
       "xoswap-graphql.a.exodus.io"
