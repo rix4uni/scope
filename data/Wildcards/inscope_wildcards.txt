@@ -1109,6 +1109,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.app.personio-dev.com
@@ -1154,6 +1156,8 @@ ic3.*.indriverapp.com
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com

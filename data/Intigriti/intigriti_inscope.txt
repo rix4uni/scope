@@ -359,6 +359,10 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+*.monzo.com
+*.prod-ffs.io
+co.uk.getmondo
+monzo.com
 nvidia.com
 platform.nexo.com
 nexo.com
@@ -553,6 +557,8 @@ radio.api.soundtrackyourbrand.com
 *.app.spacelift.dev
 app.spacelift.dev
 spacelift.dev
+*.sqills.com
+*.sqills.team
 superdrug.com
 api.superdrug.com
 media.superdrug.com

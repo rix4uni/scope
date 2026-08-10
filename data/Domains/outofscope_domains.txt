@@ -2799,6 +2799,9 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 static.nexuzhealth.com
@@ -2840,6 +2843,8 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
+careers.sqills.com
+welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl
