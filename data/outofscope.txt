@@ -500,7 +500,6 @@ online.*.skybingo.com
 *.web-security-academy.net
 *.wordpress.com
 *wordpress.com
-*.gocd.org
 *.ruby-lang.org
 *.github.io
 *.home.bargains
@@ -3075,8 +3074,6 @@ wordpress.com
 status.wordpress.org
 glotpress.blog
 wordpress.tv
-docs.gocd.org
-gocd.org
 cloud.nextcloud.com
 conf.nextcloud.com
 eventyay.com

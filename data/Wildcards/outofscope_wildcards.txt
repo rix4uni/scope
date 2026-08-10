@@ -500,7 +500,6 @@ online.*.skybingo.com
 *.web-security-academy.net
 *.wordpress.com
 *wordpress.com
-*.gocd.org
 *.ruby-lang.org
 *.github.io
 *.home.bargains

@@ -62,6 +62,7 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+github.com
 payment.backend-capital.com
 *.backend-capital.com
 capital.com
@@ -169,7 +170,6 @@ exoscale.com
 community.exoscale.com
 service.fing.com
 app.fing.com
-github.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com

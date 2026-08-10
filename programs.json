@@ -2247,7 +2247,7 @@
     "program_url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
-    "reward": "€3500",
+    "reward": "€2625",
     "inscope_domains": [
       "login.cm.com",
       "*.ticketing.cm.com",
@@ -2259,6 +2259,7 @@
       "building-blocks.com",
       "cm.com/app/messagingtrial/",
       "cmcom.atlassian.net",
+      "https://github.com/cmdotcom",
       "www.cm.com",
       "*.appmiral.com",
       "*.cm.com",
@@ -2267,8 +2268,7 @@
       "1579530451",
       "com.cm.cashregister",
       "com.ticketflow.ticketscanner",
-      "demo.globalticket.com/*",
-      "https://github.com/cmdotcom"
+      "demo.globalticket.com/*"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -29817,6 +29817,7 @@
     "reward": "-",
     "inscope_domains": [
       "*.kasten.io",
+      "*.securiti.ai",
       "*.veeam.com",
       "*.veeamgov.com",
       "Corporate Infrastructure",
@@ -59911,22 +59912,6 @@
       "https://github.com/wordpress-mobile/",
       "org.wordpress.android",
       "status.wordpress.org,glotpress.blog,wordpress.tv"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-10"
-  },
-  {
-    "name": "GoCD",
-    "program_url": "https://hackerone.com/gocd",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "GoCD (https://www.gocd.org/download)"
-    ],
-    "outofscope_domains": [
-      "*.gocd.org"
     ],
     "issues_reported": [],
     "scamhit": "",

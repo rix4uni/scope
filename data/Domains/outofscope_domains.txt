@@ -2414,8 +2414,6 @@ wordpress.com
 status.wordpress.org
 glotpress.blog
 wordpress.tv
-docs.gocd.org
-gocd.org
 cloud.nextcloud.com
 conf.nextcloud.com
 eventyay.com
