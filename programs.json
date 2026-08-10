@@ -12957,8 +12957,13 @@
       "wolt.com"
     ],
     "outofscope_domains": [
+      "*.pipedrive.com",
       "blog.wolt.com",
       "gettest.wolt.com",
+      "https://merchant-onboarding-service.wolt.com/merchant-admin/inbound-merchant",
+      "https://merchant.wolt.com/api/merchant-onboarding/merchant-admin/inbound-merchant",
+      "https://restaurant-api.wolt.com/v1/waw-api/corporate-leads",
+      "https://wolt.com/en/wolt-for-work-contact-request",
       "links.wolt.com",
       "press.wolt.com",
       "wolt.atlassian.net"
@@ -19747,6 +19752,7 @@
       "fraudarmorservice.com",
       "fraudforce.iovation.com",
       "fraudscout.com",
+      "ftp.reallybigbank.com",
       "goezshield.com",
       "grangeidentitytheft.com",
       "guac-1.aws3.ezshield.ws",

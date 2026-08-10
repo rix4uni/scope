@@ -180,6 +180,8 @@ argocd.*.uidapi.com
 *.tw.com
 *.tw.ee
 *.transferwise.tech
+*.pipedrive.com
+*.wolt.com
 *.bandcamp.com
 *.corp.bandcamp.com
 *.popjam.com

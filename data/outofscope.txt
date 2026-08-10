@@ -180,6 +180,8 @@ argocd.*.uidapi.com
 *.tw.com
 *.tw.ee
 *.transferwise.tech
+*.pipedrive.com
+*.wolt.com
 *.bandcamp.com
 *.corp.bandcamp.com
 *.popjam.com
@@ -1342,6 +1344,10 @@ learn.ynab.com
 blog.wolt.com
 wpengine.com
 gettest.wolt.com
+merchant-onboarding-service.wolt.com
+merchant.wolt.com
+restaurant-api.wolt.com
+wolt.com
 links.wolt.com
 press.wolt.com
 wolt.atlassian.net
