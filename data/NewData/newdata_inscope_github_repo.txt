@@ -1,1 +1,1 @@
-https://github.com/cmdotcom
+https://github.com/brave/*,
