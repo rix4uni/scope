@@ -8718,33 +8718,6 @@
     "last_updated": "2026-08-11"
   },
   {
-    "name": "TheFork - B2B - TFM3",
-    "program_url": "https://bugcrowd.com/engagements/lafourchette",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$3500",
-    "inscope_domains": [
-      "████████████████████",
-      "██████████████████",
-      "████████████████████████",
-      "██████████████",
-      "███████████████████████",
-      "███████████████████████████",
-      "████████████████████"
-    ],
-    "outofscope_domains": [
-      "██████████████████",
-      "████████████████████",
-      "██████████████████████████",
-      "████████████████████",
-      "████████████████████████",
-      "█████████████████████████████"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-11"
-  },
-  {
     "name": "LastPass",
     "program_url": "https://bugcrowd.com/engagements/lastpass",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -11818,38 +11791,6 @@
       "service.tesla.cn/docs/*",
       "Any domains from acquisitions, such as maxwell.com",
       "Any other third-party websites hosted by non-Tesla entities"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-11"
-  },
-  {
-    "name": "TheFork - B2C - WNG",
-    "program_url": "https://bugcrowd.com/engagements/thefork-b2c-wng",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$3500",
-    "inscope_domains": [
-      "████████████████████████",
-      "█████████████████████",
-      "█████████████████████████",
-      "███████████████████████",
-      "████████████████████████████",
-      "███████████████████████████████████",
-      "██████████████████████████████████████",
-      "██████████████████████████████",
-      "███████████████",
-      "███████████████████",
-      "████████████████████",
-      "██████████████████████████████",
-      "██████████████████"
-    ],
-    "outofscope_domains": [
-      "█████████████████████",
-      "█████████████████████",
-      "██████████████████████████████████████████",
-      "██████████████████",
-      "████████████████████████████"
     ],
     "issues_reported": [],
     "scamhit": "",
