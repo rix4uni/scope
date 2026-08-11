@@ -12106,11 +12106,10 @@
     "program_url": "https://bugcrowd.com/engagements/tyler-tech-data-insights",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$3500",
+    "reward": "$2500",
     "inscope_domains": [
       "https://opendata-demo.test-socrata.com",
-      "https://opendata.test-socrata.com",
-      "https://opendata.test-socrata.com/admin/gateway"
+      "https://opendata.test-socrata.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
