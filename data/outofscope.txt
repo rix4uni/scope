@@ -583,6 +583,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -1348,6 +1349,7 @@ merchant-onboarding-service.wolt.com
 merchant.wolt.com
 restaurant-api.wolt.com
 wolt.com
+wolt.typeform.com
 links.wolt.com
 press.wolt.com
 wolt.atlassian.net
@@ -3409,6 +3411,18 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 demorgen.be
 abonnement.demorgen.be
 anchor.digitalocean.com
@@ -3462,8 +3476,6 @@ trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 login.liferay.com
 community.monzo.com
