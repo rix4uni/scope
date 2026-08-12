@@ -551,6 +551,7 @@
       "networkguard.com",
       "Any Applications under https://www.expressvpn.com/latest",
       "https://github.com/expressvpn/lightway",
+      "https://github.com/expressvpn/wolfssl-rs",
       "TrustedServer 100,000 Bonus Award (See Program Policy for Info)"
     ],
     "outofscope_domains": [
@@ -54870,7 +54871,8 @@
       "www.myndr.nl"
     ],
     "outofscope_domains": [
-      "mqtt.myndr.net"
+      "mqtt.myndr.net",
+      "mqtt2.myndr.net"
     ],
     "issues_reported": [],
     "scamhit": "",
