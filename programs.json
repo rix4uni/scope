@@ -3365,6 +3365,36 @@
     "last_updated": "2026-08-12"
   },
   {
+    "name": "Lansweeper Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "Lansweeper Discovery",
+      "app.lansweeper.com",
+      "fb.lansweeper.com",
+      "edge.lansweeper.com",
+      "api.lansweeper.com",
+      "backoffice.lansweeper.com",
+      "https://lsagentrelay.lansweeper.com/",
+      "app.lansweeper.com/trial",
+      "autoupdateapi.lansweeper.com",
+      "docs.lansweeper.com",
+      "login.lansweeper.com",
+      "www.lansweeper.com",
+      "*.lansweeper.com"
+    ],
+    "outofscope_domains": [
+      " lsrunase2.0 and lsencrypt2.0 ",
+      "careers.lansweeper.com",
+      "www.lansweeper.com/forum"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-12"
+  },
+  {
     "name": "Libelle",
     "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -19170,6 +19200,10 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
+      "*.klarna.com",
+      "*.klarna.net",
+      "*.klarnacdn.net",
+      "*.pricerunner.com",
       "Klarna Android App (com.myklarnamobile)",
       "Klarna iOS App (com.klarna.app)",
       "Merchant Portal",

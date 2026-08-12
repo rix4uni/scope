@@ -592,6 +592,10 @@ downloads.varonis.com
 licensemgmt.varonis.com
 my.varonis.com
 support.varonis.com
+*.klarna.com
+*.klarna.net
+*.klarnacdn.net
+*.pricerunner.com
 portal.playground.klarna.com
 api.klarna.com
 app.klarna.com
