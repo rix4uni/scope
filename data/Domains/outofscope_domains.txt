@@ -1543,11 +1543,11 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 covid19app.who.int
+freshworks.com
 marketplace.freshworks.com
 yourdomain.myfreshworks.com
 freshworks.atlassian.net
 wchat.freshchat.com
-freshworks.com
 yourdomain.freshping.io
 yourdomain.freshstatus.io
 yourdomain.freshsurvey.io

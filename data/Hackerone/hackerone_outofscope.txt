@@ -1040,12 +1040,12 @@ support.hypr.com
 *.who.int
 covid19app.who.int
 *.getbouncer.com
+freshworks.com
 *.freshworks.com
 marketplace.freshworks.com
 yourdomain.myfreshworks.com
 freshworks.atlassian.net
 wchat.freshchat.com
-freshworks.com
 yourdomain.freshping.io
 yourdomain.freshstatus.io
 yourdomain.freshsurvey.io
