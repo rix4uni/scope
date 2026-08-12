@@ -121,6 +121,29 @@
     "last_updated": "2026-08-12"
   },
   {
+    "name": "BIND 9 Bug Bounty Program",
+    "program_url": "https://yeswehack.com/programs/bind-bug-bounty-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$10000",
+    "inscope_domains": [
+      "https://gitlab.isc.org/isc-projects/bind9"
+    ],
+    "outofscope_domains": [
+      "- gitlab.isc.org",
+      "- lists.isc.org",
+      "- Any asset that is not explicitly included in our program's scope",
+      "- Any third parties' or community assets (e.g. packages or versions not created and published by ISC)",
+      "- Any deprecated versions and versions other than the current stable/official version",
+      "- Any local implementation of the project/implementation belonging to third parties",
+      "- Vulnerabilities in the DNS protocol that are not specific to the BIND 9 implementation (while we are interested in these, they are out of scope of this Bug Bounty program)",
+      "- Any vulnerability that requires admin or admin-like access (see above for more details) — this includes access to files on disk, administrative interfaces (rndc, statistics channel), access to any shared key, privileges to write files on disk, and authenticated access to change the zone file contents (zone transfers, DNS update)"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-12"
+  },
+  {
     "name": "BitOasis - Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/bitoasis-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",

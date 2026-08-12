@@ -2938,6 +2938,8 @@ lp.alasco.de
 lp.alasco.com
 support.alasco.de
 support.alasco.com
+gitlab.isc.org
+lists.isc.org
 blog.bitoasis.net
 coindcx.com
 info.coindcx.com

@@ -21,6 +21,7 @@ anext.com.sg
 alipayhk.com
 antbank.hk
 security-en.alipay.com
+gitlab.isc.org
 *.bitoasis.net
 bookbeat.com
 api.bookbeat.com
