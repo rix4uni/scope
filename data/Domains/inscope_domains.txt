@@ -347,6 +347,9 @@ remove.bg
 designify.com
 kaleido.ai
 unscreen.com
+keepersecurity.com
+docs.keeper.io
+microsoft.com
 kw-bugcrowd-pub.bounty.kiteworks.dev
 myklpages.com
 a.klaviyo.com
@@ -3039,7 +3042,6 @@ databricks.com
 dbc-9a3f8ed1-7608.cloud.databricks.com
 elastic.co
 docker.elastic.co
-microsoft.com
 cloud.elastic.co
 epr.elastic.co
 slsa.dev
