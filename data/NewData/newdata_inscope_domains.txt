@@ -1,15 +1,2 @@
-apix.vodafone.om
-om.vodafone.mva
-vfo01.vodafone.om
-vfo02.vodafone.om
-vfo03.vodafone.om
-vodafone.om
-emarketer.com
-staatsloterij.nederlandseloterij.nl
-krasloten.nederlandseloterij.nl
-eurojackpot.nederlandseloterij.nl
-luckyday.nederlandseloterij.nl
-lotto.nederlandseloterij.nl
-miljoenenspel.nederlandseloterij.nl
-nederlandseloterij.nl
-toto.nl
+keepersecurity.com
+docs.keeper.io
