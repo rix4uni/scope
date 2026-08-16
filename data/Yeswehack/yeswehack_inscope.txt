@@ -380,9 +380,6 @@ s.qwant.com
 s1.qwant.com
 s2.qwant.com
 qwantjunior.com
-my.salt.ch
-eshop.salt.ch
-login.salt.ch
 onsexprime.fr
 1000-premiers-jours.fr
 mangerbouger.fr

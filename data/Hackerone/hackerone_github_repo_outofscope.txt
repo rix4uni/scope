@@ -36,4 +36,5 @@ https://github.com/cloudflare/privacy-gateway-server-go
 https://github.com/cloudflare/realtimekit-web-examples
 https://github.com/cloudflare/recapn
 https://github.com/cloudflare/saffron.git
+https://github.com/cloudflare/templates
 https://github.com/cloudflare/vinext-private

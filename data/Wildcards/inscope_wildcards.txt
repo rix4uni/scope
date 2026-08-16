@@ -1014,6 +1014,7 @@ ic3.*.indriverapp.com
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
 *.attentia.be
+*.emarketer.com
 *.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de

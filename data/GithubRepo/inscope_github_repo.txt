@@ -15,8 +15,6 @@ https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/hermit
 https://github.com/cashapp/misk
-https://github.com/square/okhttp
-https://github.com/square/okio
 https://github.com/square/wire
 https://github.com/ClickHouse/ClickHouse
 https://github.com/fireblocks/mpc-lib
@@ -179,7 +177,6 @@ https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
-https://github.com/brave/*,
 https://github.com/Shopify
 https://github.com/cdnjs/cdnjs
 https://github.com/cloudflare

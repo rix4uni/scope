@@ -678,6 +678,8 @@ app.ynab.com
 support.ynab.com
 develop-app.ynab.com
 learn.ynab.com
+support.zendesk.com
+zendesk.com
 blog.wolt.com
 wpengine.com
 gettest.wolt.com
@@ -2402,6 +2404,7 @@ faucet.canary.enjin.io
 platform.enjin.io
 support.enjin.io
 support.nft.io
+my.plaid.com
 advocates.semrush.com
 email.semrush.com
 portswigger.net
@@ -2731,6 +2734,7 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
+actie.ad.nl
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
 puml.devops.buhlergroup.com
@@ -2851,6 +2855,7 @@ view.e.rivian.com
 simscale.com
 careers.sqills.com
 welcome.sqills.com
+f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no
 kvadrat.no
 viavika.no
 limonsoda.cl

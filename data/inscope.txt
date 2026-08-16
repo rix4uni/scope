@@ -1014,6 +1014,7 @@ ic3.*.indriverapp.com
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
 *.attentia.be
+*.emarketer.com
 *.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de
@@ -1449,7 +1450,7 @@ thinkglobalhealth.org
 education.cfr.org
 chime.com
 app.chime.com
-app.bitrise.io
+drive.google.com
 member-qa.chime.com
 app-qa.chime.com
 app.saltlabs.com
@@ -2434,8 +2435,6 @@ wyze.com
 staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
-tracker.eu.bugcrowd.net
-temp-target.ai
 wolt.com
 authentication.wolt.com
 corporate.wolt.com
@@ -2589,7 +2588,6 @@ login.starbucks.co.jp
 starbucks.co.jp
 starbucks.com.cn
 alfred-uat-31.nonprod.syfe.com
-drive.google.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
@@ -2997,15 +2995,7 @@ licensemgmt.varonis.com
 my.varonis.com
 support.varonis.com
 portal.playground.klarna.com
-api.klarna.com
 app.klarna.com
-js.klarna.com
-klarna.com
-klarna.net
-klarnacdn.net
-portal.openbanking.playground.klarna.com
-pricerunner.com
-xs2a.banking.playground.klarna.com
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
@@ -3338,6 +3328,12 @@ kronor.io
 payment-gateway.kronor.io
 my.sheer.com
 sheer.com
+apix.vodafone.om
+om.vodafone.mva
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
+vodafone.om
 api.au.frontegg.com
 portal.au.frontegg.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -3503,6 +3499,7 @@ api.stg.inspectorio.com
 app.stg.inspectorio.com
 h1way.stg.inspectorio.com
 docuflow.stg.inspectorio.com
+app.bitrise.io
 id.stg.inspectorio.com
 report-html-sight.stg.inspectorio.com
 rise-api.stg.inspectorio.com
@@ -5038,6 +5035,7 @@ app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
+emarketer.com
 newsos.com
 politico.eu
 adtechnology.axelspringer.com
@@ -5125,6 +5123,14 @@ hellofax.com
 docsend.com
 app.reclaim.ai
 docs.google.com
+staatsloterij.nederlandseloterij.nl
+krasloten.nederlandseloterij.nl
+eurojackpot.nederlandseloterij.nl
+luckyday.nederlandseloterij.nl
+lotto.nederlandseloterij.nl
+miljoenenspel.nederlandseloterij.nl
+nederlandseloterij.nl
+toto.nl
 my.eurid.eu
 itscope.com
 itscope.de
@@ -5959,9 +5965,6 @@ s.qwant.com
 s1.qwant.com
 s2.qwant.com
 qwantjunior.com
-my.salt.ch
-eshop.salt.ch
-login.salt.ch
 onsexprime.fr
 1000-premiers-jours.fr
 mangerbouger.fr

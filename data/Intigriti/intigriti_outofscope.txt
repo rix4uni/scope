@@ -1,4 +1,5 @@
 *.aikido.dev
+actie.ad.nl
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
@@ -180,6 +181,7 @@ booking.*.cloud.sqills
 booking.*.sqills.com
 careers.sqills.com
 welcome.sqills.com
+f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no
 kvadrat.no
 viavika.no
 limonsoda.cl

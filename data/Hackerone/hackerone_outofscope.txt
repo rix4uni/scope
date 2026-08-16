@@ -1449,6 +1449,7 @@ projectone.att.com
 rcloud.social
 thedirectvmarketingzone.com
 wf-projectone.att.com
+*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 community.dynatrace.com
@@ -2044,6 +2045,7 @@ faucet.canary.enjin.io
 platform.enjin.io
 support.enjin.io
 support.nft.io
+my.plaid.com
 advocates.semrush.com
 email.semrush.com
 *.portswigger.net

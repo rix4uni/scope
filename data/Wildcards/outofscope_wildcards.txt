@@ -180,6 +180,7 @@ argocd.*.uidapi.com
 *.tw.com
 *.tw.ee
 *.transferwise.tech
+*.zdassets.com
 *.pipedrive.com
 *.wolt.com
 *.bandcamp.com
@@ -395,6 +396,7 @@ bus.*.indrive.com
 *.acordocerto.com.br
 *.sky.com.mx
 *tworks-att.com
+*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com

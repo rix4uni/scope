@@ -161,7 +161,7 @@ education.cfr.org
 *.chimebank.com
 chime.com
 app.chime.com
-app.bitrise.io
+drive.google.com
 member-qa.chime.com
 app-qa.chime.com
 *.saltlabs.com
@@ -1422,5 +1422,3 @@ wyze.com
 staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
-tracker.eu.bugcrowd.net
-temp-target.ai
