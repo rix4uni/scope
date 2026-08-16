@@ -623,9 +623,6 @@ g.*.slackhq.com
 *.ripe.net
 *ripe.net
 *.newyorkredbulls.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com

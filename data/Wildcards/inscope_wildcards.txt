@@ -1161,8 +1161,6 @@ ic3.*.indriverapp.com
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
-*.sqills.com
-*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com

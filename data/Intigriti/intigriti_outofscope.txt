@@ -176,11 +176,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
-careers.sqills.com
-welcome.sqills.com
 f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no
 kvadrat.no
 viavika.no
