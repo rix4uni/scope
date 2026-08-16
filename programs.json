@@ -8274,27 +8274,6 @@
     "last_updated": "2026-08-16"
   },
   {
-    "name": "Imperva - Thales Bug Bounty",
-    "program_url": "https://bugcrowd.com/engagements/imperva-mbb",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$2500",
-    "inscope_domains": [
-      "https://*.imperva.com",
-      "https://www.cloudvector.com/",
-      "https://*.incapsula.com",
-      "https://supportportal.thalesgroup.com",
-      "PTaaS Reference"
-    ],
-    "outofscope_domains": [
-      "http://docs.imperva.com/",
-      "http://docs-be.imperva.com/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-16"
-  },
-  {
     "name": "Indeed",
     "program_url": "https://bugcrowd.com/engagements/indeed",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -8594,6 +8573,30 @@
       "https://www.designify.com",
       "https://www.kaleido.ai",
       "https://www.unscreen.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-16"
+  },
+  {
+    "name": "Kantega SSO",
+    "program_url": "https://bugcrowd.com/engagements/kantega",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview",
+      "https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
