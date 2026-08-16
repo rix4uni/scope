@@ -482,9 +482,6 @@ kaleido.ai
 *.kaleido.ai
 unscreen.com
 *.unscreen.com
-keepersecurity.com
-docs.keeper.io
-microsoft.com
 kw-bugcrowd-pub.bounty.kiteworks.dev
 *.myklpages.com
 myklpages.com
