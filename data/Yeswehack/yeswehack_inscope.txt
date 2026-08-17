@@ -461,6 +461,7 @@ phlportal.vfsevisa.cn
 evisa.gov.mz
 uketa.vfsglobal.com
 vfsglobalcustomerexperience.com
+visaforkorea-sl.com
 vinci.com
 leonard.vinci.com
 castor.vinci.com

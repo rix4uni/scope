@@ -1672,7 +1672,8 @@
       "phlportal.vfsevisa.cn",
       "evisa.gov.mz",
       "https://uketa.vfsglobal.com/forms/UKETA/",
-      "https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index"
+      "https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index",
+      "https://www.visaforkorea-sl.com/"
     ],
     "outofscope_domains": [
       "All other VFS assets that are not listed above as in scope are automatically out of scope",
