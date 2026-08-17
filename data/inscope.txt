@@ -10,11 +10,6 @@ portalapi.*.afterpay.com
 *.app.asana.com
 *.asana.biz
 *asana.biz
-*.atlassian.com
-*.atl-paas.net
-*.atlassian.net
-*.atlastunnel.com
-*.loom.com
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
@@ -1169,8 +1164,6 @@ ic3.*.indriverapp.com
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
-*.sqills.com
-*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -1374,19 +1367,6 @@ partnerapi.arlo.com
 app.asana.com
 asana.com
 form.asana.com
-admin.atlassian.com
-id.atlassian.com
-start.atlassian.com
-bitbucket.org
-atlassian.com
-atlassian.net
-support.atlassian.com
-mcp.atlassian.com
-loom.com
-chromewebstore.google.com
-confluence.atlassian.com
-sourcetreeapp.com
-npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
@@ -1615,6 +1595,7 @@ indeed.com
 apis.indeed.com
 resume.com
 wowjobs.ca
+chromewebstore.google.com
 developers.intercom.com
 api.intercom.com
 api.intercom.io
@@ -3034,6 +3015,7 @@ api.privy.io
 auth.privy.io
 dashboard.privy.io
 home.privy.io
+npmjs.com
 recovery.privy.io
 netflix.com
 beacon.netflix.com
@@ -4752,6 +4734,7 @@ p.grabtaxi.com
 xtramile.grabpay.com
 authentication.clearme.com
 clearme.atlassian.net
+atlassian.com
 clearme.com
 clear.app.link
 concierge.clearme.com

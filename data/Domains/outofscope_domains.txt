@@ -29,15 +29,6 @@ survey.arlo.com
 asana.com
 asana.okta.com
 assets.asana.biz
-bugcrowd.com
-shop.atlassian.com
-bytebucket.org
-blog.bitbucket.org
-support.atlassian.com
-atlassian.net
-jira.com
-support.loom.com
-info.loom.com
 marketplace.atlassian.com
 trello.com
 blog.aurory.io
@@ -109,6 +100,7 @@ login.bitso.io
 bitsohelp.zendesk.com
 support.bitso.com
 business-old.bolt.eu
+bugcrowd.com
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
 pages.bugcrowd.com
@@ -2869,8 +2861,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-careers.sqills.com
-welcome.sqills.com
 f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no
 kvadrat.no
 viavika.no

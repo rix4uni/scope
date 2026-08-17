@@ -607,8 +607,6 @@ solarwinds.com
 *.app.spacelift.dev
 app.spacelift.dev
 spacelift.dev
-*.sqills.com
-*.sqills.team
 superdrug.com
 api.superdrug.com
 media.superdrug.com

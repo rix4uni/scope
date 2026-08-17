@@ -10,11 +10,6 @@ portalapi.*.afterpay.com
 *.app.asana.com
 *.asana.biz
 *asana.biz
-*.atlassian.com
-*.atl-paas.net
-*.atlassian.net
-*.atlastunnel.com
-*.loom.com
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
@@ -1169,8 +1164,6 @@ ic3.*.indriverapp.com
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
-*.sqills.com
-*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
