@@ -1190,8 +1190,6 @@ rsa.citrixcloud.navient.com
 wsmb2bproxy.navient.com
 wsmb2bproxynp.navient.com
 wsmb2bresv.navient.com
-mqtt.myndr.net
-mqtt2.myndr.net
 adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
@@ -1867,7 +1865,9 @@ status.grammarly.com
 brand.grammarly.com
 partners.grammarly.com
 events.grammarly.com
-go.grammarly.com
+hello.superhuman.com
+events.superhuman.com
+engage.superhuman.com
 status.coda.io
 app.formit.autodesk.com
 quote.oc.autodesk.com

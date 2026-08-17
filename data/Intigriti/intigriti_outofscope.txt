@@ -35,8 +35,10 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
+actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be
+actie.volkskrant.nl
 *.snapshooter.com
 github.com
 anchor.digitalocean.com
