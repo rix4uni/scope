@@ -3977,6 +3977,8 @@ be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 mynexuz.be
 liquidfiles.nexuzhealth.com
+idp-contact.nexuzhealth.be
+media.nexuzhealth.be
 analytics.ninjakiwi.com
 api.ninjakiwi.com
 guts.ninjakiwi.com
@@ -3991,6 +3993,11 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
