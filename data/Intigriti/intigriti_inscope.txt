@@ -295,6 +295,7 @@ login.lansweeper.com
 lansweeper.com
 libelle.nl
 *.libelle.nl
+actie.libelle.nl
 marionnaud.fr
 app.marionnaud.fr
 media.marionnaud.fr

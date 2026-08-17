@@ -3451,13 +3451,16 @@ jobs.exoscale.com
 hotelservice.hrs.com
 jobs.hrs.com
 hrs.com
+actie.hln.be
 hln.be
+actie.parool.nl
 parool.nl
 abonnement.parool.nl
 houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
+actie.humo.be
 autodiscover.innogames.de
 exchange.innogames.de
 igjam.eu
@@ -3525,6 +3528,7 @@ viavika.no
 limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
+actie.trouw.nl
 elect.tweakers.net
 boekentoy.uzleuven.be
 uz-laboboeken.web.app

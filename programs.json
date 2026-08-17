@@ -3057,6 +3057,7 @@
       "*.hln.be"
     ],
     "outofscope_domains": [
+      "actie.hln.be",
       "hln.be/service"
     ],
     "issues_reported": [],
@@ -3078,6 +3079,7 @@
       "*.parool.nl"
     ],
     "outofscope_domains": [
+      "actie.parool.nl",
       "parool.nl/inloggen",
       "parool.nl/login",
       "parool.nl/registreren",
@@ -3139,7 +3141,8 @@
       "humo.be/inloggen",
       "humo.be/login",
       "humo.be/service",
-      "abonnement.humo.be"
+      "abonnement.humo.be",
+      "actie.humo.be"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -3414,7 +3417,8 @@
     "reward": "€2200",
     "inscope_domains": [
       "www.libelle.nl",
-      "*.libelle.nl"
+      "*.libelle.nl",
+      "actie.libelle.nl"
     ],
     "outofscope_domains": [
       "libelle.nl/inloggen",
@@ -4742,7 +4746,8 @@
       "trouw.nl/login",
       "trouw.nl/registreren",
       "trouw.nl/service",
-      "abonnement.trouw.nl"
+      "abonnement.trouw.nl",
+      "actie.trouw.nl"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -11433,7 +11438,7 @@
     "program_url": "https://bugcrowd.com/engagements/skroutz",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$4500",
+    "reward": "$5000",
     "inscope_domains": [
       "https://www.skroutz.gr"
     ],
