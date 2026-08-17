@@ -2060,7 +2060,6 @@
     "platform": "Intigriti",
     "reward": "€2500",
     "inscope_domains": [
-      "*.emarketer.com",
       "emarketer.com",
       "newsos.com",
       "politico.eu",
@@ -58547,24 +58546,6 @@
       "com.paypal.herehd",
       "www.gopay.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-17"
-  },
-  {
-    "name": "MariaDB",
-    "program_url": "https://hackerone.com/mariadb",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "MariaDB Server & Connectors  - Denial of Service",
-      "MariaDB Server & Connectors - Access control bypass",
-      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
-      "MariaDB Server & Connectors - Remote Code Execution",
-      "mariadb.org"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-08-17"

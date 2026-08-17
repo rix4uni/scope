@@ -7,7 +7,6 @@ ad.nl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
 *.attentia.be
-*.emarketer.com
 emarketer.com
 newsos.com
 politico.eu
