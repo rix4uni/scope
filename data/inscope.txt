@@ -1353,7 +1353,7 @@ regatta.aiven.io
 console.aiven.io
 api.aiven.io
 github.com
-falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
+falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com
 beta.arlo.com
 mcs.arlo.com
 my.arlo.com
@@ -4331,6 +4331,7 @@ js.crypto.com
 merchant.crypto.com
 nadex.com
 og.com
+tax.crypto.com
 tickets.crypto.com
 travel.crypto.com
 web.crypto.com

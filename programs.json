@@ -5743,7 +5743,7 @@
       "https://api.aiven.io/login",
       "https://github.com/Aiven-Open",
       "https://github.com/Aiven",
-      "http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/"
+      "http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/"
     ],
     "outofscope_domains": [
       "aquarium.aiven.io\t",

@@ -2298,6 +2298,7 @@ js.crypto.com
 merchant.crypto.com
 nadex.com
 og.com
+tax.crypto.com
 tickets.crypto.com
 travel.crypto.com
 web.crypto.com
