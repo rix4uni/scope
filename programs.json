@@ -55684,6 +55684,7 @@
     "platform": "HackerOne",
     "reward": "-",
     "inscope_domains": [
+      "*.momoafrica.tech",
       "10.51.175.34",
       "102.37.59.117",
       "102.88.18.116",
