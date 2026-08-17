@@ -33,6 +33,16 @@ asana.com
 *.integrations.asana.plus
 asana.okta.com
 assets.asana.biz
+bugcrowd.com
+shop.atlassian.com
+bytebucket.org
+*.bitbucket.io
+blog.bitbucket.org
+support.atlassian.com
+atlassian.net
+jira.com
+support.loom.com
+info.loom.com
 marketplace.atlassian.com
 trello.com
 blog.aurory.io
@@ -115,7 +125,6 @@ support.bitso.com
 *.test.taxify.eu
 business-old.bolt.eu
 *.freshdesk.com
-bugcrowd.com
 blog.bugcrowd.com
 researcherdocs.bugcrowd.com
 pages.bugcrowd.com
@@ -149,8 +158,6 @@ shop.classdojo.com
 learn.clickhouse.com
 support.cloudinary.com
 wiki.cloudinary.com
-eqrs.cms.gov
-eua.cms.gov
 hourofcode.com
 advocacy.code.org
 consensus2023.coindesk.com

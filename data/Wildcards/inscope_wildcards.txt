@@ -10,6 +10,11 @@ portalapi.*.afterpay.com
 *.app.asana.com
 *.asana.biz
 *asana.biz
+*.atlassian.com
+*.atl-paas.net
+*.atlassian.net
+*.atlastunnel.com
+*.loom.com
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
@@ -51,8 +56,6 @@ portalapi.*.afterpay.com
 *.classdojo.co.uk
 *.doj.io
 *.dojo.me
-*nsa-idr.cms.gov
-*qpp.cms.gov
 *.sys.comcast.net
 *.dell.com
 *.delltechnologies.com

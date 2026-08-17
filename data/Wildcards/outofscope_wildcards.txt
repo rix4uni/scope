@@ -2,6 +2,7 @@
 *.avns.net
 *.arlo.com
 *.integrations.asana.plus
+*.bitbucket.io
 *.trustwallet.com
 *.trustwalletapp.com
 *.binance.org
