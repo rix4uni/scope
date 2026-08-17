@@ -809,7 +809,6 @@ visa.com.au
 visa.com.bo
 visa.com.jm
 visa.com.ru
-visa.com.ua
 visainnovationprogram.com
 visaonchainanalytics.com
 visasgic.api-xperience.com
@@ -852,6 +851,7 @@ visa.com.ph
 visa.com.sg
 visa.com.tr
 visa.com.tw
+visa.com.ua
 visa.com.vn
 visa.fr
 visainfinite.ca
