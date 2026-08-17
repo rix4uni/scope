@@ -1647,6 +1647,7 @@ ads.pixiv.net
 factory.pixiv.net
 accounts.pixiv.net
 *.affirm.com
+crypto.com
 itunes.apple.com
 investors.goodrx.com
 sso.identity.goodrx.com

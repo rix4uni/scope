@@ -2292,12 +2292,13 @@ app.mona.co
 developer-api.crypto.com
 developer-platform-api.crypto.com
 developer.crypto.com
+experiences.crypto.com
 explorer.cronos.org
 js.crypto.com
 merchant.crypto.com
 nadex.com
 og.com
-tax.crypto.com
+tickets.crypto.com
 travel.crypto.com
 web.crypto.com
 goodrx.com

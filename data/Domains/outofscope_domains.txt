@@ -2065,6 +2065,7 @@ support.chaturbate.com
 ads.pixiv.net
 factory.pixiv.net
 accounts.pixiv.net
+crypto.com
 investors.goodrx.com
 sso.identity.goodrx.com
 support.goodrx.com
