@@ -53931,12 +53931,16 @@
     "outofscope_domains": [
       "*tiktokv.us",
       "*us.tiktokv.com",
+      "6754134922",
+      "com.ss.android.ttmd.video",
+      "drama.tiktok.com",
       "https://developers.tiktok.com/minis/",
       "p16-bg.tiktokcdn-us.com",
       "p16-sign.tiktokcdn-us.com",
       "p16-webcast.tiktokcdn-us.com",
       "p19-sign.tiktokcdn-us.com",
       "p19-webcast.tiktokcdn-us.com",
+      "shortdrama.tiktok.com",
       "usds.tiktok.com",
       "usdsjv.tiktok.com"
     ],

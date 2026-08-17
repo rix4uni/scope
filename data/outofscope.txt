@@ -2268,12 +2268,14 @@ support.8x8.com
 vm.8x8.com
 8x8.com
 wavecell.com
+drama.tiktok.com
 developers.tiktok.com
 p16-bg.tiktokcdn-us.com
 p16-sign.tiktokcdn-us.com
 p16-webcast.tiktokcdn-us.com
 p19-sign.tiktokcdn-us.com
 p19-webcast.tiktokcdn-us.com
+shortdrama.tiktok.com
 usds.tiktok.com
 usdsjv.tiktok.com
 direct-carexcess.co.uk
