@@ -3138,11 +3138,11 @@ grammarly.com
 download-windows.grammarly.com
 download-mac.grammarly.com
 grammarly.dmg
-app.grammarly.com
 coda.grammarly.com
 coda.io
 codacontent.io
 codahosted.io
+docs.superhuman.com
 gateway.superhuman.com
 id.superhuman.com
 io.coda
