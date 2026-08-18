@@ -644,6 +644,7 @@ g.*.slackhq.com
 *.jpe.infomaniak.com
 *.infomaniak.cloud
 *.dbaas.infomaniak.cloud
+*.infomaniak.com
 *.louisvuitton.com
 *.osp.ovh.com
 *dev.swapcard.com

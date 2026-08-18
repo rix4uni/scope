@@ -129,6 +129,7 @@ s3.pub
 *.infomaniak.cloud
 *.dbaas.infomaniak.cloud
 acronis.infomaniak.com
+*.infomaniak.com
 *.louisvuitton.com
 paymaya.com
 api.moneyboxapp.com

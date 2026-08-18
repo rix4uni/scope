@@ -921,7 +921,8 @@
       "S3 credentials from our customers, like s3.pub*.infomaniak.cloud",
       "Database service instances from customers, like *.dbaas.infomaniak.cloud",
       "acronis.infomaniak.com",
-      "partner program : pages about finding partner and sending offer / All routes ending with /partners/tender"
+      "partner program : pages about finding partner and sending offer / All routes ending with /partners/tender",
+      "storage*.infomaniak.com/newsletter/thumbnails/*"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -2537,7 +2538,8 @@
     ],
     "outofscope_domains": [
       "visitors.dpgmedia.be",
-      "Qualifio Subdomains"
+      "Qualifio Subdomains",
+      "actie.*.*"
     ],
     "issues_reported": [],
     "scamhit": "",
