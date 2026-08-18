@@ -1558,8 +1558,7 @@
       "*.vimla.io",
       "*.ownit.se",
       "*.bredbandsbolaget.se",
-      "*.europolitan.se",
-      "*.telenorcdn.net"
+      "*.europolitan.se"
     ],
     "outofscope_domains": [
       "*.bbcust.telenor.se",
@@ -1710,7 +1709,8 @@
       "Anything that is not explicitely listed in scope section",
       "!! Links pointing to other FQDNs are always out of scope !!",
       "only exception: wishes.vinci.com (english version of voeux.vinci.com) is included in the scope",
-      "All PDF documents published or served on castor.vinci.com are public, thank you for not reporting any bug linked to the accessibility of these documents."
+      "All PDF documents published or served on castor.vinci.com are public, thank you for not reporting any bug linked to the accessibility of these documents.",
+      "On www.vinci.com, Cross Site Scripting (XSS) vulnerabilities are considered out of scope temporarily as part of an exhaustive remediation project for such code injections."
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -15267,7 +15267,6 @@
       "http://estathe.it/",
       "http://fandom.kinder.com/strangerthings",
       "http://kinder.com/de/de/xp/magische-bescherung",
-      "http://kinderbuenotaiwan.com/tw/zh/xp/kbkpop/",
       "http://kinderkarnawal.pl/admin_bn5cz9k4/login",
       "http://quality-songsmitherz-de-2026.ipaasferrero.com/de/de/xp/songsmitherz",
       "http://testy.kinderdziendziecka.pl",

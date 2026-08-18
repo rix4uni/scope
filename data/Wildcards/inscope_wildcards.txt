@@ -1324,7 +1324,6 @@ ic3.*.indriverapp.com
 *.ownit.se
 *.bredbandsbolaget.se
 *.europolitan.se
-*.telenorcdn.net
 *.vfsevisa.com
 *.onevasco.com
 *.directverify.in

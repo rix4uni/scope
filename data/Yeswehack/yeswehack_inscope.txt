@@ -433,7 +433,6 @@ ownit.se
 *.ownit.se
 *.bredbandsbolaget.se
 *.europolitan.se
-*.telenorcdn.net
 en.security.tencent.com
 thueringer-foerderportal.eu
 login.aufbaubank.de
