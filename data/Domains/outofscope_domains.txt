@@ -245,6 +245,14 @@ passport.kucoin.com
 identity.lastpass.com
 info.lastpass.com
 forums.lastpass.com
+investors.latitudefinancial.com.au
+auth.latitudefinancial.com
+my.latitudepay.com
+sg.latitudepay.com
+t.latitudefinancial.com
+p.latitudefinancial.com
+payments.latitudefinancial.com
+payments-api.latitudefinancial.com
 blog.launchdarkly.com
 launchdarkly.com
 sandbox.launchdarkly.com
