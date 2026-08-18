@@ -1547,7 +1547,6 @@
       "*.foretagsportalen.telenor.se",
       "*.mittforetag.telenor.se",
       "*.stream.telenor.se",
-      "*.tv.telenor.se",
       "https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en",
       "https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en",
       "*.play.ownit.se",
@@ -1559,7 +1558,8 @@
       "*.vimla.io",
       "*.ownit.se",
       "*.bredbandsbolaget.se",
-      "*.europolitan.se"
+      "*.europolitan.se",
+      "*.telenorcdn.net"
     ],
     "outofscope_domains": [
       "*.bbcust.telenor.se",
@@ -59893,18 +59893,6 @@
     "outofscope_domains": [
       "*.guilded.gg"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-18"
-  },
-  {
-    "name": "Stellar.org",
-    "program_url": "https://hackerone.com/stellar",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-08-18"

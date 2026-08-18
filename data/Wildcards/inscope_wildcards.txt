@@ -1304,7 +1304,6 @@ ic3.*.indriverapp.com
 *.foretagsportalen.telenor.se
 *.mittforetag.telenor.se
 *.stream.telenor.se
-*.tv.telenor.se
 *.play.ownit.se
 *.inpli.se
 *.telenorinpli.se
@@ -1315,6 +1314,7 @@ ic3.*.indriverapp.com
 *.ownit.se
 *.bredbandsbolaget.se
 *.europolitan.se
+*.telenorcdn.net
 *.vfsevisa.com
 *.onevasco.com
 *.directverify.in

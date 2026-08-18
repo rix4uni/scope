@@ -423,7 +423,6 @@ ownit.se
 *.foretagsportalen.telenor.se
 *.mittforetag.telenor.se
 *.stream.telenor.se
-*.tv.telenor.se
 *.play.ownit.se
 *.inpli.se
 *.telenorinpli.se
@@ -434,6 +433,7 @@ ownit.se
 *.ownit.se
 *.bredbandsbolaget.se
 *.europolitan.se
+*.telenorcdn.net
 en.security.tencent.com
 thueringer-foerderportal.eu
 login.aufbaubank.de
