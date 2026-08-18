@@ -14947,7 +14947,6 @@
       "*.pulseway.com",
       "*.rapidfiretools.com",
       "*.rocketcyber.com",
-      "*.saasalerts.com",
       "*.scorpionsoft.com",
       "*.soonr.com",
       "*.spanning.com",
@@ -14957,7 +14956,8 @@
       "*.unitrends.com",
       "*.unitrendsmsp.com",
       "*.vorexlogin.com",
-      "autotask.net"
+      "autotask.net",
+      "https://qa.manage.saasalerts.com/"
     ],
     "outofscope_domains": [
       "*.authanvil.com",
