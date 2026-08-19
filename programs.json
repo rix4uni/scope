@@ -11404,18 +11404,15 @@
     "reward": "$1500",
     "inscope_domains": [
       "https://marketplace.atlassian.com/apps/1219732/time-in-status-for-jira-cloud?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1219732/time-in-status?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1220385/issue-history?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1220385/issue-history-for-jira?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1227085/forms-checklists-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1220741/sla-time-and-report-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1221462/time-between-statuses?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1227085/forms-checklists-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1228109/recurring-checklists-and-report?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1222274/jiva-voice-assistant-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1229405/cost-tracker-for-jira-cloud?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1231078/issue-creator-for-jira-cloud-capture-screen-annotate?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1220385/issue-history-for-jira?hosting=datacenter&tab=overview",
-      "https://marketplace.atlassian.com/apps/1221462/time-between-statuses-time-to-resolution-timer?tab=overview&hosting=cloud",
-      "https://marketplace.atlassian.com/apps/1219732/time-in-status?hosting=datacenter&tab=overview",
-      "https://marketplace.atlassian.com/apps/1221462/time-between-statuses-time-to-resolution-timer?hosting=datacenter&tab=overview"
+      "https://marketplace.atlassian.com/apps/1231078/issue-creator-for-jira-cloud-capture-screen-annotate?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
