@@ -61021,7 +61021,8 @@
     "reward": "$$$",
     "inscope_domains": [
       "Tor",
-      "Tor Browser"
+      "Tor Browser",
+      "https://gitlab.torproject.org/tpo/core/arti"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
