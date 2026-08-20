@@ -1,4 +1,7 @@
-accounts.x.ai
-console.x.ai
-pscp.tv
-x.ai
+soundtrack.io
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
