@@ -12162,7 +12162,6 @@
     "reward": "$1500",
     "inscope_domains": [
       "https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1218777/great-gadgets-for-jira-server?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1211062/documents-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1226592/great-gadgets-for-confluence-cloud?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1217117/project-team-for-jira-cloud?hosting=cloud&tab=overview",
