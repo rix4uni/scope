@@ -3225,7 +3225,6 @@ pscp.tv
 t.co
 x.ai
 x.com
-xadsacademy.com
 *.cloudflare.com
 support.cloudflare.com
 community.cloudflare.com
