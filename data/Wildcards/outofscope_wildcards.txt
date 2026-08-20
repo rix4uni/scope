@@ -125,6 +125,7 @@ awverify.*.mortgagechoice.com
 *.leads.developersites.com.au
 *.proptrack.com.au
 *.proptrack.com
+*.resolution.de
 *skybroadband.com
 *skybet.com
 *skynewsarabia.com

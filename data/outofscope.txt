@@ -125,6 +125,7 @@ awverify.*.mortgagechoice.com
 *.leads.developersites.com.au
 *.proptrack.com.au
 *.proptrack.com
+*.resolution.de
 *skybroadband.com
 *skybet.com
 *skynewsarabia.com
@@ -1200,6 +1201,7 @@ proptrack.com.au
 widgets-api-sit.uat.proptrack.com
 avm-sit.uat.proptrack.com
 docs.requirementyogi.com
+id.atlassian.com
 auth.simplisafe.com
 careers.simplisafe.com
 clicks.simplisafe.com

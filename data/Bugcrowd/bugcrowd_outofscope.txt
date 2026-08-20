@@ -663,6 +663,8 @@ proptrack.com.au
 widgets-api-sit.uat.proptrack.com
 avm-sit.uat.proptrack.com
 docs.requirementyogi.com
+id.atlassian.com
+*.resolution.de
 auth.simplisafe.com
 careers.simplisafe.com
 clicks.simplisafe.com
