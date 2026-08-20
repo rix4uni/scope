@@ -1,1 +1,1 @@
-*.datacamp.com
+*.pscp.tv

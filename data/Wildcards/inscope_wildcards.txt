@@ -986,8 +986,8 @@ ic3.*.indriverapp.com
 *.gitlab.org
 *.gitlap.com
 *.grok.com
+*.pscp.tv
 *.twimg.com
-*.twitter.biz
 *.twitter.com
 *.vine.co
 *.x.ai

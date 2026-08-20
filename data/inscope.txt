@@ -986,8 +986,8 @@ ic3.*.indriverapp.com
 *.gitlab.org
 *.gitlap.com
 *.grok.com
+*.pscp.tv
 *.twimg.com
-*.twitter.biz
 *.twitter.com
 *.vine.co
 *.x.ai
@@ -4966,11 +4966,14 @@ registry.gitlab.com
 ai.x.grokapp
 ai.x.grok
 chat.x.com
+console.x.com
 gnip.com
 grok.com
 grokipedia.com
 money.x.com
+t.co
 x.com
+xadsacademy.com
 support.cloudflare.com
 community.cloudflare.com
 developers.cloudflare.com
