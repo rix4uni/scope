@@ -1096,16 +1096,6 @@ ic3.*.indriverapp.com
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
