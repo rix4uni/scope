@@ -3477,7 +3477,6 @@ resmax.hilton.com
 compass.com
 connect.secure.wellsfargo.com
 wellsfargo.com
-admin.wickr.com
 greenchannel.payoneer.com.cn
 myaccount-cn.payoneer.com
 myaccount.payoneer.com

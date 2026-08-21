@@ -729,7 +729,6 @@ compass.com
 staebapp01.allegion.com
 stczpisupplier.allegion.com
 stisupplier.allegion.com
-support.wickr.com
 community.pagerduty.com
 pagerduty.com
 university.pagerduty.com
