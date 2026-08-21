@@ -21032,7 +21032,6 @@
       "www.knmvverzekeringen.nl",
       "www.mapmr.com",
       "www.nso.com",
-      "www.onlineaon.com.ar",
       "www.privateeventinsurance.com",
       "www.professionalservices.nl",
       "www.radford.com",
@@ -21046,7 +21045,9 @@
       "www4.onlineaon.com.ar",
       "ypr.aon.com"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "www.onlineaon.com.ar"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-08-21"
