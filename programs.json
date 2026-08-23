@@ -5057,6 +5057,27 @@
     "last_updated": "2026-08-23"
   },
   {
+    "name": "Venly",
+    "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "api-wallet.venly.io",
+      "api.arkane.network",
+      "connect.arkane.network ",
+      "connect.venly.io",
+      "login.arkane.network",
+      "login.venly.io",
+      "wallet.venly.io",
+      "api-wallet-sandbox.venly.io"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-23"
+  },
+  {
     "name": "Visma",
     "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5125,6 +5146,29 @@
       "https://vlerick.myshopify.com/",
       "https://webform.vlerick.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-23"
+  },
+  {
+    "name": "Voi Scooters",
+    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "Voi – e-scooters & e-bikes",
+      "Voi – e-scooter & e-bike hire",
+      "https://api.voiapp.io/",
+      "mds.voiapp.io",
+      "fm.voiapp.io",
+      "https://repair.voiweb.net",
+      "report.voi.com",
+      "voi.com",
+      "*.voi.com",
+      "*.voiscooters.com"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-08-23"
