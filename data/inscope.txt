@@ -1178,8 +1178,6 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
@@ -5546,12 +5544,6 @@ ai-testing.maventa.com
 ax-stage.maventa.com
 autointerface.stag.visma.net
 testing.maventa.com
-api.voiapp.io
-mds.voiapp.io
-fm.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com

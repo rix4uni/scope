@@ -720,14 +720,6 @@ ai-testing.maventa.com
 ax-stage.maventa.com
 autointerface.stag.visma.net
 testing.maventa.com
-api.voiapp.io
-mds.voiapp.io
-fm.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
-*.voi.com
-*.voiscooters.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com
