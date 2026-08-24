@@ -45164,7 +45164,7 @@
       "Global Payments Integrated",
       "Greater Giving",
       "Heartland Payment Systems",
-      "Heartland Restaurant / Retail / Payroll / Human Capital Management (Get Hired)",
+      "Heartland Restaurant / Retail / Human Capital Management (Get Hired)",
       "MerchantWare",
       "Micropayments",
       "MineralTree",
@@ -45187,6 +45187,7 @@
     ],
     "outofscope_domains": [
       "Globalpaymentsinc.com and Globalpayments.com - OUT OF SCOPE",
+      "Heartland Payroll",
       "Leaked Credentials",
       "Xenial (Xenial)",
       "Zego",
