@@ -1759,7 +1759,6 @@ cis.visa.com
 codeofconduct.visa.com
 console.tink.com
 cw.visa.com
-cybersourcebouncebacks.visa.com
 developer.authorize.net
 developer.currencycloud.com
 developer.cybersource.com
@@ -1783,13 +1782,10 @@ images.demand.cybersource.com
 infinite.visa.fr
 info.authorize.net
 info.cybersource.com
-kino.visa.pl
 merchantsignage.visa.com
-merchantsignageap.visa.com
 merchantsignageca.visa.com
 merchantsignageeu.visa.com
 merchantsignageglobal.visa.com
-merchantsignagejp.visa.com
 my.visa.fr
 myanmar.visa.com
 myvu.visauniversity.com
