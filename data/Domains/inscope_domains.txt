@@ -1771,6 +1771,9 @@ garp.visa.com
 ht.visa.com
 myvisainfinite.com
 solutions.visaacceptance.com
+usa.visa.com
+visabg.com
+visa.co.nz
 myvisacardportal.com
 visa.com.az
 images.demand.cybersource.com
@@ -1792,7 +1795,6 @@ sap.api-xperience.com
 survey.visa.com
 test.payworks.io
 testbank.xs2a.com
-usa.visa.com
 vasdemos.visa.com
 vdam.visa.com
 vgov.catalogue.digitalcontrolroom.com
@@ -1822,10 +1824,10 @@ visa.co.in
 visa.co.jp
 visa.co.ke
 visa.co.ni
-visa.co.nz
 visa.co.th
 visa.co.uk
 visa.co.ve
+visa.com
 visa.com.bo
 visa.com.br
 visa.com.cn
@@ -2877,7 +2879,6 @@ booking.cheapcaribbean.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 hyatt.com
-jira.hyattdev.com
 login.vaxvacationaccess.com
 meetings.hyatt.com
 mobileapp.hyatt.com
