@@ -463,6 +463,7 @@ ic3.*.indriverapp.com
 *.wellsfargo.com
 *.payoneer.com
 *.hypermint.com
+*.iron.xyz
 *.moonpay.com
 *.moonpaycloud.com
 *.capitalone.ca

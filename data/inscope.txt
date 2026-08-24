@@ -463,6 +463,7 @@ ic3.*.indriverapp.com
 *.wellsfargo.com
 *.payoneer.com
 *.hypermint.com
+*.iron.xyz
 *.moonpay.com
 *.moonpaycloud.com
 *.capitalone.ca
@@ -4693,8 +4694,6 @@ classroom.github.com
 education.github.com
 gist.github.com
 npmjs.org
-hackerone-m1rtuq8orz.hbstaging.website
-signin-hackerone.hbstaging.website
 api.grofers.com
 api2.grofers.com
 bistro-api.blinkit.com
@@ -5361,6 +5360,11 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+a.simplemdm.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org

@@ -4009,6 +4009,29 @@
     "last_updated": "2026-08-24"
   },
   {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-24"
+  },
+  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -17689,7 +17712,7 @@
       "Amazon Titan",
       "Amazon Transcribe",
       "Amazon Translate",
-      "Amazon VPC Lattice",
+      "Amazon VPC ",
       "Amazon Verified Permissions",
       "Amazon Virtual Private Cloud (Amazon VPC)",
       "Amazon WorkDocs",
@@ -30753,6 +30776,7 @@
     "reward": "$$$",
     "inscope_domains": [
       "*.hypermint.com",
+      "*.iron.xyz",
       "*.moonpay.com",
       "*.moonpaycloud.com",
       "api.moonpay.com",
@@ -61552,25 +61576,6 @@
       "support.wealthsimple.com",
       "tldr-archive.wealthsimple.com",
       "work.wealthsimple.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-24"
-  },
-  {
-    "name": "Home Bargains",
-    "program_url": "https://hackerone.com/homebargains",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "https://hackerone-m1rtuq8orz.hbstaging.website/",
-      "https://signin-hackerone.hbstaging.website/"
-    ],
-    "outofscope_domains": [
-      "*.home.bargains",
-      "*.homebargains.co.uk",
-      "*.tjmorris.co.uk"
     ],
     "issues_reported": [],
     "scamhit": "",
