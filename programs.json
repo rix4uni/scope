@@ -5953,7 +5953,8 @@
       "https://api.aiven.io/login",
       "https://github.com/Aiven-Open",
       "https://github.com/Aiven",
-      "http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/"
+      "http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/",
+      "Third-party dependency versions"
     ],
     "outofscope_domains": [
       "aquarium.aiven.io\t",
@@ -21718,7 +21719,6 @@
       "www.visainfinite.ca",
       "www.visaitalia.com",
       "www.visakorea.com",
-      "www.visamiddleeast.com",
       "www.visasoutheasteurope.com",
       "www.yellowpepper.com"
     ],
