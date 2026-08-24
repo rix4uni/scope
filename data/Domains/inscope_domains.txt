@@ -1815,7 +1815,6 @@ authorize.net
 cardinalcommerce.com
 currencycloud.com
 cybersource.com
-fraedom.com
 mz.visa.com
 practicalbusinessskills.org
 practicalmoneyskills.com
