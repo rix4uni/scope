@@ -922,7 +922,8 @@
       "Database service instances from customers, like *.dbaas.infomaniak.cloud",
       "acronis.infomaniak.com",
       "partner program : pages about finding partner and sending offer / All routes ending with /partners/tender",
-      "storage*.infomaniak.com/newsletter/thumbnails/*"
+      "storage*.infomaniak.com/newsletter/thumbnails/*",
+      "Information returned by /get-tickets-infos (including organizer, event_name, event_date, command_date, and masked email) is out of scope."
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -54654,6 +54655,7 @@
       "https://webrtc.8x8.com/",
       "https://www.npmjs.com/package/@8x8/pui-partner-comm",
       "maestro.8x8.cloud",
+      "map.8x8.com",
       "mcp.8x8.com",
       "org.vom8x8.sipua",
       "pay.8x8.com",
