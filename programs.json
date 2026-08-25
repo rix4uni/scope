@@ -6390,15 +6390,13 @@
     "reward": "$4375",
     "inscope_domains": [
       "https://app.aurory.io",
-      "https://store.epicgames.com/en-US/p/amiko-legends-a5986d",
-      "https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA",
-      "https://testflight.apple.com/join/FuaxsScP"
+      "https://store.epicgames.com/en-US/p/amiko-legends-a5986d"
     ],
     "outofscope_domains": [
       "https://blog.aurory.io ",
-      "https://docs.aurory.io/",
       "https://sentry.io/welcome/",
-      "https://arbiscan.io/address/0x4e0e24b960286be46ecf92986bef548604601d77"
+      "https://arbiscan.io/address/0x4e0e24b960286be46ecf92986bef548604601d77",
+      "wss://ws.aurorynet.dev.aurory.io"
     ],
     "issues_reported": [],
     "scamhit": "",

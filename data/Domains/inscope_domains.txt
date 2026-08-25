@@ -50,7 +50,6 @@ npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
-testflight.apple.com
 config.cic-bug-bounty.auth0app.com
 manage.cic-bug-bounty.auth0app.com
 marketplace.auth0.com
@@ -2184,6 +2183,7 @@ app.stg.inspectorio.com
 h1way.stg.inspectorio.com
 docuflow.stg.inspectorio.com
 app.bitrise.io
+testflight.apple.com
 id.stg.inspectorio.com
 report-html-sight.stg.inspectorio.com
 rise-api.stg.inspectorio.com
