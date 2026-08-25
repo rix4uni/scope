@@ -3088,6 +3088,7 @@ incamail-dev.post.ch
 incamail-test.post.ch
 tc.ownit.se
 faq.vimla.se
+status.vimla.se
 stage-vimla-se.vimla.io
 myqcloud.com
 cloud.tencent.com

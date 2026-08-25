@@ -167,6 +167,7 @@ incamail-test.post.ch
 *.ownit.nu
 tc.ownit.se
 faq.vimla.se
+status.vimla.se
 stage-vimla-se.vimla.io
 *.telenor.com
 *.qzoneapp.com

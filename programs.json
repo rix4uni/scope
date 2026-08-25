@@ -1571,6 +1571,7 @@
       "*.ownit.nu",
       "tc.ownit.se",
       "faq.vimla.se",
+      "status.vimla.se",
       "stage-vimla-se.vimla.io",
       "Any domain that looks like it's owned by a third party or customer due to customer's privacy",
       "Mobile services and devices provided by Telenor Sweden and subsidiaries not reachable from Internet",
@@ -4005,6 +4006,29 @@
       "1584170510",
       "com.loyaltyworks.wavinapp",
       "*.vectus.in"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-25"
+  },
+  {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
     ],
     "issues_reported": [],
     "scamhit": "",

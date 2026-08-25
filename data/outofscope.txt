@@ -598,6 +598,10 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -3744,6 +3748,7 @@ incamail-dev.post.ch
 incamail-test.post.ch
 tc.ownit.se
 faq.vimla.se
+status.vimla.se
 stage-vimla-se.vimla.io
 myqcloud.com
 cloud.tencent.com
