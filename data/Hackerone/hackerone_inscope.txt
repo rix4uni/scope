@@ -779,7 +779,6 @@ myvisacardportal.com
 visa.com.az
 visa.com.ua
 images.demand.cybersource.com
-infinite.visa.fr
 info.authorize.net
 info.cybersource.com
 merchantsignage.visa.com
@@ -809,7 +808,6 @@ visaonchainanalytics.com
 visasgic.api-xperience.com
 vwcm.visa.com
 authorize.net
-cardinalcommerce.com
 currencycloud.com
 cybersource.com
 practicalbusinessskills.org
