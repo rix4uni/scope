@@ -1754,6 +1754,7 @@ applications.abercrombie.com
 nonmerchvendorprofile.anfcorp.com
 docs.moderntreasury.com
 help.moderntreasury.com
+app.moderntreasury.com
 ph.moderntreasury.com
 trust.moderntreasury.com
 moderntreasury.com
