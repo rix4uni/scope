@@ -798,7 +798,6 @@ survey.visa.com
 test.payworks.io
 testbank.xs2a.com
 vasdemos.visa.com
-vdam.visa.com
 vgov.catalogue.digitalcontrolroom.com
 visa.co.za
 visa.com.au
@@ -853,7 +852,6 @@ visa.com.vn
 visa.cz
 visa.de
 visa.dk
-visa.dm
 visa.ee
 visa.es
 visa.fi

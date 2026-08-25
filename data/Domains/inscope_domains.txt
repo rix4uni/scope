@@ -1791,7 +1791,6 @@ survey.visa.com
 test.payworks.io
 testbank.xs2a.com
 vasdemos.visa.com
-vdam.visa.com
 vgov.catalogue.digitalcontrolroom.com
 visa.co.za
 visa.com.au
@@ -1846,7 +1845,6 @@ visa.com.vn
 visa.cz
 visa.de
 visa.dk
-visa.dm
 visa.ee
 visa.es
 visa.fi
@@ -4065,11 +4063,6 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
