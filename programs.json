@@ -5827,10 +5827,8 @@
     "platform": "Bugcrowd",
     "reward": "$1500",
     "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?tab=overview&hosting=datacenter",
-      "https://marketplace.atlassian.com/apps/1228703/intelligent-user-manager-ium-for-confluence?hosting=datacenter&tab=overview",
-      "https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1235944/intelligent-user-manager-ium-for-confluence-cloud?hosting=cloud&tab=overview"
+      "https://marketplace.atlassian.com/apps/1235944/intelligent-user-manager-ium-for-confluence-cloud?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -13652,6 +13650,20 @@
       "support.phonepe.com",
       "www.indusappstore.com",
       "www.share.market"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-25"
+  },
+  {
+    "name": "Vanguard",
+    "program_url": "https://hackerone.com/vanguard",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "Scope"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
