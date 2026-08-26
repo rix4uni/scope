@@ -31,6 +31,7 @@ edge.blablacar
 co.uk
 auth.blablacar
 m.blablacar
+booking.blablacar
 itunes.apple.com
 api.blablalines.com
 daily.blablacar.fr
