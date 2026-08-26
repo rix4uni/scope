@@ -507,6 +507,7 @@ bmp.boozt.com
 kronor.io
 api.frontegg.com
 portal.frontegg.com
+cloud.e.comerica.com
 smallbusiness.comerica.com
 smallbusinessuat.comerica.com
 bus.*.indrive.com

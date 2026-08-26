@@ -1074,6 +1074,7 @@ bmp.boozt.com
 kronor.io
 api.frontegg.com
 portal.frontegg.com
+cloud.e.comerica.com
 smallbusiness.comerica.com
 smallbusinessuat.comerica.com
 servicos.indrive.com
