@@ -1745,7 +1745,6 @@ massimodutti.cn
 static.zara.com
 admin-portal.api-xperience.com
 africa.visa.com
-api.prod.innovexperiments.com
 app.demand.cybersource.com
 askpeopleteam.visa.com
 bd.visa.com
@@ -1762,7 +1761,6 @@ developers.pismo.io
 direct-demo.currencycloud.com
 dwy.visa.com
 ebctest.cybersource.com
-experience.prod.innovexperiments.com
 forms.cybersource.com
 myvisainfinite.com
 solutions.visaacceptance.com
@@ -3751,15 +3749,6 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
-profiles-api.datacamp.com
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
