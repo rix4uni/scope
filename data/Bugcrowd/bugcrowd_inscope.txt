@@ -67,6 +67,7 @@ npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
+store.steampowered.com
 config.cic-bug-bounty.auth0app.com
 manage.cic-bug-bounty.auth0app.com
 *.cic-bug-bounty.auth0app.com

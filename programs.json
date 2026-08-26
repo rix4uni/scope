@@ -6386,10 +6386,11 @@
     "program_url": "https://bugcrowd.com/engagements/aurory-mbb-og2",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$4375",
+    "reward": "$4500",
     "inscope_domains": [
       "https://app.aurory.io",
-      "https://store.epicgames.com/en-US/p/amiko-legends-a5986d"
+      "https://store.epicgames.com/p/amiko-arena-a5986d",
+      "https://store.steampowered.com/app/4245930/Amiko_Legends/"
     ],
     "outofscope_domains": [
       "https://blog.aurory.io ",

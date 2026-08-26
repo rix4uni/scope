@@ -1387,6 +1387,7 @@ npmjs.com
 trello.com
 app.aurory.io
 store.epicgames.com
+store.steampowered.com
 config.cic-bug-bounty.auth0app.com
 manage.cic-bug-bounty.auth0app.com
 marketplace.auth0.com
@@ -4409,7 +4410,6 @@ partner.steamgames.com
 partner.steampowered.com
 playartifact.com
 steamcommunity.com
-store.steampowered.com
 support.steampowered.com
 counter-strike.net
 dota2.com
