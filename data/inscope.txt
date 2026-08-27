@@ -5753,7 +5753,6 @@ anext.com.sg
 alipayhk.com
 antbank.hk
 security-en.alipay.com
-gitlab.isc.org
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
@@ -5761,7 +5760,6 @@ edge.bookbeat.com
 edge.blablacar
 auth.blablacar
 m.blablacar
-booking.blablacar
 api.blablalines.com
 daily.blablacar.fr
 blablacardaily.com

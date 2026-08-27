@@ -21,7 +21,6 @@ anext.com.sg
 alipayhk.com
 antbank.hk
 security-en.alipay.com
-gitlab.isc.org
 *.bitoasis.net
 bookbeat.com
 api.bookbeat.com
@@ -31,7 +30,6 @@ edge.blablacar
 co.uk
 auth.blablacar
 m.blablacar
-booking.blablacar
 itunes.apple.com
 api.blablalines.com
 daily.blablacar.fr

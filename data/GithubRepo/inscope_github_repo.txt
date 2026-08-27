@@ -152,8 +152,10 @@ https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
 https://github.com/innocraft
 https://github.com/matomo-org
+https://github.com/matomo-org/developer-documentation
 https://github.com/matomo-org/docker
 https://github.com/matomo-org/matomo
+https://github.com/matomo-org/tracker-proxy
 https://github.com/smartcontractkit/chainlink
 https://github.com/smartcontractkit/chainlink-evm
 https://github.com/smartcontractkit/chainlink-solana
