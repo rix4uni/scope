@@ -964,8 +964,6 @@ ic3.*.indriverapp.com
 *.rentalcars.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
-*.acrobat.adobe.com
-*.lightroom.adobe.com
 *.ubnt.com
 *.ui.com
 *.uisp.com

@@ -5762,6 +5762,20 @@
     "last_updated": "2026-08-27"
   },
   {
+    "name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/FindOut-infovis",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-27"
+  },
+  {
     "name": "Jaanga Marketplace Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/JaangaInc-mbb-market",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -6817,6 +6831,25 @@
     "last_updated": "2026-08-27"
   },
   {
+    "name": "BrizoIT",
+    "program_url": "https://bugcrowd.com/engagements/brizoit",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1217938/company-calendar-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1217938/company-calendar-planner-for-jira?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview&hosting=datacenter"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-27"
+  },
+  {
     "name": "Broken Build Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/brokenbuild",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -6923,6 +6956,32 @@
     "outofscope_domains": [
       "*.bullish.com/"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-27"
+  },
+  {
+    "name": "Caelor Group",
+    "program_url": "https://bugcrowd.com/engagements/caelor-group-market",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1221754/translator-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1222649/macrosuite-easy-html-button-hide-content-divider-tabs?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223472/trophies-for-jira-gamification?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224103/cards-panels?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224724/todo-checklist-with-forge?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223471/trophies-for-confluence-gamification?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1225290/moscow-agile-prioritization-with-forge?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1225145/image-editor-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1230540/cosmos-intranet-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1227112/eisenhower-task-management-todo-priority-matrix-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1231591/shoppie-assets-integrated-shop-for-jsm?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1225724/email-confluence-page?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1230161/linksy-advanced-issue-linking?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-08-27"
@@ -9462,6 +9521,26 @@
     "last_updated": "2026-08-27"
   },
   {
+    "name": "META-INF",
+    "program_url": "https://bugcrowd.com/engagements/metainfkft",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/4977/email-this-issue?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1219628/glass-project-documentation-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1229346/marketplace-integration-for-jira?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-27"
+  },
+  {
     "name": "MGM China Holdings Limited Managed Bug Bounty Program",
     "program_url": "https://bugcrowd.com/engagements/mgmmacau-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -9699,6 +9778,20 @@
     "outofscope_domains": [
       "tripactions.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-27"
+  },
+  {
+    "name": "Navarambh",
+    "program_url": "https://bugcrowd.com/engagements/navarambh",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1222843/aio-tests-for-jira?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-08-27"
@@ -62239,92 +62332,6 @@
       "dl.getforma.com",
       "guide.airtable.com",
       "support.airtable.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-27"
-  },
-  {
-    "name": "Adobe",
-    "program_url": "https://hackerone.com/adobe",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "*.acrobat.adobe.com",
-      "*.lightroom.adobe.com",
-      "Acrobat AI Assistant",
-      "Acrobat Create Podcast",
-      "Acrobat Create Presentations",
-      "Acrobat PDF Spaces",
-      "Acrobat Reader",
-      "Adobe Acrobat Reader DC",
-      "Adobe Commerce, Commerce B2B and Commerce Open Source",
-      "After Effects",
-      "Animate",
-      "Audition",
-      "Behance Freelance Job creation",
-      "Bridge",
-      "C2PA Tool",
-      "Character Animator",
-      "ColdFusion",
-      "Dimension",
-      "Dreamweaver",
-      "Express AI Assistant",
-      "Firefly Image Models",
-      "Firefly Video Model",
-      "Framemaker",
-      "Illustrator",
-      "InCopy",
-      "InDesign",
-      "Lightroom \"Edit suggestions\" Tech Preview",
-      "Lightroom AI Edits",
-      "Lightroom Classic",
-      "Media Encoder",
-      "Other",
-      "Photoshop",
-      "Photoshop AI Assistant",
-      "Premiere Pro",
-      "Premiere Rush",
-      "Stock AI Studio",
-      "Substance 3D",
-      "XD",
-      "account.adobe.com",
-      "account.magento.com",
-      "adobe.fresco.ios",
-      "adobeid-na1.services.adobe.com",
-      "auth.services.adobe.com",
-      "com.adobe.Adobe-Reader",
-      "com.adobe.PSMobile",
-      "com.adobe.lrmobile",
-      "com.adobe.lrmobile",
-      "com.adobe.reader",
-      "com.adobe.scan.android",
-      "com.adobe.scan.ios",
-      "com.adobe.workfront",
-      "com.frame.FrameIO",
-      "com.iphone.workfront",
-      "commercemarketplace.adobe.com",
-      "contributor.stock.adobe.com",
-      "firefly.adobe.com",
-      "fonts.adobe.com",
-      "http://federatedid-na1.services.adobe.com",
-      "http://ims-na1.adobelogin.com",
-      "learningmanagerstage4.adobe.com",
-      "magento.com",
-      "net.s2stagehance.com",
-      "new.express.adobe.com",
-      "photos.adobe.io",
-      "photoshop.adobe.com",
-      "portfolio.ccpsx.com",
-      "repo.magento.com",
-      "stock.adobe.com"
-    ],
-    "outofscope_domains": [
-      "Magento 1 Enterprise (Commerce) and Community (Open Source) Editions",
-      "Tier 3 (AI Bonus Tier)",
-      "behance.net",
-      "https://contentcredentials.org/"
     ],
     "issues_reported": [],
     "scamhit": "",
