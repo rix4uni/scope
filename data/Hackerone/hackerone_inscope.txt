@@ -2067,6 +2067,7 @@ online.s-pankki.fi
 flickr.com
 modefestival.com
 whatismode.com
+developer.matomo.org
 plugins.matomo.org
 matomo.cloud
 username.matomo.cloud

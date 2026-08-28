@@ -1205,6 +1205,12 @@ ic3.*.indriverapp.com
 *.vtmgo.be
 *.voi.com
 *.voiscooters.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be
 *.mijnwater-link.be
 *.watsons.com.hk
@@ -4125,6 +4131,7 @@ online.s-pankki.fi
 flickr.com
 modefestival.com
 whatismode.com
+developer.matomo.org
 plugins.matomo.org
 matomo.cloud
 username.matomo.cloud
@@ -5630,6 +5637,16 @@ fm.voiapp.io
 repair.voiweb.net
 report.voi.com
 voi.com
+app.getflywheel.com
+getflywheel.com
+my.wpengine.com
+payments.wpengine.com
+wpengine.com
+advancedcustomfields.com
+bettersearchreplace.com
+makeshift.film
+studiopress.blog
+torquemag.io
 desktop.water-link.be
 pit.water-link.be
 water-link-jaarverslag.be

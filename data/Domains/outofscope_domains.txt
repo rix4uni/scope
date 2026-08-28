@@ -1036,6 +1036,7 @@ redoxengine.atlassian.net
 redox.slack.com
 sso.redoxengine.com
 web3.okx.com
+okx.ai
 dataspanapi.wisdomtree.com
 wisdomtree.com
 wisdomtree.eu
@@ -2920,6 +2921,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 aquawardsspatial.water-link.be
 water-link.be

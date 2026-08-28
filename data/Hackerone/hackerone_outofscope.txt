@@ -461,6 +461,7 @@ redox.slack.com
 sso.redoxengine.com
 *.okg.com
 web3.okx.com
+okx.ai
 dataspanapi.wisdomtree.com
 wisdomtree.com
 wisdomtree.eu

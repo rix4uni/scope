@@ -516,6 +516,25 @@
     "last_updated": "2026-08-28"
   },
   {
+    "name": "Dovecot",
+    "program_url": "https://yeswehack.com/programs/dovecot",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$5000",
+    "inscope_domains": [
+      "Dovecot IMAP Server and Pigeonhole SIEVE (see \"Software packages\" and \"Source code\")"
+    ],
+    "outofscope_domains": [
+      "All content which is not listed as \"Scopes\", especially any production system operated by customers",
+      "\"Scopes\" in this program refer to the binary packages and source-code provided there, the systems providing those artefacts are out of scope",
+      "Everything that is not directly related to the application or source-code in scope (e.g. GitHub, domain settings)",
+      "Bugs that require filesystem level access to modify content to cause data corruption or path traversal issues as out of scope."
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-28"
+  },
+  {
     "name": "ExpressVPN - Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/expressvpn-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -1719,7 +1738,7 @@
     "platform": "YesWeHack",
     "reward": "$null",
     "inscope_domains": [
-      "https://dojo-yeswehack.com/challenge-of-the-month/dojo-53"
+      "https://dojo-yeswehack.com/challenge-of-the-month/dojo-54"
     ],
     "outofscope_domains": [
       "Everything that's out of the scope root URL"
@@ -5292,6 +5311,39 @@
     ],
     "outofscope_domains": [
       "Third-party systems or domains referencing Voi"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-28"
+  },
+  {
+    "name": "WP Engine Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "https://app.getflywheel.com",
+      "https://getflywheel.com",
+      "https://my.wpengine.com",
+      "https://payments.wpengine.com",
+      "https://wpengine.com",
+      "*. advancedcustomfields.com",
+      "*. bettersearchreplace.com",
+      "*.deliciousbrains.com",
+      "*.localwp.com",
+      "*.nitropack.io",
+      "*.studiopress.com",
+      "*.wpengine.io",
+      "*.wpesvc.net",
+      "WP Engine-developed WordPress Plugins and Themes",
+      "https://makeshift.film",
+      "https://studiopress.blog",
+      "https://torquemag.io",
+      "https://velocitize.com"
+    ],
+    "outofscope_domains": [
+      "marketing.nitropack.io"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -22236,7 +22288,10 @@
     "outofscope_domains": [
       "*.okg.com",
       "Agentic Wallet",
-      "https://web3.okx.com/onchainos"
+      "OKX Xlayer Faucet",
+      "Testnet faucet / Testnet funds / Testnet",
+      "https://web3.okx.com/onchainos",
+      "okx.ai"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -63144,6 +63199,7 @@
       "https://*.hackerone-ext-content.com",
       "https://*.hackerone-user-content.com/",
       "https://github.com/Hacker0x01/react-datepicker",
+      "https://hackerone.com/mcp",
       "mta-sts.wearehackerone.com",
       "profile-photos-us-east-2.hackerone-user-content.com",
       "profile-photos.hackerone-user-content.com",
