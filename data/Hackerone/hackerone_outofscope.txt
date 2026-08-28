@@ -460,6 +460,7 @@ redoxengine.atlassian.net
 redox.slack.com
 sso.redoxengine.com
 *.okg.com
+web3.okx.com
 dataspanapi.wisdomtree.com
 wisdomtree.com
 wisdomtree.eu
