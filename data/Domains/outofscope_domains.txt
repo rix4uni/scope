@@ -22,6 +22,7 @@ aivenhelp.zendesk.com
 support.aiven.io
 appliger.com
 appliger.atlassian.net
+marketplace.atlassian.com
 community.arlo.com
 investor.arlo.com
 research.arlo.com
@@ -38,7 +39,6 @@ atlassian.net
 jira.com
 support.loom.com
 info.loom.com
-marketplace.atlassian.com
 trello.com
 blog.aurory.io
 sentry.io

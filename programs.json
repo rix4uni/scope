@@ -5828,7 +5828,8 @@
     ],
     "outofscope_domains": [
       "https://appliger.com/",
-      "https://appliger.atlassian.net"
+      "https://appliger.atlassian.net",
+      "https://marketplace.atlassian.com/apps/1219112/easy-issue-templates-for-jira?hosting=datacenter"
     ],
     "issues_reported": [],
     "scamhit": "",
