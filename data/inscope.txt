@@ -1221,7 +1221,6 @@ ic3.*.indriverapp.com
 *.drogas.lt
 *.drogas.lv
 *.moneyback.com.hk
-*.yahoo.com
 *.pwn.intigriti.rocks
 *.intigriti.me
 *.atg.se
@@ -5688,11 +5687,6 @@ campaign.drogas.lt
 campaign.drogas.lv
 moneyback.com.hk
 mapi.moneyback.com.hk
-apis.mail.yahoo.com
-data.mail.yahoo.com
-onepush.query.yahoo.com
-proddata.xobni.yahoo.com
-yimg.com
 hub.vznkul.be
 hubacc.vznkul.be
 intigriti.com
