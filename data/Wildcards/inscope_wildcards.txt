@@ -1185,9 +1185,7 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
 *.truelayer.com
-*.truelayer.io
 *.truelayer-sandbox.com
 *.zimpler.com
 *.zimpler.net
@@ -1205,12 +1203,6 @@ ic3.*.indriverapp.com
 *.vtmgo.be
 *.voi.com
 *.voiscooters.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
 *.water-link.be
 *.mijnwater-link.be
 *.watsons.com.hk
