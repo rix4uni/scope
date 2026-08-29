@@ -8124,29 +8124,6 @@
     "last_updated": "2026-08-29"
   },
   {
-    "name": "Hypixel Studios Managed Bug Bounty Engagement",
-    "program_url": "https://bugcrowd.com/engagements/hypixel-studios-mbb-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$25000",
-    "inscope_domains": [
-      "Hypixel Public APIs",
-      "Hytale Game Client",
-      "Hytale Game Server",
-      "Hytale Launcher",
-      "https://accounts.hytale.com/login",
-      "https://store.hytale.com/",
-      "https://hytale.com/",
-      "3rd Party Integrations (Hytale-side issues only)",
-      "https://hytale.dev/",
-      "http://arcanitegames.ca/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-29"
-  },
-  {
     "name": "Ibotta",
     "program_url": "https://bugcrowd.com/engagements/ibotta",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -11905,6 +11882,20 @@
       "secdomaintest.soundcloud.com",
       "firston.soundcloud.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-29"
+  },
+  {
+    "name": "SpaceX/Starlink",
+    "program_url": "https://bugcrowd.com/engagements/spacex",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$100000",
+    "inscope_domains": [
+      "SpaceX and Starlink assets (target information and rewards detailed above on the brief)"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-08-29"
