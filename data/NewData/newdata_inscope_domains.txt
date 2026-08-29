@@ -1,11 +1,5 @@
-developer.matomo.org
-app.getflywheel.com
-getflywheel.com
-my.wpengine.com
-payments.wpengine.com
-wpengine.com
-advancedcustomfields.com
-bettersearchreplace.com
-makeshift.film
-studiopress.blog
-torquemag.io
+accounts.hytale.com
+store.hytale.com
+hytale.com
+hytale.dev
+arcanitegames.ca
