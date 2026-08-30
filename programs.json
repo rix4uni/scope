@@ -3855,40 +3855,6 @@
     "last_updated": "2026-08-30"
   },
   {
-    "name": "Ninja Kiwi Games Bug Bounty program",
-    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4125",
-    "inscope_domains": [
-      "analytics.ninjakiwi.com",
-      "api.ninjakiwi.com",
-      "guts.ninjakiwi.com",
-      "*.ninjakiwi.me",
-      "*.nkstatic.com",
-      "battles.tv",
-      "data.ninjakiwi.com",
-      "ninja.kiwi",
-      "ninjakiwi.com",
-      "alerts.ninjakiwi.com",
-      "boomer2.ninjakiwi.com",
-      "ct.ninjakiwi.com",
-      "mynk-dash.ninjakiwi.com",
-      "mynk.ninjakiwi.com",
-      "*.souparea.com"
-    ],
-    "outofscope_domains": [
-      "rancher.ninjakiwi.com",
-      "rancher.ninjakiwi.me",
-      "store.ninjakiwi.com",
-      "support.ninjakiwi.com",
-      "icarusadmin.ninjakiwi.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-08-30"
-  },
-  {
     "name": "OURA Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/ourahealthoy/ouravulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -11630,21 +11596,22 @@
     "last_updated": "2026-08-30"
   },
   {
-    "name": "Sky UK/ROI Vulnerability Disclosure Program",
-    "program_url": "https://bugcrowd.com/engagements/sky-plc-mbb-og",
+    "name": "Sky Italy Vulnerability Disclosure Program",
+    "program_url": "https://bugcrowd.com/engagements/sky-plc-mbb-og1",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
     "reward": "$1000",
     "inscope_domains": [
-      "All internet facing Sky UK/ROI assets"
+      "All internet facing Sky Italy assets "
     ],
     "outofscope_domains": [
       "*skybroadband.com",
       "*skybet.com",
       "*skynewsarabia.com",
       "*skynews.com.au",
-      "All internet facing Sky DACH assets",
-      "All internet facing Sky Italy assets "
+      "*safetytraining.sky.it",
+      "All internet facing Sky UK/ROI assets",
+      "All internet facing Sky DACH assets"
     ],
     "issues_reported": [],
     "scamhit": "",
