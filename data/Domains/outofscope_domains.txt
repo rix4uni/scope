@@ -1585,7 +1585,6 @@ launch.cloud.com
 xvcams.com
 xvlivecams.com
 openmage.org
-moobidesk-main.vercel.app
 8x8.wavecell.com
 webmail.wavecell.com
 desktop.jitsi.org
@@ -2977,10 +2976,6 @@ deezercommunity.com
 deezer-blog.com
 deezer-brandsolutions.com
 deezerjobs.com
-cdn.vlaanderen.be
-codex.opendata.api.vlaanderen.be
-vlaanderen.be
-natura2000.vlaanderen.be
 community.doctolib.com
 info.doctolib.com
 status.doctolib.com

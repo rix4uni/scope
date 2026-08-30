@@ -367,9 +367,6 @@ bus.*.indrive.com
 *.xmqa.cloud.com
 *.xmtest.cloud.com
 *.bell.ca
-*.mavenlab.com
-*.moobicast.com
-*.moobidesk.com
 *.msteams.8x8.com
 *.callstats.io
 *.contactnow.8x8.com
@@ -627,8 +624,6 @@ g.*.slackhq.com
 *.cryptobox.com
 *.ercom.fr
 *.dana.id
-*.vlaanderen.be
-*.omgeving.vlaanderen.be
 *.doctolib.fr
 *.sslip.io
 *.nip.io

@@ -1100,10 +1100,6 @@ xvcams.com
 xvlivecams.com
 openmage.org
 *.bell.ca
-*.mavenlab.com
-*.moobicast.com
-*.moobidesk.com
-moobidesk-main.vercel.app
 *.msteams.8x8.com
 8x8.wavecell.com
 webmail.wavecell.com

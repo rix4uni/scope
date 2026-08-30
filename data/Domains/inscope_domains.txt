@@ -4396,11 +4396,6 @@ account.deezer.com
 pipe.deezer.com
 ws.deezer.com
 upload.deezer.com
-beta.gastwebsite-acm.burgerprofiel.ext-vlaanderen.be
-beta.gastwebsite.burgerprofiel.ext-vlaanderen.be
-beta.widgets.burgerprofiel.dev-vlaanderen.be
-burgerprofiel.beta-vlaanderen.be
-vo-gebruikersbeheer.vlaanderen.be
 pro.doctolib
 fr.doctolib.www
 dmp.fr
