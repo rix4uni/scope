@@ -4,3 +4,4 @@
 *.studiopress.com
 *.wpengine.io
 *.wpesvc.net
+*.yahoo.com

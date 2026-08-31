@@ -513,7 +513,6 @@ ic3.*.indriverapp.com
 *.citrixworkspacesapi.net
 *.cloud.com
 *.8x8cloud.net
-*.8x8staging.com
 *.chalet.8x8.com
 *.8x8.com
 *.p8t.us
@@ -1117,8 +1116,6 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1201,6 +1198,12 @@ ic3.*.indriverapp.com
 *.vtmgo.be
 *.voi.com
 *.voiscooters.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be
 *.mijnwater-link.be
 *.watsons.com.hk
@@ -1219,6 +1222,7 @@ ic3.*.indriverapp.com
 *.drogas.lt
 *.drogas.lv
 *.moneyback.com.hk
+*.yahoo.com
 *.pwn.intigriti.rocks
 *.intigriti.me
 *.atg.se

@@ -591,8 +591,8 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.configuratoren.nl
+*.zoofy.nl
 *.lxc.liferay.com
-*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.cpa.iqoption.com
@@ -3483,9 +3483,6 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 static.nexuzhealth.com
@@ -3564,6 +3561,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 aquawardsspatial.water-link.be
 water-link.be
