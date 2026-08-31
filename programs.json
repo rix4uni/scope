@@ -20816,7 +20816,6 @@
       "*.vayama.com",
       "*.vliegwinkel.nl",
       "<locale>.trip.com",
-      "app.blueskytravelvietnam.com",
       "com.trip.android",
       "com.trip.ios"
     ],
@@ -21243,6 +21242,7 @@
       "developer.authorize.net",
       "developer.currencycloud.com",
       "developer.cybersource.com",
+      "developer.plus.authorize.net",
       "developer.visa.com",
       "developers.pismo.io",
       "direct-demo.currencycloud.com",
@@ -21309,6 +21309,7 @@
       "releasor.payworks.com/",
       "rs.visa.com",
       "sandbox.authorize.net",
+      "sandbox.developer.plus.authorize.net",
       "sandbox.secure.checkout.visa.com",
       "sap.api-xperience.com",
       "survey.visa.com",
@@ -22027,13 +22028,15 @@
       "OKX Wallet Edge Add-ons",
       "OKX Wallet Safari Extension",
       "OKX iOS APP",
-      "Windows OS Executable"
+      "Windows OS Executable",
+      "https://github.com/okx/go-wallet-sdk"
     ],
     "outofscope_domains": [
       "*.okg.com",
       "Agentic Wallet",
       "OKX Xlayer Faucet",
       "Testnet faucet / Testnet funds / Testnet",
+      "https://github.com/okx",
       "https://web3.okx.com/onchainos",
       "okx.ai"
     ],
@@ -22727,6 +22730,31 @@
       "articles.mergify.com",
       "blog.mergify.com",
       "mergify.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-08-31"
+  },
+  {
+    "name": "Zabbix",
+    "program_url": "https://hackerone.com/zabbix",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "https://www.zabbix.com/download_sources"
+    ],
+    "outofscope_domains": [
+      "https://academy.zabbix.com/",
+      "https://blog.zabbix.com/",
+      "https://cloud.zabbix.com/",
+      "https://exam.zabbix.com/",
+      "https://git.zabbix.com/",
+      "https://shop.zabbix.com",
+      "https://space.zabbix.com/",
+      "https://support.zabbix.com/",
+      "https://translate.zabbix.com/",
+      "https://www.zabbix.com/"
     ],
     "issues_reported": [],
     "scamhit": "",

@@ -1,5 +1,3 @@
-accounts.hytale.com
-store.hytale.com
-hytale.com
-hytale.dev
-arcanitegames.ca
+developer.plus.authorize.net
+sandbox.developer.plus.authorize.net
+zabbix.com

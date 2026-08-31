@@ -93,6 +93,7 @@ https://github.com/worldcoin/orb-relay-messages
 https://github.com/worldcoin/orb-rustzone
 https://github.com/worldcoin/orb-secure-element
 https://github.com/worldcoin/orb-software
+https://github.com/okx/go-wallet-sdk
 https://github.com/tronprotocol/java-tron
 https://github.com/evergreen-ci/evergreen
 https://github.com/mongodb-js/mongodb-mcp-server
