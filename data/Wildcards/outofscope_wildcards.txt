@@ -593,6 +593,7 @@ g.*.slackhq.com
 *.configuratoren.nl
 *.zoofy.nl
 *.lxc.liferay.com
+*.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
 *.cpa.iqoption.com

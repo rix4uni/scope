@@ -8,9 +8,6 @@ developers.coindesk.com
 share.acorns.com
 grow.acorns.com
 store.acorns.com
-afterpaytechblog.com
-genderfree.afterpay.com
-moneybyafterpay.com
 aquarium.aiven.io
 uptime.aiven.io
 video.aiven.io
@@ -2832,6 +2829,9 @@ careers.lansweeper.com
 lansweeper.com
 libelle.nl
 login.liferay.com
+community.monzo.com
+login.internal.monzo.com
+monzo.me
 docs.moralis.io
 status.moralis.io
 static.nexuzhealth.com

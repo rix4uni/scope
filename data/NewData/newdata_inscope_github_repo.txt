@@ -1,1 +1,1 @@
-https://github.com/okx/go-wallet-sdk
+https://github.com/brave/*,

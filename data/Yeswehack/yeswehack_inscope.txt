@@ -3,7 +3,6 @@ fcu.eu-west-2.outscale.com
 lbu.eu-west-2.outscale.com
 osu.eu-west-2.outscale.com
 eim.eu-west-2.outscale.com
-icu.eu-west-2.outscale.com
 directlink.eu-west-2.outscale.com
 *.atg.se
 atg.se

@@ -1,7 +1,2 @@
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
-*.yahoo.com
+*.monzo.com
+*.prod-ffs.io

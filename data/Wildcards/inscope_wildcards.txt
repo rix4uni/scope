@@ -1,6 +1,4 @@
 *.acorns.com
-*.afterpay.com
-portalapi.*.afterpay.com
 *app.simple-reports.com
 *.arlo.com
 *.arloxcld.com
@@ -1116,6 +1114,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
