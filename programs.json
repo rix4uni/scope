@@ -2265,20 +2265,6 @@
     "last_updated": "2026-09-01"
   },
   {
-    "name": "Challenge 0826",
-    "program_url": "https://www.intigriti.com/programs/intigriti/challenge0826/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "https://challenge-0826.challenges.intigriti.io"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-01"
-  },
-  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5187,39 +5173,6 @@
     ],
     "outofscope_domains": [
       "Third-party systems or domains referencing Voi"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-01"
-  },
-  {
-    "name": "WP Engine Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "https://app.getflywheel.com",
-      "https://getflywheel.com",
-      "https://my.wpengine.com",
-      "https://payments.wpengine.com",
-      "https://wpengine.com",
-      "*. advancedcustomfields.com",
-      "*. bettersearchreplace.com",
-      "*.deliciousbrains.com",
-      "*.localwp.com",
-      "*.nitropack.io",
-      "*.studiopress.com",
-      "*.wpengine.io",
-      "*.wpesvc.net",
-      "WP Engine-developed WordPress Plugins and Themes",
-      "https://makeshift.film",
-      "https://studiopress.blog",
-      "https://torquemag.io",
-      "https://velocitize.com"
-    ],
-    "outofscope_domains": [
-      "marketing.nitropack.io"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -13403,6 +13356,8 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
+      "https://www.agoda.com/account/agodacash",
+      "https://www.agoda.com/account/cashback",
       "https://www.agoda.com/book/"
     ],
     "outofscope_domains": [],
