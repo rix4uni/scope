@@ -2467,9 +2467,14 @@ github.blog
 education.github.com
 shop.github.com
 spectrum.chat
+groove.wealthsimple.com
 help.wealthsimple.com
+schedule.wealthsimple.com
+start.wealthsimple.com
+status.wealthsimple.com
 support.wealthsimple.com
 tldr-archive.wealthsimple.com
+trust.wealthsimple.com
 work.wealthsimple.com
 blog.zomato.com
 business-blog.zomato.com
