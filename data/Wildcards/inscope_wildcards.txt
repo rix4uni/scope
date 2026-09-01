@@ -270,8 +270,8 @@ np.*.lfscnp.com
 *.squareup.com
 *.statuspage.io
 *.api.t-mobile.com
-*.metrobyt-mobile.com
 *.t-mobile.com
+*.metrobyt-mobile.com
 *.sprint.com
 *.uscc.net
 *.uscc.com

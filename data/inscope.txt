@@ -270,8 +270,8 @@ np.*.lfscnp.com
 *.squareup.com
 *.statuspage.io
 *.api.t-mobile.com
-*.metrobyt-mobile.com
 *.t-mobile.com
+*.metrobyt-mobile.com
 *.sprint.com
 *.uscc.net
 *.uscc.com
@@ -2127,11 +2127,11 @@ squareup.com
 square.online
 weebly.com
 manage.statuspage.io
+t-mobile.com
 account.t-mobile.com
+api.t-mobile.com
 metrobyt-mobile.com
 sprint.com
-t-mobile.com
-api.t-mobile.com
 tfb.t-mobile.com
 devedge.t-mobile.com
 tess.service-now.com
