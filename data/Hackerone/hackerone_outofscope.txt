@@ -2083,6 +2083,9 @@ stat.exnessaffiliates.com
 *.wordpress.com
 wordpress.com
 *wordpress.com
+irclogs.wordpress.org
+lists.wordpress.org
+*.wordpress.org
 status.wordpress.org
 glotpress.blog
 wordpress.tv

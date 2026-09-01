@@ -7697,56 +7697,6 @@
     "last_updated": "2026-09-01"
   },
   {
-    "name": "EPAM Systems Managed Bug Bounty Program",
-    "program_url": "https://bugcrowd.com/engagements/epam-mbb-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$1000",
-    "inscope_domains": [
-      "https://www.epam.com/",
-      "https://*.epam.com",
-      "https://projects.epam.com",
-      "https://lab.epam.com",
-      "https://opensource.epam.com",
-      "*.emakina.nl ",
-      "*.emakina.group",
-      "*.emakina.com",
-      "*.emakina.ch",
-      "*.emakina.fr",
-      "*.emakina.us",
-      "*.emakina.at",
-      "open redirect at *.epam.com",
-      "Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com",
-      "In Scope - Points only"
-    ],
-    "outofscope_domains": [
-      "https://ethics.epam.com/",
-      "https://profile.epam.com",
-      "https://carbon.epam.com/",
-      "https://www.infongen.com/",
-      "http://ebn.epam.com/",
-      "https://solutionshub.epam.com/",
-      "https://www.telescopeai.com/",
-      "https://wearecommunity.io/",
-      "https://cami.lab.epam.com/",
-      "https://ellie.lab.epam.com/",
-      "https://apex.lab.epam.com/",
-      "https://investors.epam.com/",
-      "https://ecsd00300769.epam.com/",
-      "https://display.epam.com/",
-      "https://info.epam.com",
-      "https://admin-ui.preship.gcp.gnrg-osdu.projects.epam.com",
-      "https://support.epam.com/",
-      "https://customersupport.epam.com/",
-      "https://supportnow.epam.com/",
-      "https://anywhere.epam.com/",
-      "https://*buddybot.lab.epam.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-01"
-  },
-  {
     "name": "eToro Managed Bug Bounty Engagement",
     "program_url": "https://bugcrowd.com/engagements/etoro-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -11954,6 +11904,20 @@
     "last_updated": "2026-09-01"
   },
   {
+    "name": "SpaceX/Starlink",
+    "program_url": "https://bugcrowd.com/engagements/spacex",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$100000",
+    "inscope_domains": [
+      "SpaceX and Starlink assets (target information and rewards detailed above on the brief)"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-01"
+  },
+  {
     "name": "Square",
     "program_url": "https://bugcrowd.com/engagements/square",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -13101,7 +13065,7 @@
     "program_url": "https://bugcrowd.com/engagements/wyze",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$2000",
+    "reward": "$5000",
     "inscope_domains": [
       "https://auth.wyze.com",
       "https://my.wyze.com",
@@ -61359,10 +61323,7 @@
       "bbPress Core",
       "codex.wordpress.org,codex.bbpress.org,codex.buddypress.org",
       "doaction.org",
-      "irclogs.wordpress.org",
-      "lists.wordpress.org",
       "mercantile.wordpress.org",
-      "munin-*.wordpress.org",
       "planet.wordpress.org",
       "wordpressfoundation.org"
     ],
@@ -61372,6 +61333,9 @@
       "Archived GitHub repositories",
       "Digital Ocean, AWS, etc",
       "https://github.com/wordpress-mobile/",
+      "irclogs.wordpress.org",
+      "lists.wordpress.org",
+      "munin-*.wordpress.org",
       "org.wordpress.android",
       "status.wordpress.org,glotpress.blog,wordpress.tv"
     ],
