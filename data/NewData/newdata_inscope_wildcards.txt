@@ -1,2 +1,2 @@
-*.monzo.com
-*.prod-ffs.io
+*.afterpay.com
+portalapi.*.afterpay.com
