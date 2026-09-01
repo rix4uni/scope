@@ -1,2 +1,5 @@
-*.afterpay.com
-portalapi.*.afterpay.com
+*.acrobat.adobe.com
+*.lightroom.adobe.com
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch

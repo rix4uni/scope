@@ -1079,9 +1079,11 @@ portal.frontegg.com
 cloud.e.comerica.com
 smallbusiness.comerica.com
 smallbusinessuat.comerica.com
+coaching.supernovas.indrive.com
 servicos.indrive.com
 sinet.startup.indriver
 super-services.indriverapp.com
+supernovas.indrive.com
 engineering.rei.com
 rei.gladly.com
 reicasting.com
@@ -2828,6 +2830,7 @@ trismegistos.org
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+lsagentrelay.lansweeper.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl

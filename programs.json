@@ -1786,6 +1786,60 @@
     "last_updated": "2026-09-01"
   },
   {
+    "name": "Adobe Public",
+    "program_url": "https://www.intigriti.com/programs/adobe/adobepublic/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$15000",
+    "inscope_domains": [
+      "Acrobat PDF Spaces",
+      "Acrobat Create Presentations",
+      "Acrobat Create Podcast",
+      "Acrobat AI Assistant",
+      "Adobe Express AI Assistant",
+      "Lightroom AI Features",
+      "Adobe Firefly AI Features",
+      "Photoshop AI Assistant",
+      "Adobe Stock AI Studio",
+      "Frame.io iOS Application",
+      "Adobe Fresco (iOS)",
+      "Adobe Photoshop Express Mobile App (iOS)",
+      "https://play.google.com/store/apps/details?id=com.adobe.lrmobile&hl=en_GB",
+      "Lightroom Video & Photo Editor (Android)",
+      "Adobe Scan Mobile App (iOS)",
+      "Adobe Scan Mobile App (Android)",
+      "Acrobat Reader Mobile App (iOS)",
+      "Acrobat Reader Mobile App (Android)",
+      "*.acrobat.adobe.com",
+      "stock.adobe.com",
+      "firefly.adobe.com",
+      "Adobe ColdFusion without ColdFusion Administrator",
+      "ColdFusion Administrator",
+      "*.lightroom.adobe.com",
+      "photoshop.adobe.com",
+      "Adobe Commerce, Adobe Commerce B2B and Magento Open Source",
+      "account.magento.com",
+      "commercemarketplace.adobe.com",
+      "repo.magento.com",
+      "magento.com",
+      "learningmanagerstage4.adobe.com",
+      "ColdFusion Administrator",
+      "net.s2stagehance.com",
+      "new.express.adobe.com",
+      "portfolio.ccpsx.com",
+      "fonts.adobe.com",
+      "account.adobe.com",
+      "auth.services.adobe.com",
+      "adobeid-na1.services.adobe.com",
+      "ims-na1.adobelogin.com",
+      "federatedid-na1.services.adobe.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-01"
+  },
+  {
     "name": "Aikido Security: Bug Bounty Program",
     "program_url": "https://www.intigriti.com/programs/aikido/aikido/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -1809,7 +1863,6 @@
     "reward": "€2200",
     "inscope_domains": [
       "myaccount.ad.nl",
-      "webwinkel.ad.nl",
       "www.ad.nl",
       "www.ad.nl/abonnementen",
       "*.ad.nl"
@@ -2519,7 +2572,6 @@
     "reward": "€2200",
     "inscope_domains": [
       "myaccount.demorgen.be",
-      "shop.demorgen.be",
       "www.demorgen.be",
       "www.demorgen.be/abonnementen",
       "*.demorgen.be"
@@ -2544,8 +2596,6 @@
     "reward": "€2200",
     "inscope_domains": [
       "myaccount.volkskrant.nl",
-      "shop.volkskrant.nl",
-      "webwinkel.volkskrant.nl",
       "www.volkskrant.nl",
       "www.volkskrant.nl/abonnementen",
       "*.volkskrant.nl"
@@ -3442,13 +3492,11 @@
     "platform": "Intigriti",
     "reward": "€2000",
     "inscope_domains": [
-      "Lansweeper Discovery",
       "app.lansweeper.com",
       "fb.lansweeper.com",
       "edge.lansweeper.com",
       "api.lansweeper.com",
       "backoffice.lansweeper.com",
-      "https://lsagentrelay.lansweeper.com/",
       "app.lansweeper.com/trial",
       "autoupdateapi.lansweeper.com",
       "docs.lansweeper.com",
@@ -3457,6 +3505,9 @@
       "*.lansweeper.com"
     ],
     "outofscope_domains": [
+      "Lansweeper Classic",
+      "Lansweeper Discovery",
+      "https://lsagentrelay.lansweeper.com/",
       " lsrunase2.0 and lsencrypt2.0 ",
       "careers.lansweeper.com",
       "www.lansweeper.com/forum"
@@ -4306,8 +4357,11 @@
       "*.sbb.ch",
       "Mobile Apps",
       "www.elvetino.ch",
+      "*elvetino.ch",
       "www.sbbcargo.com",
+      "*sbbcargo.com",
       "www.transsicura.ch",
+      "*transsicura.ch",
       "All other Web and mobile APPs owned by SBB ",
       "All other SBB owned IT assets"
     ],
@@ -22699,7 +22753,6 @@
       "co-cf.*.aws.indriverapp.com",
       "co-gw-cf.*.aws.indriverapp.com",
       "co-in-gw-cf.*.aws.indriverapp.com",
-      "coaching.supernovas.indrive.com",
       "courier-cf.*.aws.indriverapp.com",
       "couriers.indrive.com",
       "debug.clairvoyance.indrive.tech",
@@ -22790,14 +22843,15 @@
       "wd2*.indriverapp.com",
       "web.ryadom.kz",
       "wga.volans.tech",
-      "wlr-cf.*.aws.indriverapp.com",
-      "www.supernovas.indrive.com"
+      "wlr-cf.*.aws.indriverapp.com"
     ],
     "outofscope_domains": [
       "bus.*.indrive.com",
+      "coaching.supernovas.indrive.com",
       "servicos.indrive.com",
       "sinet.startup.inDriver",
-      "super-services.indriverapp.com"
+      "super-services.indriverapp.com",
+      "www.supernovas.indrive.com"
     ],
     "issues_reported": [],
     "scamhit": "",
