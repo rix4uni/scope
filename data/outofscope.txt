@@ -565,7 +565,6 @@ g.*.slackhq.com
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
 *.virtualworld-portal.buhlergroup.com
@@ -3634,7 +3633,6 @@ info.coindcx.com
 otcdesk.coindcx.com
 careers.coindcx.com
 bounty.cryptobox.com
-cybermalveillance.gouv.fr
 webdev.dana.id
 wp.dana.id
 fiat.dana.id

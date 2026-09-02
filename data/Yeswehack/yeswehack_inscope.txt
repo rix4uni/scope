@@ -42,7 +42,6 @@ cyberghost.com
 cyberghost.app
 api.cyberghostvpn.com
 cyberghostvpn.com
-pprd.cybermalveillance.gouv.fr
 m.dana.id
 mgs.dana.id
 shoppingapp.decathlon.com

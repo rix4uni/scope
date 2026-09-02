@@ -27,7 +27,6 @@ careers.coindcx.com
 bounty.cryptobox.com
 *.cryptobox.com
 *.ercom.fr
-cybermalveillance.gouv.fr
 webdev.dana.id
 wp.dana.id
 fiat.dana.id

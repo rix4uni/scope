@@ -2981,7 +2981,6 @@ info.coindcx.com
 otcdesk.coindcx.com
 careers.coindcx.com
 bounty.cryptobox.com
-cybermalveillance.gouv.fr
 webdev.dana.id
 wp.dana.id
 fiat.dana.id
