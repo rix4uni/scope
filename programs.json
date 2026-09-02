@@ -6750,13 +6750,13 @@
     "platform": "Bugcrowd",
     "reward": "$5000",
     "inscope_domains": [
-      "https://github.com/afterpay/sdk-ios",
-      "https://github.com/afterpay/sdk-android",
-      "https://github.com/cashapp/cash-app-pay-ios-sdk",
-      "https://github.com/cashapp/cash-app-pay-android-sdk",
-      "https://github.com/cashapp/hermit",
-      "https://github.com/cashapp/misk",
-      "https://github.com/square/wire"
+      "███████████████████████████████████",
+      "███████████████████████████████████████",
+      "███████████████████████████████████████████████",
+      "███████████████████████████████████████████████████",
+      "█████████████████████████████████",
+      "███████████████████████████████",
+      "██████████████████████████████"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -12070,6 +12070,20 @@
     "last_updated": "2026-09-02"
   },
   {
+    "name": "SpaceX/Starlink",
+    "program_url": "https://bugcrowd.com/engagements/spacex",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$100000",
+    "inscope_domains": [
+      "SpaceX and Starlink assets (target information and rewards detailed above on the brief)"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-02"
+  },
+  {
     "name": "Square",
     "program_url": "https://bugcrowd.com/engagements/square",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -13031,22 +13045,6 @@
       "partnerresources.viator.com",
       "api.tapayments.com",
       "*.rc.viatorinc.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-02"
-  },
-  {
-    "name": "Volkswagen ",
-    "program_url": "https://bugcrowd.com/engagements/volkswagen-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$2500",
-    "inscope_domains": [
-      "*.volkswagen.de"
-    ],
-    "outofscope_domains": [
-      "https://erwin.volkswagen.de"
     ],
     "issues_reported": [],
     "scamhit": "",
