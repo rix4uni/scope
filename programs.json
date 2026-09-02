@@ -8269,6 +8269,29 @@
     "last_updated": "2026-09-02"
   },
   {
+    "name": "Hypixel Studios Managed Bug Bounty Engagement",
+    "program_url": "https://bugcrowd.com/engagements/hypixel-studios-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$25000",
+    "inscope_domains": [
+      "Hypixel Public APIs",
+      "Hytale Game Client",
+      "Hytale Game Server",
+      "Hytale Launcher",
+      "https://accounts.hytale.com/login",
+      "https://store.hytale.com/",
+      "https://hytale.com/",
+      "3rd Party Integrations (Hytale-side issues only)",
+      "https://hytale.dev/",
+      "http://arcanitegames.ca/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-02"
+  },
+  {
     "name": "Ibotta",
     "program_url": "https://bugcrowd.com/engagements/ibotta",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -9691,30 +9714,6 @@
     "outofscope_domains": [
       "Vulnerabilities related to web-app related issues"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-02"
-  },
-  {
-    "name": "Move Work Forward",
-    "program_url": "https://bugcrowd.com/engagements/moveworkforward",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$1500",
-    "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1231122/azure-devops-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1216348/microsoft-teams-confluence-connector?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1222079/microsoftteams-confluence-connector-lite?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1216325/microsoft-teams-jira-connector?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1216106/github-links-for-confluence?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1217566/github-links-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1223149/azure-devops-confluence-connector?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1216286/gitlab-for-confluence?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1216286/gitlab-for-confluence?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1233491/google-chat-for-jira?tab=overview&hosting=cloud",
-      "https://marketplace.atlassian.com/apps/1236139/capybara-github-azure-devops-for-jira-service-management?hosting=cloud&tab=overview"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-02"
@@ -14375,6 +14374,7 @@
       "*.digital.canada.ca",
       "*.notification.canada.ca",
       "*.numerique.canada.ca",
+      "api.forms-formulaires.alpha.canada.ca",
       "api.login-connexion.canada.ca",
       "api.migration.login-connexion.canada.ca",
       "app.login-connexion.canada.ca",
@@ -14387,7 +14387,8 @@
       "forms-formulaires.alpha.canada.ca",
       "gciv-dvgc.alpha.canada.ca",
       "issue-verify.alpha.canada.ca",
-      "talent.canada.ca"
+      "talent.canada.ca",
+      "validate-email.cdssandbox.xyz"
     ],
     "outofscope_domains": [
       "*.cdssandbox.xyz",
@@ -22018,8 +22019,7 @@
       "https://oneview.truist.com",
       "https://teammate.digitalcommerce.truist.com/",
       "https://trade.digitalcommerce.truist.com",
-      "https://trade.digitalcommerce.truist.com/",
-      "investments.truist.com"
+      "https://trade.digitalcommerce.truist.com/"
     ],
     "outofscope_domains": [
       "*.truist.com",
@@ -42460,6 +42460,7 @@
       "cafignition.mfg-mfgiot-prod-vpn.us.e11.c01.johndeerecloud.com",
       "cag.services.wirtgen-group.com",
       "cagnotoken.services.wirtgen-group.com",
+      "calculadora.deere.com.br",
       "calendar.harvestprofit.com",
       "calendar.sentera.com",
       "california.bluerivertech.com",
