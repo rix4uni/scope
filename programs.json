@@ -13739,6 +13739,8 @@
       "com.getyourguide.android",
       "com.getyourguide.mobile.GetYourGuide",
       "https://partner-public.getyourguide.com/graphql",
+      "integrator-portal-api.getyourguide.com",
+      "integrator.getyourguide.com",
       "partner.getyourguide.com",
       "supplier-api.getyourguide.com",
       "supplier-support.getyourguide.com",
