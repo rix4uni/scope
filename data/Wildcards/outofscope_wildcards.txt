@@ -16,6 +16,8 @@
 *.freshdesk.com
 *.bullish.com
 *.cisco.com
+*buddybot.lab.epam.com
+*.buddybot.lab.epam.com
 *.db.fivetran.com
 *.hostgator.com.br
 *.hostgator.mx

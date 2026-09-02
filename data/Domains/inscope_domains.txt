@@ -182,6 +182,10 @@ partycasino.com
 bwin.com
 media.itsfogo.com
 galacasino.com
+epam.com
+projects.epam.com
+lab.epam.com
+opensource.epam.com
 etoropartners.com
 delta.app
 etorox.com
