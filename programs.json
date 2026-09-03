@@ -468,25 +468,6 @@
     "last_updated": "2026-09-03"
   },
   {
-    "name": "Dovecot",
-    "program_url": "https://yeswehack.com/programs/dovecot",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$5000",
-    "inscope_domains": [
-      "Dovecot IMAP Server and Pigeonhole SIEVE (see \"Software packages\" and \"Source code\")"
-    ],
-    "outofscope_domains": [
-      "All content which is not listed as \"Scopes\", especially any production system operated by customers",
-      "\"Scopes\" in this program refer to the binary packages and source-code provided there, the systems providing those artefacts are out of scope",
-      "Everything that is not directly related to the application or source-code in scope (e.g. GitHub, domain settings)",
-      "Bugs that require filesystem level access to modify content to cause data corruption or path traversal issues as out of scope."
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-03"
-  },
-  {
     "name": "ExpressVPN - Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/expressvpn-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -5714,29 +5695,6 @@
     "last_updated": "2026-09-03"
   },
   {
-    "name": "CoinDesk Data - Data API ",
-    "program_url": "https://bugcrowd.com/engagements/CCData-mbb-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$7500",
-    "inscope_domains": [
-      "http://data-api.coindesk.com/",
-      "https://tools-api.cryptocompare.com/"
-    ],
-    "outofscope_domains": [
-      "https://www.coindesk.com/",
-      "https://uat.coindesk.com/",
-      "https://events.coindesk.com",
-      "https://consensus2025.coindesk.com/",
-      "https://consensus-hongkong2025.coindesk.com/",
-      "https://data.coindesk.com/",
-      "https://developers.coindesk.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-03"
-  },
-  {
     "name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
     "program_url": "https://bugcrowd.com/engagements/FindOut-infovis",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -6516,6 +6474,50 @@
       "https://www.barracuda.com/products/cloudgenfirewall"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "name": "Binance",
+    "program_url": "https://bugcrowd.com/engagements/binance",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$10000",
+    "inscope_domains": [
+      "api.coinmarketcap.com",
+      "pro-api.coinmarketcap.com",
+      "https://www.binance.com/",
+      "Binance Desktop Application",
+      "Binance Mobile Application for Android",
+      "Binance Mobile Application for iOS",
+      "api.binance.com",
+      "Binance macOS Application",
+      "pro.coinmarketcap.com",
+      "CoinMarketCap Android app",
+      "Trustwallet Android App",
+      "Trustwallet iOS App",
+      "https://github.com/trustwallet/wallet-core/",
+      "CoinMarketCap iOS app",
+      "portal-api.coinmarketcap.com",
+      "coinmarketcap.com",
+      "3rdparty-apis.coinmarketcap.com",
+      "https://www.binance.us/",
+      "https://binance.tr",
+      "Trustwallet Chrome Extension"
+    ],
+    "outofscope_domains": [
+      "jobs.coinmarketcap.com",
+      "support.binance.*",
+      "binance.sg",
+      "*.trustwallet.com",
+      "*.trustwalletapp.com",
+      "*.binance.org",
+      "blog.coinmarketcap.com",
+      "support.coinmarketcap.com",
+      "blockchain.coinmarketcap.com",
+      "*.coinmarketcap.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-03"
@@ -58530,6 +58532,22 @@
       "life.instacart.com",
       "news.instacart.com",
       "tech.instacart.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "name": "phpBB",
+    "program_url": "https://hackerone.com/phpbb",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "https://github.com/phpbb/phpbb"
+    ],
+    "outofscope_domains": [
+      "www.phpbb.com"
     ],
     "issues_reported": [],
     "scamhit": "",

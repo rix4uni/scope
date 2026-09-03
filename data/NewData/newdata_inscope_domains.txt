@@ -1,5 +1,10 @@
-accounts.hytale.com
-store.hytale.com
-hytale.com
-hytale.dev
-arcanitegames.ca
+api.coinmarketcap.com
+pro-api.coinmarketcap.com
+binance.com
+api.binance.com
+pro.coinmarketcap.com
+portal-api.coinmarketcap.com
+coinmarketcap.com
+3rdparty-apis.coinmarketcap.com
+binance.us
+binance.tr
