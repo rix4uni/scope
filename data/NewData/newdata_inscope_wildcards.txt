@@ -1,2 +1,7 @@
-*.binance.com
-*.binance.us
+*.datacamp.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net

@@ -1768,7 +1768,7 @@
       "Frame.io iOS Application",
       "Adobe Fresco (iOS)",
       "Adobe Photoshop Express Mobile App (iOS)",
-      "https://play.google.com/store/apps/details?id=com.adobe.lrmobile&hl=en_GB",
+      "Lightroom Video & Photo Editor (IOS)",
       "Lightroom Video & Photo Editor (Android)",
       "Adobe Scan Mobile App (iOS)",
       "Adobe Scan Mobile App (Android)",
@@ -1777,8 +1777,6 @@
       "*.acrobat.adobe.com",
       "stock.adobe.com",
       "firefly.adobe.com",
-      "Adobe ColdFusion without ColdFusion Administrator",
-      "ColdFusion Administrator",
       "*.lightroom.adobe.com",
       "photoshop.adobe.com",
       "Adobe Commerce, Adobe Commerce B2B and Magento Open Source",
@@ -1798,7 +1796,10 @@
       "ims-na1.adobelogin.com",
       "federatedid-na1.services.adobe.com"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "Adobe ColdFusion without ColdFusion Administrator",
+      "ColdFusion Administrator"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-03"
@@ -2524,6 +2525,48 @@
       "Out of Scope"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-03"
@@ -5282,6 +5325,39 @@
     ],
     "outofscope_domains": [
       "Third-party systems or domains referencing Voi"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "name": "WP Engine Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "https://app.getflywheel.com",
+      "https://getflywheel.com",
+      "https://my.wpengine.com",
+      "https://payments.wpengine.com",
+      "https://wpengine.com",
+      "*. advancedcustomfields.com",
+      "*. bettersearchreplace.com",
+      "*.deliciousbrains.com",
+      "*.localwp.com",
+      "*.nitropack.io",
+      "*.studiopress.com",
+      "*.wpengine.io",
+      "*.wpesvc.net",
+      "WP Engine-developed WordPress Plugins and Themes",
+      "https://makeshift.film",
+      "https://studiopress.blog",
+      "https://torquemag.io",
+      "https://velocitize.com"
+    ],
+    "outofscope_domains": [
+      "marketing.nitropack.io"
     ],
     "issues_reported": [],
     "scamhit": "",
