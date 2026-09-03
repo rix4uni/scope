@@ -5714,6 +5714,29 @@
     "last_updated": "2026-09-03"
   },
   {
+    "name": "CoinDesk Data - Data API ",
+    "program_url": "https://bugcrowd.com/engagements/CCData-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$7500",
+    "inscope_domains": [
+      "http://data-api.coindesk.com/",
+      "https://tools-api.cryptocompare.com/"
+    ],
+    "outofscope_domains": [
+      "https://www.coindesk.com/",
+      "https://uat.coindesk.com/",
+      "https://events.coindesk.com",
+      "https://consensus2025.coindesk.com/",
+      "https://consensus-hongkong2025.coindesk.com/",
+      "https://data.coindesk.com/",
+      "https://developers.coindesk.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
     "name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
     "program_url": "https://bugcrowd.com/engagements/FindOut-infovis",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -5913,6 +5936,34 @@
       "support.aiven.io",
       "Creation of support tickets"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "name": "Akeles Marketplace Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/akeles",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1214613/multiple-filters-chart-gadget?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1211976/gauge-gadget?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1211314/three-dimensional-date-gadgets?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1225375/site-statistics-for-jira-cloud?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223780/tissue-table-of-linked-issues?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1229447/site-statistics-for-confluence-cloud?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1211116/countdown-timer?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1217056/canned-search-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1217224/countdown-gadget?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1215764/calendar-heatmap-gadget?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1214394/menu-gadget?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224848/banners-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1237524/dashboard-assistant-for-jira-cloud?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1238098/project-access-review-for-jira-cloud?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1238069/file-type-checker-for-jira-cloud?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-03"
@@ -6465,50 +6516,6 @@
       "https://www.barracuda.com/products/cloudgenfirewall"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-03"
-  },
-  {
-    "name": "Binance",
-    "program_url": "https://bugcrowd.com/engagements/binance",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$10000",
-    "inscope_domains": [
-      "api.coinmarketcap.com",
-      "pro-api.coinmarketcap.com",
-      "https://www.binance.com/",
-      "Binance Desktop Application",
-      "Binance Mobile Application for Android",
-      "Binance Mobile Application for iOS",
-      "api.binance.com",
-      "Binance macOS Application",
-      "pro.coinmarketcap.com",
-      "CoinMarketCap Android app",
-      "Trustwallet Android App",
-      "Trustwallet iOS App",
-      "https://github.com/trustwallet/wallet-core/",
-      "CoinMarketCap iOS app",
-      "portal-api.coinmarketcap.com",
-      "coinmarketcap.com",
-      "3rdparty-apis.coinmarketcap.com",
-      "https://www.binance.us/",
-      "https://binance.tr",
-      "Trustwallet Chrome Extension"
-    ],
-    "outofscope_domains": [
-      "jobs.coinmarketcap.com",
-      "support.binance.*",
-      "binance.sg",
-      "*.trustwallet.com",
-      "*.trustwalletapp.com",
-      "*.binance.org",
-      "blog.coinmarketcap.com",
-      "support.coinmarketcap.com",
-      "blockchain.coinmarketcap.com",
-      "*.coinmarketcap.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-03"
@@ -7816,6 +7823,20 @@
       "https://anywhere.epam.com/",
       "https://*buddybot.lab.epam.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "name": "APTIS",
+    "program_url": "https://bugcrowd.com/engagements/epicsumup",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1213091/esu-sum-up-kpi-budget-reporting-project-epic-overview?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-03"
@@ -10005,6 +10026,20 @@
     "last_updated": "2026-09-03"
   },
   {
+    "name": "Okapya",
+    "program_url": "https://bugcrowd.com/engagements/okapya",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
     "name": "Okta",
     "program_url": "https://bugcrowd.com/engagements/okta",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -11689,6 +11724,21 @@
     "last_updated": "2026-09-03"
   },
   {
+    "name": "Shinetech Software Inc Marketplace Managed Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/shinetech-software-market",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table-of-contents?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table-of-contents?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
     "name": "Shipwire",
     "program_url": "https://bugcrowd.com/engagements/shipwire",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -13255,6 +13305,20 @@
       "██████████████",
       "████████████████████████████"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-03"
+  },
+  {
+    "name": "Xopero Software S.A. Marketplace Managed Bug Bounty Engagement",
+    "program_url": "https://bugcrowd.com/engagements/xopero-software-marketplace",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-03"

@@ -8,7 +8,6 @@ https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/auth0-java
 https://github.com/auth0/react-native-auth0
 https://github.com/auth0/auth0-php
-https://github.com/trustwallet/wallet-core
 https://github.com/ClickHouse/ClickHouse
 https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
