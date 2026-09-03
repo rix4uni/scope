@@ -1,4 +1,3 @@
-*.datacamp.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
