@@ -1081,6 +1081,7 @@ tfb.t-mobile.com
 devedge.t-mobile.com
 tess.service-now.com
 digits.t-mobile.com
+account.business.t-mobile.com
 *.t-mobile.com
 *.metrobyt-mobile.com
 *.sprint.com

@@ -1083,8 +1083,6 @@ vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
 vodafone.om
-api.au.frontegg.com
-portal.au.frontegg.com
 *.indrive.com
 *.indriver.com
 *.indriverapp.com
