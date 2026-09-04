@@ -1652,6 +1652,7 @@ paypal.cn
 paypal.vulbox.com
 braintree.com
 gopay.com
+paypal-support.com
 cbswag.com
 status.chaturbate.com
 support.chaturbate.com
