@@ -1127,16 +1127,6 @@ volans.tech
 watchdocs.indriverapp.com
 web.ryadom.kz
 wga.volans.tech
-a4k.amazon.com
-alexa.amazon.com
-alexaanswers.amazon.com
-api.amazonalexa.com
-blueprints.amazon.com
-creator.amazon.com
-developer.amazon.com
-luna.amazon.com
-read.amazon.com
-skills-store.amazon.com
 rei.com
 collaboration.rei.com
 login.rei.com
