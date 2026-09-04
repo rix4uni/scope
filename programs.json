@@ -354,46 +354,6 @@
     "last_updated": "2026-09-04"
   },
   {
-    "name": "Deezer Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/deezer-bug-bounty-program-2019",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$2500",
-    "inscope_domains": [
-      "www.deezer.com",
-      "connect.deezer.com",
-      "api.deezer.com",
-      "payment.deezer.com",
-      "https://play.google.com/store/apps/details?id=deezer.android.app",
-      "https://apps.apple.com/fr/app/deezer-musique-podcast/id292738169",
-      "zen.deezer.com",
-      "wellbeing.deezer.com",
-      "wellbeing.dzcdn.net",
-      "https://play.google.com/store/apps/details?id=com.deezer.zen",
-      "https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355",
-      "account.deezer.com",
-      "pipe.deezer.com",
-      "ws.deezer.com",
-      "upload.deezer.com"
-    ],
-    "outofscope_domains": [
-      "developers.deezer.com",
-      "partners.deezer.com",
-      "cdn-files.deezer.com",
-      "cdn-content.deezer.com",
-      "support.deezer.com",
-      "deezercommunity.com",
-      "deezer-blog.com",
-      "deezer-brandsolutions.com",
-      "deezerjobs.com",
-      "desktop apps (electron)",
-      "All domains or subdomains not listed in the above list of 'Scopes'"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-04"
-  },
-  {
     "name": "Doctolib",
     "program_url": "https://yeswehack.com/programs/doctolib-public-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -1259,25 +1219,6 @@
       "The following asset is not in scope but allows creation of an account without verification:",
       "https://poc-op-ywh.it.authentification.si.gouv.qc.ca/"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-04"
-  },
-  {
-    "name": "Qwant",
-    "program_url": "https://yeswehack.com/programs/qwant",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$5000",
-    "inscope_domains": [
-      "www.qwant.com",
-      "api.qwant.com",
-      "s.qwant.com",
-      "s1.qwant.com",
-      "s2.qwant.com",
-      "qwantjunior.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-04"
@@ -29748,13 +29689,11 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
-      "*.api.cx.metamask.io",
       "MetaMask Browser Extension",
       "MetaMask SDK",
       "Snaps",
       "Third Party Snaps",
       "api-wallet.web3auth.io",
-      "https://*.metamask.io",
       "https://metamask.github.io/phishing-warning/<vX.Y.Z>",
       "io.metamask",
       "io.metamask.Metamask",
@@ -29765,6 +29704,7 @@
       "wallet.web3auth.io"
     ],
     "outofscope_domains": [
+      "*.api.cx.metamask.io",
       "Core Tier Assets",
       "Message signing snap",
       "Metamask Flask Extension",
@@ -29776,6 +29716,7 @@
       "community.metamask.io",
       "dashboard.web3auth.io",
       "developer.metamask.io",
+      "https://*.metamask.io",
       "https://github.com/Web3Auth/web3auth-web",
       "https://metamask.github.io/",
       "https://mmi-support.metamask.io/",
@@ -42291,6 +42232,7 @@
       "artifactory.bluerivertech.com",
       "asicprofile.deere.com",
       "asnpro.deere.com",
+      "asnpromcp-prod.deere.com",
       "assets.harvestprofit.com",
       "atlantis.spark.ai",
       "atpqual.tal.deere.com",
@@ -42354,6 +42296,7 @@
       "bhp.dev.myvirtualsuper.com",
       "bim-dev.witos.wirtgen-group.com",
       "bim.witos.wirtgen-group.com",
+      "biomcp.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com",
       "blueriver.ai",
       "bluerivert.com",
       "bluerivertech.com",

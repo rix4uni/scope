@@ -1149,12 +1149,10 @@ api.notion.com
 calendar.notion.so
 mail.notion.so
 notion.id
-*.api.cx.metamask.io
 metamask.io
 docs.metamask.io
 snaps.metamask.io
 api-wallet.web3auth.io
-*.metamask.io
 metamask.github.io
 io.metamask
 io.metamask.metamask

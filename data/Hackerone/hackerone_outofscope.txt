@@ -546,15 +546,14 @@ moderntreasury.com
 bigstockphoto.fr
 ofcourse.com
 onrender.com
+*.api.cx.metamask.io
 metamask.io
 metamask.github.io
 signature-insights.api.cx.metamask.io
-*.api.cx.metamask.io
 testing.md
 loom.com
 chrome.google.com
 snaps.metamask.io
-*.metamask.io
 io.metamask.metamask
 io.metamask
 api-dashboard.web3auth.io
@@ -565,6 +564,7 @@ community.metamask.io
 hackerone.com
 dashboard.web3auth.io
 developer.metamask.io
+*.metamask.io
 mmi-support.metamask.io
 support.metamask.io
 user-storage.api.cx.metamask.io
