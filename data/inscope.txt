@@ -346,10 +346,6 @@ sip.*.twilio.com
 *.verilyme.com
 *.varonis.com
 *.varonis.io
-*.klarna.com
-*.klarna.net
-*.klarnacdn.net
-*.pricerunner.com
 *.uat.unico.app
 *.nflxext.com
 *.nflximg.net
@@ -1041,6 +1037,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -3024,8 +3021,6 @@ downloads.varonis.com
 licensemgmt.varonis.com
 my.varonis.com
 support.varonis.com
-portal.playground.klarna.com
-app.klarna.com
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
@@ -5105,6 +5100,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 demorgen.be
 myaccount.volkskrant.nl

@@ -1379,8 +1379,6 @@
       "https://service.post.ch/zopa/app/",
       "https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US",
       "https://apps.apple.com/ch/app/die-post/id378676700",
-      "https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8",
-      "https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en",
       "https://billingonline.post.ch/OnlinePayment/Web/v1/BOI",
       "https://service.post.ch/ele-klp/ele/"
     ],
@@ -1389,6 +1387,7 @@
       "Attacks on administrative and surrounding systems that are not used for the in-scope services are not permitted (this includes DNS, NTP, routers, systems of the ISP, etc.).",
       "The alternative login (https://login.swissid.ch) is out of scope. It also leads to the in-scope service, (https://account.post.ch) but we have designated it as out of scope.",
       "Any services related to Incamail (for example https://incamail-dev.post.ch (194.41.248.224) and https://incamail-test.post.ch (194.41.248.58))",
+      "Any services related to PostCardCreator (for example https://service.post.ch/pccweb, mobile apps and https://pccweb.api.post.ch)",
       "Please note that some of the applications may contain links or redirect you away from the URIs described in the scope section. This means you are leaving the scope if you follow these links / redirects."
     ],
     "issues_reported": [],
@@ -2525,6 +2524,48 @@
       "Out of Scope"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-04"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-04"
@@ -20259,36 +20300,6 @@
     ],
     "outofscope_domains": [
       "issue-management.iontrading.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-04"
-  },
-  {
-    "name": "Klarna",
-    "program_url": "https://hackerone.com/klarna",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "*.klarna.com",
-      "*.klarna.net",
-      "*.klarnacdn.net",
-      "*.pricerunner.com",
-      "Klarna Android App (com.myklarnamobile)",
-      "Klarna iOS App (com.klarna.app)",
-      "Merchant Portal",
-      "app.klarna.com"
-    ],
-    "outofscope_domains": [
-      "Kustom",
-      "https://api-stage.pricerunner.com/swagger-ui.html",
-      "https://api-us.pricerunner.com/swagger-ui.html",
-      "https://api.pricerunner.com/swagger-ui.html",
-      "https://app.klarna.com/us/api/connected_card_bff/",
-      "jobs.pricerunner.com",
-      "locker.klarna.com",
-      "nuji.com"
     ],
     "issues_reported": [],
     "scamhit": "",

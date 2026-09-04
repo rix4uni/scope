@@ -635,12 +635,6 @@ downloads.varonis.com
 licensemgmt.varonis.com
 my.varonis.com
 support.varonis.com
-*.klarna.com
-*.klarna.net
-*.klarnacdn.net
-*.pricerunner.com
-portal.playground.klarna.com
-app.klarna.com
 *.uat.unico.app
 sdk-h1.unico.io
 accountshomolog.acesso.io

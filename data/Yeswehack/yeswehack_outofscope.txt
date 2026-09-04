@@ -149,6 +149,8 @@ login.swissid.ch
 account.post.ch
 incamail-dev.post.ch
 incamail-test.post.ch
+service.post.ch
+pccweb.api.post.ch
 *.bbcust.telenor.se
 *.cust.telenor.se
 *.sme.telenor.se

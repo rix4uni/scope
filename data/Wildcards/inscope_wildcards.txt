@@ -346,10 +346,6 @@ sip.*.twilio.com
 *.verilyme.com
 *.varonis.com
 *.varonis.io
-*.klarna.com
-*.klarna.net
-*.klarnacdn.net
-*.pricerunner.com
 *.uat.unico.app
 *.nflxext.com
 *.nflximg.net
@@ -1041,6 +1037,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
