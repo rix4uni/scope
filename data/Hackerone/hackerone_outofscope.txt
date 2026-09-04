@@ -2410,6 +2410,7 @@ status.gitlab.com
 support.gitlab.com
 translate.gitlab.com
 us-federal-gitlab.com
+*.plugins.realtime.cloudflare.com
 developers.cloudflare.com
 api.staging.realtime.cloudflare.com
 app.dyte.io

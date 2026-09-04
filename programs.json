@@ -21547,10 +21547,6 @@
       "https://www.visa.com.ua/",
       "images.demand.cybersource.com",
       "info.authorize.net",
-      "merchantsignage.visa.com",
-      "merchantsignageca.visa.com",
-      "merchantsignageeu.visa.com",
-      "merchantsignageglobal.visa.com",
       "my.visa.fr",
       "myanmar.visa.com",
       "myvu.visauniversity.com",
@@ -63055,6 +63051,7 @@
       "one.dash.cloudflare.com"
     ],
     "outofscope_domains": [
+      "*.plugins.realtime.cloudflare.com",
       "172.65.0.0/16 ",
       "Turnstile",
       "api.staging.realtime.cloudflare.com",

@@ -545,6 +545,7 @@ online.*.skybingo.com
 *.gitlab.cn
 *.runway.gitlab.net
 *.service-now.com
+*.plugins.realtime.cloudflare.com
 *.crowdsignal.net
 *.poll.fm
 *.survey.fm
