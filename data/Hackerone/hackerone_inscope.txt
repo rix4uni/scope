@@ -2810,6 +2810,7 @@ secure.plaid.com
 *.semrush.net
 *.seoab.io
 *.seoquake.com
+semrush.com
 *.quora.com
 help.quora.com
 careers.quora.com
