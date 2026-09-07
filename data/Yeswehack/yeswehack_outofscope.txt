@@ -153,6 +153,7 @@ tc.ownit.se
 faq.vimla.se
 status.vimla.se
 stage-vimla-se.vimla.io
+admin-stage.tv.telenor.se
 *.telenor.com
 *.qzoneapp.com
 myqcloud.com

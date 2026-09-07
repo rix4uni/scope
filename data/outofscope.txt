@@ -3032,6 +3032,7 @@ svn.dyson.com
 test.oepay.dyson.cn
 view.dyson.com
 dyson.ovh
+hg.weblate.org
 help.lyst.com
 domainkey.kiwi.com
 domainkey.skypicker.com
@@ -3524,6 +3525,9 @@ posti.fi
 pen-app.entrili.com
 exams.ripe.net
 ripe.net
+apps.randstad.in
+cz.randstad.com
+workplace.randstad.in
 assets.rivian.com
 careers.rivian.com
 demovehicles.rivian.com
@@ -3732,6 +3736,7 @@ tc.ownit.se
 faq.vimla.se
 status.vimla.se
 stage-vimla-se.vimla.io
+admin-stage.tv.telenor.se
 myqcloud.com
 cloud.tencent.com
 india-usa.vfsglobal.com

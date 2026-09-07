@@ -1396,12 +1396,12 @@
       "ownit.se",
       "*.foretagsportalen.telenor.se",
       "*.mittforetag.telenor.se",
-      "*.stream.telenor.se",
       "https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en",
       "https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en",
       "*.play.ownit.se",
       "*.inpli.se",
       "*.telenorinpli.se",
+      "*.stream.telenor.se",
       "*.telenor.se",
       "*.vimla.work",
       "*.vimla.se",
@@ -1422,6 +1422,7 @@
       "faq.vimla.se",
       "status.vimla.se",
       "stage-vimla-se.vimla.io",
+      "admin-stage.tv.telenor.se",
       "Any domain that looks like it's owned by a third party or customer due to customer's privacy",
       "Mobile services and devices provided by Telenor Sweden and subsidiaries not reachable from Internet",
       "Other business units of the Telenor Group - including *.telenor.com"
@@ -4188,6 +4189,27 @@
     "last_updated": "2026-09-07"
   },
   {
+    "name": "Randstad",
+    "program_url": "https://www.intigriti.com/programs/randstad/randstad/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.randstad.*",
+      "*.randstadrisesmart.*",
+      "*.risesmart.*",
+      "Any related Randstad domain"
+    ],
+    "outofscope_domains": [
+      "apps.randstad.in",
+      "cz.randstad.com",
+      "workplace.randstad.in"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-07"
+  },
+  {
     "name": "Red Bull",
     "program_url": "https://www.intigriti.com/programs/redbull/redbull/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5019,39 +5041,6 @@
       "login.venly.io",
       "wallet.venly.io",
       "api-wallet-sandbox.venly.io"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-07"
-  },
-  {
-    "name": "Visma",
-    "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€7500",
-    "inscope_domains": [
-      "564141518",
-      "accountsettings.connect.identity.stagaws.visma.com",
-      "admin.stage.vismaonline.com",
-      "aiassistant.stage.vismaonline.com",
-      "api.workbox.dk",
-      "app.workbox.dk",
-      "authz.workbox.dk",
-      "com.visma.blue",
-      "connect.identity.stagaws.visma.com",
-      "eaccounting.stage.vismaonline.com",
-      "eaccountingprinting.stage.vismaonline.com",
-      "identity.stage.vismaonline.com",
-      "myservices-api.stage.vismaonline.com",
-      "myservices.stage.vismaonline.com",
-      "oauth.developers.stagaws.visma.com",
-      "photoservice.stage.vismaonline.com",
-      "ai-testing.maventa.com",
-      "ax-stage.maventa.com",
-      "autointerface.stag.visma.net",
-      "testing.maventa.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -9387,9 +9376,9 @@
     "reward": "$1500",
     "inscope_domains": [
       "https://marketplace.atlassian.com/apps/4977/email-this-issue?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview&hosting=cloud",
       "https://marketplace.atlassian.com/apps/1219628/glass-project-documentation-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview&hosting=cloud",
       "https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-confluence?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1229346/marketplace-integration-for-jira?tab=overview&hosting=cloud",
       "https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud&tab=overview"
@@ -58622,6 +58611,7 @@
       "*.mercadolibre.com.mx",
       "*.mercadolibre.com.pe",
       "*.mercadolibre.com.uy",
+      "*.mercadolibre.com.ve",
       "*.mercadolivre.com.br",
       "*.mercadopago.cl",
       "*.mercadopago.com",
@@ -58632,6 +58622,7 @@
       "*.mercadopago.com.pe",
       "*.mercadopago.com.uy",
       "*.mlstatic.com",
+      "*.tucarro.com.ve",
       "Crypto",
       "Leaked Credentials",
       "Point Smart",
@@ -58675,6 +58666,7 @@
       "tucarro.com",
       "tucarro.com.co",
       "tumoto.com",
+      "www.ipbooster.com",
       "www.mercadolibre.co.cr",
       "www.mercadolibre.com.bo",
       "www.mercadolibre.com.do",
@@ -60966,6 +60958,28 @@
       "test.oepay.dyson.cn",
       "view.dyson.com",
       "www.dyson.ovh"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "name": "Weblate",
+    "program_url": "https://hackerone.com/weblate",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "hosted.weblate.org",
+      "https://github.com/WeblateOrg/docker",
+      "https://github.com/WeblateOrg/translation-finder",
+      "https://github.com/WeblateOrg/weblate",
+      "https://github.com/WeblateOrg/website",
+      "https://github.com/WeblateOrg/wlc"
+    ],
+    "outofscope_domains": [
+      "github.com",
+      "hg.weblate.org"
     ],
     "issues_reported": [],
     "scamhit": "",
