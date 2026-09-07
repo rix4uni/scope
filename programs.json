@@ -6301,23 +6301,6 @@
     "last_updated": "2026-09-07"
   },
   {
-    "name": "Balsamiq for Atlassian Products",
-    "program_url": "https://bugcrowd.com/engagements/balsamiq",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$1500",
-    "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira?hosting=datacenter&tab=overview",
-      "https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluence?hosting=datacenter&tab=overview"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-07"
-  },
-  {
     "name": "Appliances - Barracuda Networks, Inc.",
     "program_url": "https://bugcrowd.com/engagements/barracuda",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10255,6 +10238,36 @@
     "last_updated": "2026-09-07"
   },
   {
+    "name": "Optimizely",
+    "program_url": "https://bugcrowd.com/engagements/optimizely",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$3500",
+    "inscope_domains": [
+      "https://app.optimizely.com/",
+      "https://cdn.optimizely.com/",
+      "https://cdn-pci.optimizely.com/",
+      "https://optimizely-edge.com",
+      "https://api.optimizely.com/",
+      "https://dxc.episerver.net/ ",
+      "https://paasportal.episerver.net/",
+      "https://paasportal.episerver.net/api/v1.0/",
+      "https://app.welcomesoftware.com/",
+      "https://accounts.welcomesoftware.com/",
+      "https://api.welcomesoftware.com/",
+      "https://cdn-app.welcomesoftware.com/",
+      "https://analytics.welcomesoftware.com/",
+      "https://flags.expeng.optimizely.com",
+      "https://accounts.cmp.optimizely.com/"
+    ],
+    "outofscope_domains": [
+      "https://www.optimizely.com/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-07"
+  },
+  {
     "name": "Optus Managed Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/optus-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10551,60 +10564,6 @@
     "last_updated": "2026-09-07"
   },
   {
-    "name": "Origin Energy",
-    "program_url": "https://bugcrowd.com/engagements/originenergy-og1",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$2500",
-    "inscope_domains": [
-      "https://www.originenergy.com.au/",
-      "*.origindigital-pac.com.au",
-      "*.odcdn.com.au",
-      "https://dataportal.originenergy.com.au",
-      "*.support.originenergy.com.au",
-      "*.api.originenergy.com.au",
-      "*.download.originenergy.com.au",
-      "https://api.rx.originenergy.com.au/v1/lpg/graphql",
-      "https://www.winconnect.com.au/moving-out/",
-      "https://www.winconnect.com.au/get-connected/",
-      "https://customerportal.winconnect.com.au/login",
-      "portal.myconnect.com.au",
-      "myconnect.com.au",
-      "portal.myconnect.com.au/new-connection",
-      "hub.myconnect.com.au",
-      "https://ssu.staging.myconnect.com.au/get-connected",
-      "https://portal.anz.kinergysolutions.com",
-      "https://portal-api.anz.kinergysolutions.com",
-      "https://portal.originzero.com.au",
-      "https://api-portal.originzero.com.au",
-      "https://sign.originzero.com.au",
-      "https://businessportal.origin.com.au",
-      "https://api-businessportal.origin.com.au"
-    ],
-    "outofscope_domains": [
-      "https://www.originenergy.com.au/moving/",
-      "https://auth.api.originenergy.com.au/**",
-      "https://origin-energy.formstack.com/**",
-      "https://ssu.myconnect.com.au/**",
-      "https://reneweclipse.originenergy.com.au/*",
-      "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql",
-      "https://www.compareandconnect.com.au/",
-      "https://agent.compareandconnect.com.au/",
-      "https://fastconnect.co.nz",
-      "https://Yourporter.com.au",
-      "https://raywhitehomenow.com/ ",
-      "https://www.solarquotes.com.au/leads/",
-      "https://www.solarquotes.com.au/suppliers/",
-      "https://www.solarquotes.com.au/wp-admin/",
-      "https://manufacturers.solarquotes.com.au/",
-      "https://www.solarquotes.com.au/quote/start/",
-      "https://www.solarquotes.com.au/quotesv2/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-07"
-  },
-  {
     "name": "OSL Managed Public Bug Bounty Engagement ",
     "program_url": "https://bugcrowd.com/engagements/osl-mbb-og1",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10681,32 +10640,6 @@
     "reward": "$6000",
     "inscope_domains": [
       "https://www.pexels.com/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-07"
-  },
-  {
-    "name": "Pinterest",
-    "program_url": "https://bugcrowd.com/engagements/pinterest",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$25000",
-    "inscope_domains": [
-      "https://api.pinterest.com",
-      "*.pinterest.com Web Apps",
-      "https://apps.apple.com/us/app/pinterest/id429047995",
-      "https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US",
-      "https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US",
-      "https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en",
-      "https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg",
-      "https://addons.mozilla.org/en-US/firefox/addon/pinterest/",
-      "https://apps.apple.com/us/app/save-to-pinterest/id6473649042",
-      "https://github.com/pinterest/",
-      "https://www.shffls.com",
-      "https://play.google.com/store/apps/details?id=com.pinterest.shuffles",
-      "https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -10951,6 +10884,27 @@
       "https://marketplace.atlassian.com/apps/1229966/scrum-master-assistant-for-jira?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "name": "Quizlet",
+    "program_url": "https://bugcrowd.com/engagements/quizlet",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$2000",
+    "inscope_domains": [
+      "https://*.quizlet.com",
+      "https://itunes.apple.com/us/app/quizlet-flashcards/id546473125",
+      "https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid",
+      "3.0 API"
+    ],
+    "outofscope_domains": [
+      "api.quizlet.com/2.0",
+      " help.quizlet.com (zendesk)",
+      "get.quizlet.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-07"
@@ -11879,6 +11833,47 @@
       "https://marketplace.atlassian.com/apps/1221399/security-for-bitbucket-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-07"
+  },
+  {
+    "name": "SoundCloud",
+    "program_url": "https://bugcrowd.com/engagements/soundcloud",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$4500",
+    "inscope_domains": [
+      "https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US",
+      "https://soundcloud.com",
+      "*.soundcloud.org",
+      "*.s-cloud.net",
+      "https://apps.apple.com/us/app/soundcloud-music-audio/id336353151",
+      "https://connect.soundcloud.com",
+      "*.services.repostnetwork.com",
+      "api-*.soundcloud.com",
+      "http://artists.soundcloud.com/",
+      "https://soundcloud.org"
+    ],
+    "outofscope_domains": [
+      "blog.soundcloud.com",
+      "status.soundcloud.com",
+      "help.soundcloud.com",
+      " community.soundcloud.com",
+      "copyright.soundcloud.com",
+      "advertising.soundcloud.com",
+      "https://soundcloudmail.com",
+      "press.soundcloud.com",
+      "https://scdrops.soundcloud.com",
+      "https://promote.soundcloud.com",
+      "contest.soundcloud.com",
+      "playback.soundcloud.com",
+      "jobs.soundcloud.com",
+      "playerone.soundcloud.com",
+      "support.soundcloud.org",
+      "secdomaintest.soundcloud.com",
+      "firston.soundcloud.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-07"
