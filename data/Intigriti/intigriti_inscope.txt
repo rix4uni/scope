@@ -623,7 +623,6 @@ transsicura.ch
 *.vintia.cloud
 *.vintia.com
 *.wecosystem.com
-cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com

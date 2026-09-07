@@ -812,7 +812,8 @@
       "acronis.infomaniak.com",
       "partner program : pages about finding partner and sending offer / All routes ending with /partners/tender",
       "storage*.infomaniak.com/newsletter/thumbnails/*",
-      "Information returned by /get-tickets-infos (including organizer, event_name, event_date, command_date, and masked email) is out of scope."
+      "Information returned by /get-tickets-infos (including organizer, event_name, event_date, command_date, and masked email) is out of scope",
+      "Moving or copying calendar events / contacts between containers by read-write collaborators (intended behavior)"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -4374,21 +4375,6 @@
       "https://www.simscale.com/api/v1/projects/*",
       "www.simscale.com/forum/users/*.json"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-07"
-  },
-  {
-    "name": "Skoda Auto Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
-      "cz.skodaauto.myskoda"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-07"
