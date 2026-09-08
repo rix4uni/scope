@@ -132,9 +132,6 @@ awverify.*.mortgagechoice.com
 *.snapnames.com
 *.namejet.com
 *.buydomains.com
-*.afterpay.com
-*.cash.me
-*.tidal.com
 *.atlassian.com
 *.sprint.net
 *.mobile.uscc.net
@@ -188,6 +185,7 @@ argocd.*.uidapi.com
 *.rukkaz.com
 *.superawesome.com
 *.superawesome.tv
+*gogo.com
 *.cdssandbox.xyz
 *.cas.l3harris.com
 *.cts.l3harris.com
@@ -662,9 +660,6 @@ developers.coindesk.com
 share.acorns.com
 grow.acorns.com
 store.acorns.com
-afterpaytechblog.com
-genderfree.afterpay.com
-moneybyafterpay.com
 aquarium.aiven.io
 uptime.aiven.io
 video.aiven.io
@@ -1220,13 +1215,6 @@ playerone.soundcloud.com
 support.soundcloud.org
 secdomaintest.soundcloud.com
 firston.soundcloud.com
-afterpay.com
-cash.me
-designers.weebly.com
-tidal.com
-app.squareupstaging.com
-community.squareup.com
-itunes.apple.com
 appointments.uscellular.com
 abo.inscopedomain.ch
 login.inscopedomain.ch
@@ -1265,8 +1253,6 @@ update.adsrvr.org
 openpath-login.thetradedesk.com
 blog.thousandeyes.com
 app.thousandeyes.com
-developer.tidal.com
-embed.tidal.com
 e.trello.com
 help.trello.com
 trello-attachments.s3.amazonaws.com
@@ -1350,8 +1336,10 @@ gogotours.ca
 gpden.gogoair.com
 gpmlb.gogoair.com
 gogo.to
+sdgov.gogoair.com
 legacy.gogoair.com
 gogo574.com
+gogoair.com
 gogocloud.net
 gogocommercialaviation.com
 ai-answers.alpha.canada.ca
@@ -1566,6 +1554,7 @@ coalition.nba.com
 dev.stats.2kleague.nba.com
 events.bal.nba.com
 evergent.com
+games.nbaacademy.nba.com
 jr.nba.com
 leaguepass.wnba.com
 mediacentral.nba.com
@@ -2721,6 +2710,7 @@ ads.pixiv.net
 factory.pixiv.net
 accounts.pixiv.net
 crypto.com
+itunes.apple.com
 investors.goodrx.com
 sso.identity.goodrx.com
 support.goodrx.com

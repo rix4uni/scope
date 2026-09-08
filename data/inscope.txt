@@ -1,6 +1,4 @@
 *.acorns.com
-*.afterpay.com
-portalapi.*.afterpay.com
 *app.simple-reports.com
 *.arlo.com
 *.arloxcld.com
@@ -33,8 +31,6 @@ portalapi.*.afterpay.com
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
-*.cash.app
-*.cashstaging.app
 *.chimepayments.com
 *.chime.com
 *.1debit.com
@@ -266,8 +262,6 @@ np.*.lfscnp.com
 *.s-cloud.net
 *.soundcloud.com
 *.services.repostnetwork.com
-*.square.com
-*.squareup.com
 *.statuspage.io
 *.api.t-mobile.com
 *.t-mobile.com
@@ -287,11 +281,6 @@ np.*.lfscnp.com
 *.prod.uidapi.com
 *.thetradedesk.com
 *.adsrvr.org
-*.tidal.com
-*.wimpmusic.com
-*.tidalhifi.com
-*tidalhi.fi
-*.tdl.sh
 *.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
@@ -1333,18 +1322,6 @@ acorns.com
 graphql.acorns.com
 gohenry.com
 pixpay.fr
-portal.afterpay.com
-afterpay.com
-mobileapi.afterpay.com
-portalapi.us.afterpay.com
-developers.afterpay.com
-clearpay.co.uk
-clearpay.com
-portal.clearpay.com
-portal.clearpay.co.uk
-mobileapi.clearpay.com
-portalapi.eu.clearpay.co.uk
-api.clearpay.com
 app.simple-reports.com
 aiven.io
 regatta.aiven.io
@@ -1441,7 +1418,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cash.app
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
@@ -2125,9 +2101,6 @@ soundcloud.com
 connect.soundcloud.com
 artists.soundcloud.com
 soundcloud.org
-squareup.com
-square.online
-weebly.com
 manage.statuspage.io
 t-mobile.com
 account.t-mobile.com
@@ -2248,9 +2221,6 @@ edgeacademy.thetradedesk.com
 api.thousandeyes.com
 app.thousandeyes.com
 thousandeyes.com
-tidal.com
-api.tidal.com
-offer.tidal.com
 api.trello.com
 butlerfortrello.com
 api.production.cde.tamg.cloud

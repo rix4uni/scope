@@ -5,18 +5,6 @@ acorns.com
 graphql.acorns.com
 gohenry.com
 pixpay.fr
-portal.afterpay.com
-afterpay.com
-mobileapi.afterpay.com
-portalapi.us.afterpay.com
-developers.afterpay.com
-clearpay.co.uk
-clearpay.com
-portal.clearpay.com
-portal.clearpay.co.uk
-mobileapi.clearpay.com
-portalapi.eu.clearpay.co.uk
-api.clearpay.com
 app.simple-reports.com
 aiven.io
 regatta.aiven.io
@@ -113,7 +101,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cash.app
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
@@ -797,9 +784,6 @@ soundcloud.com
 connect.soundcloud.com
 artists.soundcloud.com
 soundcloud.org
-squareup.com
-square.online
-weebly.com
 manage.statuspage.io
 t-mobile.com
 account.t-mobile.com
@@ -920,9 +904,6 @@ edgeacademy.thetradedesk.com
 api.thousandeyes.com
 app.thousandeyes.com
 thousandeyes.com
-tidal.com
-api.tidal.com
-offer.tidal.com
 api.trello.com
 butlerfortrello.com
 api.production.cde.tamg.cloud

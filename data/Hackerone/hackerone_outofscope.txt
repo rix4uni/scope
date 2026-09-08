@@ -29,8 +29,11 @@ gogotours.ca
 gpden.gogoair.com
 gpmlb.gogoair.com
 gogo.to
+sdgov.gogoair.com
 legacy.gogoair.com
+*gogo.com
 gogo574.com
+gogoair.com
 gogocloud.net
 gogocommercialaviation.com
 *.cdssandbox.xyz
@@ -309,6 +312,7 @@ coalition.nba.com
 dev.stats.2kleague.nba.com
 events.bal.nba.com
 evergent.com
+games.nbaacademy.nba.com
 jr.nba.com
 leaguepass.wnba.com
 mediacentral.nba.com

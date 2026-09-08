@@ -8,9 +8,6 @@ developers.coindesk.com
 share.acorns.com
 grow.acorns.com
 store.acorns.com
-afterpaytechblog.com
-genderfree.afterpay.com
-moneybyafterpay.com
 aquarium.aiven.io
 uptime.aiven.io
 video.aiven.io
@@ -700,16 +697,6 @@ playerone.soundcloud.com
 support.soundcloud.org
 secdomaintest.soundcloud.com
 firston.soundcloud.com
-afterpay.com
-*.afterpay.com
-cash.me
-*.cash.me
-designers.weebly.com
-tidal.com
-*.tidal.com
-app.squareupstaging.com
-community.squareup.com
-itunes.apple.com
 *.atlassian.com
 *.sprint.net
 *.mobile.uscc.net
@@ -760,8 +747,6 @@ update.adsrvr.org
 openpath-login.thetradedesk.com
 blog.thousandeyes.com
 app.thousandeyes.com
-developer.tidal.com
-embed.tidal.com
 e.trello.com
 help.trello.com
 trello-attachments.s3.amazonaws.com
