@@ -1230,6 +1230,7 @@ payoneer.com.cn
 *.iron.xyz
 *.moonpay.com
 *.moonpaycloud.com
+*.swaps.xyz
 api.moonpay.com
 api.moonx-dev.com
 api.paybox.sh

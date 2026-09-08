@@ -7878,27 +7878,6 @@
     "last_updated": "2026-09-08"
   },
   {
-    "name": "Flourish",
-    "program_url": "https://bugcrowd.com/engagements/flourish",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$6000",
-    "inscope_domains": [
-      "https://flo.uri.sh",
-      "https://flourish.studio/",
-      "https://xyzbmojn.net/",
-      "flourish-user-templates.com",
-      "flourish-user-preview.com",
-      "https://*.kiln.it"
-    ],
-    "outofscope_domains": [
-      "https://training.flourish.studio"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-08"
-  },
-  {
     "name": "SecureDrop",
     "program_url": "https://bugcrowd.com/engagements/freedomofpress",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -8983,6 +8962,43 @@
       "*.limeinternal.com",
       "*.lime.bike",
       "https://li.me (HubSpot)"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "name": "Linktree",
+    "program_url": "https://bugcrowd.com/engagements/linktree-mbb-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$7500",
+    "inscope_domains": [
+      "https://linktr.ee",
+      "https://linktree.com",
+      "https://tr.ee",
+      "*.linktree-extensions.com",
+      "https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer",
+      "https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer",
+      "https://*.plannthat.com",
+      "https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141",
+      "https://play.google.com/store/search?q=plann&c=apps",
+      "https://odesli.co",
+      "https://odesli.com",
+      "https://song.link",
+      "https://songlink.io",
+      "https://album.link",
+      "https://artist.link",
+      "https://pods.link",
+      "https://playlist.link",
+      "https://mylink.page"
+    ],
+    "outofscope_domains": [
+      "https://filestack.com",
+      "https://freshdesk.com",
+      "https://blstr.xyz",
+      "https://blstr.co",
+      "https://community.linktr.ee"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -30723,6 +30739,7 @@
       "*.iron.xyz",
       "*.moonpay.com",
       "*.moonpaycloud.com",
+      "*.swaps.xyz",
       "api.moonpay.com",
       "api.moonx-dev.com",
       "api.paybox.sh",

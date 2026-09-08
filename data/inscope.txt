@@ -76,9 +76,6 @@ casino.*.betmgm.com
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
 *.staging.gearset.com
 *.central.arubanetworks.com
 *.cultbeauty.co.uk
@@ -460,6 +457,7 @@ ic3.*.indriverapp.com
 *.iron.xyz
 *.moonpay.com
 *.moonpaycloud.com
+*.swaps.xyz
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -1530,11 +1528,6 @@ sb-console-api.fireblocks.io
 sb-mobile-api.fireblocks.io
 sandbox-api.fireblocks.io
 fivetran.com
-flo.uri.sh
-flourish.studio
-xyzbmojn.net
-flourish-user-templates.com
-flourish-user-preview.com
 staging.gearset.com
 staging-api.gearset.com
 hipaa.staging.gearset.com

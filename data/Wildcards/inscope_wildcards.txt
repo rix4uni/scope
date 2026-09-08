@@ -76,9 +76,6 @@ casino.*.betmgm.com
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
 *.staging.gearset.com
 *.central.arubanetworks.com
 *.cultbeauty.co.uk
@@ -460,6 +457,7 @@ ic3.*.indriverapp.com
 *.iron.xyz
 *.moonpay.com
 *.moonpaycloud.com
+*.swaps.xyz
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
