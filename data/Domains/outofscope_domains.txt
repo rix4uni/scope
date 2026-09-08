@@ -182,6 +182,7 @@ status.fivetran.com
 support.fivetran.com
 community-stage.fivetran.com
 trust.fivetran.com
+training.flourish.studio
 api.gearset.com
 app.gearset.com
 us.app.gearset.com
@@ -721,13 +722,9 @@ software.cts.l3harris.com
 swarm.thorntontomasetti.com
 tms.l3commercialaviation.com
 andurilgear.com
-1040.com
 drakesoftware.com
-securefilepro.com
 taxact.com
 taxactonline.com
-taxwell.com
-taxwell.org
 kyc.ondato.net
 kyc.api.ondato.net
 luminor.nyc3.digitaloceanspaces.com
