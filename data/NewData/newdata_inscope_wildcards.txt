@@ -1,6 +1,5 @@
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
+*.origindigital-pac.com.au
+*.odcdn.com.au
+*.support.originenergy.com.au
+*.api.originenergy.com.au
+*.download.originenergy.com.au
