@@ -1196,6 +1196,8 @@ adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
 help.evernote.com
+signrequest.com
+sr-staging-1.com
 *.hcltechsw.com
 *.chealth.io
 *.currenthealth.com

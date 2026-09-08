@@ -6523,7 +6523,8 @@
       "https://apps.apple.com/us/app/bitso-buy-bitcoin-easily/id1292836438",
       "https://apps.apple.com/us/app/bitso-alpha-crypto-trade-pro/id1539469172",
       "https://play.google.com/store/apps/details?id=com.bitso.wallet&pcampaignid=web_share",
-      "https://play.google.com/store/apps/details?id=com.bitso.alpha"
+      "https://play.google.com/store/apps/details?id=com.bitso.alpha",
+      "https://onchain.cc/"
     ],
     "outofscope_domains": [
       "help.bitso.com",
@@ -56264,11 +56265,12 @@
       "iOS Box Mobile App",
       "m.box.com",
       "notes.services.box.com",
-      "signrequest.com",
-      "sr-staging-1.com",
       "upload.box.com"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "signrequest.com",
+      "sr-staging-1.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-08"
@@ -61209,6 +61211,24 @@
       "com.quora.android",
       "com.quora.app.mobile",
       "http://poe.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-08"
+  },
+  {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
