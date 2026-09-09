@@ -870,6 +870,9 @@ ic3.*.indriverapp.com
 *.quora.com
 *.files.com
 *files.com
+*.scopely.com
+*.scopely.io
+*.withbuddies.com
 *.buddypress.org
 *.trac.wordpress.org
 *.svn.wordpress.org
@@ -1025,6 +1028,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com

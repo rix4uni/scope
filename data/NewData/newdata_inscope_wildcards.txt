@@ -1,3 +1,4 @@
-*.flourish.studio
-*.xyzbmojn.net
-*.kiln.it
+*.scopely.com
+*.scopely.io
+*.withbuddies.com
+*.datacamp.com

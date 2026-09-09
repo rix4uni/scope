@@ -2076,6 +2076,10 @@ developers.files.com
 mail.files.com
 status.files.com
 stat.exnessaffiliates.com
+bamboo.scopely.io
+confluence.scopely.io
+jira.scopely.io
+scopely.okta.com
 *.wordpress.com
 wordpress.com
 *wordpress.com

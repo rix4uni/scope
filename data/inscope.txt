@@ -870,6 +870,9 @@ ic3.*.indriverapp.com
 *.quora.com
 *.files.com
 *files.com
+*.scopely.com
+*.scopely.io
+*.withbuddies.com
 *.buddypress.org
 *.trac.wordpress.org
 *.svn.wordpress.org
@@ -1025,6 +1028,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -5070,6 +5074,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 demorgen.be
 myaccount.volkskrant.nl
