@@ -21979,7 +21979,10 @@
     "reward": "$$$",
     "inscope_domains": [
       "Anker",
+      "Anker soundcore Work D3200",
+      "Liberty 5 Pro Max D1204",
       "Solarbank 2 E1600 Pro",
+      "anker-nebula/id1319092174",
       "com.anker.AnkerMake",
       "com.anker.charging",
       "com.oceanwing.FDMPrint",
@@ -21990,7 +21993,10 @@
       "https://us.eufy.com/products/e8213181",
       "https://us.eufy.com/products/t8410121",
       "https://us.eufy.com/products/t88511d1",
-      "https://us.eufy.com/products/t88711w1"
+      "https://us.eufy.com/products/t88711w1",
+      "id=com.oceanwing.soundcore",
+      "id=com.zhixin.controller",
+      "soundcore/id1331876603"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
