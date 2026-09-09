@@ -14,8 +14,6 @@
 *.atlastunnel.com
 *.loom.com
 *.cic-bug-bounty.auth0app.com
-*.backblazeb2.com
-*.backblaze.com
 *.binance.com
 *.binance.us
 *.bitdefender.net
@@ -1028,7 +1026,6 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com

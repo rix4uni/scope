@@ -2472,48 +2472,6 @@
     "last_updated": "2026-09-09"
   },
   {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-09"
-  },
-  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -6321,28 +6279,6 @@
     "last_updated": "2026-09-09"
   },
   {
-    "name": "Backblaze",
-    "program_url": "https://bugcrowd.com/engagements/backblaze",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$6500",
-    "inscope_domains": [
-      "https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US",
-      "https://apps.apple.com/us/app/backblaze/id628638330",
-      "Mac Personal Backup Clients",
-      "Windows Personal Backup Clients",
-      "Mac Restore Downloaders",
-      "Windows Restore Downloaders",
-      "Git Repositories (b2-sdk-java & B2 Command Line Tool)",
-      "https://*.backblazeb2.com",
-      "https://backblaze.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-09"
-  },
-  {
     "name": "Balsamiq for Atlassian Products",
     "program_url": "https://bugcrowd.com/engagements/balsamiq",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -9135,6 +9071,34 @@
       "https://app.staging.luno.com/"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-09"
+  },
+  {
+    "name": "Majid Al Futtaim Lifestyle",
+    "program_url": "https://bugcrowd.com/engagements/maffashion",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$3500",
+    "inscope_domains": [
+      "https://www.crateandbarrel.me",
+      "https://api-prod.thatconceptstore.com/",
+      "https://apps.apple.com/app/id1503045795",
+      "https://play.google.com/store/apps/details?id=com.maf.thatandroid",
+      "https://thatconceptstore.com",
+      "https://www.cb2.ae/en",
+      "https://www.allsaints.me/",
+      "https://www.lululemon.me",
+      "https://lapi.yellowblocks.me",
+      "https://www.shiseido.me/",
+      "lego.me",
+      "psychobunny.me",
+      "fashion4less.me"
+    ],
+    "outofscope_domains": [
+      "www.americangirlmena.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-09"
@@ -45275,8 +45239,8 @@
       "GP Integrated - PayGateway",
       "GP eCom",
       "GPE",
-      "Global Payments Inc",
       "Global Payments Integrated",
+      "Globalpayments.com",
       "Greater Giving",
       "Heartland Payment Systems",
       "Heartland Restaurant / Retail / Human Capital Management (Get Hired)",
@@ -45301,7 +45265,6 @@
       "pcamerica.com"
     ],
     "outofscope_domains": [
-      "Globalpaymentsinc.com and Globalpayments.com - OUT OF SCOPE",
       "Heartland Payroll",
       "Leaked Credentials",
       "Xenial (Xenial)",
