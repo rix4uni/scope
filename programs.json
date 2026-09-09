@@ -7088,9 +7088,11 @@
     "reward": "$1500",
     "inscope_domains": [
       "https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence/version-history",
-      "https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=cloud"
+      "https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=datacenter&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -8963,6 +8965,21 @@
       "https://blstr.co",
       "https://community.linktr.ee"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-09"
+  },
+  {
+    "name": "Litew8 GmbH - Marketplace Bug Bounty ",
+    "program_url": "https://bugcrowd.com/engagements/litew8",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1235430/space-templates-for-confluence?tab=overview&hosting=cloud"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-09"
@@ -12444,43 +12461,6 @@
       "api.chainabuse-staging.com"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-09"
-  },
-  {
-    "name": "20 Minuten",
-    "program_url": "https://bugcrowd.com/engagements/twentyminuten",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$5000",
-    "inscope_domains": [
-      "https://www.20min.ch",
-      "https://coral.20min.ch/",
-      "https://api.20min.ch/",
-      "https://videoplayer.20min.ch",
-      "https://partner-feeds.20min.ch",
-      "https://screenplayer.20min.ch",
-      "https://audio.20min.ch/"
-    ],
-    "outofscope_domains": [
-      "https://tgt.tamedia.ch",
-      "http://auth.20min.ch",
-      "https://cre-api.tamedia.ch",
-      "https://track.20min.ch",
-      "Social Media Links (older than 2 years)",
-      "Subdomain Takeover ",
-      "DMARC, SPF, DKIM",
-      "https://*.connect.ringier.ch",
-      "*.onelog.ch",
-      "*.20min-tv.ch",
-      "*.newsnetz.tv",
-      "*.appuser.ch",
-      "*.iagentur.ch",
-      "*.streamboat.ch",
-      "*.streamboatserver.ch",
-      "Other Domains and Subdomains not specifically in scope"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-09"
