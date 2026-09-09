@@ -68,6 +68,9 @@ samltool.io
 webauthn.me
 openidconnect.net
 jwt.io
+*.backblazeb2.com
+backblaze.com
+*.backblaze.com
 barracuda.com
 api.coinmarketcap.com
 pro-api.coinmarketcap.com

@@ -403,8 +403,6 @@ bus.*.indrive.com
 *.earlywarning.io
 *.zellepay.com
 *.email.instacart.com
-*.expediacruises.com
-*.expedia.com
 *.netlify.app
 *.netlify.com
 *.netlifycms.org
@@ -418,6 +416,7 @@ bus.*.indrive.com
 *.urbanclap.com
 *.egadvertising.com
 *.expediaagents.com
+*.expediacruises.com
 *.hoteis.com
 *.hoteles.com
 *.flickr.net
@@ -2600,10 +2599,6 @@ life.instacart.com
 news.instacart.com
 tech.instacart.com
 phpbb.com
-socialhub.expediacruises.com
-bookus.expediacruises.com
-expediaagents.com
-expediapartnersolutions.com
 answers.netlify.com
 docs.netlify.com
 webpop.com
@@ -3510,8 +3505,6 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
-developer.posti.com
-posti.fi
 pen-app.entrili.com
 exams.ripe.net
 ripe.net

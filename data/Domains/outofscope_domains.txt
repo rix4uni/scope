@@ -1948,10 +1948,6 @@ life.instacart.com
 news.instacart.com
 tech.instacart.com
 phpbb.com
-socialhub.expediacruises.com
-bookus.expediacruises.com
-expediaagents.com
-expediapartnersolutions.com
 answers.netlify.com
 docs.netlify.com
 webpop.com
@@ -2858,8 +2854,6 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
-developer.posti.com
-posti.fi
 pen-app.entrili.com
 exams.ripe.net
 ripe.net

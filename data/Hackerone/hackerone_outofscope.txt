@@ -1513,12 +1513,6 @@ life.instacart.com
 news.instacart.com
 tech.instacart.com
 phpbb.com
-*.expediacruises.com
-socialhub.expediacruises.com
-bookus.expediacruises.com
-*.expedia.com
-expediaagents.com
-expediapartnersolutions.com
 *.netlify.app
 *.netlify.com
 *.netlifycms.org
@@ -1568,6 +1562,7 @@ pro.urbanclap.com
 remitly.com
 *.egadvertising.com
 *.expediaagents.com
+*.expediacruises.com
 *.hoteis.com
 *.hoteles.com
 events.nutanix.com
