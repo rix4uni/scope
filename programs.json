@@ -838,6 +838,33 @@
     "last_updated": "2026-09-10"
   },
   {
+    "name": "Kiteworks Public Bug Bounty Program",
+    "program_url": "https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$50000",
+    "inscope_domains": [
+      "Crown Jewel Heist",
+      "Kiteworks Core",
+      "Email Protection Gateway (EPG)",
+      "Managed File Transfer (MFT)",
+      "Secure Data Forms (SDF, aka Advanced Forms)",
+      "API Playground",
+      "Kiteworks Android App",
+      "Kiteworks iOS App",
+      "Kiteworks for Desktop",
+      "Kiteworks Desktop Client 2.0",
+      "Kiteworks for Outlook Desktop",
+      "Kiteworks for Office Desktop"
+    ],
+    "outofscope_domains": [
+      "Testing is only authorized on the targets listed as in scope. Any domain/property of Kiteworks not listed in the targets section is out of scope. This includes any/all subdomains not listed above. If you happen to identify a security vulnerability on a target that is not in scope, but it demonstrably belongs to Kiteworks, you can report it here. However, be aware that it is ineligible for rewards or points-based compensation."
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
     "name": "Louis Vuitton Malletier - Public Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -2008,6 +2035,20 @@
     "outofscope_domains": [
       "adtechnology.axelspringer.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "name": "BMC",
+    "program_url": "https://www.intigriti.com/programs/randstad/bmc/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.bmc.nl"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-10"
@@ -4318,7 +4359,7 @@
       "*.enviso.shop",
       "*.gantner.be",
       "*.gantner.com",
-      "*.gantnercloud.com",
+      "*.gantner.cloud",
       "*.gantnerindia.com",
       "*.guidemylock.dk",
       "*.my-clay.com",
@@ -4566,6 +4607,24 @@
       "*.tekioncloud.xyz",
       "*.tekion.cloud",
       "*.tekioncloud.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "name": "Tempo-Team ",
+    "program_url": "https://www.intigriti.com/programs/randstad/tempo-team/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.tempo-team.*",
+      "Any related Tempo-Team domain",
+      "www.tempo-team.be",
+      "www.tempo-team.com",
+      "www.tempo-team.nl"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -5370,6 +5429,20 @@
     "inscope_domains": [
       "*.wartsila.com",
       "Any Wartsila related domain "
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "name": "Yacht",
+    "program_url": "https://www.intigriti.com/programs/randstad/yacht/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.yacht.nl"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

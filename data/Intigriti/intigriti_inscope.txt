@@ -67,6 +67,7 @@ editorial.one
 *.wissen-sie-mehr.de
 technik.autobild.de
 technik.beta.autobild.de
+*.bmc.nl
 bmw-motorrad.de
 bmw.de
 mini.de
@@ -604,7 +605,7 @@ transsicura.ch
 *.enviso.shop
 *.gantner.be
 *.gantner.com
-*.gantnercloud.com
+*.gantner.cloud
 *.gantnerindia.com
 *.guidemylock.dk
 *.my-clay.com
@@ -654,6 +655,9 @@ app.savers.co.uk
 campaign.savers.co.uk
 ecom-data.savers.co.uk
 *.savers.co.uk
+tempo-team.be
+tempo-team.com
+tempo-team.nl
 theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
@@ -893,6 +897,7 @@ campaign.drogas.lv
 moneyback.com.hk
 mapi.moneyback.com.hk
 *.moneyback.com.hk
+*.yacht.nl
 *.yahoo.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
