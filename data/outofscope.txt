@@ -2304,6 +2304,7 @@ wsmb2bproxynp.navient.com
 wsmb2bresv.navient.com
 mqtt.myndr.net
 mqtt2.myndr.net
+pnp.myndr.net
 adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com
@@ -3505,6 +3506,8 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
+developer.posti.com
+posti.fi
 pen-app.entrili.com
 exams.ripe.net
 ripe.net
