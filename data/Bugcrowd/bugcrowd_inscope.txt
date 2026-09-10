@@ -134,9 +134,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cfr.org
-thinkglobalhealth.org
-education.cfr.org
 *.chimepayments.com
 *.chime.com
 *.1debit.com

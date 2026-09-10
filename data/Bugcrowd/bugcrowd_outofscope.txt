@@ -136,10 +136,6 @@ trust.bugcrowd.com
 *.bullish.com
 simnext.bullish-test.com
 cwingsfe.mafrservices.com
-subs.foreignaffairs.com
-subscribe.foreignaffairs.com
-world101.cfr.org
-modeldiplomacy.cfr.org
 chime.financial
 chimescholars.org
 merakipartners.com
@@ -524,6 +520,7 @@ osl.com
 api.quizlet.com
 help.quizlet.com
 get.quizlet.com
+jirachecklist.com
 community.rapyd.net
 support.rapyd.net
 docs.rapyd.net

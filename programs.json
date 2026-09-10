@@ -6968,15 +6968,15 @@
     "platform": "Bugcrowd",
     "reward": "$2100",
     "inscope_domains": [
-      "https://www.cfr.org/",
-      "https://thinkglobalhealth.org",
-      "https://education.cfr.org/"
+      "████████████████████",
+      "█████████████████████████████",
+      "██████████████████████████"
     ],
     "outofscope_domains": [
-      "https://subs.foreignaffairs.com",
-      "https://subscribe.foreignaffairs.com ",
-      "https://world101.cfr.org/",
-      "https://modeldiplomacy.cfr.org"
+      "███████████████████████████████",
+      "█████████████████████████████████████",
+      "█████████████████████████",
+      "██████████████████████████████"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -7427,6 +7427,24 @@
       "https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server",
       "https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "name": "Creativas",
+    "program_url": "https://bugcrowd.com/engagements/creativas",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1219677/smart-terms-for-confluence-glossary?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1216979/smart-courses-for-confluence-lms?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1225000/smart-images-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218080/smart-tables-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1234678/smart-terms-for-jira-glossary?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -11065,6 +11083,25 @@
       "https://marketplace.atlassian.com/apps/1228815?tab=overview&hosting=cloud"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "name": "Railsware",
+    "program_url": "https://bugcrowd.com/engagements/railsware",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1216451/smart-checklist-for-jira-enterprise?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1215277/smart-checklist-for-jira-free?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1231143/smart-templates-issue-templates-for-jira?hosting=cloud&tab",
+      "https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview&hosting=cloud"
+    ],
+    "outofscope_domains": [
+      "https://jirachecklist.com/"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-10"
@@ -16799,6 +16836,7 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
+      "Neon-supported extensions",
       "https://console-stage.neon.build/",
       "https://console.neon.tech/",
       "https://console.neon.tech/api/v2/"
@@ -58514,8 +58552,10 @@
       "403546234",
       "427916203",
       "483394780",
+      "506426310",
       "531549799",
       "566635048",
+      "642441300",
       "880759727",
       "987675995",
       "com.carrentals",
@@ -59990,6 +60030,7 @@
     "reward": "$$$",
     "inscope_domains": [
       "Databricks Free Edition",
+      "Lakebase-Supported extensions",
       "Open Scope",
       "accounts.cloud.databricks.com",
       "databricks.com",
