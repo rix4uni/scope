@@ -1340,6 +1340,7 @@ gogocloud.net
 gogocommercialaviation.com
 ai-answers.alpha.canada.ca
 ai-answers.cdssandbox.xyz
+auth.login-connexion.canada.ca
 blawx.cdssandbox.xyz
 feedback-collection.cdssandbox.xyz
 feedback-viewer.cdssandbox.xyz
