@@ -5072,27 +5072,6 @@
     "last_updated": "2026-09-10"
   },
   {
-    "name": "Venly",
-    "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "api-wallet.venly.io",
-      "api.arkane.network",
-      "connect.arkane.network ",
-      "connect.venly.io",
-      "login.arkane.network",
-      "login.venly.io",
-      "wallet.venly.io",
-      "api-wallet-sandbox.venly.io"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-10"
-  },
-  {
     "name": "Visma Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -6912,6 +6891,21 @@
     "last_updated": "2026-09-10"
   },
   {
+    "name": "Cappsule Sarl - Marketplace Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/cappsule-sarl",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1216988/timesheet-tracking-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1235502/chart-factory-for-jira?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
     "name": "Majid Al Futtaim Retail",
     "program_url": "https://bugcrowd.com/engagements/carrefour",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -6941,6 +6935,27 @@
       "███████████████████████████████████████",
       "██████████",
       "█████████████████"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "name": "Catapult Labs Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/catapultlabs",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1215875/scrum-poker-estimates-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218960/scrum-poker-estimates-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218860/agile-retrospectives-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218860/agile-retrospectives-for-jira?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1217825/standbot-slack-stand-up-bot-for-jira?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1227873/teampulse-health-checks-for-jira?tab=overview&hosting=cloud"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -7208,6 +7223,20 @@
       "████████████████████████████████████████████████████████████████████████████████████",
       "██████████████████████████████████"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "name": "codecentric AG - Marketplace Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/codecentric",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1227136/issue-picker-for-jira?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-10"
@@ -7569,6 +7598,22 @@
       "https://marketplace.atlassian.com/apps/1232398/roadmaps-timeline-gantt-chart-structure-for-confluence?tab=overview&hosting=cloud",
       "https://marketplace.atlassian.com/apps/1236175/spreadsheet-structure-table-gantt-chart-on-forge-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/856555290/salesforge-crm-leads-deals-customers-management-for-jira?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "name": "Digital Rose's Marketplace Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/digitalrose",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1221581/esign-electronic-signatures-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224071/esign-electronic-signatures-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1228868/esign-document-management?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -11621,6 +11666,22 @@
     "last_updated": "2026-09-10"
   },
   {
+    "name": "Savignano Software Solutions Marketplace Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/savignano",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
     "name": "SecureFlag Marketplace Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/secureflag-mbb-market",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -12953,6 +13014,27 @@
       "https://vendorss.usaa.com",
       "https://vlagg.usaa.com",
       "https://webmail.usaa.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-10"
+  },
+  {
+    "name": "Vectors Bug Bounty ",
+    "program_url": "https://bugcrowd.com/engagements/vectors-marketplace",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1212124/spectrum-formatting-macros?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1211894/ideation?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1211855/faq-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1217652/content-status-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1235238/morph-ai-powered-content-formatting-for-confluence?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1211800/glossary?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1235579/comment-toolkit-for-jira?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
