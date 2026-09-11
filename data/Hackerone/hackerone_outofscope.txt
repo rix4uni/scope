@@ -158,6 +158,7 @@ holiday.britishairways.com
 regionstest.com
 *.partners.wavelo.com
 *.tucows.com
+github.com
 partners.wavelo.com
 bancoplata.mx
 platacard.mx
@@ -185,7 +186,6 @@ lovable.app
 *.gateways.konggateway.com
 *.edge.gateways.konggateway.com
 docs.konghq.com
-github.com
 *.konghq.tech
 cloud.konghq.tech
 us.api.konghq.tech
@@ -308,7 +308,14 @@ espnbet.com
 2kleague-dev.nba.com
 2kleague-qa.nba.com
 2kleague.nba.com
+ak-static.cms-dev.nba.com
+ak-static.cms-qa.nba.com
+ak-static.cms.nba.com
 arcade.nba.com
+cms-dev.nba.com
+cms-int.nba.com
+cms-qa.nba.com
+cms.nba.com
 coalition.nba.com
 dev.stats.2kleague.nba.com
 events.bal.nba.com
