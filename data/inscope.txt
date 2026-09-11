@@ -2786,7 +2786,6 @@ lockervision.nba.com
 lockervisionteam.nba.com
 login-dev.nba.com
 login-qa.nba.com
-login-sandbox.nba.com
 login-uat.nba.com
 login.nba.com
 longisland-dev.gleague.nba.com
@@ -2997,9 +2996,7 @@ api-sandbox.circle.com
 app.circle.com
 app-sandbox.circle.com
 console.circle.com
-rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
-rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 downloads.varonis.com
 licensemgmt.varonis.com
@@ -3961,8 +3958,6 @@ meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
 mercadobackoffice.com
-mercadolibreexperience.cl
-mercadolivreexperience.com.br
 mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe

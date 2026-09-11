@@ -18098,7 +18098,6 @@
       "lockervisionteam.nba.com",
       "login-dev.nba.com",
       "login-qa.nba.com",
-      "login-sandbox.nba.com",
       "login-uat.nba.com",
       "login.nba.com",
       "longisland-dev.gleague.nba.com",
@@ -18325,6 +18324,7 @@
       "games.nbaacademy.nba.com",
       "jr.nba.com",
       "leaguepass.wnba.com",
+      "login-sandbox.nba.com",
       "mediacentral.nba.com",
       "mindhealth.nba.com",
       "nbafoundation-dev.nba.com",
@@ -18859,9 +18859,7 @@
       "https://github.com/circlefin/starknet-cctp",
       "https://github.com/circlefin/stellar-cctp",
       "https://github.com/circlefin/sui-cctp",
-      "rpc.blockdaemon.testnet.arc.network",
       "rpc.drpc.testnet.arc.network",
-      "rpc.quicknode.testnet.arc.network",
       "rpc.testnet.arc.network"
     ],
     "outofscope_domains": [
@@ -57883,6 +57881,8 @@
     ],
     "outofscope_domains": [
       "*.acordocerto.com.br",
+      "app.disputeprocessing-test.equifax.com",
+      "https://app.disputeprocessing.equifax.com",
       "preview.midigator.com"
     ],
     "issues_reported": [],

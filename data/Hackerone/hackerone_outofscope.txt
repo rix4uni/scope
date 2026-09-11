@@ -323,6 +323,7 @@ evergent.com
 games.nbaacademy.nba.com
 jr.nba.com
 leaguepass.wnba.com
+login-sandbox.nba.com
 mediacentral.nba.com
 mindhealth.nba.com
 nbafoundation-dev.nba.com
@@ -1417,6 +1418,8 @@ manage.gocardless
 xero-staging.gocardless.com
 xero.gocardless.com
 *.acordocerto.com.br
+app.disputeprocessing-test.equifax.com
+app.disputeprocessing.equifax.com
 preview.midigator.com
 datapod-1-100-ingest.development.forescoutcloud.net
 ingest.development.forescoutcloud.net
