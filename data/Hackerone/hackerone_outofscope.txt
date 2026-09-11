@@ -1461,7 +1461,9 @@ wf-projectone.att.com
 *.dev.dynatracelabs.com
 *.dynatrace.com
 community.dynatrace.com
+playground.apps.dynatrace.com
 university-staging.dynatracelabs.com
+wyq34449.sprint.apps.dynatracelabs.com
 *.citymapper.com
 *.drivewithvia.com
 citymapper.com

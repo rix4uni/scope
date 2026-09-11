@@ -400,7 +400,6 @@ sip.*.twilio.com
 *.bmeinntech.es
 *.e2ro.com
 *.eero.com
-*.sync.services.mozilla.com
 *.stripchat.com
 *.redoxengine.com
 *.oklink.com
@@ -413,6 +412,7 @@ sip.*.twilio.com
 *.napoleongames.be
 *.napoleonsports.be
 *.spinaway.com
+*.super.xyz
 *.superbet.com
 *.superbet.gr
 *.superbet.pl

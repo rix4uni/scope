@@ -840,6 +840,7 @@ watsons.co.id
 0.watsons.co.id
 api.watsons.co.id
 medias.watsons.co.id
+id-watsonsbesti.com
 *.watsons.co.id
 watsons.vn
 0.watsons.vn

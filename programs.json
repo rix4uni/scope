@@ -5330,6 +5330,7 @@
       "Watsons Indonesia iOS",
       "api.watsons.co.id",
       "medias.watsons.co.id",
+      "id-watsonsbesti.com",
       "*.watsons.co.id",
       "www.watsons.vn",
       "www10.watsons.vn",
@@ -8768,10 +8769,10 @@
     "platform": "Bugcrowd",
     "reward": "$25000",
     "inscope_domains": [
-      "https://kw-bugcrowd-pub.bounty.kiteworks.dev/"
+      "█████████████████████████████████████████████"
     ],
     "outofscope_domains": [
-      "https://bugcrowd-pub.bounty.kiteworks.dev"
+      "█████████████████████████████████████████"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -22262,43 +22263,6 @@
     "last_updated": "2026-09-11"
   },
   {
-    "name": "Mozilla",
-    "program_url": "https://hackerone.com/mozilla",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Firefox Homepage Newtab",
-      "Mozilla Ad Routing Service",
-      "Product Delivery",
-      "accounts.firefox.com",
-      "addons.allizom.org",
-      "aus5.mozilla.org",
-      "bugzilla.mozilla.org",
-      "crash-reports.allizom.org",
-      "crash-stats.allizom.org",
-      "developer.mozilla.org",
-      "firefox-ci-tc.services.mozilla.com",
-      "firefox.settings.services.mozilla.com",
-      "hg.mozilla.org",
-      "lando.services.mozilla.com",
-      "merino.services.mozilla.com",
-      "monitor.mozilla.org",
-      "phabricator.allizom.org",
-      "pontoon.allizom.org",
-      "relay.firefox.com",
-      "support.mozilla.org",
-      "sync.services.mozilla.com",
-      "vpn.mozilla.org",
-      "www.firefox.com",
-      "www.mozilla.org"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-11"
-  },
-  {
     "name": "Stripchat",
     "program_url": "https://hackerone.com/stripchat",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -22452,6 +22416,7 @@
       "*.napoleongames.be",
       "*.napoleonsports.be",
       "*.spinaway.com",
+      "*.super.xyz",
       "*.superbet.com",
       "*.superbet.gr",
       "*.superbet.pl",
@@ -58191,7 +58156,9 @@
       "*.dynatrace.com",
       "EasyTrade demo application",
       "easyTravel demo application",
-      "university-staging.dynatracelabs.com"
+      "playground.apps.dynatrace.com",
+      "university-staging.dynatracelabs.com",
+      "wyq34449.sprint.apps.dynatracelabs.com"
     ],
     "issues_reported": [],
     "scamhit": "",
