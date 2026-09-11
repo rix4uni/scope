@@ -638,7 +638,6 @@ api.tapayments.com
 erwin.volkswagen.de
 theplaymania.com
 app.gator.com
-app.web.com
 transferwise.com
 wise.com
 brand.wise.com

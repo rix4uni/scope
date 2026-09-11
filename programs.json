@@ -13216,6 +13216,7 @@
     "platform": "Bugcrowd",
     "reward": "$3000",
     "inscope_domains": [
+      "https://app.web.com",
       "https://www.networksolutions.com",
       "https://www.bluehost.com/",
       "https://www.hostgator.com/"
@@ -13226,8 +13227,7 @@
       "https://*.networksolutions.com",
       " https://app.gator.com/",
       "*.bluehost.com",
-      "https://*.hostgator.com",
-      "https://app.web.com"
+      "https://*.hostgator.com"
     ],
     "issues_reported": [],
     "scamhit": "",
