@@ -5620,6 +5620,23 @@
     "last_updated": "2026-09-12"
   },
   {
+    "name": "Jaanga Marketplace Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/JaangaInc-mbb-market",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1236750?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1218225?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-12"
+  },
+  {
     "name": "Accxia Marketplace Bug Bounty ",
     "program_url": "https://bugcrowd.com/engagements/accxia-gmbh",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -11432,27 +11449,6 @@
       "https://marketplace.atlassian.com/apps/1213851/watch-it-for-jira-cloud?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1211639/comment-history-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1211880/document-vault-secure-attachments-in-jira?tab=installation&hosting=cloud"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-12"
-  },
-  {
-    "name": "Refined",
-    "program_url": "https://bugcrowd.com/engagements/refined2",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$2500",
-    "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1216056/refined-toolkit-for-confluence-cloud?hosting=cloud&tab=overview",
-      "refined.site/admin",
-      "https://refinedsites.refinedwiki.com",
-      "https://marketplace.atlassian.com/apps/1221322/refined-for-confluence-cloud?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1218481/refined-for-jira-cloud?hosting=cloud&tab=overview",
-      "bugbounty-refined-test-<bugcrowd-name>.refined.site\t",
-      "https://marketplace.atlassian.com/apps/1236998/refined-ui-toolkit-for-confluence-page-builder-navigation?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1211136/refined-macro-toolkit-content-formatting-macros?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
