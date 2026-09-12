@@ -7983,7 +7983,8 @@
     "platform": "Bugcrowd",
     "reward": "$20000",
     "inscope_domains": [
-      "Any FIS asset is in scope"
+      "Any FIS asset is in scope",
+      "https://www.tdfitloan.com/#!/"
     ],
     "outofscope_domains": [
       "https://apuat-aaa.fisglobal.com"

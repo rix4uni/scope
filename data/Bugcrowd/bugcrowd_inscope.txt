@@ -260,6 +260,7 @@ financialforce.com
 sb-console-api.fireblocks.io
 sb-mobile-api.fireblocks.io
 sandbox-api.fireblocks.io
+tdfitloan.com
 fivetran.com
 *.fivetran.com
 flo.uri.sh
