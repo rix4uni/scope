@@ -13298,6 +13298,24 @@
     "last_updated": "2026-09-13"
   },
   {
+    "name": "Wyze Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/wyze",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$5000",
+    "inscope_domains": [
+      "https://auth.wyze.com",
+      "https://my.wyze.com",
+      "https://api.wyzecam.com",
+      "Wyze Cam V3",
+      "https://www.wyze.com/products/wyze-cam"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-13"
+  },
+  {
     "name": "Xfinity Home & xFi",
     "program_url": "https://bugcrowd.com/engagements/xfinity-home",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -13364,20 +13382,6 @@
       "██████████████",
       "████████████████████████████"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-13"
-  },
-  {
-    "name": "Xopero Software S.A. Marketplace Managed Bug Bounty Engagement",
-    "program_url": "https://bugcrowd.com/engagements/xopero-software-marketplace",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$1500",
-    "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-13"
