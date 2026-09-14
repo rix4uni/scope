@@ -1930,6 +1930,7 @@ napoleoncasino.be
 napoleondice.be
 napoleongames.be
 napoleonsports.be
+super.xyz
 superbet.pl
 superbet.rs
 ro.superbet.games
@@ -3969,6 +3970,18 @@ mynexuz.be
 liquidfiles.nexuzhealth.com
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
 hstconboarding.peoplecert.org
@@ -4578,6 +4591,10 @@ professionnels.vaccination-info-service.fr
 vivre-avec-la-chaleur.fr
 tabac-info-service.fr
 my.sogexia.com
+api.super-id.net
+ecosystem-experience.super-id.net
+superbank.id
+chatbot.super-id.net
 api.swapcard.com
 chat-api.swapcard.com
 developer.swapcard.com

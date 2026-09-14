@@ -112,6 +112,7 @@ taxify.eu
 *.taxify.eu
 bolt.eu
 *.bolt.eu
+*.boltable.eu
 docs.bugcrowd.com
 bugcrowd.com
 tracker.bugcrowd.com

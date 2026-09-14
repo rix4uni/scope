@@ -1,1 +1,3 @@
-*.super.xyz
+*.boltable.eu
+*.ninjakiwi.me
+*.nkstatic.com

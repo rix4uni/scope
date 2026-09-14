@@ -1297,6 +1297,27 @@
     "last_updated": "2026-09-14"
   },
   {
+    "name": "Superbank - Public Bug Bounty Program",
+    "program_url": "https://yeswehack.com/programs/superbank-public-bug-bounty-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$2000",
+    "inscope_domains": [
+      "https://apps.apple.com/id/app/superbank/id6444720285",
+      "https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en",
+      "api.super-id.net",
+      "ecosystem-experience.super-id.net",
+      "superbank.id",
+      "http://chatbot.super-id.net"
+    ],
+    "outofscope_domains": [
+      "Applications, URLs, or data that are not listed on this page are considered out of scope."
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-14"
+  },
+  {
     "name": "Swapcard",
     "program_url": "https://yeswehack.com/programs/swapcard",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -1714,6 +1735,23 @@
     "outofscope_domains": [
       "All domains or subdomains not listed in the above list of 'Scopes'"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "name": "ADAC Vulnerability Disclosure Program",
+    "program_url": "https://www.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "all",
+      "193.30.38.0/24",
+      "193.30.37.0/24",
+      "193.30.36.0/24"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-14"
@@ -3837,6 +3875,40 @@
       "media.nexuzhealth.be/patient/ "
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "name": "Ninja Kiwi Games Bug Bounty program",
+    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4125",
+    "inscope_domains": [
+      "analytics.ninjakiwi.com",
+      "api.ninjakiwi.com",
+      "guts.ninjakiwi.com",
+      "*.ninjakiwi.me",
+      "*.nkstatic.com",
+      "battles.tv",
+      "data.ninjakiwi.com",
+      "ninja.kiwi",
+      "ninjakiwi.com",
+      "alerts.ninjakiwi.com",
+      "boomer2.ninjakiwi.com",
+      "ct.ninjakiwi.com",
+      "mynk-dash.ninjakiwi.com",
+      "mynk.ninjakiwi.com",
+      "*.souparea.com"
+    ],
+    "outofscope_domains": [
+      "rancher.ninjakiwi.com",
+      "rancher.ninjakiwi.me",
+      "store.ninjakiwi.com",
+      "support.ninjakiwi.com",
+      "icarusadmin.ninjakiwi.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-14"
@@ -6691,7 +6763,8 @@
       "https://apps.apple.com/ee/app/bolt-food/id1451492388",
       "https://play.google.com/store/apps/details?id=com.bolt.deliveryclient",
       "https://taxify.eu/",
-      "https://bolt.eu/"
+      "https://bolt.eu/",
+      "https://*.boltable.eu"
     ],
     "outofscope_domains": [
       "https://play.google.com/store/apps/details?id=ee.mtakso.driver",
@@ -15282,20 +15355,6 @@
     "last_updated": "2026-09-14"
   },
   {
-    "name": "Vueling",
-    "program_url": "https://hackerone.com/vueling_vdp",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "*.vueling.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-14"
-  },
-  {
     "name": "Robinhood Markets",
     "program_url": "https://hackerone.com/robinhood_markets",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -22432,6 +22491,7 @@
       "https://napoleondice.be",
       "https://napoleongames.be",
       "https://napoleonsports.be",
+      "https://super.xyz",
       "https://superbet.pl",
       "https://superbet.ro",
       "https://superbet.rs",
@@ -31037,6 +31097,7 @@
     "platform": "HackerOne",
     "reward": "-",
     "inscope_domains": [
+      "Leaked Credentials",
       "admit-it-win.cadbury.co.uk",
       "admit-it.cadbury.co.uk",
       "admit-it.cadbury.ie",
@@ -31380,7 +31441,6 @@
       "ygeiaspavlides.gr"
     ],
     "outofscope_domains": [
-      "Leaked Credentials",
       "bot.cadburygifting.in",
       "https://cadburygifting.in",
       "www.cadburygifting.in"
@@ -58841,8 +58901,7 @@
       "meliplay.com.uy",
       "mercadobackoffice.com",
       "mercadoenvios.com.ve",
-      "mercadolibreexperience.cl",
-      "mercadolivreexperience.com.br/",
+      "mercadolibreexperience.com.*",
       "mercadopago.com.ve",
       "mercadoplay.co",
       "mercadoplay.com.pe",
@@ -61414,6 +61473,24 @@
       "com.quora.android",
       "com.quora.app.mobile",
       "http://poe.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-14"
+  },
+  {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

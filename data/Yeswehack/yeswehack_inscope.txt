@@ -363,6 +363,10 @@ professionnels.vaccination-info-service.fr
 vivre-avec-la-chaleur.fr
 tabac-info-service.fr
 my.sogexia.com
+api.super-id.net
+ecosystem-experience.super-id.net
+superbank.id
+chatbot.super-id.net
 api.swapcard.com
 chat-api.swapcard.com
 developer.swapcard.com
