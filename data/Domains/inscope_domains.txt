@@ -1658,8 +1658,6 @@ api-sandbox.circle.com
 app.circle.com
 app-sandbox.circle.com
 console.circle.com
-rpc.drpc.testnet.arc.network
-rpc.testnet.arc.network
 downloads.varonis.com
 licensemgmt.varonis.com
 my.varonis.com

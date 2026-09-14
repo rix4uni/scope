@@ -12351,7 +12351,7 @@
     "inscope_domains": [
       "Self-Register Account on T-Mobile Microsoft Entra ID",
       "Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)",
-      "T&P Servers",
+      "T&P Servers (Temporarily Out of Scope)",
       "https://t-mobile.com",
       "https://account.t-mobile.com",
       "https://api.t-mobile.com",
@@ -12428,8 +12428,10 @@
       "https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile"
     ],
     "outofscope_domains": [
-      "*.sprint.net",
       "/self-service-*",
+      "http://10.72.218.66/flag.txt",
+      "http://10.62.252.214/flag.txt",
+      "*.sprint.net",
       "*.mobile.uscc.net",
       "*.mobile.uscc.com",
       "https://*.moengage.com",
@@ -18929,14 +18931,11 @@
       "console.circle.com",
       "http://github.com/circlefin/noble-cctp",
       "https://github.com/circlefin/aptos-cctp",
-      "https://github.com/circlefin/arc-node",
-      "https://github.com/circlefin/arc-remote-signer",
       "https://github.com/circlefin/buidl-wallet-contracts",
       "https://github.com/circlefin/evm-cctp-contracts",
       "https://github.com/circlefin/evm-cpn-contracts",
       "https://github.com/circlefin/evm-gateway-contracts",
       "https://github.com/circlefin/evm-xreserve-contracts",
-      "https://github.com/circlefin/malachite",
       "https://github.com/circlefin/noble-fiattokenfactory",
       "https://github.com/circlefin/solana-cctp-contracts",
       "https://github.com/circlefin/solana-gateway-contracts",
@@ -18948,14 +18947,9 @@
       "https://github.com/circlefin/stablecoin-xlm",
       "https://github.com/circlefin/starknet-cctp",
       "https://github.com/circlefin/stellar-cctp",
-      "https://github.com/circlefin/sui-cctp",
-      "rpc.drpc.testnet.arc.network",
-      "rpc.testnet.arc.network"
+      "https://github.com/circlefin/sui-cctp"
     ],
-    "outofscope_domains": [
-      "x.com",
-      "youtube.com"
-    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-14"
@@ -62736,6 +62730,7 @@
       "AmpliFi",
       "Cloudkey",
       "EdgeMAX",
+      "Enterprise Audio/Video",
       "UCRM",
       "UFiber",
       "UID",
@@ -62752,6 +62747,7 @@
       "UniFi Switches",
       "UniFi Talk",
       "UniFi Wireless Access Points",
+      "UniFi-Play",
       "account.ui.com",
       "airFiber",
       "airMAX",

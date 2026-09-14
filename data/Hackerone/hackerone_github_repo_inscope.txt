@@ -15,14 +15,11 @@ https://github.com/vercel/turborepo
 https://github.com/vercel/vercel
 https://github.com/vercel/workflow
 https://github.com/circlefin/aptos-cctp
-https://github.com/circlefin/arc-node
-https://github.com/circlefin/arc-remote-signer
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/evm-gateway-contracts
 https://github.com/circlefin/evm-xreserve-contracts
-https://github.com/circlefin/malachite
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/solana-gateway-contracts

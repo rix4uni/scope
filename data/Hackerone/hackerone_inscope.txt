@@ -620,8 +620,6 @@ api-sandbox.circle.com
 app.circle.com
 app-sandbox.circle.com
 console.circle.com
-rpc.drpc.testnet.arc.network
-rpc.testnet.arc.network
 *.varonis.com
 *.varonis.io
 downloads.varonis.com

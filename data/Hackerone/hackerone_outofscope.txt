@@ -347,8 +347,6 @@ supabase.dev
 supabase.productions
 supabase.sh
 auth.finnair.com
-x.com
-youtube.com
 advisoryworld.com
 *.cyral.com
 *.varonis-preprod.com
