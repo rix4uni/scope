@@ -28,10 +28,16 @@ gogotelugo.com
 gogotours.ca
 gpden.gogoair.com
 gpmlb.gogoair.com
+gogo.aero
 gogo.to
+gosatcom.net
+satcomdirect.com.br
+satcomsimple.com
+satcomtest.com
 sdgov.gogoair.com
 legacy.gogoair.com
 *gogo.com
+aeroxr.com
 gogo574.com
 gogoair.com
 gogocloud.net
@@ -1151,6 +1157,7 @@ travel.aig.co.jp
 1008.aig.com
 180.aig.com
 280.aig.com
+aigportal.de
 corebridgefinancial.com
 *.fip.finra.org
 ews.finra.org

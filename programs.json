@@ -3998,6 +3998,29 @@
     "last_updated": "2026-09-14"
   },
   {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-14"
+  },
+  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4873,13 +4896,20 @@
     "reward": "€0",
     "inscope_domains": [
       "*.truelayer.com",
-      "*.truelayer-sandbox.com",
-      "*.zimpler.com",
       "*.zimpler.net",
+      "*.sandbox.zimpler.net",
       "*.staging.zimpler.net",
-      "*.sandbox.zimpler.net"
+      "*.truelayer-sandbox.com",
+      "checkout-playground.zimpler.com",
+      "devdocs.zimpler.com",
+      "identify.zimpler.com",
+      "okta-oauth2.zimpler.com",
+      "swish-playground.zimpler.com",
+      "zimpler-merchant.zimpler.com"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "*.zimpler.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-14"
@@ -13906,13 +13936,7 @@
     "platform": "HackerOne",
     "reward": "-",
     "inscope_domains": [
-      "gogogenius.stage.gogoair.cloud",
-      "https://gogo.aero",
-      "https://gosatcom.net",
-      "https://satcomdirect.com.br",
-      "https://satcomsimple.com",
-      "https://satcomtest.com",
-      "www.aeroxr.com"
+      "gogogenius.stage.gogoair.cloud"
     ],
     "outofscope_domains": [
       "gogo-cards.com",
@@ -13926,12 +13950,18 @@
       "gogotours.ca",
       "http://gpden.gogoair.com",
       "http://gpmlb.gogoair.com",
+      "https://gogo.aero",
       "https://gogo.to",
+      "https://gosatcom.net",
+      "https://satcomdirect.com.br",
+      "https://satcomsimple.com",
+      "https://satcomtest.com",
       "https://www.sdgov.gogoair.com",
       "legacy.gogoair.com",
       "www.*.gogoair.*.com",
       "www.*gogo*.com",
       "www.*gogo.com",
+      "www.aeroxr.com",
       "www.gogo*.*",
       "www.gogo*.com",
       "www.gogo574.com",
@@ -55568,7 +55598,6 @@
       "www.aig.",
       "www.aig.co.il",
       "www.aig.com.br",
-      "www.aigportal.de",
       "www.americanhome.co.jp",
       "www.glatfelters.com",
       "www.rapidcover.ie",
@@ -55584,6 +55613,7 @@
       "www-1008.aig.com",
       "www-180.aig.com",
       "www-280.aig.com",
+      "www.aigportal.de",
       "www.corebridgefinancial.com"
     ],
     "issues_reported": [],
@@ -58793,7 +58823,6 @@
       "6740879082",
       "com.fanduel.android.self",
       "com.fanduel.casino",
-      "com.fanduel.flywheelnativecontainer.picks",
       "com.fanduel.racing",
       "com.fanduel.sportsbook",
       "login-4ngbets.us.betfair.com",

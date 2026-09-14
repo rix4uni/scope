@@ -595,6 +595,10 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -616,6 +620,7 @@ g.*.slackhq.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
+*.zimpler.com
 *.uphodl.com
 *.zabka-snrs.zabka.pl
 *.intigriti.io
@@ -1329,9 +1334,15 @@ gogotelugo.com
 gogotours.ca
 gpden.gogoair.com
 gpmlb.gogoair.com
+gogo.aero
 gogo.to
+gosatcom.net
+satcomdirect.com.br
+satcomsimple.com
+satcomtest.com
 sdgov.gogoair.com
 legacy.gogoair.com
+aeroxr.com
 gogo574.com
 gogoair.com
 gogocloud.net
@@ -2261,6 +2272,7 @@ travel.aig.co.jp
 1008.aig.com
 180.aig.com
 280.aig.com
+aigportal.de
 corebridgefinancial.com
 ews.finra.org
 help.yesware.com
@@ -3504,6 +3516,7 @@ rancher.ninjakiwi.me
 store.ninjakiwi.com
 support.ninjakiwi.com
 icarusadmin.ninjakiwi.com
+a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
