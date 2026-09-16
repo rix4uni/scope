@@ -146,6 +146,7 @@ community-staging.meraki.com
 *.cisco.com
 meraki.cisco.com
 documentation.meraki.com
+*.workflows.meraki.com
 wien.gv.at
 shop.classdojo.com
 learn.clickhouse.com

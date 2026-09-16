@@ -16,6 +16,7 @@
 *.freshdesk.com
 *.bullish.com
 *.cisco.com
+*.workflows.meraki.com
 *buddybot.lab.epam.com
 *.buddybot.lab.epam.com
 *.db.fivetran.com
@@ -577,6 +578,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -616,6 +618,7 @@ g.*.slackhq.com
 *.probes.atlas.ripe.net
 *.ripe.net
 *ripe.net
+*.randstad.in
 *.newyorkredbulls.com
 *.ccnag.com
 *.connect.coca-cola.com
@@ -626,6 +629,7 @@ g.*.slackhq.com
 *.intigriti.io
 *.intigriti.net
 *.intercom.io
+*.contentsquare.com
 *.cryptobox.com
 *.ercom.fr
 *.dana.id

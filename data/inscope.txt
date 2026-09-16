@@ -440,6 +440,7 @@ ic3.*.indriverapp.com
 *.mongodb.com
 *ripiotrade.co
 *.deribit.com
+*.arc.io
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -888,6 +889,7 @@ ic3.*.indriverapp.com
 *.quora.com
 *.files.com
 *files.com
+*.hosted-by-files.com
 *.scopely.com
 *.scopely.io
 *.withbuddies.com
@@ -1047,6 +1049,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1210,6 +1213,7 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.deliciousbrains.com
@@ -1246,8 +1250,7 @@ ic3.*.indriverapp.com
 *.alipayplus.com
 *.antom.com
 *.worldfirst.com
-*.bitoasis.net
-*.coindcx.com
+*.contentsquare.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
@@ -3400,6 +3403,8 @@ test.deribit.com
 api.sorare.com
 sorare.com
 ws.sorare.com
+rpc.drpc.testnet.arc.network
+rpc.testnet.arc.network
 hilton.com
 eis.hilton.com
 hilton.io
@@ -4591,6 +4596,7 @@ developers.files.com
 sitename.files.com
 app.files.com
 your-assigned-subdomain.files.com
+your-assigned-subdomain.hosted-by-files.com
 api.excalls.mobi
 exness.com
 exnessaffiliates.com
@@ -5017,6 +5023,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 demorgen.be
 myaccount.volkskrant.nl
@@ -5433,6 +5448,7 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
+cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
@@ -5544,6 +5560,16 @@ vrt.be
 myaccount.vtm.be
 vtm.be
 vtmgo.be
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+developers.veriff.me
+veriff.com
 api.voiapp.io
 mds.voiapp.io
 fm.voiapp.io
@@ -5677,7 +5703,9 @@ m.blablacar
 api.blablalines.com
 daily.blablacar.fr
 blablacardaily.com
-api.coindcx.com
+mobile-production.content-square.net
+m.csqtrk.net
+s.contentsquare.net
 bounty.cryptobox.com
 cyberghost.com
 cyberghost.app
@@ -6033,4 +6061,3 @@ cam.notebleue.pro
 toom.de
 api.toom.de
 co.uk.com
-parcelhubeurope.com

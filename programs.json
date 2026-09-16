@@ -120,27 +120,6 @@
     "last_updated": "2026-09-16"
   },
   {
-    "name": "BitOasis - Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/bitoasis-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$2000",
-    "inscope_domains": [
-      "*.bitoasis.net",
-      "https://play.google.com/store/apps/details?id=com.bitoasis&hl=en",
-      "https://apps.apple.com/ae/app/bitoasis-buy-bitcoin-crypto/id1521661794"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'",
-      "Websites under Bitoasis that utilize CMS frameworks (e.g., WordPress, Joomla, Sitecore).",
-      "https://blog.bitoasis.net",
-      "All other third parties"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-16"
-  },
-  {
     "name": "BookBeat",
     "program_url": "https://yeswehack.com/programs/bookbeat",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -190,25 +169,48 @@
     "last_updated": "2026-09-16"
   },
   {
-    "name": "Coindcx - Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/coindcx-bug-bounty-program",
+    "name": "Contentsquare Bug Bounty Program",
+    "program_url": "https://yeswehack.com/programs/contentsquare-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
     "platform": "YesWeHack",
     "reward": "$2000",
     "inscope_domains": [
-      "*.coindcx.com",
-      "api.coindcx.com",
-      "https://play.google.com/store/apps/details?id=com.coindcx.btc",
-      "https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto/id1517787269"
+      "*.contentsquare.com",
+      "https://mobile-production.content-square.net/",
+      "https://m.csqtrk.net",
+      "https://s.contentsquare.net",
+      "Contentsquare SDK (cf : Program Description)"
     ],
     "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'",
-      "Zendesk and other third parties",
-      "CMS websites own by Coindcx (Anything related to Wordpress etc)",
-      "coindcx.com/blog",
-      "info.coindcx.com",
-      "otcdesk.coindcx.com",
-      "careers.coindcx.com"
+      "partnerportal.contentsquare.com",
+      "uxawards.contentsquare.com",
+      "www.contentsquare.com",
+      "community.contentsquare.com",
+      "brand.contentsquare.com",
+      "blog.contentsquare.com",
+      "csquad.contentsquare.com",
+      "csd-*.contentsquare.com",
+      "go.contentsquare.com",
+      "hackathon.contentsquare.com",
+      "security.contentsquare.com",
+      "support.contentsquare.com",
+      "learn.contentsquare.com",
+      "learn2.contentsquare.com",
+      "csq.contentsquare.com",
+      "university.contentsquare.com",
+      "foundation.contentsquare.com",
+      "content.contentsquare.com",
+      "partners.contentsquare.com",
+      "incident.contentsquare.com",
+      "*.wwko*.contentsquare.com",
+      "explore.contentsquare.com",
+      "get.contentsquare.com",
+      "trust.contentsquare.com",
+      "loyalty.contentsquare.com",
+      "page.contentsquare.com",
+      "csq.contentsquare.com",
+      "invite.contentsquare.com",
+      "status.contentsquare.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -1100,26 +1102,6 @@
     "last_updated": "2026-09-16"
   },
   {
-    "name": "Okto - Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/okto-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$2000",
-    "inscope_domains": [
-      "https://apps.apple.com/in/app/okto-wallet/id6450688229",
-      "https://play.google.com/store/apps/details?id=com.coindcx.okto"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'",
-      "CMS websites own by Okto (Anything related to Wordpress etc)",
-      "Customer support form (https://help-okto.sprinklr.com/help/)",
-      "All other third parties"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-16"
-  },
-  {
     "name": "Ooredoo QPSC - Customer Portal Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -1729,8 +1711,7 @@
       "https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)",
       "https://*.vidaxl.org",
       "https://*.vidaxl.io",
-      "https://*.vidaxl.net",
-      "https://parcelhubeurope.com"
+      "https://*.vidaxl.net"
     ],
     "outofscope_domains": [
       "All domains or subdomains not listed in the above list of 'Scopes'"
@@ -2551,6 +2532,48 @@
     "last_updated": "2026-09-16"
   },
   {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-16"
+  },
+  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3267,24 +3290,6 @@
       "slack.innogames.de",
       "typingmind.innogames.de"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-16"
-  },
-  {
-    "name": "Intel®",
-    "program_url": "https://www.intigriti.com/programs/intel/intel/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$100000",
-    "inscope_domains": [
-      "Hardware",
-      "Firmware",
-      "Software",
-      "Services",
-      "IT Infrastructure"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-16"
@@ -4338,6 +4343,7 @@
       "Any related Randstad domain"
     ],
     "outofscope_domains": [
+      "*.randstad.in",
       "apps.randstad.in",
       "cz.randstad.com",
       "workplace.randstad.in"
@@ -4511,6 +4517,21 @@
       "https://www.simscale.com/api/v1/projects/*",
       "www.simscale.com/forum/users/*.json"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "name": "Skoda Auto Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
+      "cz.skodaauto.myskoda"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-16"
@@ -5168,6 +5189,34 @@
       "vtmgo.be/service",
       "shop.vtm.be",
       "customerservice.vtm.be"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "name": "Veriff Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "1467907532",
+      "alchemy.veriff.com",
+      "api.flamingo-eu.veriff.com",
+      "api.us.veriff.me",
+      "api.veriff.me",
+      "com.veriff.demo",
+      "louvre.veriff.me",
+      "magic.veriff.me",
+      "station.veriff.com",
+      "stationapi.veriff.com",
+      "*.veriff.com",
+      "developers.veriff.me",
+      "www.veriff.com"
+    ],
+    "outofscope_domains": [
+      "https://station.veriff.com/config/"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -7186,7 +7235,8 @@
       "meraki.cisco.com/form/contact",
       "Customer API Keys",
       "Meraki MC Phones",
-      "documentation.meraki.com"
+      "documentation.meraki.com",
+      "*.workflows.meraki.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -14382,7 +14432,6 @@
       "https://www.lotushygiene.com/be-fr/",
       "https://www.lotushygiene.com/be-nl/",
       "https://www.medical.essitylatam.com/",
-      "https://www.monbienetrerecompense.fr/",
       "https://www.nana-me.com/ar-ae/",
       "https://www.nana-me.com/ar-jo/",
       "https://www.nana-me.com/ar-kw/",
@@ -18887,7 +18936,6 @@
     "platform": "HackerOne",
     "reward": "-",
     "inscope_domains": [
-      "*.comperemedia.com",
       "*.gnpd.com",
       "*.mintel.cloud",
       "*.mintel.co.uk",
@@ -18902,7 +18950,6 @@
       "https://lon-dc-ppt.mintel.com",
       "https://marketsizes.mintel.com/",
       "https://oauth.mintel.com/",
-      "https://omni.comperemedia.com/",
       "https://policy-agent.mintel.com",
       "https://portal.mintel.com/",
       "https://qa-server-inventory.mintel.com/",
@@ -18910,7 +18957,6 @@
       "https://shibboleth.mintel.com",
       "https://store.mintel.com/",
       "https://whoswho.mintel.com/",
-      "https://www.comperemedia.com",
       "https://www.gnpd.com/",
       "https://www.mintel.com/"
     ],
@@ -29850,12 +29896,12 @@
       "zxframework.org",
       "zxsavvy.org",
       "zykadia.ca",
-      "zyllium.com",
-      "zyngapoker.fr"
+      "zyllium.com"
     ],
     "outofscope_domains": [
       "bigstockphoto.fr",
-      "ofcourse.com"
+      "ofcourse.com",
+      "zyngapoker.fr"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -30377,6 +30423,25 @@
       "plus.sign.SignPlus",
       "plus.sign.android",
       "www.alohi.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "name": "Arc BBP",
+    "program_url": "https://hackerone.com/arc-bbp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "*.arc.io",
+      "https://github.com/circlefin/arc-node",
+      "https://github.com/circlefin/arc-remote-signer",
+      "https://github.com/circlefin/malachite",
+      "rpc.drpc.testnet.arc.network",
+      "rpc.testnet.arc.network"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -42935,6 +43000,7 @@
       "ims.tal.deere.com",
       "ims.tcms.tal.deere.com",
       "india-digitalization-pocs.apps-devl-vpn.us.e06.c01.johndeerecloud.com",
+      "india-sam-spm-api-prod.channel-dss-r1-india-spm-prod-vpn.ap.e06.c01.johndeerecloud.com",
       "indiabranchitapps.deere.com",
       "info.sentera.com",
       "infohub-devl.deere.com",
@@ -43338,6 +43404,7 @@
       "partscatalog.deere.com",
       "partscheckout.deere.com",
       "partsdesk.deere.com",
+      "patchflow.deere.com",
       "paving-administration-dev.witos.wirtgen-group.com",
       "paving-administration.witos.wirtgen-group.com",
       "pay-qual.deere.com",
@@ -45486,8 +45553,10 @@
       "Global Payments Integrated",
       "Globalpayments.com",
       "Greater Giving",
+      "Heartland Developer Portal",
       "Heartland Payment Systems",
       "Heartland Restaurant / Retail / Human Capital Management (Get Hired)",
+      "Merchant Portal",
       "MerchantWare",
       "Micropayments",
       "MineralTree",
@@ -45505,8 +45574,13 @@
       "developer.globalpay.com",
       "eWay",
       "http://cloud-sbox.storman.com",
+      "http://heartland.us",
       "http://portal-staging.storman.com",
-      "pcamerica.com"
+      "pcamerica.com",
+      "test.revaluemycard.com",
+      "testadmin.revaluemycard.com",
+      "testmobile.revaluemycard.com",
+      "testprovider.revaluemycard.com"
     ],
     "outofscope_domains": [
       "Heartland Payroll",
@@ -56702,6 +56776,7 @@
       "*.atp-exodus.com",
       "*.grateful.me",
       "Exodus Browser Extension",
+      "Exodus Mobile App Browser and Wallet Connect",
       "Passkey Wallet",
       "api-p.xoswap.com",
       "api.passkeys.network",
@@ -61589,7 +61664,8 @@
       "Files.com SDKs and MCP",
       "app.files.com",
       "www.files.com",
-      "your-assigned-subdomain.files.com"
+      "your-assigned-subdomain.files.com",
+      "your-assigned-subdomain.hosted-by-files.com"
     ],
     "outofscope_domains": [
       "In-App AI Assistant",
@@ -63307,6 +63383,7 @@
       "events.www.cloudflare.com",
       "examples.realtime.cloudflare.com",
       "files.plugins.realtime.cloudflare.com",
+      "https://github.com/cloudflare/agentic-inbox",
       "https://github.com/cloudflare/cloudflare-os",
       "https://github.com/cloudflare/computer",
       "https://github.com/cloudflare/moq-rs",

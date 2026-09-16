@@ -440,6 +440,7 @@ ic3.*.indriverapp.com
 *.mongodb.com
 *ripiotrade.co
 *.deribit.com
+*.arc.io
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -888,6 +889,7 @@ ic3.*.indriverapp.com
 *.quora.com
 *.files.com
 *files.com
+*.hosted-by-files.com
 *.scopely.com
 *.scopely.io
 *.withbuddies.com
@@ -1047,6 +1049,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1210,6 +1213,7 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.deliciousbrains.com
@@ -1246,8 +1250,7 @@ ic3.*.indriverapp.com
 *.alipayplus.com
 *.antom.com
 *.worldfirst.com
-*.bitoasis.net
-*.coindcx.com
+*.contentsquare.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com

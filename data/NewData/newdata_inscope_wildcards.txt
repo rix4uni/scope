@@ -1,3 +1,5 @@
-*.boltable.eu
-*.ninjakiwi.me
-*.nkstatic.com
+*.arc.io
+*.hosted-by-files.com
+*.datacamp.com
+*.veriff.com
+*.contentsquare.com

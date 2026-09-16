@@ -1131,6 +1131,9 @@ test.deribit.com
 api.sorare.com
 sorare.com
 ws.sorare.com
+*.arc.io
+rpc.drpc.testnet.arc.network
+rpc.testnet.arc.network
 *.hilton.com
 hilton.com
 eis.hilton.com
@@ -2773,6 +2776,8 @@ sitename.files.com
 app.files.com
 your-assigned-subdomain.files.com
 *files.com
+your-assigned-subdomain.hosted-by-files.com
+*.hosted-by-files.com
 api.excalls.mobi
 exness.com
 exnessaffiliates.com

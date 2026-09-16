@@ -1,1 +1,3 @@
-https://github.com/brave/*,
+https://github.com/circlefin/arc-node
+https://github.com/circlefin/arc-remote-signer
+https://github.com/circlefin/malachite

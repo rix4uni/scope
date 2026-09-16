@@ -87,6 +87,9 @@ https://github.com/okx/go-wallet-sdk
 https://github.com/tronprotocol/java-tron
 https://github.com/evergreen-ci/evergreen
 https://github.com/mongodb-js/mongodb-mcp-server
+https://github.com/circlefin/arc-node
+https://github.com/circlefin/arc-remote-signer
+https://github.com/circlefin/malachite
 https://github.com/moonpay
 https://github.com/stripe/munkisrv
 https://github.com/stripe/smokescreen

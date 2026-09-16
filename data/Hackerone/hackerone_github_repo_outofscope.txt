@@ -30,6 +30,7 @@ https://github.com/elastic/*
 https://github.com/swiftype/*
 https://github.com/EpicGames/UnrealTournament
 https://github.com/wordpress-mobile
+https://github.com/cloudflare/agentic-inbox
 https://github.com/cloudflare/cloudflare-os
 https://github.com/cloudflare/computer
 https://github.com/cloudflare/moq-rs
