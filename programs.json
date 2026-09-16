@@ -30506,7 +30506,11 @@
       "rpc.drpc.testnet.arc.network",
       "rpc.testnet.arc.network"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "community.arc.io",
+      "explorer.arc.io",
+      "help.arc.io"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-16"
