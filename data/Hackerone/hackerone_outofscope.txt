@@ -1760,6 +1760,7 @@ gs.com
 *.rocaton.com
 secure.rocaton.com
 *.scripts.vennhypotheken.nl
+*.vennhypotheken.nl
 18098.nextcapital.com
 *.subscriptions.gs.com
 gset.gs.com

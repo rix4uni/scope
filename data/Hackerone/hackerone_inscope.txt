@@ -2442,7 +2442,6 @@ classic.gs.de
 gs.com
 *.nnip.com
 *.qaglobal-liquidity.gs.com
-*.vennhypotheken.nl
 api.foliofn.com
 apigw.foliofn.com
 developer.gs.com

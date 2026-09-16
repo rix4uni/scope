@@ -476,6 +476,7 @@ online.*.skybingo.com
 *.overrules.vennhypotheken.nl
 *.rocaton.com
 *.scripts.vennhypotheken.nl
+*.vennhypotheken.nl
 *.subscriptions.gs.com
 *.bcbits.com
 *.jellychat.com
