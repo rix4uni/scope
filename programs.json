@@ -208,7 +208,6 @@
       "trust.contentsquare.com",
       "loyalty.contentsquare.com",
       "page.contentsquare.com",
-      "csq.contentsquare.com",
       "invite.contentsquare.com",
       "status.contentsquare.com"
     ],
@@ -3028,6 +3027,26 @@
     "last_updated": "2026-09-16"
   },
   {
+    "name": "GULP",
+    "program_url": "https://www.intigriti.com/programs/randstad/gulp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.gulp.ch",
+      "*.gulp.de",
+      "demo.tendertracker.de",
+      "www.gulp-shop.de"
+    ],
+    "outofscope_domains": [
+      "www.gulp.ch/forum/*",
+      "www.gulp.de/forum/*"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-16"
+  },
+  {
     "name": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
     "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5189,34 +5208,6 @@
       "vtmgo.be/service",
       "shop.vtm.be",
       "customerservice.vtm.be"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-16"
-  },
-  {
-    "name": "Veriff Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "1467907532",
-      "alchemy.veriff.com",
-      "api.flamingo-eu.veriff.com",
-      "api.us.veriff.me",
-      "api.veriff.me",
-      "com.veriff.demo",
-      "louvre.veriff.me",
-      "magic.veriff.me",
-      "station.veriff.com",
-      "stationapi.veriff.com",
-      "*.veriff.com",
-      "developers.veriff.me",
-      "www.veriff.com"
-    ],
-    "outofscope_domains": [
-      "https://station.veriff.com/config/"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -13607,6 +13598,26 @@
     "last_updated": "2026-09-16"
   },
   {
+    "name": "d-you App & German EUDI Wallet Ecosystem",
+    "program_url": "https://hackerone.com/common_codes",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "d-you Wallet Android Test",
+      "d-you Wallet iOS Test",
+      "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm",
+      "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns",
+      "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca",
+      "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/status-lists",
+      "https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-16"
+  },
+  {
     "name": "Assa Abloy Americas",
     "program_url": "https://hackerone.com/assa_abloy_americas",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -20514,6 +20525,36 @@
     ],
     "outofscope_domains": [
       "issue-management.iontrading.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-16"
+  },
+  {
+    "name": "Klarna",
+    "program_url": "https://hackerone.com/klarna",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "*.klarna.com",
+      "*.klarna.net",
+      "*.klarnacdn.net",
+      "*.pricerunner.com",
+      "Klarna Android App (com.myklarnamobile)",
+      "Klarna iOS App (com.klarna.app)",
+      "Merchant Portal",
+      "app.klarna.com"
+    ],
+    "outofscope_domains": [
+      "Kustom",
+      "https://api-stage.pricerunner.com/swagger-ui.html",
+      "https://api-us.pricerunner.com/swagger-ui.html",
+      "https://api.pricerunner.com/swagger-ui.html",
+      "https://app.klarna.com/us/api/connected_card_bff/",
+      "jobs.pricerunner.com",
+      "locker.klarna.com",
+      "nuji.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -59820,6 +59861,24 @@
     "last_updated": "2026-09-16"
   },
   {
+    "name": "MariaDB",
+    "program_url": "https://hackerone.com/mariadb",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "MariaDB Server & Connectors  - Denial of Service",
+      "MariaDB Server & Connectors - Access control bypass",
+      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
+      "MariaDB Server & Connectors - Remote Code Execution",
+      "mariadb.org"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-16"
+  },
+  {
     "name": "Chaturbate",
     "program_url": "https://hackerone.com/chaturbate",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -60114,6 +60173,7 @@
       "https://play.google.com/store/apps/dev?id=9151483005769461618&gl=GB",
       "https://play.google.com/store/apps/developer?id=Sky+Betting+and+Gaming+Apps&gl=uk",
       "itv7.itv.com",
+      "metrocompetitions.com",
       "rafflee.co.uk",
       "super6.skysports.com"
     ],

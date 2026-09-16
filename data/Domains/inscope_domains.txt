@@ -1069,6 +1069,7 @@ wyze.com
 staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
+wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com
 wolt.com
 authentication.wolt.com
 corporate.wolt.com
@@ -1662,6 +1663,8 @@ downloads.varonis.com
 licensemgmt.varonis.com
 my.varonis.com
 support.varonis.com
+portal.playground.klarna.com
+app.klarna.com
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
@@ -2952,6 +2955,7 @@ ort-authenticator.pingone.com
 pingidentity.com
 ort-desktop.pingone.com
 itv7.itv.com
+metrocompetitions.com
 rafflee.co.uk
 super6.skysports.com
 apps.apple.com
@@ -3807,6 +3811,8 @@ exoscale.com
 community.exoscale.com
 service.fing.com
 app.fing.com
+demo.tendertracker.de
+gulp-shop.de
 jaguar.here.com
 landrover.here.com
 hln.be
@@ -4216,16 +4222,6 @@ vrt.be
 myaccount.vtm.be
 vtm.be
 vtmgo.be
-alchemy.veriff.com
-api.flamingo-eu.veriff.com
-api.us.veriff.me
-api.veriff.me
-louvre.veriff.me
-magic.veriff.me
-station.veriff.com
-stationapi.veriff.com
-developers.veriff.me
-veriff.com
 api.voiapp.io
 mds.voiapp.io
 fm.voiapp.io

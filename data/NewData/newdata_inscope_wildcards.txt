@@ -1,5 +1,6 @@
-*.arc.io
-*.hosted-by-files.com
-*.datacamp.com
-*.veriff.com
-*.contentsquare.com
+*.klarna.com
+*.klarna.net
+*.klarnacdn.net
+*.pricerunner.com
+*.gulp.ch
+*.gulp.de

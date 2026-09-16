@@ -336,6 +336,10 @@ sip.*.twilio.com
 *.verilyme.com
 *.varonis.com
 *.varonis.io
+*.klarna.com
+*.klarna.net
+*.klarnacdn.net
+*.pricerunner.com
 *.uat.unico.app
 *.nflxext.com
 *.nflximg.net
@@ -1079,6 +1083,8 @@ ic3.*.indriverapp.com
 *exoscale.com
 *.exo.io
 *.internal.exoscale.ch
+*.gulp.ch
+*.gulp.de
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
@@ -1213,7 +1219,6 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.deliciousbrains.com
