@@ -1,2 +1,2 @@
-*.truelayer.cloud
-*.truelayer.io
+*.expediataap.com
+*.expediataaprewards.com

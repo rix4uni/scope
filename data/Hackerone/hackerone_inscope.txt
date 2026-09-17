@@ -1774,6 +1774,8 @@ sure.expediapartnersolutions.com
 taap-ui-bundles-test.expediapartnersolutions.com
 taap-ui-bundles.expediapartnersolutions.com
 taapacademy.expediapartnersolutions.com
+*.expediataap.com
+*.expediataaprewards.com
 *.fewo-direkt.de
 *.flights.com
 *.hotels.com

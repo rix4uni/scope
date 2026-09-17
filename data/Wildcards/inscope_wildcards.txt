@@ -622,6 +622,8 @@ ic3.*.indriverapp.com
 *.expediagroup.com
 *.expediapartnercentral.com
 *.expediapartnersolutions.com
+*.expediataap.com
+*.expediataaprewards.com
 *.fewo-direkt.de
 *.flights.com
 *.hotels.com
@@ -1317,8 +1319,8 @@ ic3.*.indriverapp.com
 *.gotdrops.cloud
 *.easy4ipcloud.com
 *.kdrive.infomaniak.com
-*.kchat.infomaniak.com
 *.infomaniak.com
+*.kchat.infomaniak.com
 *.vod2.infomaniak.com
 *.api.louisvuitton.com
 *.soyoustart.com
