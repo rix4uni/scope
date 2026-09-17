@@ -429,6 +429,25 @@
     "last_updated": "2026-09-17"
   },
   {
+    "name": "Dovecot",
+    "program_url": "https://yeswehack.com/programs/dovecot",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$5000",
+    "inscope_domains": [
+      "Dovecot IMAP Server and Pigeonhole SIEVE (see \"Software packages\" and \"Source code\")"
+    ],
+    "outofscope_domains": [
+      "All content which is not listed as \"Scopes\", especially any production system operated by customers",
+      "\"Scopes\" in this program refer to the binary packages and source-code provided there, the systems providing those artefacts are out of scope",
+      "Everything that is not directly related to the application or source-code in scope (e.g. GitHub, domain settings)",
+      "Bugs that require filesystem level access to modify content to cause data corruption or path traversal issues as out of scope."
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-17"
+  },
+  {
     "name": "ExpressVPN - Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/expressvpn-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -2526,48 +2545,6 @@
       "Out of Scope"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-17"
-  },
-  {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-17"
@@ -5004,6 +4981,66 @@
     "last_updated": "2026-09-17"
   },
   {
+    "name": "TrueLayer",
+    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "api.truelayer[-sandbox].com",
+      "api.mtls.truelayer[-sandbox].com",
+      "auth.truelayer[-sandbox].com",
+      "auth.mtls.truelayer[-sandbox].com",
+      "app.truelayer[-sandbox].com",
+      "login-api.truelayer[-sandbox].com",
+      "login.truelayer[-sandbox].com",
+      "onboarding-api.truelayer.com",
+      "pay-api.truelayer[-sandbox].com",
+      "pay.truelayer[-sandbox].com",
+      "paydirect.truelayer[-sandbox].com",
+      "payment.truelayer[-sandbox].com",
+      "payments-experience-api.truelayer[-sandbox].com",
+      "user-authentication-api.truelayer[-sandbox].com",
+      "users-api.truelayer.com",
+      "C# SDK",
+      "console-backend.truelayer[-sandbox].com",
+      "console.truelayer[-sandbox].com",
+      "sftp.reports.truelayer.com",
+      "Java SDK",
+      "PHP SDK",
+      "TrueLayer for Magento (Magento plugin)",
+      "TrueLayer for WooCommerce (WordPress plugin)",
+      "shopify-admin.truelayer.com",
+      "shop-pay-app-api.truelayer.com",
+      "truelayer-signing",
+      "webhooks.truelayer[-sandbox].com",
+      "*.truelayer.cloud",
+      "*.truelayer.com",
+      "*.truelayer.io",
+      "iOS SDK",
+      "React Native SDK",
+      "Web SDK",
+      "Rust SDK"
+    ],
+    "outofscope_domains": [
+      "trust.truelayer.com",
+      "banks.truelayer.com",
+      "careers.truelayer.com",
+      "docs.truelayer.com",
+      "docs.houston.truelayer.com",
+      "https://truelayer.com/contact/",
+      "index.truelayer.com",
+      "info.truelayer.com",
+      "signin.truelayer.com",
+      "support.truelayer.com",
+      "status.truelayer.com",
+      "truelayer.zendesk.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-17"
+  },
+  {
     "name": "TrueLayer VDP",
     "program_url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -7290,6 +7327,9 @@
     ],
     "outofscope_domains": [
       "https://www.wien.gv.at/advuew/*",
+      "https://stp.wien.gv.at/geoserverneuogd/*",
+      "https://www.wien.gv.at/agssoe/*",
+      "https://www.geschichtewiki.wien.gv.at",
       "Public Network / Veranstaltungsnetz"
     ],
     "issues_reported": [],
