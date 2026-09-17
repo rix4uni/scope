@@ -1,3 +1,13 @@
-kdrive.infomaniak.com
-api.pub1.infomaniak.cloud
-api.pub2.infomaniak.cloud
+faraday.ai
+api.pro.faraday.ai
+api.row.pro
+mcp.faraday.ai
+pro.faraday.ai
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io

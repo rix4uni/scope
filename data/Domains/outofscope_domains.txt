@@ -1676,6 +1676,8 @@ wsmb2bresv.navient.com
 mqtt.myndr.net
 mqtt2.myndr.net
 pnp.myndr.net
+faraday.ai
+faraday.atlassian.net
 adsmanager.truecaller.com
 community.truecaller.com
 support.truecaller.com

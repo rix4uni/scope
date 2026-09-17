@@ -5351,6 +5351,27 @@
     "last_updated": "2026-09-17"
   },
   {
+    "name": "Venly",
+    "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "api-wallet.venly.io",
+      "api.arkane.network",
+      "connect.arkane.network ",
+      "connect.venly.io",
+      "login.arkane.network",
+      "login.venly.io",
+      "wallet.venly.io",
+      "api-wallet-sandbox.venly.io"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-17"
+  },
+  {
     "name": "Visma Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -56520,18 +56541,24 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
+      "BigQuery",
       "api.faraday.ai",
+      "api.pro.faraday.ai",
+      "api.row.pro",
       "app.faraday.ai",
-      "buy.faraday.ai",
       "gs://faraday-secret",
       "gs://fdy-production-sdk-uploads",
+      "mcp.faraday.ai",
+      "pro.faraday.ai",
       "row.pro",
       "s3://faraday-secret",
       "s3://faraday-uploads",
       "vault2.faraday.ai"
     ],
     "outofscope_domains": [
-      "Support Live Chat"
+      "Support Live Chat",
+      "faraday.ai",
+      "faraday.atlassian.net"
     ],
     "issues_reported": [],
     "scamhit": "",
