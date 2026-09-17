@@ -2377,6 +2377,8 @@ amp.live
 *.cdn.magisto.com
 *.dev.magisto.com
 *.email.vimeo.com
+*.livestream.com
+*.new.livestream.com
 *.test.magisto.com
 *.wibbitz.com
 *.wirewax.app
@@ -2384,6 +2386,7 @@ amp.live
 applause2.magisto.com
 billing-account.vimeo.com
 delta.magisto.com
+donations.livestream.com
 epsilon.magisto.com
 eta.magisto.com
 gamma.magisto.com
@@ -2395,7 +2398,6 @@ int003.vimeo.magisto.com
 int004.vimeo.magisto.com
 int005vimeo.magisto.com
 livestream.com
-*.livestream.com
 blog.livestream.com
 livestreamapis.com
 omega.magisto.com

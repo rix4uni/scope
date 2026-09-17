@@ -984,9 +984,7 @@ ic3.*.indriverapp.com
 *.yelp.com
 *.yelpwifi.com
 *.cloud.vimeo.com
-*.livestream.com
 *.magisto.com
-*.new.livestream.com
 *.vhx.tv
 *.vimeo.com
 *.gitlab.net
@@ -4874,7 +4872,6 @@ api.vimeo.com
 applause1.magisto.com
 channelstore.roku.com
 checkout.vimeo.com
-donations.livestream.com
 embed.vhx.tv
 magisto.com
 player.vimeo.com
@@ -4883,7 +4880,6 @@ vhx.tv
 ott.vimeo.com
 vimeo.magisto.com
 vimeopro.com
-livestream.com
 api.linkedin.com
 business.linkedin.com
 linkedin.com

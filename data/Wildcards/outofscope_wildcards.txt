@@ -535,11 +535,12 @@ online.*.skybingo.com
 *.cdn.magisto.com
 *.dev.magisto.com
 *.email.vimeo.com
+*.livestream.com
+*.new.livestream.com
 *.test.magisto.com
 *.wibbitz.com
 *.wirewax.app
 *.wirewax.com
-*.livestream.com
 *.gitlab-private.org
 *.gitlab.cn
 *.runway.gitlab.net

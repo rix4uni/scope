@@ -535,11 +535,12 @@ online.*.skybingo.com
 *.cdn.magisto.com
 *.dev.magisto.com
 *.email.vimeo.com
+*.livestream.com
+*.new.livestream.com
 *.test.magisto.com
 *.wibbitz.com
 *.wirewax.app
 *.wirewax.com
-*.livestream.com
 *.gitlab-private.org
 *.gitlab.cn
 *.runway.gitlab.net
@@ -3340,6 +3341,7 @@ amp.live
 applause2.magisto.com
 billing-account.vimeo.com
 delta.magisto.com
+donations.livestream.com
 epsilon.magisto.com
 eta.magisto.com
 gamma.magisto.com

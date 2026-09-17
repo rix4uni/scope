@@ -2678,6 +2678,7 @@ amp.live
 applause2.magisto.com
 billing-account.vimeo.com
 delta.magisto.com
+donations.livestream.com
 epsilon.magisto.com
 eta.magisto.com
 gamma.magisto.com
