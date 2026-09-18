@@ -221,6 +221,7 @@ np.*.lfscnp.com
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
+*.pexels.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
@@ -1925,6 +1926,11 @@ chat.openai.com
 openai.org
 openai.com
 platform.openai.com
+opensea.io
+wallet.opensea.io
+io.opensea
+mcp.opensea.io
+etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -2025,6 +2031,7 @@ api-businessportal.origin.com.au
 osl.com
 atlassian.ost-consulting.be
 dashboard.pantheon.io
+pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org
@@ -3403,7 +3410,6 @@ auth.ripio.com
 app.ripio.com
 basescan.org
 bridge.ripio.com
-etherscan.io
 kyc.ripio.com
 worldscan.org
 sandbox-b2b.ripio.com
