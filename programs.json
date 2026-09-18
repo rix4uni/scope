@@ -1787,6 +1787,8 @@
       "*.acrobat.adobe.com",
       "stock.adobe.com",
       "firefly.adobe.com",
+      "Adobe ColdFusion without ColdFusion Administrator",
+      "ColdFusion Administrator",
       "*.lightroom.adobe.com",
       "photoshop.adobe.com",
       "Adobe Commerce, Adobe Commerce B2B and Magento Open Source",
@@ -1806,10 +1808,7 @@
       "ims-na1.adobelogin.com",
       "federatedid-na1.services.adobe.com"
     ],
-    "outofscope_domains": [
-      "Adobe ColdFusion without ColdFusion Administrator",
-      "ColdFusion Administrator"
-    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-18"
