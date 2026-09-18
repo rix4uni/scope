@@ -1,3 +1,5 @@
+bundesdruckerei.de
+youniqx.com
 *.pipedrive.com
 *.wolt.com
 blog.wolt.com

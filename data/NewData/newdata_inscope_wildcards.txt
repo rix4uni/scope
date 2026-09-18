@@ -1,2 +1,1 @@
-*.expediataap.com
-*.expediataaprewards.com
+*.datacamp.com

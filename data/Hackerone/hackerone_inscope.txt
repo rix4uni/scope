@@ -1493,12 +1493,13 @@ wiki.cs.money
 agents.hostinger.com
 builder.hostinger.com
 cpanel.hostinger.com
+ecommerce.hostinger.com
 horizons.hostinger.com
-hpanel.hostinger.com
-payments.hostinger.com
-mail.hostinger.com
-reach.hostinger.com
 hostinger.com
+hpanel.hostinger.com
+mail.hostinger.com
+payments.hostinger.com
+reach.hostinger.com
 *.romwe.com
 co.in
 romwe.org
