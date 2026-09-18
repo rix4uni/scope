@@ -907,6 +907,7 @@ ak-static.cms-dev.nba.com
 ak-static.cms-qa.nba.com
 ak-static.cms.nba.com
 arcade.nba.com
+brand.nba.com
 cms-dev.nba.com
 cms-int.nba.com
 cms-qa.nba.com
@@ -2867,6 +2868,15 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
