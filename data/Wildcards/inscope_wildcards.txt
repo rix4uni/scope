@@ -221,7 +221,6 @@ np.*.lfscnp.com
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
-*.pexels.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
@@ -1109,16 +1108,6 @@ ic3.*.indriverapp.com
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
