@@ -673,6 +673,7 @@ api-businessportal.origin.com.au
 osl.com
 atlassian.ost-consulting.be
 dashboard.pantheon.io
+pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org
