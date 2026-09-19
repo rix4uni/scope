@@ -1,5 +1,9 @@
-opensea.io
-wallet.opensea.io
-io.opensea
-mcp.opensea.io
-pexels.com
+id.unity.com
+api.unity.com
+cloud.unity.com
+store.unity.com
+pay.unity.com
+player-login.unity.com
+unity3d.com
+services.unity.com
+unity.com

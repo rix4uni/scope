@@ -10963,20 +10963,6 @@
     "last_updated": "2026-09-19"
   },
   {
-    "name": "Pexels",
-    "program_url": "https://bugcrowd.com/engagements/pexels",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$6000",
-    "inscope_domains": [
-      "https://www.pexels.com/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-19"
-  },
-  {
     "name": "Pinterest",
     "program_url": "https://bugcrowd.com/engagements/pinterest",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -13044,6 +13030,28 @@
       "uaallaccess.com",
       "www.plankindustries.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-19"
+  },
+  {
+    "name": "Unity Technologies",
+    "program_url": "https://bugcrowd.com/engagements/unity",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$3000",
+    "inscope_domains": [
+      "https://id.unity.com",
+      "https://api.unity.com",
+      "https://cloud.unity.com",
+      "https://store.unity.com",
+      "https://pay.unity.com",
+      "player-login.unity.com",
+      "https://unity3d.com/get-unity/download/archive",
+      "https://services.unity.com",
+      "https://unity.com/download"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-19"
