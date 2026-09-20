@@ -46022,47 +46022,6 @@
     "last_updated": "2026-09-20"
   },
   {
-    "name": "Freshworks ",
-    "program_url": "https://hackerone.com/freshworks",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Freshcaller-iOS-App",
-      "Freshchat-iOS-App",
-      "Freshdesk-iOS-App",
-      "Freshservice-Intune-iOS-App",
-      "Freshservice-iOS-App",
-      "com.freshchat.agent.android",
-      "com.freshdesk.helpdesk",
-      "com.freshservice.helpdesk",
-      "com.freshservice.helpdesk.intune",
-      "com.freshworks.freshcaller",
-      "yourdomain.freshcaller.com",
-      "yourdomain.freshchat.com",
-      "yourdomain.freshdesk.com",
-      "yourdomain.freshrelease.com",
-      "yourdomain.freshservice.com",
-      "yourdomain.myfreshworks.com"
-    ],
-    "outofscope_domains": [
-      "Freshsales-iOS-App",
-      "Marketplace Apps",
-      "com.freshdesk.freshsales.mobile",
-      "freshworks.atlassian.net",
-      "http://yourdomain.myfreshworks.com/crm/marketer",
-      "http://yourdomain.myfreshworks.com/crm/sales",
-      "wchat.freshchat.com",
-      "www.freshworks.com",
-      "yourdomain.freshping.io",
-      "yourdomain.freshstatus.io",
-      "yourdomain.freshsurvey.io"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-20"
-  },
-  {
     "name": "Judge.me ",
     "program_url": "https://hackerone.com/judgeme",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",

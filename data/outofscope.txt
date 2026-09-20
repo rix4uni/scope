@@ -355,7 +355,6 @@ bus.*.indrive.com
 *.fiserv.com
 *.who.int
 *.getbouncer.com
-*.freshworks.com
 *.grindrads.com
 *.intomore.com
 *.browser.cloud.com
@@ -2216,14 +2215,6 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 covid19app.who.int
-freshworks.com
-marketplace.freshworks.com
-yourdomain.myfreshworks.com
-freshworks.atlassian.net
-wchat.freshchat.com
-yourdomain.freshping.io
-yourdomain.freshstatus.io
-yourdomain.freshsurvey.io
 corda.net
 r3.com
 community.doppler.com
