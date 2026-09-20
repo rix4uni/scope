@@ -16,8 +16,6 @@
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
-*.binance.com
-*.binance.us
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
