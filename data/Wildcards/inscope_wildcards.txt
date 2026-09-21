@@ -1,4 +1,6 @@
 *.acorns.com
+*.afterpay.com
+portalapi.*.afterpay.com
 *app.simple-reports.com
 *.arlo.com
 *.arloxcld.com
@@ -32,6 +34,8 @@
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
+*.cash.app
+*.cashstaging.app
 *.chimepayments.com
 *.chime.com
 *.1debit.com
@@ -170,6 +174,7 @@ np.*.lfscnp.com
 *.pods.link
 *.playlist.link
 *.mylink.page
+*.lululemon.com
 *.staging.luno.com
 *staging.luno.com.ng
 *.cloud.mattermost.com
@@ -263,6 +268,8 @@ np.*.lfscnp.com
 *.s-cloud.net
 *.soundcloud.com
 *.services.repostnetwork.com
+*.square.com
+*.squareup.com
 *.statuspage.io
 *.api.t-mobile.com
 *.t-mobile.com
@@ -282,6 +289,11 @@ np.*.lfscnp.com
 *.prod.uidapi.com
 *.thetradedesk.com
 *.adsrvr.org
+*.tidal.com
+*.wimpmusic.com
+*.tidalhifi.com
+*tidalhi.fi
+*.tdl.sh
 *.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
@@ -427,6 +439,8 @@ sip.*.twilio.com
 *.superbet.rs
 *.boozt.com
 *.booztlet.com
+*.vercel.com
+*.vercel.live
 *.indrive.com
 *.indriver.com
 *.indriverapp.com
@@ -1052,7 +1066,6 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com

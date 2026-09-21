@@ -89,7 +89,6 @@ minerva.robinhood.com
 net.bitstamp.app
 nummus.robinhood.com
 bitstamp.net
-github.com
 1w.cash
 1w.run
 1win.com
@@ -621,6 +620,7 @@ api-sandbox.circle.com
 app.circle.com
 app-sandbox.circle.com
 console.circle.com
+github.com
 *.varonis.com
 *.varonis.io
 downloads.varonis.com
@@ -1005,6 +1005,12 @@ vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
 vodafone.om
+*.vercel.com
+*.vercel.live
+v0.app
+v0.dev
+vercel.app
+vercel.com
 *.indrive.com
 *.indriver.com
 *.indriverapp.com
