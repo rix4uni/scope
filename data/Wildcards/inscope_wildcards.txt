@@ -506,7 +506,6 @@ ic3.*.indriverapp.com
 *.chalet.8x8.com
 *.8x8.com
 *.p8t.us
-*.wavecell.com
 *.packet8.net
 *.pipopay.com
 *.soundon.global
