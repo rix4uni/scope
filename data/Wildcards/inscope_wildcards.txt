@@ -292,6 +292,8 @@ np.*.lfscnp.com
 *.bokuntest.com
 *.api.ua.com
 *.underarmour.cn
+*.unisys.com
+*.unifysquare.com
 *.gtld-servers.net
 *.youcouldbe.com
 *.namestudioforsocial.com
@@ -789,7 +791,6 @@ ic3.*.indriverapp.com
 *.logstash.net
 *.logstash.wtf
 *.prelert.com
-*.swiftype.com
 *.theelasticast.com
 *.advisorsolutions.gs.com
 *.ayco.com
@@ -1051,6 +1052,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1108,6 +1110,16 @@ ic3.*.indriverapp.com
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1201,9 +1213,7 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
 *.truelayer.com
-*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net

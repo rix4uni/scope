@@ -1251,6 +1251,10 @@ vtxapp9p.underarmour.com
 vtxapp9q.underarmour.com
 vtxapp9d.underarmour.com
 vtxappd.underarmour.com
+unisys.com
+*.unisys.com
+unifysquare.com
+*.unifysquare.com
 id.unity.com
 api.unity.com
 cloud.unity.com

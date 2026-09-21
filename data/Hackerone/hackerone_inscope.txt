@@ -2401,13 +2401,7 @@ dbc-9a3f8ed1-7608.cloud.databricks.com
 *.logstash.net
 *.logstash.wtf
 *.prelert.com
-*.swiftype.com
 *.theelasticast.com
-elastic.co
-docker.elastic.co
-microsoft.com
-cloud.elastic.co
-epr.elastic.co
 slsa.dev
 buildkite.com
 *.advisorsolutions.gs.com
@@ -2967,6 +2961,7 @@ basecamp.app
 basecamp.com
 hey.app
 hey.com
+microsoft.com
 app.basecamp.com
 snapcraft.io
 launchpad.37signals.com

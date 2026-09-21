@@ -1746,6 +1746,12 @@ thecoalition.com
 *.jina.ai
 *.kbndev.co
 *.keephq.dev
+*.swiftype.com
+elastic.co
+docker.elastic.co
+microsoft.com
+cloud.elastic.co
+epr.elastic.co
 community.elastic.co
 discuss.elastic.co
 learn.elastic.co
