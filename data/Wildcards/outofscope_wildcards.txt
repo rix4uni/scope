@@ -3,6 +3,10 @@
 *.arlo.com
 *.integrations.asana.plus
 *.bitbucket.io
+*.trustwallet.com
+*.trustwalletapp.com
+*.binance.org
+*.coinmarketcap.com
 *.bitgo.com
 *.exchange.bitpanda.com
 *.otc.bitso.com
