@@ -3,6 +3,10 @@
 *.arlo.com
 *.integrations.asana.plus
 *.bitbucket.io
+*.trustwallet.com
+*.trustwalletapp.com
+*.binance.org
+*.coinmarketcap.com
 *.bitgo.com
 *.exchange.bitpanda.com
 *.otc.bitso.com
@@ -652,7 +656,6 @@ g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.zoofy.nl
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -773,6 +776,12 @@ sharelock.io
 goextend.io
 support.auth0.com
 community.auth0.com
+jobs.coinmarketcap.com
+support.binance
+binance.sg
+blog.coinmarketcap.com
+support.coinmarketcap.com
+blockchain.coinmarketcap.com
 businessinsights.bitdefender.com
 businessemail.bitdefender.com
 businessresources.bitdefender.com
@@ -3580,15 +3589,6 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
-dev.kinepolis.com
-helpdesk.landmarkcinemas.com
-jobs.kinepolis.com
-l.kinepolis.com
-openx.kinepolis.com
-shop.kinepolis.be
-shop.kinepolis.es
-shop.kinepolis.fr
-shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com

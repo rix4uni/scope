@@ -1,14 +1,2 @@
-*.afterpay.com
-portalapi.*.afterpay.com
-*.cash.app
-*.cashstaging.app
-*.lululemon.com
-*.square.com
-*.squareup.com
-*.tidal.com
-*.wimpmusic.com
-*.tidalhifi.com
-*tidalhi.fi
-*.tdl.sh
-*.vercel.com
-*.vercel.live
+*.binance.com
+*.binance.us
