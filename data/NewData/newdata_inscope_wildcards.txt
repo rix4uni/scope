@@ -1,2 +1,2 @@
-*.binance.com
-*.binance.us
+*.truelayer.cloud
+*.truelayer.io
