@@ -633,9 +633,6 @@ support.varonis.com
 *.pricerunner.com
 portal.playground.klarna.com
 app.klarna.com
-kmc.kaltura.com
-corp.kaltura.com
-mediaspace.kaltura.com
 *.uat.unico.app
 sdk-h1.unico.io
 accountshomolog.acesso.io
@@ -2115,6 +2112,7 @@ hotel-development.marriott.com
 shopmarriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsapdev2.marriott.com
+gatewaydsapprd.marriott.com
 gatewaydsaptst1.marriott.com
 gatewaydsaptst2.marriott.com
 ifast.marriott.com
@@ -2640,8 +2638,6 @@ geneva-staging.com
 *.withspotify.com
 anchor.fm
 developer.spotify.com
-confidence.spotify.com
-confidence.dev
 backstage.io
 support.megaphone.fm
 eyeofthestormers.com

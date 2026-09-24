@@ -1246,12 +1246,6 @@ ic3.*.indriverapp.com
 *.veriff.com
 *.voi.com
 *.voiscooters.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
 *.water-link.be
 *.mijnwater-link.be
 *.watsons.com.hk
@@ -3071,9 +3065,6 @@ my.varonis.com
 support.varonis.com
 portal.playground.klarna.com
 app.klarna.com
-kmc.kaltura.com
-corp.kaltura.com
-mediaspace.kaltura.com
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
@@ -4199,6 +4190,7 @@ hotel-development.marriott.com
 shopmarriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsapdev2.marriott.com
+gatewaydsapprd.marriott.com
 gatewaydsaptst1.marriott.com
 gatewaydsaptst2.marriott.com
 ifast.marriott.com
@@ -4540,8 +4532,6 @@ bumble.com
 geneva-staging.com
 anchor.fm
 developer.spotify.com
-confidence.spotify.com
-confidence.dev
 backstage.io
 support.megaphone.fm
 eyeofthestormers.com
@@ -5718,16 +5708,6 @@ fm.voiapp.io
 repair.voiweb.net
 report.voi.com
 voi.com
-app.getflywheel.com
-getflywheel.com
-my.wpengine.com
-payments.wpengine.com
-wpengine.com
-advancedcustomfields.com
-bettersearchreplace.com
-makeshift.film
-studiopress.blog
-torquemag.io
 desktop.water-link.be
 pit.water-link.be
 water-link-jaarverslag.be
