@@ -4730,6 +4730,31 @@
     "last_updated": "2026-09-24"
   },
   {
+    "name": "Soundtrack Technologies",
+    "program_url": "https://www.intigriti.com/programs/syb/soundtrackyourbrand/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://soundtrack.io",
+      "1114799709",
+      "1114800186",
+      "api.soundtrackyourbrand.com",
+      "billing.api.soundtrackyourbrand.com",
+      "builds.soundtrackyourbrand.com",
+      "business.soundtrackyourbrand.com",
+      "com.soundtrackyourbrand.soundtrack.player",
+      "https://auth.api.soundtrackyourbrand.com/",
+      "https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest",
+      "https://radio.api.soundtrackyourbrand.com/",
+      "macOS app"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-24"
+  },
+  {
     "name": "Spacelift VDP",
     "program_url": "https://www.intigriti.com/programs/spacelift/spaceliftvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5449,39 +5474,6 @@
     ],
     "outofscope_domains": [
       "Third-party systems or domains referencing Voi"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-24"
-  },
-  {
-    "name": "WP Engine Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "https://app.getflywheel.com",
-      "https://getflywheel.com",
-      "https://my.wpengine.com",
-      "https://payments.wpengine.com",
-      "https://wpengine.com",
-      "*. advancedcustomfields.com",
-      "*. bettersearchreplace.com",
-      "*.deliciousbrains.com",
-      "*.localwp.com",
-      "*.nitropack.io",
-      "*.studiopress.com",
-      "*.wpengine.io",
-      "*.wpesvc.net",
-      "WP Engine-developed WordPress Plugins and Themes",
-      "https://makeshift.film",
-      "https://studiopress.blog",
-      "https://torquemag.io",
-      "https://velocitize.com"
-    ],
-    "outofscope_domains": [
-      "marketing.nitropack.io"
     ],
     "issues_reported": [],
     "scamhit": "",
