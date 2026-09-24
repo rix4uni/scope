@@ -361,6 +361,7 @@ app.klarna.com
 jobs.pricerunner.com
 locker.klarna.com
 nuji.com
+eventplatform.kaltura.com
 *.cadastro.uat.unico.app
 devcenter.unico.io
 uconf.uat.unico.app

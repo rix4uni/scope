@@ -633,6 +633,9 @@ support.varonis.com
 *.pricerunner.com
 portal.playground.klarna.com
 app.klarna.com
+kmc.kaltura.com
+corp.kaltura.com
+mediaspace.kaltura.com
 *.uat.unico.app
 sdk-h1.unico.io
 accountshomolog.acesso.io
@@ -2637,6 +2640,8 @@ geneva-staging.com
 *.withspotify.com
 anchor.fm
 developer.spotify.com
+confidence.spotify.com
+confidence.dev
 backstage.io
 support.megaphone.fm
 eyeofthestormers.com
