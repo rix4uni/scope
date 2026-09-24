@@ -20,6 +20,7 @@ anext.com.sg
 alipayhk.com
 antbank.hk
 security-en.alipay.com
+*.bitoasis.net
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
@@ -32,6 +33,8 @@ itunes.apple.com
 api.blablalines.com
 daily.blablacar.fr
 blablacardaily.com
+*.coindcx.com
+api.coindcx.com
 *.contentsquare.com
 mobile-production.content-square.net
 m.csqtrk.net

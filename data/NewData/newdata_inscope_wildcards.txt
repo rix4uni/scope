@@ -1,2 +1,5 @@
-*.truelayer.cloud
-*.truelayer.io
+*.dell.com
+*.delltechnologies.com
+*.datacamp.com
+*.bitoasis.net
+*.coindcx.com

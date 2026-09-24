@@ -219,6 +219,9 @@ coindesk.com
 business.comcast.com
 xfinity.com
 consensus2026.sandbox.events.coindesk.com
+*.dell.com
+*.delltechnologies.com
+console.delltechnologies.com
 docs.eazybi.com
 my.elementor.com
 go.elementor.com
@@ -618,9 +621,6 @@ shiseido.me
 lego.me
 psychobunny.me
 fashion4less.me
-dashboard.magic.link
-auth.magic.link
-api.magic.link
 sharerewards.com
 vtcprodapi.maf.ae
 svchifi.svc
@@ -1401,6 +1401,7 @@ vwfs.com.tw
 uae.voxcinemas.com
 skidxb.com
 magicplanetmena.com
+vr.fi
 app.web.com
 networksolutions.com
 bluehost.com

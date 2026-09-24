@@ -19,6 +19,11 @@ lp.alasco.de
 lp.alasco.com
 support.alasco.de
 support.alasco.com
+blog.bitoasis.net
+coindcx.com
+info.coindcx.com
+otcdesk.coindcx.com
+careers.coindcx.com
 partnerportal.contentsquare.com
 uxawards.contentsquare.com
 contentsquare.com
@@ -139,6 +144,7 @@ api.moneyboxapp.com
 otto.de
 keycloak.apps.otto.de
 *.osp.ovh.com
+help-okto.sprinklr.com
 checkout-service.paddle.com
 buy.paddle.com
 poc-op-ywh.it.authentification.si.gouv.qc.ca

@@ -642,6 +642,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -679,8 +680,8 @@ g.*.slackhq.com
 *.usgprofessionals.be
 *.anchors.atlas.ripe.net
 *.probes.atlas.ripe.net
-*.ripe.net
 *ripe.net
+*.ripe.net
 *.randstad.in
 *.newyorkredbulls.com
 *.ccnag.com

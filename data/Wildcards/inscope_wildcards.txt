@@ -58,6 +58,8 @@ portalapi.*.afterpay.com
 *.doj.io
 *.dojo.me
 *.sys.comcast.net
+*.dell.com
+*.delltechnologies.com
 casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
@@ -1064,6 +1066,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1214,9 +1217,7 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
 *.truelayer.com
-*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net
@@ -1267,6 +1268,8 @@ ic3.*.indriverapp.com
 *.alipayplus.com
 *.antom.com
 *.worldfirst.com
+*.bitoasis.net
+*.coindcx.com
 *.contentsquare.com
 *.cyberghostvpn.com
 *.cyberghost.com

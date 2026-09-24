@@ -50,3 +50,5 @@ https://github.com/digitalocean/godo
 https://github.com/digitalocean/pydo
 https://github.com/digitalocean/go-nbd
 https://github.com/digitalocean/do-markdownit
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rsyncit

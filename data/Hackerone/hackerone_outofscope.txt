@@ -392,6 +392,7 @@ test-login.rei.com
 vpn.rei.com
 wpvip.rei.com
 *.3cx.com
+3cx.com
 blog.privy.io
 demo.privy.io
 docs.privy.io
@@ -2402,6 +2403,7 @@ priceline.com
 *.uberscoot.us
 *.ubertransit.io
 *scaledsolutions.uber.com
+adsacademy.uber.com
 bizblog.uber.com
 central-beta.uber.com
 drive.uber.com

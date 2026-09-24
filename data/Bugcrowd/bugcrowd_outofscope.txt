@@ -151,7 +151,6 @@ meraki.cisco.com
 documentation.meraki.com
 *.workflows.meraki.com
 wien.gv.at
-stp.wien.gv.at
 geschichtewiki.wien.gv.at
 shop.classdojo.com
 learn.clickhouse.com
@@ -164,6 +163,11 @@ consensus2024.coindesk.com
 uat.accounts.coindesk.com
 staging.coindesk.com
 comcastbiz.net
+console.delltechnologies.com
+educate.dell.com
+console.dell.com
+console-test.dell.com
+salesproductivity.dell.com
 ethics.epam.com
 profile.epam.com
 carbon.epam.com

@@ -658,8 +658,13 @@ wordpress.org
 3cx.com
 downloads-global.3cx.com
 debian-amd64-netinst-3cx.iso
+activate.3cx.com
 apps.microsoft.com
 portal.3cx.com
+mailproxy.3cx.com
+repo.3cx.com
+rps.3cx.com
+wmr.3cx.net
 api.privy.io
 auth.privy.io
 dashboard.privy.io
@@ -2805,6 +2810,8 @@ edgewall.com
 meta.git.wordpress.org
 *.wordcamp.org
 *.wordpress.net
+jobs.wordpress.net
+playground.wordpress.net
 *.wordpress.org
 login.wordpress.org
 developer.wordpress.org
