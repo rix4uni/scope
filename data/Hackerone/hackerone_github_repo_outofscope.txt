@@ -18,7 +18,6 @@ https://github.com/maticnetwork/heimdall
 https://github.com/maticnetwork/matic-cli
 https://github.com/kubernetes/ingress-gce
 https://github.com/kubernetes/ingress-nginx
-https://github.com/gocardless/woocommerce-gateway-gocardless
 https://github.com/netlify
 https://github.com/smartcontractkit/chainlink
 https://github.com/smartcontractkit/chainlink-evm
