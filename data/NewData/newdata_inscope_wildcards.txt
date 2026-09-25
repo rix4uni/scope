@@ -1,1 +1,2 @@
-*.datacamp.com
+*.algolia.net
+*.algolianet.com
