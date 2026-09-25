@@ -1,3 +1,2 @@
-kmc.kaltura.com
-corp.kaltura.com
-mediaspace.kaltura.com
+idp-contact.nexuzhealth.be
+media.nexuzhealth.be
