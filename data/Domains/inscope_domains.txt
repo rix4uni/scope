@@ -1718,9 +1718,6 @@ my.varonis.com
 support.varonis.com
 portal.playground.klarna.com
 app.klarna.com
-kmc.kaltura.com
-corp.kaltura.com
-mediaspace.kaltura.com
 sdk-h1.unico.io
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
