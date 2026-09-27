@@ -7405,6 +7405,7 @@
       "https://*/geoserverneuogd/* (Multiple Domains)",
       "https://*/agssoe/* (Multiple Domains)",
       "https://www.geschichtewiki.wien.gv.at",
+      "https://www.wien.gv.at/umfrage/*",
       "Public Network / Veranstaltungsnetz"
     ],
     "issues_reported": [],
