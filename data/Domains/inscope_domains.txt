@@ -2831,6 +2831,7 @@ help.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
 hotel-development.marriott.com
+hotshoppeservices.com
 shopmarriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsapdev2.marriott.com
