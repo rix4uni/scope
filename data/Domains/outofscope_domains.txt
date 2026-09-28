@@ -2856,6 +2856,7 @@ lsagentrelay.lansweeper.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
+actie.libelle.nl
 login.liferay.com
 community.monzo.com
 login.internal.monzo.com
@@ -2950,6 +2951,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 aquawardsspatial.water-link.be
 water-link.be

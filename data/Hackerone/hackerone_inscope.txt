@@ -737,6 +737,7 @@ you.23andme.com
 *.audible.de
 tax.audible.com
 ads.temu.com
+partner.temu.com
 seller.temu.com
 temu.com
 *.bybit.com
