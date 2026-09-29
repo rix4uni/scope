@@ -1280,9 +1280,6 @@ ic3.*.indriverapp.com
 *.alipayplus.com
 *.antom.com
 *.worldfirst.com
-*.bitoasis.net
-*.coindcx.com
-*.contentsquare.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
@@ -3106,12 +3103,14 @@ issuer.idpay-uat.unico.io
 openfinance.unico.io
 secure.unico.io
 unico.io
+t.me
 p2p.walletbot.me
 pay.wallet.tg
 wallet.tg
 walletbot.me
 wallettg.com
 wallettg.net
+walt.io
 api.vault.chiatest.net
 vault.chiatest.net
 wordpress.org
@@ -5828,10 +5827,6 @@ m.blablacar
 api.blablalines.com
 daily.blablacar.fr
 blablacardaily.com
-api.coindcx.com
-mobile-production.content-square.net
-m.csqtrk.net
-s.contentsquare.net
 bounty.cryptobox.com
 cyberghost.com
 cyberghost.app

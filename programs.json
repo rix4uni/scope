@@ -120,27 +120,6 @@
     "last_updated": "2026-09-29"
   },
   {
-    "name": "BitOasis - Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/bitoasis-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$2000",
-    "inscope_domains": [
-      "*.bitoasis.net",
-      "https://play.google.com/store/apps/details?id=com.bitoasis&hl=en",
-      "https://apps.apple.com/ae/app/bitoasis-buy-bitcoin-crypto/id1521661794"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'",
-      "Websites under Bitoasis that utilize CMS frameworks (e.g., WordPress, Joomla, Sitecore).",
-      "https://blog.bitoasis.net",
-      "All other third parties"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-29"
-  },
-  {
     "name": "BookBeat",
     "program_url": "https://yeswehack.com/programs/bookbeat",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -184,78 +163,6 @@
       "Any website that is not listed explicitly in the scope.",
       "However, though listed in the out-of-scope list, if you really feel that a bug will leave an impact on our platform, please come up with a convincing and working POC. If that convinces us to change our code, we will reward you with a bounty.",
       "Finally, fraud related reports are out-of-scope if they do not exploit a security vulnerability. Therefore, fraud activity enabled by bug or incomplete business rules enforcement are out-of-scope.  However, a fraud activity enabled by a CSRF exploit for example is valid."
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-29"
-  },
-  {
-    "name": "Coindcx - Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/coindcx-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$2000",
-    "inscope_domains": [
-      "*.coindcx.com",
-      "api.coindcx.com",
-      "https://play.google.com/store/apps/details?id=com.coindcx.btc",
-      "https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto/id1517787269"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'",
-      "Zendesk and other third parties",
-      "CMS websites own by Coindcx (Anything related to Wordpress etc)",
-      "coindcx.com/blog",
-      "info.coindcx.com",
-      "otcdesk.coindcx.com",
-      "careers.coindcx.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-29"
-  },
-  {
-    "name": "Contentsquare Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/contentsquare-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$2000",
-    "inscope_domains": [
-      "*.contentsquare.com",
-      "https://mobile-production.content-square.net/",
-      "https://m.csqtrk.net",
-      "https://s.contentsquare.net",
-      "Contentsquare SDK (cf : Program Description)"
-    ],
-    "outofscope_domains": [
-      "partnerportal.contentsquare.com",
-      "uxawards.contentsquare.com",
-      "www.contentsquare.com",
-      "community.contentsquare.com",
-      "brand.contentsquare.com",
-      "blog.contentsquare.com",
-      "csquad.contentsquare.com",
-      "csd-*.contentsquare.com",
-      "go.contentsquare.com",
-      "hackathon.contentsquare.com",
-      "security.contentsquare.com",
-      "support.contentsquare.com",
-      "learn.contentsquare.com",
-      "learn2.contentsquare.com",
-      "csq.contentsquare.com",
-      "university.contentsquare.com",
-      "foundation.contentsquare.com",
-      "content.contentsquare.com",
-      "partners.contentsquare.com",
-      "incident.contentsquare.com",
-      "*.wwko*.contentsquare.com",
-      "explore.contentsquare.com",
-      "get.contentsquare.com",
-      "trust.contentsquare.com",
-      "loyalty.contentsquare.com",
-      "page.contentsquare.com",
-      "invite.contentsquare.com",
-      "status.contentsquare.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -1145,26 +1052,6 @@
       "All domains, subdomains or applications not listed in the above list of 'Scopes'",
       "Vulnerabilities reported on client services",
       "*.osp.ovh.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-29"
-  },
-  {
-    "name": "Okto - Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/okto-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$2000",
-    "inscope_domains": [
-      "https://apps.apple.com/in/app/okto-wallet/id6450688229",
-      "https://play.google.com/store/apps/details?id=com.coindcx.okto"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'",
-      "CMS websites own by Okto (Anything related to Wordpress etc)",
-      "Customer support form (https://help-okto.sprinklr.com/help/)",
-      "All other third parties"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -4492,6 +4379,29 @@
     "last_updated": "2026-09-29"
   },
   {
+    "name": "Randstad",
+    "program_url": "https://www.intigriti.com/programs/randstad/randstad/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.randstad.*",
+      "*.randstadrisesmart.*",
+      "*.risesmart.*",
+      "Any related Randstad domain"
+    ],
+    "outofscope_domains": [
+      "grizzlyforce.com",
+      "*.randstad.in",
+      "apps.randstad.in",
+      "cz.randstad.com",
+      "workplace.randstad.in"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-09-29"
+  },
+  {
     "name": "Red Bull",
     "program_url": "https://www.intigriti.com/programs/redbull/redbull/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -7402,6 +7312,7 @@
       "https://*/geoserverneuogd/* (Multiple Domains)",
       "https://*/agssoe/* (Multiple Domains)",
       "https://www.geschichtewiki.wien.gv.at",
+      "https://bi.bildung-wien.gv.at/*",
       "https://www.wien.gv.at/umfrage/*",
       "Public Network / Veranstaltungsnetz"
     ],
@@ -20926,19 +20837,22 @@
     "last_updated": "2026-09-29"
   },
   {
-    "name": "Wallet on Telegram",
-    "program_url": "https://hackerone.com/wallet_on_telegram",
+    "name": "Walt.io",
+    "program_url": "https://hackerone.com/walt_io",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
       "Crypto infrastructure for cold and hot wallets",
+      "http://t.me/wallet",
+      "http://t.me/walt",
       "p2p.walletbot.me",
       "pay.wallet.tg",
       "wallet.tg",
       "walletbot.me",
       "wallettg.com",
-      "wallettg.net"
+      "wallettg.net",
+      "walt.io"
     ],
     "outofscope_domains": [
       "docs.wallet.tg",

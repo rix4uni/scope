@@ -1280,9 +1280,6 @@ ic3.*.indriverapp.com
 *.alipayplus.com
 *.antom.com
 *.worldfirst.com
-*.bitoasis.net
-*.coindcx.com
-*.contentsquare.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
