@@ -681,7 +681,6 @@ g.*.slackhq.com
 *.probes.atlas.ripe.net
 *ripe.net
 *.ripe.net
-*.randstad.in
 *.newyorkredbulls.com
 *.ccnag.com
 *.connect.coca-cola.com
@@ -3618,10 +3617,6 @@ pen-app.entrili.com
 exams.ripe.net
 labs.ripe.net
 ripe.net
-grizzlyforce.com
-apps.randstad.in
-cz.randstad.com
-workplace.randstad.in
 assets.rivian.com
 careers.rivian.com
 demovehicles.rivian.com

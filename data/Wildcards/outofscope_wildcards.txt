@@ -681,7 +681,6 @@ g.*.slackhq.com
 *.probes.atlas.ripe.net
 *ripe.net
 *.ripe.net
-*.randstad.in
 *.newyorkredbulls.com
 *.ccnag.com
 *.connect.coca-cola.com

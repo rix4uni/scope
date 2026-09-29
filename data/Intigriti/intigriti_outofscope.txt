@@ -202,11 +202,6 @@ pen-app.entrili.com
 exams.ripe.net
 labs.ripe.net
 ripe.net
-grizzlyforce.com
-*.randstad.in
-apps.randstad.in
-cz.randstad.com
-workplace.randstad.in
 *.newyorkredbulls.com
 assets.rivian.com
 careers.rivian.com

@@ -316,7 +316,7 @@
       "https://play.google.com/store/apps/details?id=id.dana&hl=en",
       "https://apps.apple.com/id/app/dana/id1437123008",
       "m.dana.id",
-      "mgs.dana.id"
+      "mgs-gw.dana.id"
     ],
     "outofscope_domains": [
       "webdev.dana.id",
@@ -2349,20 +2349,6 @@
       "3cxby.itcapital.io",
       "texis.itcapital.io"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-29"
-  },
-  {
-    "name": "Challenge 0926",
-    "program_url": "https://www.intigriti.com/programs/intigriti/challenge0926/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "https://challenge-0926.challenges.intigriti.io"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-29"
@@ -4500,29 +4486,6 @@
       "https://labs.ripe.net",
       "RIPE Meeting network (2001:67c:64::/48 and 193.0.24.0/21)",
       "ripe(1to87).ripe.net"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-29"
-  },
-  {
-    "name": "Randstad",
-    "program_url": "https://www.intigriti.com/programs/randstad/randstad/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "*.randstad.*",
-      "*.randstadrisesmart.*",
-      "*.risesmart.*",
-      "Any related Randstad domain"
-    ],
-    "outofscope_domains": [
-      "grizzlyforce.com",
-      "*.randstad.in",
-      "apps.randstad.in",
-      "cz.randstad.com",
-      "workplace.randstad.in"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -8944,7 +8907,7 @@
     "inscope_domains": [
       "*.jora.com",
       "*.jora.xyz",
-      "https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665\t",
+      "https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665",
       "https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US\t"
     ],
     "outofscope_domains": [
