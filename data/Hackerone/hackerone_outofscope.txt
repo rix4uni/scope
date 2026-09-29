@@ -1201,6 +1201,7 @@ old.cs.money
 fulfillment-platform.shutterfly.com
 *.cvs.com
 *.walgreens.com
+borrowlenses.com
 clientaccess.citrixcloud.navient.com
 filegateway.navient.com
 jobs.navient.com

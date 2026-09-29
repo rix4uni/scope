@@ -1676,6 +1676,7 @@ cs.money
 grafana.cs.money
 old.cs.money
 fulfillment-platform.shutterfly.com
+borrowlenses.com
 clientaccess.citrixcloud.navient.com
 filegateway.navient.com
 jobs.navient.com
@@ -2771,6 +2772,7 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
+cadeau.videoland.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be

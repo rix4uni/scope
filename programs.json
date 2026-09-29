@@ -2462,7 +2462,8 @@
     "outofscope_domains": [
       "visitors.dpgmedia.be",
       "Qualifio Subdomains",
-      "actie.*.*"
+      "actie.*.*",
+      "cadeau.videoland.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -14430,7 +14431,6 @@
       "https://apps.apple.com/us/app/nosotras-v-app/id1577849733",
       "https://apps.apple.com/us/app/tork-vision-install/id6753860641",
       "https://apps.apple.com/uy/app/nosotras-v-app/id1577849733",
-      "https://babybrandcenter.essity.com",
       "https://bodyform.co.uk",
       "https://brand.tena.com",
       "https://brandzone.essity.com",
@@ -40654,6 +40654,7 @@
       "perftest-test.fiserv.io",
       "perseus.fiservclients.com",
       "petsmart.wgiftcard.com",
+      "petsmartca.gift.solutions",
       "petsmartca.wgiftcard.com",
       "petsmartstore.wgiftcard.com",
       "pfchangs.wgiftcard.com",
@@ -40663,6 +40664,7 @@
       "phifcu.com",
       "piascu-dc.cert.fec-dc.fiservapps.com",
       "pikespeakcu-dc.cert.fec-dc.fiservapps.com",
+      "pilotcompany.gift.solutions",
       "pilotflyingj.wgiftcard.com",
       "pinefcu-dc.cert.fec-dc.fiservapps.com",
       "pinkberry.wgiftcard.com",
@@ -40685,6 +40687,7 @@
       "pix-webhook-picpay.softwareexpress.com.br",
       "pix-webhook-tribanco.softwareexpress.com.br",
       "pix.fiservapp.com",
+      "pizzahut.gift.solutions",
       "pizzahut.wgiftcard.com",
       "pizzahutstore.wgiftcard.com",
       "pizzerialocalestore.wgiftcard.com",
@@ -56293,7 +56296,8 @@
     "outofscope_domains": [
       "fulfillment-platform.shutterfly.com",
       "https://*.cvs.com/",
-      "https://*.walgreens.com/"
+      "https://*.walgreens.com/",
+      "www.borrowlenses.com"
     ],
     "issues_reported": [],
     "scamhit": "",

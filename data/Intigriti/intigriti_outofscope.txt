@@ -35,6 +35,7 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
+cadeau.videoland.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be
