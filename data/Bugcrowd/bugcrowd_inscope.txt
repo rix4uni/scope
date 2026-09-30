@@ -1376,6 +1376,16 @@ kiwi.partner.viator.com
 selector.viator.com
 partnerhelp.viator.com
 *.viator.com
+vinted.com
+vinted.net
+vintedgo.com
+sandbox.vintedgo.com
+sandbox.vinted.com
+test-escalations.vintedgo.com
+badger.it.vinted.com
+careers.vinted.com
+company.vinted.com
+news.vinted.com
 *.volkswagen.de
 vwfs.de
 vwfs.com

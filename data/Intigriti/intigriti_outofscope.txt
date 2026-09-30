@@ -248,6 +248,14 @@ status.truelayer.com
 truelayer.zendesk.com
 *.zimpler.com
 elect.tweakers.net
+boekentoy.uzleuven.be
+uz-laboboeken.web.app
+laboboeken.uzleuven.be
+boekentoy.firebaseio.com
+uz-laboboeken.firebaseio.com
+jobs.uzleuven.be
+uzleuven.atlassian.net
+vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com

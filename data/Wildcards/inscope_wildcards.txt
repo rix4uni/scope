@@ -949,8 +949,6 @@ ic3.*.indriverapp.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
-*.algolia.net
-*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -1121,6 +1119,7 @@ ic3.*.indriverapp.com
 *.intergamma.nl
 *.restintergamma.nl
 *.intergamma-test.nl
+*werkenbij.intergamma.nl
 *.werkenbijgamma.nl
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
@@ -1240,6 +1239,8 @@ ic3.*.indriverapp.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+*.kwsdose.be
+*.playuzleuven.be
 *.optimuscards.com
 *.topperpay.com
 *.uphold.com

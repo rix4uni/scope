@@ -634,7 +634,6 @@ ro.co
 *.windstreamdeals.com
 *.windstreamoffers.com
 *.windstreamsmallbusiness.com
-voyageai.com
 *.chattest.deribit.com
 deribit.zendesk.com
 office.deribit.com

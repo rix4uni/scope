@@ -1187,7 +1187,6 @@ training.palantir.com
 community.modernfertility.com
 login.ro.co
 ro.co
-voyageai.com
 deribit.zendesk.com
 office.deribit.com
 support.deribit.com
@@ -2934,6 +2933,14 @@ support.truelayer.com
 status.truelayer.com
 truelayer.zendesk.com
 elect.tweakers.net
+boekentoy.uzleuven.be
+uz-laboboeken.web.app
+laboboeken.uzleuven.be
+boekentoy.firebaseio.com
+uz-laboboeken.firebaseio.com
+jobs.uzleuven.be
+uzleuven.atlassian.net
+vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
