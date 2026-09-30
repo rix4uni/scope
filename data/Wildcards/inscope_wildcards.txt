@@ -1207,6 +1207,8 @@ ic3.*.indriverapp.com
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -1228,7 +1230,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net

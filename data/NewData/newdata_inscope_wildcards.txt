@@ -1,6 +1,4 @@
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
+*.sqills.com
+*.sqills.team
+*.truelayer.cloud
+*.truelayer.io
