@@ -17389,7 +17389,6 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
-      "alfred-uat-31.nonprod.syfe.com",
       "alfred.syfe.com",
       "api-uat-bugbounty.nonprod.syfe.com",
       "api.syfe.com",

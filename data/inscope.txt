@@ -2646,7 +2646,6 @@ gift.starbucks.co.jp
 login.starbucks.co.jp
 starbucks.co.jp
 starbucks.com.cn
-alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
