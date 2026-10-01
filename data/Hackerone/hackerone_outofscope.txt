@@ -532,7 +532,6 @@ bus.*.indrive.com
 coaching.supernovas.indrive.com
 servicos.indrive.com
 sinet.startup.indriver
-super-services.indriverapp.com
 supernovas.indrive.com
 engineering.rei.com
 rei.gladly.com
@@ -1208,9 +1207,6 @@ mqtt2.myndr.net
 pnp.myndr.net
 faraday.ai
 faraday.atlassian.net
-adsmanager.truecaller.com
-community.truecaller.com
-support.truecaller.com
 help.evernote.com
 signrequest.com
 sr-staging-1.com

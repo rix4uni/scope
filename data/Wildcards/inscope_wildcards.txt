@@ -433,12 +433,7 @@ sip.*.twilio.com
 *.indrive.com
 *.indriver.com
 *.indriverapp.com
-cf.*.aws.indriverapp
-bid.*.aws.indriverapp
 *.indriver.io
-ic3.*.indriverapp.com
-*.eu-east-1.indriverapp.com
-*.aws.indriverapp.com
 *.boredapeyachtclub.com
 *.otherside.xyz
 *.yuga.com
@@ -550,8 +545,6 @@ ic3.*.indriverapp.com
 *.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
-*-eu.truecaller.com
-*-noneu.truecaller.com
 *.a.exodus.io
 *-s.a.exodus.io
 *.exodus.com
@@ -1195,8 +1188,6 @@ ic3.*.indriverapp.com
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
-*.sqills.com
-*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
