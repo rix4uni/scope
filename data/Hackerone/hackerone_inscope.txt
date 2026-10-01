@@ -1,3 +1,4 @@
+github.com
 wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com
 *.wolt.com
 wolt.com
@@ -641,7 +642,6 @@ api-sandbox.circle.com
 app.circle.com
 app-sandbox.circle.com
 console.circle.com
-github.com
 *.varonis.com
 *.varonis.io
 downloads.varonis.com

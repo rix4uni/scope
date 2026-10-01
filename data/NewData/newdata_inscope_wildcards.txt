@@ -1,3 +1,2 @@
-*werkenbij.intergamma.nl
-*.kwsdose.be
-*.playuzleuven.be
+*.truelayer.cloud
+*.truelayer.io

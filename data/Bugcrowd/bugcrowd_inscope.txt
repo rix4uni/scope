@@ -4,7 +4,6 @@ marketplace.atlassian.com
 acorns.com
 *.acorns.com
 graphql.acorns.com
-gohenry.com
 pixpay.fr
 app.simple-reports.com
 *app.simple-reports.com
