@@ -135,9 +135,6 @@ awverify.*.mortgagechoice.com
 *.snapnames.com
 *.namejet.com
 *.buydomains.com
-*.afterpay.com
-*.cash.me
-*.tidal.com
 *.atlassian.com
 *.sprint.net
 *.mobile.uscc.net
