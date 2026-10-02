@@ -1,2 +1,2 @@
-*.truelayer.cloud
-*.truelayer.io
+*.kwsdose.be
+*.playuzleuven.be

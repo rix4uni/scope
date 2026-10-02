@@ -1215,6 +1215,8 @@ sip.*.twilio.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+*.kwsdose.be
+*.playuzleuven.be
 *.optimuscards.com
 *.topperpay.com
 *.uphold.com
