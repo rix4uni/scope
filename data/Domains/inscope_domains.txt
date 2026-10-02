@@ -1337,7 +1337,12 @@ cdn.gleague.nba.com
 cdn.nba.com
 cl-qa.nba.com
 cl.nba.com
+cleveland-dev.gleague.nba.com
+cleveland-qa.gleague.nba.com
 cleveland.gleague.nba.com
+coachellavalley-dev.gleague.nba.com
+coachellavalley-qa.gleague.nba.com
+coachellavalley.gleague.nba.com
 coalition-dev.nba.com
 coalition-qa.nba.com
 communityassist.nba.com
@@ -1483,6 +1488,9 @@ jrnbaworldchampionship.nba.com
 lakeland-dev.gleague.nba.com
 lakeland-qa.gleague.nba.com
 lakeland.gleague.nba.com
+laketown-dev.gleague.nba.com
+laketown-qa.gleague.nba.com
+laketown.gleague.nba.com
 liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty-qa2.wnba.com
@@ -1567,6 +1575,8 @@ oklahomacity-dev.gleague.nba.com
 oklahomacity-qa.gleague.nba.com
 oklahomacity.gleague.nba.com
 ontario.gleague.nba.com
+osceola-qa.gleague.nba.com
+osceola.gleague.nba.com
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
@@ -1594,6 +1604,7 @@ ripcity.gleague.nba.com
 saltlakecity-dev.gleague.nba.com
 saltlakecity-qa.gleague.nba.com
 saltlakecity.gleague.nba.com
+sandiego.gleague.nba.com
 santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
 santacruz.gleague.nba.com
@@ -1664,6 +1675,8 @@ trs.nba.com
 valkyries-dev.wnba.com
 valkyries-qa.wnba.com
 valkyries.wnba.com
+valley-qa.gleague.nba.com
+valley.gleague.nba.com
 videorulebook-dev.nba.com
 videorulebook-qa.nba.com
 videorulebook.nba.com
@@ -1810,7 +1823,6 @@ massimodutti.cn
 static.zara.com
 admin-portal.api-xperience.com
 africa.visa.com
-app.demand.cybersource.com
 askpeopleteam.visa.com
 bd.visa.com
 by.visa.com
@@ -1829,7 +1841,6 @@ dwy.visa.com
 ebctest.cybersource.com
 forms.cybersource.com
 myvisainfinite.com
-solutions.visaacceptance.com
 usa.visa.com
 visabg.com
 visa.co.nz
@@ -1837,8 +1848,6 @@ currencycloud.com
 myvisacardportal.com
 visa.com.az
 visa.com.ua
-images.demand.cybersource.com
-info.authorize.net
 my.visa.fr
 myanmar.visa.com
 myvu.visauniversity.com
@@ -3823,15 +3832,6 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
-profiles-api.datacamp.com
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 demorgen.be
 myaccount.volkskrant.nl
