@@ -1140,8 +1140,6 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1217,8 +1215,6 @@ sip.*.twilio.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
 *.optimuscards.com
 *.topperpay.com
 *.uphold.com

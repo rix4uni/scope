@@ -154,11 +154,6 @@ nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
 *.nexuzhealth.pro
-rancher.ninjakiwi.com
-rancher.ninjakiwi.me
-store.ninjakiwi.com
-support.ninjakiwi.com
-icarusadmin.ninjakiwi.com
 *.vectus.in
 a.simplemdm.com
 *.pdq.com
@@ -231,14 +226,6 @@ abonnement.trouw.nl
 actie.trouw.nl
 *.zimpler.com
 elect.tweakers.net
-boekentoy.uzleuven.be
-uz-laboboeken.web.app
-laboboeken.uzleuven.be
-boekentoy.firebaseio.com
-uz-laboboeken.firebaseio.com
-jobs.uzleuven.be
-uzleuven.atlassian.net
-vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
