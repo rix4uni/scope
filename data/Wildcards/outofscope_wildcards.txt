@@ -680,6 +680,9 @@ g.*.slackhq.com
 *.ripe.net
 *.randstad.in
 *.newyorkredbulls.com
+*.ccnag.com
+*.connect.coca-cola.com
+*.crewconnect.coca-cola.com
 *.zimpler.com
 *.uphodl.com
 *.zabka-snrs.zabka.pl
