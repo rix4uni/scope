@@ -1048,6 +1048,7 @@ sip.*.twilio.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1207,7 +1208,9 @@ sip.*.twilio.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net

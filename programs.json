@@ -1600,7 +1600,7 @@
     "platform": "YesWeHack",
     "reward": "$null",
     "inscope_domains": [
-      "https://dojo-yeswehack.com/challenge-of-the-month/dojo-54"
+      "https://dojo-yeswehack.com/challenge-of-the-month/dojo-55"
     ],
     "outofscope_domains": [
       "Everything that's out of the scope root URL"
@@ -2484,6 +2484,48 @@
       "Out of Scope"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-02"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-02"
@@ -5018,6 +5060,66 @@
     "last_updated": "2026-10-02"
   },
   {
+    "name": "TrueLayer",
+    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "api.truelayer[-sandbox].com",
+      "api.mtls.truelayer[-sandbox].com",
+      "auth.truelayer[-sandbox].com",
+      "auth.mtls.truelayer[-sandbox].com",
+      "app.truelayer[-sandbox].com",
+      "login-api.truelayer[-sandbox].com",
+      "login.truelayer[-sandbox].com",
+      "onboarding-api.truelayer.com",
+      "pay-api.truelayer[-sandbox].com",
+      "pay.truelayer[-sandbox].com",
+      "paydirect.truelayer[-sandbox].com",
+      "payment.truelayer[-sandbox].com",
+      "payments-experience-api.truelayer[-sandbox].com",
+      "user-authentication-api.truelayer[-sandbox].com",
+      "users-api.truelayer.com",
+      "C# SDK",
+      "console-backend.truelayer[-sandbox].com",
+      "console.truelayer[-sandbox].com",
+      "sftp.reports.truelayer.com",
+      "Java SDK",
+      "PHP SDK",
+      "TrueLayer for Magento (Magento plugin)",
+      "shopify-admin.truelayer.com",
+      "shop-pay-app-api.truelayer.com",
+      "truelayer-signing",
+      "webhooks.truelayer[-sandbox].com",
+      "*.truelayer.cloud",
+      "*.truelayer.com",
+      "*.truelayer.io",
+      "iOS SDK",
+      "React Native SDK",
+      "Web SDK",
+      "Rust SDK"
+    ],
+    "outofscope_domains": [
+      "trust.truelayer.com",
+      "TrueLayer for WooCommerce (WordPress plugin)",
+      "banks.truelayer.com",
+      "careers.truelayer.com",
+      "docs.truelayer.com",
+      "docs.houston.truelayer.com",
+      "https://truelayer.com/contact/",
+      "index.truelayer.com",
+      "info.truelayer.com",
+      "signin.truelayer.com",
+      "support.truelayer.com",
+      "status.truelayer.com",
+      "truelayer.zendesk.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-02"
+  },
+  {
     "name": "TrueLayer VDP",
     "program_url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5303,6 +5405,27 @@
     "last_updated": "2026-10-02"
   },
   {
+    "name": "Venly",
+    "program_url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "api-wallet.venly.io",
+      "api.arkane.network",
+      "connect.arkane.network ",
+      "connect.venly.io",
+      "login.arkane.network",
+      "login.venly.io",
+      "wallet.venly.io",
+      "api-wallet-sandbox.venly.io"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-02"
+  },
+  {
     "name": "Veriff Bug Bounty",
     "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5326,6 +5449,39 @@
     "outofscope_domains": [
       "https://station.veriff.com/config/"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-02"
+  },
+  {
+    "name": "Visma",
+    "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€7500",
+    "inscope_domains": [
+      "564141518",
+      "accountsettings.connect.identity.stagaws.visma.com",
+      "admin.stage.vismaonline.com",
+      "aiassistant.stage.vismaonline.com",
+      "api.workbox.dk",
+      "app.workbox.dk",
+      "authz.workbox.dk",
+      "com.visma.blue",
+      "connect.identity.stagaws.visma.com",
+      "eaccounting.stage.vismaonline.com",
+      "eaccountingprinting.stage.vismaonline.com",
+      "identity.stage.vismaonline.com",
+      "myservices-api.stage.vismaonline.com",
+      "myservices.stage.vismaonline.com",
+      "oauth.developers.stagaws.visma.com",
+      "photoservice.stage.vismaonline.com",
+      "ai-testing.maventa.com",
+      "ax-stage.maventa.com",
+      "autointerface.stag.visma.net",
+      "testing.maventa.com"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-02"
@@ -6099,7 +6255,7 @@
     "last_updated": "2026-10-02"
   },
   {
-    "name": "AI | Apps+ Marketplace Bug Bounty Program ",
+    "name": "AI | Apps+ Marketplace Bug Bounty Program",
     "program_url": "https://bugcrowd.com/engagements/apps-plus2",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
