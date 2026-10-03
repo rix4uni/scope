@@ -3114,8 +3114,6 @@ super6.skysports.com
 apps.apple.com
 falcon-sandbox.com
 hybrid-analysis.com
-onum-labs.com
-onum.com
 play.google.com
 sgnl.ai
 sgnl.cloud

@@ -1749,6 +1749,8 @@ skyrgs.blueprintgaming.com
 support.developer.betfair.com
 technology.skybettingandgaming.com
 betfair.com.co
+onum-labs.com
+onum.com
 *.azuredatabricks.net
 *.cloud.databricks.com
 *.gcp.databricks.com
