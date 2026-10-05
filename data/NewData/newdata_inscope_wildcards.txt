@@ -1,10 +1,7 @@
-*.api.id.realestate.com.au
-*.id.realestate.com.au
-*.accounts.realestate.com.au
-*.realestate.com.au
-*.realcommercial.com.au
-*.mortgagechoice.com.au
-*.demo.bp.mortgagechoice.com.au
-*.smartline.com.au
-*.mclead.com.au
-*.report.uat.proptrack.com
+*.data.api.platform.here.com
+*.metrics.platform.here.com
+*.platform.here.com
+*.ninjakiwi.me
+*.nkstatic.com
+*.truelayer.cloud
+*.truelayer.io

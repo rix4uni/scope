@@ -3012,19 +3012,29 @@
     "platform": "Intigriti",
     "reward": "€2000",
     "inscope_domains": [
-      "*.account.api.here.com",
-      "*.account.here.com",
-      "*.mobilitygraph.hereapi.com",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
       "*.router.hereapi.com",
-      "*.scbe.api.here.com",
       "*.subp-router.hereapi.com",
-      "955837609",
-      "com.here.app.maps",
-      "https://jaguar.here.com",
-      "https://landrover.here.com",
-      "Leaked/compromised employee accounts *.here.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "xyz.api.here.com",
+      "*.scbe.api.here.com",
       "*.here.com",
-      "*.hereapi.com"
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -3990,6 +4000,40 @@
     "last_updated": "2026-10-05"
   },
   {
+    "name": "Ninja Kiwi Games Bug Bounty program",
+    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4125",
+    "inscope_domains": [
+      "analytics.ninjakiwi.com",
+      "api.ninjakiwi.com",
+      "guts.ninjakiwi.com",
+      "*.ninjakiwi.me",
+      "*.nkstatic.com",
+      "battles.tv",
+      "data.ninjakiwi.com",
+      "ninja.kiwi",
+      "ninjakiwi.com",
+      "alerts.ninjakiwi.com",
+      "boomer2.ninjakiwi.com",
+      "ct.ninjakiwi.com",
+      "mynk-dash.ninjakiwi.com",
+      "mynk.ninjakiwi.com",
+      "*.souparea.com"
+    ],
+    "outofscope_domains": [
+      "rancher.ninjakiwi.com",
+      "rancher.ninjakiwi.me",
+      "store.ninjakiwi.com",
+      "support.ninjakiwi.com",
+      "icarusadmin.ninjakiwi.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-05"
+  },
+  {
     "name": "NxtPort VDP",
     "program_url": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4630,21 +4674,6 @@
     "last_updated": "2026-10-05"
   },
   {
-    "name": "Skoda Auto Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
-      "cz.skodaauto.myskoda"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-05"
-  },
-  {
     "name": "Social Deal",
     "program_url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5018,6 +5047,66 @@
     "last_updated": "2026-10-05"
   },
   {
+    "name": "TrueLayer",
+    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "api.truelayer[-sandbox].com",
+      "api.mtls.truelayer[-sandbox].com",
+      "auth.truelayer[-sandbox].com",
+      "auth.mtls.truelayer[-sandbox].com",
+      "app.truelayer[-sandbox].com",
+      "login-api.truelayer[-sandbox].com",
+      "login.truelayer[-sandbox].com",
+      "onboarding-api.truelayer.com",
+      "pay-api.truelayer[-sandbox].com",
+      "pay.truelayer[-sandbox].com",
+      "paydirect.truelayer[-sandbox].com",
+      "payment.truelayer[-sandbox].com",
+      "payments-experience-api.truelayer[-sandbox].com",
+      "user-authentication-api.truelayer[-sandbox].com",
+      "users-api.truelayer.com",
+      "C# SDK",
+      "console-backend.truelayer[-sandbox].com",
+      "console.truelayer[-sandbox].com",
+      "sftp.reports.truelayer.com",
+      "Java SDK",
+      "PHP SDK",
+      "TrueLayer for Magento (Magento plugin)",
+      "shopify-admin.truelayer.com",
+      "shop-pay-app-api.truelayer.com",
+      "truelayer-signing",
+      "webhooks.truelayer[-sandbox].com",
+      "*.truelayer.cloud",
+      "*.truelayer.com",
+      "*.truelayer.io",
+      "iOS SDK",
+      "React Native SDK",
+      "Web SDK",
+      "Rust SDK"
+    ],
+    "outofscope_domains": [
+      "trust.truelayer.com",
+      "TrueLayer for WooCommerce (WordPress plugin)",
+      "banks.truelayer.com",
+      "careers.truelayer.com",
+      "docs.truelayer.com",
+      "docs.houston.truelayer.com",
+      "https://truelayer.com/contact/",
+      "index.truelayer.com",
+      "info.truelayer.com",
+      "signin.truelayer.com",
+      "support.truelayer.com",
+      "status.truelayer.com",
+      "truelayer.zendesk.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-05"
+  },
+  {
     "name": "TrueLayer VDP",
     "program_url": "https://www.intigriti.com/programs/truelayer/truelayervdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5039,23 +5128,6 @@
     "outofscope_domains": [
       "*.zimpler.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-05"
-  },
-  {
-    "name": "Trusted Firmware",
-    "program_url": "https://www.intigriti.com/programs/arm/trustedfirmware/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$20000",
-    "inscope_domains": [
-      "TrustedFirmware-A (TF-A)",
-      "TrustedFirmware-M (TF-M)",
-      "TF-PSA-Crypto",
-      "OP-TEE"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-05"
@@ -6544,6 +6616,7 @@
       "https://api.us1.fga.dev/",
       "https://customers.us1.fga.dev/",
       "https://play.fga.dev/",
+      "webtask.run",
       "https://github.com/auth0/auth0.js",
       "https://github.com/auth0/lock",
       "https://github.com/auth0/auth0-spa-js",
@@ -6563,7 +6636,6 @@
       "auth0.auth0.com",
       "manage.auth0.com",
       "accounts.auth0.com",
-      "webtask.io\t",
       "phenix.rocks\t",
       "Auth0 Docs (including quickstarts)",
       "sharelock.io",
@@ -6846,7 +6918,7 @@
     "program_url": "https://bugcrowd.com/engagements/bitso-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$7500",
+    "reward": "$15000",
     "inscope_domains": [
       "https://bitso.com",
       "https://nvio.mx/",
@@ -15397,13 +15469,13 @@
     "reward": "-",
     "inscope_domains": [
       "1040.com",
+      "drakesoftware.com",
       "securefilepro.com",
+      "taxact.com",
       "taxwell.com",
       "taxwell.org"
     ],
     "outofscope_domains": [
-      "drakesoftware.com",
-      "taxact.com",
       "taxactonline.com"
     ],
     "issues_reported": [],
@@ -18507,6 +18579,7 @@
       "com.nbaimd.gametime.universal",
       "comets-dev.wnba.com",
       "comets-qa.wnba.com",
+      "comets-uat.wnba.com",
       "comets.wnba.com",
       "communityassist.nba.com",
       "contact-dev.nba.com",
@@ -62438,6 +62511,24 @@
       "com.quora.android",
       "com.quora.app.mobile",
       "http://poe.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-05"
+  },
+  {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
     ],
     "outofscope_domains": [],
     "issues_reported": [],

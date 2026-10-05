@@ -61,6 +61,7 @@ dashboard.fga.dev
 api.us1.fga.dev
 customers.us1.fga.dev
 play.fga.dev
+webtask.run
 auth0.net
 auth0.com
 samltool.io

@@ -1,1 +1,1 @@
-https://github.com/omacom/omarchy
+https://github.com/brave/*,

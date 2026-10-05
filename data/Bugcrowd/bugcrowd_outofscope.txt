@@ -49,7 +49,6 @@ ws.aurorynet.dev.aurory.io
 auth0.auth0.com
 manage.auth0.com
 accounts.auth0.com
-webtask.io
 phenix.rocks
 sharelock.io
 goextend.io

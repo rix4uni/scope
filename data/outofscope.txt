@@ -758,7 +758,6 @@ ws.aurorynet.dev.aurory.io
 auth0.auth0.com
 manage.auth0.com
 accounts.auth0.com
-webtask.io
 phenix.rocks
 sharelock.io
 goextend.io
@@ -1411,8 +1410,6 @@ software.cts.l3harris.com
 swarm.thorntontomasetti.com
 tms.l3commercialaviation.com
 andurilgear.com
-drakesoftware.com
-taxact.com
 taxactonline.com
 kyc.ondato.net
 kyc.api.ondato.net
@@ -3502,6 +3499,11 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+rancher.ninjakiwi.com
+rancher.ninjakiwi.me
+store.ninjakiwi.com
+support.ninjakiwi.com
+icarusadmin.ninjakiwi.com
 a.simplemdm.com
 personio.de
 personio.slack.com
@@ -3545,6 +3547,18 @@ limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
 actie.trouw.nl
+trust.truelayer.com
+banks.truelayer.com
+careers.truelayer.com
+docs.truelayer.com
+docs.houston.truelayer.com
+truelayer.com
+index.truelayer.com
+info.truelayer.com
+signin.truelayer.com
+support.truelayer.com
+status.truelayer.com
+truelayer.zendesk.com
 elect.tweakers.net
 boekentoy.uzleuven.be
 uz-laboboeken.web.app
