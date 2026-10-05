@@ -636,11 +636,6 @@ sip.*.twilio.com
 *.travelocity.com
 *.vrbo.com
 *.wotif.com
-*.infra-prod.nsvcs.net
-*.onegraph.com
-*.ops.netlify.com
-*.services-prod.nsvcs.net
-*.services.netlify.com
 *.fanduel.com
 *.mgmt.fndlsb.net
 *.prd.fndlsb.net

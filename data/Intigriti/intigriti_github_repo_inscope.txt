@@ -10,7 +10,6 @@ https://github.com/grafana/loki
 https://github.com/grafana/mimir
 https://github.com/grafana/tempo
 https://github.com/grafana
-https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
 https://github.com/RIPE-NCC/whois
 https://github.com/RIPE-NCC/rpki-monitoring

@@ -294,8 +294,6 @@ bus.*.indrive.com
 *.mitsubishi-fuso.com
 *.thomasbuildbuses.com
 *evobus.com
-*.api.cx.metamask.io
-*.metamask.io
 *.floqast.com
 *.floqast.studio
 *.ro.co
@@ -461,9 +459,6 @@ bus.*.indrive.com
 *.earlywarning.io
 *.zellepay.com
 *.email.instacart.com
-*.netlify.app
-*.netlify.com
-*.netlifycms.org
 *.fndl.dev
 *.gokangu.cl
 *.gokangu.co
