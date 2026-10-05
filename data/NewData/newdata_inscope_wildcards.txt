@@ -1,3 +1,10 @@
-*.datacamp.com
-*.truelayer.cloud
-*.truelayer.io
+*.api.id.realestate.com.au
+*.id.realestate.com.au
+*.accounts.realestate.com.au
+*.realestate.com.au
+*.realcommercial.com.au
+*.mortgagechoice.com.au
+*.demo.bp.mortgagechoice.com.au
+*.smartline.com.au
+*.mclead.com.au
+*.report.uat.proptrack.com
