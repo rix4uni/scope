@@ -533,6 +533,7 @@ coaching.supernovas.indrive.com
 servicos.indrive.com
 sinet.startup.indriver
 supernovas.indrive.com
+catalogs.rei.com
 engineering.rei.com
 rei.gladly.com
 reicasting.com
@@ -1515,6 +1516,8 @@ affiliate.instacart.com
 brand.instacart.com
 careers.instacart.com
 carrotstore.instacart.com
+company.instacart.com
+company.instacart.dev
 enterprise-status.instacart.com
 atlassian.com
 heyitsinstacart.com
