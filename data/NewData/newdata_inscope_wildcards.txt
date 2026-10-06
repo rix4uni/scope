@@ -1,7 +1,2 @@
-*.data.api.platform.here.com
-*.metrics.platform.here.com
-*.platform.here.com
-*.ninjakiwi.me
-*.nkstatic.com
-*.truelayer.cloud
-*.truelayer.io
+*.algolia.net
+*.algolianet.com

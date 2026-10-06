@@ -1075,6 +1075,7 @@ ab-api-gw-cf.global.aws.indriverapp.com
 ab-api-gw-scf.global.aws.indriverapp.com
 alternativa.film
 api-gw-scf.sa.apse1.aws.indriverapp.com
+sa.apse
 api.ryadom.kz
 arsentomsky.indrive.com
 ath-cf.euce1.indriverapp.com
@@ -1087,12 +1088,13 @@ africa.afso
 latam.saea
 mena.euso
 mena.meso
-sa.apse
 sea.apse
 baf-gw-scf.sa.apse1.aws.indriverapp.com
 balance-api-front.eu-east-1.indriverapp.com
 balance-api.eu-east-1.indriverapp.com
 bc-cf.latam-co.saea1.aws.indriverapp.com
+latam-co.saea
+latam-pe.saea
 bc-gw-cf.latam-pe.saea1.aws.indriverapp.com
 bdu-cf.euce1.indriverapp.com
 bdu-gw-cf.euce1.indriverapp.com
@@ -1100,6 +1102,13 @@ bdu-gw-scf.euce1.indriverapp.com
 bf-cf.latam-co.saea1.aws.indriverapp.com
 bf-gw-cf.latam-pe.saea1.aws.indriverapp.com
 bid-cf.africa.afso1.aws.indriverapp.com
+cis.euce
+eu.euce
+latam-br.saea
+latam-mx.usea
+mena-eg.euso
+mena-eg.meso
+sa-in.apso
 bid-gw-cf.africa.afso1.aws.indriverapp.com
 bid-gw-scf.sa.apse1.aws.indriverapp.com
 blog.indrive.com
@@ -3055,6 +3064,10 @@ smarttrader.deriv.com
 *.fetlife.com
 fetlife.com
 fetlifemail.com
+*.algolia.net
+*.algolianet.com
+dashboard.algolia.com
+algolia.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
