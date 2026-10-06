@@ -1074,14 +1074,6 @@ sip.*.twilio.com
 *.internal.exoscale.ch
 *.gulp.ch
 *.gulp.de
-*.data.api.platform.here.com
-*.metrics.platform.here.com
-*.platform.here.com
-*.router.hereapi.com
-*.subp-router.hereapi.com
-*.hereapi.com
-*.scbe.api.here.com
-*.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
