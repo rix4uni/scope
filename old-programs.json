@@ -115,10 +115,8 @@
       "Third-party applications and websites",
       "Not Belonging to Ant Group’s Products or Systems."
     ],
-    "issues_reported": [
-      "rix4uni - BXSS Rejected"
-    ],
-    "scamhit": "1",
+    "issues_reported": [],
+    "scamhit": "",
     "last_updated": "2026-10-08"
   },
   {
@@ -43237,7 +43235,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2025-11-22"
+    "last_updated": "2026-10-08"
   },
   {
     "name": "John Deere",
@@ -65069,6 +65067,20 @@
     "last_updated": "2025-11-24"
   },
   {
+    "name": "Ant Group Security Response Center - Bug Bounty Program",
+    "program_url": "https://yeswehack.com/programs/ant-group-security-response-center-bug-bounty-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$10 - $2,500",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [
+      "rix4uni - BXSS Rejected"
+    ],
+    "scamhit": "1",
+    "last_updated": "2025-11-24"
+  },
+  {
     "name": "Haystackteam",
     "program_url": "https://www.haystackteam.com/legal/bug-bounty",
     "logo": "https://cdn.prod.website-files.com/6164fed00f95dce87056b2bc/66e99aea19b5d4aef4714c8b_favicon.png",
@@ -65350,6 +65362,18 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "Inspectorio",
+    "program_url": "https://hackerone.com/0662c7e2-44a1-4a2c-9552-1caab9997af4/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "-",
     "program_url": "https://hackerone.com/6cde2ff5-3e86-4e2a-b426-34d5db004150/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65398,8 +65422,32 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "John Deere",
+    "program_url": "https://hackerone.com/166990db-9b1f-45ff-8ec7-3a4fba310181/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "-",
     "program_url": "https://hackerone.com/10d918fb-7ffc-45c8-883e-b9341777cecd/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Krisp",
+    "program_url": "https://hackerone.com/2577d128-fe75-4610-a6a9-abb431ed43e9/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -65436,6 +65484,18 @@
   {
     "name": "Flo Health",
     "program_url": "https://hackerone.com/05225b90-9402-4d19-9f25-a19f03d32b18/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Avalara",
+    "program_url": "https://hackerone.com/120dd733-befb-4245-a03f-2bf74516430b/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -65614,8 +65674,44 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "ABN AMRO Bank VDP",
+    "program_url": "https://hackerone.com/12189d64-dc52-4503-83fe-1ca856b14057/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "-",
     "program_url": "https://hackerone.com/2bb0b37b-4b88-4fd5-922e-7373bd55e822/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Deribit",
+    "program_url": "https://hackerone.com/295d7c57-aefb-42fb-b9c8-2b8619691b74/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Alshaya",
+    "program_url": "https://hackerone.com/2b3e8aef-3288-4fed-bd47-48af707d7814/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -65676,6 +65772,18 @@
   {
     "name": "-",
     "program_url": "https://hackerone.com/359b7e56-ddf7-4da2-a22a-ffb25a84c07f/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Fiserv",
+    "program_url": "https://hackerone.com/3732af47-8767-479e-8480-2e1c1d516d31/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -65770,6 +65878,18 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "23andMe Bug Bounty",
+    "program_url": "https://hackerone.com/35f9db90-0433-48ec-993e-ed7d18054a09/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "-",
     "program_url": "https://hackerone.com/3ad49ea1-a817-4a0e-87c5-9282e8538d49/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65784,6 +65904,42 @@
   {
     "name": "SmartBear Software",
     "program_url": "https://hackerone.com/425aeb5c-87dd-4bf5-8838-f8010fbaa396/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Nominet",
+    "program_url": "https://hackerone.com/3e1efb78-64dc-4751-814a-7eab11c7bb5c/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Vodafone",
+    "program_url": "https://hackerone.com/42d238f6-efe2-4e62-b641-e914510dd9ab/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Mintel",
+    "program_url": "https://hackerone.com/43e54855-3564-4588-8d9a-710a0089fe6f/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -65878,8 +66034,32 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "Semtech",
+    "program_url": "https://hackerone.com/222db92a-68dd-4c29-b7c1-9c78374ab84f/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "Hostinger",
     "program_url": "https://hackerone.com/5093805e-4e52-474b-ba7f-5c04a7ba10e7/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Oportun",
+    "program_url": "https://hackerone.com/4471c08b-82bd-4544-b44b-b264af2f3949/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -65976,6 +66156,18 @@
   {
     "name": "Abnormal AI",
     "program_url": "https://hackerone.com/539f9143-afe7-4fae-a0ad-3efa5ed2cd46/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Capital One",
+    "program_url": "https://hackerone.com/555d8c87-becd-4083-9a2e-82cb78c7016c/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -66238,8 +66430,32 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "Kaseya",
+    "program_url": "https://hackerone.com/56f2c2f0-2d7f-424c-8418-3ec2653d7657/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "-",
     "program_url": "https://hackerone.com/1866661b-6691-406e-a424-69b9e17ad37a/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Adevinta",
+    "program_url": "https://hackerone.com/6655fcd1-8e90-476f-8f8d-e68a0b88faad/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -66274,6 +66490,18 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "Lark Technologies",
+    "program_url": "https://hackerone.com/657397d3-3bf5-4c2f-9037-1b06341e3861/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "-",
     "program_url": "https://hackerone.com/7228829b-60a4-4084-9436-e81bd6d70420/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -66298,6 +66526,18 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "Autodesk",
+    "program_url": "https://hackerone.com/69defaf9-7b47-4952-b667-330cc166e78b/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "Manulife",
     "program_url": "https://hackerone.com/6e95df81-34a6-49a5-83e3-d24cd6212f48/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -66312,6 +66552,18 @@
   {
     "name": "CommScope",
     "program_url": "https://hackerone.com/68da4214-0ecf-42bd-a1a5-a84934b7b520/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "CBRE",
+    "program_url": "https://hackerone.com/6c9d83d5-e204-42c9-8697-6325d5b277cd/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -66538,6 +66790,18 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "Insulet Corporation",
+    "program_url": "https://hackerone.com/88bed9e7-b49b-47f7-a484-e58185cc9826/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "-",
     "program_url": "https://hackerone.com/891040e3-1aba-437c-bfb0-75fa0e7842b7/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -66576,6 +66840,18 @@
   {
     "name": "Driver and Vehicle Standards Agency",
     "program_url": "https://hackerone.com/8fc3625f-bc43-4cbe-99f2-eea411c5c3ce/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Neon",
+    "program_url": "https://hackerone.com/8777433c-7051-4c92-aed4-430278521656/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -66718,6 +66994,18 @@
     "last_updated": "2025-11-22"
   },
   {
+    "name": "Logitech",
+    "program_url": "https://hackerone.com/962d7e24-cb51-4f8a-9edc-5ed966857d44/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
     "name": "Factorial",
     "program_url": "https://hackerone.com/94fd9cb5-0b38-4b47-bb78-c6372420c76e/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -66732,6 +67020,18 @@
   {
     "name": "Bank of England",
     "program_url": "https://hackerone.com/8fa5066c-2688-4bab-890d-6278d81f3360/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Beiersdorf",
+    "program_url": "https://hackerone.com/96bb91ec-e639-42e6-85e0-a14739cecec4/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -66768,6 +67068,18 @@
   {
     "name": "Tanium",
     "program_url": "https://hackerone.com/9d4e972f-ea05-46c6-8de4-932a03070b46/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "SingleStore",
+    "program_url": "https://hackerone.com/94cd85d2-e853-4e55-9d28-478308d86299/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
@@ -66852,6 +67164,18 @@
   {
     "name": "-",
     "program_url": "https://hackerone.com/9d0c5db9-3dec-4ff2-9bc9-b8bea95d8923/embedded_submissions/new",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2025-11-22"
+  },
+  {
+    "name": "Klarna",
+    "program_url": "https://hackerone.com/9679df18-b126-47bf-80a1-32733d8d2b02/embedded_submissions/new",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
     "platform": "HackerOne",
     "reward": "-",
