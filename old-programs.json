@@ -96262,18 +96262,6 @@
     "last_updated": "2026-09-25"
   },
   {
-    "name": "Bugcrowd",
-    "program_url": "https://bugcrowd.com/engagements/fis",
-    "logo": "https://assets.bugcrowdusercontent.com/favicon.ico",
-    "platform": "Bugcrowd",
-    "reward": "-",
-    "inscope_domains": [],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-25"
-  },
-  {
     "name": "Bugv",
     "program_url": "https://bugv.io/business/",
     "logo": "https://bugv.io/wp-content/uploads/2020/09/cropped-favicon_2-180x180.png",
@@ -104609,27 +104597,6 @@
     "last_updated": "2026-09-25"
   },
   {
-    "name": "Sophos",
-    "program_url": "https://www.sophos.com/en-us/legal/sophos-responsible-disclosure-policy",
-    "logo": "https://www.google.com/s2/favicons?domain=www.sophos.com&sz=32",
-    "platform": "Bugcrowd",
-    "reward": "-",
-    "inscope_domains": [
-      "central.sophos.com",
-      "my.sophos.com",
-      "events.sophos.com",
-      "support.sophos.com",
-      "docs.sophos.com",
-      "techvids.sophos.com",
-      "community.sophos.com",
-      "assets.sophos.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-25"
-  },
-  {
     "name": "Soraban",
     "program_url": "https://www.soraban.com/responsible-disclosure-policy",
     "logo": "https://cdn.prod.website-files.com/6a075cbcffef33f861f0f1b8/6a23047c7b7243cd146d8bca_soraban-webclip.png",
@@ -106356,20 +106323,6 @@
       "learn.vista.co",
       "*.test.veezi.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-09-25"
-  },
-  {
-    "name": "Vlerick Business School",
-    "program_url": "https://www.vlerick.com/en/legal/responsible-disclosure-policy/",
-    "logo": "https://www.google.com/s2/favicons?domain=www.vlerick.com&sz=32",
-    "platform": "Intigriti",
-    "reward": "-",
-    "inscope_domains": [
-      "repository.vlerick.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-09-25"
