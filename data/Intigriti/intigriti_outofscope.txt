@@ -196,7 +196,8 @@ posti.fi
 pen-app.entrili.com
 *.anchors.atlas.ripe.net
 *.probes.atlas.ripe.net
-*ripe.net
+*aso*ripe.net
+*nro*ripe.net
 *.ripe.net
 exams.ripe.net
 labs.ripe.net
@@ -266,6 +267,7 @@ support.uphold.com
 wallet.uphold.com
 cds.vrt.radio
 innovatie.vrt.be
+shop.*.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be

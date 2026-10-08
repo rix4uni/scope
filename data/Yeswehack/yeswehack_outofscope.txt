@@ -42,7 +42,7 @@ fb-dev.doctolib.fr
 pro-app.doctolib.com
 developers.doctolib.com
 dmp.doctolib.fr
-*.doctolib.fr
+dmp-prd-aws-*.doctolib.fr
 fm.doctolib.fr
 fm.doctolib.it
 voip.doctolib.de
@@ -92,6 +92,7 @@ secondchance.jbl.com
 jp.harmanaudio.com
 jp.jbl.com
 devicedb.roonlabs.net
+devicedb-*.zip
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
@@ -101,11 +102,10 @@ drive.infomaniak.com
 *.jcloud.ik-server.com
 *.jpc.infomaniak.com
 *.jpe.infomaniak.com
-s3.pub
-*.infomaniak.cloud
+s3.pub*.infomaniak.cloud
 *.dbaas.infomaniak.cloud
 acronis.infomaniak.com
-*.infomaniak.com
+storage*.infomaniak.com
 *.louisvuitton.com
 paymaya.com
 api.moneyboxapp.com

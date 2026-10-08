@@ -38,8 +38,11 @@ satcomsimple.com
 satcomtest.com
 sdgov.gogoair.com
 legacy.gogoair.com
+*.gogoair.*.com
+*gogo*.com
 *gogo.com
 aeroxr.com
+gogo*.com
 gogo574.com
 gogoair.com
 gogocloud.net
@@ -187,8 +190,9 @@ warehouse.meesho.com
 *.authanvil.com
 *.passly.com
 lovable.app
-*.edge.gateways.konghq.com
+*.*.edge.gateways.konghq.com
 *.gateways.konghq.com
+*.edge.gateways.konghq.com
 *.gateways.konggateway.com
 *.edge.gateways.konggateway.com
 docs.konghq.com
@@ -292,11 +296,11 @@ rwbaird.com
 careers.msci.com
 *.hotmart.com
 *.teachable.com
-*.buildstaging.com
+*ctf*.buildstaging.com
 docs.stripe.com
 okta.whoop.com
 connect.com
-*.hubspot.com
+api*.hubspot.com
 events.hubspot.com
 ir.hubspot.com
 shop.hubspot.com
@@ -437,7 +441,7 @@ onlineaon.com.ar
 app.demand.cybersource.com
 images.demand.cybersource.com
 info.authorize.net
-*.gobrightspeed.net
+*dhcp*.gobrightspeed.net
 dhcp.embarqhsd.net
 support.world.org
 support.worldcoin.com
@@ -462,7 +466,7 @@ ldry.com
 ext.stripchat.com
 extensions.stripchat.com
 stripchat.com
-*.stripchat.com
+mta*.stripchat.com
 pxl.stripchat.com
 support.stripchat.com
 websocket-apps.sc-apps.com
@@ -688,7 +692,8 @@ tools.moov.io
 *.pool2.vodafone-ip.de
 *.pools.vodafone-ip.de
 *.rev.vodafone.pt
-*.cust.vodafone.cz
+cst-prg-*-*.cust.vodafone.cz
+cst2-*-*.cust.vodafone.cz
 net-x-x-x-x.cust.dsl.vodafone.it
 smart.vodafone.com.eg
 voxxxxxxxx.mynet.vodafone.it
@@ -819,7 +824,7 @@ sellingpilot.newegg.com
 *.fastly.net
 community.fastly.com
 connect.fastly.com
-*.krisp.ai
+*dev*.krisp.ai
 metabase.krisp.ai
 sdk-docs.krisp.ai
 url5145.krisp.ai
@@ -1069,6 +1074,7 @@ ap.iws.cloud.com
 eu.iws.cloud.com
 us.iws.cloud.com
 *.browser.cloud.com
+*.citrix*.com
 *.cloudburrito.com
 *.podio.com
 *.securevdr.com
@@ -1153,6 +1159,8 @@ event.us-east-1.sws.siemens.com
 o0pv3l7chl.execute-api.us-east-1.amazonaws.com
 react.vis.pre2.usea1.devops.sws.siemens.com
 poh0v3odoi.execute-api.eu-central-1.amazonaws.com
+*.aws.*
+*.dev
 aws.amazon.com
 amazongames.com
 learning.logistics.amazon.com
@@ -1495,9 +1503,8 @@ memorable.io
 reddit.secure.force.com
 *.clearxchange.com
 *bc.earlywarning.com
-api.zmsp
-*.earlywarning.io
-*.zellepay.com
+api.zmsp.*.earlywarning.io
+ccpa*.zellepay.com
 ccpa.zellepay.com
 demo.earlywarning.com
 docs.earlywarning.com
@@ -1561,7 +1568,7 @@ configs.urbancompany.com
 jarvis.urbanclap.com
 jarvis.urbancompany.com
 pro.urbanclap.com
-*.urbanclap.com
+dev*.urbanclap.com
 remitly.com
 *.egadvertising.com
 *.expediaagents.com
@@ -1606,7 +1613,7 @@ shop.matomo.org
 *.phunware.com
 *.ritzcarlton.com
 *.ritzcarltonyachtcollection.com
-*.marriott.com
+*moxymix*.marriott.com
 apps.ritzcarlton.com
 clmagtest.marriott.com
 element-hotels.marriott.com
@@ -2037,8 +2044,8 @@ northpass.com
 *parking.kiwi.com
 travelcar.com
 *sg.kiwi.com
-*kiwi.com
-*skypicker.com
+email*kiwi.com
+email*skypicker.com
 kiwistore.kiwi.com
 link.kiwi.com
 mail.skypicker.com
@@ -2084,10 +2091,10 @@ jira.scopely.io
 scopely.okta.com
 *.wordpress.com
 wordpress.com
-*wordpress.com
+**wordpress.com
 irclogs.wordpress.org
 lists.wordpress.org
-*.wordpress.org
+munin-*.wordpress.org
 status.wordpress.org
 glotpress.blog
 wordpress.tv
@@ -2149,7 +2156,7 @@ devapi.hyperpure.com
 devpod.hyperpure.com
 *.blinkit.support
 send.zomato.com
-*.runnr.in
+staging*.runnr.in
 bugbounty.runnr.in
 success.zomato.com
 zomatobook.com
@@ -2271,7 +2278,7 @@ forum-es.ui.com
 forum-pt.ui.com
 security.community.ui.com
 dev.playcanv.as
-*.playcanvas.com
+dev*.playcanvas.com
 returns.spectacles.com
 support.snapchat.com
 *.roomvaluesteam.com
@@ -2338,7 +2345,7 @@ love.uber.com
 merchants.ubereats.com
 newsroom.uber.com
 people.uber.com
-*.uber.com
+scaledsolutions*.uber.com
 uber.com.cn
 *.uber.com.cn
 uber.onelogin.com
@@ -2457,7 +2464,7 @@ concretecms.com
 concretecms.org
 *.glitchthegame.com
 slackhq.com
-g.*.slackhq.com
+e.g.*.slackhq.com
 status.slack.com
 *.rubyonrails.org
 go.hacker.one

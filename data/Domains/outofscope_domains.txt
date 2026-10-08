@@ -1855,7 +1855,6 @@ travel.capitalone.com
 very-idcheck.capitalone.co.uk
 memorable.io
 reddit.secure.force.com
-api.zmsp
 ccpa.zellepay.com
 demo.earlywarning.com
 docs.earlywarning.com
@@ -2997,7 +2996,6 @@ devicedb.roonlabs.net
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
-s3.pub
 acronis.infomaniak.com
 paymaya.com
 api.moneyboxapp.com

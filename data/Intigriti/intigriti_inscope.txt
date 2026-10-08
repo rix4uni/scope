@@ -221,8 +221,9 @@ horeko.com
 weclapp.com
 exact.com
 portal.exoscale.com
-*exoscale.com
-*.exo.io
+api-*exoscale.com
+sos-*.exo.io
+sks-*.exo.io
 *.internal.exoscale.ch
 exoscale.com
 community.exoscale.com
@@ -701,6 +702,9 @@ api.qualified.com
 access.ripe.net
 lirportal.ripe.net
 *.ripe.net
+*.randstad.*
+*.randstadrisesmart.*
+*.risesmart.*
 business.rivian.com
 rivian.com
 *.rivian.com
@@ -777,6 +781,7 @@ app.savers.co.uk
 campaign.savers.co.uk
 ecom-data.savers.co.uk
 *.savers.co.uk
+*.tempo-team.*
 tempo-team.be
 tempo-team.com
 tempo-team.nl
@@ -889,6 +894,7 @@ w1.uzleuven.be
 cardsonlinetst.azdiest.be
 *.kwsdose.be
 *.playuzleuven.be
+*.uzleuven.*
 docs.uphold.com
 wallet-sandbox.uphold.com
 api-sandbox.uphold.com
@@ -1062,7 +1068,8 @@ moneyback.com.hk
 mapi.moneyback.com.hk
 *.moneyback.com.hk
 *.yacht.nl
-*.yahoo.com
+*ensemble*.yahoo.com
+*omega*.yahoo.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
 onepush.query.yahoo.com
