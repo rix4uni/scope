@@ -1,3 +1,7 @@
+# Snapshot the previous programs.json so the new data can be compared against it
+[ -f programs.json ] && cp programs.json old-programs.json
+[ -f old-programs.json ] || echo '[]' > old-programs.json
+
 jq -s 'add' \
 <(curl -s "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/refs/heads/main/data/yeswehack_data.json" | jq --arg date "$(date +%F)" '[.[] | {
   name,
@@ -60,5 +64,32 @@ jq -s 'add' \
   scamhit: "",
   last_updated: $date
 }]') \
-<(curl -s "https://raw.githubusercontent.com/KrazePlanet/KrazePlanetPrograms/refs/heads/main/programs.json") \
-> programs.json
+> new-programs.json
+
+# Merge new data with the old file:
+#  - program unchanged (reward, inscope_domains, outofscope_domains) -> keep old last_updated
+#  - program changed or newly added                                  -> keep today's date
+#  - issues_reported / scamhit are preserved from the old file
+#  - programs only present in the old file are kept as they were
+jq --slurpfile old old-programs.json '
+  def key: .platform + "|" + .name;
+  def same($o): ((.reward) == $o.reward)
+    and ((.inscope_domains | sort) == ($o.inscope_domains | sort))
+    and ((.outofscope_domains | sort) == ($o.outofscope_domains | sort));
+  ($old[0] | map({(key): .}) | add // {}) as $idx
+  | . as $new
+  | ($new | map({(key): true}) | add // {}) as $seen
+  | ($new | map(
+      . as $p
+      | if $idx[key] then
+          $idx[key] as $o
+          | $p
+          | .issues_reported = $o.issues_reported
+          | .scamhit = $o.scamhit
+          | if same($o) then .last_updated = $o.last_updated else . end
+        else . end
+    ))
+    + ($old[0] | map(select($seen[key] | not)))
+' new-programs.json > programs.json
+
+rm -f new-programs.json
