@@ -141,6 +141,8 @@ consensus2024.coindesk.com
 uat.accounts.coindesk.com
 staging.coindesk.com
 comcastbiz.net
+decadis.net
+apps.decadis.net
 console.delltechnologies.com
 educate.dell.com
 console.dell.com

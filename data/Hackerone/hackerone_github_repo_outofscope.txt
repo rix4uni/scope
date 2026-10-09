@@ -28,7 +28,14 @@ https://github.com/crypto-com/swap-contracts-periphery
 https://github.com/elastic/*
 https://github.com/swiftype/*
 https://github.com/EpicGames/UnrealTournament
+https://github.com/bitwarden/.github
+https://github.com/bitwarden/agent-access
+https://github.com/bitwarden/akd-watch
+https://github.com/bitwarden/autopush-manager
+https://github.com/bitwarden/bitwarden-russh
 https://github.com/bitwarden/passwordless-react-example
+https://github.com/bitwarden/phishing-test-page
+https://github.com/bitwarden/rotation-daemon
 https://github.com/wordpress-mobile
 https://github.com/cloudflare/agentic-inbox
 https://github.com/cloudflare/cf
@@ -42,4 +49,4 @@ https://github.com/cloudflare/recapn
 https://github.com/cloudflare/saffron.git
 https://github.com/cloudflare/templates
 https://github.com/cloudflare/vinext-private
-https://github.com/x402-foundation
+https://github.com/coinbase/x402
