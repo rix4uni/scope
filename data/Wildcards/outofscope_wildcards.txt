@@ -661,6 +661,7 @@ e.g.*.slackhq.com
 *.doserverless.co
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
+*.agents-internal.do-ai.run
 *.doserverless-dev3.io
 *.ondbaasdev.com
 *.onstagingocean.app
@@ -701,7 +702,6 @@ e.g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
-*.uphodl.com
 shop.*.be
 *.zabka-snrs.zabka.pl
 *.intigriti.io

@@ -19,6 +19,7 @@ wolt.atlassian.net
 *.rukkaz.com
 *.superawesome.com
 *.superawesome.tv
+staging.aegeanair.com
 gogo-cards.com
 gogo-tours.fr
 gogo.mw
@@ -1614,6 +1615,7 @@ shop.matomo.org
 *.ritzcarlton.com
 *.ritzcarltonyachtcollection.com
 *moxymix*.marriott.com
+all-inclusive.marriott.com
 apps.ritzcarlton.com
 clmagtest.marriott.com
 element-hotels.marriott.com

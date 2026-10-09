@@ -1103,6 +1103,14 @@ sks-*.exo.io
 *.internal.exoscale.ch
 *.gulp.ch
 *.gulp.de
+*.data.api.platform.here.com
+*.metrics.platform.here.com
+*.platform.here.com
+*.router.hereapi.com
+*.subp-router.hereapi.com
+*.hereapi.com
+*.scbe.api.here.com
+*.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
@@ -1156,8 +1164,6 @@ sks-*.exo.io
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1174,7 +1180,6 @@ sks-*.exo.io
 *elvetino.ch
 *sbbcargo.com
 *transsicura.ch
-*.baeder-suite.de
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
@@ -1182,7 +1187,6 @@ sks-*.exo.io
 *.danalock.eu
 *.danalockapps.com
 *.danalockservices.com
-*.dejoris.de
 *.enviso.io
 *.enviso.shop
 *.gantner.be
@@ -1229,9 +1233,7 @@ sks-*.exo.io
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
 *.truelayer.com
-*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net
@@ -1242,12 +1244,8 @@ sks-*.exo.io
 *.kwsdose.be
 *.playuzleuven.be
 *.uzleuven.*
-*.optimuscards.com
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.water-link.be

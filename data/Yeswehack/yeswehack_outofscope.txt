@@ -20,6 +20,7 @@ lp.alasco.com
 support.alasco.de
 support.alasco.com
 bounty.cryptobox.com
+admin.bounty.cryptobox.com
 *.cryptobox.com
 *.ercom.fr
 webdev.dana.id

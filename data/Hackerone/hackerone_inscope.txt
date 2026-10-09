@@ -133,8 +133,6 @@ bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com
 braze.com
-docs.insomnia.rest
-insomnia.rest
 docs.konghq.com
 konghq.com
 *.konghq.com
@@ -2255,7 +2253,6 @@ ultimateears.com
 *uat.marriott.com
 marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
 apcgateway.marriott.com
 app-insiders.marriott.com
 auth-apc.marriott.com
