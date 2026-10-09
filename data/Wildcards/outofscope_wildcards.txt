@@ -654,6 +654,7 @@ e.g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -702,6 +703,7 @@ e.g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
+*.uphodl.com
 shop.*.be
 *.zabka-snrs.zabka.pl
 *.intigriti.io

@@ -1071,6 +1071,7 @@ devdegree*.shopifycloud.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1244,6 +1245,9 @@ sks-*.exo.io
 *.kwsdose.be
 *.playuzleuven.be
 *.uzleuven.*
+*.optimuscards.com
+*.topperpay.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.voi.com

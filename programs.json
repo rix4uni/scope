@@ -2439,6 +2439,48 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
+  },
+  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3851,6 +3893,20 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Nestlé VDP",
+    "program_url": "https://www.intigriti.com/programs/nestl%C3%A9/nestl%C3%A9vdp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.nestle.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Nexo",
     "program_url": "https://www.intigriti.com/programs/nexo/nexo/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5098,6 +5154,58 @@
       "*.usz.ch "
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Uphold",
+    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "Uphold: Buy BTC, ETH and 360+",
+      "Uphold: Buy BTC, ETH and 300+",
+      "docs.uphold.com",
+      "wallet-sandbox.uphold.com",
+      "api-sandbox.uphold.com",
+      "api-sandbox.uphold.com/graphql",
+      "portal.enterprise.uphold.com",
+      "api.portal.enterprise.uphold.com ",
+      "docs.api.enterprise.uphold.com",
+      "app.sandbox.topperpay.com",
+      "api.sandbox.topperpay.com",
+      "graphql.sandbox.topperpay.com/graphql",
+      "docs.topperpay.com",
+      "uatcms.optimuscards.com",
+      "docs.optimuscards.com",
+      "*.optimuscards.com",
+      "*.topperpay.com",
+      "*.uphold.com",
+      "status.uphold.com",
+      "www.uphold.com",
+      "www.topperpay.com",
+      "www.optimuscards.com",
+      "github.com/uphold/*"
+    ],
+    "outofscope_domains": [
+      "support-sandbox.uphold.com",
+      "support-staging.topperpay.com",
+      "www.uphodl.com",
+      "*.uphodl.com",
+      "UpHODL",
+      "UpHODL",
+      "api.topperpay.com",
+      "api.uphold.com",
+      "api.uphold.com/graphql",
+      "app.topperpay.com",
+      "cms.optimuscards.com",
+      "graphql.topperpay.com/graphql",
+      "support.topperpay.com",
+      "support.uphold.com",
+      "wallet.uphold.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -7027,20 +7135,17 @@
       "https://marketplace.atlassian.com/apps/1222649/macrosuite-easy-html-button-hide-content-divider-tabs?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1223472/trophies-for-jira-gamification?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1224103/cards-panels?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1224724/todo-checklist-with-forge?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1223471/trophies-for-confluence-gamification?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1225290/moscow-agile-prioritization-with-forge?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1225145/image-editor-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1230540/cosmos-intranet-for-confluence?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1227112/eisenhower-task-management-todo-priority-matrix-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/974024200/radar-assets-inventory-for-jsm?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1231591/shoppie-assets-integrated-shop-for-jsm?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1225724/email-confluence-page?tab=overview&hosting=cloud",
       "https://marketplace.atlassian.com/apps/1230161/linksy-advanced-issue-linking?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Canva",
@@ -44007,8 +44112,10 @@
       "bluerivertechnology.com",
       "bom-chat.pdp-epdm-product-structure-devl-vpn.us.e20.c01.johndeerecloud.com",
       "bomgar.bluerivertech.com",
+      "bonomedico.jdiberica.deere.com",
       "bpeople-ar-prod.deere.com",
       "bsm.deere.com",
+      "bugharvest.ghns-dwe-transform-prod-vpn.use1.e00.c01.johndeerecloud.com",
       "buildyourown.deere.com",
       "caas-grafana.deere.com",
       "cafignition.mfg-mfgiot-prod-vpn.us.e11.c01.johndeerecloud.com",
@@ -44899,6 +45006,7 @@
       "preventasjohndeere.com",
       "preview.dig.deere.com",
       "priorityboard.deere.com",
+      "procesoinventario.jdiberica.deere.com",
       "prod-api-financeconnect.jdf-alfa2-prod-vpn.eu.e10.c01.johndeerecloud.com",
       "prod-api.rewards.deere.com",
       "proddatasul.unimil.com.br",
@@ -64983,12 +65091,13 @@
     ],
     "outofscope_domains": [
       "N/A - Not Coinbase owned or operated",
+      "https://github.com/x402-foundation/",
       "status.*.coinbase.com",
       "status.coinbase.com"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Concrete CMS",
@@ -65124,20 +65233,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Nestlé VDP",
-    "program_url": "https://www.intigriti.com/programs/nestl%C3%A9/nestl%C3%A9vdp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "*.nestle.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Ninja Kiwi Games Bug Bounty program",
     "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65226,58 +65321,6 @@
       "support.truelayer.com",
       "status.truelayer.com",
       "truelayer.zendesk.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Uphold",
-    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "Uphold: Buy BTC, ETH and 360+",
-      "Uphold: Buy BTC, ETH and 300+",
-      "docs.uphold.com",
-      "wallet-sandbox.uphold.com",
-      "api-sandbox.uphold.com",
-      "api-sandbox.uphold.com/graphql",
-      "portal.enterprise.uphold.com",
-      "api.portal.enterprise.uphold.com ",
-      "docs.api.enterprise.uphold.com",
-      "app.sandbox.topperpay.com",
-      "api.sandbox.topperpay.com",
-      "graphql.sandbox.topperpay.com/graphql",
-      "docs.topperpay.com",
-      "uatcms.optimuscards.com",
-      "docs.optimuscards.com",
-      "*.optimuscards.com",
-      "*.topperpay.com",
-      "*.uphold.com",
-      "status.uphold.com",
-      "www.uphold.com",
-      "www.topperpay.com",
-      "www.optimuscards.com",
-      "github.com/uphold/*"
-    ],
-    "outofscope_domains": [
-      "support-sandbox.uphold.com",
-      "support-staging.topperpay.com",
-      "www.uphodl.com",
-      "*.uphodl.com",
-      "UpHODL",
-      "UpHODL",
-      "api.topperpay.com",
-      "api.uphold.com",
-      "api.uphold.com/graphql",
-      "app.topperpay.com",
-      "cms.optimuscards.com",
-      "graphql.topperpay.com/graphql",
-      "support.topperpay.com",
-      "support.uphold.com",
-      "wallet.uphold.com"
     ],
     "issues_reported": [],
     "scamhit": "",
