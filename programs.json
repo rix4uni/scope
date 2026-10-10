@@ -65106,6 +65106,7 @@
       "https://github.com/cloudflare/realtimekit-web-examples ",
       "https://github.com/cloudflare/recapn",
       "https://github.com/cloudflare/saffron.git",
+      "https://github.com/cloudflare/security-audit-skill",
       "https://github.com/cloudflare/templates",
       "https://github.com/cloudflare/vinext-private",
       "react-examples.realtime.cloudflare.com",
@@ -65116,7 +65117,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-10"
   },
   {
     "name": "Automattic",
