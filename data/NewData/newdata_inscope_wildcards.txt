@@ -1,1 +1,4 @@
-*.gp.monash.edu
+*.sqills.com
+*.sqills.team
+*.truelayer.cloud
+*.truelayer.io
