@@ -6104,10 +6104,30 @@
       "https://marketplace.atlassian.com/apps/1235733/ai-autofill-for-jira?hosting=cloud",
       "https://marketplace.atlassian.com/apps/1237726/ai-charts-for-confluence?hosting=cloud"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "https://appsplus.co",
+      "https://www.appsplus.co",
+      "https://docs.appsplus.co",
+      "https://support.appsplus.co",
+      "https://go.appsplus.co",
+      "https://tabs.appsplus.co",
+      "https://broken-links.appsplus.co",
+      "https://countdown-timer.appsplus.co",
+      "https://gender-bias.appsplus.co",
+      "https://incoming-links.appsplus.co",
+      "https://panel-macro.appsplus.co",
+      "https://search-results.appsplus.co",
+      "https://shortlinks.appsplus.co",
+      "https://speed-reader.appsplus.co",
+      "https://tag-cloud.appsplus.co",
+      "https://update-this.appsplus.co",
+      "https://word-count.appsplus.co",
+      "https://zoom-recordings.appsplus.co",
+      "Third-party services used by Apps+ (Atlassian, Cloudflare, Google, OpenAI, Zoom, Sentry)"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-10"
   },
   {
     "name": "Appsvio Marketplace Bug Bounty",
