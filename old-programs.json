@@ -2964,42 +2964,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Here Technologies",
-    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "HERE WeGo iOS",
-      "HERE WeGo Android",
-      "registry.service.api.platform.here.com",
-      "*.data.api.platform.here.com",
-      "*.metrics.platform.here.com",
-      "*.platform.here.com",
-      "search.hereapi.com",
-      "transit.hereapi.com",
-      "vector.hereapi.com",
-      "mobilitygraph.hereapi.com",
-      "*.router.hereapi.com",
-      "*.subp-router.hereapi.com",
-      "*.hereapi.com",
-      "account.api.here.com",
-      "account.here.com",
-      "listing.here.com",
-      "mapcreator.here.com",
-      "xyz.api.here.com",
-      "*.scbe.api.here.com",
-      "*.here.com",
-      "Leaked/Compromised Employee Credentials",
-      "Leaked Service Credentials",
-      "All other related services owned by HERE"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
-  },
-  {
     "name": "Het Laatste Nieuws",
     "program_url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3808,30 +3772,6 @@
       "login.internal.monzo.com",
       "monzo.me"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "NVIDIA Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$15000",
-    "inscope_domains": [
-      " new CDI-based architecture",
-      "All Other NVIDIA Container Toolkit Assets",
-      "libNVVM API",
-      "Nsight Systems",
-      "NVIDIA Nsight Developer Tools",
-      "NVRTC library",
-      "CUDA Libraries",
-      "NVCC",
-      "nvJitLink APIs",
-      "CUDA Runtime APIs",
-      "CUDA Driver APIs"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -13567,7 +13507,7 @@
     "program_url": "https://bugcrowd.com/engagements/vinted-uab-mbb",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$4000",
+    "reward": "$8000",
     "inscope_domains": [
       "https://www.vinted.com",
       "https://www.vinted.net",
@@ -13585,7 +13525,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-11"
   },
   {
     "name": "Volkswagen ",
@@ -65109,6 +65049,7 @@
       "https://github.com/cloudflare/security-audit-skill",
       "https://github.com/cloudflare/templates",
       "https://github.com/cloudflare/vinext-private",
+      "https://playground.ai.cloudflare.com/",
       "react-examples.realtime.cloudflare.com",
       "support.cloudflare.com",
       "support.cloudflarewarp.com",
@@ -65117,7 +65058,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-10"
+    "last_updated": "2026-10-11"
   },
   {
     "name": "Automattic",
@@ -65351,6 +65292,66 @@
       "www.h1.community",
       "www.hackeronestatus.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Here Technologies",
+    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
+      "*.router.hereapi.com",
+      "*.subp-router.hereapi.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "xyz.api.here.com",
+      "*.scbe.api.here.com",
+      "*.here.com",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
+  },
+  {
+    "name": "NVIDIA Public Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$15000",
+    "inscope_domains": [
+      " new CDI-based architecture",
+      "All Other NVIDIA Container Toolkit Assets",
+      "libNVVM API",
+      "Nsight Systems",
+      "NVIDIA Nsight Developer Tools",
+      "NVRTC library",
+      "CUDA Libraries",
+      "NVCC",
+      "nvJitLink APIs",
+      "CUDA Runtime APIs",
+      "CUDA Driver APIs"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
