@@ -2660,6 +2660,7 @@ events.cloudflare.com
 examples.realtime.cloudflare.com
 files.plugins.realtime.cloudflare.com
 saffron.git
+playground.ai.cloudflare.com
 react-examples.realtime.cloudflare.com
 support.cloudflare.com
 support.cloudflarewarp.com
