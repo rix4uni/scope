@@ -194,8 +194,8 @@ posti.fi
 pen-app.entrili.com
 *.anchors.atlas.ripe.net
 *.probes.atlas.ripe.net
-*aso*ripe.net
-*nro*ripe.net
+*aso.ripe.net
+*nro.ripe.net
 *.ripe.net
 exams.ripe.net
 labs.ripe.net

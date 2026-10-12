@@ -3971,6 +3971,16 @@ service.fing.com
 app.fing.com
 demo.tendertracker.de
 gulp-shop.de
+registry.service.api.platform.here.com
+search.hereapi.com
+transit.hereapi.com
+vector.hereapi.com
+mobilitygraph.hereapi.com
+account.api.here.com
+account.here.com
+listing.here.com
+mapcreator.here.com
+xyz.api.here.com
 hln.be
 myaccount.hln.be
 myaccount.parool.nl
@@ -5009,6 +5019,8 @@ api.pluralonline.com
 api.pluralpay.in
 pinepg.in
 pluralcheckout.pinepg.in
+developers.woohoo.in
+woohoo.in
 api.privateinternetaccess.com
 privateinternetaccess.com
 auth-ywh.it.authentification.si.gouv.qc.ca

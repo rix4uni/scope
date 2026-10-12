@@ -693,8 +693,8 @@ e.g.*.slackhq.com
 *.usgprofessionals.be
 *.anchors.atlas.ripe.net
 *.probes.atlas.ripe.net
-*aso*ripe.net
-*nro*ripe.net
+*aso.ripe.net
+*nro.ripe.net
 *.ripe.net
 *.randstad.in
 *.newyorkredbulls.com
