@@ -2168,12 +2168,6 @@ watch.fortnite.com
 web-admin.harmonixmusic.com
 webinars.unrealengine.com
 api.hmxservices.com
-estore.malwarebytes.com
-malwarebytes.zoom.us
-pages.malwarebytes.com
-store.malwarebytes.com
-store.threatdown.com
-view.malwarebytes.com
 send.grammarly.com
 calendar.grammarly.com
 support.grammarly.com
