@@ -94,6 +94,7 @@ jp.harmanaudio.com
 jp.jbl.com
 devicedb.roonlabs.net
 devicedb-*.zip
+pl.jbl.com
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
