@@ -75,6 +75,9 @@ casino.*.betmgm.com
 *.financialforce.com
 *.certinia.com
 *.fivetran.com
+*.getdbt.com
+*.dbt.com
+*.dbtlabs.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it
@@ -810,12 +813,9 @@ paypal-*.com
 *.advisorsolutions.gs.com
 *.ayco.com
 *.folioclient.com
-*.foliodigitalwealth.com
-*.foliofirst.com
 *.foliofn.com
 *.folioidentity.com
 *.folioinstitutional.com
-*.folioinvesting.com
 *.global-liquidity.gs.com
 *.goldman.com
 *.goldmanpfm.com

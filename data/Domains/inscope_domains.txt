@@ -194,6 +194,7 @@ sb-mobile-api.fireblocks.io
 sandbox-api.fireblocks.io
 tdfitloan.com
 fivetran.com
+it-fivetran.com
 flo.uri.sh
 flourish.studio
 xyzbmojn.net
@@ -1171,6 +1172,7 @@ lineup.com.mx
 livenation.co.uk
 onthewaterfrontfestival.com
 royalarena.dk
+1console.twilio.com
 accounts.twilio.com
 api.authy.com
 api.segment.io
@@ -1193,10 +1195,7 @@ events.twilio.com
 flex-api.twilio.com
 frontline-api.twilio.com
 help.twilio.com
-tsock.us1.twilio.com
-twilio.com
 stytch.com
-authy.com
 iam.twilio.com
 insights.twilio.com
 intelligence.twilio.com
@@ -1228,6 +1227,8 @@ taskrouter.twilio.com
 telemetry.stytch.com
 test.stytch.com
 trunking.twilio.com
+tsock.us1.twilio.com
+twilio.com
 doordash.doordashconsumer
 doordash.com
 api.robinhood.com
@@ -3206,7 +3207,6 @@ slsa.dev
 buildkite.com
 classic.gs.de
 gs.com
-api.foliofn.com
 apigw.foliofn.com
 developer.gs.com
 goldmansachsindices.com

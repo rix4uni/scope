@@ -1,2 +1,3 @@
-*.truelayer.cloud
-*.truelayer.io
+*.getdbt.com
+*.dbt.com
+*.dbtlabs.com

@@ -83,6 +83,7 @@ royalarena.dk
 *.andurildev.au
 *.andurildev.com
 *.sip.*.twilio.com
+1console.twilio.com
 accounts.twilio.com
 api.authy.com
 api.segment.io
@@ -105,10 +106,7 @@ events.twilio.com
 flex-api.twilio.com
 frontline-api.twilio.com
 help.twilio.com
-tsock.us1.twilio.com
-twilio.com
 stytch.com
-authy.com
 iam.twilio.com
 insights.twilio.com
 intelligence.twilio.com
@@ -141,6 +139,8 @@ taskrouter.twilio.com
 telemetry.stytch.com
 test.stytch.com
 trunking.twilio.com
+tsock.us1.twilio.com
+twilio.com
 doordash.doordashconsumer
 itunes.apple.com
 doordash.com
@@ -2611,12 +2611,9 @@ buildkite.com
 *.advisorsolutions.gs.com
 *.ayco.com
 *.folioclient.com
-*.foliodigitalwealth.com
-*.foliofirst.com
 *.foliofn.com
 *.folioidentity.com
 *.folioinstitutional.com
-*.folioinvesting.com
 *.global-liquidity.gs.com
 *.goldman.com
 *.goldmanpfm.com
@@ -2640,7 +2637,6 @@ classic.gs.de
 gs.com
 *.nnip.com
 *.qaglobal-liquidity.gs.com
-api.foliofn.com
 apigw.foliofn.com
 developer.gs.com
 goldmansachsindices.com

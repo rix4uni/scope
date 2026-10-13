@@ -1459,10 +1459,6 @@ apjevents.twilio.com
 cdpweek.com
 chatagotchi.app
 click.sendgrid.com
-community.segment.com
-events.cdpweek.com
-segment.com
-twilio.com
 jobs.twilio.com
 js.stytch.com
 lab.authy.com

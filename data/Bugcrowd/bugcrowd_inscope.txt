@@ -271,6 +271,10 @@ sandbox-api.fireblocks.io
 tdfitloan.com
 fivetran.com
 *.fivetran.com
+it-fivetran.com
+*.getdbt.com
+*.dbt.com
+*.dbtlabs.com
 flo.uri.sh
 flourish.studio
 *.flourish.studio
