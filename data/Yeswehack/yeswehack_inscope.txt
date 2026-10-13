@@ -476,8 +476,6 @@ api.pluralonline.com
 api.pluralpay.in
 pinepg.in
 pluralcheckout.pinepg.in
-developers.woohoo.in
-woohoo.in
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
