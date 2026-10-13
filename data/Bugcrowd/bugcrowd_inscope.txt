@@ -115,6 +115,7 @@ taxify.eu
 bolt.eu
 *.bolt.eu
 *.boltable.eu
+new-food.bolt.eu
 docs.bugcrowd.com
 bugcrowd.com
 tracker.bugcrowd.com
@@ -610,6 +611,7 @@ shiseido.me
 lego.me
 psychobunny.me
 fashion4less.me
+app.magicestimations.com
 sharerewards.com
 vtcprodapi.maf.ae
 svchifi.svc

@@ -36,6 +36,7 @@ https://github.com/electroneum/electroneum-sc
 https://github.com/tempus-ex
 https://github.com/transferwise
 https://github.com/omacom/omarchy
+https://github.com/stytchauth
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
@@ -166,6 +167,7 @@ https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
+https://github.com/brave/*,
 https://github.com/Shopify
 https://github.com/cdnjs/cdnjs
 https://github.com/cloudflare

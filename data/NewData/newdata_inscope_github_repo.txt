@@ -1,1 +1,2 @@
+https://github.com/stytchauth
 https://github.com/brave/*,
