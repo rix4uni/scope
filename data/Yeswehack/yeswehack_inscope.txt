@@ -367,8 +367,6 @@ l75pvbdyjo.infomaniak.site
 *.infomaniak.com
 api.pub1.infomaniak.cloud
 api.pub2.infomaniak.cloud
-yeswehack.staging.komoju.com
-doc.komoju.com
 louisvuitton.com
 *.api.louisvuitton.com
 appgallery.huawei.com
