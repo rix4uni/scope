@@ -156,6 +156,11 @@ media.nexuzhealth.be
 idp-contact.nexuzhealth.be
 *.nexuzhealth.pro
 *.vectus.in
+a.simplemdm.com
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 personio.de
 personio.slack.com
 statuspage.personio.de

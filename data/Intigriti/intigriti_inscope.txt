@@ -600,6 +600,10 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
@@ -913,9 +917,6 @@ api-wallet-sandbox.venly.io
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 aiassistant.stage.vismaonline.com
-api.workbox.dk
-app.workbox.dk
-authz.workbox.dk
 connect.identity.stagaws.visma.com
 eaccounting.stage.vismaonline.com
 eaccountingprinting.stage.vismaonline.com

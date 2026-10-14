@@ -2806,6 +2806,7 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de

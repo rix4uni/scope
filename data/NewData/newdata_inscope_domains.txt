@@ -1,2 +1,10 @@
-it-fivetran.com
-1console.twilio.com
+refined.site
+refinedsites.refinedwiki.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
+onedoc.ch
+pro.onedoc.ch
+api.onedoc.ch
+telehealth.onedoc.ch
