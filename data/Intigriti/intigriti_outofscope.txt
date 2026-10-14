@@ -78,7 +78,6 @@ community.dropbox.com
 replay.dropbox.com
 community-stage.dropbox.com
 community-dev.dropbox.com
-docs.google.com
 20years.eurid.eu
 *.yadifa.eu
 changelog.exoscale.com

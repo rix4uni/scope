@@ -136,7 +136,6 @@ app.reclaim.ai
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
-docs.google.com
 staatsloterij.nederlandseloterij.nl
 krasloten.nederlandseloterij.nl
 eurojackpot.nederlandseloterij.nl
