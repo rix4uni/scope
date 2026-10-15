@@ -22,7 +22,6 @@
 *.binance.us
 *.bitdefender.net
 *.bitdefender.com
-*.bitgo.com
 *.blofin.com
 *.taxify.eu
 *.bolt.eu
@@ -225,11 +224,6 @@ prod-*.nu.com.co
 *.adx.opera.com
 *.opsgenie.com
 *.optus.com.au
-*.origindigital-pac.com.au
-*.odcdn.com.au
-*.support.originenergy.com.au
-*.api.originenergy.com.au
-*.download.originenergy.com.au
 *.pexels.com
 *.pinterest.com
 *.pixabay.com

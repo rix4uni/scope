@@ -6518,6 +6518,28 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Backblaze",
+    "program_url": "https://bugcrowd.com/engagements/backblaze",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$6500",
+    "inscope_domains": [
+      "https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US",
+      "https://apps.apple.com/us/app/backblaze/id628638330",
+      "Mac Personal Backup Clients",
+      "Windows Personal Backup Clients",
+      "Mac Restore Downloaders",
+      "Windows Restore Downloaders",
+      "Git Repositories (b2-sdk-java & B2 Command Line Tool)",
+      "https://*.backblazeb2.com",
+      "https://backblaze.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Balsamiq for Atlassian Products",
     "program_url": "https://bugcrowd.com/engagements/balsamiq",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -6654,24 +6676,6 @@
       "Bitdefender Central (Android App)",
       "central.bitdefender.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "BitGo Managed Public Bug Bounty Engagement ",
-    "program_url": "https://bugcrowd.com/engagements/bitgo-mbb-og-public",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$4500",
-    "inscope_domains": [
-      "*.bitgo.com",
-      "https://app.bitgo.com",
-      "https://app.bitgo-test.com",
-      "https://bitgo.ae/",
-      "https://usdstandard.com/"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -7008,23 +7012,6 @@
     "outofscope_domains": [
       "https://*.bullish.com",
       "https://simnext.bullish-test.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Bullish Exchange",
-    "program_url": "https://bugcrowd.com/engagements/bullish-exchange",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$25000",
-    "inscope_domains": [
-      "https://simnext.bullish-test.com",
-      "https://api.simnext.bullish-test.com"
-    ],
-    "outofscope_domains": [
-      "*.bullish.com/"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -10441,6 +10428,31 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "OpenAI",
+    "program_url": "https://bugcrowd.com/engagements/openai",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$6500",
+    "inscope_domains": [
+      "https://api.openai.com",
+      "https://chat.openai.com",
+      "https://chat.openai.com",
+      "Third Party Targets",
+      "OpenAI API Keys",
+      "https://*.openai.org",
+      "https://*.openai.org",
+      "https://openai.com/",
+      "*.openai.com",
+      "https://platform.openai.com/playground",
+      "Other",
+      "Codex Desktop"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Safety Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/openai-safety",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10951,60 +10963,6 @@
       "████████████████████████████"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Origin Energy",
-    "program_url": "https://bugcrowd.com/engagements/originenergy-og1",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$2500",
-    "inscope_domains": [
-      "https://www.originenergy.com.au/",
-      "*.origindigital-pac.com.au",
-      "*.odcdn.com.au",
-      "https://dataportal.originenergy.com.au",
-      "*.support.originenergy.com.au",
-      "*.api.originenergy.com.au",
-      "*.download.originenergy.com.au",
-      "https://api.rx.originenergy.com.au/v1/lpg/graphql",
-      "https://www.winconnect.com.au/moving-out/",
-      "https://www.winconnect.com.au/get-connected/",
-      "https://customerportal.winconnect.com.au/login",
-      "portal.myconnect.com.au",
-      "myconnect.com.au",
-      "portal.myconnect.com.au/new-connection",
-      "hub.myconnect.com.au",
-      "https://ssu.staging.myconnect.com.au/get-connected",
-      "https://portal.anz.kinergysolutions.com",
-      "https://portal-api.anz.kinergysolutions.com",
-      "https://portal.originzero.com.au",
-      "https://api-portal.originzero.com.au",
-      "https://sign.originzero.com.au",
-      "https://businessportal.origin.com.au",
-      "https://api-businessportal.origin.com.au"
-    ],
-    "outofscope_domains": [
-      "https://www.originenergy.com.au/moving/",
-      "https://auth.api.originenergy.com.au/**",
-      "https://origin-energy.formstack.com/**",
-      "https://ssu.myconnect.com.au/**",
-      "https://reneweclipse.originenergy.com.au/*",
-      "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql",
-      "https://www.compareandconnect.com.au/",
-      "https://agent.compareandconnect.com.au/",
-      "https://fastconnect.co.nz",
-      "https://Yourporter.com.au",
-      "https://raywhitehomenow.com/ ",
-      "https://www.solarquotes.com.au/leads/",
-      "https://www.solarquotes.com.au/suppliers/",
-      "https://www.solarquotes.com.au/wp-admin/",
-      "https://manufacturers.solarquotes.com.au/",
-      "https://www.solarquotes.com.au/quote/start/",
-      "https://www.solarquotes.com.au/quotesv2/"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -11965,6 +11923,22 @@
       "SAP BusinessOne",
       "Gardener",
       "SAP Concur"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Savignano Software Solutions Marketplace Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/savignano",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter",
+      "https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -65687,6 +65661,95 @@
       "support.hackerone.com",
       "www.h1.community",
       "www.hackeronestatus.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "BitGo Managed Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/bitgo-mbb-og-public",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$4500",
+    "inscope_domains": [
+      "*.bitgo.com",
+      "https://app.bitgo.com",
+      "https://app.bitgo-test.com",
+      "https://bitgo.ae/",
+      "https://usdstandard.com/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Bullish Exchange",
+    "program_url": "https://bugcrowd.com/engagements/bullish-exchange",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$25000",
+    "inscope_domains": [
+      "https://simnext.bullish-test.com",
+      "https://api.simnext.bullish-test.com"
+    ],
+    "outofscope_domains": [
+      "*.bullish.com/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Origin Energy",
+    "program_url": "https://bugcrowd.com/engagements/originenergy-og1",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$2500",
+    "inscope_domains": [
+      "https://www.originenergy.com.au/",
+      "*.origindigital-pac.com.au",
+      "*.odcdn.com.au",
+      "https://dataportal.originenergy.com.au",
+      "*.support.originenergy.com.au",
+      "*.api.originenergy.com.au",
+      "*.download.originenergy.com.au",
+      "https://api.rx.originenergy.com.au/v1/lpg/graphql",
+      "https://www.winconnect.com.au/moving-out/",
+      "https://www.winconnect.com.au/get-connected/",
+      "https://customerportal.winconnect.com.au/login",
+      "portal.myconnect.com.au",
+      "myconnect.com.au",
+      "portal.myconnect.com.au/new-connection",
+      "hub.myconnect.com.au",
+      "https://ssu.staging.myconnect.com.au/get-connected",
+      "https://portal.anz.kinergysolutions.com",
+      "https://portal-api.anz.kinergysolutions.com",
+      "https://portal.originzero.com.au",
+      "https://api-portal.originzero.com.au",
+      "https://sign.originzero.com.au",
+      "https://businessportal.origin.com.au",
+      "https://api-businessportal.origin.com.au"
+    ],
+    "outofscope_domains": [
+      "https://www.originenergy.com.au/moving/",
+      "https://auth.api.originenergy.com.au/**",
+      "https://origin-energy.formstack.com/**",
+      "https://ssu.myconnect.com.au/**",
+      "https://reneweclipse.originenergy.com.au/*",
+      "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql",
+      "https://www.compareandconnect.com.au/",
+      "https://agent.compareandconnect.com.au/",
+      "https://fastconnect.co.nz",
+      "https://Yourporter.com.au",
+      "https://raywhitehomenow.com/ ",
+      "https://www.solarquotes.com.au/leads/",
+      "https://www.solarquotes.com.au/suppliers/",
+      "https://www.solarquotes.com.au/wp-admin/",
+      "https://manufacturers.solarquotes.com.au/",
+      "https://www.solarquotes.com.au/quote/start/",
+      "https://www.solarquotes.com.au/quotesv2/"
     ],
     "issues_reported": [],
     "scamhit": "",
