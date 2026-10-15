@@ -4650,6 +4650,27 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Sqills",
+    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "*.sqills.com",
+      "*.sqills.team"
+    ],
+    "outofscope_domains": [
+      "*.red.sqills.team",
+      "booking.*.cloud.sqills.com",
+      "booking.*.sqills.com",
+      "careers.sqills.com",
+      "welcome.sqills.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-10"
+  },
+  {
     "name": "Storebrand Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5243,6 +5264,34 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Veriff Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4000",
+    "inscope_domains": [
+      "1467907532",
+      "alchemy.veriff.com",
+      "api.flamingo-eu.veriff.com",
+      "api.us.veriff.me",
+      "api.veriff.me",
+      "com.veriff.demo",
+      "louvre.veriff.me",
+      "magic.veriff.me",
+      "station.veriff.com",
+      "stationapi.veriff.com",
+      "*.veriff.com",
+      "developers.veriff.me",
+      "www.veriff.com"
+    ],
+    "outofscope_domains": [
+      "https://station.veriff.com/config/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Visma",
@@ -7397,17 +7446,17 @@
       "https://apps.apple.com/at/developer/stadt-wien/id858505368"
     ],
     "outofscope_domains": [
-      "https://www.wien.gv.at/advuew/*",
+      "https://*/advuew/*",
       "https://*/geoserverneuogd/* (Multiple Domains)",
       "https://*/agssoe/* (Multiple Domains)",
       "https://www.geschichtewiki.wien.gv.at",
       "https://bi.bildung-wien.gv.at/*",
-      "https://www.wien.gv.at/umfrage/*",
+      "https://*/umfrage/*",
       "Public Network / Veranstaltungsnetz"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-15"
   },
   {
     "name": "ClassDojo",
@@ -45326,6 +45375,7 @@
       "kb.dev.myvirtualsuper.com",
       "ke-uc-expe.kreiselelectric.com",
       "kemper-stadtlohn.de",
+      "keyforge.applications.prod.mesa.brtws.com",
       "kingagro-devl.deere.com",
       "kingagro.com",
       "kingagro.com.ar",
@@ -46533,7 +46583,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-09"
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Trendyol",
@@ -61755,7 +61805,6 @@
       "*.ritzcarltonyachtcollection.com",
       "*moxymix*.marriott.com",
       "Not-Listed Assets",
-      "Phoenix Platform",
       "all-inclusive.marriott.com",
       "apps.ritzcarlton.com",
       "clmagtest.marriott.com",
@@ -61769,6 +61818,7 @@
       "hotel-deals.marriott.com",
       "hotel-development.marriott.com",
       "hotelexcellence.marriott.com",
+      "http://www.shopmarriott.com",
       "ifast.marriott.com",
       "jobs.marriott.com",
       "latinoamerica.marriott.com",
@@ -61795,7 +61845,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-13"
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Hyatt Hotels",
@@ -65944,27 +65994,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Sqills",
-    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "*.sqills.com",
-      "*.sqills.team"
-    ],
-    "outofscope_domains": [
-      "*.red.sqills.team",
-      "booking.*.cloud.sqills.com",
-      "booking.*.sqills.com",
-      "careers.sqills.com",
-      "welcome.sqills.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-10"
-  },
-  {
     "name": "Malwarebytes",
     "program_url": "https://hackerone.com/malwarebytes",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -66094,34 +66123,6 @@
       "store.ninjakiwi.com",
       "support.ninjakiwi.com",
       "icarusadmin.ninjakiwi.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Veriff Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "1467907532",
-      "alchemy.veriff.com",
-      "api.flamingo-eu.veriff.com",
-      "api.us.veriff.me",
-      "api.veriff.me",
-      "com.veriff.demo",
-      "louvre.veriff.me",
-      "magic.veriff.me",
-      "station.veriff.com",
-      "stationapi.veriff.com",
-      "*.veriff.com",
-      "developers.veriff.me",
-      "www.veriff.com"
-    ],
-    "outofscope_domains": [
-      "https://station.veriff.com/config/"
     ],
     "issues_reported": [],
     "scamhit": "",

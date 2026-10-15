@@ -54,6 +54,7 @@ https://github.com/cloudflare/security-audit-skill
 https://github.com/cloudflare/templates
 https://github.com/cloudflare/vinext-private
 https://github.com/coinbase/x402
+https://github.com/x402-foundation
 https://github.com/digitalocean/action-doctl
 https://github.com/digitalocean/godo
 https://github.com/digitalocean/pydo

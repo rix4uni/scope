@@ -4650,27 +4650,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Sqills",
-    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "*.sqills.com",
-      "*.sqills.team"
-    ],
-    "outofscope_domains": [
-      "*.red.sqills.team",
-      "booking.*.cloud.sqills.com",
-      "booking.*.sqills.com",
-      "careers.sqills.com",
-      "welcome.sqills.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-10"
-  },
-  {
     "name": "Storebrand Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4971,6 +4950,66 @@
       "trouw.nl/service",
       "abonnement.trouw.nl",
       "actie.trouw.nl"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "TrueLayer",
+    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "api.truelayer[-sandbox].com",
+      "api.mtls.truelayer[-sandbox].com",
+      "auth.truelayer[-sandbox].com",
+      "auth.mtls.truelayer[-sandbox].com",
+      "app.truelayer[-sandbox].com",
+      "login-api.truelayer[-sandbox].com",
+      "login.truelayer[-sandbox].com",
+      "onboarding-api.truelayer.com",
+      "pay-api.truelayer[-sandbox].com",
+      "pay.truelayer[-sandbox].com",
+      "paydirect.truelayer[-sandbox].com",
+      "payment.truelayer[-sandbox].com",
+      "payments-experience-api.truelayer[-sandbox].com",
+      "user-authentication-api.truelayer[-sandbox].com",
+      "users-api.truelayer.com",
+      "C# SDK",
+      "console-backend.truelayer[-sandbox].com",
+      "console.truelayer[-sandbox].com",
+      "sftp.reports.truelayer.com",
+      "Java SDK",
+      "PHP SDK",
+      "TrueLayer for Magento (Magento plugin)",
+      "shopify-admin.truelayer.com",
+      "shop-pay-app-api.truelayer.com",
+      "truelayer-signing",
+      "webhooks.truelayer[-sandbox].com",
+      "*.truelayer.cloud",
+      "*.truelayer.com",
+      "*.truelayer.io",
+      "iOS SDK",
+      "React Native SDK",
+      "Web SDK",
+      "Rust SDK"
+    ],
+    "outofscope_domains": [
+      "trust.truelayer.com",
+      "TrueLayer for WooCommerce (WordPress plugin)",
+      "banks.truelayer.com",
+      "careers.truelayer.com",
+      "docs.truelayer.com",
+      "docs.houston.truelayer.com",
+      "https://truelayer.com/contact/",
+      "index.truelayer.com",
+      "info.truelayer.com",
+      "signin.truelayer.com",
+      "support.truelayer.com",
+      "status.truelayer.com",
+      "truelayer.zendesk.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -5401,6 +5440,39 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "WP Engine Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "https://app.getflywheel.com",
+      "https://getflywheel.com",
+      "https://my.wpengine.com",
+      "https://payments.wpengine.com",
+      "https://wpengine.com",
+      "*. advancedcustomfields.com",
+      "*. bettersearchreplace.com",
+      "*.deliciousbrains.com",
+      "*.localwp.com",
+      "*.nitropack.io",
+      "*.studiopress.com",
+      "*.wpengine.io",
+      "*.wpesvc.net",
+      "WP Engine-developed WordPress Plugins and Themes",
+      "https://makeshift.film",
+      "https://studiopress.blog",
+      "https://torquemag.io",
+      "https://velocitize.com"
+    ],
+    "outofscope_domains": [
+      "marketing.nitropack.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "WP Engine VDP",
@@ -45532,6 +45604,7 @@
       "monosem.asia",
       "monosem.cn",
       "monosem.com",
+      "monosem.com,pl",
       "monosem.eu",
       "monosem.fr",
       "monosem.in",
@@ -65738,12 +65811,13 @@
     "outofscope_domains": [
       "N/A - Not Coinbase owned or operated",
       "https://github.com/coinbase/x402",
+      "https://github.com/x402-foundation/",
       "status.*.coinbase.com",
       "status.coinbase.com"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-09"
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Concrete CMS",
@@ -65879,6 +65953,27 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Sqills",
+    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "*.sqills.com",
+      "*.sqills.team"
+    ],
+    "outofscope_domains": [
+      "*.red.sqills.team",
+      "booking.*.cloud.sqills.com",
+      "booking.*.sqills.com",
+      "careers.sqills.com",
+      "welcome.sqills.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-10"
+  },
+  {
     "name": "Xelians - Blackbox program",
     "program_url": "https://yeswehack.com/programs/xelians-blackbox-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -65908,66 +66003,6 @@
     "outofscope_domains": [
       "All domains or subdomains not listed in the above list of 'Scopes'",
       "Account squatting, or registering accounts to prevent others from signing up, is out of scope."
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "TrueLayer",
-    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "api.truelayer[-sandbox].com",
-      "api.mtls.truelayer[-sandbox].com",
-      "auth.truelayer[-sandbox].com",
-      "auth.mtls.truelayer[-sandbox].com",
-      "app.truelayer[-sandbox].com",
-      "login-api.truelayer[-sandbox].com",
-      "login.truelayer[-sandbox].com",
-      "onboarding-api.truelayer.com",
-      "pay-api.truelayer[-sandbox].com",
-      "pay.truelayer[-sandbox].com",
-      "paydirect.truelayer[-sandbox].com",
-      "payment.truelayer[-sandbox].com",
-      "payments-experience-api.truelayer[-sandbox].com",
-      "user-authentication-api.truelayer[-sandbox].com",
-      "users-api.truelayer.com",
-      "C# SDK",
-      "console-backend.truelayer[-sandbox].com",
-      "console.truelayer[-sandbox].com",
-      "sftp.reports.truelayer.com",
-      "Java SDK",
-      "PHP SDK",
-      "TrueLayer for Magento (Magento plugin)",
-      "shopify-admin.truelayer.com",
-      "shop-pay-app-api.truelayer.com",
-      "truelayer-signing",
-      "webhooks.truelayer[-sandbox].com",
-      "*.truelayer.cloud",
-      "*.truelayer.com",
-      "*.truelayer.io",
-      "iOS SDK",
-      "React Native SDK",
-      "Web SDK",
-      "Rust SDK"
-    ],
-    "outofscope_domains": [
-      "trust.truelayer.com",
-      "TrueLayer for WooCommerce (WordPress plugin)",
-      "banks.truelayer.com",
-      "careers.truelayer.com",
-      "docs.truelayer.com",
-      "docs.houston.truelayer.com",
-      "https://truelayer.com/contact/",
-      "index.truelayer.com",
-      "info.truelayer.com",
-      "signin.truelayer.com",
-      "support.truelayer.com",
-      "status.truelayer.com",
-      "truelayer.zendesk.com"
     ],
     "issues_reported": [],
     "scamhit": "",

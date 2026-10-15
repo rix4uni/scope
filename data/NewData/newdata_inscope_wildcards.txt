@@ -1,3 +1,8 @@
-*.sqills.com
-*.sqills.team
-*.veriff.com
+*.truelayer.cloud
+*.truelayer.io
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
