@@ -154,6 +154,17 @@ admin-stage.tv.telenor.se
 myqcloud.com
 cloud.tencent.com
 *.tencent.com
+india-usa.vfsglobal.com
+vire.vfsglobal.com
+vfsglobal.com.ru
+myeasydocs.co.il
+nssr-7.vfsglobal.com
+uat-lift.vfsglobal.com
+liftassets.vfsglobal.com
+ukvitest.vfsglobal.com
+online.vfsevisa.com
+portal.vfsevisa.com
+egonline.vfsevisa.com
 lafabriquedelacite.com
 wishes.vinci.com
 voeux.vinci.com
