@@ -159,6 +159,9 @@ bitstamp.net
 1w.cash
 1w.run
 1win.com
+1wintoken.com
+1wtoken.com
+solscan.io
 *.bancoplata.mx
 *.platacard.mx
 dif.tech.plata
@@ -1996,6 +1999,7 @@ secure.cheaptickets.com
 track.cheaptickets.com
 *.ean.com
 *.expedia-aarp.com
+*.expedia.biz
 *.expedia.com
 *.expediaagents.com
 *.expediacruises.com

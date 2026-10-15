@@ -1466,6 +1466,63 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "VFS Global Bug Bounty Program",
+    "program_url": "https://yeswehack.com/programs/vfs-global-bug-bounty-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$1500",
+    "inscope_domains": [
+      "*.vfsglobal.(com|co.uk|ca)",
+      "*.vfsevisa.com",
+      "*.onevasco.com",
+      "www.vfsvisaonline.com",
+      "*.directverify.in",
+      "*.docswallet.com",
+      "biometservices.com",
+      "agents.tasheer.com",
+      "https://equatorialguinea-evisa.com",
+      "https://online.srilankaevisa.lk/lka/en/login",
+      "https://vfs.mioot.com/",
+      "https://vfseu.mioot.com/",
+      "https://indonesiavoa.vfsevisa.id/",
+      "https://vc.tasheer.com/",
+      "*.vfsglobal.by",
+      "*. vfsevisa.id",
+      "*.vfsai.com",
+      "https://cicforms.mioot.com/",
+      "https://vfsforms.mioot.com/",
+      "https://mohesr.vfsglobal.com/forms/CVUAE/admin/",
+      "phlonline.vfsevisa.cn",
+      "phlportal.vfsevisa.cn",
+      "evisa.gov.mz",
+      "https://uketa.vfsglobal.com/forms/UKETA/",
+      "https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index",
+      "https://www.visaforkorea-sl.com/"
+    ],
+    "outofscope_domains": [
+      "All other VFS assets that are not listed above as in scope are automatically out of scope",
+      "https://india-usa.vfsglobal.com",
+      "https://vire.vfsglobal.com",
+      "vfsglobal.com.ru",
+      "myeasydocs.co.il",
+      "nssr-7.vfsglobal.com",
+      "https://uat-lift.vfsglobal.com/_angular/main.8dbd1aa97c38b188.js?v=6.0.29",
+      "https://liftassets.vfsglobal.com/_nuxt/46217fc777819548fddb.js",
+      "https://ukvitest.vfsglobal.com/_angular/main.3ca04c44a2718f71.js?v=1.0.22",
+      "https://online.vfsevisa.com/main-es2015.521ef2e1d9f68fd1bb90.js",
+      "https://online.vfsevisa.com/main-es5.521ef2e1d9f68fd1bb90.js?v=3.1.6",
+      "https://portal.vfsevisa.com/main-es2015.987b1b526aa8041bfdee.js",
+      "https://portal.vfsevisa.com/main-es5.987b1b526aa8041bfdee.js?v=3.1.6",
+      "https://uat-lift.vfsglobal.com/_angular/main.c05c54e8703c3a9f.js?v=6.0.36",
+      "https://online.vfsevisa.com/main-es2015.6d514e86ec7c6492aafc.js?v=3.1.2",
+      "https://portal.vfsevisa.com/main-es2015.7857657af609ca5e4bc5.js?v=3.1.4",
+      "https://egonline.vfsevisa.com/main-es2015.c7bb991442356b23f23e.js?v=3.1.3"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "VINCI SA - Public program",
     "program_url": "https://yeswehack.com/programs/vincisa-public-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -5977,6 +6034,33 @@
     "last_updated": "2026-10-09"
   },
   {
+    "name": "Amoeboids",
+    "program_url": "https://bugcrowd.com/engagements/amoeboids",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1215431/ai-powered-automated-release-notes-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1212849/upraise-for-employee-success-with-okrs?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1220406/upraise-people-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218801/upraise-for-employee-garrison?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1217536/embedder-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1221519/roadmap-portal-for-jira-service-desk?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1225798/screenjar-screen-recorder-for-jira?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1230896/arn-confluence-helper-app?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
+  },
+  {
     "name": "AppLiger",
     "program_url": "https://bugcrowd.com/engagements/appliger",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -6518,28 +6602,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Backblaze",
-    "program_url": "https://bugcrowd.com/engagements/backblaze",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$6500",
-    "inscope_domains": [
-      "https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US",
-      "https://apps.apple.com/us/app/backblaze/id628638330",
-      "Mac Personal Backup Clients",
-      "Windows Personal Backup Clients",
-      "Mac Restore Downloaders",
-      "Windows Restore Downloaders",
-      "Git Repositories (b2-sdk-java & B2 Command Line Tool)",
-      "https://*.backblazeb2.com",
-      "https://backblaze.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Balsamiq for Atlassian Products",
     "program_url": "https://bugcrowd.com/engagements/balsamiq",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -6676,6 +6738,24 @@
       "Bitdefender Central (Android App)",
       "central.bitdefender.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "BitGo Managed Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/bitgo-mbb-og-public",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$4500",
+    "inscope_domains": [
+      "*.bitgo.com",
+      "https://app.bitgo.com",
+      "https://app.bitgo-test.com",
+      "https://bitgo.ae/",
+      "https://usdstandard.com/"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -7012,6 +7092,23 @@
     "outofscope_domains": [
       "https://*.bullish.com",
       "https://simnext.bullish-test.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Bullish Exchange",
+    "program_url": "https://bugcrowd.com/engagements/bullish-exchange",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$25000",
+    "inscope_domains": [
+      "https://simnext.bullish-test.com",
+      "https://api.simnext.bullish-test.com"
+    ],
+    "outofscope_domains": [
+      "*.bullish.com/"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -8021,6 +8118,22 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Smart Guess ehf. - Marketplace Bug Bounty Program ",
+    "program_url": "https://bugcrowd.com/engagements/envision-ehf",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1225496/?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1234104/smart-guess-free-planning-poker-for-jira?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/4028833452/smart-guess-time-in-status-flow-intelligence-ai-guidance?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "EPAM Systems Managed Bug Bounty Program",
@@ -9444,6 +9557,24 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Lively Apps GmbH - marketplace Bug Bounty Program ",
+    "program_url": "https://bugcrowd.com/engagements/lively-apps",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1224662/usage-statistics-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224660/link-management-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1213057/lively-blogs-vibrant-news-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1214272/task-reminder-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1211199/pocketquery-sql-rest-for-confluence?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
+  },
+  {
     "name": "lululemon",
     "program_url": "https://bugcrowd.com/engagements/lululemon",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10428,31 +10559,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "OpenAI",
-    "program_url": "https://bugcrowd.com/engagements/openai",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$6500",
-    "inscope_domains": [
-      "https://api.openai.com",
-      "https://chat.openai.com",
-      "https://chat.openai.com",
-      "Third Party Targets",
-      "OpenAI API Keys",
-      "https://*.openai.org",
-      "https://*.openai.org",
-      "https://openai.com/",
-      "*.openai.com",
-      "https://platform.openai.com/playground",
-      "Other",
-      "Codex Desktop"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Safety Bug Bounty",
     "program_url": "https://bugcrowd.com/engagements/openai-safety",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10963,6 +11069,60 @@
       "████████████████████████████"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Origin Energy",
+    "program_url": "https://bugcrowd.com/engagements/originenergy-og1",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$2500",
+    "inscope_domains": [
+      "https://www.originenergy.com.au/",
+      "*.origindigital-pac.com.au",
+      "*.odcdn.com.au",
+      "https://dataportal.originenergy.com.au",
+      "*.support.originenergy.com.au",
+      "*.api.originenergy.com.au",
+      "*.download.originenergy.com.au",
+      "https://api.rx.originenergy.com.au/v1/lpg/graphql",
+      "https://www.winconnect.com.au/moving-out/",
+      "https://www.winconnect.com.au/get-connected/",
+      "https://customerportal.winconnect.com.au/login",
+      "portal.myconnect.com.au",
+      "myconnect.com.au",
+      "portal.myconnect.com.au/new-connection",
+      "hub.myconnect.com.au",
+      "https://ssu.staging.myconnect.com.au/get-connected",
+      "https://portal.anz.kinergysolutions.com",
+      "https://portal-api.anz.kinergysolutions.com",
+      "https://portal.originzero.com.au",
+      "https://api-portal.originzero.com.au",
+      "https://sign.originzero.com.au",
+      "https://businessportal.origin.com.au",
+      "https://api-businessportal.origin.com.au"
+    ],
+    "outofscope_domains": [
+      "https://www.originenergy.com.au/moving/",
+      "https://auth.api.originenergy.com.au/**",
+      "https://origin-energy.formstack.com/**",
+      "https://ssu.myconnect.com.au/**",
+      "https://reneweclipse.originenergy.com.au/*",
+      "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql",
+      "https://www.compareandconnect.com.au/",
+      "https://agent.compareandconnect.com.au/",
+      "https://fastconnect.co.nz",
+      "https://Yourporter.com.au",
+      "https://raywhitehomenow.com/ ",
+      "https://www.solarquotes.com.au/leads/",
+      "https://www.solarquotes.com.au/suppliers/",
+      "https://www.solarquotes.com.au/wp-admin/",
+      "https://manufacturers.solarquotes.com.au/",
+      "https://www.solarquotes.com.au/quote/start/",
+      "https://www.solarquotes.com.au/quotesv2/"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -11923,22 +12083,6 @@
       "SAP BusinessOne",
       "Gardener",
       "SAP Concur"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Savignano Software Solutions Marketplace Bug Bounty Program",
-    "program_url": "https://bugcrowd.com/engagements/savignano",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$1500",
-    "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter",
-      "https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter",
-      "https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -65661,152 +65805,6 @@
       "support.hackerone.com",
       "www.h1.community",
       "www.hackeronestatus.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "BitGo Managed Public Bug Bounty Engagement ",
-    "program_url": "https://bugcrowd.com/engagements/bitgo-mbb-og-public",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$4500",
-    "inscope_domains": [
-      "*.bitgo.com",
-      "https://app.bitgo.com",
-      "https://app.bitgo-test.com",
-      "https://bitgo.ae/",
-      "https://usdstandard.com/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Bullish Exchange",
-    "program_url": "https://bugcrowd.com/engagements/bullish-exchange",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$25000",
-    "inscope_domains": [
-      "https://simnext.bullish-test.com",
-      "https://api.simnext.bullish-test.com"
-    ],
-    "outofscope_domains": [
-      "*.bullish.com/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Origin Energy",
-    "program_url": "https://bugcrowd.com/engagements/originenergy-og1",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$2500",
-    "inscope_domains": [
-      "https://www.originenergy.com.au/",
-      "*.origindigital-pac.com.au",
-      "*.odcdn.com.au",
-      "https://dataportal.originenergy.com.au",
-      "*.support.originenergy.com.au",
-      "*.api.originenergy.com.au",
-      "*.download.originenergy.com.au",
-      "https://api.rx.originenergy.com.au/v1/lpg/graphql",
-      "https://www.winconnect.com.au/moving-out/",
-      "https://www.winconnect.com.au/get-connected/",
-      "https://customerportal.winconnect.com.au/login",
-      "portal.myconnect.com.au",
-      "myconnect.com.au",
-      "portal.myconnect.com.au/new-connection",
-      "hub.myconnect.com.au",
-      "https://ssu.staging.myconnect.com.au/get-connected",
-      "https://portal.anz.kinergysolutions.com",
-      "https://portal-api.anz.kinergysolutions.com",
-      "https://portal.originzero.com.au",
-      "https://api-portal.originzero.com.au",
-      "https://sign.originzero.com.au",
-      "https://businessportal.origin.com.au",
-      "https://api-businessportal.origin.com.au"
-    ],
-    "outofscope_domains": [
-      "https://www.originenergy.com.au/moving/",
-      "https://auth.api.originenergy.com.au/**",
-      "https://origin-energy.formstack.com/**",
-      "https://ssu.myconnect.com.au/**",
-      "https://reneweclipse.originenergy.com.au/*",
-      "https://api.rx.originenergy.com.au/v1/gateway/schema/graphql",
-      "https://www.compareandconnect.com.au/",
-      "https://agent.compareandconnect.com.au/",
-      "https://fastconnect.co.nz",
-      "https://Yourporter.com.au",
-      "https://raywhitehomenow.com/ ",
-      "https://www.solarquotes.com.au/leads/",
-      "https://www.solarquotes.com.au/suppliers/",
-      "https://www.solarquotes.com.au/wp-admin/",
-      "https://manufacturers.solarquotes.com.au/",
-      "https://www.solarquotes.com.au/quote/start/",
-      "https://www.solarquotes.com.au/quotesv2/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "VFS Global Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/vfs-global-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$1500",
-    "inscope_domains": [
-      "*.vfsglobal.(com|co.uk|ca)",
-      "*.vfsevisa.com",
-      "*.onevasco.com",
-      "www.vfsvisaonline.com",
-      "*.directverify.in",
-      "*.docswallet.com",
-      "biometservices.com",
-      "agents.tasheer.com",
-      "https://equatorialguinea-evisa.com",
-      "https://online.srilankaevisa.lk/lka/en/login",
-      "https://vfs.mioot.com/",
-      "https://vfseu.mioot.com/",
-      "https://indonesiavoa.vfsevisa.id/",
-      "https://vc.tasheer.com/",
-      "*.vfsglobal.by",
-      "*. vfsevisa.id",
-      "*.vfsai.com",
-      "https://cicforms.mioot.com/",
-      "https://vfsforms.mioot.com/",
-      "https://mohesr.vfsglobal.com/forms/CVUAE/admin/",
-      "phlonline.vfsevisa.cn",
-      "phlportal.vfsevisa.cn",
-      "evisa.gov.mz",
-      "https://uketa.vfsglobal.com/forms/UKETA/",
-      "https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index",
-      "https://www.visaforkorea-sl.com/"
-    ],
-    "outofscope_domains": [
-      "All other VFS assets that are not listed above as in scope are automatically out of scope",
-      "https://india-usa.vfsglobal.com",
-      "https://vire.vfsglobal.com",
-      "vfsglobal.com.ru",
-      "myeasydocs.co.il",
-      "nssr-7.vfsglobal.com",
-      "https://uat-lift.vfsglobal.com/_angular/main.8dbd1aa97c38b188.js?v=6.0.29",
-      "https://liftassets.vfsglobal.com/_nuxt/46217fc777819548fddb.js",
-      "https://ukvitest.vfsglobal.com/_angular/main.3ca04c44a2718f71.js?v=1.0.22",
-      "https://online.vfsevisa.com/main-es2015.521ef2e1d9f68fd1bb90.js",
-      "https://online.vfsevisa.com/main-es5.521ef2e1d9f68fd1bb90.js?v=3.1.6",
-      "https://portal.vfsevisa.com/main-es2015.987b1b526aa8041bfdee.js",
-      "https://portal.vfsevisa.com/main-es5.987b1b526aa8041bfdee.js?v=3.1.6",
-      "https://uat-lift.vfsglobal.com/_angular/main.c05c54e8703c3a9f.js?v=6.0.36",
-      "https://online.vfsevisa.com/main-es2015.6d514e86ec7c6492aafc.js?v=3.1.2",
-      "https://portal.vfsevisa.com/main-es2015.7857657af609ca5e4bc5.js?v=3.1.4",
-      "https://egonline.vfsevisa.com/main-es2015.c7bb991442356b23f23e.js?v=3.1.3"
     ],
     "issues_reported": [],
     "scamhit": "",

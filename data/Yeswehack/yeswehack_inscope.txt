@@ -590,8 +590,6 @@ essentials.vinci.com
 chaire-arpenter.fr
 habileoh.com
 stats.vinci.com
-preprod-xam.xelians.fr
-preprod-datahub.xelians.fr
 yeswehack.com
 api.yeswehack.com
 apps.yeswehack.com

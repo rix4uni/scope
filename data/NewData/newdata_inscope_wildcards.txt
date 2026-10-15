@@ -1,15 +1,1 @@
-*.bitgo.com
-*.origindigital-pac.com.au
-*.odcdn.com.au
-*.support.originenergy.com.au
-*.api.originenergy.com.au
-*.download.originenergy.com.au
-*.vfsglobal.com
-*.vfsglobal.co.uk
-*.vfsglobal.ca
-*.vfsevisa.com
-*.onevasco.com
-*.directverify.in
-*.docswallet.com
-*.vfsglobal.by
-*.vfsai.com
+*.expedia.biz

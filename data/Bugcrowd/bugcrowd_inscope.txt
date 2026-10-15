@@ -309,11 +309,7 @@ arrowfilms.com
 *.arrowfilms.com
 mankind.co.uk
 *.mankind.co.uk
-illamasqua.com
-*.illamasqua.com
 matalan.co.uk
-enjoyselfish.com
-*.enjoyselfish.com
 accounts.hytale.com
 store.hytale.com
 hytale.com

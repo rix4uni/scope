@@ -218,9 +218,7 @@ myprotein.com
 myvitamins.com
 arrowfilms.com
 mankind.co.uk
-illamasqua.com
 matalan.co.uk
-enjoyselfish.com
 accounts.hytale.com
 store.hytale.com
 hytale.com
@@ -1241,6 +1239,9 @@ bitstamp.net
 1w.cash
 1w.run
 1win.com
+1wintoken.com
+1wtoken.com
+solscan.io
 dif.tech.plata
 lb1.iris.cgophobb.com
 admin.meeshosupply.com
@@ -3914,6 +3915,7 @@ api.dropbox.com
 hellofax.com
 docsend.com
 app.reclaim.ai
+docs.google.com
 staatsloterij.nederlandseloterij.nl
 krasloten.nederlandseloterij.nl
 eurojackpot.nederlandseloterij.nl
@@ -5121,8 +5123,6 @@ essentials.vinci.com
 chaire-arpenter.fr
 habileoh.com
 stats.vinci.com
-preprod-xam.xelians.fr
-preprod-datahub.xelians.fr
 yeswehack.com
 api.yeswehack.com
 apps.yeswehack.com
