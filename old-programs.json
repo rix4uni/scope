@@ -1563,23 +1563,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Xelians - Blackbox program",
-    "program_url": "https://yeswehack.com/programs/xelians-blackbox-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$1500",
-    "inscope_domains": [
-      "https://preprod-xam.xelians.fr/",
-      "https://preprod-datahub.xelians.fr/"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "YesWeHack",
     "program_url": "https://yeswehack.com/programs/yes-we-hack",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -2695,6 +2678,25 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Dstny",
+    "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1100",
+    "inscope_domains": [
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238"
+    ],
+    "outofscope_domains": [
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Dutch Lottery VDP",
@@ -6047,12 +6049,6 @@
       "https://marketplace.atlassian.com/apps/1217536/embedder-for-confluence?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1221519/roadmap-portal-for-jira-service-desk?tab=overview&hosting=cloud",
       "https://marketplace.atlassian.com/apps/1225798/screenjar-screen-recorder-for-jira?tab=overview&hosting=cloud",
-      "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1230896/arn-confluence-helper-app?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
@@ -8612,16 +8608,14 @@
       "https://www.myvitamins.com/",
       "https://www.arrowfilms.com",
       "https://www.mankind.co.uk/",
-      "https://www.illamasqua.com/",
-      "https://www.matalan.co.uk",
-      "https://www.enjoyselfish.com"
+      "https://www.matalan.co.uk"
     ],
     "outofscope_domains": [
       "https://www.myprotein.com.tr/"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Hypixel Studios Managed Bug Bounty Engagement",
@@ -16557,14 +16551,19 @@
       "1w.cash",
       "1w.run",
       "1win.com",
+      "1wintoken.com",
+      "1wtoken.com",
       "Deposit/Withdraw",
       "https://1win.com/betting",
-      "https://1win.com/casino"
+      "https://1win.com/casino",
+      "https://solscan.io/account/B2RFzpckwjtHXHMrPMKarg6Cj6xkSdT6mru4gJiJE87L",
+      "https://solscan.io/account/GWvQinGBRa7ZUzhXY23MrLjdsx3KfRGxH8yXURBwrz1R",
+      "https://solscan.io/account/sxzuA7TuRvjVbrXkJUgrYq2hfjVf3RFd8WFaSxt2rYm"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Citi Group",
@@ -60991,6 +60990,7 @@
       "*.cheaptickets.com",
       "*.ean.com",
       "*.expedia-aarp.com",
+      "*.expedia.biz",
       "*.expedia.com",
       "*.expediaagents.com",
       "*.expediacruises.com",
@@ -61068,7 +61068,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-14"
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Front",
@@ -62029,6 +62029,24 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "MariaDB",
+    "program_url": "https://hackerone.com/mariadb",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "MariaDB Server & Connectors  - Denial of Service",
+      "MariaDB Server & Connectors - Access control bypass",
+      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
+      "MariaDB Server & Connectors - Remote Code Execution",
+      "mariadb.org"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Chaturbate",
@@ -65811,19 +65829,17 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Dstny",
-    "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1697",
+    "name": "Xelians - Blackbox program",
+    "program_url": "https://yeswehack.com/programs/xelians-blackbox-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$1500",
     "inscope_domains": [
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238"
+      "https://preprod-xam.xelians.fr/",
+      "https://preprod-datahub.xelians.fr/"
     ],
     "outofscope_domains": [
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389"
+      "All domains or subdomains not listed in the above list of 'Scopes'"
     ],
     "issues_reported": [],
     "scamhit": "",

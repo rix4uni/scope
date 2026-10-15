@@ -216,6 +216,11 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
+*.red.sqills.team
+booking.*.cloud.sqills.com
+booking.*.sqills.com
+careers.sqills.com
+welcome.sqills.com
 f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no
 kvadrat.no
 viavika.no
@@ -257,6 +262,7 @@ shop.*.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
+station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

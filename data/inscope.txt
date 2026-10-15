@@ -1202,6 +1202,8 @@ sks-*.exo.io
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.tempo-team.*
@@ -1240,6 +1242,7 @@ sks-*.exo.io
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.water-link.be
@@ -5902,6 +5905,16 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+developers.veriff.me
+veriff.com
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 aiassistant.stage.vismaonline.com

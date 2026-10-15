@@ -164,7 +164,6 @@ community-staging.meraki.com
 meraki.cisco.com
 documentation.meraki.com
 *.workflows.meraki.com
-wien.gv.at
 geschichtewiki.wien.gv.at
 bi.bildung-wien.gv.at
 shop.classdojo.com

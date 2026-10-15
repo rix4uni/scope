@@ -1,1 +1,3 @@
-*.expedia.biz
+*.sqills.com
+*.sqills.team
+*.veriff.com

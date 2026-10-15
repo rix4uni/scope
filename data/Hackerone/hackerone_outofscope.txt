@@ -1685,6 +1685,7 @@ globaldesign.marriott.com
 hotel-deals.marriott.com
 hotel-development.marriott.com
 hotelexcellence.marriott.com
+shopmarriott.com
 ifast.marriott.com
 jobs.marriott.com
 latinoamerica.marriott.com
