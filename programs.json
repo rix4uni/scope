@@ -1744,24 +1744,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Altera",
-    "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$30000",
-    "inscope_domains": [
-      "Firmware",
-      "Hardware",
-      "FPGA Solution Development Tools and Utilities",
-      "Software",
-      "Non Altera Products"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Anaconda Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4583,6 +4565,21 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Skoda Auto Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
+      "cz.skodaauto.myskoda"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-16"
+  },
+  {
     "name": "Social Deal",
     "program_url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5440,6 +5437,39 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "WP Engine Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "https://app.getflywheel.com",
+      "https://getflywheel.com",
+      "https://my.wpengine.com",
+      "https://payments.wpengine.com",
+      "https://wpengine.com",
+      "*. advancedcustomfields.com",
+      "*. bettersearchreplace.com",
+      "*.deliciousbrains.com",
+      "*.localwp.com",
+      "*.nitropack.io",
+      "*.studiopress.com",
+      "*.wpengine.io",
+      "*.wpesvc.net",
+      "WP Engine-developed WordPress Plugins and Themes",
+      "https://makeshift.film",
+      "https://studiopress.blog",
+      "https://torquemag.io",
+      "https://velocitize.com"
+    ],
+    "outofscope_domains": [
+      "marketing.nitropack.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "WP Engine VDP",
@@ -16748,13 +16778,15 @@
       "https://ctf.hackthebox.com",
       "https://enterprise.hackthebox.com",
       "https://jobs.hackthebox.com/",
+      "https://profile.hackthebox.com",
+      "https://range.hackthebox.ai/",
       "https://status.hackthebox.com/",
       "labs.hackthebox.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-16"
   },
   {
     "name": "Meesho",
@@ -65921,37 +65953,22 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "WP Engine Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+    "name": "Altera",
+    "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
-    "reward": "€2500",
+    "reward": "$30000",
     "inscope_domains": [
-      "https://app.getflywheel.com",
-      "https://getflywheel.com",
-      "https://my.wpengine.com",
-      "https://payments.wpengine.com",
-      "https://wpengine.com",
-      "*. advancedcustomfields.com",
-      "*. bettersearchreplace.com",
-      "*.deliciousbrains.com",
-      "*.localwp.com",
-      "*.nitropack.io",
-      "*.studiopress.com",
-      "*.wpengine.io",
-      "*.wpesvc.net",
-      "WP Engine-developed WordPress Plugins and Themes",
-      "https://makeshift.film",
-      "https://studiopress.blog",
-      "https://torquemag.io",
-      "https://velocitize.com"
+      "Firmware",
+      "Hardware",
+      "FPGA Solution Development Tools and Utilities",
+      "Software",
+      "Non Altera Products"
     ],
-    "outofscope_domains": [
-      "marketing.nitropack.io"
-    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-15"
+    "last_updated": "2026-10-08"
   },
   {
     "name": "Sqills",
