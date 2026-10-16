@@ -505,7 +505,6 @@ dev*.urbanclap.com
 *.phunware.com
 *.ritzcarlton.com
 *.ritzcarltonyachtcollection.com
-*moxymix*.marriott.com
 *.atlassian.net
 *.paypal.cn
 *.pixiv.co.jp

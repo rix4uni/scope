@@ -2295,10 +2295,7 @@ ultimateears.com
 *.dcfgateway.marriott.com
 *.gateway.marriott.com
 *.mgs.marriott.com
-*.sba.marriott.com
 *gateway-apc.marriott.com
-*uat.marriott.com
-marriott.com
 apcgateway.marriott.com
 app-insiders.marriott.com
 auth-apc.marriott.com
@@ -2333,7 +2330,6 @@ ocijlbex1prd.marriott.com
 owa.marriott.com
 passwordchallenge.marriott.com
 prod-mipaasiaasservices.marriott.com
-reservations.all-inclusive.marriott.com
 smetrics.marriott.com
 splunk-phantom-nlb.marriott.com
 sso.marriott.com
@@ -2344,6 +2340,7 @@ university.marriott.com
 vacation.marriott.com
 wechat.api.marriott.com
 giving.marriott.com
+marriott.com
 members.marriott.com
 travel-brilliantly.marriott.com
 assets.hyatt.com
