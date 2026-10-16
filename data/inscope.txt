@@ -1535,7 +1535,6 @@ cvent.com
 events.app.cvent.com
 web.cvent.com
 console.delltechnologies.com
-docs.eazybi.com
 my.elementor.com
 go.elementor.com
 translate.elementor.com
