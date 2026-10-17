@@ -3969,40 +3969,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Ninja Kiwi Games Bug Bounty program",
-    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4125",
-    "inscope_domains": [
-      "analytics.ninjakiwi.com",
-      "api.ninjakiwi.com",
-      "guts.ninjakiwi.com",
-      "*.ninjakiwi.me",
-      "*.nkstatic.com",
-      "battles.tv",
-      "data.ninjakiwi.com",
-      "ninja.kiwi",
-      "ninjakiwi.com",
-      "alerts.ninjakiwi.com",
-      "boomer2.ninjakiwi.com",
-      "ct.ninjakiwi.com",
-      "mynk-dash.ninjakiwi.com",
-      "mynk.ninjakiwi.com",
-      "*.souparea.com"
-    ],
-    "outofscope_domains": [
-      "rancher.ninjakiwi.com",
-      "rancher.ninjakiwi.me",
-      "store.ninjakiwi.com",
-      "support.ninjakiwi.com",
-      "icarusadmin.ninjakiwi.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "NxtPort VDP",
     "program_url": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65951,6 +65917,40 @@
       "support.hackerone.com",
       "www.h1.community",
       "www.hackeronestatus.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Ninja Kiwi Games Bug Bounty program",
+    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4125",
+    "inscope_domains": [
+      "analytics.ninjakiwi.com",
+      "api.ninjakiwi.com",
+      "guts.ninjakiwi.com",
+      "*.ninjakiwi.me",
+      "*.nkstatic.com",
+      "battles.tv",
+      "data.ninjakiwi.com",
+      "ninja.kiwi",
+      "ninjakiwi.com",
+      "alerts.ninjakiwi.com",
+      "boomer2.ninjakiwi.com",
+      "ct.ninjakiwi.com",
+      "mynk-dash.ninjakiwi.com",
+      "mynk.ninjakiwi.com",
+      "*.souparea.com"
+    ],
+    "outofscope_domains": [
+      "rancher.ninjakiwi.com",
+      "rancher.ninjakiwi.me",
+      "store.ninjakiwi.com",
+      "support.ninjakiwi.com",
+      "icarusadmin.ninjakiwi.com"
     ],
     "issues_reported": [],
     "scamhit": "",
