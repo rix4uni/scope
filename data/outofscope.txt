@@ -3609,11 +3609,6 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
-rancher.ninjakiwi.com
-rancher.ninjakiwi.me
-store.ninjakiwi.com
-support.ninjakiwi.com
-icarusadmin.ninjakiwi.com
 a.simplemdm.com
 personio.de
 personio.slack.com
