@@ -957,7 +957,6 @@ paypal-*.com
 *.ovofinansial.com
 *.taralite.com
 *.kayak.com
-*.hey.com
 *.pci.shopifyinc.com
 *.shopify.com
 *.myshopify.com
@@ -1222,7 +1221,9 @@ sks-*.exo.io
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net
@@ -1230,9 +1231,11 @@ sks-*.exo.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+*.optimuscards.com
+*.topperpay.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.deliciousbrains.com

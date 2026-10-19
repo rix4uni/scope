@@ -1,1 +1,5 @@
-*.gov.sg
+*.truelayer.cloud
+*.truelayer.io
+*.optimuscards.com
+*.topperpay.com
+*.uphold.com
