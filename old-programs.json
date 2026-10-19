@@ -154,12 +154,7 @@
       "https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)",
       "https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)",
       "https://play.google.com/store/apps/details?id=com.comuto&hl=en",
-      "https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8",
-      "https://api.blablalines.com",
-      "https://daily.blablacar.fr",
-      "https://blablacardaily.com",
-      "https://play.google.com/store/apps/details?id=com.blablalines",
-      "https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288"
+      "https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8"
     ],
     "outofscope_domains": [
       "Any website that is not listed explicitly in the scope.",
@@ -168,7 +163,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-19"
   },
   {
     "name": "Cryptobox",
@@ -5085,6 +5080,62 @@
     ],
     "outofscope_domains": [
       "elect.tweakers.net"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "UZ Leuven",
+    "program_url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "autodiscover.uzleuven.be",
+      "ecrf.uzleuven.be",
+      "extranet-asa.uzleuven.be",
+      "extranet.uzleuven.be",
+      "liquidfiles.uzleuven.be",
+      "mx1.uzleuven.be",
+      "mx2.uzleuven.be",
+      "pcrstudioruzb.uzleuven.be",
+      "prddsplunkhf.uzleuven.be",
+      "sts.uzleuven.be",
+      "www.uzleuven.be",
+      "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
+      "wp5-truststroke.uzleuven.be",
+      "cardsonline.azdiest.be",
+      "liquidfilestest.uzleuven.be",
+      "random.uzleuven.be/random/",
+      "teststs.uzleuven.be",
+      "w1.uzleuven.be",
+      "cardsonlinetst.azdiest.be",
+      "*.kwsdose.be",
+      "*.playuzleuven.be",
+      "*.uzleuven.*",
+      "*.contactallerg(y|ie).uzleuven.be",
+      "*.mir.uzleuven.be",
+      "*dev.uzleuven.be",
+      "*idp*.uzleuven.be",
+      "*stag*.uzleuven.be",
+      "files.uzleuven.be",
+      "kumulus.uzleuven.be",
+      "mijnacc.uzleuven.be",
+      "mirc.uzleuven.be",
+      "prddnighting01.uzleuven.be",
+      "w1.uzleuven.be/random",
+      "ziekenhuisschool.be"
+    ],
+    "outofscope_domains": [
+      "boekentoy.uzleuven.be",
+      "uz-laboboeken.web.app",
+      "laboboeken.uzleuven.be",
+      "boekentoy.firebaseio.com",
+      "uz-laboboeken.firebaseio.com",
+      "jobs.uzleuven.be",
+      "uzleuven.atlassian.net",
+      "vacatures.uzleuven.be"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -22011,6 +22062,7 @@
       "breachresponseuk.co.uk",
       "celinainsurance-idtheft.com",
       "ciam.tui.transunion.com",
+      "cibil.com",
       "classic.p1.neustar.biz",
       "cmsdev.transunion.do",
       "cmsdev.transunion.mx",
@@ -22121,7 +22173,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-12"
+    "last_updated": "2026-10-19"
   },
   {
     "name": "WellHive",
@@ -45215,6 +45267,7 @@
       "gsmsearchapi.deere.com",
       "guest1.wirtgenindia.com",
       "guest2.wirtgenindia.com",
+      "guidedonboarding.deere.com",
       "gwpoa-backup.ciber.com.br",
       "gwpoa.ciber.com.br",
       "hagiegear.com",
@@ -46607,7 +46660,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-16"
+    "last_updated": "2026-10-19"
   },
   {
     "name": "Trendyol",
@@ -63883,6 +63936,24 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "PortSwigger Web Security",
     "program_url": "https://hackerone.com/portswigger",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -66014,62 +66085,6 @@
     "last_updated": "2026-10-09"
   },
   {
-    "name": "UZ Leuven",
-    "program_url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "autodiscover.uzleuven.be",
-      "ecrf.uzleuven.be",
-      "extranet-asa.uzleuven.be",
-      "extranet.uzleuven.be",
-      "liquidfiles.uzleuven.be",
-      "mx1.uzleuven.be",
-      "mx2.uzleuven.be",
-      "pcrstudioruzb.uzleuven.be",
-      "prddsplunkhf.uzleuven.be",
-      "sts.uzleuven.be",
-      "www.uzleuven.be",
-      "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
-      "wp5-truststroke.uzleuven.be",
-      "cardsonline.azdiest.be",
-      "liquidfilestest.uzleuven.be",
-      "random.uzleuven.be/random/",
-      "teststs.uzleuven.be",
-      "w1.uzleuven.be",
-      "cardsonlinetst.azdiest.be",
-      "*.kwsdose.be",
-      "*.playuzleuven.be",
-      "*.uzleuven.*",
-      "*.contactallerg(y|ie).uzleuven.be",
-      "*.mir.uzleuven.be",
-      "*dev.uzleuven.be",
-      "*idp*.uzleuven.be",
-      "*stag*.uzleuven.be",
-      "files.uzleuven.be",
-      "kumulus.uzleuven.be",
-      "mijnacc.uzleuven.be",
-      "mirc.uzleuven.be",
-      "prddnighting01.uzleuven.be",
-      "w1.uzleuven.be/random",
-      "ziekenhuisschool.be"
-    ],
-    "outofscope_domains": [
-      "boekentoy.uzleuven.be",
-      "uz-laboboeken.web.app",
-      "laboboeken.uzleuven.be",
-      "boekentoy.firebaseio.com",
-      "uz-laboboeken.firebaseio.com",
-      "jobs.uzleuven.be",
-      "uzleuven.atlassian.net",
-      "vacatures.uzleuven.be"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Skoda Auto Bug Bounty Program",
     "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -66114,24 +66129,6 @@
       "support.ninjakiwi.com",
       "icarusadmin.ninjakiwi.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Brave Software",
-    "program_url": "https://hackerone.com/brave",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Brave Browser Desktop",
-      "Brave websites",
-      "com.brave.browser",
-      "com.brave.ios.browser",
-      "https://github.com/brave/*, https://github.com/brave-intl/*"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
