@@ -1,5 +1,3 @@
-*.truelayer.cloud
-*.truelayer.io
-*.optimuscards.com
-*.topperpay.com
-*.uphold.com
+*.kwsdose.be
+*.playuzleuven.be
+*.uzleuven.*

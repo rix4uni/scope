@@ -1,1 +1,1 @@
-https://github.com/gocardless
+https://github.com/brave/*,

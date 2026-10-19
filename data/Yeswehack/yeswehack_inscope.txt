@@ -101,9 +101,6 @@ m.blablacar.com
 m.blablacar.tr
 m.blablacar.com.ua
 itunes.apple.com
-api.blablalines.com
-daily.blablacar.fr
-blablacardaily.com
 bounty.cryptobox.com
 *.cyberghostvpn.com
 *.cyberghost.com
