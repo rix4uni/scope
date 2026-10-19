@@ -434,7 +434,7 @@
     "program_url": "https://yeswehack.com/programs/ezviz-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
     "platform": "YesWeHack",
-    "reward": "$5000",
+    "reward": "$420",
     "inscope_domains": [
       "Hardware found on https://www.ezviz.com/category/security-wifi-cameras",
       "Hardware found on https://www.ezviz.com/category/smart-home",
@@ -446,8 +446,8 @@
       "*.ezvizlife.com",
       "*.eziot.com",
       "*.ezviz7.com",
-      "*.hicloudcam.com,",
-      "*.hikops.com,",
+      "*.hicloudcam.com",
+      "*.hikops.com",
       "*.ezvizru.com"
     ],
     "outofscope_domains": [
@@ -457,7 +457,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-19"
   },
   {
     "name": "FDJ United (Online Betting and Gaming) - Bug Bounty program",
@@ -585,6 +585,23 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "GovTech - Vulnerability Disclosure Programme",
+    "program_url": "https://yeswehack.com/programs/govtech-vulnerability-disclosure-programme-policy",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$null",
+    "inscope_domains": [
+      "*.gov.sg",
+      "Domains where GovTech is the registrar"
+    ],
+    "outofscope_domains": [
+      "All domains or subdomains not listed in the above list of 'Scopes'"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-19"
   },
   {
     "name": "HARMAN International - Web Applications",

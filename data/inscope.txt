@@ -1306,6 +1306,7 @@ sks-*.exo.io
 *.findaya.co.id
 *.gtflabs.io
 *.mab.co.id
+*.gov.sg
 *.jbl.com
 *.harmanaudio.com
 *.harmankardon.com
