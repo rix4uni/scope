@@ -165,6 +165,7 @@ solscan.io
 *.bancoplata.mx
 *.platacard.mx
 dif.tech.plata
+people.plata.team
 lb1.iris.cgophobb.com
 admin.meeshosupply.com
 affiliate.meesho.com
