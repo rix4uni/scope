@@ -16776,7 +16776,8 @@
       "*.bancoplata.mx",
       "*.platacard.mx",
       "dif.tech.plata",
-      "id6443932656"
+      "id6443932656",
+      "people.plata.team"
     ],
     "outofscope_domains": [
       "https://bancoplata.mx/*/whistleblowing",
@@ -16784,7 +16785,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-20"
   },
   {
     "name": "NetScaler Public Program",

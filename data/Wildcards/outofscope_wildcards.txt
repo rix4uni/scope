@@ -585,6 +585,8 @@ staging*.runnr.in
 *.bitlove.co
 *.qms.grab.com
 *.kayakairplanemode.com
+*.basecamphq.com
+*.highrisehq.com
 *.email.shopify.com
 *.business.booking.com
 *.formassembly.com
@@ -696,6 +698,9 @@ e.g.*.slackhq.com
 *.ripe.net
 *.randstad.in
 *.newyorkredbulls.com
+*.red.sqills.team
+booking.*.cloud.sqills.com
+booking.*.sqills.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com

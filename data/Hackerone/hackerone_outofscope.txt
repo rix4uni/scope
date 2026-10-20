@@ -2296,6 +2296,9 @@ cruises.kayak.com
 *.kayakairplanemode.com
 kayak.com
 klassereise.checkfelix.com
+*.basecamphq.com
+*.highrisehq.com
+basecamp.com
 *.email.shopify.com
 academy.shopify.com
 cdn.shopify.com

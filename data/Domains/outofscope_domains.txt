@@ -2556,6 +2556,7 @@ affiliates.kayak.com
 cruises.kayak.com
 kayak.com
 klassereise.checkfelix.com
+basecamp.com
 academy.shopify.com
 cdn.shopify.com
 community.shopify.com
@@ -2876,7 +2877,6 @@ lansweeper.com
 libelle.nl
 actie.libelle.nl
 login.liferay.com
-support.lightspark.com
 community.monzo.com
 login.internal.monzo.com
 monzo.me
@@ -2921,6 +2921,8 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
+careers.sqills.com
+welcome.sqills.com
 f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no
 kvadrat.no
 viavika.no
@@ -2928,18 +2930,6 @@ limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
 actie.trouw.nl
-trust.truelayer.com
-banks.truelayer.com
-careers.truelayer.com
-docs.truelayer.com
-docs.houston.truelayer.com
-truelayer.com
-index.truelayer.com
-info.truelayer.com
-signin.truelayer.com
-support.truelayer.com
-status.truelayer.com
-truelayer.zendesk.com
 elect.tweakers.net
 boekentoy.uzleuven.be
 uz-laboboeken.web.app
