@@ -3560,43 +3560,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Lightspark Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$5000",
-    "inscope_domains": [
-      "sandbox.striga.com",
-      "https://www.vault.striga.eu/web/sandbox/",
-      "https://tfr-sandbox.striga.com/",
-      "https://sandbox.striga.com/backoffice",
-      "https://hooks.striga.com/core/",
-      "https://sandbox.striga.com/api/v0",
-      "https://www.sandbox.striga.com/api/v1/",
-      "https://sandbox.striga.com/api/v1",
-      "https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/",
-      "https://github.com/buildonspark/spark",
-      "https://app.uma.money",
-      "https://link.uma.me",
-      "https://api.lightspark.com",
-      "https://app.lightspark.com",
-      "lightsparkdev/lightspark-crypto-uniffi",
-      "https://github.com/lightsparkdev/kotlin-sdk",
-      "https://github.com/lightsparkdev/js-sdk",
-      "https://github.com/lightsparkdev/flutter-sdk",
-      "https://github.com/lightsparkdev/go-sdk",
-      "https://github.com/lightsparkdev/lightspark-rs",
-      "https://github.com/lightsparkdev/python-sdk",
-      "lightsparkdev/swift-wallet-sdk"
-    ],
-    "outofscope_domains": [
-      "support.lightspark.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-20"
-  },
-  {
     "name": "MAGNIFIC VDP",
     "program_url": "https://www.intigriti.com/programs/freepik/freepikcompany/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4644,6 +4607,21 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Skoda Auto Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
+      "cz.skodaauto.myskoda"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-16"
+  },
+  {
     "name": "Social Deal",
     "program_url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4711,6 +4689,27 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Sqills",
+    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "*.sqills.com",
+      "*.sqills.team"
+    ],
+    "outofscope_domains": [
+      "*.red.sqills.team",
+      "booking.*.cloud.sqills.com",
+      "booking.*.sqills.com",
+      "careers.sqills.com",
+      "welcome.sqills.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-10"
   },
   {
     "name": "Storebrand Responsible Disclosure",
@@ -5013,66 +5012,6 @@
       "trouw.nl/service",
       "abonnement.trouw.nl",
       "actie.trouw.nl"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "TrueLayer",
-    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "api.truelayer[-sandbox].com",
-      "api.mtls.truelayer[-sandbox].com",
-      "auth.truelayer[-sandbox].com",
-      "auth.mtls.truelayer[-sandbox].com",
-      "app.truelayer[-sandbox].com",
-      "login-api.truelayer[-sandbox].com",
-      "login.truelayer[-sandbox].com",
-      "onboarding-api.truelayer.com",
-      "pay-api.truelayer[-sandbox].com",
-      "pay.truelayer[-sandbox].com",
-      "paydirect.truelayer[-sandbox].com",
-      "payment.truelayer[-sandbox].com",
-      "payments-experience-api.truelayer[-sandbox].com",
-      "user-authentication-api.truelayer[-sandbox].com",
-      "users-api.truelayer.com",
-      "C# SDK",
-      "console-backend.truelayer[-sandbox].com",
-      "console.truelayer[-sandbox].com",
-      "sftp.reports.truelayer.com",
-      "Java SDK",
-      "PHP SDK",
-      "TrueLayer for Magento (Magento plugin)",
-      "shopify-admin.truelayer.com",
-      "shop-pay-app-api.truelayer.com",
-      "truelayer-signing",
-      "webhooks.truelayer[-sandbox].com",
-      "*.truelayer.cloud",
-      "*.truelayer.com",
-      "*.truelayer.io",
-      "iOS SDK",
-      "React Native SDK",
-      "Web SDK",
-      "Rust SDK"
-    ],
-    "outofscope_domains": [
-      "trust.truelayer.com",
-      "TrueLayer for WooCommerce (WordPress plugin)",
-      "banks.truelayer.com",
-      "careers.truelayer.com",
-      "docs.truelayer.com",
-      "docs.houston.truelayer.com",
-      "https://truelayer.com/contact/",
-      "index.truelayer.com",
-      "info.truelayer.com",
-      "signin.truelayer.com",
-      "support.truelayer.com",
-      "status.truelayer.com",
-      "truelayer.zendesk.com"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -7552,6 +7491,8 @@
       "https://*/advuew/*",
       "https://*/geoserverneuogd/* (Multiple Domains)",
       "https://*/agssoe/* (Multiple Domains)",
+      "https://*/agsinspire/*",
+      "https://*/arcgis/*",
       "https://www.geschichtewiki.wien.gv.at",
       "https://bi.bildung-wien.gv.at/*",
       "https://*/umfrage/*",
@@ -7559,7 +7500,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-15"
+    "last_updated": "2026-10-20"
   },
   {
     "name": "ClassDojo",
@@ -16777,7 +16718,9 @@
       "*.platacard.mx",
       "dif.tech.plata",
       "id6443932656",
-      "people.plata.team"
+      "people.plata.team",
+      "plata.co",
+      "prime.plata.co"
     ],
     "outofscope_domains": [
       "https://bancoplata.mx/*/whistleblowing",
@@ -64915,6 +64858,40 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Basecamp",
+    "program_url": "https://hackerone.com/basecamp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "*.hey.com",
+      "Basecamp.app",
+      "HEY.app",
+      "HEY.exe",
+      "app.basecamp.com",
+      "app.fizzy.do",
+      "basecamp-setup.exe",
+      "com.basecamp.bc3",
+      "com.basecamp.bc3-ios",
+      "com.basecamp.hey",
+      "com.hey.app.ios",
+      "hey-mail",
+      "https://github.com/basecamp/once-campfire",
+      "https://github.com/basecamp/trix",
+      "https://github.com/basecamp/writebook",
+      "launchpad.37signals.com",
+      "world.hey.com"
+    ],
+    "outofscope_domains": [
+      "*.basecamphq.com",
+      "*.highrisehq.com",
+      "basecamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Shopify",
     "program_url": "https://hackerone.com/shopify",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -66019,6 +65996,103 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Lightspark Public Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$5000",
+    "inscope_domains": [
+      "sandbox.striga.com",
+      "https://www.vault.striga.eu/web/sandbox/",
+      "https://tfr-sandbox.striga.com/",
+      "https://sandbox.striga.com/backoffice",
+      "https://hooks.striga.com/core/",
+      "https://sandbox.striga.com/api/v0",
+      "https://www.sandbox.striga.com/api/v1/",
+      "https://sandbox.striga.com/api/v1",
+      "https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/",
+      "https://github.com/buildonspark/spark",
+      "https://app.uma.money",
+      "https://link.uma.me",
+      "https://api.lightspark.com",
+      "https://app.lightspark.com",
+      "lightsparkdev/lightspark-crypto-uniffi",
+      "https://github.com/lightsparkdev/kotlin-sdk",
+      "https://github.com/lightsparkdev/js-sdk",
+      "https://github.com/lightsparkdev/flutter-sdk",
+      "https://github.com/lightsparkdev/go-sdk",
+      "https://github.com/lightsparkdev/lightspark-rs",
+      "https://github.com/lightsparkdev/python-sdk",
+      "lightsparkdev/swift-wallet-sdk"
+    ],
+    "outofscope_domains": [
+      "support.lightspark.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-20"
+  },
+  {
+    "name": "TrueLayer",
+    "program_url": "https://www.intigriti.com/programs/truelayer/truelayer/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "api.truelayer[-sandbox].com",
+      "api.mtls.truelayer[-sandbox].com",
+      "auth.truelayer[-sandbox].com",
+      "auth.mtls.truelayer[-sandbox].com",
+      "app.truelayer[-sandbox].com",
+      "login-api.truelayer[-sandbox].com",
+      "login.truelayer[-sandbox].com",
+      "onboarding-api.truelayer.com",
+      "pay-api.truelayer[-sandbox].com",
+      "pay.truelayer[-sandbox].com",
+      "paydirect.truelayer[-sandbox].com",
+      "payment.truelayer[-sandbox].com",
+      "payments-experience-api.truelayer[-sandbox].com",
+      "user-authentication-api.truelayer[-sandbox].com",
+      "users-api.truelayer.com",
+      "C# SDK",
+      "console-backend.truelayer[-sandbox].com",
+      "console.truelayer[-sandbox].com",
+      "sftp.reports.truelayer.com",
+      "Java SDK",
+      "PHP SDK",
+      "TrueLayer for Magento (Magento plugin)",
+      "shopify-admin.truelayer.com",
+      "shop-pay-app-api.truelayer.com",
+      "truelayer-signing",
+      "webhooks.truelayer[-sandbox].com",
+      "*.truelayer.cloud",
+      "*.truelayer.com",
+      "*.truelayer.io",
+      "iOS SDK",
+      "React Native SDK",
+      "Web SDK",
+      "Rust SDK"
+    ],
+    "outofscope_domains": [
+      "trust.truelayer.com",
+      "TrueLayer for WooCommerce (WordPress plugin)",
+      "banks.truelayer.com",
+      "careers.truelayer.com",
+      "docs.truelayer.com",
+      "docs.houston.truelayer.com",
+      "https://truelayer.com/contact/",
+      "index.truelayer.com",
+      "info.truelayer.com",
+      "signin.truelayer.com",
+      "support.truelayer.com",
+      "status.truelayer.com",
+      "truelayer.zendesk.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Veriff Bug Bounty",
     "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -66045,40 +66119,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-15"
-  },
-  {
-    "name": "Basecamp",
-    "program_url": "https://hackerone.com/basecamp",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "*.hey.com",
-      "Basecamp.app",
-      "HEY.app",
-      "HEY.exe",
-      "app.basecamp.com",
-      "app.fizzy.do",
-      "basecamp-setup.exe",
-      "com.basecamp.bc3",
-      "com.basecamp.bc3-ios",
-      "com.basecamp.hey",
-      "com.hey.app.ios",
-      "hey-mail",
-      "https://github.com/basecamp/once-campfire",
-      "https://github.com/basecamp/trix",
-      "https://github.com/basecamp/writebook",
-      "launchpad.37signals.com",
-      "world.hey.com"
-    ],
-    "outofscope_domains": [
-      "*.basecamphq.com",
-      "*.highrisehq.com",
-      "basecamp.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "DataCamp",
@@ -66121,21 +66161,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-09"
-  },
-  {
-    "name": "Skoda Auto Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
-      "cz.skodaauto.myskoda"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-16"
   },
   {
     "name": "Ninja Kiwi Games Bug Bounty program",
@@ -66188,27 +66213,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Sqills",
-    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "*.sqills.com",
-      "*.sqills.team"
-    ],
-    "outofscope_domains": [
-      "*.red.sqills.team",
-      "booking.*.cloud.sqills.com",
-      "booking.*.sqills.com",
-      "careers.sqills.com",
-      "welcome.sqills.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-10"
   },
   {
     "name": "Xelians - Blackbox program",

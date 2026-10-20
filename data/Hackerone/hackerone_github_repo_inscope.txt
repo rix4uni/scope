@@ -36,6 +36,7 @@ https://github.com/okx/go-wallet-sdk
 https://github.com/tronprotocol/java-tron
 https://github.com/nitrojs/nitro
 https://github.com/nuxt/nuxt
+https://github.com/sveltejs/kit
 https://github.com/sveltejs/svelte
 https://github.com/vercel
 https://github.com/vercel-labs/agent-skills

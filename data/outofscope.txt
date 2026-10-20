@@ -3672,6 +3672,18 @@ limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
 actie.trouw.nl
+trust.truelayer.com
+banks.truelayer.com
+careers.truelayer.com
+docs.truelayer.com
+docs.houston.truelayer.com
+truelayer.com
+index.truelayer.com
+info.truelayer.com
+signin.truelayer.com
+support.truelayer.com
+status.truelayer.com
+truelayer.zendesk.com
 elect.tweakers.net
 boekentoy.uzleuven.be
 uz-laboboeken.web.app
@@ -3872,6 +3884,7 @@ ukvitest.vfsglobal.com
 online.vfsevisa.com
 portal.vfsevisa.com
 egonline.vfsevisa.com
+vinci-groupe.profils.org
 lafabriquedelacite.com
 wishes.vinci.com
 voeux.vinci.com
