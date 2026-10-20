@@ -145,6 +145,7 @@ libelle.nl
 actie.libelle.nl
 *.lxc.liferay.com
 login.liferay.com
+support.lightspark.com
 *.monzo.me
 community.monzo.com
 login.internal.monzo.com

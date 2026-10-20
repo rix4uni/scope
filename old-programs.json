@@ -12797,7 +12797,7 @@
     "inscope_domains": [
       "Self-Register Account on T-Mobile Microsoft Entra ID",
       "Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)",
-      "T&P Servers (Temporarily Out of Scope)",
+      "http://10.72.218.66/flag.txt",
       "https://t-mobile.com",
       "https://account.t-mobile.com",
       "https://api.t-mobile.com",
@@ -12885,7 +12885,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-19"
   },
   {
     "name": "Tamedia",

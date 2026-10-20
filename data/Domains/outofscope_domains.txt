@@ -2876,6 +2876,7 @@ lansweeper.com
 libelle.nl
 actie.libelle.nl
 login.liferay.com
+support.lightspark.com
 community.monzo.com
 login.internal.monzo.com
 monzo.me

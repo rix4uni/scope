@@ -3560,6 +3560,43 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Lightspark Public Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$5000",
+    "inscope_domains": [
+      "sandbox.striga.com",
+      "https://www.vault.striga.eu/web/sandbox/",
+      "https://tfr-sandbox.striga.com/",
+      "https://sandbox.striga.com/backoffice",
+      "https://hooks.striga.com/core/",
+      "https://sandbox.striga.com/api/v0",
+      "https://www.sandbox.striga.com/api/v1/",
+      "https://sandbox.striga.com/api/v1",
+      "https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/",
+      "https://github.com/buildonspark/spark",
+      "https://app.uma.money",
+      "https://link.uma.me",
+      "https://api.lightspark.com",
+      "https://app.lightspark.com",
+      "lightsparkdev/lightspark-crypto-uniffi",
+      "https://github.com/lightsparkdev/kotlin-sdk",
+      "https://github.com/lightsparkdev/js-sdk",
+      "https://github.com/lightsparkdev/flutter-sdk",
+      "https://github.com/lightsparkdev/go-sdk",
+      "https://github.com/lightsparkdev/lightspark-rs",
+      "https://github.com/lightsparkdev/python-sdk",
+      "lightsparkdev/swift-wallet-sdk"
+    ],
+    "outofscope_domains": [
+      "support.lightspark.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-20"
+  },
+  {
     "name": "MAGNIFIC VDP",
     "program_url": "https://www.intigriti.com/programs/freepik/freepikcompany/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
