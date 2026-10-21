@@ -466,6 +466,7 @@ test*.redoxengine.com
 *.hiltonlocalbiz.com
 *.wellsfargo.com
 *.payoneer.com
+*.dflow.net
 *.hypermint.com
 *.iron.xyz
 *.moonpay.com
@@ -1060,6 +1061,7 @@ devdegree*.shopifycloud.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
