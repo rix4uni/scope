@@ -15882,13 +15882,13 @@
       "*.windsurf.com",
       "Devin CLI",
       "Devin Desktop",
-      "Windsurf Plugins",
+      "Jetbrains IDE Plugin",
       "deepwiki.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-21"
   },
   {
     "name": "Tines (VDP)",
@@ -63382,6 +63382,7 @@
       "http://az-tools-p01.oportun.com",
       "http://ccos-cc-5541.dev.pfops.com",
       "http://progressfinservices.com",
+      "http://rewardredeem.oportun.com",
       "https://artifact-repository.oportun.com/ui/login",
       "information.oportun.com",
       "jenkins.oportun.com",
@@ -63427,7 +63428,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-21"
   },
   {
     "name": "WakaTime",
