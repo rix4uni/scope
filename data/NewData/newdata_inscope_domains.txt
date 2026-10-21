@@ -1,3 +1,4 @@
+binance.th
 profiles-api.datacamp.com
 app.datacamp.com
 assessment-api.datacamp.com

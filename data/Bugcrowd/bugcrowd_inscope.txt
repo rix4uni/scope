@@ -86,6 +86,7 @@ coinmarketcap.com
 binance.us
 *.binance.us
 binance.tr
+binance.th
 *.bitdefender.net
 *.bitdefender.com
 bitdefender.com
