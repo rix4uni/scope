@@ -942,8 +942,6 @@ paypal-*.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
-*.algolia.net
-*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -1061,7 +1059,6 @@ devdegree*.shopifycloud.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -4938,8 +4935,6 @@ secure-dfadmin.deriv.com
 smarttrader.deriv.com
 fetlife.com
 fetlifemail.com
-dashboard.algolia.com
-algolia.com
 appgallery.huawei.com
 api.grabpay.com
 gamma.grab.co
@@ -5269,15 +5264,6 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
-profiles-api.datacamp.com
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 demorgen.be
 myaccount.volkskrant.nl
@@ -5708,10 +5694,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
@@ -5952,14 +5934,6 @@ vrt.be
 myaccount.vtm.be
 vtm.be
 vtmgo.be
-api-wallet.venly.io
-api.arkane.network
-connect.arkane.network
-connect.venly.io
-login.arkane.network
-login.venly.io
-wallet.venly.io
-api-wallet-sandbox.venly.io
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 aiassistant.stage.vismaonline.com

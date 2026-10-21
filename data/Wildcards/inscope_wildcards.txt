@@ -942,8 +942,6 @@ paypal-*.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
-*.algolia.net
-*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -1061,7 +1059,6 @@ devdegree*.shopifycloud.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
