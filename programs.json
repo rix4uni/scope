@@ -2434,48 +2434,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
-  },
-  {
     "name": "De Morgen",
     "program_url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4017,12 +3975,14 @@
     "platform": "Intigriti",
     "reward": "€0",
     "inscope_domains": [
+      "*.inboundrelease.com",
+      "*.certifiedpickup.com",
       "*.nxtport.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-21"
   },
   {
     "name": "OURA Vulnerability Disclosure Program",
@@ -33183,7 +33143,6 @@
       "*.lanpass.aero",
       "*.lantours.aero",
       "*.latamairlinesgroup.net",
-      "*.latamcargo.com",
       "*.latamtrade.com",
       "*.latamtravel.com",
       "*.mplu.com.br",
@@ -33249,7 +33208,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-21"
   },
   {
     "name": "KHealth",
@@ -60935,8 +60894,16 @@
       "*.earlywarning.com",
       "*.zelle.com",
       "*.zellepay.com",
+      "accountinfodirect-snd.earlywarning.com",
+      "accountinfodirect.earlywarning.com",
+      "aoa-ws-fis.earlywarning.com",
       "developer*.earlywarning.com",
       "ews-fusion.my.site.com",
+      "https://accountinfo.earlywarning.com",
+      "https://aoa-ws-direct-snd.earlywarning.com/aoainquiryservice/services/aoainquiryservice",
+      "https://aoa-ws-direct.earlywarning.com/aoainquiryservice/services/aoainquiryservice",
+      "https://aoa-ws.earlywarning.com/aoainquiryservice/services/aoainquiryservice",
+      "inquirydirect.earlywarning.com",
       "support*.earlywarning.com",
       "www.certos.com",
       "zelleservice.my.salesforce.com",
@@ -60962,7 +60929,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-21"
   },
   {
     "name": "Instacart",
@@ -65904,6 +65871,48 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "UZ Leuven",

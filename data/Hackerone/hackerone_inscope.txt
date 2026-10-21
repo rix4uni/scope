@@ -1984,8 +1984,16 @@ strapi.reddit.com
 *.earlywarning.com
 *.zelle.com
 *.zellepay.com
+accountinfodirect-snd.earlywarning.com
+accountinfodirect.earlywarning.com
+aoa-ws-fis.earlywarning.com
 developer*.earlywarning.com
 ews-fusion.my.site.com
+accountinfo.earlywarning.com
+aoa-ws-direct-snd.earlywarning.com
+aoa-ws-direct.earlywarning.com
+aoa-ws.earlywarning.com
+inquirydirect.earlywarning.com
 support*.earlywarning.com
 certos.com
 zelleservice.my.salesforce.com
