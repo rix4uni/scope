@@ -2301,6 +2301,7 @@ account.oportun.com
 az-tools-p01.oportun.com
 ccos-cc-5541.dev.pfops.com
 progressfinservices.com
+rewardredeem.oportun.com
 artifact-repository.oportun.com
 information.oportun.com
 jenkins.oportun.com
