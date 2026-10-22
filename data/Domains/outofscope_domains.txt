@@ -1929,7 +1929,7 @@ enterprise-status.instacart.com
 atlassian.com
 heyitsinstacart.com
 instacart.careers
-phpbb.com
+expediacruises.com
 equibase-store.fanduel.com
 appsflyer.com
 crashlytics.com
@@ -2220,6 +2220,7 @@ events.grammarly.com
 hello.superhuman.com
 events.superhuman.com
 engage.superhuman.com
+help.superhuman.com
 status.coda.io
 admincloud.oportun.com
 betaesxi.oportun.com
@@ -2892,6 +2893,14 @@ support.truelayer.com
 status.truelayer.com
 truelayer.zendesk.com
 elect.tweakers.net
+boekentoy.uzleuven.be
+uz-laboboeken.web.app
+laboboeken.uzleuven.be
+boekentoy.firebaseio.com
+uz-laboboeken.firebaseio.com
+jobs.uzleuven.be
+uzleuven.atlassian.net
+vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com

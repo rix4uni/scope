@@ -1564,7 +1564,9 @@ enterprise-status.instacart.com
 atlassian.com
 heyitsinstacart.com
 instacart.careers
-phpbb.com
+*.expediaagents.com
+*.expediacruises.com
+expediacruises.com
 *.fndl.dev
 equibase-store.fanduel.com
 appsflyer.com
@@ -1606,8 +1608,6 @@ pro.urbanclap.com
 dev*.urbanclap.com
 remitly.com
 *.egadvertising.com
-*.expediaagents.com
-*.expediacruises.com
 *.hoteis.com
 *.hoteles.com
 events.nutanix.com
@@ -1929,6 +1929,7 @@ events.grammarly.com
 hello.superhuman.com
 events.superhuman.com
 engage.superhuman.com
+help.superhuman.com
 status.coda.io
 admincloud.oportun.com
 betaesxi.oportun.com

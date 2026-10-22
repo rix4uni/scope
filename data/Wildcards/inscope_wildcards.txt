@@ -638,8 +638,6 @@ support*.earlywarning.com
 *.expedia-aarp.com
 *.expedia.biz
 *.expedia.com
-*.expediaagents.com
-*.expediacruises.com
 *.expediagroup.com
 *.expediapartnercentral.com
 *.expediapartnersolutions.com
@@ -1233,6 +1231,9 @@ sks-*.exo.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+*.kwsdose.be
+*.playuzleuven.be
+*.uzleuven.*
 *.optimuscards.com
 *.topperpay.com
 *.uphold.com
