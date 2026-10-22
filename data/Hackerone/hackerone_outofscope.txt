@@ -315,6 +315,8 @@ trust.hubspot.com
 support.1password.com
 1password.com
 *.zipbooks.com
+arc.net
+company.thebrowser.arc
 *.pgs.casino
 about.espnbet.com
 campaignmanager.thescore.com

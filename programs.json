@@ -5403,29 +5403,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Voi Scooters",
-    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "Voi – e-scooters & e-bikes",
-      "Voi – e-scooter & e-bike hire",
-      "https://api.voiapp.io/",
-      "mds.voiapp.io",
-      "fm.voiapp.io",
-      "https://repair.voiweb.net",
-      "report.voi.com",
-      "voi.com",
-      "*.voi.com",
-      "*.voiscooters.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Voi Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -17960,22 +17937,23 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
-      "Arc on Mac",
-      "Arc on Windows",
       "Dia Assistant",
       "Dia on MacOS",
       "Dia on Windows",
-      "arc.net",
       "bcny.com",
-      "company.thebrowser.arc",
       "diabrowser.com",
-      "id6472513080",
       "thebrowser.company"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "Arc on Mac",
+      "Arc on Windows",
+      "arc.net",
+      "company.thebrowser.arc",
+      "id6472513080"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Penn Entertainment",
@@ -65924,6 +65902,29 @@
       "www.h1.community",
       "www.hackeronestatus.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Voi Scooters",
+    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "Voi – e-scooters & e-bikes",
+      "Voi – e-scooter & e-bike hire",
+      "https://api.voiapp.io/",
+      "mds.voiapp.io",
+      "fm.voiapp.io",
+      "https://repair.voiweb.net",
+      "report.voi.com",
+      "voi.com",
+      "*.voi.com",
+      "*.voiscooters.com"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
