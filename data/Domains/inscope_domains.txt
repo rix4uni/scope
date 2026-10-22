@@ -1911,6 +1911,7 @@ dwy.visa.com
 ebctest.cybersource.com
 forms.cybersource.com
 myvisainfinite.com
+ebc2test.cybersource.com
 usa.visa.com
 visabg.com
 visa.co.nz
@@ -3222,6 +3223,8 @@ docs.databricks.com
 accounts.cloud.databricks.com
 databricks.com
 dbc-9a3f8ed1-7608.cloud.databricks.com
+login.databricks.com
+ui-assets.cloud.databricks.com
 slsa.dev
 buildkite.com
 classic.gs.de

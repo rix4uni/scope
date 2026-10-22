@@ -1,1 +1,3 @@
-api.enterprise.sandbox.uphold.com
+ebc2test.cybersource.com
+login.databricks.com
+ui-assets.cloud.databricks.com
