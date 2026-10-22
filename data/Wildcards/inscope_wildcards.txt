@@ -1234,7 +1234,6 @@ sks-*.exo.io
 *.kwsdose.be
 *.playuzleuven.be
 *.uzleuven.*
-*.optimuscards.com
 *.topperpay.com
 *.uphold.com
 *.vtm.be

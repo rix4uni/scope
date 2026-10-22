@@ -5101,6 +5101,62 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "UZ Leuven",
+    "program_url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "autodiscover.uzleuven.be",
+      "ecrf.uzleuven.be",
+      "extranet-asa.uzleuven.be",
+      "extranet.uzleuven.be",
+      "liquidfiles.uzleuven.be",
+      "mx1.uzleuven.be",
+      "mx2.uzleuven.be",
+      "pcrstudioruzb.uzleuven.be",
+      "prddsplunkhf.uzleuven.be",
+      "sts.uzleuven.be",
+      "www.uzleuven.be",
+      "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
+      "wp5-truststroke.uzleuven.be",
+      "cardsonline.azdiest.be",
+      "liquidfilestest.uzleuven.be",
+      "random.uzleuven.be/random/",
+      "teststs.uzleuven.be",
+      "w1.uzleuven.be",
+      "cardsonlinetst.azdiest.be",
+      "*.kwsdose.be",
+      "*.playuzleuven.be",
+      "*.uzleuven.*",
+      "*.contactallerg(y|ie).uzleuven.be",
+      "*.mir.uzleuven.be",
+      "*dev.uzleuven.be",
+      "*idp*.uzleuven.be",
+      "*stag*.uzleuven.be",
+      "files.uzleuven.be",
+      "kumulus.uzleuven.be",
+      "mijnacc.uzleuven.be",
+      "mirc.uzleuven.be",
+      "prddnighting01.uzleuven.be",
+      "w1.uzleuven.be/random",
+      "ziekenhuisschool.be"
+    ],
+    "outofscope_domains": [
+      "boekentoy.uzleuven.be",
+      "uz-laboboeken.web.app",
+      "laboboeken.uzleuven.be",
+      "boekentoy.firebaseio.com",
+      "uz-laboboeken.firebaseio.com",
+      "jobs.uzleuven.be",
+      "uzleuven.atlassian.net",
+      "vacatures.uzleuven.be"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Ubisoft Responsible Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -9143,7 +9199,6 @@
       "https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket?hosting=datacenter",
       "https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview",
-      "https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview",
       "https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter",
       "https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=datacenter&tab=overview",
@@ -9155,7 +9210,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Keeper Security Public Bounty Program",
@@ -60971,22 +61026,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "phpBB",
-    "program_url": "https://hackerone.com/phpbb",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "https://github.com/phpbb/phpbb"
-    ],
-    "outofscope_domains": [
-      "www.phpbb.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Ford",
     "program_url": "https://hackerone.com/ford",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -61041,8 +61080,6 @@
       "*.expedia-aarp.com",
       "*.expedia.biz",
       "*.expedia.com",
-      "*.expediaagents.com",
-      "*.expediacruises.com",
       "*.expediagroup.com",
       "*.expediapartnercentral.com",
       "*.expediapartnersolutions.com",
@@ -61096,7 +61133,6 @@
       "www.ebookers.fi",
       "www.expedia-aarp.com",
       "www.expedia.com",
-      "www.expediacruises.com",
       "www.expediagroup.com",
       "www.expediapartnercentral.com",
       "www.expediataap.com",
@@ -61114,10 +61150,14 @@
       "www.vrbo.com",
       "www.wotif.com"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "*.expediaagents.com",
+      "*.expediacruises.com",
+      "www.expediacruises.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-15"
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Front",
@@ -65877,6 +65917,22 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "phpBB",
+    "program_url": "https://hackerone.com/phpbb",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "https://github.com/phpbb/phpbb"
+    ],
+    "outofscope_domains": [
+      "www.phpbb.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "DataCamp",
     "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65917,62 +65973,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-09"
-  },
-  {
-    "name": "UZ Leuven",
-    "program_url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "autodiscover.uzleuven.be",
-      "ecrf.uzleuven.be",
-      "extranet-asa.uzleuven.be",
-      "extranet.uzleuven.be",
-      "liquidfiles.uzleuven.be",
-      "mx1.uzleuven.be",
-      "mx2.uzleuven.be",
-      "pcrstudioruzb.uzleuven.be",
-      "prddsplunkhf.uzleuven.be",
-      "sts.uzleuven.be",
-      "www.uzleuven.be",
-      "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
-      "wp5-truststroke.uzleuven.be",
-      "cardsonline.azdiest.be",
-      "liquidfilestest.uzleuven.be",
-      "random.uzleuven.be/random/",
-      "teststs.uzleuven.be",
-      "w1.uzleuven.be",
-      "cardsonlinetst.azdiest.be",
-      "*.kwsdose.be",
-      "*.playuzleuven.be",
-      "*.uzleuven.*",
-      "*.contactallerg(y|ie).uzleuven.be",
-      "*.mir.uzleuven.be",
-      "*dev.uzleuven.be",
-      "*idp*.uzleuven.be",
-      "*stag*.uzleuven.be",
-      "files.uzleuven.be",
-      "kumulus.uzleuven.be",
-      "mijnacc.uzleuven.be",
-      "mirc.uzleuven.be",
-      "prddnighting01.uzleuven.be",
-      "w1.uzleuven.be/random",
-      "ziekenhuisschool.be"
-    ],
-    "outofscope_domains": [
-      "boekentoy.uzleuven.be",
-      "uz-laboboeken.web.app",
-      "laboboeken.uzleuven.be",
-      "boekentoy.firebaseio.com",
-      "uz-laboboeken.firebaseio.com",
-      "jobs.uzleuven.be",
-      "uzleuven.atlassian.net",
-      "vacatures.uzleuven.be"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "PDQ bug bounty program",

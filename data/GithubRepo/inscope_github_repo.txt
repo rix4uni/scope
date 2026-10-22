@@ -198,3 +198,4 @@ https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/expressvpn/lightway
 https://github.com/expressvpn/wolfssl-rs
 https://github.com/Infomaniak/desktop-kDrive
+https://github.com/Infomaniak/desktop-kChat
