@@ -4318,6 +4318,7 @@ be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 mynexuz.be
 liquidfiles.nexuzhealth.com
+idp-url.nexuzhealth.be
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 associatie.kuleuven.be
