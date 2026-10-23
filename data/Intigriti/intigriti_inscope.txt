@@ -716,15 +716,6 @@ business.rivian.com
 rivian.com
 *.rivian.com
 basecamp.rivian.com
-*.swisspass.ch
-sbb.ch
-*.sbb.ch
-elvetino.ch
-*elvetino.ch
-sbbcargo.com
-*sbbcargo.com
-transsicura.ch
-*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com

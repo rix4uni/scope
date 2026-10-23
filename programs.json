@@ -4482,32 +4482,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "SBB - Swiss Federal Railways",
-    "program_url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6666",
-    "inscope_domains": [
-      " Mobile Apps",
-      "*.swisspass.ch",
-      "www.sbb.ch",
-      "*.sbb.ch",
-      "Mobile Apps",
-      "www.elvetino.ch",
-      "*elvetino.ch",
-      "www.sbbcargo.com",
-      "*sbbcargo.com",
-      "www.transsicura.ch",
-      "*transsicura.ch",
-      "All other Web and mobile APPs owned by SBB ",
-      "All other SBB owned IT assets"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Salto Vulnerability Disclosure ",
     "program_url": "https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65906,6 +65880,32 @@
       "www.h1.community",
       "www.hackeronestatus.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "SBB - Swiss Federal Railways",
+    "program_url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6666",
+    "inscope_domains": [
+      " Mobile Apps",
+      "*.swisspass.ch",
+      "www.sbb.ch",
+      "*.sbb.ch",
+      "Mobile Apps",
+      "www.elvetino.ch",
+      "*elvetino.ch",
+      "www.sbbcargo.com",
+      "*sbbcargo.com",
+      "www.transsicura.ch",
+      "*transsicura.ch",
+      "All other Web and mobile APPs owned by SBB ",
+      "All other SBB owned IT assets"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"

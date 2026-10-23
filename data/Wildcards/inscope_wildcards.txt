@@ -1161,11 +1161,6 @@ sks-*.exo.io
 *.randstadrisesmart.*
 *.risesmart.*
 *.rivian.com
-*.swisspass.ch
-*.sbb.ch
-*elvetino.ch
-*sbbcargo.com
-*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
