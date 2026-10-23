@@ -1465,7 +1465,7 @@
     "program_url": "https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
     "platform": "YesWeHack",
-    "reward": "$7000",
+    "reward": "$3500",
     "inscope_domains": [
       "https://thueringer-foerderportal.eu",
       "https://login.aufbaubank.de"
@@ -1476,7 +1476,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-23"
   },
   {
     "name": "VFS Global Bug Bounty Program",
@@ -2318,6 +2318,24 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Coke One North America",
+    "program_url": "https://www.intigriti.com/programs/tccc/cokeonenorthamerica/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$0",
+    "inscope_domains": [
+      "myCoke - iOS",
+      "myCoke - Android",
+      "*.c1nacloud.com",
+      "*.cokeonena.com",
+      "*.conaservices.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-23"
   },
   {
     "name": "Cross Border Fines",
@@ -3961,13 +3979,14 @@
     "platform": "Intigriti",
     "reward": "€1000",
     "inscope_domains": [
+      "idp-url.nexuzhealth.be",
       " idp-contact.nexuzhealth.be",
       "media.nexuzhealth.be/patient/ "
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-23"
   },
   {
     "name": "NxtPort VDP",
@@ -64035,6 +64054,7 @@
       "GlotPress",
       "Gutenberg",
       "Official WordPress plugins",
+      "Other github.com/wordpress repos",
       "Playground",
       "SQLite Database Integration",
       "Secure Custom Fields",
@@ -64044,7 +64064,6 @@
       "bbPress Core",
       "codex.wordpress.org,codex.bbpress.org,codex.buddypress.org",
       "doaction.org",
-      "github.com/wordpress",
       "mercantile.wordpress.org",
       "planet.wordpress.org",
       "wordpressfoundation.org"
@@ -64063,7 +64082,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-23"
   },
   {
     "name": "Nextcloud",

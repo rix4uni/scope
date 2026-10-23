@@ -11682,13 +11682,12 @@
     "platform": "Bugcrowd",
     "reward": "$1500",
     "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1223409/raley-purchase-orders?hosting=cloud&tab=overview"
+      "https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-23"
   },
   {
     "name": "Rapyd",
@@ -45123,6 +45122,7 @@
       "edl-prod-databricks-internal-api.ae-databricks2-prod-vpn5.us.e18.c01.johndeerecloud.com",
       "edl.services.wirtgen-group.com",
       "edo-producttaxonomy.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com",
+      "eetd-pdf.deere.com",
       "elink.surefireag.com",
       "email.bearflagrobotics.com",
       "email.bluerivert.com",
@@ -46678,7 +46678,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-22"
+    "last_updated": "2026-10-23"
   },
   {
     "name": "Trendyol",
@@ -63600,6 +63600,24 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Rocket.Chat",
+    "program_url": "https://hackerone.com/rocket_chat",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "cloud.rocket.chat",
+      "https://github.com/RocketChat/Rocket.Chat",
+      "https://github.com/RocketChat/Rocket.Chat.Electron",
+      "https://github.com/RocketChat/Rocket.Chat.ReactNative",
+      "rocket.chat"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-23"
   },
   {
     "name": "Weblate",
