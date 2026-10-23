@@ -934,6 +934,7 @@ api.supabase.com
 ctf.supabase.com
 supabase.dev
 supabase.productions
+supabase.store
 supabase.sh
 advisoryworld.com
 issue-management.iontrading.com

@@ -1161,6 +1161,11 @@ sks-*.exo.io
 *.randstadrisesmart.*
 *.risesmart.*
 *.rivian.com
+*.swisspass.ch
+*.sbb.ch
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
@@ -5796,6 +5801,10 @@ lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
+sbb.ch
+elvetino.ch
+sbbcargo.com
+transsicura.ch
 cz.skodaauto.myskoda
 socialdeal.nl
 spontaan.nl
