@@ -22796,6 +22796,7 @@
       "ebctest.cybersource.com",
       "forms.cybersource.com",
       "http://myvisainfinite.com/suntrust/en_us/home.html",
+      "https://ebc2test.cybersource.com/settings",
       "https://ebctest.cybersource.com/CGK2",
       "https://ebctest.cybersource.com/bin",
       "https://ebctest.cybersource.com/boarding/v1/registrations",
@@ -22948,7 +22949,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-09"
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Brightspeed",
@@ -45494,6 +45495,7 @@
       "licensemanager.deere.com",
       "link.services.wirtgen-group.com",
       "links.help.agrisync.com",
+      "linksp.jdiberica.deere.com",
       "lists.wirtgenankara.com.tr",
       "lms-backend.apps-devl-vpn.us.e06.c01.johndeerecloud.com",
       "lms-backend.apps-prod-vpn.us.e06.c01.johndeerecloud.com",
@@ -46658,7 +46660,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-21"
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Trendyol",
@@ -62560,7 +62562,9 @@
       "Open Scope",
       "accounts.cloud.databricks.com",
       "databricks.com",
-      "https://dbc-9a3f8ed1-7608.cloud.databricks.com"
+      "https://dbc-9a3f8ed1-7608.cloud.databricks.com",
+      "login.databricks.com",
+      "ui-assets.cloud.databricks.com"
     ],
     "outofscope_domains": [
       "*.azuredatabricks.net",
@@ -62569,7 +62573,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-22"
   },
   {
     "name": "Coalition, Inc.",

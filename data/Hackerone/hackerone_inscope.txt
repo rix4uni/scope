@@ -1320,6 +1320,7 @@ client-api.arkoselabs.com
 customer-sessions.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
+developer.arkoselabs.com
 portal.arkoselabs.com
 verify.arkoselabs.com
 arkoselabs.com
