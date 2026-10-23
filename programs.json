@@ -62735,9 +62735,7 @@
       "GS Select iOS app",
       "apigw.foliofn.com",
       "com.gs.gsnow.external",
-      "com.gs.gstrader.external",
       "com.gs.mobile.gsnow",
-      "com.gs.mobile.trader",
       "com.gs.pfmg.wellness",
       "com.gs.pwmdigital.external",
       "com.gs.pwmdigital.external.android",
@@ -62774,7 +62772,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-13"
+    "last_updated": "2026-10-23"
   },
   {
     "name": "Yoti",

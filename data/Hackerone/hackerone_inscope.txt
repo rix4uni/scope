@@ -2655,6 +2655,7 @@ classic.gs.de
 *.honestdollar.com
 *.marcus.co.uk
 *.marcus.com
+*.e.e.marcus.com
 *.nextcapital.com
 gs.com
 *.nnip.com

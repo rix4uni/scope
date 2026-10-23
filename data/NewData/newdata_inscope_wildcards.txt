@@ -1,5 +1,1 @@
-*.swisspass.ch
-*.sbb.ch
-*elvetino.ch
-*sbbcargo.com
-*transsicura.ch
+*.e.e.marcus.com
