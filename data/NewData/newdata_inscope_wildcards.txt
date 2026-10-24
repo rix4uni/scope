@@ -1,1 +1,2 @@
-*.e.e.marcus.com
+*.truelayer.cloud
+*.truelayer.io

@@ -1222,7 +1222,9 @@ sks-*.exo.io
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net
@@ -1233,8 +1235,6 @@ sks-*.exo.io
 *.kwsdose.be
 *.playuzleuven.be
 *.uzleuven.*
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.deliciousbrains.com
