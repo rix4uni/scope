@@ -467,7 +467,6 @@ cst2-*-*.cust.vodafone.cz
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
-*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com
@@ -629,9 +628,6 @@ scaledsolutions*.uber.com
 *.polishmywriting.com
 *.scrollkit.com
 status.*.coinbase.com
-*.concrete5.org
-*.concretecms.com
-*.concretecms.org
 *.glitchthegame.com
 e.g.*.slackhq.com
 *.rubyonrails.org
@@ -3452,9 +3448,6 @@ try.pressable.com
 my.pressable.com
 pressable.com
 status.coinbase.com
-concrete5.org
-concretecms.com
-concretecms.org
 slackhq.com
 status.slack.com
 go.hacker.one

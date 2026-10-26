@@ -1510,7 +1510,6 @@ clec.att.com
 prod-taxexempt.att.com
 rcloud.social
 thedirectvmarketingzone.com
-*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 community.dynatrace.com
@@ -2493,12 +2492,6 @@ my.pressable.com
 pressable.com
 status.*.coinbase.com
 status.coinbase.com
-*.concrete5.org
-concrete5.org
-*.concretecms.com
-concretecms.com
-*.concretecms.org
-concretecms.org
 *.glitchthegame.com
 slackhq.com
 e.g.*.slackhq.com

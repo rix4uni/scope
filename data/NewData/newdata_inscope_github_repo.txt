@@ -1,1 +1,1 @@
-https://github.com/Infomaniak/desktop-kChat
+https://github.com/brave/*,
