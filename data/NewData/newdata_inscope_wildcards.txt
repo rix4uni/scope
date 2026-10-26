@@ -1,2 +1,5 @@
-*.truelayer.cloud
-*.truelayer.io
+*.datacamp.com
+*.topperpay.com
+*.uphold.com
+*.voi.com
+*.voiscooters.com
