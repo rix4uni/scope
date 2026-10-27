@@ -917,6 +917,7 @@ dwy.visa.com
 ebctest.cybersource.com
 forms.cybersource.com
 myvisainfinite.com
+test.payworks.io
 ebc2test.cybersource.com
 usa.visa.com
 visabg.com
@@ -935,7 +936,6 @@ sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sap.api-xperience.com
 survey.visa.com
-test.payworks.io
 testbank.xs2a.com
 vasdemos.visa.com
 vgov.catalogue.digitalcontrolroom.com
@@ -3139,6 +3139,8 @@ mobile.clearme.com
 my.clearme.com
 scan.clearme.com
 web-edge.clearme.com
+moneybird.com
+moneybirdstorage.com
 udemy.com
 yourcompany.udemy.com
 *.kayak.com
@@ -3400,6 +3402,7 @@ blog.cloudflare.com
 api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
+php-rce.cloudflare.app
 one.dash.cloudflare.com
 *.srvcs.tumblr.com
 *.tumblr.com

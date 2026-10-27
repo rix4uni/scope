@@ -233,6 +233,8 @@ exoscale.com
 community.exoscale.com
 service.fing.com
 app.fing.com
+over.fluvius.be
+fluvius.be
 *.gulp.ch
 *.gulp.de
 demo.tendertracker.de
@@ -614,10 +616,10 @@ api.personio-dev.com
 api.personio.com
 *.personio.de
 *.personiowhistleblowing.com
-community.personio.com
 hug.personio.com
 personio.de
 personio.com
+community.personio.com
 login-test.portofantwerpbruges.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
@@ -759,13 +761,6 @@ spontaan.nl
 app.nl.socialdeal
 whynot.com
 solarwinds.com
-soundtrack.io
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-auth.api.soundtrackyourbrand.com
-radio.api.soundtrackyourbrand.com
 *.app.spacelift.dev
 app.spacelift.dev
 spacelift.dev
@@ -1060,8 +1055,6 @@ data.mail.yahoo.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 yimg.com
-hub.vznkul.be
-hubacc.vznkul.be
 *.pwn.intigriti.rocks
 intigriti.com
 *.intigriti.me
