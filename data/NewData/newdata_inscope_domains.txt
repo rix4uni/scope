@@ -1,5 +1,2 @@
-moneybird.com
-moneybirdstorage.com
-php-rce.cloudflare.app
-over.fluvius.be
-fluvius.be
+hub.vznkul.be
+hubacc.vznkul.be

@@ -775,6 +775,7 @@ support.moonpay.com
 *.line-of-credit.koho.ca
 bot.cadburygifting.in
 cadburygifting.in
+api-an.capitalone.com
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
 enterpriseregistration.apnic.net
@@ -2468,6 +2469,7 @@ examples.realtime.cloudflare.com
 files.plugins.realtime.cloudflare.com
 saffron.git
 playground.ai.cloudflare.com
+vibecoder.cloudflare.dev
 react-examples.realtime.cloudflare.com
 support.cloudflare.com
 support.cloudflarewarp.com

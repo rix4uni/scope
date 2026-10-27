@@ -5784,6 +5784,27 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "eHealth Hub VZN KUL",
+    "program_url": "https://www.intigriti.com/programs/uz%20leuven/ehealthhub%26meta-hubvznkul/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "hub.vznkul.be/* ",
+      "hub.vznkul.be/services/interhub/InterHubService",
+      "hub.vznkul.be/services/intrahub/IntraHubService",
+      "hubacc.vznkul.be/*",
+      "hubacc.vznkul.be/services/acceptance/interhub/InterHubService",
+      "hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService"
+    ],
+    "outofscope_domains": [
+      "www.vznkul.be"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "intigriti",
     "program_url": "https://www.intigriti.com/programs/intigriti/intigriti/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -8826,19 +8847,12 @@
     "platform": "Bugcrowd",
     "reward": "$2500",
     "inscope_domains": [
-      "https://*.imperva.com",
-      "https://www.cloudvector.com/",
-      "https://*.incapsula.com",
-      "https://supportportal.thalesgroup.com",
-      "PTaaS Reference"
+      "https://bugcrowd.com/engagements/imperva-mbb"
     ],
-    "outofscope_domains": [
-      "http://docs.imperva.com/",
-      "http://docs-be.imperva.com/"
-    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-27"
   },
   {
     "name": "Indeed",
@@ -9879,7 +9893,6 @@
       "https://www.mastercard.com.au/en-au.html",
       "https://www.mastercard.nl/nl-nl.html",
       "https://developer.mastercard.com",
-      "https://donate.mastercard.com",
       "https://demo.priceless.com/",
       "https://priceless.com/golf/",
       "https://performancemarketing.mastercard.com/portal/",
@@ -9899,7 +9912,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-27"
   },
   {
     "name": "MATLAB Online - Ongoing Bug Bounty Engagement",
@@ -14047,6 +14060,33 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "XP Inc Vulnerability Disclosure",
+    "program_url": "https://hackerone.com/xp_inc_vdp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "clear.com.br",
+      "expertxp.com.br",
+      "https://apps.apple.com/br/app/clear/id6447694643",
+      "https://apps.apple.com/br/app/xp-empresas-conta-pj/id1566254578",
+      "https://apps.apple.com/br/app/xp-investimentos/id1300713021",
+      "https://play.google.com/store/apps/details?id=br.com.xp.carteira",
+      "https://play.google.com/store/apps/details?id=br.com.xpinc.clear.app.android",
+      "https://play.google.com/store/apps/details?id=br.com.xpinc.xpempresas",
+      "infomoney.com.br",
+      "modalmais.com.br",
+      "rico.com.vc",
+      "xpeducacao.com.br",
+      "xpempresas.com.br",
+      "xpi.com.br"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-27"
   },
   {
     "name": "Nebius AI Vulnerability Disclosure",
@@ -32775,10 +32815,13 @@
       "com.konylabs.capitalone",
       "com.wikibuy.prod.main"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "http://api-an.capitalone.com/private/907765/digital-intake/",
+      "http://api-an.capitalone.com/private​/1289118​/sdu​/submit-documents"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-27"
   },
   {
     "name": "APNIC",
@@ -33137,6 +33180,7 @@
       "*.zurich.com.ar",
       "*.zurich.com.au",
       "*.zurich.com.br",
+      "*.zurich.com.cn",
       "*.zurich.com.hk",
       "*.zurich.com.my",
       "*.zurich.com.sg",
@@ -33154,7 +33198,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-27"
   },
   {
     "name": "Krisp",
@@ -44874,6 +44918,7 @@
       "auth.dev.myvirtualsuper.com",
       "auth.kreisel-cloud.com",
       "auth.myvirtualsuper.com",
+      "auth.node.kreisel-cloud.com",
       "auth.prod.myvirtualsuper.com",
       "auth.spark.ai",
       "auth.voegele.info",
@@ -44956,6 +45001,7 @@
       "ccmscert.deere.com",
       "ccmssearch-mfe-ext.apps-prod-vpn.us.e06.c01.johndeerecloud.com",
       "ccmssearchspa.apps-prod-vpn.us.e06.c01.johndeerecloud.com",
+      "ccshignition.mfg-mfgiot-prod-vpn.us.e11.c01.johndeerecloud.com",
       "cdp.services.wirtgen-group.com",
       "cert.harvestprofit.com",
       "cert.myvirtualsuper.com",
@@ -46707,7 +46753,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-26"
+    "last_updated": "2026-10-27"
   },
   {
     "name": "Trendyol",
@@ -65691,8 +65737,10 @@
       "https://github.com/cloudflare/saffron.git",
       "https://github.com/cloudflare/security-audit-skill",
       "https://github.com/cloudflare/templates",
+      "https://github.com/cloudflare/vibesdk",
       "https://github.com/cloudflare/vinext-private",
       "https://playground.ai.cloudflare.com/",
+      "https://vibecoder.cloudflare.dev/",
       "react-examples.realtime.cloudflare.com",
       "support.cloudflare.com",
       "support.cloudflarewarp.com",
@@ -65946,27 +65994,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-27"
-  },
-  {
-    "name": "eHealth Hub VZN KUL",
-    "program_url": "https://www.intigriti.com/programs/uz%20leuven/ehealthhub%26meta-hubvznkul/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "hub.vznkul.be/* ",
-      "hub.vznkul.be/services/interhub/InterHubService",
-      "hub.vznkul.be/services/intrahub/IntraHubService",
-      "hubacc.vznkul.be/*",
-      "hubacc.vznkul.be/services/acceptance/interhub/InterHubService",
-      "hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService"
-    ],
-    "outofscope_domains": [
-      "www.vznkul.be"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "DataCamp",

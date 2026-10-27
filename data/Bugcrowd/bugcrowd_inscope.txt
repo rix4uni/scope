@@ -352,11 +352,6 @@ hub.immutable.com
 play.immutable.com
 api.immutable.com
 api.x.immutable.com
-*.imperva.com
-cloudvector.com
-*.cloudvector.com
-*.incapsula.com
-supportportal.thalesgroup.com
 indeed.com
 *.indeed.com
 *.indeedflex.com
@@ -641,7 +636,6 @@ mastercard.ch
 mastercard.com.au
 mastercard.nl
 developer.mastercard.com
-donate.mastercard.com
 demo.priceless.com
 priceless.com
 performancemarketing.mastercard.com

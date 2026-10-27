@@ -95,9 +95,6 @@ casino.*.betmgm.com
 *.zoop.ws
 *.minhaconta.zoop.com.br
 *.dash.zoop.com.br
-*.imperva.com
-*.cloudvector.com
-*.incapsula.com
 *.indeed.com
 *.indeedflex.com
 *.indeed.tech

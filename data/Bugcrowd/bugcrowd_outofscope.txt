@@ -261,8 +261,6 @@ godsunchained.com
 *.ropsten.x.immutable.com
 ropsten.imx.community
 *.guildofguardians.com
-docs.imperva.com
-docs-be.imperva.com
 powerpak.com
 medjobnetwork.com
 checkout.webmd.com
