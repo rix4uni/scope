@@ -1058,7 +1058,6 @@ devdegree*.shopifycloud.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1091,6 +1090,14 @@ sks-*.exo.io
 *.internal.exoscale.ch
 *.gulp.ch
 *.gulp.de
+*.data.api.platform.here.com
+*.metrics.platform.here.com
+*.platform.here.com
+*.router.hereapi.com
+*.subp-router.hereapi.com
+*.hereapi.com
+*.scbe.api.here.com
+*.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
