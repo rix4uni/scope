@@ -255,6 +255,9 @@ hub.immutable.com
 play.immutable.com
 api.immutable.com
 api.x.immutable.com
+cpl.thalesgroup.com
+imperva.com
+supportportal.thalesgroup.com
 indeed.com
 apis.indeed.com
 resume.com
@@ -576,6 +579,7 @@ download-browser-plugin.htm
 pentest-app.onetrust.com
 api.openai.com
 chat.openai.com
+chatgpt.com
 openai.org
 openai.com
 platform.openai.com

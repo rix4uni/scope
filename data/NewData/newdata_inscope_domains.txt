@@ -1,2 +1,4 @@
-hub.vznkul.be
-hubacc.vznkul.be
+cpl.thalesgroup.com
+imperva.com
+supportportal.thalesgroup.com
+chatgpt.com
