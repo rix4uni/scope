@@ -1,4 +1,12 @@
-cpl.thalesgroup.com
-imperva.com
-supportportal.thalesgroup.com
-chatgpt.com
+api.coinmarketcap.com
+pro-api.coinmarketcap.com
+binance.com
+api.binance.com
+pro.coinmarketcap.com
+portal-api.coinmarketcap.com
+coinmarketcap.com
+3rdparty-apis.coinmarketcap.com
+binance.us
+binance.tr
+binance.th
+mcp-staging.getmoneytree.com
