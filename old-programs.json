@@ -5863,29 +5863,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "CoinDesk Data - Data API ",
-    "program_url": "https://bugcrowd.com/engagements/CCData-mbb-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$7500",
-    "inscope_domains": [
-      "http://data-api.coindesk.com/",
-      "https://tools-api.cryptocompare.com/"
-    ],
-    "outofscope_domains": [
-      "https://www.coindesk.com/",
-      "https://uat.coindesk.com/",
-      "https://events.coindesk.com",
-      "https://consensus2025.coindesk.com/",
-      "https://consensus-hongkong2025.coindesk.com/",
-      "https://data.coindesk.com/",
-      "https://developers.coindesk.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "FindOut InfoVis AB - Marketplace Bug Bounty Program",
     "program_url": "https://bugcrowd.com/engagements/FindOut-infovis",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -6742,6 +6719,51 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Binance",
+    "program_url": "https://bugcrowd.com/engagements/binance",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$10000",
+    "inscope_domains": [
+      "api.coinmarketcap.com",
+      "pro-api.coinmarketcap.com",
+      "https://www.binance.com/",
+      "Binance Desktop Application",
+      "Binance Mobile Application for Android",
+      "Binance Mobile Application for iOS",
+      "api.binance.com",
+      "Binance macOS Application",
+      "pro.coinmarketcap.com",
+      "CoinMarketCap Android app",
+      "Trustwallet Android App",
+      "Trustwallet iOS App",
+      "https://github.com/trustwallet/wallet-core/",
+      "CoinMarketCap iOS app",
+      "portal-api.coinmarketcap.com",
+      "coinmarketcap.com",
+      "3rdparty-apis.coinmarketcap.com",
+      "https://www.binance.us/",
+      "https://binance.tr",
+      "Trustwallet Chrome Extension",
+      "https://binance.th/"
+    ],
+    "outofscope_domains": [
+      "jobs.coinmarketcap.com",
+      "support.binance.*",
+      "binance.sg",
+      "*.trustwallet.com",
+      "*.trustwalletapp.com",
+      "*.binance.org",
+      "blog.coinmarketcap.com",
+      "support.coinmarketcap.com",
+      "blockchain.coinmarketcap.com",
+      "*.coinmarketcap.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-21"
   },
   {
     "name": "Bitdefender",
@@ -10118,7 +10140,8 @@
       "https://business-staging.getmoneytree.com/",
       "https://jp-api-staging.getmoneytree.com",
       "https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US",
-      "https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189"
+      "https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189",
+      "https://mcp-staging.getmoneytree.com/"
     ],
     "outofscope_domains": [
       "moneytree.jp",
@@ -10127,7 +10150,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Moovit Managed Bug Bounty Program",
@@ -65957,51 +65980,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Binance",
-    "program_url": "https://bugcrowd.com/engagements/binance",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$10000",
-    "inscope_domains": [
-      "api.coinmarketcap.com",
-      "pro-api.coinmarketcap.com",
-      "https://www.binance.com/",
-      "Binance Desktop Application",
-      "Binance Mobile Application for Android",
-      "Binance Mobile Application for iOS",
-      "api.binance.com",
-      "Binance macOS Application",
-      "pro.coinmarketcap.com",
-      "CoinMarketCap Android app",
-      "Trustwallet Android App",
-      "Trustwallet iOS App",
-      "https://github.com/trustwallet/wallet-core/",
-      "CoinMarketCap iOS app",
-      "portal-api.coinmarketcap.com",
-      "coinmarketcap.com",
-      "3rdparty-apis.coinmarketcap.com",
-      "https://www.binance.us/",
-      "https://binance.tr",
-      "Trustwallet Chrome Extension",
-      "https://binance.th/"
-    ],
-    "outofscope_domains": [
-      "jobs.coinmarketcap.com",
-      "support.binance.*",
-      "binance.sg",
-      "*.trustwallet.com",
-      "*.trustwalletapp.com",
-      "*.binance.org",
-      "blog.coinmarketcap.com",
-      "support.coinmarketcap.com",
-      "blockchain.coinmarketcap.com",
-      "*.coinmarketcap.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-21"
   },
   {
     "name": "Imperva - Thales Bug Bounty",

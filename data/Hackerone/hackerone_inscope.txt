@@ -3408,7 +3408,6 @@ one.dash.cloudflare.com
 *.tumblr.com
 crowdsignal.com
 jetpack.com
-texts.com
 wp.cloud
 akismet.com
 api.tumblr.com

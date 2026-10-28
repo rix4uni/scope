@@ -1008,7 +1008,7 @@
       "https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de",
       "https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644",
       "https://www.lascana.de/",
-      "https://teleoptiprd.otto.de",
+      "https://www.teleoptiprd.otto.de",
       "https://mmp.otto.de",
       "https://orbidder.otto.de",
       "https://supplier-connect.otto.de",
@@ -1035,7 +1035,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-28"
   },
   {
     "name": "OVHcloud",
@@ -1999,6 +1999,20 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "BRP Challenge",
+    "program_url": "https://www.intigriti.com/programs/intigriti/challengebrp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "https://challenge-brp.challenges.intigriti.io"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Bitvavo VDP",
@@ -2978,42 +2992,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Here Technologies",
-    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "HERE WeGo iOS",
-      "HERE WeGo Android",
-      "registry.service.api.platform.here.com",
-      "*.data.api.platform.here.com",
-      "*.metrics.platform.here.com",
-      "*.platform.here.com",
-      "search.hereapi.com",
-      "transit.hereapi.com",
-      "vector.hereapi.com",
-      "mobilitygraph.hereapi.com",
-      "*.router.hereapi.com",
-      "*.subp-router.hereapi.com",
-      "*.hereapi.com",
-      "account.api.here.com",
-      "account.here.com",
-      "listing.here.com",
-      "mapcreator.here.com",
-      "xyz.api.here.com",
-      "*.scbe.api.here.com",
-      "*.here.com",
-      "Leaked/Compromised Employee Credentials",
-      "Leaked Service Credentials",
-      "All other related services owned by HERE"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
   },
   {
     "name": "Het Laatste Nieuws",
@@ -5303,32 +5281,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Visma",
-    "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€7500",
-    "inscope_domains": [
-      "564141518",
-      "accountsettings.connect.identity.stagaws.visma.com",
-      "admin.stage.vismaonline.com",
-      "aiassistant.stage.vismaonline.com",
-      "com.visma.blue",
-      "connect.identity.stagaws.visma.com",
-      "eaccounting.stage.vismaonline.com",
-      "eaccountingprinting.stage.vismaonline.com",
-      "identity.stage.vismaonline.com",
-      "myservices-api.stage.vismaonline.com",
-      "myservices.stage.vismaonline.com",
-      "oauth.developers.stagaws.visma.com",
-      "photoservice.stage.vismaonline.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-19"
-  },
-  {
     "name": "Visma Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5364,29 +5316,6 @@
       "https://vlerick.myshopify.com/",
       "https://webform.vlerick.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Voi Scooters",
-    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "Voi – e-scooters & e-bikes",
-      "Voi – e-scooter & e-bike hire",
-      "https://api.voiapp.io/",
-      "mds.voiapp.io",
-      "fm.voiapp.io",
-      "https://repair.voiweb.net",
-      "report.voi.com",
-      "voi.com",
-      "*.voi.com",
-      "*.voiscooters.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -5478,31 +5407,44 @@
     "platform": "Intigriti",
     "reward": "€5000",
     "inscope_domains": [
-      "https://desktop.water-link.be/",
-      "https://pit.water-link.be/",
-      "*.water-link.be/",
+      "desktop.water-link.be",
+      "pit.water-link.be",
+      "*.aww.be",
+      "*.water-link.be",
+      "indussiibis.water-link.be",
+      "water-link-jaarverslag.be",
       "*.mijnwater-link.be",
-      "https://www.water-link-jaarverslag.be",
-      "https://www.water-link.be",
-      "https://www.waterstoring.be/"
+      "aquawardsspatial.water-link.be",
+      "aquawardsoperate.water-link.be",
+      "waterkracht-levering.be",
+      "induss.eu",
+      "rio-link.be",
+      "water-kracht-levering.eu",
+      "adelta.be",
+      "waterkracht-levering.eu",
+      "aww.eu",
+      "waterlink.be",
+      "water-kracht-levering.be",
+      "waterstoringen.be"
     ],
     "outofscope_domains": [
-      "aquawardsspatial.water-link.be",
-      "gisacc(*).water-link.be",
-      "https://aquawardsoperate.water-link.be/",
-      "https://aquawardsoperateacc.water-link.be",
-      "https://feedback.water-link.be",
-      "https://gis.water-link.be",
-      "https://gis1.water-link.be",
-      "https://gis2.water-link.be",
-      "https://jobs.water-link.be",
+      "waterwise.be",
+      "peppol-a.water-link.be",
+      "aquawise.be",
+      "oxum.be",
+      "peppol-t.water-link.be",
       "storingvideo-t.water-link.be",
-      "https://wl_acc.water-link.be/",
-      "https://wl_dev.water-link.be/"
+      "wl_dev.water-link.be",
+      "wl_acc.water-link.be",
+      "aquawardsoperateacc.water-link.be",
+      "gisacc(*).water-link.be",
+      "secrets.water-link.be",
+      "feedback.water-link.be",
+      "jobs.water-link.be"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Water-Link VDP",
@@ -5511,15 +5453,14 @@
     "platform": "Intigriti",
     "reward": "€0",
     "inscope_domains": [
-      "*.water-link.be/",
+      "*.water-link.be",
       "*.aww.be",
-      "https://www.waterstoring.be/",
-      "https://www.water-link-jaarverslag.be"
+      "water-link-jaarverslag.be"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Watsons",
@@ -9691,26 +9632,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Luno Bug Bounty Program",
-    "program_url": "https://bugcrowd.com/engagements/luno-og",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$7500",
-    "inscope_domains": [
-      "https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet",
-      "https://apps.apple.com/app/bitx-wallet/id927362479",
-      "https://mobileapi.staging.luno.com/",
-      "https://staging.luno.com/",
-      "https://staging.luno.com.ng",
-      "https://api.staging.luno.com/",
-      "https://app.staging.luno.com/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Majid Al Futtaim Lifestyle",
     "program_url": "https://bugcrowd.com/engagements/maffashion",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -9729,14 +9650,15 @@
       "https://www.shiseido.me/",
       "lego.me",
       "psychobunny.me",
-      "fashion4less.me"
+      "fashion4less.me",
+      "https://www.pacsun.me/"
     ],
     "outofscope_domains": [
       "www.americangirlmena.com"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Magic Apps Marketplace Bug Bounty",
@@ -65774,7 +65696,6 @@
       "Beeper",
       "Crowdsignal",
       "Jetpack",
-      "Texts",
       "WP Cloud",
       "WooCommerce",
       "WordPress Plugins & Themes",
@@ -65817,7 +65738,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Khan Academy",
@@ -65977,6 +65898,111 @@
       "www.h1.community",
       "www.hackeronestatus.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Here Technologies",
+    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
+      "*.router.hereapi.com",
+      "*.subp-router.hereapi.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "xyz.api.here.com",
+      "*.scbe.api.here.com",
+      "*.here.com",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
+  },
+  {
+    "name": "Visma",
+    "program_url": "https://www.intigriti.com/programs/visma/visma/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€7500",
+    "inscope_domains": [
+      "564141518",
+      "accountsettings.connect.identity.stagaws.visma.com",
+      "admin.stage.vismaonline.com",
+      "aiassistant.stage.vismaonline.com",
+      "com.visma.blue",
+      "connect.identity.stagaws.visma.com",
+      "eaccounting.stage.vismaonline.com",
+      "eaccountingprinting.stage.vismaonline.com",
+      "identity.stage.vismaonline.com",
+      "myservices-api.stage.vismaonline.com",
+      "myservices.stage.vismaonline.com",
+      "oauth.developers.stagaws.visma.com",
+      "photoservice.stage.vismaonline.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-19"
+  },
+  {
+    "name": "Voi Scooters",
+    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "Voi – e-scooters & e-bikes",
+      "Voi – e-scooter & e-bike hire",
+      "https://api.voiapp.io/",
+      "mds.voiapp.io",
+      "fm.voiapp.io",
+      "https://repair.voiweb.net",
+      "report.voi.com",
+      "voi.com",
+      "*.voi.com",
+      "*.voiscooters.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Luno Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/luno-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$7500",
+    "inscope_domains": [
+      "https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet",
+      "https://apps.apple.com/app/bitx-wallet/id927362479",
+      "https://mobileapi.staging.luno.com/",
+      "https://staging.luno.com/",
+      "https://staging.luno.com.ng",
+      "https://api.staging.luno.com/",
+      "https://app.staging.luno.com/"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"

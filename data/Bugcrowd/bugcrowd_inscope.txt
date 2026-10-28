@@ -592,13 +592,6 @@ lululemon.co.jp
 lululemon.co.kr
 lululemon.co.nz
 lululemon.co.uk
-mobileapi.staging.luno.com
-staging.luno.com
-*.staging.luno.com
-staging.luno.com.ng
-*staging.luno.com.ng
-api.staging.luno.com
-app.staging.luno.com
 crateandbarrel.me
 api-prod.thatconceptstore.com
 thatconceptstore.com
@@ -610,6 +603,7 @@ shiseido.me
 lego.me
 psychobunny.me
 fashion4less.me
+pacsun.me
 app.magicestimations.com
 sharerewards.com
 vtcprodapi.maf.ae
