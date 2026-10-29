@@ -2320,6 +2320,24 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Coke One North America",
+    "program_url": "https://www.intigriti.com/programs/tccc/cokeonenorthamerica/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$0",
+    "inscope_domains": [
+      "myCoke - iOS",
+      "myCoke - Android",
+      "*.c1nacloud.com",
+      "*.cokeonena.com",
+      "*.conaservices.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-23"
+  },
+  {
     "name": "Cross Border Fines",
     "program_url": "https://www.intigriti.com/programs/bpost/crossborderfines/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -7915,14 +7933,14 @@
     "platform": "Bugcrowd",
     "reward": "$1500",
     "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=datacenter&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218655/performance-charts-and-reports-for-jira-dashboards?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1218655/performance-charts-and-reports-for-jira-dashboards?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1234873/user-activity-timeline-history-for-jira?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-29"
   },
   {
     "name": "Deview Studios Marketplace Managed Bug Bounty Engagement",
@@ -65922,24 +65940,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Coke One North America",
-    "program_url": "https://www.intigriti.com/programs/tccc/cokeonenorthamerica/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$0",
-    "inscope_domains": [
-      "myCoke - iOS",
-      "myCoke - Android",
-      "*.c1nacloud.com",
-      "*.cokeonena.com",
-      "*.conaservices.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-23"
   },
   {
     "name": "Visma",
