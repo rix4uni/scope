@@ -3036,6 +3036,42 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Here Technologies",
+    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
+      "*.router.hereapi.com",
+      "*.subp-router.hereapi.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "xyz.api.here.com",
+      "*.scbe.api.here.com",
+      "*.here.com",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
+  },
+  {
     "name": "Het Laatste Nieuws",
     "program_url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5419,52 +5455,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Water-Link",
-    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "desktop.water-link.be",
-      "pit.water-link.be",
-      "*.aww.be",
-      "*.water-link.be",
-      "indussiibis.water-link.be",
-      "water-link-jaarverslag.be",
-      "*.mijnwater-link.be",
-      "aquawardsspatial.water-link.be",
-      "aquawardsoperate.water-link.be",
-      "waterkracht-levering.be",
-      "induss.eu",
-      "rio-link.be",
-      "water-kracht-levering.eu",
-      "adelta.be",
-      "waterkracht-levering.eu",
-      "aww.eu",
-      "waterlink.be",
-      "water-kracht-levering.be",
-      "waterstoringen.be"
-    ],
-    "outofscope_domains": [
-      "waterwise.be",
-      "peppol-a.water-link.be",
-      "aquawise.be",
-      "oxum.be",
-      "peppol-t.water-link.be",
-      "storingvideo-t.water-link.be",
-      "wl_dev.water-link.be",
-      "wl_acc.water-link.be",
-      "aquawardsoperateacc.water-link.be",
-      "gisacc(*).water-link.be",
-      "secrets.water-link.be",
-      "feedback.water-link.be",
-      "jobs.water-link.be"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-28"
-  },
-  {
     "name": "Water-Link VDP",
     "program_url": "https://www.intigriti.com/programs/waterlink/water-linkvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -7542,23 +7532,25 @@
       "██████████████████████",
       "███████████████████████",
       "████████████████████",
-      "███████████████████████",
-      "██████████████████████",
       "███████████████████████████████████████████",
       "████████████████",
       "███████████████████",
       "███████████████████████████",
       "█████████████████",
       "██████████████████████",
-      "████████████████████████████",
-      "████████████████████████",
       "██████████████████████████████",
       "████████████████████████████"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "██████████████████████",
+      "███████████████████████",
+      "████████████████████████",
+      "████████████████████████████",
+      "█████████████████████████"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-22"
+    "last_updated": "2026-10-29"
   },
   {
     "name": "codecentric AG - Marketplace Bug Bounty Program",
@@ -32444,7 +32436,6 @@
       "gethalls.com",
       "gewinnspiel.milka.de",
       "gifting.twistandmake.com",
-      "gifts.tatesbakeshop.com",
       "give-a-little-thanks.cadbury.co.za",
       "giveawaygiveaway-claim.cadbury.co.uk",
       "giveawaygiveaway.cadbury.co.uk",
@@ -32717,12 +32708,14 @@
     ],
     "outofscope_domains": [
       "bot.cadburygifting.in",
+      "gifts.tatesbakeshop.com",
       "https://cadburygifting.in",
+      "https://gifts.tatesbakeshop.com",
       "www.cadburygifting.in"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-12"
+    "last_updated": "2026-10-29"
   },
   {
     "name": "Inspectorio",
@@ -59397,6 +59390,7 @@
       "https://apiportal.chenosis.io/",
       "https://appbiz.momo.africa/content/v1_1/",
       "https://appbiz.momo.africa/content/v2_0_0/",
+      "https://appx.developers.mtn.com/",
       "https://auth.chenosis.io/",
       "https://businessonboardinguat.momo.africa/",
       "https://chenosis.io",
@@ -59410,6 +59404,7 @@
       "https://cms.momo.africa/v2_2_0/user/login",
       "https://cms.momo.africa/v2_3_0/user/login",
       "https://dep.mtn.co.za/",
+      "https://dev-appx.developers.mtn.com/",
       "https://digitalpartners.mtn.co.za/",
       "https://econnect-preprod.mtn.co.za/business/employee-connect",
       "https://kibana.infra.prod.westeurope.api.mtn.com/login",
@@ -59435,6 +59430,7 @@
       "https://portals-preprod.mtn.co.za:443",
       "https://portalsso.mtn.co.za",
       "https://prebiz.momo.africa/content/",
+      "https://preprod-appx.developers.mtn.com/",
       "https://preprod.api.mtn.com",
       "https://proxy.momoapi.mtn.com",
       "https://ringtune.mtn.co.za/",
@@ -59907,7 +59903,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-29"
   },
   {
     "name": "Kubernetes",
@@ -65808,6 +65804,24 @@
     "last_updated": "2026-10-15"
   },
   {
+    "name": "Concrete CMS",
+    "program_url": "https://hackerone.com/concretecms",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "https://github.com/concrete5/concrete5"
+    ],
+    "outofscope_domains": [
+      "*.concrete5.org",
+      "*.concretecms.com",
+      "*.concretecms.org"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Slack",
     "program_url": "https://hackerone.com/slack",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65923,40 +65937,50 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Here Technologies",
-    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "name": "Water-Link",
+    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
-    "reward": "€2000",
+    "reward": "€5000",
     "inscope_domains": [
-      "HERE WeGo iOS",
-      "HERE WeGo Android",
-      "registry.service.api.platform.here.com",
-      "*.data.api.platform.here.com",
-      "*.metrics.platform.here.com",
-      "*.platform.here.com",
-      "search.hereapi.com",
-      "transit.hereapi.com",
-      "vector.hereapi.com",
-      "mobilitygraph.hereapi.com",
-      "*.router.hereapi.com",
-      "*.subp-router.hereapi.com",
-      "*.hereapi.com",
-      "account.api.here.com",
-      "account.here.com",
-      "listing.here.com",
-      "mapcreator.here.com",
-      "xyz.api.here.com",
-      "*.scbe.api.here.com",
-      "*.here.com",
-      "Leaked/Compromised Employee Credentials",
-      "Leaked Service Credentials",
-      "All other related services owned by HERE"
+      "desktop.water-link.be",
+      "pit.water-link.be",
+      "*.aww.be",
+      "*.water-link.be",
+      "indussiibis.water-link.be",
+      "water-link-jaarverslag.be",
+      "*.mijnwater-link.be",
+      "aquawardsspatial.water-link.be",
+      "aquawardsoperate.water-link.be",
+      "waterkracht-levering.be",
+      "induss.eu",
+      "rio-link.be",
+      "water-kracht-levering.eu",
+      "adelta.be",
+      "waterkracht-levering.eu",
+      "aww.eu",
+      "waterlink.be",
+      "water-kracht-levering.be",
+      "waterstoringen.be"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "waterwise.be",
+      "peppol-a.water-link.be",
+      "aquawise.be",
+      "oxum.be",
+      "peppol-t.water-link.be",
+      "storingvideo-t.water-link.be",
+      "wl_dev.water-link.be",
+      "wl_acc.water-link.be",
+      "aquawardsoperateacc.water-link.be",
+      "gisacc(*).water-link.be",
+      "secrets.water-link.be",
+      "feedback.water-link.be",
+      "jobs.water-link.be"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-09"
+    "last_updated": "2026-10-28"
   },
   {
     "name": "NVIDIA Public Bug Bounty",
@@ -66157,24 +66181,6 @@
     ],
     "outofscope_domains": [
       "*solidus.io"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Concrete CMS",
-    "program_url": "https://hackerone.com/concretecms",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "https://github.com/concrete5/concrete5"
-    ],
-    "outofscope_domains": [
-      "*.concrete5.org",
-      "*.concretecms.com",
-      "*.concretecms.org"
     ],
     "issues_reported": [],
     "scamhit": "",

@@ -628,6 +628,9 @@ scaledsolutions*.uber.com
 *.polishmywriting.com
 *.scrollkit.com
 status.*.coinbase.com
+*.concrete5.org
+*.concretecms.com
+*.concretecms.org
 *.glitchthegame.com
 e.g.*.slackhq.com
 *.rubyonrails.org

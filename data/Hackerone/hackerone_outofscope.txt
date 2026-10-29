@@ -775,6 +775,7 @@ support.moonpay.com
 *.koho.ca
 *.line-of-credit.koho.ca
 bot.cadburygifting.in
+gifts.tatesbakeshop.com
 cadburygifting.in
 api-an.capitalone.com
 autodiscover.apnic.net
@@ -2495,6 +2496,12 @@ my.pressable.com
 pressable.com
 status.*.coinbase.com
 status.coinbase.com
+*.concrete5.org
+concrete5.org
+*.concretecms.com
+concretecms.com
+*.concretecms.org
+concretecms.org
 *.glitchthegame.com
 slackhq.com
 e.g.*.slackhq.com
