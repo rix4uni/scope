@@ -1,3 +1,8 @@
-*.aww.be
-*.water-link.be
-*.mijnwater-link.be
+*.data.api.platform.here.com
+*.metrics.platform.here.com
+*.platform.here.com
+*.router.hereapi.com
+*.subp-router.hereapi.com
+*.hereapi.com
+*.scbe.api.here.com
+*.here.com
