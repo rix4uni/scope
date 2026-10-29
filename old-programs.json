@@ -2320,24 +2320,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Coke One North America",
-    "program_url": "https://www.intigriti.com/programs/tccc/cokeonenorthamerica/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$0",
-    "inscope_domains": [
-      "myCoke - iOS",
-      "myCoke - Android",
-      "*.c1nacloud.com",
-      "*.cokeonena.com",
-      "*.conaservices.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-23"
-  },
-  {
     "name": "Cross Border Fines",
     "program_url": "https://www.intigriti.com/programs/bpost/crossborderfines/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2992,6 +2974,42 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Here Technologies",
+    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
+      "*.router.hereapi.com",
+      "*.subp-router.hereapi.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "xyz.api.here.com",
+      "*.scbe.api.here.com",
+      "*.here.com",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Het Laatste Nieuws",
@@ -23766,11 +23784,12 @@
       "afphabitat.cl",
       "brand.prudential.com",
       "pramericalife.in",
+      "pruacademy.prudential.com.br",
       "prudentialagf.cl"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Boozt Fashion AB",
@@ -62573,17 +62592,19 @@
       "accounts.cloud.databricks.com",
       "databricks.com",
       "https://dbc-9a3f8ed1-7608.cloud.databricks.com",
+      "https://github.com/databricks/*",
       "login.databricks.com",
       "ui-assets.cloud.databricks.com"
     ],
     "outofscope_domains": [
       "*.azuredatabricks.net",
       "*.cloud.databricks.com",
-      "*.gcp.databricks.com"
+      "*.gcp.databricks.com",
+      "https://github.com/databrickslabs/*"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-22"
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Coalition, Inc.",
@@ -65903,40 +65924,22 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Here Technologies",
-    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "name": "Coke One North America",
+    "program_url": "https://www.intigriti.com/programs/tccc/cokeonenorthamerica/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
-    "reward": "€2000",
+    "reward": "$0",
     "inscope_domains": [
-      "HERE WeGo iOS",
-      "HERE WeGo Android",
-      "registry.service.api.platform.here.com",
-      "*.data.api.platform.here.com",
-      "*.metrics.platform.here.com",
-      "*.platform.here.com",
-      "search.hereapi.com",
-      "transit.hereapi.com",
-      "vector.hereapi.com",
-      "mobilitygraph.hereapi.com",
-      "*.router.hereapi.com",
-      "*.subp-router.hereapi.com",
-      "*.hereapi.com",
-      "account.api.here.com",
-      "account.here.com",
-      "listing.here.com",
-      "mapcreator.here.com",
-      "xyz.api.here.com",
-      "*.scbe.api.here.com",
-      "*.here.com",
-      "Leaked/Compromised Employee Credentials",
-      "Leaked Service Credentials",
-      "All other related services owned by HERE"
+      "myCoke - iOS",
+      "myCoke - Android",
+      "*.c1nacloud.com",
+      "*.cokeonena.com",
+      "*.conaservices.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-09"
+    "last_updated": "2026-10-23"
   },
   {
     "name": "Visma",
