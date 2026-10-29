@@ -1,5 +1,11 @@
 bundesdruckerei.de
 youniqx.com
+community.smartsheet.com
+developers.smartsheet.com
+help.smartsheet.com
+smartu.smartsheet.com
+status.smartsheet.com
+supportportal.smartsheet.com
 *.pipedrive.com
 *.wolt.com
 blog.wolt.com

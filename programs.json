@@ -2753,7 +2753,7 @@
     "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
-    "reward": "€1100",
+    "reward": "€1500",
     "inscope_domains": [
       "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
       "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
@@ -2765,7 +2765,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-15"
+    "last_updated": "2026-10-29"
   },
   {
     "name": "Dutch Lottery VDP",
@@ -3034,42 +3034,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Here Technologies",
-    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "HERE WeGo iOS",
-      "HERE WeGo Android",
-      "registry.service.api.platform.here.com",
-      "*.data.api.platform.here.com",
-      "*.metrics.platform.here.com",
-      "*.platform.here.com",
-      "search.hereapi.com",
-      "transit.hereapi.com",
-      "vector.hereapi.com",
-      "mobilitygraph.hereapi.com",
-      "*.router.hereapi.com",
-      "*.subp-router.hereapi.com",
-      "*.hereapi.com",
-      "account.api.here.com",
-      "account.here.com",
-      "listing.here.com",
-      "mapcreator.here.com",
-      "xyz.api.here.com",
-      "*.scbe.api.here.com",
-      "*.here.com",
-      "Leaked/Compromised Employee Credentials",
-      "Leaked Service Credentials",
-      "All other related services owned by HERE"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
   },
   {
     "name": "Het Laatste Nieuws",
@@ -5453,6 +5417,52 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Water-Link",
+    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "desktop.water-link.be",
+      "pit.water-link.be",
+      "*.aww.be",
+      "*.water-link.be",
+      "indussiibis.water-link.be",
+      "water-link-jaarverslag.be",
+      "*.mijnwater-link.be",
+      "aquawardsspatial.water-link.be",
+      "aquawardsoperate.water-link.be",
+      "waterkracht-levering.be",
+      "induss.eu",
+      "rio-link.be",
+      "water-kracht-levering.eu",
+      "adelta.be",
+      "waterkracht-levering.eu",
+      "aww.eu",
+      "waterlink.be",
+      "water-kracht-levering.be",
+      "waterstoringen.be"
+    ],
+    "outofscope_domains": [
+      "waterwise.be",
+      "peppol-a.water-link.be",
+      "aquawise.be",
+      "oxum.be",
+      "peppol-t.water-link.be",
+      "storingvideo-t.water-link.be",
+      "wl_dev.water-link.be",
+      "wl_acc.water-link.be",
+      "aquawardsoperateacc.water-link.be",
+      "gisacc(*).water-link.be",
+      "secrets.water-link.be",
+      "feedback.water-link.be",
+      "jobs.water-link.be"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Water-Link VDP",
@@ -8937,7 +8947,9 @@
       "iRobot API Endpoint",
       "https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas",
       "https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id}/entitlements",
-      "https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements",
+      "https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements"
+    ],
+    "outofscope_domains": [
       "https://www.irobot.com",
       "https://www.irobot.ca/en_CA",
       "https://www.irobot.ca/fr_CA/home",
@@ -8955,10 +8967,9 @@
       "https://investor.irobot.com",
       "https://answers.irobot.com"
     ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-29"
   },
   {
     "name": "Izymes",
@@ -14102,6 +14113,31 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Smartsheet (VDP)",
+    "program_url": "https://hackerone.com/smartsheet_vdp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "api.smartsheet.com",
+      "app.smartsheet.com",
+      "com.smartsheet.android",
+      "com.smartsheet.smartsheet",
+      "www.smartsheet.com"
+    ],
+    "outofscope_domains": [
+      "community.smartsheet.com",
+      "developers.smartsheet.com",
+      "help.smartsheet.com",
+      "smartu.smartsheet.com",
+      "status.smartsheet.com",
+      "supportportal.smartsheet.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-29"
   },
   {
     "name": "Assa Abloy Americas",
@@ -65937,50 +65973,40 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Water-Link",
-    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
+    "name": "Here Technologies",
+    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
-    "reward": "€5000",
+    "reward": "€2000",
     "inscope_domains": [
-      "desktop.water-link.be",
-      "pit.water-link.be",
-      "*.aww.be",
-      "*.water-link.be",
-      "indussiibis.water-link.be",
-      "water-link-jaarverslag.be",
-      "*.mijnwater-link.be",
-      "aquawardsspatial.water-link.be",
-      "aquawardsoperate.water-link.be",
-      "waterkracht-levering.be",
-      "induss.eu",
-      "rio-link.be",
-      "water-kracht-levering.eu",
-      "adelta.be",
-      "waterkracht-levering.eu",
-      "aww.eu",
-      "waterlink.be",
-      "water-kracht-levering.be",
-      "waterstoringen.be"
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
+      "*.router.hereapi.com",
+      "*.subp-router.hereapi.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "xyz.api.here.com",
+      "*.scbe.api.here.com",
+      "*.here.com",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
     ],
-    "outofscope_domains": [
-      "waterwise.be",
-      "peppol-a.water-link.be",
-      "aquawise.be",
-      "oxum.be",
-      "peppol-t.water-link.be",
-      "storingvideo-t.water-link.be",
-      "wl_dev.water-link.be",
-      "wl_acc.water-link.be",
-      "aquawardsoperateacc.water-link.be",
-      "gisacc(*).water-link.be",
-      "secrets.water-link.be",
-      "feedback.water-link.be",
-      "jobs.water-link.be"
-    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-28"
+    "last_updated": "2026-10-09"
   },
   {
     "name": "NVIDIA Public Bug Bounty",
