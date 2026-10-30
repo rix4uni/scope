@@ -4131,6 +4131,29 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5394,6 +5417,29 @@
       "https://vlerick.myshopify.com/",
       "https://webform.vlerick.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Voi Scooters",
+    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "Voi – e-scooters & e-bikes",
+      "Voi – e-scooter & e-bike hire",
+      "https://api.voiapp.io/",
+      "mds.voiapp.io",
+      "fm.voiapp.io",
+      "https://repair.voiweb.net",
+      "report.voi.com",
+      "voi.com",
+      "*.voi.com",
+      "*.voiscooters.com"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -65958,29 +66004,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "WP Engine Bug Bounty",
     "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -66084,29 +66107,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-19"
-  },
-  {
-    "name": "Voi Scooters",
-    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "Voi – e-scooters & e-bikes",
-      "Voi – e-scooter & e-bike hire",
-      "https://api.voiapp.io/",
-      "mds.voiapp.io",
-      "fm.voiapp.io",
-      "https://repair.voiweb.net",
-      "report.voi.com",
-      "voi.com",
-      "*.voi.com",
-      "*.voiscooters.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "Luno Bug Bounty Program",
