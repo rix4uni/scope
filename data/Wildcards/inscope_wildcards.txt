@@ -243,6 +243,17 @@ prod-*.nu.com.co
 *.smartline.com.au
 *.mclead.com.au
 *.report.uat.proptrack.com
+*.seek.com
+*.employer.seek.com
+*.seekpass.co
+*.jobsdb.com
+*.jobstreet.com
+*.myseek.xyz
+*.outfra.xyz
+*.skinfra.xyz
+*.jobapi.net
+*.sol-data.com
+*.aips-internal.com
 *.prd.cam.simplisafe.com
 *.prd.platform.simplisafe.com
 *.prd.services.simplisafe.com
@@ -312,6 +323,7 @@ static*.twilio.com
 *.robinhood.net
 *.say.rocks
 *.saytechnologies.com
+**1win.io
 *.bancoplata.mx
 *.platacard.mx
 *.konghq.com

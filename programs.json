@@ -4131,29 +4131,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -12147,6 +12124,37 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "SEEK ",
+    "program_url": "https://bugcrowd.com/engagements/seek",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$10000",
+    "inscope_domains": [
+      "*.seek.com",
+      "https://*.employer.seek.com",
+      "*.seekpass.co",
+      "https://*.jobsdb.com",
+      "https://*.jobstreet.com",
+      "https://seekcdn.com",
+      "https://*.myseek.xyz",
+      "*.outfra.xyz",
+      "*.skinfra.xyz",
+      "https://graphql.seek.com",
+      "https://auth.seek.com",
+      "*.jobapi.net",
+      "*.sol-data.com",
+      "*.aips-internal.com",
+      "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
+      "https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US",
+      "https://apps.apple.com/au/app/certsy/id1617796159",
+      "https://play.google.com/store/apps/details?id=com.certsy.app"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Seek.com",
     "program_url": "https://bugcrowd.com/engagements/seek-com",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -13776,24 +13784,6 @@
       "docs.wise.com ",
       "https://github.com/transferwise/pipelinewise"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Wyze Bug Bounty",
-    "program_url": "https://bugcrowd.com/engagements/wyze",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$5000",
-    "inscope_domains": [
-      "https://auth.wyze.com",
-      "https://my.wyze.com",
-      "https://api.wyzecam.com",
-      "Wyze Cam V3",
-      "https://www.wyze.com/products/wyze-cam"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -16637,10 +16627,13 @@
     "inscope_domains": [
       "1w.cash",
       "1w.run",
+      "1win-partners.com",
       "1win.com",
+      "1win.io",
       "1wintoken.com",
       "1wtoken.com",
       "Deposit/Withdraw",
+      "forum.1win.io",
       "https://1win.com/betting",
       "https://1win.com/casino",
       "https://solscan.io/account/B2RFzpckwjtHXHMrPMKarg6Cj6xkSdT6mru4gJiJE87L",
@@ -16650,7 +16643,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-15"
+    "last_updated": "2026-10-30"
   },
   {
     "name": "Citi Group",
@@ -65965,32 +65958,24 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "SEEK ",
-    "program_url": "https://bugcrowd.com/engagements/seek",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$10000",
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
     "inscope_domains": [
-      "*.seek.com",
-      "https://*.employer.seek.com",
-      "*.seekpass.co",
-      "https://*.jobsdb.com",
-      "https://*.jobstreet.com",
-      "https://seekcdn.com",
-      "https://*.myseek.xyz",
-      "*.outfra.xyz",
-      "*.skinfra.xyz",
-      "https://graphql.seek.com",
-      "https://auth.seek.com",
-      "*.jobapi.net",
-      "*.sol-data.com",
-      "*.aips-internal.com",
-      "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
-      "https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US",
-      "https://apps.apple.com/au/app/certsy/id1617796159",
-      "https://play.google.com/store/apps/details?id=com.certsy.app"
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
