@@ -3885,6 +3885,30 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "NVIDIA Public Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$15000",
+    "inscope_domains": [
+      " new CDI-based architecture",
+      "All Other NVIDIA Container Toolkit Assets",
+      "libNVVM API",
+      "Nsight Systems",
+      "NVIDIA Nsight Developer Tools",
+      "NVRTC library",
+      "CUDA Libraries",
+      "NVCC",
+      "nvJitLink APIs",
+      "CUDA Runtime APIs",
+      "CUDA Driver APIs"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "NVIDIA Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/nvidia/nvidiavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -12123,37 +12147,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "SEEK ",
-    "program_url": "https://bugcrowd.com/engagements/seek",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$10000",
-    "inscope_domains": [
-      "*.seek.com",
-      "https://*.employer.seek.com",
-      "*.seekpass.co",
-      "https://*.jobsdb.com",
-      "https://*.jobstreet.com",
-      "https://seekcdn.com",
-      "https://*.myseek.xyz",
-      "*.outfra.xyz",
-      "*.skinfra.xyz",
-      "https://graphql.seek.com",
-      "https://auth.seek.com",
-      "*.jobapi.net",
-      "*.sol-data.com",
-      "*.aips-internal.com",
-      "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
-      "https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US",
-      "https://apps.apple.com/au/app/certsy/id1617796159",
-      "https://play.google.com/store/apps/details?id=com.certsy.app"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Seek.com",
     "program_url": "https://bugcrowd.com/engagements/seek-com",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -13783,6 +13776,24 @@
       "docs.wise.com ",
       "https://github.com/transferwise/pipelinewise"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Wyze Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/wyze",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$5000",
+    "inscope_domains": [
+      "https://auth.wyze.com",
+      "https://my.wyze.com",
+      "https://api.wyzecam.com",
+      "Wyze Cam V3",
+      "https://www.wyze.com/products/wyze-cam"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -65954,6 +65965,37 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "SEEK ",
+    "program_url": "https://bugcrowd.com/engagements/seek",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$10000",
+    "inscope_domains": [
+      "*.seek.com",
+      "https://*.employer.seek.com",
+      "*.seekpass.co",
+      "https://*.jobsdb.com",
+      "https://*.jobstreet.com",
+      "https://seekcdn.com",
+      "https://*.myseek.xyz",
+      "*.outfra.xyz",
+      "*.skinfra.xyz",
+      "https://graphql.seek.com",
+      "https://auth.seek.com",
+      "*.jobapi.net",
+      "*.sol-data.com",
+      "*.aips-internal.com",
+      "https://apps.apple.com/au/app/seek-jobs-job-search/id520400855",
+      "https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US",
+      "https://apps.apple.com/au/app/certsy/id1617796159",
+      "https://play.google.com/store/apps/details?id=com.certsy.app"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "WP Engine Bug Bounty",
     "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -66031,30 +66073,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-28"
-  },
-  {
-    "name": "NVIDIA Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$15000",
-    "inscope_domains": [
-      " new CDI-based architecture",
-      "All Other NVIDIA Container Toolkit Assets",
-      "libNVVM API",
-      "Nsight Systems",
-      "NVIDIA Nsight Developer Tools",
-      "NVRTC library",
-      "CUDA Libraries",
-      "NVCC",
-      "nvJitLink APIs",
-      "CUDA Runtime APIs",
-      "CUDA Driver APIs"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "Visma",
