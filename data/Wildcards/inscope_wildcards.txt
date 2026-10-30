@@ -1234,6 +1234,8 @@ sks-*.exo.io
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.voi.com
+*.voiscooters.com
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw

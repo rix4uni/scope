@@ -1234,6 +1234,8 @@ sks-*.exo.io
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.voi.com
+*.voiscooters.com
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
@@ -5687,6 +5689,10 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
@@ -5911,6 +5917,12 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+api.voiapp.io
+mds.voiapp.io
+fm.voiapp.io
+repair.voiweb.net
+report.voi.com
+voi.com
 watsons.com.hk
 0.watsons.com.hk
 api.watsons.com.hk
