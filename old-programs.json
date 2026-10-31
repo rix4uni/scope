@@ -15930,7 +15930,6 @@
       "github.com/twilio",
       "github.com/twilio-labs",
       "help.twilio.com",
-      "https://github.com/stytchauth",
       "https://stytch.com/blog",
       "https://stytch.com/dashboard",
       "iam.twilio.com",
@@ -16000,7 +15999,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-14"
+    "last_updated": "2026-10-30"
   },
   {
     "name": "MUFG VDP",
@@ -23925,6 +23924,7 @@
       "*.vercel.com",
       "*.vercel.live",
       "Vercel sandbox",
+      "https://github.com/better-auth/better-auth",
       "https://github.com/nitrojs/nitro",
       "https://github.com/nuxt/nuxt",
       "https://github.com/sveltejs/kit",
@@ -23953,7 +23953,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-20"
+    "last_updated": "2026-10-30"
   },
   {
     "name": "KKR-VDP",
