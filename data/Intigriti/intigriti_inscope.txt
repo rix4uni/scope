@@ -596,10 +596,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
