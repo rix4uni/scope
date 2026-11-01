@@ -1252,9 +1252,6 @@ sks-*.exo.io
 *.atg.se
 *.alasco.de
 *.alasco.rocks
-*.alipayplus.com
-*.antom.com
-*.worldfirst.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
@@ -5998,11 +5995,6 @@ api.atg.se
 iam.atg.se
 app.alasco.de
 api.alasco.de
-bettrfinancing.com
-anext.com.sg
-alipayhk.com
-antbank.hk
-security-en.alipay.com
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
