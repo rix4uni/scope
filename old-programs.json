@@ -95,33 +95,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Ant Group Security Response Center - Bug Bounty Program",
-    "program_url": "https://yeswehack.com/programs/ant-group-security-response-center-bug-bounty-program",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$2500",
-    "inscope_domains": [
-      "*.alipayplus.com",
-      "*.antom.com",
-      "*.worldfirst.com",
-      "bettrfinancing.com",
-      "anext.com.sg",
-      "alipayhk.com",
-      "antbank.hk",
-      "Any Other Applications found here: https://security-en.alipay.com/home"
-    ],
-    "outofscope_domains": [
-      "All domains or subdomains not listed in the above list of 'Scopes'.",
-      "Third-party applications and websites",
-      "Not Belonging to Ant Group’s Products or Systems."
-    ],
-    "issues_reported": [
-      "rix4uni - BXSS Rejected"
-    ],
-    "scamhit": "1",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "BookBeat",
     "program_url": "https://yeswehack.com/programs/bookbeat",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -65931,6 +65904,33 @@
     ],
     "issues_reported": [],
     "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Ant Group Security Response Center - Bug Bounty Program",
+    "program_url": "https://yeswehack.com/programs/ant-group-security-response-center-bug-bounty-program",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$2500",
+    "inscope_domains": [
+      "*.alipayplus.com",
+      "*.antom.com",
+      "*.worldfirst.com",
+      "bettrfinancing.com",
+      "anext.com.sg",
+      "alipayhk.com",
+      "antbank.hk",
+      "Any Other Applications found here: https://security-en.alipay.com/home"
+    ],
+    "outofscope_domains": [
+      "All domains or subdomains not listed in the above list of 'Scopes'.",
+      "Third-party applications and websites",
+      "Not Belonging to Ant Group’s Products or Systems."
+    ],
+    "issues_reported": [
+      "rix4uni - BXSS Rejected"
+    ],
+    "scamhit": "1",
     "last_updated": "2026-10-08"
   },
   {
