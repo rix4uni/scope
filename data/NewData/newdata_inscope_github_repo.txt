@@ -1,1 +1,1 @@
-https://github.com/better-auth/better-auth
+https://github.com/brave/*,

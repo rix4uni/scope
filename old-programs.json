@@ -203,11 +203,12 @@
       "techops.dana.id",
       "dm.dana.id",
       "encrypt.dana.id",
-      "*.dana.id"
+      "*.dana.id",
+      "Dev, Test, SIT, Staging, Sandbox, Demo, and other non-production environments"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-02"
   },
   {
     "name": "DECATHLON",

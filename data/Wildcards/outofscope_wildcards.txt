@@ -467,6 +467,7 @@ cst2-*-*.cust.vodafone.cz
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
+*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com
@@ -480,8 +481,6 @@ api.zmsp.*.earlywarning.io
 ccpa*.zellepay.com
 *.email.instacart.com
 *.unatalabs.com
-*.expediaagents.com
-*.expediacruises.com
 *.fndl.dev
 *.gokangu.cl
 *.gokangu.co
@@ -491,6 +490,8 @@ ccpa*.zellepay.com
 *.kangu.tech
 dev*.urbanclap.com
 *.egadvertising.com
+*.expediaagents.com
+*.expediacruises.com
 *.hoteis.com
 *.hoteles.com
 *.flickr.net
@@ -674,6 +675,10 @@ e.g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -701,7 +706,6 @@ booking.*.sqills.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
-*.uphodl.com
 shop.*.be
 *.zabka-snrs.zabka.pl
 *.intigriti.io
