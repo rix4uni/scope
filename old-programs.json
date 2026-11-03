@@ -1957,20 +1957,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "BRP Challenge",
-    "program_url": "https://www.intigriti.com/programs/intigriti/challengebrp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "https://challenge-brp.challenges.intigriti.io"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-28"
-  },
-  {
     "name": "Bitvavo VDP",
     "program_url": "https://www.intigriti.com/programs/bitvavo/bitvavovdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -10444,26 +10430,25 @@
     "program_url": "https://bugcrowd.com/engagements/openai",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$6500",
+    "reward": "$30000",
     "inscope_domains": [
+      "https://chatgpt.com",
+      "https://chat.openai.com",
       "https://api.openai.com",
-      "https://chat.openai.com",
-      "https://chat.openai.com",
-      "https://chatgpt.com/dots/",
-      "Third Party Targets",
-      "OpenAI API Keys",
-      "https://*.openai.org",
-      "https://*.openai.org",
-      "https://openai.com/",
-      "*.openai.com",
       "https://platform.openai.com/playground",
+      "ChatGPT Desktop",
+      "Codex CLI",
+      "https://openai.com/",
+      "https://*.openai.org",
+      "*.openai.com",
       "Other",
-      "Codex Desktop"
+      "Third Party Targets",
+      "OpenAI API Keys"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-27"
+    "last_updated": "2026-11-03"
   },
   {
     "name": "Safety Bug Bounty",
@@ -65784,6 +65769,20 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "BRP Challenge",
+    "program_url": "https://www.intigriti.com/programs/intigriti/challengebrp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "https://challenge-brp.challenges.intigriti.io"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-28"
   },
   {
     "name": "Here Technologies",

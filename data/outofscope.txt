@@ -648,7 +648,6 @@ e.g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -3546,18 +3545,6 @@ api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
 cadeau.videoland.com
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be
@@ -3640,9 +3627,6 @@ shop.kinepolis.be
 shop.kinepolis.es
 shop.kinepolis.fr
 shop.kinepolis.lu
-careers.kiwa.com
-qr.kiwa.com
-kiwa.com
 lsagentrelay.lansweeper.com
 careers.lansweeper.com
 lansweeper.com
