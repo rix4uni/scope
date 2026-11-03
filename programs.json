@@ -2992,42 +2992,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Here Technologies",
-    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "HERE WeGo iOS",
-      "HERE WeGo Android",
-      "registry.service.api.platform.here.com",
-      "*.data.api.platform.here.com",
-      "*.metrics.platform.here.com",
-      "*.platform.here.com",
-      "search.hereapi.com",
-      "transit.hereapi.com",
-      "vector.hereapi.com",
-      "mobilitygraph.hereapi.com",
-      "*.router.hereapi.com",
-      "*.subp-router.hereapi.com",
-      "*.hereapi.com",
-      "account.api.here.com",
-      "account.here.com",
-      "listing.here.com",
-      "mapcreator.here.com",
-      "xyz.api.here.com",
-      "*.scbe.api.here.com",
-      "*.here.com",
-      "Leaked/Compromised Employee Credentials",
-      "Leaked Service Credentials",
-      "All other related services owned by HERE"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
-  },
-  {
     "name": "Het Laatste Nieuws",
     "program_url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -12335,12 +12299,12 @@
     "platform": "Bugcrowd",
     "reward": "$1500",
     "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1237433/snapmetrics-real-time-analytics?hosting=cloud&tab=overview"
+      "███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-03"
   },
   {
     "name": "SnapNames Bug Bounty",
@@ -16889,44 +16853,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Kong",
-    "program_url": "https://hackerone.com/kong",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "GitHub Actions in our Public Repositories ",
-      "Kong Gateway Enterprise",
-      "Kong Gateway OSS",
-      "Kong Gateway Plugins (Kong-Supported Only)",
-      "Kong Mesh",
-      "Subdomain Takeover - konghq.com",
-      "developer.konghq.com",
-      "http://cloud.konghq.com",
-      "https://*.api.konghq.com",
-      "https://app.insomnia.rest/",
-      "https://us.identity.konghq.com/*",
-      "konghq.com"
-    ],
-    "outofscope_domains": [
-      "*.*.edge.gateways.konghq.com",
-      "*.gateways.konghq.com",
-      "Insomnia CLI (inso)",
-      "Insomnia Desktop Client",
-      "Kong Enterprise Gateway - Sandbox Functionality",
-      "Non-Kong GitHub Repositories",
-      "Non-Kong Plugins",
-      "https://*.konghq.tech",
-      "https://docs.konghq.com",
-      "https://httpbin.konghq.com/",
-      "https://insomnia.rest/",
-      "https://kuma.io/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
   },
   {
     "name": "Hyland Software",
@@ -65510,7 +65436,6 @@
       "com.twitter.android",
       "console.x.ai",
       "console.x.com",
-      "grok-build",
       "grok.com",
       "grokipedia.com",
       "money.x.com",
@@ -65520,10 +65445,12 @@
       "x.com",
       "xadsacademy.com"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "grok-build"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-03"
   },
   {
     "name": "Cloudflare Public Bug Bounty",
@@ -65857,6 +65784,80 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Here Technologies",
+    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
+      "*.router.hereapi.com",
+      "*.subp-router.hereapi.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "xyz.api.here.com",
+      "*.scbe.api.here.com",
+      "*.here.com",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
+  },
+  {
+    "name": "Kong",
+    "program_url": "https://hackerone.com/kong",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "GitHub Actions in our Public Repositories ",
+      "Kong Gateway Enterprise",
+      "Kong Gateway OSS",
+      "Kong Gateway Plugins (Kong-Supported Only)",
+      "Kong Mesh",
+      "Subdomain Takeover - konghq.com",
+      "developer.konghq.com",
+      "http://cloud.konghq.com",
+      "https://*.api.konghq.com",
+      "https://app.insomnia.rest/",
+      "https://us.identity.konghq.com/*",
+      "konghq.com"
+    ],
+    "outofscope_domains": [
+      "*.*.edge.gateways.konghq.com",
+      "*.gateways.konghq.com",
+      "Insomnia CLI (inso)",
+      "Insomnia Desktop Client",
+      "Kong Enterprise Gateway - Sandbox Functionality",
+      "Non-Kong GitHub Repositories",
+      "Non-Kong Plugins",
+      "https://*.konghq.tech",
+      "https://docs.konghq.com",
+      "https://httpbin.konghq.com/",
+      "https://insomnia.rest/",
+      "https://kuma.io/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Attentia VDP",

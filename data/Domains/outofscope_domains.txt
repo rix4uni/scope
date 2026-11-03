@@ -893,13 +893,6 @@ grocery-supplier.meesho.com
 log10-web-staging.valmo.in
 warehouse.meesho.com
 lovable.app
-docs.konghq.com
-cloud.konghq.tech
-us.api.konghq.tech
-httpbin.konghq.com
-httpbin.org
-insomnia.rest
-kuma.io
 accessibility.qinetiq.com
 blog.thenorthface.com.br
 jansport.ca
