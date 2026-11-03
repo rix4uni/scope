@@ -61,6 +61,7 @@ https://github.com/x402-foundation
 https://github.com/digitalocean/action-doctl
 https://github.com/digitalocean/godo
 https://github.com/digitalocean/pydo
+https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/digitalocean/go-nbd
 https://github.com/digitalocean/do-markdownit
 https://github.com/RIPE-NCC/rpki-publication-server
