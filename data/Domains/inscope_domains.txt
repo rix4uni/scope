@@ -558,12 +558,11 @@ client.htm
 sftd-windows.htm
 download-browser-plugin.htm
 pentest-app.onetrust.com
-api.openai.com
-chat.openai.com
 chatgpt.com
-openai.org
-openai.com
+chat.openai.com
+api.openai.com
 platform.openai.com
+openai.com
 opensea.io
 wallet.opensea.io
 io.opensea
@@ -3776,7 +3775,6 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
-challenge-brp.challenges.intigriti.io
 login.cm.com
 api.cm.com
 api.cmtelecom.com
