@@ -367,6 +367,8 @@ cst2-*-*.cust.vodafone.cz
 *.fiserv.com
 *.who.int
 *.getbouncer.com
+marketplace-*.freshworks.com
+*.appgallery-*.freshworks.com
 *.grindrads.com
 *.intomore.com
 *.browser.cloud.com

@@ -367,6 +367,8 @@ cst2-*-*.cust.vodafone.cz
 *.fiserv.com
 *.who.int
 *.getbouncer.com
+marketplace-*.freshworks.com
+*.appgallery-*.freshworks.com
 *.grindrads.com
 *.intomore.com
 *.browser.cloud.com
@@ -2065,6 +2067,7 @@ request-headers.moonpay.com
 storefront.hypermint.com
 support.moonpay.com
 bot.cadburygifting.in
+gifts.tatesbakeshop.com
 cadburygifting.in
 api-an.capitalone.com
 autodiscover.apnic.net
@@ -2329,6 +2332,14 @@ help.hypr.com
 partners.hypr.com
 support.hypr.com
 covid19app.who.int
+freshworks.com
+marketplace.freshworks.com
+yourdomain.myfreshworks.com
+freshworks.atlassian.net
+wchat.freshchat.com
+yourdomain.freshping.io
+yourdomain.freshstatus.io
+yourdomain.freshsurvey.io
 corda.net
 r3.com
 community.doppler.com
