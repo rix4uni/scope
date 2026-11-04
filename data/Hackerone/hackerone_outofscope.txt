@@ -823,7 +823,6 @@ support.moonpay.com
 *.koho.ca
 *.line-of-credit.koho.ca
 bot.cadburygifting.in
-gifts.tatesbakeshop.com
 cadburygifting.in
 api-an.capitalone.com
 autodiscover.apnic.net
