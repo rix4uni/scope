@@ -699,7 +699,6 @@ booking.*.sqills.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
-*.uphodl.com
 shop.*.be
 *.zabka-snrs.zabka.pl
 *.intigriti.io
@@ -3701,19 +3700,6 @@ vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
-api.uphold.com
-wallet.uphold.com
-api.topperpay.com
-app.topperpay.com
-graphql.topperpay.com
-api.enterprise.uphold.com
-cms.optimuscards.com
-status.uphold.com
-uphodl.com
-support.topperpay.com
-support-staging.topperpay.com
-support.uphold.com
-support-sandbox.uphold.com
 cds.vrt.radio
 innovatie.vrt.be
 vtmgo.be
