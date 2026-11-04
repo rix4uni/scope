@@ -542,7 +542,7 @@
       "https://es.harmankardon.com",
       "https://fi.jbl.com",
       "https://fi.harmanaudio.com",
-      "https://fi.harmankardon.com/",
+      "https://fi.harmankardon.com",
       "https://fr.jbl.com",
       "https://www.harmankardon.fr",
       "https://www.harmanaudio.fr",
@@ -599,7 +599,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-03"
+    "last_updated": "2026-11-04"
   },
   {
     "name": "Harman International Lifestyle Products & Services",
@@ -2914,6 +2914,42 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Here Technologies",
+    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
+      "*.router.hereapi.com",
+      "*.subp-router.hereapi.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "xyz.api.here.com",
+      "*.scbe.api.here.com",
+      "*.here.com",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Het Laatste Nieuws",
@@ -6942,6 +6978,23 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Bytera Marketplace Managed Bug Bounty Engagement",
+    "program_url": "https://bugcrowd.com/engagements/bytera-market",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/2446184211/pulse-content-health-for-confluence?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/3790067068/xpress-pdf-exporter-for-confluence?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/2021241528/syncup-sprint-intelligence-for-jira?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/2333382001/spotlight-ai-charts-reports-for-jira?hosting=cloud"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-04"
   },
   {
     "name": "Caelor Group",
@@ -16065,6 +16118,7 @@
       "*.notyourmothers.com",
       "*.nymbrands.com,uk,co.uk",
       "*.nymhair.co.uk,.com,.uk",
+      "*.olaplex.com",
       "*.osiatlowes.com",
       "*.pattex.*",
       "*.pattex.com.cn",
@@ -16204,7 +16258,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-27"
+    "last_updated": "2026-11-04"
   },
   {
     "name": "Robinhood Markets",
@@ -32241,7 +32295,6 @@
       "gethalls.com",
       "gewinnspiel.milka.de",
       "gifting.twistandmake.com",
-      "gifts.tatesbakeshop.com",
       "give-a-little-thanks.cadbury.co.za",
       "giveawaygiveaway-claim.cadbury.co.uk",
       "giveawaygiveaway.cadbury.co.uk",
@@ -32263,7 +32316,6 @@
       "heroes.cadbury.co.uk",
       "hn.oreobts.com",
       "hourlyjobs-us.mondelezinternational.com",
-      "https://gifts.tatesbakeshop.com",
       "https://www.cadburygiftsdirect.co.uk",
       "https://www.clifbar.com",
       "https://www.tatesbakeshop.com",
@@ -32515,7 +32567,9 @@
     ],
     "outofscope_domains": [
       "bot.cadburygifting.in",
+      "gifts.tatesbakeshop.com",
       "https://cadburygifting.in",
+      "https://gifts.tatesbakeshop.com",
       "www.cadburygifting.in"
     ],
     "issues_reported": [],
@@ -48153,6 +48207,47 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Freshworks ",
+    "program_url": "https://hackerone.com/freshworks",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Freshcaller-iOS-App",
+      "Freshchat-iOS-App",
+      "Freshdesk-iOS-App",
+      "Freshservice-Intune-iOS-App",
+      "Freshservice-iOS-App",
+      "com.freshchat.agent.android",
+      "com.freshdesk.helpdesk",
+      "com.freshservice.helpdesk",
+      "com.freshservice.helpdesk.intune",
+      "com.freshworks.freshcaller",
+      "yourdomain.freshcaller.com",
+      "yourdomain.freshchat.com",
+      "yourdomain.freshdesk.com",
+      "yourdomain.freshrelease.com",
+      "yourdomain.freshservice.com",
+      "yourdomain.myfreshworks.com"
+    ],
+    "outofscope_domains": [
+      "Freshsales-iOS-App",
+      "Marketplace Apps",
+      "com.freshdesk.freshsales.mobile",
+      "freshworks.atlassian.net",
+      "http://yourdomain.myfreshworks.com/crm/marketer",
+      "http://yourdomain.myfreshworks.com/crm/sales",
+      "wchat.freshchat.com",
+      "www.freshworks.com",
+      "yourdomain.freshping.io",
+      "yourdomain.freshstatus.io",
+      "yourdomain.freshsurvey.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-04"
+  },
+  {
     "name": "Judge.me ",
     "program_url": "https://hackerone.com/judgeme",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -61028,7 +61123,6 @@
       "*.modoblack.mercadolivre.com.br",
       "*.tucarro.com.ve",
       "Crypto",
-      "Leaked Credentials",
       "Point Smart",
       "Tier 3",
       "Wonder",
@@ -61099,7 +61193,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-16"
+    "last_updated": "2026-11-04"
   },
   {
     "name": "Urban Company",
@@ -65888,42 +65982,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-28"
-  },
-  {
-    "name": "Here Technologies",
-    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "HERE WeGo iOS",
-      "HERE WeGo Android",
-      "registry.service.api.platform.here.com",
-      "*.data.api.platform.here.com",
-      "*.metrics.platform.here.com",
-      "*.platform.here.com",
-      "search.hereapi.com",
-      "transit.hereapi.com",
-      "vector.hereapi.com",
-      "mobilitygraph.hereapi.com",
-      "*.router.hereapi.com",
-      "*.subp-router.hereapi.com",
-      "*.hereapi.com",
-      "account.api.here.com",
-      "account.here.com",
-      "listing.here.com",
-      "mapcreator.here.com",
-      "xyz.api.here.com",
-      "*.scbe.api.here.com",
-      "*.here.com",
-      "Leaked/Compromised Employee Credentials",
-      "Leaked Service Credentials",
-      "All other related services owned by HERE"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
   },
   {
     "name": "Kong",
