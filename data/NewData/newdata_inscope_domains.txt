@@ -1,1 +1,2 @@
-api.remitly.com
+files.stripe.com
+stripe.dev
