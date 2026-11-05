@@ -13397,7 +13397,6 @@
       "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380",
       "https://play.google.com/store/apps/details?id=fr.vinted",
       "https://sandbox.vintedgo.com",
-      "https://sandbox.vinted.com",
       "https://test-escalations.vintedgo.com",
       "https://badger.it.vinted.com",
       "https://careers.vinted.com",
@@ -13407,7 +13406,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-11"
+    "last_updated": "2026-11-05"
   },
   {
     "name": "Volkswagen ",
@@ -44605,6 +44604,7 @@
       "ai-lab-code-interpreter-api.ae-machine-learning-operations-devl-vpn.us.e18.c01.johndeerecloud.com",
       "ai-lab.ae-machine-learning-operations-prod-vpn.us.e18.c01.johndeerecloud.com",
       "ai-platform.deere.com",
+      "ai-playbook-kit.mfg-material-management-devl-vpn.us.e11.c01.johndeerecloud.com",
       "ai-quest.deere.com",
       "ai.deere.com",
       "aia-dev.witos.wirtgen-group.com",
@@ -45033,6 +45033,7 @@
       "enterpriseregistration.wirtgen.tech",
       "enterpriseregistration.wirtgenankara.com.tr",
       "equipment.deere.com",
+      "es-develop-api.channel-expertservices-prod-vpn.us.e00.c01.johndeerecloud.com",
       "es.smartapply.com",
       "esb-advasta-cons.services.wirtgen-group.com",
       "esb-advasta.services.wirtgen-group.com",
@@ -48248,18 +48249,17 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
-      "bigcommerce-adapter.judge.me",
       "cache.judge.me",
+      "emails.judge.me",
       "https://judge.me/reviews",
       "insights.judgeme.dev",
       "judge.me",
-      "shop.judge.me",
-      "woocommerce-adapter.judge.me"
+      "shop.judge.me"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-05"
   },
   {
     "name": "R3",
@@ -58374,6 +58374,7 @@
       "H5G/Agency",
       "Managed OpenClaw",
       "agents.hostinger.com",
+      "ai-builder.hostinger.com",
       "builder.hostinger.com",
       "cpanel.hostinger.com",
       "ecommerce.hostinger.com",
@@ -58387,7 +58388,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-05"
   },
   {
     "name": "Shutterfly VDP",

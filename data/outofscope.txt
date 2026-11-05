@@ -3645,6 +3645,7 @@ lansweeper.com
 libelle.nl
 actie.libelle.nl
 login.liferay.com
+support.lightspark.com
 community.monzo.com
 login.internal.monzo.com
 monzo.me
@@ -3722,6 +3723,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
