@@ -1571,15 +1571,13 @@ yourdomain.freshdesk.com
 yourdomain.freshrelease.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
-bigcommerce-adapter.judge.me
-judge.me
-bigcommerce.com
 cache.judge.me
 support.judge.me
+emails.judge.me
+judge.me
 insights.judgeme.dev
 apps.shopify.com
 shop.judge.me
-woocommerce-adapter.judge.me
 api.doppler.com
 docs.doppler.com
 dashboard.doppler.com
@@ -1744,6 +1742,7 @@ blog.cs.money
 support.cs.money
 wiki.cs.money
 agents.hostinger.com
+ai-builder.hostinger.com
 builder.hostinger.com
 cpanel.hostinger.com
 ecommerce.hostinger.com

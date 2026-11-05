@@ -1,2 +1,2 @@
-files.stripe.com
-stripe.dev
+emails.judge.me
+ai-builder.hostinger.com
