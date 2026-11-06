@@ -670,10 +670,6 @@ e.g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -2697,6 +2693,7 @@ attdashboard.wireless.att.com
 attpurchasing.com
 attsuppliers.com
 authkeysmx01.att.com.mx
+accesspro.att.com
 dna-uat.az.cloud.att.com
 clec.att.com
 prod-taxexempt.att.com
@@ -3653,7 +3650,6 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
-a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de

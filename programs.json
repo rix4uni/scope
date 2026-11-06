@@ -4026,29 +4026,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -8312,7 +8289,6 @@
     "reward": "$7500",
     "inscope_domains": [
       "https://fivetran.com/login",
-      "https://it-fivetran.com",
       "https://*.getdbt.com",
       "https://*.dbt.com",
       "https://*.dbtlabs.com"
@@ -8330,7 +8306,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-13"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Flourish",
@@ -18882,6 +18858,7 @@
       "https://github.com/aws/aws-cdk",
       "https://github.com/aws/aws-cli",
       "https://github.com/aws/aws-sdk",
+      "https://github.com/aws/s2n-quic",
       "https://github.com/aws/s2n-tls",
       "https://github.com/awslabs/*",
       "https://github.com/deepjavalibrary/*",
@@ -18894,7 +18871,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-13"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "NBA Public Bug Bounty",
@@ -60496,6 +60473,7 @@
       "attpurchasing.com",
       "attsuppliers.com",
       "authkeysmx01.att.com.mx",
+      "http://accesspro.att.com",
       "http://dna-uat.az.cloud.att.com/",
       "https://40.233.66.139",
       "https://clec.att.com/clec/",
@@ -60505,7 +60483,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Lark Technologies",
@@ -61093,6 +61071,7 @@
       "4njbets.us.betfair.com",
       "599664106",
       "6740879082",
+      "FanDuel Customer Support Sites",
       "com.fanduel.android.self",
       "com.fanduel.casino",
       "com.fanduel.racing",
@@ -61108,7 +61087,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Credit Karma",
@@ -61805,7 +61784,6 @@
       "com.Hyatt",
       "confluence.hyattdev.com",
       "ebsext.oft.hyatt.com",
-      "hyatt.com",
       "login.www.vaxvacationaccess.com",
       "meetings.hyatt.com",
       "mobileapp.hyatt.com",
@@ -61854,7 +61832,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-09"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Flipkart",
@@ -62016,6 +61994,24 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-16"
+  },
+  {
+    "name": "MariaDB",
+    "program_url": "https://hackerone.com/mariadb",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "MariaDB Server & Connectors  - Denial of Service",
+      "MariaDB Server & Connectors - Access control bypass",
+      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
+      "MariaDB Server & Connectors - Remote Code Execution",
+      "mariadb.org"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Chaturbate",
@@ -65801,6 +65797,29 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Sqills",
     "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -66248,24 +66267,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-22"
-  },
-  {
-    "name": "MariaDB",
-    "program_url": "https://hackerone.com/mariadb",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "MariaDB Server & Connectors  - Denial of Service",
-      "MariaDB Server & Connectors - Access control bypass",
-      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
-      "MariaDB Server & Connectors - Remote Code Execution",
-      "mariadb.org"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-15"
   },
   {
     "name": "Ant Group Security Response Center - Bug Bounty Program",
