@@ -187,6 +187,7 @@ meesho.com
 valmo.in
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
+bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com
 braze.com
 api.prod.whoop.com

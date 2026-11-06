@@ -985,6 +985,7 @@ devdegree*.shopifycloud.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
+*.attentia.be
 *.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de

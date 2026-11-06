@@ -135,6 +135,9 @@ shop.kinepolis.be
 shop.kinepolis.es
 shop.kinepolis.fr
 shop.kinepolis.lu
+careers.kiwa.com
+qr.kiwa.com
+kiwa.com
 lsagentrelay.lansweeper.com
 careers.lansweeper.com
 lansweeper.com

@@ -515,7 +515,7 @@
     "program_url": "https://yeswehack.com/programs/harman-international-web-applications",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
     "platform": "YesWeHack",
-    "reward": "$2500",
+    "reward": "$2000",
     "inscope_domains": [
       "https://www.jbl.com",
       "https://www.lexicon.com",
@@ -1553,14 +1553,14 @@
     "platform": "YesWeHack",
     "reward": "$null",
     "inscope_domains": [
-      "https://dojo-yeswehack.com/challenge-of-the-month/dojo-55"
+      "https://dojo-yeswehack.com/challenge-of-the-month/dojo-56"
     ],
     "outofscope_domains": [
       "Everything that's out of the scope root URL"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "ZECIBLE PUBLIC BUG BOUNTY PROGRAM",
@@ -1801,6 +1801,24 @@
       "chollometro.com",
       "blogdechollos.es",
       "Atolls.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Attentia VDP",
+    "program_url": "https://www.intigriti.com/programs/attentia/attentiavdp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.attentia.be",
+      "Attie by Attentia - IOS",
+      "My Attentia - IOS",
+      "Attie by Attentia - Android",
+      "My Attentia - Android"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -3331,6 +3349,29 @@
       "shop.kinepolis.es",
       "shop.kinepolis.fr ",
       "shop.kinepolis.lu"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Kiwa Vulnerability Disclosure Program",
+    "program_url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "*.kiwa.com",
+      "*.kiwaimpact.com",
+      "*.kiwa.info",
+      "*.kiwa.nl",
+      "*.kiwa.se",
+      "*.kiwa.no"
+    ],
+    "outofscope_domains": [
+      "https://careers.kiwa.com/",
+      "https://qr.kiwa.com/",
+      "https://www.kiwa.com/en/contact/"
     ],
     "issues_reported": [],
     "scamhit": "",
@@ -16766,12 +16807,13 @@
     "inscope_domains": [
       "https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/",
       "https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/",
+      "https://bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com/mcp",
       "https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Hyland Software",
@@ -62715,6 +62757,7 @@
       "FortniteLauncher.exe",
       "UEFN",
       "UnrealEditorFortnite-Win64-Shipping.exe",
+      "Zenserver",
       "aqtooling.com",
       "aquiris.com.br",
       "aquiris.studio",
@@ -62868,7 +62911,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-02"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Sony",
@@ -62974,7 +63017,6 @@
       "help.bitwarden.com",
       "https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/",
       "https://addons.opera.com/extensions/details/bitwarden-free-password-manager/",
-      "https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en",
       "https://github.com/bitwarden",
       "https://github.com/bitwarden/android",
       "https://github.com/bitwarden/clients",
@@ -62999,7 +63041,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-09"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Oportun",
@@ -66050,29 +66092,6 @@
     "last_updated": "2026-10-09"
   },
   {
-    "name": "Kiwa Vulnerability Disclosure Program",
-    "program_url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "*.kiwa.com",
-      "*.kiwaimpact.com",
-      "*.kiwa.info",
-      "*.kiwa.nl",
-      "*.kiwa.se",
-      "*.kiwa.no"
-    ],
-    "outofscope_domains": [
-      "https://careers.kiwa.com/",
-      "https://qr.kiwa.com/",
-      "https://www.kiwa.com/en/contact/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "BRP Challenge",
     "program_url": "https://www.intigriti.com/programs/intigriti/challengebrp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -66123,24 +66142,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-09"
-  },
-  {
-    "name": "Attentia VDP",
-    "program_url": "https://www.intigriti.com/programs/attentia/attentiavdp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "*.attentia.be",
-      "Attie by Attentia - IOS",
-      "My Attentia - IOS",
-      "Attie by Attentia - Android",
-      "My Attentia - Android"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "Fresenius",
