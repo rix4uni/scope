@@ -4,7 +4,6 @@ actie.ad.nl
 *.allegro.pl
 *.allegro.sk
 *.allegrogroup.com
-*.axelspringer.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
 puml.devops.buhlergroup.com
@@ -142,7 +141,6 @@ libelle.nl
 actie.libelle.nl
 *.lxc.liferay.com
 login.liferay.com
-support.lightspark.com
 *.monzo.me
 community.monzo.com
 login.internal.monzo.com
