@@ -591,15 +591,12 @@
       "cloud.cloud1.harmanaudio.com",
       "cloud.cloud3.harmanaudio.com",
       "https://secondchance.jbl.com/module/stripe_official/createIntent",
-      "jp.harmanaudio.com",
-      "jp.jbl.com",
       "https://devicedb.roonlabs.net/1/devicedb-*.zip",
-      "https://secondchance.jbl.com",
-      "https://pl.jbl.com"
+      "https://secondchance.jbl.com"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-04"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Harman International Lifestyle Products & Services",
@@ -1811,6 +1808,62 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Axel Springer National Media & Tech",
+    "program_url": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "newsos.com",
+      "politico.eu",
+      "adtechnology.axelspringer.com",
+      "*.asadcdn.com",
+      "bild.de",
+      "welt.de",
+      "epaper.welt.de",
+      "cancellation.prod.ps.welt.de",
+      "digital.welt.de",
+      "signin.auth.welt.de",
+      "m.bild.de",
+      "*.hey.bild.de",
+      "go.welt.de",
+      "*.auth.bild.de",
+      "*.sportbild.de",
+      "meinkonto.bild.de",
+      "*.bild.tv",
+      "*.computerbild.de",
+      "18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39",
+      "dealer.prod.ps.axelspringer.de/purchases/*",
+      "*.germany.politico.eu",
+      "*.welt.de",
+      "*.bild.de",
+      "*.bild.design",
+      "*.autobild.de",
+      "*.bz-berlin.de",
+      "*.spring-media.de",
+      "*.springtools.de",
+      "editorial.one",
+      "*.as-nmt.de",
+      "*.ein-herz-fuer-kinder.de",
+      "*.fitbook.de",
+      "*.myhomebook.de",
+      "*.petbook-magazine.com/",
+      "*.petbook.de",
+      "*.stylebook.de",
+      "*.techbook.de",
+      "*.travelbook.de",
+      "*.wissen-sie-mehr.de",
+      "technik.autobild.de",
+      "technik.beta.autobild.de"
+    ],
+    "outofscope_domains": [
+      "*.axelspringer.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
+  },
+  {
     "name": "Axel Springer SE Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/axelspringerse/axelspringersevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2858,6 +2911,42 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Here Technologies",
+    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
+      "*.router.hereapi.com",
+      "*.subp-router.hereapi.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "xyz.api.here.com",
+      "*.scbe.api.here.com",
+      "*.here.com",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Het Laatste Nieuws",
@@ -4554,27 +4643,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Sqills",
-    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "*.sqills.com",
-      "*.sqills.team"
-    ],
-    "outofscope_domains": [
-      "*.red.sqills.team",
-      "booking.*.cloud.sqills.com",
-      "booking.*.sqills.com",
-      "careers.sqills.com",
-      "welcome.sqills.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-10"
-  },
-  {
     "name": "Storebrand Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5195,39 +5263,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "WP Engine Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "https://app.getflywheel.com",
-      "https://getflywheel.com",
-      "https://my.wpengine.com",
-      "https://payments.wpengine.com",
-      "https://wpengine.com",
-      "*. advancedcustomfields.com",
-      "*. bettersearchreplace.com",
-      "*.deliciousbrains.com",
-      "*.localwp.com",
-      "*.nitropack.io",
-      "*.studiopress.com",
-      "*.wpengine.io",
-      "*.wpesvc.net",
-      "WP Engine-developed WordPress Plugins and Themes",
-      "https://makeshift.film",
-      "https://studiopress.blog",
-      "https://torquemag.io",
-      "https://velocitize.com"
-    ],
-    "outofscope_domains": [
-      "marketing.nitropack.io"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-15"
   },
   {
     "name": "WP Engine VDP",
@@ -9895,7 +9930,8 @@
       "https://jp-api-staging.getmoneytree.com",
       "https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US",
       "https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189",
-      "https://mcp-staging.getmoneytree.com/"
+      "https://mcp-staging.getmoneytree.com/",
+      "https://fitbit-lottery.getmoneytree.com/"
     ],
     "outofscope_domains": [
       "moneytree.jp",
@@ -9904,7 +9940,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-28"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Moovit Managed Bug Bounty Program",
@@ -15549,12 +15585,10 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
-      "*.anduril.au",
-      "*.anduril.com",
-      "*.anduril.com.au",
       "*.anduril.dev",
       "*.andurildev.au",
-      "*.andurildev.com"
+      "*.andurildev.com",
+      "anduril.com"
     ],
     "outofscope_domains": [
       "Anduril Property and Facilities",
@@ -15562,7 +15596,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Cognition",
@@ -16070,8 +16104,11 @@
       "*.neutrex.es",
       "*.nomasclavos.cl",
       "*.notyourmothers.com",
+      "*.nymbrand.{com,co.uk,uk,}",
       "*.nymbrands.com,uk,co.uk",
+      "*.nymbrands.{com,co.uk,uk,}",
       "*.nymhair.co.uk,.com,.uk",
+      "*.nymhair.{com,co.uk,uk,}",
       "*.olaplex-dev.com",
       "*.olaplex-test.com",
       "*.olaplex.co.nz",
@@ -16221,7 +16258,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-04"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Robinhood Markets",
@@ -22192,12 +22229,18 @@
       "http://www.bybit.com/trade/tradfi/",
       "http://www.byreal.io",
       "https://apps.apple.com/us/app/bybit-app/id1488296980",
-      "https://play.google.com/store/apps/details?id=com.bybit.app&hl=en"
+      "https://play.google.com/store/apps/details?id=com.bybit.app&hl=en",
+      "https://testnet.bybit.com/en/earn/rwa/",
+      "https://testnet.bybit.com/en/trade/odds/",
+      "https://testnet.bybit.com/en/trade/option/usdt/spcx",
+      "https://testnet.bybit.com/en/trade/usdt/btcusdt",
+      "https://www.bybit.com/en/ai-bot/home",
+      "https://www.bybit.com/en/stocks"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Trip.com",
@@ -63400,12 +63443,11 @@
       "https://github.com/WeblateOrg/wlc"
     ],
     "outofscope_domains": [
-      "github.com",
       "hg.weblate.org"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-06"
   },
   {
     "name": "Disclosure Assistance",
@@ -65717,60 +65759,58 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Axel Springer National Media & Tech",
-    "program_url": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
+    "name": "Sqills",
+    "program_url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
     "reward": "€2500",
     "inscope_domains": [
-      "newsos.com",
-      "politico.eu",
-      "adtechnology.axelspringer.com",
-      "*.asadcdn.com",
-      "bild.de",
-      "welt.de",
-      "epaper.welt.de",
-      "cancellation.prod.ps.welt.de",
-      "digital.welt.de",
-      "signin.auth.welt.de",
-      "m.bild.de",
-      "*.hey.bild.de",
-      "go.welt.de",
-      "*.auth.bild.de",
-      "*.sportbild.de",
-      "meinkonto.bild.de",
-      "*.bild.tv",
-      "*.computerbild.de",
-      "18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39",
-      "dealer.prod.ps.axelspringer.de/purchases/*",
-      "*.germany.politico.eu",
-      "*.welt.de",
-      "*.bild.de",
-      "*.bild.design",
-      "*.autobild.de",
-      "*.bz-berlin.de",
-      "*.spring-media.de",
-      "*.springtools.de",
-      "editorial.one",
-      "*.as-nmt.de",
-      "*.ein-herz-fuer-kinder.de",
-      "*.fitbook.de",
-      "*.myhomebook.de",
-      "*.petbook-magazine.com/",
-      "*.petbook.de",
-      "*.stylebook.de",
-      "*.techbook.de",
-      "*.travelbook.de",
-      "*.wissen-sie-mehr.de",
-      "technik.autobild.de",
-      "technik.beta.autobild.de"
+      "*.sqills.com",
+      "*.sqills.team"
     ],
     "outofscope_domains": [
-      "*.axelspringer.com"
+      "*.red.sqills.team",
+      "booking.*.cloud.sqills.com",
+      "booking.*.sqills.com",
+      "careers.sqills.com",
+      "welcome.sqills.com"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-09"
+    "last_updated": "2026-10-10"
+  },
+  {
+    "name": "WP Engine Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "https://app.getflywheel.com",
+      "https://getflywheel.com",
+      "https://my.wpengine.com",
+      "https://payments.wpengine.com",
+      "https://wpengine.com",
+      "*. advancedcustomfields.com",
+      "*. bettersearchreplace.com",
+      "*.deliciousbrains.com",
+      "*.localwp.com",
+      "*.nitropack.io",
+      "*.studiopress.com",
+      "*.wpengine.io",
+      "*.wpesvc.net",
+      "WP Engine-developed WordPress Plugins and Themes",
+      "https://makeshift.film",
+      "https://studiopress.blog",
+      "https://torquemag.io",
+      "https://velocitize.com"
+    ],
+    "outofscope_domains": [
+      "marketing.nitropack.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Lightspark Public Bug Bounty",
@@ -65808,42 +65848,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-20"
-  },
-  {
-    "name": "Here Technologies",
-    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "HERE WeGo iOS",
-      "HERE WeGo Android",
-      "registry.service.api.platform.here.com",
-      "*.data.api.platform.here.com",
-      "*.metrics.platform.here.com",
-      "*.platform.here.com",
-      "search.hereapi.com",
-      "transit.hereapi.com",
-      "vector.hereapi.com",
-      "mobilitygraph.hereapi.com",
-      "*.router.hereapi.com",
-      "*.subp-router.hereapi.com",
-      "*.hereapi.com",
-      "account.api.here.com",
-      "account.here.com",
-      "listing.here.com",
-      "mapcreator.here.com",
-      "xyz.api.here.com",
-      "*.scbe.api.here.com",
-      "*.here.com",
-      "Leaked/Compromised Employee Credentials",
-      "Leaked Service Credentials",
-      "All other related services owned by HERE"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
   },
   {
     "name": "GOJEK - Public Bounty Program",

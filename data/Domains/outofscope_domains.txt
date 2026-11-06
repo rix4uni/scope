@@ -2952,8 +2952,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-careers.sqills.com
-welcome.sqills.com
 f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no
 kvadrat.no
 viavika.no
@@ -2985,7 +2983,6 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
-marketing.nitropack.io
 getflywheel.com
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
@@ -3086,10 +3083,7 @@ cloud.cloud2.harmanaudio.com
 cloud.cloud1.harmanaudio.com
 cloud.cloud3.harmanaudio.com
 secondchance.jbl.com
-jp.harmanaudio.com
-jp.jbl.com
 devicedb.roonlabs.net
-pl.jbl.com
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
