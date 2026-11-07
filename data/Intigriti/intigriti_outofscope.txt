@@ -74,10 +74,12 @@ registry.digitalocean.com
 *.ondbaasdev.com
 *.onstagingocean.app
 driessen.nl
+*.tigrisdata.com
+*.tigrisdata.io
+community-dev.dropbox.com
+community-stage.dropbox.com
 community.dropbox.com
 replay.dropbox.com
-community-stage.dropbox.com
-community-dev.dropbox.com
 docs.google.com
 20years.eurid.eu
 *.yadifa.eu
