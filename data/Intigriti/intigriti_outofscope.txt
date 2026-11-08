@@ -140,9 +140,6 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-lsagentrelay.lansweeper.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 actie.libelle.nl
 *.lxc.liferay.com
