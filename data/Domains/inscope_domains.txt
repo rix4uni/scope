@@ -3786,13 +3786,6 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
-login.cm.com
-api.cm.com
-api.cmtelecom.com
-cm.com
-appmiral.com
-building-blocks.com
-cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
@@ -4427,12 +4420,6 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
-api.voiapp.io
-mds.voiapp.io
-fm.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
 watsons.com.hk
 0.watsons.com.hk
 api.watsons.com.hk

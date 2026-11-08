@@ -1011,7 +1011,6 @@ devdegree*.shopifycloud.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.bmc.nl
-*.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
@@ -1185,8 +1184,6 @@ sks-*.exo.io
 *.uzleuven.*
 *.vtm.be
 *.vtmgo.be
-*.voi.com
-*.voiscooters.com
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
