@@ -4315,7 +4315,6 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
-cz.skodaauto.myskoda
 socialdeal.nl
 spontaan.nl
 app.nl.socialdeal

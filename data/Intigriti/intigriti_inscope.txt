@@ -721,7 +721,6 @@ transsicura.ch
 *.vintia.cloud
 *.vintia.com
 *.wecosystem.com
-cz.skodaauto.myskoda
 socialdeal.nl
 spontaan.nl
 app.nl.socialdeal
