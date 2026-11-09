@@ -1113,6 +1113,11 @@ sks-*.exo.io
 *.randstadrisesmart.*
 *.risesmart.*
 *.rivian.com
+*.swisspass.ch
+*.sbb.ch
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
@@ -1179,6 +1184,15 @@ sks-*.exo.io
 *.uzleuven.*
 *.vtm.be
 *.vtmgo.be
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
+*.aww.be
+*.water-link.be
+*.mijnwater-link.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw

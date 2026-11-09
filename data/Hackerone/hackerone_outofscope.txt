@@ -1267,6 +1267,8 @@ sr-staging-1.com
 *.chealth.io
 *.currenthealth.com
 *.snap40.com
+oasisprotocol.org
+*.oasisprotocol.org
 api.lemlist.com
 api.taplio.com
 api.tweethunter.io

@@ -1,1 +1,14 @@
-*.attentia.be
+*.swisspass.ch
+*.sbb.ch
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
+*.aww.be
+*.water-link.be
+*.mijnwater-link.be

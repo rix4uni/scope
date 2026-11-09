@@ -400,6 +400,7 @@ marketplace-*.freshworks.com
 *.chealth.io
 *.currenthealth.com
 *.snap40.com
+*.oasisprotocol.org
 *.atp-exodus.com
 *.grateful.me
 *.mtnfootball.com

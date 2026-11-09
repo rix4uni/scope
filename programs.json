@@ -4396,6 +4396,32 @@
     "last_updated": "2026-11-05"
   },
   {
+    "name": "SBB - Swiss Federal Railways",
+    "program_url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6666",
+    "inscope_domains": [
+      " Mobile Apps",
+      "*.swisspass.ch",
+      "www.sbb.ch",
+      "*.sbb.ch",
+      "Mobile Apps",
+      "www.elvetino.ch",
+      "*elvetino.ch",
+      "www.sbbcargo.com",
+      "*sbbcargo.com",
+      "www.transsicura.ch",
+      "*transsicura.ch",
+      "All other Web and mobile APPs owned by SBB ",
+      "All other SBB owned IT assets"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Salto Vulnerability Disclosure ",
     "program_url": "https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5144,6 +5170,39 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "WP Engine Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "https://app.getflywheel.com",
+      "https://getflywheel.com",
+      "https://my.wpengine.com",
+      "https://payments.wpengine.com",
+      "https://wpengine.com",
+      "*. advancedcustomfields.com",
+      "*. bettersearchreplace.com",
+      "*.deliciousbrains.com",
+      "*.localwp.com",
+      "*.nitropack.io",
+      "*.studiopress.com",
+      "*.wpengine.io",
+      "*.wpesvc.net",
+      "WP Engine-developed WordPress Plugins and Themes",
+      "https://makeshift.film",
+      "https://studiopress.blog",
+      "https://torquemag.io",
+      "https://velocitize.com"
+    ],
+    "outofscope_domains": [
+      "marketing.nitropack.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
+  },
+  {
     "name": "WP Engine VDP",
     "program_url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5173,6 +5232,52 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Water-Link",
+    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "desktop.water-link.be",
+      "pit.water-link.be",
+      "*.aww.be",
+      "*.water-link.be",
+      "indussiibis.water-link.be",
+      "*.mijnwater-link.be",
+      "aquawardsspatial.water-link.be",
+      "aquawardsoperate.water-link.be",
+      "waterkracht-levering.be",
+      "induss.eu",
+      "rio-link.be",
+      "water-kracht-levering.eu",
+      "adelta.be",
+      "waterkracht-levering.eu",
+      "aww.eu",
+      "waterlink.be",
+      "water-kracht-levering.be",
+      "waterstoringen.be"
+    ],
+    "outofscope_domains": [
+      "waterwise.be",
+      "peppol-a.water-link.be",
+      "aquawise.be",
+      "oxum.be",
+      "peppol-t.water-link.be",
+      "storingvideo-t.water-link.be",
+      "wl_dev.water-link.be",
+      "wl_acc.water-link.be",
+      "aquawardsoperateacc.water-link.be",
+      "gisacc(*).water-link.be",
+      "secrets.water-link.be",
+      "feedback.water-link.be",
+      "jobs.water-link.be",
+      "water-link-jaarverslag.be"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-09"
   },
   {
     "name": "Water-Link VDP",
@@ -58828,6 +58933,34 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Oasis Protocol Foundation",
+    "program_url": "https://hackerone.com/oasisprotocol",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "github.com/oasisprotocol/explorer",
+      "http://emerald.oasis.dev",
+      "http://grpc.oasis.dev",
+      "http://rosetta.oasis.dev/api/mainnet",
+      "http://sapphire.oasis.io",
+      "https://github.com/oasisprotocol/curve25519-voi",
+      "https://github.com/oasisprotocol/deoxysii",
+      "https://github.com/oasisprotocol/deoxysii-rust",
+      "https://github.com/oasisprotocol/oasis-core",
+      "https://github.com/oasisprotocol/oasis-sdk",
+      "https://github.com/oasisprotocol/oasis-wallet-web",
+      "status.oasis.io",
+      "wallet.oasis.io"
+    ],
+    "outofscope_domains": [
+      "Not in Scope"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-09"
+  },
+  {
     "name": "lemlist",
     "program_url": "https://hackerone.com/lemlist",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65640,32 +65773,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "SBB - Swiss Federal Railways",
-    "program_url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6666",
-    "inscope_domains": [
-      " Mobile Apps",
-      "*.swisspass.ch",
-      "www.sbb.ch",
-      "*.sbb.ch",
-      "Mobile Apps",
-      "www.elvetino.ch",
-      "*elvetino.ch",
-      "www.sbbcargo.com",
-      "*sbbcargo.com",
-      "www.transsicura.ch",
-      "*transsicura.ch",
-      "All other Web and mobile APPs owned by SBB ",
-      "All other SBB owned IT assets"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Skoda Auto Bug Bounty Program",
     "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65841,39 +65948,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-10"
-  },
-  {
-    "name": "WP Engine Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "https://app.getflywheel.com",
-      "https://getflywheel.com",
-      "https://my.wpengine.com",
-      "https://payments.wpengine.com",
-      "https://wpengine.com",
-      "*. advancedcustomfields.com",
-      "*. bettersearchreplace.com",
-      "*.deliciousbrains.com",
-      "*.localwp.com",
-      "*.nitropack.io",
-      "*.studiopress.com",
-      "*.wpengine.io",
-      "*.wpesvc.net",
-      "WP Engine-developed WordPress Plugins and Themes",
-      "https://makeshift.film",
-      "https://studiopress.blog",
-      "https://torquemag.io",
-      "https://velocitize.com"
-    ],
-    "outofscope_domains": [
-      "marketing.nitropack.io"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-15"
   },
   {
     "name": "Lightspark Public Bug Bounty",
@@ -66296,52 +66370,6 @@
     ],
     "scamhit": "1",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Water-Link",
-    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "desktop.water-link.be",
-      "pit.water-link.be",
-      "*.aww.be",
-      "*.water-link.be",
-      "indussiibis.water-link.be",
-      "water-link-jaarverslag.be",
-      "*.mijnwater-link.be",
-      "aquawardsspatial.water-link.be",
-      "aquawardsoperate.water-link.be",
-      "waterkracht-levering.be",
-      "induss.eu",
-      "rio-link.be",
-      "water-kracht-levering.eu",
-      "adelta.be",
-      "waterkracht-levering.eu",
-      "aww.eu",
-      "waterlink.be",
-      "water-kracht-levering.be",
-      "waterstoringen.be"
-    ],
-    "outofscope_domains": [
-      "waterwise.be",
-      "peppol-a.water-link.be",
-      "aquawise.be",
-      "oxum.be",
-      "peppol-t.water-link.be",
-      "storingvideo-t.water-link.be",
-      "wl_dev.water-link.be",
-      "wl_acc.water-link.be",
-      "aquawardsoperateacc.water-link.be",
-      "gisacc(*).water-link.be",
-      "secrets.water-link.be",
-      "feedback.water-link.be",
-      "jobs.water-link.be"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-28"
   },
   {
     "name": "Visma",
