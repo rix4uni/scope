@@ -1189,12 +1189,6 @@ sks-*.exo.io
 *.vtmgo.be
 *.voi.com
 *.voiscooters.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
