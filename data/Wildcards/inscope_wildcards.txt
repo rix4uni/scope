@@ -417,13 +417,10 @@ test*.redoxengine.com
 *.oklink.com
 *.okx.com
 *.happening.dev
-*.luckydays.ca
-*.luckydays.com
 *.napoleoncasino.be
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.spinaway.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -560,8 +557,6 @@ vcc-*.8x8.com
 *.exodus.com
 *.exodus.io
 *.k8s.io
-*.sprint.apps.dynatracelabs.com
-*.sprint.dynatracelabs.com
 *.airstar-finance.com
 *.airstar.com
 *.airstarfinance.net
@@ -1167,10 +1162,6 @@ sks-*.exo.io
 *.rallyforrestaurant.com
 *.ibizdna.com
 *.rallyforestaurants.com
-*.weareone.world
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
 *.trouw.nl
 *.truelayer.com
 *.zimpler.net
@@ -1183,8 +1174,6 @@ sks-*.exo.io
 *.kwsdose.be
 *.playuzleuven.be
 *.uzleuven.*
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.voi.com

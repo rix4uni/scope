@@ -542,6 +542,7 @@ dataspanapi.wisdomtree.com
 wisdomtree.com
 wisdomtree.eu
 *.epic.superbet.ro
+*.luckydays.ca
 affiliate.napoleongames.be
 affiliates.superbet.com
 affiliates.superbet.rs
@@ -1261,6 +1262,7 @@ pnp.myndr.net
 faraday.ai
 faraday.atlassian.net
 help.evernote.com
+svn.filezilla-project.org
 signrequest.com
 sr-staging-1.com
 *.hcltechsw.com
@@ -1576,12 +1578,6 @@ prod-taxexempt.att.com
 rcloud.social
 thedirectvmarketingzone.com
 *solidus.io
-*.dev.dynatracelabs.com
-*.dynatrace.com
-community.dynatrace.com
-playground.apps.dynatrace.com
-university-staging.dynatracelabs.com
-wyq34449.sprint.apps.dynatracelabs.com
 *.citymapper.com
 *.drivewithvia.com
 citymapper.com

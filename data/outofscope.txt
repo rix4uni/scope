@@ -290,6 +290,7 @@ db.*.supabase.co
 mta*.stripchat.com
 *.okg.com
 *.epic.superbet.ro
+*.luckydays.ca
 *.magiceden.dev
 *.magiceden.io
 *.magiceden.workers.dev
@@ -465,8 +466,6 @@ marketplace-*.freshworks.com
 *.workdayinfortraining.att.com
 *tworks-att.com
 *solidus.io
-*.dev.dynatracelabs.com
-*.dynatrace.com
 *.citymapper.com
 *.drivewithvia.com
 *.criticalstack.com
@@ -697,7 +696,6 @@ e.g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
-*.uphodl.com
 shop.*.be
 *.zabka-snrs.zabka.pl
 *.intigriti.io
@@ -2459,6 +2457,7 @@ pnp.myndr.net
 faraday.ai
 faraday.atlassian.net
 help.evernote.com
+svn.filezilla-project.org
 signrequest.com
 sr-staging-1.com
 oasisprotocol.org
@@ -2705,10 +2704,6 @@ clec.att.com
 prod-taxexempt.att.com
 rcloud.social
 thedirectvmarketingzone.com
-community.dynatrace.com
-playground.apps.dynatrace.com
-university-staging.dynatracelabs.com
-wyq34449.sprint.apps.dynatracelabs.com
 citymapper.com
 remix.com
 ridewithvia.com
@@ -3641,6 +3636,9 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+lsagentrelay.lansweeper.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 actie.libelle.nl
 login.liferay.com
@@ -3706,19 +3704,6 @@ vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
-api.uphold.com
-wallet.uphold.com
-api.topperpay.com
-app.topperpay.com
-graphql.topperpay.com
-api.enterprise.uphold.com
-cms.optimuscards.com
-status.uphold.com
-uphodl.com
-support.topperpay.com
-support-staging.topperpay.com
-support.uphold.com
-support-sandbox.uphold.com
 cds.vrt.radio
 innovatie.vrt.be
 vtmgo.be

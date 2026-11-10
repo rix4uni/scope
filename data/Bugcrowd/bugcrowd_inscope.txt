@@ -100,6 +100,7 @@ bitpanda.com
 api.bitpanda.com
 socket.bitpanda.com
 account.bitpanda.com
+login.bitpanda.com
 blog.bitpanda.com
 bitso.com
 nvio.mx
