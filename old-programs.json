@@ -3480,6 +3480,37 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Lansweeper Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "app.lansweeper.com",
+      "fb.lansweeper.com",
+      "edge.lansweeper.com",
+      "api.lansweeper.com",
+      "backoffice.lansweeper.com",
+      "app.lansweeper.com/trial",
+      "autoupdateapi.lansweeper.com",
+      "docs.lansweeper.com",
+      "login.lansweeper.com",
+      "www.lansweeper.com",
+      "*.lansweeper.com"
+    ],
+    "outofscope_domains": [
+      "Lansweeper Classic",
+      "Lansweeper Discovery",
+      "https://lsagentrelay.lansweeper.com/",
+      " lsrunase2.0 and lsencrypt2.0 ",
+      "careers.lansweeper.com",
+      "www.lansweeper.com/forum"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Libelle",
     "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4894,41 +4925,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Tomorrowland",
-    "program_url": "https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2500",
-    "inscope_domains": [
-      "cas.tomorrowland.com",
-      "*.weareone.world",
-      "belgium.tomorrowland.com",
-      "brasil.tomorrowland.com",
-      "com.tomorrowland.oneworldradio",
-      "globaljourney.tomorrowland.com",
-      "my.tomorrowland.com",
-      "one-world-radio-tomorrowland/id1485778856",
-      "sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com",
-      "tlbe.prod.tomorrowland.com",
-      "tlbr.prod.tomorrowland.com",
-      "tlfr.prod.tomorrowland.com",
-      "winter.tomorrowland.com",
-      "winterpackages.tomorrowland.com",
-      "www.tomorrowland.com",
-      "store.tomorrowland.com",
-      "brasil-store.tomorrowland.com",
-      "*.stag.tomorrowland.com",
-      "*.stag.weareone.world",
-      "*.tomorrowland.com",
-      "components.stag.tomorrowland.com",
-      "components.tomorrowland.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Torfs",
     "program_url": "https://www.intigriti.com/programs/torfs/torfs/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5123,69 +5119,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Uphold",
-    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "portal.enterprise.uphold.com",
-      "api.portal.enterprise.uphold.com ",
-      "Uphold: Buy BTC, ETH and 360+",
-      "Uphold: Buy BTC, ETH and 300+",
-      "wallet-sandbox.uphold.com",
-      "api-sandbox.uphold.com",
-      "docs.uphold.com",
-      "api-sandbox.uphold.com/graphql",
-      "app.sandbox.topperpay.com",
-      "api.sandbox.topperpay.com",
-      "graphql.sandbox.topperpay.com/graphql",
-      "docs.topperpay.com",
-      "www.topperpay.com",
-      "*.topperpay.com",
-      "https://api.enterprise.sandbox.uphold.com/widgets",
-      "https://api.enterprise.sandbox.uphold.com/trading",
-      "https://api.enterprise.sandbox.uphold.com/market-pulse",
-      "https://api.enterprise.sandbox.uphold.com/kyc-connector",
-      "https://api.enterprise.sandbox.uphold.com/core",
-      "https://api.enterprise.sandbox.uphold.com/topper",
-      "uatcms.optimuscards.com",
-      "docs.optimuscards.com",
-      "*.optimuscards.com",
-      "www.optimuscards.com",
-      "github.com/uphold/*",
-      "*.uphold.com",
-      "www.uphold.com"
-    ],
-    "outofscope_domains": [
-      "api.uphold.com",
-      "api.uphold.com/graphql",
-      "wallet.uphold.com",
-      "api.topperpay.com",
-      "app.topperpay.com",
-      "graphql.topperpay.com/graphql",
-      "https://api.enterprise.uphold.com/widgets",
-      "https://api.enterprise.uphold.com/trading",
-      "https://api.enterprise.uphold.com/market-pulse",
-      "https://api.enterprise.uphold.com/kyc-connector",
-      "https://api.enterprise.uphold.com/core",
-      "https://api.enterprise.uphold.com/topper",
-      "cms.optimuscards.com",
-      "status.uphold.com",
-      "www.uphodl.com",
-      "*.uphodl.com",
-      "UpHODL",
-      "UpHODL",
-      "support.topperpay.com",
-      "support-staging.topperpay.com",
-      "support.uphold.com",
-      "support-sandbox.uphold.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-22"
   },
   {
     "name": "VDP",
@@ -6749,6 +6682,7 @@
     "platform": "Bugcrowd",
     "reward": "$15000",
     "inscope_domains": [
+      "https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960",
       "https://web.bitpanda.com",
       "https://www.bitpanda.com/",
       "https://api.bitpanda.com",
@@ -6756,7 +6690,7 @@
       "All the Blockchain Infrastructure",
       "https://account.bitpanda.com",
       "https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda",
-      "https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960",
+      "https://login.bitpanda.com",
       "https://blog.bitpanda.com/en",
       "https://www.bitpanda.com/academy/en/"
     ],
@@ -6772,7 +6706,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-10"
   },
   {
     "name": "Bitso Managed Bug Bounty Engagement",
@@ -21611,6 +21545,7 @@
       "Crypto infrastructure for cold and hot wallets",
       "http://t.me/wallet",
       "http://t.me/walt",
+      "io.walt.app",
       "p2p.walletbot.me",
       "pay.wallet.tg",
       "wallet.tg",
@@ -21626,7 +21561,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-10"
   },
   {
     "name": "TomTom",
@@ -22339,13 +22274,12 @@
       "https://testnet.bybit.com/en/trade/odds/",
       "https://testnet.bybit.com/en/trade/option/usdt/spcx",
       "https://testnet.bybit.com/en/trade/usdt/btcusdt",
-      "https://www.bybit.com/en/ai-bot/home",
       "https://www.bybit.com/en/stocks"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-10"
   },
   {
     "name": "Trip.com",
@@ -23621,13 +23555,10 @@
     "reward": "$$$",
     "inscope_domains": [
       "*.happening.dev",
-      "*.luckydays.ca",
-      "*.luckydays.com",
       "*.napoleoncasino.be",
       "*.napoleondice.be",
       "*.napoleongames.be",
       "*.napoleonsports.be",
-      "*.spinaway.com",
       "*.super.xyz",
       "*.superbet.com",
       "*.superbet.gr",
@@ -23651,6 +23582,7 @@
     ],
     "outofscope_domains": [
       "*.epic.superbet.ro",
+      "*.luckydays.ca",
       "affiliate.napoleongames.be",
       "affiliates.superbet.com",
       "affiliates.superbet.rs",
@@ -23669,7 +23601,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-10"
   },
   {
     "name": "ABN AMRO Bank VDP",
@@ -58943,6 +58875,26 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "FileZilla",
+    "program_url": "https://hackerone.com/filezilla",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "https://filezilla-project.org/download.php?type=server&show_all=1",
+      "https://fzssh.filezilla-project.org/download.php",
+      "https://svn.filezilla-project.org/svn/FileZilla3/trunk/",
+      "https://svn.filezilla-project.org/svn/libfilezilla/trunk",
+      "https://svn.filezilla-project.org/svn/libfilezilla/trunk/"
+    ],
+    "outofscope_domains": [
+      "https://svn.filezilla-project.org/svn/filezilla3/trunk/src/storj/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-10"
+  },
+  {
     "name": "Box BB",
     "program_url": "https://hackerone.com/box_private",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -60719,37 +60671,6 @@
       "https://github.com/curl/curl"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Dynatrace",
-    "program_url": "https://hackerone.com/dynatrace",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "*.sprint.apps.dynatracelabs.com",
-      "*.sprint.dynatracelabs.com",
-      "Core Assets",
-      "Dynatrace ActiveGate",
-      "Dynatrace MobileAgent",
-      "Dynatrace OneAgent",
-      "account-sprint.dynatracelabs.com",
-      "https://github.com/Dynatrace",
-      "myaccount-hardening.dynatracelabs.com",
-      "sso-sprint.dynatracelabs.com"
-    ],
-    "outofscope_domains": [
-      "*.dev.dynatracelabs.com",
-      "*.dynatrace.com",
-      "EasyTrade demo application",
-      "easyTravel demo application",
-      "playground.apps.dynatrace.com",
-      "university-staging.dynatracelabs.com",
-      "wyq34449.sprint.apps.dynatracelabs.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -65911,6 +65832,135 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Tomorrowland",
+    "program_url": "https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "cas.tomorrowland.com",
+      "*.weareone.world",
+      "belgium.tomorrowland.com",
+      "brasil.tomorrowland.com",
+      "com.tomorrowland.oneworldradio",
+      "globaljourney.tomorrowland.com",
+      "my.tomorrowland.com",
+      "one-world-radio-tomorrowland/id1485778856",
+      "sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com",
+      "tlbe.prod.tomorrowland.com",
+      "tlbr.prod.tomorrowland.com",
+      "tlfr.prod.tomorrowland.com",
+      "winter.tomorrowland.com",
+      "winterpackages.tomorrowland.com",
+      "www.tomorrowland.com",
+      "store.tomorrowland.com",
+      "brasil-store.tomorrowland.com",
+      "*.stag.tomorrowland.com",
+      "*.stag.weareone.world",
+      "*.tomorrowland.com",
+      "components.stag.tomorrowland.com",
+      "components.tomorrowland.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Uphold",
+    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "portal.enterprise.uphold.com",
+      "api.portal.enterprise.uphold.com ",
+      "Uphold: Buy BTC, ETH and 360+",
+      "Uphold: Buy BTC, ETH and 300+",
+      "wallet-sandbox.uphold.com",
+      "api-sandbox.uphold.com",
+      "docs.uphold.com",
+      "api-sandbox.uphold.com/graphql",
+      "app.sandbox.topperpay.com",
+      "api.sandbox.topperpay.com",
+      "graphql.sandbox.topperpay.com/graphql",
+      "docs.topperpay.com",
+      "www.topperpay.com",
+      "*.topperpay.com",
+      "https://api.enterprise.sandbox.uphold.com/widgets",
+      "https://api.enterprise.sandbox.uphold.com/trading",
+      "https://api.enterprise.sandbox.uphold.com/market-pulse",
+      "https://api.enterprise.sandbox.uphold.com/kyc-connector",
+      "https://api.enterprise.sandbox.uphold.com/core",
+      "https://api.enterprise.sandbox.uphold.com/topper",
+      "uatcms.optimuscards.com",
+      "docs.optimuscards.com",
+      "*.optimuscards.com",
+      "www.optimuscards.com",
+      "github.com/uphold/*",
+      "*.uphold.com",
+      "www.uphold.com"
+    ],
+    "outofscope_domains": [
+      "api.uphold.com",
+      "api.uphold.com/graphql",
+      "wallet.uphold.com",
+      "api.topperpay.com",
+      "app.topperpay.com",
+      "graphql.topperpay.com/graphql",
+      "https://api.enterprise.uphold.com/widgets",
+      "https://api.enterprise.uphold.com/trading",
+      "https://api.enterprise.uphold.com/market-pulse",
+      "https://api.enterprise.uphold.com/kyc-connector",
+      "https://api.enterprise.uphold.com/core",
+      "https://api.enterprise.uphold.com/topper",
+      "cms.optimuscards.com",
+      "status.uphold.com",
+      "www.uphodl.com",
+      "*.uphodl.com",
+      "UpHODL",
+      "UpHODL",
+      "support.topperpay.com",
+      "support-staging.topperpay.com",
+      "support.uphold.com",
+      "support-sandbox.uphold.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-22"
+  },
+  {
+    "name": "Dynatrace",
+    "program_url": "https://hackerone.com/dynatrace",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "*.sprint.apps.dynatracelabs.com",
+      "*.sprint.dynatracelabs.com",
+      "Core Assets",
+      "Dynatrace ActiveGate",
+      "Dynatrace MobileAgent",
+      "Dynatrace OneAgent",
+      "account-sprint.dynatracelabs.com",
+      "https://github.com/Dynatrace",
+      "myaccount-hardening.dynatracelabs.com",
+      "sso-sprint.dynatracelabs.com"
+    ],
+    "outofscope_domains": [
+      "*.dev.dynatracelabs.com",
+      "*.dynatrace.com",
+      "EasyTrade demo application",
+      "easyTravel demo application",
+      "playground.apps.dynatrace.com",
+      "university-staging.dynatracelabs.com",
+      "wyq34449.sprint.apps.dynatracelabs.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "WP Engine Bug Bounty",
     "program_url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -66041,37 +66091,6 @@
       "https://github.com/DefectDojo/django-DefectDojo"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Lansweeper Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "app.lansweeper.com",
-      "fb.lansweeper.com",
-      "edge.lansweeper.com",
-      "api.lansweeper.com",
-      "backoffice.lansweeper.com",
-      "app.lansweeper.com/trial",
-      "autoupdateapi.lansweeper.com",
-      "docs.lansweeper.com",
-      "login.lansweeper.com",
-      "www.lansweeper.com",
-      "*.lansweeper.com"
-    ],
-    "outofscope_domains": [
-      "Lansweeper Classic",
-      "Lansweeper Discovery",
-      "https://lsagentrelay.lansweeper.com/",
-      " lsrunase2.0 and lsencrypt2.0 ",
-      "careers.lansweeper.com",
-      "www.lansweeper.com/forum"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"

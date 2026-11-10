@@ -1,5 +1,7 @@
-*.ticketing.cm.com
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
 *.topperpay.com
 *.uphold.com
-*.voi.com
-*.voiscooters.com
+*.veriff.com
