@@ -3555,6 +3555,43 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Lightspark Public Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$5000",
+    "inscope_domains": [
+      "sandbox.striga.com",
+      "https://www.vault.striga.eu/web/sandbox/",
+      "https://tfr-sandbox.striga.com/",
+      "https://sandbox.striga.com/backoffice",
+      "https://hooks.striga.com/core/",
+      "https://sandbox.striga.com/api/v0",
+      "https://www.sandbox.striga.com/api/v1/",
+      "https://sandbox.striga.com/api/v1",
+      "https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/",
+      "https://github.com/buildonspark/spark",
+      "https://app.uma.money",
+      "https://link.uma.me",
+      "https://api.lightspark.com",
+      "https://app.lightspark.com",
+      "lightsparkdev/lightspark-crypto-uniffi",
+      "https://github.com/lightsparkdev/kotlin-sdk",
+      "https://github.com/lightsparkdev/js-sdk",
+      "https://github.com/lightsparkdev/flutter-sdk",
+      "https://github.com/lightsparkdev/go-sdk",
+      "https://github.com/lightsparkdev/lightspark-rs",
+      "https://github.com/lightsparkdev/python-sdk",
+      "lightsparkdev/swift-wallet-sdk"
+    ],
+    "outofscope_domains": [
+      "support.lightspark.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-20"
+  },
+  {
     "name": "MAGNIFIC VDP",
     "program_url": "https://www.intigriti.com/programs/freepik/freepikcompany/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4065,6 +4102,29 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "PDQ bug bounty program",
+    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€3500",
+    "inscope_domains": [
+      "https://auth2.pdq.com/",
+      "https://library.pdq.com/",
+      "https://portal.pdq.com/",
+      "https://app.pdq.com/"
+    ],
+    "outofscope_domains": [
+      "https://a.simplemdm.com/",
+      "https://*.pdq.com/",
+      "https://*.pdq.tools/",
+      "https://*.simplemdm.com/ ",
+      "https://*.smartdeploy.com/ "
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "PeopleCert VDP",
     "program_url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4530,10 +4590,12 @@
       "All other Web and mobile APPs owned by SBB ",
       "All other SBB owned IT assets"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "*.event.sbb.ch"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-10"
   },
   {
     "name": "Salto Vulnerability Disclosure ",
@@ -4925,6 +4987,41 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Tomorrowland",
+    "program_url": "https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2500",
+    "inscope_domains": [
+      "cas.tomorrowland.com",
+      "*.weareone.world",
+      "belgium.tomorrowland.com",
+      "brasil.tomorrowland.com",
+      "com.tomorrowland.oneworldradio",
+      "globaljourney.tomorrowland.com",
+      "my.tomorrowland.com",
+      "one-world-radio-tomorrowland/id1485778856",
+      "sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com",
+      "tlbe.prod.tomorrowland.com",
+      "tlbr.prod.tomorrowland.com",
+      "tlfr.prod.tomorrowland.com",
+      "winter.tomorrowland.com",
+      "winterpackages.tomorrowland.com",
+      "www.tomorrowland.com",
+      "store.tomorrowland.com",
+      "brasil-store.tomorrowland.com",
+      "*.stag.tomorrowland.com",
+      "*.stag.weareone.world",
+      "*.tomorrowland.com",
+      "components.stag.tomorrowland.com",
+      "components.tomorrowland.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Torfs",
     "program_url": "https://www.intigriti.com/programs/torfs/torfs/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5121,6 +5218,69 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Uphold",
+    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "portal.enterprise.uphold.com",
+      "api.portal.enterprise.uphold.com ",
+      "Uphold: Buy BTC, ETH and 360+",
+      "Uphold: Buy BTC, ETH and 300+",
+      "wallet-sandbox.uphold.com",
+      "api-sandbox.uphold.com",
+      "docs.uphold.com",
+      "api-sandbox.uphold.com/graphql",
+      "app.sandbox.topperpay.com",
+      "api.sandbox.topperpay.com",
+      "graphql.sandbox.topperpay.com/graphql",
+      "docs.topperpay.com",
+      "www.topperpay.com",
+      "*.topperpay.com",
+      "https://api.enterprise.sandbox.uphold.com/widgets",
+      "https://api.enterprise.sandbox.uphold.com/trading",
+      "https://api.enterprise.sandbox.uphold.com/market-pulse",
+      "https://api.enterprise.sandbox.uphold.com/kyc-connector",
+      "https://api.enterprise.sandbox.uphold.com/core",
+      "https://api.enterprise.sandbox.uphold.com/topper",
+      "uatcms.optimuscards.com",
+      "docs.optimuscards.com",
+      "*.optimuscards.com",
+      "www.optimuscards.com",
+      "github.com/uphold/*",
+      "*.uphold.com",
+      "www.uphold.com"
+    ],
+    "outofscope_domains": [
+      "api.uphold.com",
+      "api.uphold.com/graphql",
+      "wallet.uphold.com",
+      "api.topperpay.com",
+      "app.topperpay.com",
+      "graphql.topperpay.com/graphql",
+      "https://api.enterprise.uphold.com/widgets",
+      "https://api.enterprise.uphold.com/trading",
+      "https://api.enterprise.uphold.com/market-pulse",
+      "https://api.enterprise.uphold.com/kyc-connector",
+      "https://api.enterprise.uphold.com/core",
+      "https://api.enterprise.uphold.com/topper",
+      "cms.optimuscards.com",
+      "status.uphold.com",
+      "www.uphodl.com",
+      "*.uphodl.com",
+      "UpHODL",
+      "UpHODL",
+      "support.topperpay.com",
+      "support-staging.topperpay.com",
+      "support.uphold.com",
+      "support-sandbox.uphold.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-22"
+  },
+  {
     "name": "VDP",
     "program_url": "https://www.intigriti.com/programs/showpad/vdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5208,6 +5368,34 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Veriff Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4000",
+    "inscope_domains": [
+      "1467907532",
+      "alchemy.veriff.com",
+      "api.flamingo-eu.veriff.com",
+      "api.us.veriff.me",
+      "api.veriff.me",
+      "com.veriff.demo",
+      "louvre.veriff.me",
+      "magic.veriff.me",
+      "station.veriff.com",
+      "stationapi.veriff.com",
+      "*.veriff.com",
+      "developers.veriff.me",
+      "www.veriff.com"
+    ],
+    "outofscope_domains": [
+      "https://station.veriff.com/config/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
+  },
+  {
     "name": "Visma Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5243,29 +5431,6 @@
       "https://vlerick.myshopify.com/",
       "https://webform.vlerick.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Voi Scooters",
-    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "Voi – e-scooters & e-bikes",
-      "Voi – e-scooter & e-bike hire",
-      "https://api.voiapp.io/",
-      "mds.voiapp.io",
-      "fm.voiapp.io",
-      "https://repair.voiweb.net",
-      "report.voi.com",
-      "voi.com",
-      "*.voi.com",
-      "*.voiscooters.com"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -13805,20 +13970,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "LiteLLM (VDP)",
-    "program_url": "https://hackerone.com/litellm",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "https://github.com/BerriAI/litellm"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-11-09"
-  },
-  {
     "name": "Verisk VDP",
     "program_url": "https://hackerone.com/verisk_vdp",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -18016,9 +18167,6 @@
       "2dehands.be",
       "2ememain.be",
       "adevinta.com",
-      "datavenues.com",
-      "fotocasa.pro",
-      "habitaclia.com",
       "infojobs.it",
       "jobmarketinsights.com",
       "kijiji.ca",
@@ -18031,7 +18179,6 @@
       "subito.it",
       "www.automobile.it",
       "www.coches.net",
-      "www.fotocasa.es",
       "www.infojobs.net",
       "www.kleinanzeigen.de",
       "www.milanuncios.com",
@@ -18040,7 +18187,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-10"
   },
   {
     "name": "Recreation.gov",
@@ -31794,7 +31941,6 @@
       "*.isonaspureaccesscloud.com",
       "*.my-mobilekey.com",
       "*.yonomi.co",
-      "9500IQ / 2800IQ Senior Swing Series Operators",
       "Aero USB RFID Reader",
       "Axa Remote 2.0",
       "BLEGateway (IF-4041)",
@@ -31811,6 +31957,7 @@
       "Interflex Terminals time recording",
       "Interflex controllers",
       "Interflex desktop readers and encoders",
+      "LCN 9500IQ / 2800IQ Senior Swing Series Operators",
       "MyEVO Lock Controller",
       "MyEVO RFID Transponder",
       "OpenX Wall Reader",
@@ -31932,7 +32079,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-10"
   },
   {
     "name": "Wickr",
@@ -60643,6 +60790,20 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "DefectDojo",
+    "program_url": "https://hackerone.com/defectdojo",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "https://github.com/DefectDojo/django-DefectDojo"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Trellix",
     "program_url": "https://hackerone.com/trellix",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65832,34 +65993,22 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Tomorrowland",
-    "program_url": "https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail",
+    "name": "Voi Scooters",
+    "program_url": "https://www.intigriti.com/programs/voi/voiscooters/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
-    "reward": "€2500",
+    "reward": "€3500",
     "inscope_domains": [
-      "cas.tomorrowland.com",
-      "*.weareone.world",
-      "belgium.tomorrowland.com",
-      "brasil.tomorrowland.com",
-      "com.tomorrowland.oneworldradio",
-      "globaljourney.tomorrowland.com",
-      "my.tomorrowland.com",
-      "one-world-radio-tomorrowland/id1485778856",
-      "sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com",
-      "tlbe.prod.tomorrowland.com",
-      "tlbr.prod.tomorrowland.com",
-      "tlfr.prod.tomorrowland.com",
-      "winter.tomorrowland.com",
-      "winterpackages.tomorrowland.com",
-      "www.tomorrowland.com",
-      "store.tomorrowland.com",
-      "brasil-store.tomorrowland.com",
-      "*.stag.tomorrowland.com",
-      "*.stag.weareone.world",
-      "*.tomorrowland.com",
-      "components.stag.tomorrowland.com",
-      "components.tomorrowland.com"
+      "Voi – e-scooters & e-bikes",
+      "Voi – e-scooter & e-bike hire",
+      "https://api.voiapp.io/",
+      "mds.voiapp.io",
+      "fm.voiapp.io",
+      "https://repair.voiweb.net",
+      "report.voi.com",
+      "voi.com",
+      "*.voi.com",
+      "*.voiscooters.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -65867,67 +66016,18 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Uphold",
-    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
+    "name": "LiteLLM (VDP)",
+    "program_url": "https://hackerone.com/litellm",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
     "inscope_domains": [
-      "portal.enterprise.uphold.com",
-      "api.portal.enterprise.uphold.com ",
-      "Uphold: Buy BTC, ETH and 360+",
-      "Uphold: Buy BTC, ETH and 300+",
-      "wallet-sandbox.uphold.com",
-      "api-sandbox.uphold.com",
-      "docs.uphold.com",
-      "api-sandbox.uphold.com/graphql",
-      "app.sandbox.topperpay.com",
-      "api.sandbox.topperpay.com",
-      "graphql.sandbox.topperpay.com/graphql",
-      "docs.topperpay.com",
-      "www.topperpay.com",
-      "*.topperpay.com",
-      "https://api.enterprise.sandbox.uphold.com/widgets",
-      "https://api.enterprise.sandbox.uphold.com/trading",
-      "https://api.enterprise.sandbox.uphold.com/market-pulse",
-      "https://api.enterprise.sandbox.uphold.com/kyc-connector",
-      "https://api.enterprise.sandbox.uphold.com/core",
-      "https://api.enterprise.sandbox.uphold.com/topper",
-      "uatcms.optimuscards.com",
-      "docs.optimuscards.com",
-      "*.optimuscards.com",
-      "www.optimuscards.com",
-      "github.com/uphold/*",
-      "*.uphold.com",
-      "www.uphold.com"
+      "https://github.com/BerriAI/litellm"
     ],
-    "outofscope_domains": [
-      "api.uphold.com",
-      "api.uphold.com/graphql",
-      "wallet.uphold.com",
-      "api.topperpay.com",
-      "app.topperpay.com",
-      "graphql.topperpay.com/graphql",
-      "https://api.enterprise.uphold.com/widgets",
-      "https://api.enterprise.uphold.com/trading",
-      "https://api.enterprise.uphold.com/market-pulse",
-      "https://api.enterprise.uphold.com/kyc-connector",
-      "https://api.enterprise.uphold.com/core",
-      "https://api.enterprise.uphold.com/topper",
-      "cms.optimuscards.com",
-      "status.uphold.com",
-      "www.uphodl.com",
-      "*.uphodl.com",
-      "UpHODL",
-      "UpHODL",
-      "support.topperpay.com",
-      "support-staging.topperpay.com",
-      "support.uphold.com",
-      "support-sandbox.uphold.com"
-    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-22"
+    "last_updated": "2026-11-09"
   },
   {
     "name": "Dynatrace",
@@ -66013,29 +66113,6 @@
     "last_updated": "2026-10-29"
   },
   {
-    "name": "PDQ bug bounty program",
-    "program_url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€3500",
-    "inscope_domains": [
-      "https://auth2.pdq.com/",
-      "https://library.pdq.com/",
-      "https://portal.pdq.com/",
-      "https://app.pdq.com/"
-    ],
-    "outofscope_domains": [
-      "https://a.simplemdm.com/",
-      "https://*.pdq.com/",
-      "https://*.pdq.tools/",
-      "https://*.simplemdm.com/ ",
-      "https://*.smartdeploy.com/ "
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Water-Link",
     "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -66080,20 +66157,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-11-09"
-  },
-  {
-    "name": "DefectDojo",
-    "program_url": "https://hackerone.com/defectdojo",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "https://github.com/DefectDojo/django-DefectDojo"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "Here Technologies",
@@ -66151,43 +66214,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-10"
-  },
-  {
-    "name": "Lightspark Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$5000",
-    "inscope_domains": [
-      "sandbox.striga.com",
-      "https://www.vault.striga.eu/web/sandbox/",
-      "https://tfr-sandbox.striga.com/",
-      "https://sandbox.striga.com/backoffice",
-      "https://hooks.striga.com/core/",
-      "https://sandbox.striga.com/api/v0",
-      "https://www.sandbox.striga.com/api/v1/",
-      "https://sandbox.striga.com/api/v1",
-      "https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/",
-      "https://github.com/buildonspark/spark",
-      "https://app.uma.money",
-      "https://link.uma.me",
-      "https://api.lightspark.com",
-      "https://app.lightspark.com",
-      "lightsparkdev/lightspark-crypto-uniffi",
-      "https://github.com/lightsparkdev/kotlin-sdk",
-      "https://github.com/lightsparkdev/js-sdk",
-      "https://github.com/lightsparkdev/flutter-sdk",
-      "https://github.com/lightsparkdev/go-sdk",
-      "https://github.com/lightsparkdev/lightspark-rs",
-      "https://github.com/lightsparkdev/python-sdk",
-      "lightsparkdev/swift-wallet-sdk"
-    ],
-    "outofscope_domains": [
-      "support.lightspark.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-20"
   },
   {
     "name": "GOJEK - Public Bounty Program",
@@ -66726,34 +66752,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Veriff Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4000",
-    "inscope_domains": [
-      "1467907532",
-      "alchemy.veriff.com",
-      "api.flamingo-eu.veriff.com",
-      "api.us.veriff.me",
-      "api.veriff.me",
-      "com.veriff.demo",
-      "louvre.veriff.me",
-      "magic.veriff.me",
-      "station.veriff.com",
-      "stationapi.veriff.com",
-      "*.veriff.com",
-      "developers.veriff.me",
-      "www.veriff.com"
-    ],
-    "outofscope_domains": [
-      "https://station.veriff.com/config/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-15"
   },
   {
     "name": "Ninja Kiwi Games Bug Bounty program",

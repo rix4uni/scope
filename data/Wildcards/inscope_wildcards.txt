@@ -920,6 +920,7 @@ paypal-*.com
 devdegree*.shopifycloud.com
 *.shopifycs.com
 *.shopifykloud.com
+*.shopifysvc.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnb.org
@@ -1178,8 +1179,6 @@ sks-*.exo.io
 *.kwsdose.be
 *.playuzleuven.be
 *.uzleuven.*
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.veriff.com

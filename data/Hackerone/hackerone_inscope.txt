@@ -3067,7 +3067,6 @@ launchpad.37signals.com
 world.hey.com
 *.pci.shopifyinc.com
 *.shopify.com
-shopifycompass.com
 *.myshopify.com
 *.shopify.io
 shopify.com
@@ -3077,12 +3076,14 @@ vendorvoice.shopifycloud.com
 nsolid-test-console.shopifycloud.com
 *.shopifycs.com
 *.shopifykloud.com
+*.shopifysvc.com
 accounts.shopify.com
 admin.shopify.com
 arrive-server.shopifycloud.com
-linkpop.com
+help.shop.app
 partners.shopify.com
 shop.app
+shop.com
 shopify.plus
 shopifyinbox.com
 your-store.myshopify.com
