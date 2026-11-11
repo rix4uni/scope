@@ -2693,6 +2693,25 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Dstny",
+    "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238"
+    ],
+    "outofscope_domains": [
+      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-29"
+  },
+  {
     "name": "Dutch Lottery VDP",
     "program_url": "https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -21597,10 +21616,13 @@
       "*.uat.unico.app",
       "[Unico] Liveness Bypass",
       "accountshomolog.acesso.io",
+      "api.humantoken.unico.app",
       "backend-sdk.uat.private.unico.run",
       "blog.unico.io",
-      "devcenter.unico.io",
+      "dashboard.unico.app",
+      "developer.unico.io",
       "https://sdk-h1.unico.io/createprocess",
+      "humantoken.unico.app",
       "idcash-uat.unico.io",
       "identityhomolog.acesso.io",
       "idpay-uat.unico.io",
@@ -21615,7 +21637,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-11"
   },
   {
     "name": "Walt.io",
@@ -31598,6 +31620,7 @@
     "reward": "$$$",
     "inscope_domains": [
       "*.hilton.com",
+      "*.hilton.com.cn",
       "*.hilton.io",
       "*.hiltonbusinessonline.com",
       "*.hiltonlocalbiz.com",
@@ -31638,7 +31661,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-03"
+    "last_updated": "2026-11-11"
   },
   {
     "name": "Gymshark",
@@ -66119,25 +66142,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-15"
-  },
-  {
-    "name": "Dstny",
-    "program_url": "https://www.intigriti.com/programs/dstny/dstnybugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194",
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238"
-    ],
-    "outofscope_domains": [
-      "https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-29"
   },
   {
     "name": "Water-Link",

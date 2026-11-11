@@ -8028,16 +8028,14 @@
     "platform": "Bugcrowd",
     "reward": "$2000",
     "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1215695/easy-agile-roadmaps-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1221392/easy-agile-personas-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/3443905353?hosting=cloud&tab=overviewPartner"
+      "https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-11"
   },
   {
     "name": "eazyBI",
@@ -23639,6 +23637,7 @@
     "reward": "$$$",
     "inscope_domains": [
       "*.happening.dev",
+      "*.maxbet.ro",
       "*.napoleoncasino.be",
       "*.napoleondice.be",
       "*.napoleongames.be",
@@ -23685,7 +23684,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-10"
+    "last_updated": "2026-11-11"
   },
   {
     "name": "ABN AMRO Bank VDP",
@@ -62523,6 +62522,34 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "BitMEX",
+    "program_url": "https://hackerone.com/bitmex",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "*.bitmex.com",
+      "All Other BitMEX Assets",
+      "testnet.bitmex.com",
+      "www.bitmex.com"
+    ],
+    "outofscope_domains": [
+      "academy.bitmex.com",
+      "affiliates.bitmex.com",
+      "bitmex-org.freshworks.com",
+      "bitmex.freshdesk.com",
+      "blog.bitmex.com",
+      "public-testnet.bitmex.com",
+      "public.bitmex.com",
+      "research.bitmex.com",
+      "status.bitmex.com",
+      "support.bitmex.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-11"
   },
   {
     "name": "Crowdstrike",

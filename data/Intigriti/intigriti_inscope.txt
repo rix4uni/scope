@@ -133,6 +133,7 @@ hellofax.com
 *.hellosign.com
 *.helloworks.com
 *.reclaim.ai
+docs.google.com
 staatsloterij.nederlandseloterij.nl
 krasloten.nederlandseloterij.nl
 eurojackpot.nederlandseloterij.nl

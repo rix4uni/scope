@@ -1771,9 +1771,12 @@ portal.playground.klarna.com
 app.klarna.com
 sdk-h1.unico.io
 accountshomolog.acesso.io
+api.humantoken.unico.app
 backend-sdk.uat.private.unico.run
 blog.unico.io
-devcenter.unico.io
+dashboard.unico.app
+developer.unico.io
+humantoken.unico.app
 idcash-uat.unico.io
 identityhomolog.acesso.io
 idpay-uat.unico.io
@@ -3849,6 +3852,7 @@ sign.dropbox.com
 app.reclaim.ai
 docsend.com
 hellofax.com
+docs.google.com
 staatsloterij.nederlandseloterij.nl
 krasloten.nederlandseloterij.nl
 eurojackpot.nederlandseloterij.nl

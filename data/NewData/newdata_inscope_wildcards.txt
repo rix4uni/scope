@@ -1,2 +1,1 @@
-*.maxbet.ro
-*.bitmex.com
+*.hilton.com.cn
