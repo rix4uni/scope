@@ -1067,6 +1067,7 @@ ddfcontent.com
 pornbox.com
 pornworld.com
 *.happening.dev
+*.maxbet.ro
 *.napoleoncasino.be
 rsolution.be
 rijksregister-nummer-generator.rsolution
@@ -2459,6 +2460,9 @@ itv7.itv.com
 metrocompetitions.com
 rafflee.co.uk
 super6.skysports.com
+*.bitmex.com
+testnet.bitmex.com
+bitmex.com
 *.adaptive-shield.com
 *.bionic.ai
 *.crowdstrike.com

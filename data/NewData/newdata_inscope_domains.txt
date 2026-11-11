@@ -1,2 +1,2 @@
-help.shop.app
-shop.com
+testnet.bitmex.com
+bitmex.com

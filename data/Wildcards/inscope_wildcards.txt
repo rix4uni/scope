@@ -417,6 +417,7 @@ test*.redoxengine.com
 *.oklink.com
 *.okx.com
 *.happening.dev
+*.maxbet.ro
 *.napoleoncasino.be
 *.napoleondice.be
 *.napoleongames.be
@@ -722,6 +723,7 @@ paypal-*.com
 *.skypoker.com
 *.skyvegas.com
 *.sportinglife.com
+*.bitmex.com
 *.adaptive-shield.com
 *.bionic.ai
 *.crowdstrike.com

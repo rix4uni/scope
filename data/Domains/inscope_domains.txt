@@ -3118,6 +3118,8 @@ itv7.itv.com
 metrocompetitions.com
 rafflee.co.uk
 super6.skysports.com
+testnet.bitmex.com
+bitmex.com
 apps.apple.com
 falcon-sandbox.com
 hybrid-analysis.com
