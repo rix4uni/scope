@@ -259,6 +259,7 @@ shop.*.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
+station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

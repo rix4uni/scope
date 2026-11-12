@@ -1,4 +1,1 @@
-*.datacamp.com
-*.aww.be
-*.water-link.be
-*.mijnwater-link.be
+*.veriff.com
