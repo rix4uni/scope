@@ -397,6 +397,7 @@ wallpaper.opera.com
 tabfulness.opera.com
 32s.opera.com
 optimizely.com
+brand.optus.com.au
 optus.com.au
 personal.optus.com.au
 yes4good.optus.com.au
