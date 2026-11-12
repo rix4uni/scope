@@ -10045,7 +10045,7 @@
       "https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US",
       "https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189",
       "https://mcp-staging.getmoneytree.com/",
-      "https://fitbit-lottery.getmoneytree.com/"
+      "https://fitbit-lottery-staging.getmoneytree.com/"
     ],
     "outofscope_domains": [
       "moneytree.jp",
@@ -10054,7 +10054,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-12"
   },
   {
     "name": "Moovit Managed Bug Bounty Program",
@@ -10939,6 +10939,7 @@
       "198.142.152.196"
     ],
     "outofscope_domains": [
+      "brand.optus.com.au",
       "https://www.optus.com.au/portal/*",
       "personal.optus.com.au",
       "yes4good.optus.com.au",
@@ -11007,7 +11008,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-12"
   },
   {
     "name": "Opus Guard Marketplace Managed Bug Bounty Engagement",

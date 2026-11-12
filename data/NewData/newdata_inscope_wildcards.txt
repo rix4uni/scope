@@ -1,1 +1,4 @@
-*.hilton.com.cn
+*.datacamp.com
+*.aww.be
+*.water-link.be
+*.mijnwater-link.be

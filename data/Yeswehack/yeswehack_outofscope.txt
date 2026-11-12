@@ -142,6 +142,7 @@ pccweb.api.post.ch
 *.cust.ownit.se
 *.ownit.nu
 tc.ownit.se
+butik.vimla.se
 faq.vimla.se
 status.vimla.se
 stage-vimla-se.vimla.io
