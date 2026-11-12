@@ -1726,7 +1726,6 @@ pnp.myndr.net
 faraday.ai
 faraday.atlassian.net
 help.evernote.com
-svn.filezilla-project.org
 signrequest.com
 sr-staging-1.com
 oasisprotocol.org
@@ -2471,15 +2470,6 @@ my.plaid.com
 advocates.semrush.com
 email.semrush.com
 portswigger.net
-blog.rubygems.org
-guide.rubygems.org
-help.rubygems.org
-rubygems.org
-s3-us-west-2.amazonaws.com
-stats.rubygems.org
-status.rubygems.org
-support.rubygems.org
-uptime.rubygems.org
 developers.files.com
 mail.files.com
 status.files.com
@@ -2783,6 +2773,7 @@ events.cloudflare.com
 examples.realtime.cloudflare.com
 files.plugins.realtime.cloudflare.com
 saffron.git
+php-rce.cloudflare.app
 playground.ai.cloudflare.com
 vibecoder.cloudflare.dev
 react-examples.realtime.cloudflare.com
@@ -2992,7 +2983,6 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
-station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

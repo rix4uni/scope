@@ -1184,7 +1184,6 @@ sks-*.exo.io
 *.uzleuven.*
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
