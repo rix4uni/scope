@@ -1566,6 +1566,7 @@ mgmtpod-10.development.forescoutcloud.net
 *tworks-att.com
 mydirectv.com
 accbusinesspricing.att.com
+att.com.mx
 att.com
 att.suppliergateway.com
 attdashboard.wireless.att.com

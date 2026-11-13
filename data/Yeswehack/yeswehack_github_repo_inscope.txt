@@ -2,3 +2,6 @@ https://github.com/expressvpn/lightway
 https://github.com/expressvpn/wolfssl-rs
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/Infomaniak/desktop-kChat
+https://github.com/Infomaniak/ios-infomaniak-meet
+https://github.com/Infomaniak/android-infomaniak-meet
+https://github.com/Infomaniak/desktop-kMeet

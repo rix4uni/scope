@@ -305,6 +305,7 @@ api-*.soundcloud.com
 *.verisign-grs.com
 *.viatorinc.com
 *.viator.com
+*.integrations.vintedgo.com
 *.volkswagen.de
 *.transferwise.com
 *.wise.com
@@ -1018,7 +1019,6 @@ devdegree*.shopifycloud.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com

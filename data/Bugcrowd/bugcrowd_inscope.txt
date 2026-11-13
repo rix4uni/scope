@@ -1345,6 +1345,11 @@ badger.it.vinted.com
 careers.vinted.com
 company.vinted.com
 news.vinted.com
+ems.it.vinted.com
+qnrs.vintedgo.com
+aim-marketplace.vinted.com
+*.integrations.vintedgo.com
+gemstash-integrations.vintedgo.com
 *.volkswagen.de
 vwfs.de
 vwfs.com

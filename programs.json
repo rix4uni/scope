@@ -716,6 +716,9 @@
       "https://play.google.com/store/apps/details?id=com.infomaniak.swisstransfer",
       "https://apps.apple.com/fr/app/infomaniak-swisstransfer/id6737686335",
       "https://play.google.com/store/apps/details?id=com.infomaniak.sync",
+      "https://github.com/Infomaniak/ios-infomaniak-meet",
+      "https://github.com/Infomaniak/android-infomaniak-meet",
+      "https://github.com/Infomaniak/desktop-kMeet",
       "*.infomaniak.com",
       "manager.infomaniak.com/*proxy*",
       "api.pub1.infomaniak.cloud",
@@ -744,7 +747,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-03"
+    "last_updated": "2026-11-13"
   },
   {
     "name": "Kiteworks Public Bug Bounty Program",
@@ -1354,7 +1357,7 @@
       "*.cust.bredbandsbolaget.se",
       "*.customers.ownit.se",
       "*.cust.ownit.se",
-      "*.ownit.nu",
+      "*.ownit.nu / Ownit Webmail",
       "tc.ownit.se",
       "butik.vimla.se",
       "faq.vimla.se",
@@ -1367,7 +1370,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-12"
+    "last_updated": "2026-11-13"
   },
   {
     "name": "Tencent Bug Bounty Program",
@@ -2415,48 +2418,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
   },
   {
     "name": "De Morgen",
@@ -13566,12 +13527,17 @@
       "https://badger.it.vinted.com",
       "https://careers.vinted.com",
       "https://company.vinted.com",
-      "https://news.vinted.com"
+      "https://news.vinted.com",
+      "https://ems.it.vinted.com",
+      "https://qnrs.vintedgo.com",
+      "https://aim-marketplace.vinted.com",
+      "https://*.integrations.vintedgo.com",
+      "https://gemstash-integrations.vintedgo.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-05"
+    "last_updated": "2026-11-13"
   },
   {
     "name": "Volkswagen ",
@@ -60175,6 +60141,7 @@
       "40.233.66.139",
       "DirecTV Owned Assets",
       "accbusinesspricing.att.com",
+      "att.com.mx",
       "att.com/acctmgmt/*/chunks/*",
       "att.com/acctmgmt/*/stub*/*",
       "att.suppliergateway.com",
@@ -60192,7 +60159,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-13"
   },
   {
     "name": "Lark Technologies",
@@ -65479,6 +65446,48 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "Veriff Bug Bounty",
