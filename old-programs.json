@@ -5338,6 +5338,34 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Veriff Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4000",
+    "inscope_domains": [
+      "1467907532",
+      "alchemy.veriff.com",
+      "api.flamingo-eu.veriff.com",
+      "api.us.veriff.me",
+      "api.veriff.me",
+      "com.veriff.demo",
+      "louvre.veriff.me",
+      "magic.veriff.me",
+      "station.veriff.com",
+      "stationapi.veriff.com",
+      "*.veriff.com",
+      "developers.veriff.me",
+      "www.veriff.com"
+    ],
+    "outofscope_domains": [
+      "https://station.veriff.com/config/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
+  },
+  {
     "name": "Visma Responsible Disclosure",
     "program_url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -17609,10 +17637,12 @@
       "www.spookiezoocash.com",
       "www.thorntons.com"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "ferrero.integrityline.app"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-26"
+    "last_updated": "2026-11-12"
   },
   {
     "name": "Baird",
@@ -66012,34 +66042,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Veriff Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4000",
-    "inscope_domains": [
-      "1467907532",
-      "alchemy.veriff.com",
-      "api.flamingo-eu.veriff.com",
-      "api.us.veriff.me",
-      "api.veriff.me",
-      "com.veriff.demo",
-      "louvre.veriff.me",
-      "magic.veriff.me",
-      "station.veriff.com",
-      "stationapi.veriff.com",
-      "*.veriff.com",
-      "developers.veriff.me",
-      "www.veriff.com"
-    ],
-    "outofscope_domains": [
-      "https://station.veriff.com/config/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-15"
   },
   {
     "name": "FileZilla",
