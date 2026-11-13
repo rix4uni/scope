@@ -1103,12 +1103,6 @@ sks-*.exo.io
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.app.personio-dev.com
-*.app.personio.com
-*.personio-internal.de
-*.personio.tools
-*.personio.de
-*.personiowhistleblowing.com
 *.ripe.net
 *.randstad.*
 *.randstadrisesmart.*
@@ -1185,6 +1179,7 @@ sks-*.exo.io
 *.uzleuven.*
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.aww.be
 *.water-link.be
 *.mijnwater-link.be

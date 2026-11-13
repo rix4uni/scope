@@ -2611,7 +2611,7 @@
     "program_url": "https://www.intigriti.com/programs/dropbox/dropbox/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
     "platform": "Intigriti",
-    "reward": "$15000",
+    "reward": "$10000",
     "inscope_domains": [
       "api.dropbox.com",
       "Dropbox.com",
@@ -2657,7 +2657,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-07"
+    "last_updated": "2026-11-13"
   },
   {
     "name": "Dropbox Vulnerability Disclosure Program ",
@@ -3482,6 +3482,37 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Lansweeper Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "app.lansweeper.com",
+      "fb.lansweeper.com",
+      "edge.lansweeper.com",
+      "api.lansweeper.com",
+      "backoffice.lansweeper.com",
+      "app.lansweeper.com/trial",
+      "autoupdateapi.lansweeper.com",
+      "docs.lansweeper.com",
+      "login.lansweeper.com",
+      "www.lansweeper.com",
+      "*.lansweeper.com"
+    ],
+    "outofscope_domains": [
+      "Lansweeper Classic",
+      "Lansweeper Discovery",
+      "https://lsagentrelay.lansweeper.com/",
+      " lsrunase2.0 and lsencrypt2.0 ",
+      "careers.lansweeper.com",
+      "www.lansweeper.com/forum"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Libelle",
     "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4109,40 +4140,6 @@
       "www.peoplecert.org"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Personio",
-    "program_url": "https://www.intigriti.com/programs/personio/personio/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "*.app.personio-dev.com",
-      "*.app.personio.com",
-      "*.personio-internal.de",
-      "*.personio.tools",
-      "api.personio-dev.com",
-      "api.personio.com",
-      "https://*.personio.de",
-      "https://*.personiowhistleblowing.com",
-      "https://hug.personio.com",
-      "https://sec-test-<intigriti handle>-<nn>.personio.de",
-      "https://www.personio.com/free-trial/",
-      "https://www.personio.de/kostenlos-testen/",
-      "https://community.personio.com",
-      "Other assets owned by Personio"
-    ],
-    "outofscope_domains": [
-      " www.personio.de",
-      "personio.slack.com",
-      "statuspage.personio.de",
-      "support.personio.de",
-      "www.personio.com",
-      "www.personio.es"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -5276,6 +5273,34 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Veriff Bug Bounty",
+    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4000",
+    "inscope_domains": [
+      "1467907532",
+      "alchemy.veriff.com",
+      "api.flamingo-eu.veriff.com",
+      "api.us.veriff.me",
+      "api.veriff.me",
+      "com.veriff.demo",
+      "louvre.veriff.me",
+      "magic.veriff.me",
+      "station.veriff.com",
+      "stationapi.veriff.com",
+      "*.veriff.com",
+      "developers.veriff.me",
+      "www.veriff.com"
+    ],
+    "outofscope_domains": [
+      "https://station.veriff.com/config/"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "Visma Responsible Disclosure",
@@ -65448,6 +65473,40 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Personio",
+    "program_url": "https://www.intigriti.com/programs/personio/personio/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "*.app.personio-dev.com",
+      "*.app.personio.com",
+      "*.personio-internal.de",
+      "*.personio.tools",
+      "api.personio-dev.com",
+      "api.personio.com",
+      "https://*.personio.de",
+      "https://*.personiowhistleblowing.com",
+      "https://hug.personio.com",
+      "https://sec-test-<intigriti handle>-<nn>.personio.de",
+      "https://www.personio.com/free-trial/",
+      "https://www.personio.de/kostenlos-testen/",
+      "https://community.personio.com",
+      "Other assets owned by Personio"
+    ],
+    "outofscope_domains": [
+      " www.personio.de",
+      "personio.slack.com",
+      "statuspage.personio.de",
+      "support.personio.de",
+      "www.personio.com",
+      "www.personio.es"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "DataCamp",
     "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65488,34 +65547,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-09"
-  },
-  {
-    "name": "Veriff Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4000",
-    "inscope_domains": [
-      "1467907532",
-      "alchemy.veriff.com",
-      "api.flamingo-eu.veriff.com",
-      "api.us.veriff.me",
-      "api.veriff.me",
-      "com.veriff.demo",
-      "louvre.veriff.me",
-      "magic.veriff.me",
-      "station.veriff.com",
-      "stationapi.veriff.com",
-      "*.veriff.com",
-      "developers.veriff.me",
-      "www.veriff.com"
-    ],
-    "outofscope_domains": [
-      "https://station.veriff.com/config/"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-15"
   },
   {
     "name": "Superbank - Public Bug Bounty Program",
@@ -66050,37 +66081,6 @@
       "xstr-ru-inventory-uat.eu.elcompanies.com"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Lansweeper Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "app.lansweeper.com",
-      "fb.lansweeper.com",
-      "edge.lansweeper.com",
-      "api.lansweeper.com",
-      "backoffice.lansweeper.com",
-      "app.lansweeper.com/trial",
-      "autoupdateapi.lansweeper.com",
-      "docs.lansweeper.com",
-      "login.lansweeper.com",
-      "www.lansweeper.com",
-      "*.lansweeper.com"
-    ],
-    "outofscope_domains": [
-      "Lansweeper Classic",
-      "Lansweeper Discovery",
-      "https://lsagentrelay.lansweeper.com/",
-      " lsrunase2.0 and lsencrypt2.0 ",
-      "careers.lansweeper.com",
-      "www.lansweeper.com/forum"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"

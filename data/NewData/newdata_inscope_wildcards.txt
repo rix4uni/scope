@@ -1,1 +1,1 @@
-*.integrations.vintedgo.com
+*.veriff.com

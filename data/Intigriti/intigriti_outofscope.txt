@@ -140,6 +140,9 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+lsagentrelay.lansweeper.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 actie.libelle.nl
 *.lxc.liferay.com
@@ -161,12 +164,6 @@ a.simplemdm.com
 *.pdq.tools
 *.simplemdm.com
 *.smartdeploy.com
-personio.de
-personio.slack.com
-statuspage.personio.de
-support.personio.de
-personio.com
-personio.es
 future.portofantwerp.com
 future.portofantwerpbruges.com
 jobs.portofantwerp.com
@@ -246,6 +243,7 @@ shop.*.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
+station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
