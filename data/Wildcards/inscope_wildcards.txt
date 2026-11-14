@@ -1174,9 +1174,6 @@ sks-*.exo.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
-*.uzleuven.*
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
