@@ -1691,6 +1691,24 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Altera",
+    "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$4000",
+    "inscope_domains": [
+      "Firmware",
+      "Hardware",
+      "FPGA Solution Development Tools and Utilities",
+      "Software",
+      "Non Altera Products"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-14"
+  },
+  {
     "name": "Anaconda Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/anacondainc/anacondavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -6831,7 +6849,7 @@
     "program_url": "https://bugcrowd.com/engagements/bitso-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$15000",
+    "reward": "$7500",
     "inscope_domains": [
       "https://bitso.com",
       "https://nvio.mx/",
@@ -6865,7 +6883,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-14"
   },
   {
     "name": "Blockchain.com Managed Bug Bounty Engagement",
@@ -7951,12 +7969,13 @@
       "https://marketplace.atlassian.com/apps/1237787?tab=overview&hosting=cloud",
       "https://marketplace.atlassian.com/apps/1220477/entra-id-azure-ad-attributes-sync-for-jira?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview"
+      "https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-14"
   },
   {
     "name": "DevSamurai",
@@ -10425,12 +10444,12 @@
     "platform": "Bugcrowd",
     "reward": "$1500",
     "inscope_domains": [
-      "https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud"
+      "███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-14"
   },
   {
     "name": "Okta",
@@ -63417,24 +63436,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Brave Software",
-    "program_url": "https://hackerone.com/brave",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Brave Browser Desktop",
-      "Brave websites",
-      "com.brave.browser",
-      "com.brave.ios.browser",
-      "https://github.com/brave/*, https://github.com/brave-intl/*"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "PortSwigger Web Security",
     "program_url": "https://hackerone.com/portswigger",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65473,6 +65474,24 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Personio",
     "program_url": "https://www.intigriti.com/programs/personio/personio/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -66879,24 +66898,6 @@
       "support.ninjakiwi.com",
       "icarusadmin.ninjakiwi.com"
     ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Altera",
-    "program_url": "https://www.intigriti.com/programs/altera/altera/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "$30000",
-    "inscope_domains": [
-      "Firmware",
-      "Hardware",
-      "FPGA Solution Development Tools and Utilities",
-      "Software",
-      "Non Altera Products"
-    ],
-    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
