@@ -1176,7 +1176,6 @@ sks-*.exo.io
 *.tweakimg.net
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.aww.be
 *.water-link.be
 *.mijnwater-link.be

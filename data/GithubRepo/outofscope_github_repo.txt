@@ -1,4 +1,5 @@
 https://github.com/auth0/passport-wsfed-saml2
+https://github.com/trustwallet/wallet-core
 https://github.com/oktadev
 https://github.com/transferwise/pipelinewise
 https://github.com/supabase-community
