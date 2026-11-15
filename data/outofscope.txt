@@ -672,10 +672,6 @@ e.g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -3648,9 +3644,6 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-lsagentrelay.lansweeper.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 actie.libelle.nl
 login.liferay.com
@@ -3663,7 +3656,6 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
-a.simplemdm.com
 future.portofantwerp.com
 future.portofantwerpbruges.com
 jobs.portofantwerp.com
