@@ -178,6 +178,8 @@ prime.plata.co
 lb1.iris.cgophobb.com
 admin.meeshosupply.com
 affiliate.meesho.com
+console.valmo.in
+grocery-supplier.meesho.com
 investor.meesho.com
 meesho.io
 prod.meeshoapi.com
@@ -1101,8 +1103,6 @@ dicey.com
 *.booztlet.com
 kronor.io
 payment-gateway.kronor.io
-my.sheer.com
-sheer.com
 apix.vodafone.om
 om.vodafone.mva
 vfo01.vodafone.om

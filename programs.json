@@ -160,24 +160,6 @@
     "last_updated": "2026-10-19"
   },
   {
-    "name": "Cryptobox",
-    "program_url": "https://yeswehack.com/programs/cryptobox-bug-bounty",
-    "logo": "https://yeswehack.com/assets/images/favicon.ico",
-    "platform": "YesWeHack",
-    "reward": "$5000",
-    "inscope_domains": [
-      "https://bounty.cryptobox.com",
-      "https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr",
-      "https://apps.apple.com/fr/app/cryptobox/id972602802"
-    ],
-    "outofscope_domains": [
-      "Testing any other system than https://bounty.cryptobox.com, in particular admin.bounty.cryptobox.com, *.cryptobox.com or *.ercom.fr."
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
-  },
-  {
     "name": "CyberGhost - Bug Bounty Program",
     "program_url": "https://yeswehack.com/programs/cyberghost-bug-bounty-program",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
@@ -338,7 +320,7 @@
       "billing-client-logs.billing.doctolib.fr | api-external.datascience.doctolibdata.com",
       "doctolib-ps-ehr-downloads.s3.amazonaws.com",
       "vettore.it and any related Vettore assets",
-      "Craft CMS on www.siilo.com, plus siilo.com marketing / staging sub-domains (l.siilo.com, l-dev.siilo.com, web.siilo.com, web-dev.siilo.com, www-admin.siilo.com, mjt-dev.siilo.com, att-dev-nl.siilo.com, sandbox-nl.siilo.com, connect.siilo.com, prod-nl-web.siilo.com)",
+      "Craft CMS on www.siilo.com, plus siilo.com marketing / staging sub-domains (l.siilo.com, l-dev.siilo.com, web.siilo.com, web-dev.siilo.com, www-admin.siilo.com, mjt-dev.siilo.com, att-dev-nl.siilo.com, sandbox-nl.siilo.com, connect.siilo.com, prod-nl-web.siilo.com, connect.doctolib.com)",
       "Third-party assets linked from our products (e.g. login.decathlon.net, wallet.esw.esante.gouv.fr, preprod.alaxione.fr, hooks.zapier.com, cron.signitic.app, job-boards.greenhouse.io, docto.digitalstack.it, and any hospital-specific or customer-specific host)",
       "Any *.sslip.io, *.nip.io, AWS ELB / load-balancer hostname, or raw IPv4 / IPv6 address",
       "Look-alike, typo-squatting or expired domains not owned by Doctolib (e.g. www.dioctolib.de, doctolib.fr.evil.com, doctodketest.tk, doctolib-poc.partner-experience.com)",
@@ -346,7 +328,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Dossier Medical Partagé Bug Bounty Program",
@@ -536,7 +518,7 @@
     "program_url": "https://yeswehack.com/programs/harman-international-web-applications",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
     "platform": "YesWeHack",
-    "reward": "$2000",
+    "reward": "$2500",
     "inscope_domains": [
       "https://www.jbl.com",
       "https://www.lexicon.com",
@@ -617,7 +599,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Harman International Lifestyle Products & Services",
@@ -1372,6 +1354,7 @@
       "*.europolitan.se"
     ],
     "outofscope_domains": [
+      "vdp.telenor.se",
       "*.bbcust.telenor.se",
       "*.cust.telenor.se",
       "*.sme.telenor.se",
@@ -1391,7 +1374,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-13"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Tencent Bug Bounty Program",
@@ -2193,6 +2176,20 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Challenge 1126",
+    "program_url": "https://www.intigriti.com/programs/intigriti/challenge1126/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "https://challenge-1126.intigriti.io/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-16"
+  },
+  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2457,6 +2454,48 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
   },
   {
     "name": "De Morgen",
@@ -12127,10 +12166,7 @@
       "*.prd.services.simplisafe.com (App Endpoints)",
       "*.prd.platform.simplisafe.com (App Endpoints)",
       "media.simplisafe.com",
-      "*.prd.cam.simplisafe.com (App Endpoints)",
-      "https://simplisafe.com",
-      "https://simplisafe.co.uk",
-      "api.prd.commerce.simplisafe.com"
+      "*.prd.cam.simplisafe.com (App Endpoints)"
     ],
     "outofscope_domains": [
       "auth.simplisafe.com",
@@ -12139,11 +12175,14 @@
       "library.simplisafe.com",
       "livechat.simplisafe.com",
       "press.simplisafe.com",
-      "support.simplisafe.com"
+      "support.simplisafe.com",
+      "https://simplisafe.com",
+      "https://simplisafe.co.uk",
+      "api.prd.commerce.simplisafe.com"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Skroutz Public Managed Bug Bounty",
@@ -14930,6 +14969,7 @@
       "https://essityusa.com",
       "https://extranet.hms.essity.co.za/",
       "https://globalmediabank.essity.com",
+      "https://higieneinclusivatork.mx/",
       "https://infohub.app.essity.com/",
       "https://infohub.essity.com/en-gb/search",
       "https://jobst-austria.at",
@@ -15343,10 +15383,15 @@
       "https://zewa.net/rs",
       "https://zewa.net/ua"
     ],
-    "outofscope_domains": [],
+    "outofscope_domains": [
+      "http://www.familiainstitucional.com",
+      "http://www.familiainstitucional.com.bo",
+      "http://www.familiainstitucional.com.do",
+      "http://www.familiainstitucional.com.ec"
+    ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-13"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada",
@@ -16717,7 +16762,11 @@
       "admin.meeshosupply.com",
       "affiliate.meesho.com",
       "com.meesho.supply",
+      "com.valmo.ops",
+      "com.valmo.rider",
       "com.valmo.valmo",
+      "console.valmo.in",
+      "grocery-supplier.meesho.com",
       "investor.meesho.com",
       "meesho.io",
       "prod.meeshoapi.com",
@@ -16738,16 +16787,14 @@
       "affiliate-c.meesho.com",
       "agency.meesho.com",
       "atlas.valmo.in",
-      "console.valmo.in",
       "di-prd-superset.meesho.com",
       "farmiso.meeshosupply.com",
-      "grocery-supplier.meesho.com",
       "log10-web-staging.valmo.in",
       "warehouse.meesho.com"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-03"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Kaseya",
@@ -23778,21 +23825,6 @@
       "https://ais.usvisa-info.com",
       "https://casadmin.peckham.org",
       "https://github.com/USStateDept"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Sheer",
-    "program_url": "https://hackerone.com/sheer_bbp",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "my.sheer.com",
-      "www.sheer.com"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -31903,7 +31935,6 @@
       "https://itunes.apple.com/app/id1462089647",
       "https://itunes.apple.com/app/id920140172",
       "https://keycontrol.allegion.com/it",
-      "https://play.google.com/store/apps/details?id=com.allegion.cisa.smartaccess",
       "https://play.google.com/store/apps/details?id=com.allegion.freestyle",
       "https://play.google.com/store/apps/details?id=com.allegion.leopard",
       "https://play.google.com/store/apps/details?id=com.allegion.schlagemobileaccess",
@@ -31957,7 +31988,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-10"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Wickr",
@@ -32105,13 +32136,17 @@
       "https://www.tescomobile.com/*"
     ],
     "outofscope_domains": [
+      "6752770783",
       "Dunnhumby (Non-Critical)",
       "Tesco Bank",
-      "com.tescobank.mobile"
+      "com.tescobank.mobile",
+      "com.travelex.money.tesco",
+      "https://tmo.tescotravelmoney.com/",
+      "https://www.tescotravelmoney.com/*"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Planet Labs",
@@ -44942,6 +44977,7 @@
       "connections.deere.com",
       "contact.bluerivertechnology.com",
       "contest.deere.com",
+      "context-flow-preview.lifecycle-management-devl-vpn.us.e20.c01.johndeerecloud.com",
       "copaamarela.com",
       "core.surefireag.com",
       "core.surepointag.com",
@@ -46662,7 +46698,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-09"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Trendyol",
@@ -62359,7 +62395,7 @@
       "*.unrealtournament.com",
       "Any other Epic games owned asset not listed in the out of scope section",
       "EOS C# SDK",
-      "EpicGamesLauncher.exe    ",
+      "EpicGamesLauncher v2",
       "EpicOnlineServices",
       "FortniteClient-Android-Shipping-arm64-es2.apk",
       "FortniteClient-Win64-Shipping.exe",
@@ -62429,6 +62465,7 @@
       "*.superawesome.tv",
       "*.superbeatsports.com",
       "Adobe Flash related submissions",
+      "EpicGamesLauncher.exe    ",
       "FortniteClient-Mac-Shipping.app",
       "Not owned/managed by Epic Games",
       "Popjam Android application",
@@ -62523,7 +62560,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-16"
   },
   {
     "name": "Sony",
@@ -63328,6 +63365,24 @@
       "com.quora.android",
       "com.quora.app.mobile",
       "http://poe.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
@@ -65373,6 +65428,39 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Cryptobox",
+    "program_url": "https://yeswehack.com/programs/cryptobox-bug-bounty",
+    "logo": "https://yeswehack.com/assets/images/favicon.ico",
+    "platform": "YesWeHack",
+    "reward": "$5000",
+    "inscope_domains": [
+      "https://bounty.cryptobox.com",
+      "https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr",
+      "https://apps.apple.com/fr/app/cryptobox/id972602802"
+    ],
+    "outofscope_domains": [
+      "Testing any other system than https://bounty.cryptobox.com, in particular admin.bounty.cryptobox.com, *.cryptobox.com or *.ercom.fr."
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
+  },
+  {
+    "name": "Sheer",
+    "program_url": "https://hackerone.com/sheer_bbp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "my.sheer.com",
+      "www.sheer.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Water-Link",
     "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65532,66 +65620,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Brave Software",
-    "program_url": "https://hackerone.com/brave",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Brave Browser Desktop",
-      "Brave websites",
-      "com.brave.browser",
-      "com.brave.ios.browser",
-      "https://github.com/brave/*, https://github.com/brave-intl/*"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
   },
   {
     "name": "Superbank - Public Bug Bounty Program",

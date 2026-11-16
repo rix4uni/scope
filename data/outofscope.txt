@@ -650,6 +650,7 @@ e.g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -706,8 +707,6 @@ shop.*.be
 *.intigriti.io
 *.intigriti.net
 *.intercom.io
-*.cryptobox.com
-*.ercom.fr
 *.dana.id
 dmp-prd-aws-*.doctolib.fr
 *.sslip.io
@@ -1281,6 +1280,9 @@ library.simplisafe.com
 livechat.simplisafe.com
 press.simplisafe.com
 support.simplisafe.com
+simplisafe.com
+simplisafe.co.uk
+api.prd.commerce.simplisafe.com
 skyscanner.net
 help.skyscanner.net
 carhirehelp.skyscanner.net
@@ -1450,6 +1452,10 @@ gogo574.com
 gogoair.com
 gogocloud.net
 gogocommercialaviation.com
+familiainstitucional.com
+familiainstitucional.com.bo
+familiainstitucional.com.do
+familiainstitucional.com.ec
 ai-answers.alpha.canada.ca
 ai-answers.cdssandbox.xyz
 auth.login-connexion.canada.ca
@@ -1625,10 +1631,8 @@ admin.meesho.io
 affiliate-c.meesho.com
 agency.meesho.com
 atlas.valmo.in
-console.valmo.in
 di-prd-superset.meesho.com
 farmiso.meeshosupply.com
-grocery-supplier.meesho.com
 log10-web-staging.valmo.in
 warehouse.meesho.com
 lovable.app
@@ -2055,6 +2059,8 @@ skuad.io
 tracks.payoneer.com
 dunnhumby.com
 tescobank.responsibledisclosure.com
+tmo.tescotravelmoney.com
+tescotravelmoney.com
 clicks.moonpay.com
 dev.moonpay.com
 docs.hypermint.com
@@ -3563,6 +3569,18 @@ api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
 cadeau.videoland.com
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be
@@ -3755,8 +3773,6 @@ lp.alasco.de
 lp.alasco.com
 support.alasco.de
 support.alasco.com
-bounty.cryptobox.com
-admin.bounty.cryptobox.com
 webdev.dana.id
 wp.dana.id
 fiat.dana.id
@@ -3801,6 +3817,7 @@ att-dev-nl.siilo.com
 sandbox-nl.siilo.com
 connect.siilo.com
 prod-nl-web.siilo.com
+connect.doctolib.com
 login.decathlon.net
 wallet.esw.esante.gouv.fr
 preprod.alaxione.fr
@@ -3850,6 +3867,7 @@ incamail-dev.post.ch
 incamail-test.post.ch
 service.post.ch
 pccweb.api.post.ch
+vdp.telenor.se
 tc.ownit.se
 butik.vimla.se
 faq.vimla.se

@@ -19,10 +19,6 @@ lp.alasco.de
 lp.alasco.com
 support.alasco.de
 support.alasco.com
-bounty.cryptobox.com
-admin.bounty.cryptobox.com
-*.cryptobox.com
-*.ercom.fr
 webdev.dana.id
 wp.dana.id
 fiat.dana.id
@@ -70,6 +66,7 @@ att-dev-nl.siilo.com
 sandbox-nl.siilo.com
 connect.siilo.com
 prod-nl-web.siilo.com
+connect.doctolib.com
 login.decathlon.net
 wallet.esw.esante.gouv.fr
 preprod.alaxione.fr
@@ -134,6 +131,7 @@ incamail-dev.post.ch
 incamail-test.post.ch
 service.post.ch
 pccweb.api.post.ch
+vdp.telenor.se
 *.bbcust.telenor.se
 *.cust.telenor.se
 *.sme.telenor.se

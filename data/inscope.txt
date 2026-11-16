@@ -1019,6 +1019,7 @@ devdegree*.shopifycloud.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -2037,9 +2038,6 @@ webapp.simplisafe.com
 webapp.simplisafe.co.uk
 mfa.simplisafe.com
 media.simplisafe.com
-simplisafe.com
-simplisafe.co.uk
-api.prd.commerce.simplisafe.com
 skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
@@ -2522,6 +2520,8 @@ prime.plata.co
 lb1.iris.cgophobb.com
 admin.meeshosupply.com
 affiliate.meesho.com
+console.valmo.in
+grocery-supplier.meesho.com
 investor.meesho.com
 meesho.io
 prod.meeshoapi.com
@@ -3335,8 +3335,6 @@ api.dicey.com
 dicey.com
 kronor.io
 payment-gateway.kronor.io
-my.sheer.com
-sheer.com
 apix.vodafone.om
 om.vodafone.mva
 vfo01.vodafone.om
@@ -5081,12 +5079,22 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
+challenge-1126.intigriti.io
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 demorgen.be
 myaccount.volkskrant.nl
@@ -5884,7 +5892,6 @@ m.blablacar.ru
 m.blablacar.com
 m.blablacar.tr
 m.blablacar.com.ua
-bounty.cryptobox.com
 cyberghost.com
 cyberghost.app
 api.cyberghostvpn.com

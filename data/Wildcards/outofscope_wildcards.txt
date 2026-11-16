@@ -650,6 +650,7 @@ e.g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -706,8 +707,6 @@ shop.*.be
 *.intigriti.io
 *.intigriti.net
 *.intercom.io
-*.cryptobox.com
-*.ercom.fr
 *.dana.id
 dmp-prd-aws-*.doctolib.fr
 *.sslip.io

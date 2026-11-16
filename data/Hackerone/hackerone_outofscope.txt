@@ -54,6 +54,10 @@ gogo574.com
 gogoair.com
 gogocloud.net
 gogocommercialaviation.com
+familiainstitucional.com
+familiainstitucional.com.bo
+familiainstitucional.com.do
+familiainstitucional.com.ec
 *.cdssandbox.xyz
 ai-answers.alpha.canada.ca
 ai-answers.cdssandbox.xyz
@@ -246,10 +250,8 @@ admin.meesho.io
 affiliate-c.meesho.com
 agency.meesho.com
 atlas.valmo.in
-console.valmo.in
 di-prd-superset.meesho.com
 farmiso.meeshosupply.com
-grocery-supplier.meesho.com
 log10-web-staging.valmo.in
 warehouse.meesho.com
 *.authanvil.com
@@ -806,6 +808,8 @@ skuad.io
 tracks.payoneer.com
 dunnhumby.com
 tescobank.responsibledisclosure.com
+tmo.tescotravelmoney.com
+tescotravelmoney.com
 *.hel.io
 *.plexlabs.io
 clicks.moonpay.com

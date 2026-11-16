@@ -1,3 +1,1 @@
-https://github.com/Infomaniak/ios-infomaniak-meet
-https://github.com/Infomaniak/android-infomaniak-meet
-https://github.com/Infomaniak/desktop-kMeet
+https://github.com/brave/*,
