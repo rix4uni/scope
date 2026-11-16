@@ -16,6 +16,10 @@ bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
 edge.bookbeat.com
+api.boursobank.com
+clients.boursobank.com
+tradingboard.boursobank.com
+boursobank.com
 edge.blablacar.fr
 edge.blablacar.de
 edge.blablacar.co.uk
