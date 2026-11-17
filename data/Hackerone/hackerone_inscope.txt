@@ -225,8 +225,6 @@ zhongbao-ear.heytap.com
 zhongbao.heytap.com
 id.heytap.com
 id.oppo.com
-1password.com
-events.1password.com
 bcny.com
 diabrowser.com
 thebrowser.company

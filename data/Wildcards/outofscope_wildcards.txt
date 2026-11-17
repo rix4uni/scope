@@ -258,7 +258,6 @@ gogo*.com
 *.teachable.com
 *ctf*.buildstaging.com
 api*.hubspot.com
-*.agilebits.com
 *.zipbooks.com
 *.pgs.casino
 *.amazonaws.com
@@ -650,7 +649,6 @@ e.g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -673,10 +671,6 @@ e.g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be

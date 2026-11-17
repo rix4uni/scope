@@ -968,8 +968,6 @@ ir.hubspot.com
 shop.hubspot.com
 thespot.hubspot.com
 trust.hubspot.com
-support.1password.com
-1password.com
 arc.net
 company.thebrowser.arc
 about.espnbet.com
@@ -2833,18 +2831,6 @@ api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
 cadeau.videoland.com
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be
@@ -2942,7 +2928,6 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
-a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
