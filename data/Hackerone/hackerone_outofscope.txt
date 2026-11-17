@@ -828,6 +828,8 @@ support.moonpay.com
 bot.cadburygifting.in
 gifts.tatesbakeshop.com
 cadburygifting.in
+lu.fr
+mavieencouleurs.fr
 api-an.capitalone.com
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
