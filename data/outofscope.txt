@@ -464,7 +464,6 @@ marketplace-*.freshworks.com
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
-*solidus.io
 *.citymapper.com
 *.drivewithvia.com
 *.criticalstack.com
@@ -630,6 +629,7 @@ status.*.coinbase.com
 *.glitchthegame.com
 e.g.*.slackhq.com
 *.rubyonrails.org
+*.agilebits.com
 *.aikido.dev
 *.allegro.cz
 *.allegro.pl
@@ -649,7 +649,6 @@ e.g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -2075,6 +2074,7 @@ support.moonpay.com
 bot.cadburygifting.in
 gifts.tatesbakeshop.com
 cadburygifting.in
+lojamondelez.com.br
 lu.fr
 mavieencouleurs.fr
 api-an.capitalone.com
@@ -2138,6 +2138,7 @@ sdk-docs.krisp.ai
 url5145.krisp.ai
 voice-ai-newsletter.krisp.ai
 whatsnew.krisp.ai
+croamis.latamcargo.com
 dc-cert.latam.com
 dcci-stage.latam.com
 dcci.latam.com
@@ -3549,6 +3550,8 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
+1password.com
+support.1password.com
 actie.ad.nl
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
@@ -3568,18 +3571,6 @@ api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
 cadeau.videoland.com
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be
@@ -3677,6 +3668,11 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+rancher.ninjakiwi.com
+rancher.ninjakiwi.me
+store.ninjakiwi.com
+support.ninjakiwi.com
+icarusadmin.ninjakiwi.com
 a.simplemdm.com
 personio.de
 personio.slack.com

@@ -464,7 +464,6 @@ marketplace-*.freshworks.com
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
-*solidus.io
 *.citymapper.com
 *.drivewithvia.com
 *.criticalstack.com
@@ -630,6 +629,7 @@ status.*.coinbase.com
 *.glitchthegame.com
 e.g.*.slackhq.com
 *.rubyonrails.org
+*.agilebits.com
 *.aikido.dev
 *.allegro.cz
 *.allegro.pl
@@ -649,7 +649,6 @@ e.g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
