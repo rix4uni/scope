@@ -2844,6 +2844,7 @@ moments.marriott.com
 oasisprod.marriott.com
 ofhub.marriott.com
 psp.marriott.com
+reservations.all-inclusive.marriott.com
 springhillsuites.marriott.com
 ssm-marriottms.saviyntcloud.com
 towneplacesuites.marriott.com
@@ -3717,6 +3718,14 @@ trouw.nl
 abonnement.trouw.nl
 actie.trouw.nl
 elect.tweakers.net
+boekentoy.uzleuven.be
+uz-laboboeken.web.app
+laboboeken.uzleuven.be
+boekentoy.firebaseio.com
+uz-laboboeken.firebaseio.com
+jobs.uzleuven.be
+uzleuven.atlassian.net
+vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
@@ -3896,6 +3905,7 @@ ukvitest.vfsglobal.com
 online.vfsevisa.com
 portal.vfsevisa.com
 egonline.vfsevisa.com
+vdp.vfsglobal.com
 vinci-groupe.profils.org
 lafabriquedelacite.com
 wishes.vinci.com

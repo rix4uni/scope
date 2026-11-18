@@ -1746,6 +1746,7 @@ moments.marriott.com
 oasisprod.marriott.com
 ofhub.marriott.com
 psp.marriott.com
+reservations.all-inclusive.marriott.com
 springhillsuites.marriott.com
 ssm-marriottms.saviyntcloud.com
 towneplacesuites.marriott.com

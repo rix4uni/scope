@@ -1621,6 +1621,28 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "1Password Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/onepassword/1passwordbugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "$30000",
+    "inscope_domains": [
+      "<your-own-1password-account>.1password.com",
+      "https://events.1password.com/api/",
+      "<your-own-1password-account> → Latest Browser Extension",
+      "<your-own-1password-account> → Latest stable 1Password CLI"
+    ],
+    "outofscope_domains": [
+      "https://www.1password.com/",
+      "*.agilebits.com",
+      "https://support.1password.com",
+      "All other 1Password Assets and Accounts"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-17"
+  },
+  {
     "name": "ADAC Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -2454,48 +2476,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "DataCamp",
-    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€1500",
-    "inscope_domains": [
-      "profiles-api.datacamp.com",
-      "app.datacamp.com/certification",
-      "app.datacamp.com/groups",
-      "app.datacamp.com/learn",
-      "assessment-api.datacamp.com",
-      "assessment-v2.datacamp.com ",
-      "assessment.datacamp.com",
-      "campus.datacamp.com",
-      "com.datacamp",
-      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
-      "practice.datacamp.com",
-      "projects.datacamp.com",
-      "www.datacamp.com",
-      "www.datacamp.com/datalab",
-      "*.datacamp.com"
-    ],
-    "outofscope_domains": [
-      "*.it.datacamp.com",
-      "app.datacamp.com/recruit",
-      "ast-viewer.datacamp.com",
-      "confluence.datacamp.com",
-      "dccertified.datacamp.com",
-      "intranet.datacamp.com",
-      "jira.datacamp.com",
-      "links.datacamp.com",
-      "rdocumentation.datacamp.com",
-      "signature.datacamp.com",
-      "status.datacamp.com",
-      "support.datacamp.com",
-      "talent-jobs-api.datacamp.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
   },
   {
     "name": "De Morgen",
@@ -4051,6 +4031,40 @@
     "last_updated": "2026-10-23"
   },
   {
+    "name": "Ninja Kiwi Games Bug Bounty program",
+    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4125",
+    "inscope_domains": [
+      "analytics.ninjakiwi.com",
+      "api.ninjakiwi.com",
+      "guts.ninjakiwi.com",
+      "*.ninjakiwi.me",
+      "*.nkstatic.com",
+      "battles.tv",
+      "data.ninjakiwi.com",
+      "ninja.kiwi",
+      "ninjakiwi.com",
+      "alerts.ninjakiwi.com",
+      "boomer2.ninjakiwi.com",
+      "ct.ninjakiwi.com",
+      "mynk-dash.ninjakiwi.com",
+      "mynk.ninjakiwi.com",
+      "*.souparea.com"
+    ],
+    "outofscope_domains": [
+      "rancher.ninjakiwi.com",
+      "rancher.ninjakiwi.me",
+      "store.ninjakiwi.com",
+      "support.ninjakiwi.com",
+      "icarusadmin.ninjakiwi.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "NxtPort VDP",
     "program_url": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4325,6 +4339,13 @@
     "platform": "Intigriti",
     "reward": "€2000",
     "inscope_domains": [
+      "rebl-ai-webchat-postikuori.azurewebsites.net",
+      "api.postikuori.posti.fi",
+      "cms.postikuori.posti.fi",
+      "admin.postikuori.posti.fi",
+      "iamapp.postikuori.posti.fi",
+      "iam.postikuori.posti.fi",
+      "etavarasto.posti.fi",
       "postikuori.posti.fi",
       "logout.id.posti.fi",
       "mfa.posti.fi",
@@ -4375,7 +4396,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-17"
   },
   {
     "name": "Proof.com VDP",
@@ -13611,7 +13632,7 @@
     "program_url": "https://bugcrowd.com/engagements/volkswagen-vwfs-mbb-og",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
     "platform": "Bugcrowd",
-    "reward": "$4500",
+    "reward": "$2500",
     "inscope_domains": [
       "https://www.vwfs.de",
       "https://www.vwfs.de/",
@@ -13638,7 +13659,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-17"
   },
   {
     "name": "Majid Al Futtaim Entertainment",
@@ -22902,6 +22923,7 @@
       "https://ebctest.cybersource.com/tss",
       "https://ebctest.cybersource.com/ums",
       "https://ebctest.cybersource.com/underwriting",
+      "https://ebctest.cybersource.com/unifiedpayments",
       "https://ebctest.cybersource.com/varm",
       "https://ebctest.cybersource.com/vdm",
       "https://ebctest.cybersource.com/vroom",
@@ -23016,7 +23038,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-27"
+    "last_updated": "2026-11-17"
   },
   {
     "name": "Brightspeed",
@@ -31908,20 +31930,100 @@
       "*.isonaspureaccesscloud.com",
       "*.my-mobilekey.com",
       "*.yonomi.co",
-      "Aero USB RFID Reader",
       "Axa Remote 2.0",
-      "BLEGateway (IF-4041)",
+      "CISA AERO ACR1281U USB Reader",
       "CISA Aero PMS Service (Windows)",
+      "CISA BUTTON",
+      "CISA DOMO Connexa",
+      "CISA Electronic Cylinders",
+      "CISA Encoder 2.0",
+      "CISA Energy Saver",
+      "CISA Gateway 2.0",
+      "CISA Motore CISA",
+      "CISA MyEvo",
       "CISA Reader App (Windows)",
       "CISA Reader App (iMac)",
-      "Interflex Managed Services (cloud)",
-      "Interflex Software IF-6020",
-      "Interflex Software IF-6040",
-      "Interflex Software SP-EXPERT",
-      "Interflex Terminals access control",
-      "Interflex Terminals time recording",
-      "Interflex controllers",
-      "Interflex desktop readers and encoders",
+      "CISA Wall Reader",
+      "CISA eSERVER",
+      "CISA eSigno",
+      "Dorcas K16",
+      "Dorcas K17",
+      "Dorcas K18",
+      "Dorcas K19",
+      "Dorcas K20",
+      "Dorcas K21",
+      "Elatec Antenna Tuner",
+      "Elatec AppBlaster",
+      "Elatec Director",
+      "Elatec SecoApp",
+      "Elatec TWN4 Front Reader",
+      "Elatec TWN4 Mini",
+      "Elatec TWN4 MultiTech 2",
+      "Elatec TWN4 MultiTech 3",
+      "Elatec TWN4 MultiTech Nano",
+      "Elatec TWN4 Palon Compact",
+      "Elatec TWN4 Palon Square",
+      "Elatec TWN4 Secustos",
+      "Elatec TWN4 Slim",
+      "Interflex CR 4041 Gateway",
+      "Interflex CR 5041 Gateway",
+      "Interflex Card Manager App",
+      "Interflex Door Manager App",
+      "Interflex IF Coding Application",
+      "Interflex IF Verteiler",
+      "Interflex IF-0610 Door-Manager",
+      "Interflex IF-0610 RF Door-Manager",
+      "Interflex IF-0810 Door-Manager",
+      "Interflex IF-151 E-Cylinder",
+      "Interflex IF-161 Cabinet Lock",
+      "Interflex IF-171 Door Handle",
+      "Interflex IF-181 E-Cylinder",
+      "Interflex IF-191 Server Cabinet Lock",
+      "Interflex IF-241 Door Fitting",
+      "Interflex IF-242",
+      "Interflex IF-261 Cabinet Lock",
+      "Interflex IF-261 MG24",
+      "Interflex IF-271 Door Handle",
+      "Interflex IF-271 MG24",
+      "Interflex IF-281 Cylinder",
+      "Interflex IF-282",
+      "Interflex IF-2xx NoC",
+      "Interflex IF-4072",
+      "Interflex IF-4072 Signaling Terminal",
+      "Interflex IF-4076",
+      "Interflex IF-4077",
+      "Interflex IF-4078",
+      "Interflex IF-4735",
+      "Interflex IF-4735 AT3 / Meldeterminal",
+      "Interflex IF-5072",
+      "Interflex IF-5077",
+      "Interflex IF-5725 Easy Zeit",
+      "Interflex IF-5735 Touch",
+      "Interflex IF-5835 Touch",
+      "Interflex IF-6040",
+      "Interflex IF-61 RF Mobile Card Reader",
+      "Interflex IF-61 RF Mobile Card Reader W11",
+      "Interflex IF-672 Contact Terminal",
+      "Interflex IF-72 USB RS232 T03/W02/Ethernet",
+      "Interflex IF-73 USB RS232 T03/W02/Ethernet",
+      "Interflex IF-79",
+      "Interflex IF-80 USB RS232 T03",
+      "Interflex IF-830 Einzugsleser",
+      "Interflex IF-830 Einzugsleser Secure",
+      "Interflex IF-872 Contact Terminal",
+      "Interflex IF-89",
+      "Interflex IF-8xx",
+      "Interflex IF-9xx",
+      "Interflex IF-9xx NoC",
+      "Interflex IF-RF B21 Handheld Transmitter",
+      "Interflex IF-RF B23 Handheld Transmitter",
+      "Interflex IO Controller Board DIN rail (ATX Mega)",
+      "Interflex IO Controller Board DIN rail Secure (BG22)",
+      "Interflex ITS 4070",
+      "Interflex ITS 5070 / CR 5070",
+      "Interflex ITS 5072 / CR 5072",
+      "Interflex Reader Configurator",
+      "Interflex Reader SDK",
       "LCN 9500IQ / 2800IQ Senior Swing Series Operators",
       "MyEVO Lock Controller",
       "MyEVO RFID Transponder",
@@ -31943,7 +32045,9 @@
       "briouk.com",
       "briousa.com",
       "com.allegion.IFkey",
+      "com.allegion.Ifkey",
       "com.allegion.access.store",
+      "com.allegion.airscanner",
       "com.allegion.cisa.openx",
       "com.allegion.cisa.openx",
       "com.allegion.cisa.openx_key",
@@ -31958,6 +32062,9 @@
       "com.allegion.stingray",
       "com.allegion.teachin",
       "com.allegion.tigershark",
+      "com.interflex.if6040timeapp",
+      "com.interflex.if6040timeapp",
+      "com.interflex.interflex_air_scanner",
       "com.interflex.key",
       "com.my-mobilekey.key4friends",
       "com.schlage.engage",
@@ -32040,7 +32147,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-16"
+    "last_updated": "2026-11-17"
   },
   {
     "name": "Wickr",
@@ -32501,7 +32608,6 @@
       "hourlyjobs-us.mondelezinternational.com",
       "https://www.cadburygiftsdirect.co.uk",
       "https://www.clifbar.com",
-      "https://www.lojamondelez.com.br/",
       "https://www.tatesbakeshop.com",
       "https://xn--90aiakgkqi1l.xn--p1ai/",
       "hukitchen.com",
@@ -32529,7 +32635,6 @@
       "library.spotlightdam.com",
       "lidl.nyerjakedvenceiddel.hu",
       "liga.nl",
-      "lojamondelez.com.br",
       "loteria7days.pl",
       "loteriamilka.pl",
       "loteriaoreo.pl",
@@ -32752,6 +32857,8 @@
       "gifts.tatesbakeshop.com",
       "https://cadburygifting.in",
       "https://gifts.tatesbakeshop.com",
+      "https://www.lojamondelez.com.br/",
+      "lojamondelez.com.br",
       "lu.fr",
       "mavieencouleurs.fr",
       "www.cadburygifting.in"
@@ -33322,6 +33429,7 @@
       "supportdispatch.appslatam.com"
     ],
     "outofscope_domains": [
+      "http://croamis.latamcargo.com",
       "http://dc-cert.latam.com",
       "http://dcci-stage.latam.com/",
       "http://dcci.latam.com",
@@ -33333,7 +33441,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-21"
+    "last_updated": "2026-11-17"
   },
   {
     "name": "KHealth",
@@ -46196,6 +46304,7 @@
       "sustainability-programs.deere.com",
       "svapqual.deere.com",
       "swag.harvestprofit.com",
+      "synthiscene.deere.com",
       "syskit.deere.com",
       "tableauextensions.tal.deere.com",
       "team.bluerivertechnology.com",
@@ -46751,7 +46860,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-16"
+    "last_updated": "2026-11-17"
   },
   {
     "name": "Trendyol",
@@ -60240,23 +60349,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Solidus",
-    "program_url": "https://hackerone.com/solidus",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "https://github.com/solidusio/solidus",
-      "https://github.com/solidusio/solidus_auth_devise"
-    ],
-    "outofscope_domains": [
-      "*solidus.io"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Worklytics",
     "program_url": "https://hackerone.com/worklytics",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -61447,7 +61539,6 @@
     "reward": "$$$",
     "inscope_domains": [
       "140.95.0.0/16",
-      "199.66.248.0/22",
       "213.139.133.32/28",
       "476639005",
       "assets.hyatt.com",
@@ -61509,7 +61600,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-17"
   },
   {
     "name": "Flipkart",
@@ -61671,24 +61762,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-16"
-  },
-  {
-    "name": "MariaDB",
-    "program_url": "https://hackerone.com/mariadb",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "MariaDB Server & Connectors  - Denial of Service",
-      "MariaDB Server & Connectors - Access control bypass",
-      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
-      "MariaDB Server & Connectors - Remote Code Execution",
-      "mariadb.org"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-15"
   },
   {
     "name": "Chaturbate",
@@ -62715,7 +62788,6 @@
       "com.8bit.bitwarden",
       "com.bitwarden.authenticator",
       "com.x8bit.bitwarden",
-      "docs.passwordless.dev",
       "help.bitwarden.com",
       "https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/",
       "https://addons.opera.com/extensions/details/bitwarden-free-password-manager/",
@@ -62728,7 +62800,6 @@
       "https://safari-extensions.apple.com/details/?id=com.bitwarden.safari-LTZ2PFU5D6",
       "https://www.npmjs.com/package/@bitwarden/mcp-server",
       "identity.bitwarden.com",
-      "v4.passwordless.dev",
       "vault.bitwarden.com"
     ],
     "outofscope_domains": [
@@ -62737,13 +62808,29 @@
       "https://github.com/bitwarden/akd-watch",
       "https://github.com/bitwarden/autopush-manager",
       "https://github.com/bitwarden/bitwarden-russh",
+      "https://github.com/bitwarden/passwordless-authenticator-research",
+      "https://github.com/bitwarden/passwordless-blazor",
+      "https://github.com/bitwarden/passwordless-blazor-webassembly",
+      "https://github.com/bitwarden/passwordless-caniuse",
+      "https://github.com/bitwarden/passwordless-client-js",
+      "https://github.com/bitwarden/passwordless-demo-backend",
+      "https://github.com/bitwarden/passwordless-devops",
+      "https://github.com/bitwarden/passwordless-docs",
+      "https://github.com/bitwarden/passwordless-dotnet",
+      "https://github.com/bitwarden/passwordless-java",
+      "https://github.com/bitwarden/passwordless-nodejs",
+      "https://github.com/bitwarden/passwordless-python",
       "https://github.com/bitwarden/passwordless-react-example",
+      "https://github.com/bitwarden/passwordless-server",
       "https://github.com/bitwarden/phishing-test-page",
-      "https://github.com/bitwarden/rotation-daemon"
+      "https://github.com/bitwarden/rotation-daemon",
+      "https://github.com/passwordless",
+      "https://github.com/passwordless/passwordless-dotnet-example",
+      "https://github.com/passwordless/webauthn-fido2-key-remover"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-17"
   },
   {
     "name": "Oportun",
@@ -65051,6 +65138,18 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "ExpressionEngine",
+    "program_url": "https://hackerone.com/expressionengine",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-17"
+  },
+  {
     "name": "GitLab",
     "program_url": "https://hackerone.com/gitlab",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65479,6 +65578,83 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "DataCamp",
+    "program_url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€1500",
+    "inscope_domains": [
+      "profiles-api.datacamp.com",
+      "app.datacamp.com/certification",
+      "app.datacamp.com/groups",
+      "app.datacamp.com/learn",
+      "assessment-api.datacamp.com",
+      "assessment-v2.datacamp.com ",
+      "assessment.datacamp.com",
+      "campus.datacamp.com",
+      "com.datacamp",
+      "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+      "practice.datacamp.com",
+      "projects.datacamp.com",
+      "www.datacamp.com",
+      "www.datacamp.com/datalab",
+      "*.datacamp.com"
+    ],
+    "outofscope_domains": [
+      "*.it.datacamp.com",
+      "app.datacamp.com/recruit",
+      "ast-viewer.datacamp.com",
+      "confluence.datacamp.com",
+      "dccertified.datacamp.com",
+      "intranet.datacamp.com",
+      "jira.datacamp.com",
+      "links.datacamp.com",
+      "rdocumentation.datacamp.com",
+      "signature.datacamp.com",
+      "status.datacamp.com",
+      "support.datacamp.com",
+      "talent-jobs-api.datacamp.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-09"
+  },
+  {
+    "name": "Solidus",
+    "program_url": "https://hackerone.com/solidus",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "https://github.com/solidusio/solidus",
+      "https://github.com/solidusio/solidus_auth_devise"
+    ],
+    "outofscope_domains": [
+      "*solidus.io"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "MariaDB",
+    "program_url": "https://hackerone.com/mariadb",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "MariaDB Server & Connectors  - Denial of Service",
+      "MariaDB Server & Connectors - Access control bypass",
+      "MariaDB Server & Connectors - Data corruption, exfiltration, disclosure",
+      "MariaDB Server & Connectors - Remote Code Execution",
+      "mariadb.org"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-15"
   },
   {
     "name": "1Password - Enterprise Password Manager",
@@ -66919,40 +67095,6 @@
       "www.algolia.com"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Ninja Kiwi Games Bug Bounty program",
-    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4125",
-    "inscope_domains": [
-      "analytics.ninjakiwi.com",
-      "api.ninjakiwi.com",
-      "guts.ninjakiwi.com",
-      "*.ninjakiwi.me",
-      "*.nkstatic.com",
-      "battles.tv",
-      "data.ninjakiwi.com",
-      "ninja.kiwi",
-      "ninjakiwi.com",
-      "alerts.ninjakiwi.com",
-      "boomer2.ninjakiwi.com",
-      "ct.ninjakiwi.com",
-      "mynk-dash.ninjakiwi.com",
-      "mynk.ninjakiwi.com",
-      "*.souparea.com"
-    ],
-    "outofscope_domains": [
-      "rancher.ninjakiwi.com",
-      "rancher.ninjakiwi.me",
-      "store.ninjakiwi.com",
-      "support.ninjakiwi.com",
-      "icarusadmin.ninjakiwi.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"

@@ -1,2 +1,3 @@
-*.ninjakiwi.me
-*.nkstatic.com
+*.kwsdose.be
+*.playuzleuven.be
+*.uzleuven.*
