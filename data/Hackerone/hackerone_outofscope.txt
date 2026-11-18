@@ -89,6 +89,7 @@ taxactonline.com
 kyc.ondato.net
 kyc.api.ondato.net
 luminor.nyc3.digitaloceanspaces.com
+*.ramp.twilio.com
 apjevents.twilio.com
 cdpweek.com
 chatagotchi.app
@@ -606,8 +607,6 @@ status.arkoselabs.com
 careers.abb
 hub.electrification.us.abb.com
 stringsizer.abb.com
-applications.abercrombie.com
-nonmerchvendorprofile.anfcorp.com
 docs.moderntreasury.com
 help.moderntreasury.com
 app.moderntreasury.com
@@ -2345,6 +2344,7 @@ luckey.in
 luckey.partners
 luckeyhomes.com
 provider.demo.urbandoor.com
+1996.merchandise.booking.com
 ams.merchandise.booking.com
 awscpasslab.booking.com
 business.booking.com

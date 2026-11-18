@@ -793,7 +793,6 @@ idcash-uat.unico.io
 identityhomolog.acesso.io
 idpay-uat.unico.io
 issuer.idpay-uat.unico.io
-openfinance.unico.io
 secure.unico.io
 unico.io
 t.me
@@ -1373,10 +1372,6 @@ verify.arkoselabs.com
 arkoselabs.com
 sandbox-royal.securegateway.com
 sandbox.securegateway.com
-abercrombie.com
-anfcorp.com
-corporate.abercrombie.com
-hollisterco.com
 *.boredapeyachtclub.com
 *.otherside.xyz
 odk.otherside.xyz

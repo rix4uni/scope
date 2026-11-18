@@ -1,2 +1,8 @@
-*.algolia.net
-*.algolianet.com
+*.nordvpn.com
+*.nordpass.com
+*.nordlocker.com
+*.nordaccount.com
+*.nordcheckout.com
+*.kwsdose.be
+*.playuzleuven.be
+*.uzleuven.*

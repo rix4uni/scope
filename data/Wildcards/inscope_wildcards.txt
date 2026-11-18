@@ -183,6 +183,11 @@ bugcrowd-*your-own-instance*.cloud.mattermost.com
 *.myfitnesspal.com
 *.nr-data.net
 *.nr-ops.net
+*.nordvpn.com
+*.nordpass.com
+*.nordlocker.com
+*.nordaccount.com
+*.nordcheckout.com
 *.northwesternmutual.com
 *.nml.com
 *.nmfn.com
@@ -1184,9 +1189,11 @@ sks-*.exo.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+*.kwsdose.be
+*.playuzleuven.be
+*.uzleuven.*
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.aww.be
 *.water-link.be
 *.mijnwater-link.be

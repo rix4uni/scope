@@ -62,6 +62,7 @@ auth.*.latitudefinancial.com
 *.blstr.co
 *.lululemon.cn
 *.lululemon.me
+links*.nordvpn.com
 *.nuinternational.com
 *.nat-a.nubank.com.br
 *.octopus.app
@@ -208,6 +209,7 @@ gogo*.com
 *.cas.l3harris.com
 *.cts.l3harris.com
 *.ondato.net
+*.ramp.twilio.com
 *.dashapi.com
 *.doorcrawl.com
 *.order.online
