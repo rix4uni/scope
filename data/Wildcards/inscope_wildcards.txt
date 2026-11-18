@@ -901,6 +901,8 @@ paypal-*.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
+*.algolia.net
+*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -1182,9 +1184,6 @@ sks-*.exo.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
-*.uzleuven.*
 *.vtm.be
 *.vtmgo.be
 *.veriff.com

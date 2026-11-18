@@ -3053,6 +3053,10 @@ smarttrader.deriv.com
 *.fetlife.com
 fetlife.com
 fetlifemail.com
+*.algolia.net
+*.algolianet.com
+dashboard.algolia.com
+algolia.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -3091,8 +3095,6 @@ mobile.clearme.com
 my.clearme.com
 scan.clearme.com
 web-edge.clearme.com
-moneybird.com
-moneybirdstorage.com
 udemy.com
 yourcompany.udemy.com
 *.kayak.com

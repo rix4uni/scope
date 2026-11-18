@@ -1,3 +1,2 @@
-*.kwsdose.be
-*.playuzleuven.be
-*.uzleuven.*
+*.algolia.net
+*.algolianet.com
