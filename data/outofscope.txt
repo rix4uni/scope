@@ -794,14 +794,6 @@ blog.aurory.io
 sentry.io
 arbiscan.io
 ws.aurorynet.dev.aurory.io
-auth0.auth0.com
-manage.auth0.com
-accounts.auth0.com
-phenix.rocks
-sharelock.io
-goextend.io
-support.auth0.com
-community.auth0.com
 jobs.coinmarketcap.com
 support.binance
 binance.sg
@@ -956,9 +948,6 @@ blog-parceiros.ifood.com.br
 gogbackend.com
 godsunchained.com
 ropsten.imx.community
-powerpak.com
-medjobnetwork.com
-checkout.webmd.com
 irobot.com
 irobot.ca
 irobot.at
@@ -3709,8 +3698,6 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
-developer.posti.com
-posti.fi
 pen-app.entrili.com
 exams.ripe.net
 labs.ripe.net

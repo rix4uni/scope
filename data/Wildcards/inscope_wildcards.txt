@@ -15,7 +15,6 @@
 *.atlassian.net
 *.atlastunnel.com
 *.loom.com
-*.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
 *.binance.com

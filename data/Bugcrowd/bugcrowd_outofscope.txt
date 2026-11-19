@@ -64,14 +64,6 @@ blog.aurory.io
 sentry.io
 arbiscan.io
 ws.aurorynet.dev.aurory.io
-auth0.auth0.com
-manage.auth0.com
-accounts.auth0.com
-phenix.rocks
-sharelock.io
-goextend.io
-support.auth0.com
-community.auth0.com
 jobs.coinmarketcap.com
 support.binance
 binance.sg
@@ -262,9 +254,6 @@ godsunchained.com
 *.ropsten.x.immutable.com
 ropsten.imx.community
 *.guildofguardians.com
-powerpak.com
-medjobnetwork.com
-checkout.webmd.com
 irobot.com
 irobot.ca
 irobot.at
