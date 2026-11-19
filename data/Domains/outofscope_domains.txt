@@ -58,6 +58,14 @@ blog.aurory.io
 sentry.io
 arbiscan.io
 ws.aurorynet.dev.aurory.io
+auth0.auth0.com
+manage.auth0.com
+accounts.auth0.com
+phenix.rocks
+sharelock.io
+goextend.io
+support.auth0.com
+community.auth0.com
 jobs.coinmarketcap.com
 support.binance
 binance.sg
@@ -1400,7 +1408,6 @@ static.tenable.com
 suggestions.tenable.com
 university.tenable.com
 tenable.com
-jobs.newegg.com
 sellingpilot.newegg.com
 community.fastly.com
 connect.fastly.com
@@ -2929,6 +2936,9 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+lsagentrelay.lansweeper.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 actie.libelle.nl
 login.liferay.com

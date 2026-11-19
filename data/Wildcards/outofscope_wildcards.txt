@@ -355,7 +355,6 @@ cst2-*-*.cust.vodafone.cz
 *.plexlabs.io
 *.koho.ca
 *.line-of-credit.koho.ca
-*.neweggbusiness.com
 *.fastly.net
 *dev*.krisp.ai
 *.fetchcore-cloud.com

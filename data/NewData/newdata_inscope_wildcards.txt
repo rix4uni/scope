@@ -1,8 +1,1 @@
-*.nordvpn.com
-*.nordpass.com
-*.nordlocker.com
-*.nordaccount.com
-*.nordcheckout.com
-*.kwsdose.be
-*.playuzleuven.be
-*.uzleuven.*
+*.cic-bug-bounty.auth0app.com

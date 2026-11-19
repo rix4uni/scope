@@ -3541,6 +3541,37 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Lansweeper Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "app.lansweeper.com",
+      "fb.lansweeper.com",
+      "edge.lansweeper.com",
+      "api.lansweeper.com",
+      "backoffice.lansweeper.com",
+      "app.lansweeper.com/trial",
+      "autoupdateapi.lansweeper.com",
+      "docs.lansweeper.com",
+      "login.lansweeper.com",
+      "www.lansweeper.com",
+      "*.lansweeper.com"
+    ],
+    "outofscope_domains": [
+      "Lansweeper Classic",
+      "Lansweeper Discovery",
+      "https://lsagentrelay.lansweeper.com/",
+      " lsrunase2.0 and lsencrypt2.0 ",
+      "careers.lansweeper.com",
+      "www.lansweeper.com/forum"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Libelle",
     "program_url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -6498,6 +6529,57 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$50000",
+    "inscope_domains": [
+      "config.cic-bug-bounty.auth0app.com",
+      "https://manage.cic-bug-bounty.auth0app.com/",
+      "*.cic-bug-bounty.auth0app.com",
+      "https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US",
+      "https://apps.apple.com/us/app/auth0-guardian/id1093447833",
+      "https://marketplace.auth0.com",
+      "MFA Integrations\t",
+      "https://dashboard.fga.dev/",
+      "https://api.us1.fga.dev/",
+      "https://customers.us1.fga.dev/",
+      "https://play.fga.dev/",
+      "webtask.run",
+      "https://github.com/auth0/auth0.js",
+      "https://github.com/auth0/lock",
+      "https://github.com/auth0/auth0-spa-js",
+      "https://github.com/auth0/Auth0.Net",
+      "https://github.com/auth0/nextjs-auth0",
+      "https://github.com/auth0/auth0-java",
+      "https://github.com/auth0/react-native-auth0",
+      "https://github.com/auth0/auth0-php",
+      "auth0.com\t",
+      "samltool.io\t",
+      "webauthn.me\t",
+      "openidconnect.net\t",
+      "jwt.io",
+      "auth0.net"
+    ],
+    "outofscope_domains": [
+      "auth0.auth0.com",
+      "manage.auth0.com",
+      "accounts.auth0.com",
+      "phenix.rocks\t",
+      "Auth0 Docs (including quickstarts)",
+      "sharelock.io",
+      "goextend.io\t",
+      "https://support.auth0.com/tickets/new",
+      "support.auth0.com",
+      "community.auth0.com",
+      "https://github.com/auth0/passport-wsfed-saml2"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "AppFox",
     "program_url": "https://bugcrowd.com/engagements/automationconsultants",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -8341,23 +8423,6 @@
       "https://github.com/fireblocks/mpc-lib"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "FIS",
-    "program_url": "https://bugcrowd.com/engagements/fis",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$20000",
-    "inscope_domains": [
-      "Any FIS asset is in scope",
-      "https://www.tdfitloan.com/#!/"
-    ],
-    "outofscope_domains": [
-      "https://apuat-aaa.fisglobal.com"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -33178,17 +33243,14 @@
       "http://*.newegg.com",
       "https://secure.newegg.com",
       "pmtcards.newegg.com",
-      "secure.newegg.ca",
-      "sellerportal.newegg.com"
+      "secure.newegg.ca"
     ],
     "outofscope_domains": [
-      "http://*.neweggbusiness.com",
-      "jobs.newegg.com",
       "sellingpilot.newegg.com"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-19"
   },
   {
     "name": "Octopus Energy Group",
@@ -65712,57 +65774,6 @@
     "last_updated": "2026-11-17"
   },
   {
-    "name": "Auth0 by Okta",
-    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$50000",
-    "inscope_domains": [
-      "config.cic-bug-bounty.auth0app.com",
-      "https://manage.cic-bug-bounty.auth0app.com/",
-      "*.cic-bug-bounty.auth0app.com",
-      "https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US",
-      "https://apps.apple.com/us/app/auth0-guardian/id1093447833",
-      "https://marketplace.auth0.com",
-      "MFA Integrations\t",
-      "https://dashboard.fga.dev/",
-      "https://api.us1.fga.dev/",
-      "https://customers.us1.fga.dev/",
-      "https://play.fga.dev/",
-      "webtask.run",
-      "https://github.com/auth0/auth0.js",
-      "https://github.com/auth0/lock",
-      "https://github.com/auth0/auth0-spa-js",
-      "https://github.com/auth0/Auth0.Net",
-      "https://github.com/auth0/nextjs-auth0",
-      "https://github.com/auth0/auth0-java",
-      "https://github.com/auth0/react-native-auth0",
-      "https://github.com/auth0/auth0-php",
-      "auth0.com\t",
-      "samltool.io\t",
-      "webauthn.me\t",
-      "openidconnect.net\t",
-      "jwt.io",
-      "auth0.net"
-    ],
-    "outofscope_domains": [
-      "auth0.auth0.com",
-      "manage.auth0.com",
-      "accounts.auth0.com",
-      "phenix.rocks\t",
-      "Auth0 Docs (including quickstarts)",
-      "sharelock.io",
-      "goextend.io\t",
-      "https://support.auth0.com/tickets/new",
-      "support.auth0.com",
-      "community.auth0.com",
-      "https://github.com/auth0/passport-wsfed-saml2"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Veriff Bug Bounty",
     "program_url": "https://www.intigriti.com/programs/veriff/veriffbugbounty/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65959,37 +65970,6 @@
       "www.sheer.com"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Lansweeper Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "app.lansweeper.com",
-      "fb.lansweeper.com",
-      "edge.lansweeper.com",
-      "api.lansweeper.com",
-      "backoffice.lansweeper.com",
-      "app.lansweeper.com/trial",
-      "autoupdateapi.lansweeper.com",
-      "docs.lansweeper.com",
-      "login.lansweeper.com",
-      "www.lansweeper.com",
-      "*.lansweeper.com"
-    ],
-    "outofscope_domains": [
-      "Lansweeper Classic",
-      "Lansweeper Discovery",
-      "https://lsagentrelay.lansweeper.com/",
-      " lsrunase2.0 and lsencrypt2.0 ",
-      "careers.lansweeper.com",
-      "www.lansweeper.com/forum"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"

@@ -882,8 +882,6 @@ static.tenable.com
 suggestions.tenable.com
 university.tenable.com
 tenable.com
-*.neweggbusiness.com
-jobs.newegg.com
 sellingpilot.newegg.com
 *.fastly.net
 community.fastly.com
