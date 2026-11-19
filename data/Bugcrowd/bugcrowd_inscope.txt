@@ -87,6 +87,9 @@ binance.us
 *.binance.us
 binance.tr
 binance.th
+*.bitdefender.net
+*.bitdefender.com
+bitdefender.com
 *.bitgo.com
 app.bitgo.com
 app.bitgo-test.com

@@ -143,9 +143,6 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
-lsagentrelay.lansweeper.com
-careers.lansweeper.com
-lansweeper.com
 libelle.nl
 actie.libelle.nl
 *.lxc.liferay.com
@@ -161,11 +158,6 @@ nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
 *.nexuzhealth.pro
-rancher.ninjakiwi.com
-rancher.ninjakiwi.me
-store.ninjakiwi.com
-support.ninjakiwi.com
-icarusadmin.ninjakiwi.com
 *.vectus.in
 a.simplemdm.com
 *.pdq.com

@@ -1,1 +1,2 @@
-*.cic-bug-bounty.auth0app.com
+*.bitdefender.net
+*.bitdefender.com

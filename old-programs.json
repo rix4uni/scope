@@ -486,15 +486,15 @@
     "platform": "YesWeHack",
     "reward": "$3000",
     "inscope_domains": [
-      "https://*.grwtrading.com",
-      "https://*.dropxl.com"
+      "*.grwtrading.com",
+      "*.dropxl.com"
     ],
     "outofscope_domains": [
       "All domains or subdomains not listed in the above list of 'Scopes'"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-19"
   },
   {
     "name": "GovTech - Vulnerability Disclosure Programme",
@@ -1341,10 +1341,8 @@
       "*.mittforetag.telenor.se",
       "https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en",
       "https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en",
-      "*.play.ownit.se",
       "*.inpli.se",
       "*.telenorinpli.se",
-      "*.stream.telenor.se",
       "*.telenor.se",
       "*.vimla.work",
       "*.vimla.se",
@@ -1354,6 +1352,9 @@
       "*.europolitan.se"
     ],
     "outofscope_domains": [
+      "*.play.ownit.se",
+      "*.stream.telenor.se",
+      "*.tv.telenor.se",
       "vdp.telenor.se",
       "*.bbcust.telenor.se",
       "*.cust.telenor.se",
@@ -1374,7 +1375,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-16"
+    "last_updated": "2026-11-19"
   },
   {
     "name": "Tencent Bug Bounty Program",
@@ -1609,17 +1610,17 @@
     "platform": "YesWeHack",
     "reward": "$3000",
     "inscope_domains": [
-      "https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)",
-      "https://*.vidaxl.org",
-      "https://*.vidaxl.io",
-      "https://*.vidaxl.net"
+      "www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)",
+      "*.vidaxl.org",
+      "*.vidaxl.io",
+      "*.vidaxl.net"
     ],
     "outofscope_domains": [
       "All domains or subdomains not listed in the above list of 'Scopes'"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-19"
   },
   {
     "name": "1Password Bug Bounty Program",
@@ -6736,49 +6737,6 @@
     "last_updated": "2026-11-15"
   },
   {
-    "name": "Bitdefender",
-    "program_url": "https://bugcrowd.com/engagements/bitdefender",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$15000",
-    "inscope_domains": [
-      "Bitdefender Total Security",
-      "*.bitdefender.net",
-      "Bitdefender Antimalware Engines",
-      "*.bitdefender.com",
-      "https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE"
-    ],
-    "outofscope_domains": [
-      "businessinsights.bitdefender.com",
-      "businessemail.bitdefender.com",
-      "businessresources.bitdefender.com",
-      "oemhub.bitdefender.com",
-      "oemresources.bitdefender.com",
-      "community.bitdefender.com/",
-      "resellerportal.bitdefender.com/",
-      "brand.bitdefender.com/",
-      "stats.bitdefender.com/",
-      "sstats.bitdefender.com/",
-      "lsems.gravityzone.bitdefender.com/",
-      "ssems.gravityzone.bitdefender.com/",
-      "crp.bitdefender.com",
-      "telcosuccess.bitdefender.com",
-      "demo.bitdefender.com",
-      "translate.bitdefender.com",
-      "explore.bitdefender.com",
-      "explore-lb.bitdefender.com",
-      "partner-marketing.bitdefender.com ",
-      "seems.gravityzone.bitdefender.com",
-      "workflow.bitdefender.com",
-      "workflow-test.bitdefender.com",
-      "workflow-dev.bitdefender.com",
-      "trust.bitdefender.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Bitdefender Box v2",
     "program_url": "https://bugcrowd.com/engagements/bitdefenderbox2",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -7998,6 +7956,35 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-11-14"
+  },
+  {
+    "name": "DevSamurai",
+    "program_url": "https://bugcrowd.com/engagements/devsamurai",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "https://marketplace.atlassian.com/apps/1222309/agile-user-story-mapping-board-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223423/teamboard-resource-management-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224759/agile-scrum-planning-poker-for-jira?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1224927/time-tracking-timesheet-cost-tracker-resource-management?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224383/agile-user-story-mapping-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1223793/confluence-whiteboard-process-workflow-visualization?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1224087/whiteboard-process-workflow-visualization-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1221853/enterprise-social-networking-polls-votes-for-confluence?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1228080/agile-roadmaps-timeline-product-discovery-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1228867/assetit-it-asset-management-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1225654/ui-wireframes-mockup-prototype-diagrams-for-confluence?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1226280/ui-wireframes-mockup-prototype-diagrams-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1230085/agile-test-management-ad-hoc-test-qa-checklist-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/1232398/roadmaps-timeline-gantt-chart-structure-for-confluence?tab=overview&hosting=cloud",
+      "https://marketplace.atlassian.com/apps/1236175/spreadsheet-structure-table-gantt-chart-on-forge-for-jira?hosting=cloud&tab=overview",
+      "https://marketplace.atlassian.com/apps/856555290/salesforge-crm-leads-deals-customers-management-for-jira?hosting=cloud&tab=overview"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
   },
   {
     "name": "DevSamurai",
@@ -9771,12 +9758,25 @@
       "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/p1Ji7cKQ7RG5KU3Jjuke5ZMG6vfWe0IV",
       "https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/mPbXCx7lA4dQNyEhhyCGMV6XKjuccbk8",
       "https://www.premogiftcards.com/",
-      "https://identity.majidalfuttaim.com"
+      "https://identity.majidalfuttaim.com",
+      "https://www.malloftheemirates.com/en",
+      "https://www.mallofegypt.com/en",
+      "https://www.citycentremalls.com/en",
+      "https://www.citycentremalls.com/en-ae/city-centre-mirdif",
+      "https://www.citycentremalls.com/en-ae/city-centre-zahia",
+      "https://www.citycentremalls.com/en-ae/city-centre-deira",
+      "https://www.citycentremalls.com/en-ae/city-centre-ajman",
+      "https://www.citycentremalls.com/en-ae/city-centre-sharjah",
+      "https://www.citycentremalls.com/en-bh/city-centre-bahrain",
+      "https://www.mallofoman.net/en",
+      "https://www.citycentremalls.com/en-ae/city-centre-meaisem",
+      "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693",
+      "https://play.google.com/store/search?q=mall+of+emirates&c=apps&hl=en_IN"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-19"
   },
   {
     "name": "Majid Al Futtaim Properties",
@@ -9785,13 +9785,10 @@
     "platform": "Bugcrowd",
     "reward": "$2500",
     "inscope_domains": [
-      "https://www.malloftheemirates.com",
-      "https://api.mafshoppingmalls.com/",
-      "https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693",
       "https://play.google.com/store/apps/details?id=com.belongi.moe",
+      "https://api.mafshoppingmalls.com/",
       "https://partnerconnect.maf.ae/",
       "https://ecoupon.maf.ae/",
-      "https://citycentredeira.com/",
       "https://www.mycitycentrealbarsha.com/",
       "https://www.tilalalghaf.com/en",
       "https://atjunction.com/",
@@ -9803,9 +9800,6 @@
       "https://maf-properties-prod.apigee.net",
       "https://api.mafshoppingmalls.com",
       "https://smbu-api.maf.ae/",
-      "https://www.citycentremalls.com/en",
-      "https://play.google.com/store/search?q=mall+of+emirates&c=apps&hl=en_IN",
-      "https://apps.apple.com/in/app/mall-of-the-emirates-moe/id1449578693",
       "https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105",
       "https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105",
       "https://apps.apple.com/in/app/city-centres/id1448471823",
@@ -9814,7 +9808,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-19"
   },
   {
     "name": "Marketplace Expert SL",
@@ -31728,6 +31722,7 @@
     "platform": "HackerOne",
     "reward": "-",
     "inscope_domains": [
+      "*.dial.plus",
       "*.fax.plus",
       "*.sign.plus",
       "FAX Programmable API",
@@ -31742,7 +31737,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-19"
   },
   {
     "name": "Arc",
@@ -45231,6 +45226,7 @@
       "changelog.harvestprofit.com",
       "changepass.wirtgen-group.com",
       "changepassword.kreiselelectric.com",
+      "channel-ai-solutions.deere.com",
       "ciber.com.br",
       "ciber.wirtgen-group.com",
       "cicqual.tal.deere.com",
@@ -65702,6 +65698,49 @@
       "support.hackerone.com",
       "www.h1.community",
       "www.hackeronestatus.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Bitdefender",
+    "program_url": "https://bugcrowd.com/engagements/bitdefender",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$15000",
+    "inscope_domains": [
+      "Bitdefender Total Security",
+      "*.bitdefender.net",
+      "Bitdefender Antimalware Engines",
+      "*.bitdefender.com",
+      "https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE"
+    ],
+    "outofscope_domains": [
+      "businessinsights.bitdefender.com",
+      "businessemail.bitdefender.com",
+      "businessresources.bitdefender.com",
+      "oemhub.bitdefender.com",
+      "oemresources.bitdefender.com",
+      "community.bitdefender.com/",
+      "resellerportal.bitdefender.com/",
+      "brand.bitdefender.com/",
+      "stats.bitdefender.com/",
+      "sstats.bitdefender.com/",
+      "lsems.gravityzone.bitdefender.com/",
+      "ssems.gravityzone.bitdefender.com/",
+      "crp.bitdefender.com",
+      "telcosuccess.bitdefender.com",
+      "demo.bitdefender.com",
+      "translate.bitdefender.com",
+      "explore.bitdefender.com",
+      "explore-lb.bitdefender.com",
+      "partner-marketing.bitdefender.com ",
+      "seems.gravityzone.bitdefender.com",
+      "workflow.bitdefender.com",
+      "workflow-test.bitdefender.com",
+      "workflow-dev.bitdefender.com",
+      "trust.bitdefender.com"
     ],
     "issues_reported": [],
     "scamhit": "",
