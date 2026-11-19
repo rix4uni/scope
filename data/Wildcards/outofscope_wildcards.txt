@@ -723,6 +723,9 @@ storage*.infomaniak.com
 *.louisvuitton.com
 *.osp.ovh.com
 *dev.swapcard.com
+*.play.ownit.se
+*.stream.telenor.se
+*.tv.telenor.se
 *.bbcust.telenor.se
 *.cust.telenor.se
 *.sme.telenor.se

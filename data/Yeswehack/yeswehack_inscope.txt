@@ -536,10 +536,8 @@ vimla.se
 ownit.se
 *.foretagsportalen.telenor.se
 *.mittforetag.telenor.se
-*.play.ownit.se
 *.inpli.se
 *.telenorinpli.se
-*.stream.telenor.se
 *.telenor.se
 *.vimla.work
 *.vimla.se

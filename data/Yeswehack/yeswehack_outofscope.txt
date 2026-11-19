@@ -131,6 +131,9 @@ incamail-dev.post.ch
 incamail-test.post.ch
 service.post.ch
 pccweb.api.post.ch
+*.play.ownit.se
+*.stream.telenor.se
+*.tv.telenor.se
 vdp.telenor.se
 *.bbcust.telenor.se
 *.cust.telenor.se
