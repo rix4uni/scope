@@ -139,6 +139,7 @@ test.stytch.com
 trunking.twilio.com
 tsock.us1.twilio.com
 twilio.com
+verify.twilio.com
 doordash.doordashconsumer
 itunes.apple.com
 doordash.com

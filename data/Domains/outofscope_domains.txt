@@ -2033,6 +2033,7 @@ enterprise-status.instacart.com
 atlassian.com
 heyitsinstacart.com
 instacart.careers
+phpbb.com
 equibase-store.fanduel.com
 appsflyer.com
 crashlytics.com
@@ -2493,6 +2494,15 @@ my.plaid.com
 advocates.semrush.com
 email.semrush.com
 portswigger.net
+blog.rubygems.org
+guide.rubygems.org
+help.rubygems.org
+rubygems.org
+s3-us-west-2.amazonaws.com
+stats.rubygems.org
+status.rubygems.org
+support.rubygems.org
+uptime.rubygems.org
 developers.files.com
 mail.files.com
 status.files.com
@@ -2967,6 +2977,8 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
+developer.posti.com
+posti.fi
 pen-app.entrili.com
 exams.ripe.net
 labs.ripe.net

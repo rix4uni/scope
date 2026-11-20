@@ -1629,6 +1629,7 @@ enterprise-status.instacart.com
 atlassian.com
 heyitsinstacart.com
 instacart.careers
+phpbb.com
 *.fndl.dev
 equibase-store.fanduel.com
 appsflyer.com
@@ -2180,6 +2181,15 @@ email.semrush.com
 *.portswigger.net
 portswigger.net
 *.web-security-academy.net
+blog.rubygems.org
+guide.rubygems.org
+help.rubygems.org
+rubygems.org
+s3-us-west-2.amazonaws.com
+stats.rubygems.org
+status.rubygems.org
+support.rubygems.org
+uptime.rubygems.org
 developers.files.com
 mail.files.com
 status.files.com
