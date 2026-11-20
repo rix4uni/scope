@@ -22975,7 +22975,6 @@
       "ebctest.cybersource.com",
       "forms.cybersource.com",
       "http://myvisainfinite.com/suntrust/en_us/home.html",
-      "http://test.payworks.io/uis/mngr/",
       "https://ebc2test.cybersource.com/settings",
       "https://ebctest.cybersource.com/CGK2",
       "https://ebctest.cybersource.com/apm",
@@ -23132,7 +23131,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-18"
+    "last_updated": "2026-11-20"
   },
   {
     "name": "Brightspeed",

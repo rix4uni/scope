@@ -1517,6 +1517,7 @@ zooplus.net
 secure.newegg.com
 pmtcards.newegg.com
 secure.newegg.ca
+sellingpilot.com
 *.krisp.ai
 account.krisp.ai
 analytics.krisp.ai

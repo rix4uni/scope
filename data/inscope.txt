@@ -1110,6 +1110,8 @@ sks-*.exo.io
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -3709,6 +3711,7 @@ zooplus.net
 secure.newegg.com
 pmtcards.newegg.com
 secure.newegg.ca
+sellingpilot.com
 account.krisp.ai
 analytics.krisp.ai
 api.krisp.ai
@@ -5554,6 +5557,17 @@ liquidfiles.nexuzhealth.com
 idp-url.nexuzhealth.be
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
 auth2.pdq.com
@@ -5625,7 +5639,6 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
-cz.skodaauto.myskoda
 socialdeal.nl
 spontaan.nl
 app.nl.socialdeal

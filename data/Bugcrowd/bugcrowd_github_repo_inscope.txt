@@ -27,7 +27,8 @@ https://github.com/mattermost/mattermost-plugin-ai
 https://github.com/mattermost/mattermost-plugin-mscalendar
 https://github.com/mattermost/mattermost-plugin-msteams-meetings
 https://github.com/mattermost/mattermost-plugin-confluence
-https://github.com/mattermost/mattermost-plugin-msteams
+https://github.com/mattermost/mattermost-plugin-metrics
+https://github.com/mattermost/mattermost-plugin-channel-export
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport
 https://github.com/pinterest

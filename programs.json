@@ -4033,6 +4033,40 @@
     "last_updated": "2026-10-23"
   },
   {
+    "name": "Ninja Kiwi Games Bug Bounty program",
+    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€4125",
+    "inscope_domains": [
+      "analytics.ninjakiwi.com",
+      "api.ninjakiwi.com",
+      "guts.ninjakiwi.com",
+      "*.ninjakiwi.me",
+      "*.nkstatic.com",
+      "battles.tv",
+      "data.ninjakiwi.com",
+      "ninja.kiwi",
+      "ninjakiwi.com",
+      "alerts.ninjakiwi.com",
+      "boomer2.ninjakiwi.com",
+      "ct.ninjakiwi.com",
+      "mynk-dash.ninjakiwi.com",
+      "mynk.ninjakiwi.com",
+      "*.souparea.com"
+    ],
+    "outofscope_domains": [
+      "rancher.ninjakiwi.com",
+      "rancher.ninjakiwi.me",
+      "store.ninjakiwi.com",
+      "support.ninjakiwi.com",
+      "icarusadmin.ninjakiwi.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "NxtPort VDP",
     "program_url": "https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4648,21 +4682,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Skoda Auto Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
-      "cz.skodaauto.myskoda"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-16"
   },
   {
     "name": "Social Deal",
@@ -9865,7 +9884,8 @@
       "https://github.com/mattermost/mattermost-plugin-mscalendar",
       "https://github.com/mattermost/mattermost-plugin-msteams-meetings",
       "https://github.com/mattermost/mattermost-plugin-confluence",
-      "https://github.com/mattermost/mattermost-plugin-msteams"
+      "https://github.com/mattermost/mattermost-plugin-metrics",
+      "https://github.com/mattermost/mattermost-plugin-channel-export"
     ],
     "outofscope_domains": [
       "about.mattermost.com",
@@ -9878,7 +9898,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-20"
   },
   {
     "name": "Meetical",
@@ -17099,22 +17119,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Worldpay",
-    "program_url": "https://hackerone.com/worldpay",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "docs.worldpay.com",
-      "www.accessmyiq.com",
-      "www.virtualterminal.com"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Hertz VDP",
     "program_url": "https://hackerone.com/hertz",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -23860,7 +23864,6 @@
       "*.abnamrocomfin.com",
       "*.abnamroinvestmentsolutions.com",
       "*.abnamrolease.com",
-      "*.alfam.nl",
       "*.bethmannbank.de",
       "*.buut.com",
       "*.bux.com",
@@ -23878,7 +23881,7 @@
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-20"
   },
   {
     "name": "Magic Eden",
@@ -33191,14 +33194,13 @@
       "http://*.newegg.com",
       "https://secure.newegg.com",
       "pmtcards.newegg.com",
-      "secure.newegg.ca"
+      "secure.newegg.ca",
+      "www.sellingpilot.com"
     ],
-    "outofscope_domains": [
-      "sellingpilot.newegg.com"
-    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-19"
+    "last_updated": "2026-11-20"
   },
   {
     "name": "Octopus Energy Group",
@@ -48168,68 +48170,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-11-19"
-  },
-  {
-    "name": "Global Payments",
-    "program_url": "https://hackerone.com/global-payments",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "Active Networks",
-      "Analytics & Customer Engagement (ACE)",
-      "Chargeback Help",
-      "Comercia Global Payments ",
-      "ECSI",
-      "EVO Payments, Inc. ",
-      "Ezidebit",
-      "GP AUNZ",
-      "GP Integrated",
-      "GP Integrated - PayGateway",
-      "GP eCom",
-      "GPE",
-      "Global Payments Integrated",
-      "Globalpayments.com",
-      "Greater Giving",
-      "Heartland Developer Portal",
-      "Heartland Payment Systems",
-      "Heartland Restaurant / Retail / Human Capital Management (Get Hired)",
-      "Merchant Portal",
-      "MerchantWare",
-      "Micropayments",
-      "MineralTree",
-      "My School Bucks",
-      "Nextep",
-      "OpenEdge",
-      "Sentral",
-      "Storman",
-      "TSYS ",
-      "TouchNet",
-      "Vendara - Gateway",
-      "Vendara - Jarvis",
-      "Vendara - Merchant Portal",
-      "bleepplc.co.uk",
-      "developer.globalpay.com",
-      "eWay",
-      "http://cloud-sbox.storman.com",
-      "http://heartland.us",
-      "http://portal-staging.storman.com",
-      "pcamerica.com",
-      "test.revaluemycard.com",
-      "testadmin.revaluemycard.com",
-      "testmobile.revaluemycard.com",
-      "testprovider.revaluemycard.com"
-    ],
-    "outofscope_domains": [
-      "Heartland Payroll",
-      "Leaked Credentials",
-      "Xenial (Xenial)",
-      "Zego",
-      "remotesupport.heartland.us"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "BlackRock",
@@ -65691,6 +65631,99 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Skoda Auto Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
+      "cz.skodaauto.myskoda"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-16"
+  },
+  {
+    "name": "Worldpay",
+    "program_url": "https://hackerone.com/worldpay",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "docs.worldpay.com",
+      "www.accessmyiq.com",
+      "www.virtualterminal.com"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Global Payments",
+    "program_url": "https://hackerone.com/global-payments",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "Active Networks",
+      "Analytics & Customer Engagement (ACE)",
+      "Chargeback Help",
+      "Comercia Global Payments ",
+      "ECSI",
+      "EVO Payments, Inc. ",
+      "Ezidebit",
+      "GP AUNZ",
+      "GP Integrated",
+      "GP Integrated - PayGateway",
+      "GP eCom",
+      "GPE",
+      "Global Payments Integrated",
+      "Globalpayments.com",
+      "Greater Giving",
+      "Heartland Developer Portal",
+      "Heartland Payment Systems",
+      "Heartland Restaurant / Retail / Human Capital Management (Get Hired)",
+      "Merchant Portal",
+      "MerchantWare",
+      "Micropayments",
+      "MineralTree",
+      "My School Bucks",
+      "Nextep",
+      "OpenEdge",
+      "Sentral",
+      "Storman",
+      "TSYS ",
+      "TouchNet",
+      "Vendara - Gateway",
+      "Vendara - Jarvis",
+      "Vendara - Merchant Portal",
+      "bleepplc.co.uk",
+      "developer.globalpay.com",
+      "eWay",
+      "http://cloud-sbox.storman.com",
+      "http://heartland.us",
+      "http://portal-staging.storman.com",
+      "pcamerica.com",
+      "test.revaluemycard.com",
+      "testadmin.revaluemycard.com",
+      "testmobile.revaluemycard.com",
+      "testprovider.revaluemycard.com"
+    ],
+    "outofscope_domains": [
+      "Heartland Payroll",
+      "Leaked Credentials",
+      "Xenial (Xenial)",
+      "Zego",
+      "remotesupport.heartland.us"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "Lansweeper Bug Bounty Program",
     "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65716,40 +65749,6 @@
       " lsrunase2.0 and lsencrypt2.0 ",
       "careers.lansweeper.com",
       "www.lansweeper.com/forum"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Ninja Kiwi Games Bug Bounty program",
-    "program_url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€4125",
-    "inscope_domains": [
-      "analytics.ninjakiwi.com",
-      "api.ninjakiwi.com",
-      "guts.ninjakiwi.com",
-      "*.ninjakiwi.me",
-      "*.nkstatic.com",
-      "battles.tv",
-      "data.ninjakiwi.com",
-      "ninja.kiwi",
-      "ninjakiwi.com",
-      "alerts.ninjakiwi.com",
-      "boomer2.ninjakiwi.com",
-      "ct.ninjakiwi.com",
-      "mynk-dash.ninjakiwi.com",
-      "mynk.ninjakiwi.com",
-      "*.souparea.com"
-    ],
-    "outofscope_domains": [
-      "rancher.ninjakiwi.com",
-      "rancher.ninjakiwi.me",
-      "store.ninjakiwi.com",
-      "support.ninjakiwi.com",
-      "icarusadmin.ninjakiwi.com"
     ],
     "issues_reported": [],
     "scamhit": "",

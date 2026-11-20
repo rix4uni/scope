@@ -882,7 +882,6 @@ static.tenable.com
 suggestions.tenable.com
 university.tenable.com
 tenable.com
-sellingpilot.newegg.com
 *.fastly.net
 community.fastly.com
 connect.fastly.com
@@ -1090,7 +1089,6 @@ uat1.acqcenter.com
 uat2.acqcenter.com
 tnorecon.net
 swalesaerospace.com
-remotesupport.heartland.us
 signin.costco.com
 events.on-running.com
 events.on.com
