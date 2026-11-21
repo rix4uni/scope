@@ -5596,52 +5596,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Water-Link",
-    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "desktop.water-link.be",
-      "pit.water-link.be",
-      "*.aww.be",
-      "*.water-link.be",
-      "indussiibis.water-link.be",
-      "water-link-jaarverslag.be",
-      "*.mijnwater-link.be",
-      "aquawardsspatial.water-link.be",
-      "aquawardsoperate.water-link.be",
-      "waterkracht-levering.be",
-      "induss.eu",
-      "rio-link.be",
-      "water-kracht-levering.eu",
-      "adelta.be",
-      "waterkracht-levering.eu",
-      "aww.eu",
-      "waterlink.be",
-      "water-kracht-levering.be",
-      "waterstoringen.be"
-    ],
-    "outofscope_domains": [
-      "waterwise.be",
-      "peppol-a.water-link.be",
-      "aquawise.be",
-      "oxum.be",
-      "peppol-t.water-link.be",
-      "storingvideo-t.water-link.be",
-      "wl_dev.water-link.be",
-      "wl_acc.water-link.be",
-      "aquawardsoperateacc.water-link.be",
-      "gisacc(*).water-link.be",
-      "secrets.water-link.be",
-      "feedback.water-link.be",
-      "jobs.water-link.be"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-11-12"
-  },
-  {
     "name": "Water-Link VDP",
     "program_url": "https://www.intigriti.com/programs/waterlink/water-linkvdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -7171,12 +7125,13 @@
       "https://marketplace.atlassian.com/apps/1223298/agile-risk-management-for-jira-cloud?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1226195/align-okr-with-roadmap?hosting=cloud&tab=overview",
       "https://marketplace.atlassian.com/apps/1218036/agile-project-forecast-metrics-roadmap-portfolio?hosting=cloud&tab=overview",
-      "https://marketplace.atlassian.com/apps/1218555/easy-pdf-html-word-export-to-custom-documents?hosting=cloud"
+      "https://marketplace.atlassian.com/apps/1218555/easy-pdf-html-word-export-to-custom-documents?hosting=cloud",
+      "https://marketplace.atlassian.com/apps/2394034939/email-attach-automation-exporter-pdf-word-claude-mcp?hosting=cloud&tab=overview"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-21"
   },
   {
     "name": "Bolt Technology OÜ",
@@ -10706,20 +10661,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Okapya",
-    "program_url": "https://bugcrowd.com/engagements/okapya",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$1500",
-    "inscope_domains": [
-      "███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-11-14"
   },
   {
     "name": "Okta",
@@ -63775,24 +63716,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Brave Software",
-    "program_url": "https://hackerone.com/brave",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Brave Browser Desktop",
-      "Brave websites",
-      "com.brave.browser",
-      "com.brave.ios.browser",
-      "https://github.com/brave/*, https://github.com/brave-intl/*"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "PortSwigger Web Security",
     "program_url": "https://hackerone.com/portswigger",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65883,6 +65806,84 @@
       "www.h1.community",
       "www.hackeronestatus.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Water-Link",
+    "program_url": "https://www.intigriti.com/programs/waterlink/water-link/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "desktop.water-link.be",
+      "pit.water-link.be",
+      "*.aww.be",
+      "*.water-link.be",
+      "indussiibis.water-link.be",
+      "water-link-jaarverslag.be",
+      "*.mijnwater-link.be",
+      "aquawardsspatial.water-link.be",
+      "aquawardsoperate.water-link.be",
+      "waterkracht-levering.be",
+      "induss.eu",
+      "rio-link.be",
+      "water-kracht-levering.eu",
+      "adelta.be",
+      "waterkracht-levering.eu",
+      "aww.eu",
+      "waterlink.be",
+      "water-kracht-levering.be",
+      "waterstoringen.be"
+    ],
+    "outofscope_domains": [
+      "waterwise.be",
+      "peppol-a.water-link.be",
+      "aquawise.be",
+      "oxum.be",
+      "peppol-t.water-link.be",
+      "storingvideo-t.water-link.be",
+      "wl_dev.water-link.be",
+      "wl_acc.water-link.be",
+      "aquawardsoperateacc.water-link.be",
+      "gisacc(*).water-link.be",
+      "secrets.water-link.be",
+      "feedback.water-link.be",
+      "jobs.water-link.be"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-12"
+  },
+  {
+    "name": "Okapya",
+    "program_url": "https://bugcrowd.com/engagements/okapya",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$1500",
+    "inscope_domains": [
+      "███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-14"
+  },
+  {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"

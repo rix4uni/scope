@@ -3715,8 +3715,6 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
-developer.posti.com
-posti.fi
 pen-app.entrili.com
 exams.ripe.net
 labs.ripe.net
