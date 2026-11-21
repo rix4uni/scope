@@ -1194,9 +1194,6 @@ sks-*.exo.io
 *.uzleuven.*
 *.vtm.be
 *.vtmgo.be
-*.aww.be
-*.water-link.be
-*.mijnwater-link.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
