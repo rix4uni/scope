@@ -184,6 +184,13 @@ merchant-mobile-bff.doordash.com
 merchant-portal.doordash.com
 track.doordash.com
 unified-gateway.doordash.com
+*.olaplex-dev.com
+*.olaplex-test.com
+*.olaplex.co.nz
+*.olaplex.com
+*.olaplex.de
+*.olaplex.es
+*.olaplexusers.com
 7671800.bitstamp.net
 7671800.team.bitstamp.net
 16928ca3f53f40a48a751be40fa24e4c.bitstamp.net

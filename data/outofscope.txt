@@ -213,6 +213,13 @@ gogo*.com
 *.dashapi.com
 *.doorcrawl.com
 *.order.online
+*.olaplex-dev.com
+*.olaplex-test.com
+*.olaplex.co.nz
+*.olaplex.com
+*.olaplex.de
+*.olaplex.es
+*.olaplexusers.com
 *.account.docusign.com
 *.partners.wavelo.com
 *.tucows.com
@@ -667,7 +674,6 @@ e.g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.zoofy.nl
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -3670,15 +3676,6 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
-dev.kinepolis.com
-helpdesk.landmarkcinemas.com
-jobs.kinepolis.com
-l.kinepolis.com
-openx.kinepolis.com
-shop.kinepolis.be
-shop.kinepolis.es
-shop.kinepolis.fr
-shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
