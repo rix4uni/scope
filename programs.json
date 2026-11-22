@@ -7597,13 +7597,12 @@
       "https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=datacenter&tab=overview",
       "https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence/version-history",
-      "https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=cloud",
-      "https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=datacenter&tab=overview"
+      "https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=cloud"
     ],
     "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-22"
   },
   {
     "name": "codefortynine",
