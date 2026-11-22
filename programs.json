@@ -8092,27 +8092,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Elementor: Bug Bounty Program",
-    "program_url": "https://bugcrowd.com/engagements/elementor",
-    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
-    "platform": "Bugcrowd",
-    "reward": "$4000",
-    "inscope_domains": [
-      "https://my.elementor.com/",
-      "https://go.elementor.com/",
-      "https://translate.elementor.com/",
-      "https://developers.elementor.com/",
-      "https://library.elementor.com/",
-      "https://elementor.careers",
-      "http://activitylog.io/",
-      "https://send2.co/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Elements",
     "program_url": "https://bugcrowd.com/engagements/elements",
     "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
@@ -10473,6 +10452,35 @@
       "https://octopus.com/downloads"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Octopus",
+    "program_url": "https://bugcrowd.com/engagements/octopus-og",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$6000",
+    "inscope_domains": [
+      "*.octopus.com",
+      "https://github.com/OctopusDeploy",
+      "https://octopus.com"
+    ],
+    "outofscope_domains": [
+      " partners.octopus.com",
+      "*.octopus.app",
+      "artifactorysample.octopus.com",
+      "bamboosample.octopus.com",
+      "jenkinssample.octopus.com",
+      "teamcitysample.octopus.com",
+      "nexussample.octopus.com",
+      "myget.octopus.com",
+      "trust.octopus.com",
+      "i.octopus.com",
+      "ir.octopus.com",
+      "shop.octopus.com"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -65664,6 +65672,27 @@
       "www.h1.community",
       "www.hackeronestatus.com"
     ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Elementor: Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/elementor",
+    "logo": "https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png",
+    "platform": "Bugcrowd",
+    "reward": "$4000",
+    "inscope_domains": [
+      "https://my.elementor.com/",
+      "https://go.elementor.com/",
+      "https://translate.elementor.com/",
+      "https://developers.elementor.com/",
+      "https://library.elementor.com/",
+      "https://elementor.careers",
+      "http://activitylog.io/",
+      "https://send2.co/"
+    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
