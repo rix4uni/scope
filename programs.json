@@ -2200,20 +2200,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Challenge 1126",
-    "program_url": "https://www.intigriti.com/programs/intigriti/challenge1126/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "https://challenge-1126.challenges.intigriti.io/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-11-17"
-  },
-  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3575,37 +3561,6 @@
       "*.prijsmepper.nl"
     ],
     "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Lansweeper Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "app.lansweeper.com",
-      "fb.lansweeper.com",
-      "edge.lansweeper.com",
-      "api.lansweeper.com",
-      "backoffice.lansweeper.com",
-      "app.lansweeper.com/trial",
-      "autoupdateapi.lansweeper.com",
-      "docs.lansweeper.com",
-      "login.lansweeper.com",
-      "www.lansweeper.com",
-      "*.lansweeper.com"
-    ],
-    "outofscope_domains": [
-      "Lansweeper Classic",
-      "Lansweeper Discovery",
-      "https://lsagentrelay.lansweeper.com/",
-      " lsrunase2.0 and lsencrypt2.0 ",
-      "careers.lansweeper.com",
-      "www.lansweeper.com/forum"
-    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -65818,6 +65773,51 @@
       "support.hackerone.com",
       "www.h1.community",
       "www.hackeronestatus.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Challenge 1126",
+    "program_url": "https://www.intigriti.com/programs/intigriti/challenge1126/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "https://challenge-1126.challenges.intigriti.io/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-17"
+  },
+  {
+    "name": "Lansweeper Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "app.lansweeper.com",
+      "fb.lansweeper.com",
+      "edge.lansweeper.com",
+      "api.lansweeper.com",
+      "backoffice.lansweeper.com",
+      "app.lansweeper.com/trial",
+      "autoupdateapi.lansweeper.com",
+      "docs.lansweeper.com",
+      "login.lansweeper.com",
+      "www.lansweeper.com",
+      "*.lansweeper.com"
+    ],
+    "outofscope_domains": [
+      "Lansweeper Classic",
+      "Lansweeper Discovery",
+      "https://lsagentrelay.lansweeper.com/",
+      " lsrunase2.0 and lsencrypt2.0 ",
+      "careers.lansweeper.com",
+      "www.lansweeper.com/forum"
     ],
     "issues_reported": [],
     "scamhit": "",

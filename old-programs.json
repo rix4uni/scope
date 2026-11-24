@@ -3068,6 +3068,44 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Here Technologies",
+    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "HERE WeGo iOS",
+      "HERE WeGo Android",
+      "registry.service.api.platform.here.com",
+      "*.data.api.platform.here.com",
+      "*.metrics.platform.here.com",
+      "*.platform.here.com",
+      "search.hereapi.com",
+      "transit.hereapi.com",
+      "vector.hereapi.com",
+      "mobilitygraph.hereapi.com",
+      "*.router.hereapi.com",
+      "*.subp-router.hereapi.com",
+      "*.hereapi.com",
+      "account.api.here.com",
+      "account.here.com",
+      "listing.here.com",
+      "mapcreator.here.com",
+      "*.scbe.api.here.com",
+      "*.here.com",
+      "xyz.api.here.com",
+      "api.naksha.here.com",
+      "interactive.data.api.platform.here.com",
+      "Leaked/Compromised Employee Credentials",
+      "Leaked Service Credentials",
+      "All other related services owned by HERE"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-24"
+  },
+  {
     "name": "Het Laatste Nieuws",
     "program_url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -4713,21 +4751,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Skoda Auto Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
-      "cz.skodaauto.myskoda"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-16"
   },
   {
     "name": "Social Deal",
@@ -16491,7 +16514,6 @@
       "*.nymbrands.{com,co.uk,uk,}",
       "*.nymhair.co.uk,.com,.uk",
       "*.nymhair.{com,co.uk,uk,}",
-      "*.opx.tc",
       "*.osiatlowes.com",
       "*.pattex.*",
       "*.pattex.com.cn",
@@ -16639,11 +16661,12 @@
       "*.olaplex.com",
       "*.olaplex.de",
       "*.olaplex.es",
-      "*.olaplexusers.com"
+      "*.olaplexusers.com",
+      "*.opx.tc"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-21"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "Robinhood Markets",
@@ -22432,6 +22455,7 @@
       "sipas-ca-west.ccid.neustar.biz",
       "sipas-prod-br.ccid.neustar.biz",
       "sipvs-ca.ccid.neustar.biz",
+      "smim.sontiq.com",
       "smtp-test.truoptik.com",
       "solutions.transunion.co.uk",
       "sompoh-crivoapi.crivo.com.br",
@@ -22462,7 +22486,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-19"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "WellHive",
@@ -23149,6 +23173,7 @@
       "https://www.myvisacardportal.com/enbd/en_ae/landing/",
       "https://www.visa.com.az/az_az/account/registration",
       "https://www.visa.com.ua/",
+      "lac-visa-payments-day.visa.com",
       "my.visa.fr",
       "myanmar.visa.com",
       "myvu.visauniversity.com",
@@ -23254,7 +23279,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-20"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "Brightspeed",
@@ -31753,6 +31778,7 @@
       "Valid Disney Retiree Credential",
       "abcspotdepot.com",
       "com.espn.score_center",
+      "debut.disney.com",
       "disneyauditions.com",
       "disneyland.disney.go.com",
       "disneyplus.link",
@@ -31784,7 +31810,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "Alohi",
@@ -45404,6 +45430,7 @@
       "dealers-staging.harvestprofit.com",
       "dealers.harvestprofit.com",
       "dealers.waratah.net",
+      "dealertools.deere.com",
       "debinst.kleemann.info",
       "deere.africa",
       "deere.asia",
@@ -45800,6 +45827,7 @@
       "jdpsproductdatawsqualtcv.tal.deere.com",
       "jdpsproductdatawstc.deere.com",
       "jdquote2.deere.com",
+      "jdsapqhr.deere.com",
       "jdscms.deere.com",
       "jdset.deere.com",
       "jdsn-cart-qual.deere.com",
@@ -46019,6 +46047,7 @@
       "msoid.monosemusa.com",
       "mssql.wirtgenankara.com.tr",
       "mstage.tal.deere.com",
+      "mtg2doc-support-tool.deere.com",
       "mtx-dev.wirtgen-group.com",
       "mtx01a.wirtgen-group.com",
       "mtx01b.wirtgen-group.com",
@@ -47064,7 +47093,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-20"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "Trendyol",
@@ -59993,6 +60022,7 @@
       "*.boavistaservicos.com.br",
       "*.bvsnet.com.br",
       "*.certificadoboavista.com.br",
+      "*.creditapps.com.au",
       "*.datacredito.com",
       "*.datacredito.com.do",
       "*.datacredito.info",
@@ -60276,7 +60306,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-03"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "ForeScout Technologies",
@@ -63681,6 +63711,24 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "Brave Browser Desktop",
+      "Brave websites",
+      "com.brave.browser",
+      "com.brave.ios.browser",
+      "https://github.com/brave/*, https://github.com/brave-intl/*"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
     "name": "PortSwigger Web Security",
     "program_url": "https://hackerone.com/portswigger",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65776,6 +65824,21 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Skoda Auto Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
+      "cz.skodaauto.myskoda"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-16"
+  },
+  {
     "name": "Klarna",
     "program_url": "https://hackerone.com/klarna",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -65930,24 +65993,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-11-14"
-  },
-  {
-    "name": "Brave Software",
-    "program_url": "https://hackerone.com/brave",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "Brave Browser Desktop",
-      "Brave websites",
-      "com.brave.browser",
-      "com.brave.ios.browser",
-      "https://github.com/brave/*, https://github.com/brave-intl/*"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "Worldpay",
@@ -66931,42 +66976,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-15"
-  },
-  {
-    "name": "Here Technologies",
-    "program_url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "HERE WeGo iOS",
-      "HERE WeGo Android",
-      "registry.service.api.platform.here.com",
-      "*.data.api.platform.here.com",
-      "*.metrics.platform.here.com",
-      "*.platform.here.com",
-      "search.hereapi.com",
-      "transit.hereapi.com",
-      "vector.hereapi.com",
-      "mobilitygraph.hereapi.com",
-      "*.router.hereapi.com",
-      "*.subp-router.hereapi.com",
-      "*.hereapi.com",
-      "account.api.here.com",
-      "account.here.com",
-      "listing.here.com",
-      "mapcreator.here.com",
-      "xyz.api.here.com",
-      "*.scbe.api.here.com",
-      "*.here.com",
-      "Leaked/Compromised Employee Credentials",
-      "Leaked Service Credentials",
-      "All other related services owned by HERE"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-09"
   },
   {
     "name": "Sqills",
