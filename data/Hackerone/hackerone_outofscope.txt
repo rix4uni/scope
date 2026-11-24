@@ -58,6 +58,9 @@ familiainstitucional.com
 familiainstitucional.com.bo
 familiainstitucional.com.do
 familiainstitucional.com.ec
+tena.com.my
+tena.com.sg
+tena.ph
 *.cdssandbox.xyz
 ai-answers.alpha.canada.ca
 ai-answers.cdssandbox.xyz
@@ -419,9 +422,6 @@ advisoryworld.com
 *.cyral.com
 *.varonis-preprod.com
 issue-management.iontrading.com
-*.cadastro.uat.unico.app
-devcenter.unico.io
-uconf.uat.unico.app
 docs.wallet.tg
 toncenter.walletbot.me
 wallet.helpscoutdocs.com
@@ -1271,8 +1271,6 @@ sr-staging-1.com
 *.chealth.io
 *.currenthealth.com
 *.snap40.com
-oasisprotocol.org
-*.oasisprotocol.org
 api.lemlist.com
 api.taplio.com
 api.tweethunter.io
@@ -1580,6 +1578,7 @@ clec.att.com
 prod-taxexempt.att.com
 rcloud.social
 thedirectvmarketingzone.com
+*solidus.io
 *.citymapper.com
 *.drivewithvia.com
 citymapper.com

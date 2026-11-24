@@ -322,7 +322,6 @@ app*.hubspot.com
 *.verilyme.com
 *.varonis.com
 *.varonis.io
-*.uat.unico.app
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -449,6 +448,7 @@ test*.redoxengine.com
 *.newegg.com
 *.krisp.ai
 *.whatnot.com
+*.atlantichealthvirtualcare.org
 *.csconnect.org
 *.hhc247.org
 *.hmh247.org
@@ -458,6 +458,7 @@ test*.redoxengine.com
 *.novanthealthvirtualprimarycare.org
 *.pennmedicine.connect-visit.com
 *.primarycareondemand.mayoclinic.org
+*.uvahealthpcod.org
 *.khealth.com
 *.bingoblitz.com
 *.boardkingsgame.com
@@ -1059,16 +1060,6 @@ sks-*.exo.io
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1175,6 +1166,8 @@ sks-*.exo.io
 *.kwsdose.be
 *.playuzleuven.be
 *.uzleuven.*
+*.topperpay.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.watsons.com.hk

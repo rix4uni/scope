@@ -775,9 +775,7 @@ downloads.varonis.com
 licensemgmt.varonis.com
 my.varonis.com
 support.varonis.com
-*.uat.unico.app
 sdk-h1.unico.io
-accountshomolog.acesso.io
 api.humantoken.unico.app
 backend-sdk.prod.private.unico.run
 backend-sdk.uat.private.unico.run
@@ -785,11 +783,6 @@ cadastro.unico.app
 dashboard.unico.app
 developer.unico.io
 humantoken.unico.app
-idcash-uat.unico.io
-identityhomolog.acesso.io
-idpay-uat.unico.io
-issuer.idpay-uat.unico.io
-secure.unico.io
 unico.io
 t.me
 io.walt.app
@@ -1528,6 +1521,7 @@ api.whatnot.com
 auction-service.whatnot.com
 live-service.whatnot.com
 whatnot.com
+*.atlantichealthvirtualcare.org
 *.csconnect.org
 *.hhc247.org
 *.hmh247.org
@@ -1537,8 +1531,11 @@ whatnot.com
 *.novanthealthvirtualprimarycare.org
 *.pennmedicine.connect-visit.com
 *.primarycareondemand.mayoclinic.org
+*.uvahealthpcod.org
 *.khealth.com
 org.hartfordhealthcare.hhc
+patientgpt.pennmedicine.k-test.connect-visit.com
+pennmedicine.k-test.connect-visit.com
 api.smtp2go.com
 apidoc.smtp2go.com
 app.smtp2go.com
@@ -1849,12 +1846,6 @@ dl.boxcloud.com
 m.box.com
 notes.services.box.com
 upload.box.com
-emerald.oasis.dev
-grpc.oasis.dev
-rosetta.oasis.dev
-sapphire.oasis.io
-status.oasis.io
-wallet.oasis.io
 *.a.exodus.io
 *-s.a.exodus.io
 bitcoin-s.a.exodus.io
