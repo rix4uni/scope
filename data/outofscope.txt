@@ -216,6 +216,7 @@ gogo*.com
 *.olaplex.de
 *.olaplex.es
 *.olaplexusers.com
+*.opx.tc
 *.account.docusign.com
 *.partners.wavelo.com
 *.tucows.com

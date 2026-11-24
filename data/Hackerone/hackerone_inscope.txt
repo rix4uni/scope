@@ -972,6 +972,7 @@ currencycloud.com
 myvisacardportal.com
 visa.com.az
 visa.com.ua
+lac-visa-payments-day.visa.com
 my.visa.fr
 myanmar.visa.com
 myvu.visauniversity.com

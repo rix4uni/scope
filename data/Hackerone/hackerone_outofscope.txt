@@ -191,6 +191,7 @@ unified-gateway.doordash.com
 *.olaplex.de
 *.olaplex.es
 *.olaplexusers.com
+*.opx.tc
 7671800.bitstamp.net
 7671800.team.bitstamp.net
 16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
