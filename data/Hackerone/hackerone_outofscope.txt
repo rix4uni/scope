@@ -364,6 +364,8 @@ careers.msci.com
 *.hotmart.com
 *.teachable.com
 *ctf*.buildstaging.com
+hosted.mender.io
+staging.hosted.mender.io
 docs.stripe.com
 okta.whoop.com
 connect.com
@@ -2363,6 +2365,7 @@ secure.booking.com
 ugcupload.booking.com
 jobs.booking.com
 medialibrary.booking.com
+merchandise.booking.com
 partnerfeedback.booking.com
 procurement.booking.com
 recruitmentsurveys.booking.com

@@ -1,1 +1,2 @@
-https://github.com/brave/*,
+https://github.com/mendersoftware/mender
+https://github.com/mendersoftware/mender-server

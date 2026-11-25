@@ -249,6 +249,8 @@ weblog.coupang.com
 wish-web.coupang.com
 coupangeats.com
 coupangplay.com
+docs.cfengine.com
+staging.hosted.mender.io
 api.prod.whoop.com
 app.whoop.com
 join.whoop.com
