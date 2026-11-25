@@ -3,10 +3,6 @@
 support.1password.com
 *.aikido.dev
 actie.ad.nl
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 *.axelspringer.com
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
@@ -184,6 +180,8 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
+developer.posti.com
+posti.fi
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be

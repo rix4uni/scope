@@ -176,6 +176,7 @@ prod-*.nu.com.co
 *.nubank.com.br
 *.nu.com.mx
 *.nu.com.co
+*nubank.world
 *.nuinvest.com.br
 *.octopus.com
 *.openai.org
@@ -965,9 +966,6 @@ devdegree*.shopifycloud.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
 *.ad.nl
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.attentia.be
 *.asadcdn.com
 *.hey.bild.de

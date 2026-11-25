@@ -635,10 +635,6 @@ e.g.*.slackhq.com
 *.rubyonrails.org
 *.agilebits.com
 *.aikido.dev
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com

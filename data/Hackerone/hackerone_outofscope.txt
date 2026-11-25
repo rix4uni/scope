@@ -590,9 +590,6 @@ analytics.boozt.com
 bmp.boozt.com
 kronor.io
 *.vercel.app
-cloud.e.comerica.com
-smallbusiness.comerica.com
-smallbusinessuat.comerica.com
 bus.*.indrive.com
 coaching.supernovas.indrive.com
 servicos.indrive.com

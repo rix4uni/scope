@@ -685,6 +685,7 @@ nubank.com.mx
 *.nu.com.mx
 nubank.com.co
 *.nu.com.co
+*nubank.world
 nuinvest.com.br
 *.nuinvest.com.br
 octopus.com
