@@ -783,7 +783,6 @@ cadastro.unico.app
 dashboard.unico.app
 developer.unico.io
 humantoken.unico.app
-unico.io
 t.me
 io.walt.app
 p2p.walletbot.me

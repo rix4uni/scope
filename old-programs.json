@@ -1151,7 +1151,7 @@
     "program_url": "https://yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd",
     "logo": "https://yeswehack.com/assets/images/favicon.ico",
     "platform": "YesWeHack",
-    "reward": "$3000",
+    "reward": "$2000",
     "inscope_domains": [
       "*.cyber.gouv.qc.ca",
       "https://auth-ywh.it.authentification.si.gouv.qc.ca/"
@@ -1163,7 +1163,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "Santé Publique France Bug Bounty Program",
@@ -3405,81 +3405,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Kinepolis Group",
-    "program_url": "https://www.intigriti.com/programs/kinepolis/website/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "*.klubcinema.fr",
-      "*.megatix.be  ",
-      "booking.mjrtheatres.com",
-      "extras.landmarkcinemas.com",
-      "identityserver.landmarkcinemas.com",
-      "kinepolis.megatix.be",
-      "luxfilmfestfilms.megatix.be",
-      "luxfilmfestproducts.megatix.be",
-      "luxfilmfesttickets.megatix.be",
-      "movieapi.kinepolis.megatix.be",
-      "tickets.kinepolis.be",
-      "tickets.kinepolis.ch",
-      "tickets.kinepolis.es",
-      "tickets.kinepolis.fr",
-      "tickets.kinepolis.lu",
-      "tickets.kinepolis.nl",
-      "userprofile-ui.landmarkcinemas.com",
-      "www.kinepolis.be ",
-      "www.kinepolis.ch ",
-      "www.kinepolis.com ",
-      "www.kinepolis.es ",
-      "www.kinepolis.fr ",
-      "www.kinepolis.lu ",
-      "www.kinepolis.nl ",
-      "www.landmarkcinemas.com",
-      "www.mjrtheatres.com",
-      "business.kinepolis.be",
-      "business.kinepolis.lu",
-      "business.kinepolis.nl",
-      "com.inthepocket.kinepolis",
-      "extras-acc.landmarkcinemas.com",
-      "https://movieclub-int.kinepolis.com",
-      "https://movienow-int.kinepolis.be/admin",
-      "https://shop-acc.kinepolis.be/",
-      "identityserver-acc.landmarkcinemas.com",
-      "kinepolis-studio.be",
-      "kinepolis/id368204284",
-      "nz.co.vista.android.movie.mjrtheatres",
-      "stage.landmarkcinemas.com",
-      "userprofile-acc.landmarkcinemas.com",
-      "www.kinepolis.biz",
-      "*.kinepolis.be",
-      "*.kinepolis.ch",
-      "*.kinepolis.com",
-      "*.kinepolis.fr",
-      "*.kinepolis.lu",
-      "*.kinepolis.nl",
-      "*.landmarkcinemas.com",
-      "*.mjrtheatres.com",
-      "522089287",
-      "egaming.kinepolis.es"
-    ],
-    "outofscope_domains": [
-      "*.cineramabios.nl",
-      "dev.kinepolis.com",
-      "helpdesk.landmarkcinemas.com",
-      "jobs.kinepolis.com",
-      "l.kinepolis.com",
-      "openx.kinepolis.com",
-      "shop.kinepolis.be ",
-      "shop.kinepolis.es",
-      "shop.kinepolis.fr ",
-      "shop.kinepolis.lu"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
     "name": "Kiwa Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -3561,6 +3486,37 @@
       "*.prijsmepper.nl"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Lansweeper Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€2000",
+    "inscope_domains": [
+      "app.lansweeper.com",
+      "fb.lansweeper.com",
+      "edge.lansweeper.com",
+      "api.lansweeper.com",
+      "backoffice.lansweeper.com",
+      "app.lansweeper.com/trial",
+      "autoupdateapi.lansweeper.com",
+      "docs.lansweeper.com",
+      "login.lansweeper.com",
+      "www.lansweeper.com",
+      "*.lansweeper.com"
+    ],
+    "outofscope_domains": [
+      "Lansweeper Classic",
+      "Lansweeper Discovery",
+      "https://lsagentrelay.lansweeper.com/",
+      " lsrunase2.0 and lsencrypt2.0 ",
+      "careers.lansweeper.com",
+      "www.lansweeper.com/forum"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -4708,6 +4664,21 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Skoda Auto Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
+      "cz.skodaauto.myskoda"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-16"
+  },
+  {
     "name": "Social Deal",
     "program_url": "https://www.intigriti.com/programs/socialdeal/socialdeal/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -5378,6 +5349,69 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Uphold",
+    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€6000",
+    "inscope_domains": [
+      "portal.enterprise.uphold.com",
+      "api.portal.enterprise.uphold.com ",
+      "Uphold: Buy BTC, ETH and 360+",
+      "Uphold: Buy BTC, ETH and 300+",
+      "wallet-sandbox.uphold.com",
+      "api-sandbox.uphold.com",
+      "docs.uphold.com",
+      "api-sandbox.uphold.com/graphql",
+      "app.sandbox.topperpay.com",
+      "api.sandbox.topperpay.com",
+      "graphql.sandbox.topperpay.com/graphql",
+      "docs.topperpay.com",
+      "www.topperpay.com",
+      "*.topperpay.com",
+      "https://api.enterprise.sandbox.uphold.com/widgets",
+      "https://api.enterprise.sandbox.uphold.com/trading",
+      "https://api.enterprise.sandbox.uphold.com/market-pulse",
+      "https://api.enterprise.sandbox.uphold.com/kyc-connector",
+      "https://api.enterprise.sandbox.uphold.com/core",
+      "https://api.enterprise.sandbox.uphold.com/topper",
+      "uatcms.optimuscards.com",
+      "docs.optimuscards.com",
+      "*.optimuscards.com",
+      "www.optimuscards.com",
+      "github.com/uphold/*",
+      "*.uphold.com",
+      "www.uphold.com"
+    ],
+    "outofscope_domains": [
+      "api.uphold.com",
+      "api.uphold.com/graphql",
+      "wallet.uphold.com",
+      "api.topperpay.com",
+      "app.topperpay.com",
+      "graphql.topperpay.com/graphql",
+      "https://api.enterprise.uphold.com/widgets",
+      "https://api.enterprise.uphold.com/trading",
+      "https://api.enterprise.uphold.com/market-pulse",
+      "https://api.enterprise.uphold.com/kyc-connector",
+      "https://api.enterprise.uphold.com/core",
+      "https://api.enterprise.uphold.com/topper",
+      "cms.optimuscards.com",
+      "status.uphold.com",
+      "www.uphodl.com",
+      "*.uphodl.com",
+      "UpHODL",
+      "UpHODL",
+      "support.topperpay.com",
+      "support-staging.topperpay.com",
+      "support.uphold.com",
+      "support-sandbox.uphold.com"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-22"
   },
   {
     "name": "VDP",
@@ -15639,11 +15673,15 @@
       "http://www.familiainstitucional.com",
       "http://www.familiainstitucional.com.bo",
       "http://www.familiainstitucional.com.do",
-      "http://www.familiainstitucional.com.ec"
+      "http://www.familiainstitucional.com.ec",
+      "https://tena.com.my/",
+      "https://tena.com.sg/",
+      "https://tena.ph",
+      "https://tena.ph/"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-16"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada",
@@ -21848,9 +21886,7 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
-      "*.uat.unico.app",
       "[Unico] Liveness Bypass",
-      "accountshomolog.acesso.io",
       "api.humantoken.unico.app",
       "backend-sdk.prod.private.unico.run",
       "backend-sdk.uat.private.unico.run",
@@ -21859,20 +21895,12 @@
       "developer.unico.io",
       "https://sdk-h1.unico.io/createprocess",
       "humantoken.unico.app",
-      "idcash-uat.unico.io",
-      "identityhomolog.acesso.io",
-      "idpay-uat.unico.io",
-      "issuer.idpay-uat.unico.io",
-      "secure.unico.io",
       "unico.io"
     ],
-    "outofscope_domains": [
-      "*.cadastro.uat.unico.app",
-      "uconf.uat.unico.app"
-    ],
+    "outofscope_domains": [],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-11-19"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "Walt.io",
@@ -33625,6 +33653,7 @@
     "platform": "HackerOne",
     "reward": "$$$",
     "inscope_domains": [
+      "*.atlantichealthvirtualcare.org",
       "*.csconnect.org",
       "*.hhc247.org",
       "*.hmh247.org",
@@ -33634,10 +33663,13 @@
       "*.novanthealthvirtualprimarycare.org",
       "*.pennmedicine.connect-visit.com",
       "*.primarycareondemand.mayoclinic.org",
+      "*.uvahealthpcod.org",
       "6741442288",
       "https://*.khealth.com",
       "https://apps.apple.com/us/app/hhc-24-7/id6741442288",
-      "org.hartfordhealthcare.hhc247"
+      "org.hartfordhealthcare.hhc247",
+      "patientgpt.pennmedicine.k-test.connect-visit.com",
+      "pennmedicine.k-test.connect-visit.com"
     ],
     "outofscope_domains": [
       "1180400838",
@@ -33648,7 +33680,7 @@
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-24"
   },
   {
     "name": "SMTP2GO BBP",
@@ -45137,6 +45169,7 @@
       "api-qual-casemanagement-financeconnect.deere.com",
       "api-trade-mgmt.supplymgmt-tariffs-devl-vpn.use1.e15.c01.johndeerecloud.com",
       "api-us-devl-e00.deere.com",
+      "api-us-prod-e00.deere.com",
       "api.agrisync.com",
       "api.contest.deere.com",
       "api.creditapplication-devl-floating.us.e10.c01.johndeerecloud.com",
@@ -45145,6 +45178,7 @@
       "api.jd-exam.com",
       "api.mfg-manufacturing-center-prod-vpn.use1.e11.c01.johndeerecloud.com/",
       "api.sentera.com",
+      "api.tartarus.prod.mesa.brtws.com",
       "apidev.sentera.com",
       "apigateway.channel-dss-r1-anubhuti-devl-vpn.ap.e06.c01.johndeerecloud.com",
       "apigateway.fihre-autonomous-business-devl-floating.use1.e16.c01.johndeerecloud.com",
@@ -58892,34 +58926,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Oasis Protocol Foundation",
-    "program_url": "https://hackerone.com/oasisprotocol",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "$$$",
-    "inscope_domains": [
-      "github.com/oasisprotocol/explorer",
-      "http://emerald.oasis.dev",
-      "http://grpc.oasis.dev",
-      "http://rosetta.oasis.dev/api/mainnet",
-      "http://sapphire.oasis.io",
-      "https://github.com/oasisprotocol/curve25519-voi",
-      "https://github.com/oasisprotocol/deoxysii",
-      "https://github.com/oasisprotocol/deoxysii-rust",
-      "https://github.com/oasisprotocol/oasis-core",
-      "https://github.com/oasisprotocol/oasis-sdk",
-      "https://github.com/oasisprotocol/oasis-wallet-web",
-      "status.oasis.io",
-      "wallet.oasis.io"
-    ],
-    "outofscope_domains": [
-      "Not in Scope"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-11-09"
-  },
-  {
     "name": "lemlist",
     "program_url": "https://hackerone.com/lemlist",
     "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
@@ -60482,6 +60488,23 @@
       "www.topechelon.com"
     ],
     "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Solidus",
+    "program_url": "https://hackerone.com/solidus",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "https://github.com/solidusio/solidus",
+      "https://github.com/solidusio/solidus_auth_devise"
+    ],
+    "outofscope_domains": [
+      "*solidus.io"
+    ],
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
@@ -65779,6 +65802,109 @@
     "last_updated": "2026-10-08"
   },
   {
+    "name": "Kinepolis Group",
+    "program_url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€5000",
+    "inscope_domains": [
+      "*.klubcinema.fr",
+      "*.megatix.be  ",
+      "booking.mjrtheatres.com",
+      "extras.landmarkcinemas.com",
+      "identityserver.landmarkcinemas.com",
+      "kinepolis.megatix.be",
+      "luxfilmfestfilms.megatix.be",
+      "luxfilmfestproducts.megatix.be",
+      "luxfilmfesttickets.megatix.be",
+      "movieapi.kinepolis.megatix.be",
+      "tickets.kinepolis.be",
+      "tickets.kinepolis.ch",
+      "tickets.kinepolis.es",
+      "tickets.kinepolis.fr",
+      "tickets.kinepolis.lu",
+      "tickets.kinepolis.nl",
+      "userprofile-ui.landmarkcinemas.com",
+      "www.kinepolis.be ",
+      "www.kinepolis.ch ",
+      "www.kinepolis.com ",
+      "www.kinepolis.es ",
+      "www.kinepolis.fr ",
+      "www.kinepolis.lu ",
+      "www.kinepolis.nl ",
+      "www.landmarkcinemas.com",
+      "www.mjrtheatres.com",
+      "business.kinepolis.be",
+      "business.kinepolis.lu",
+      "business.kinepolis.nl",
+      "com.inthepocket.kinepolis",
+      "extras-acc.landmarkcinemas.com",
+      "https://movieclub-int.kinepolis.com",
+      "https://movienow-int.kinepolis.be/admin",
+      "https://shop-acc.kinepolis.be/",
+      "identityserver-acc.landmarkcinemas.com",
+      "kinepolis-studio.be",
+      "kinepolis/id368204284",
+      "nz.co.vista.android.movie.mjrtheatres",
+      "stage.landmarkcinemas.com",
+      "userprofile-acc.landmarkcinemas.com",
+      "www.kinepolis.biz",
+      "*.kinepolis.be",
+      "*.kinepolis.ch",
+      "*.kinepolis.com",
+      "*.kinepolis.fr",
+      "*.kinepolis.lu",
+      "*.kinepolis.nl",
+      "*.landmarkcinemas.com",
+      "*.mjrtheatres.com",
+      "522089287",
+      "egaming.kinepolis.es"
+    ],
+    "outofscope_domains": [
+      "*.cineramabios.nl",
+      "dev.kinepolis.com",
+      "helpdesk.landmarkcinemas.com",
+      "jobs.kinepolis.com",
+      "l.kinepolis.com",
+      "openx.kinepolis.com",
+      "shop.kinepolis.be ",
+      "shop.kinepolis.es",
+      "shop.kinepolis.fr ",
+      "shop.kinepolis.lu"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Oasis Protocol Foundation",
+    "program_url": "https://hackerone.com/oasisprotocol",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "$$$",
+    "inscope_domains": [
+      "github.com/oasisprotocol/explorer",
+      "http://emerald.oasis.dev",
+      "http://grpc.oasis.dev",
+      "http://rosetta.oasis.dev/api/mainnet",
+      "http://sapphire.oasis.io",
+      "https://github.com/oasisprotocol/curve25519-voi",
+      "https://github.com/oasisprotocol/deoxysii",
+      "https://github.com/oasisprotocol/deoxysii-rust",
+      "https://github.com/oasisprotocol/oasis-core",
+      "https://github.com/oasisprotocol/oasis-sdk",
+      "https://github.com/oasisprotocol/oasis-wallet-web",
+      "status.oasis.io",
+      "wallet.oasis.io"
+    ],
+    "outofscope_domains": [
+      "Not in Scope"
+    ],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-09"
+  },
+  {
     "name": "Challenge 1126",
     "program_url": "https://www.intigriti.com/programs/intigriti/challenge1126/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65791,52 +65917,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-11-17"
-  },
-  {
-    "name": "Lansweeper Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€2000",
-    "inscope_domains": [
-      "app.lansweeper.com",
-      "fb.lansweeper.com",
-      "edge.lansweeper.com",
-      "api.lansweeper.com",
-      "backoffice.lansweeper.com",
-      "app.lansweeper.com/trial",
-      "autoupdateapi.lansweeper.com",
-      "docs.lansweeper.com",
-      "login.lansweeper.com",
-      "www.lansweeper.com",
-      "*.lansweeper.com"
-    ],
-    "outofscope_domains": [
-      "Lansweeper Classic",
-      "Lansweeper Discovery",
-      "https://lsagentrelay.lansweeper.com/",
-      " lsrunase2.0 and lsencrypt2.0 ",
-      "careers.lansweeper.com",
-      "www.lansweeper.com/forum"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
-  },
-  {
-    "name": "Skoda Auto Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€5000",
-    "inscope_domains": [
-      "https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810",
-      "cz.skodaauto.myskoda"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-16"
   },
   {
     "name": "Klarna",
@@ -66165,23 +66245,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-09"
-  },
-  {
-    "name": "Solidus",
-    "program_url": "https://hackerone.com/solidus",
-    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
-    "platform": "HackerOne",
-    "reward": "-",
-    "inscope_domains": [
-      "https://github.com/solidusio/solidus",
-      "https://github.com/solidusio/solidus_auth_devise"
-    ],
-    "outofscope_domains": [
-      "*solidus.io"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-08"
   },
   {
     "name": "MariaDB",
@@ -66812,69 +66875,6 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-11-10"
-  },
-  {
-    "name": "Uphold",
-    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€6000",
-    "inscope_domains": [
-      "portal.enterprise.uphold.com",
-      "api.portal.enterprise.uphold.com ",
-      "Uphold: Buy BTC, ETH and 360+",
-      "Uphold: Buy BTC, ETH and 300+",
-      "wallet-sandbox.uphold.com",
-      "api-sandbox.uphold.com",
-      "docs.uphold.com",
-      "api-sandbox.uphold.com/graphql",
-      "app.sandbox.topperpay.com",
-      "api.sandbox.topperpay.com",
-      "graphql.sandbox.topperpay.com/graphql",
-      "docs.topperpay.com",
-      "www.topperpay.com",
-      "*.topperpay.com",
-      "https://api.enterprise.sandbox.uphold.com/widgets",
-      "https://api.enterprise.sandbox.uphold.com/trading",
-      "https://api.enterprise.sandbox.uphold.com/market-pulse",
-      "https://api.enterprise.sandbox.uphold.com/kyc-connector",
-      "https://api.enterprise.sandbox.uphold.com/core",
-      "https://api.enterprise.sandbox.uphold.com/topper",
-      "uatcms.optimuscards.com",
-      "docs.optimuscards.com",
-      "*.optimuscards.com",
-      "www.optimuscards.com",
-      "github.com/uphold/*",
-      "*.uphold.com",
-      "www.uphold.com"
-    ],
-    "outofscope_domains": [
-      "api.uphold.com",
-      "api.uphold.com/graphql",
-      "wallet.uphold.com",
-      "api.topperpay.com",
-      "app.topperpay.com",
-      "graphql.topperpay.com/graphql",
-      "https://api.enterprise.uphold.com/widgets",
-      "https://api.enterprise.uphold.com/trading",
-      "https://api.enterprise.uphold.com/market-pulse",
-      "https://api.enterprise.uphold.com/kyc-connector",
-      "https://api.enterprise.uphold.com/core",
-      "https://api.enterprise.uphold.com/topper",
-      "cms.optimuscards.com",
-      "status.uphold.com",
-      "www.uphodl.com",
-      "*.uphodl.com",
-      "UpHODL",
-      "UpHODL",
-      "support.topperpay.com",
-      "support-staging.topperpay.com",
-      "support.uphold.com",
-      "support-sandbox.uphold.com"
-    ],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-10-22"
   },
   {
     "name": "Voi Scooters",
