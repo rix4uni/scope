@@ -1000,6 +1000,7 @@ devdegree*.shopifycloud.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1092,8 +1093,6 @@ sks-*.exo.io
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1242,8 +1241,6 @@ storage*.infomaniak.com
 *.post.ch
 *.signin.telenor.se
 *.profile.telenor.se
-*.apis.telenor.se
-*.api-app.telenor.se
 *.mitt.vimla.se
 *.api.vimla.se
 *.foretagsportalen.telenor.se

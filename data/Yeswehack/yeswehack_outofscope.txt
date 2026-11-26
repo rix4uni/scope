@@ -131,6 +131,11 @@ incamail-dev.post.ch
 incamail-test.post.ch
 service.post.ch
 pccweb.api.post.ch
+mediearkivet.telenor.se
+tseflowscape.telenor.se
+merchportal.telenor.se
+villafiber.telenor.se
+careers.telenor.se
 *.play.ownit.se
 *.stream.telenor.se
 *.tv.telenor.se
