@@ -824,12 +824,6 @@ storefront.hypermint.com
 support.moonpay.com
 *.koho.ca
 *.line-of-credit.koho.ca
-bot.cadburygifting.in
-gifts.tatesbakeshop.com
-cadburygifting.in
-lojamondelez.com.br
-lu.fr
-mavieencouleurs.fr
 api-an.capitalone.com
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
