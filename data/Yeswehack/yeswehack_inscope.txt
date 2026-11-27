@@ -8,10 +8,6 @@ directlink.eu-west-2.outscale.com
 atg.se
 api.atg.se
 iam.atg.se
-app.alasco.de
-api.alasco.de
-*.alasco.de
-*.alasco.rocks
 bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com

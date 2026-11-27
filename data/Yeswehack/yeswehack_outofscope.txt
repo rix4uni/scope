@@ -11,14 +11,6 @@ r123.news.atg.se
 r122.news.atg.se
 r121.news.atg.se
 webbshop.atg.se
-explore.alasco.com
-explore.alasco.de
-alasco.de
-alasco.com
-lp.alasco.de
-lp.alasco.com
-support.alasco.de
-support.alasco.com
 webdev.dana.id
 wp.dana.id
 fiat.dana.id

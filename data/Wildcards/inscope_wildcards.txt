@@ -1061,6 +1061,16 @@ sks-*.exo.io
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1085,8 +1095,6 @@ sks-*.exo.io
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1193,8 +1201,6 @@ sks-*.exo.io
 *.pwn.intigriti.rocks
 *.intigriti.me
 *.atg.se
-*.alasco.de
-*.alasco.rocks
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
