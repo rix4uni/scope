@@ -635,6 +635,10 @@ e.g.*.slackhq.com
 *.rubyonrails.org
 *.agilebits.com
 *.aikido.dev
+*.allegro.cz
+*.allegro.pl
+*.allegro.sk
+*.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -666,7 +670,6 @@ e.g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.zoofy.nl
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -3638,15 +3641,6 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
-dev.kinepolis.com
-helpdesk.landmarkcinemas.com
-jobs.kinepolis.com
-l.kinepolis.com
-openx.kinepolis.com
-shop.kinepolis.be
-shop.kinepolis.es
-shop.kinepolis.fr
-shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
@@ -3662,6 +3656,11 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+rancher.ninjakiwi.com
+rancher.ninjakiwi.me
+store.ninjakiwi.com
+support.ninjakiwi.com
+icarusadmin.ninjakiwi.com
 a.simplemdm.com
 personio.de
 personio.slack.com
