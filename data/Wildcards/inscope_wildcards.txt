@@ -966,9 +966,6 @@ devdegree*.shopifycloud.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
 *.ad.nl
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.attentia.be
 *.asadcdn.com
 *.hey.bild.de
@@ -1061,16 +1058,6 @@ sks-*.exo.io
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
